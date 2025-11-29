@@ -23,12 +23,28 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Download source JSON
+      - name: Download source JSON (with debug + fallback)
         env:
-          SRC_URL: ${{ secrets.SOURCE_JSON_URL_CARRINHOS }}
+          SRC_URL: ${{ secrets.SOURCE_JSON_URL }}
+          ALT_SRC_URL: ${{ secrets.SOURCE_JSON_URL }}
         run: |
+          # pick the first non-empty secret (allows either name)
+          if [ -z "${SRC_URL}" ]; then
+            SRC_URL="${ALT_SRC_URL}"
+          fi
+
           echo "Fetching source JSON..."
-          curl -sS "$SRC_URL" -o /tmp/source_carrinhos.json || (echo "Download failed" && exit 1)
+          echo "URL recebida (entre '>' e '<'):"
+          echo ">${SRC_URL}<"
+
+          # quick sanity check: make sure not empty
+          if [ -z "${SRC_URL}" ]; then
+            echo "Erro: variável SRC_URL vazia. Verifique secrets (SOURCE_JSON_URL ou SOURCE_JSON_URL)."
+            exit 1
+          fi
+
+          # try to download with verbose output (helps diagnosticar problemas)
+          curl -v -L "${SRC_URL}" -o /tmp/source_carrinhos.json || (echo "Download failed" && exit 1)
           echo "Downloaded size: $(wc -c < /tmp/source_carrinhos.json) bytes"
 
       - name: Compare and update repo cache
