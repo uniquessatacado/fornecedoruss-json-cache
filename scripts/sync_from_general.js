@@ -1,6 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão final ajustada — preenche cliente_codigo em pedidos quando ausente (fallback = 0)
-   2025-11-29
+   Versão final com criação automática de placeholders para pedidos sem cliente existente
+   2025-11-29 - final
 */
 
 const fs = require('fs');
@@ -205,7 +205,7 @@ async function main() {
   let pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   let produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
-  // normalize dates
+  // normalize dates (DD/MM/YYYY -> ISO) where possible
   normalizeDatesInRows(clientesRows);
   normalizeDatesInRows(pedidosRows);
   normalizeDatesInRows(produtosRows);
@@ -226,7 +226,6 @@ async function main() {
     if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
     if (r.valor_total_produtos !== undefined) r.valor_total_produtos = toNumberOrNull(r.valor_total_produtos);
     if (r.valor_total_pedido !== undefined) r.valor_total_pedido = toNumberOrNull(r.valor_total_pedido);
-    // ensure date fields sanitized
     if (r.data_hora_pedido) r.data_hora_pedido = sanitizeDateValue(r.data_hora_pedido, 'data_hora_pedido');
     if (r.data_hora_confirmacao) r.data_hora_confirmacao = sanitizeDateValue(r.data_hora_confirmacao, 'data_hora_confirmacao');
     return r;
@@ -262,6 +261,7 @@ async function main() {
 
         const chunk = rawChunk.map(row => {
           const copy = { ...row };
+          // sanitize date fields
           for (const k of Object.keys(copy)) {
             const v = copy[k];
             if (v === null || v === undefined) continue;
@@ -298,21 +298,79 @@ async function main() {
     throw e;
   }
 
-  // --- NEW: ensure pedidos have cliente_codigo non-nullable (fallback to 0)
+  // --- Ensure pedidos have cliente_codigo non-null and that cliente exists
+  // normalize pedidos cliente_codigo fallback to string '0' would break FK if not present,
+  // so we will detect all unique codes used in pedidos and create placeholder clients for missing ones.
+
+  const clientesExistingSet = new Set(clientesRows.map(c => (c.codigo === undefined || c.codigo === null) ? '' : String(c.codigo)));
+  const pedidoCodesSet = new Set();
+  for (const p of pedidosRows) {
+    const code = (p.cliente_codigo === undefined || p.cliente_codigo === null) ? '' : String(p.cliente_codigo);
+    pedidoCodesSet.add(code);
+  }
+
+  // collect missing codes (non-empty) — also include empty-string code if present
+  const missing = [];
+  for (const code of pedidoCodesSet) {
+    // treat '' as a real missing token — we will still create placeholder '0' to avoid empty-key issues
+    const check = code === '' ? '0' : code;
+    if (!clientesExistingSet.has(check)) {
+      missing.push(check);
+      // add to set so we don't duplicate
+      clientesExistingSet.add(check);
+    }
+  }
+
+  // If there are missing codes, insert placeholders into import_clientes
+  if (missing.length) {
+    console.log(`→ Criando ${missing.length} placeholders em import_clientes para satisfazer FK dos pedidos.`);
+    const placeholders = missing.map(code => {
+      return {
+        codigo: String(code),
+        cliente_codigo: String(code),
+        nome: 'AUTO-CREATED',
+        criado_em: new Date().toISOString()
+      };
+    });
+
+    // batch upsert placeholders
+    try {
+      const batch = 300;
+      for (let i = 0; i < placeholders.length; i += batch) {
+        const chunk = placeholders.slice(i, i + batch);
+        const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
+        if (error) {
+          console.error("Erro criando placeholders em import_clientes:", error);
+          throw error;
+        }
+        console.log(`Placeholders upserted ${chunk.length} (offset ${i})`);
+      }
+    } catch (e) {
+      console.error("FATAL ao criar placeholders:", e);
+      throw e;
+    }
+  } else {
+    console.log("→ Nenhum placeholder necessário para import_clientes.");
+  }
+
+  // Now ensure pedidosRows cliente_codigo values are non-empty:
   let fallbackCount = 0;
   const fallbackExamples = [];
   pedidosRows = pedidosRows.map((p, idx) => {
     const copy = { ...p };
     if (copy.cliente_codigo === undefined || copy.cliente_codigo === null || String(copy.cliente_codigo).trim() === '') {
-      // fallback numeric 0 to satisfy NOT NULL constraint; log examples
-      copy.cliente_codigo = 0;
+      // map to '0' placeholder if we created it, otherwise choose first missing or '0'
+      copy.cliente_codigo = '0';
       fallbackCount++;
       if (fallbackExamples.length < 5) fallbackExamples.push({ index: idx, sample: copy });
+    } else {
+      // ensure it's string and matches pattern
+      copy.cliente_codigo = String(copy.cliente_codigo);
     }
     return copy;
   });
   if (fallbackCount > 0) {
-    console.log(`→ WARN: ${fallbackCount} pedidos faltavam cliente_codigo — preenchidos com 0 (filtro NOT NULL). Exemplos:`, JSON.stringify(fallbackExamples, null, 2));
+    console.log(`→ WARN: ${fallbackCount} pedidos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(fallbackExamples, null, 2)})`);
   }
 
   // Insert pedidos
