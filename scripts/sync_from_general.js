@@ -1,5 +1,6 @@
-/* scripts/sync_from_general_fixed.js
-   Versão corrigida — combate agressivo a "0000-00-00..." + tratamento de erros
+/* scripts/sync_from_general_fixed_size_color_only.js
+   Versão corrigida (sem extração de valor_unitario) — extrai apenas tamanho e cor do título.
+   Uso: node ./scripts/sync_from_general_fixed_size_color_only.js /tmp/source_general.json
 */
 
 const fs = require('fs');
@@ -32,7 +33,7 @@ const COLUMNS_PEDIDOS = [
 
 const COLUMNS_PRODUTOS = [
   'id','cliente_codigo','produto_codigo','titulo','categoria_principal',
-  'categoria','marca','quantidade','criado_em','id_pedido','valor_unitario',
+  'categoria','marca','quantidade','criado_em','id_pedido',
   'subcategoria','tamanho','cor','sku','data_pedido'
 ];
 
@@ -70,7 +71,6 @@ function parseDateString(val) {
 
 function isLikelyZeroDate(s) {
   if (!s || typeof s !== 'string') return false;
-  // cobre vários formatos; se houver '0000' em ano ou dia com zeros, considera inválido
   if (/0000-00-00/.test(s)) return true;
   if (/^0{4}-0{2}-0{2}/.test(s)) return true;
   if (/^0000[\/\-]/.test(s)) return true;
@@ -82,35 +82,25 @@ function sanitizeDateValue(v) {
   if (v === null || v === undefined) return null;
   if (v instanceof Date) {
     if (isNaN(v.getTime())) return null;
-    return v.toISOString(); // manter ISO se Date real
+    return v.toISOString();
   }
   if (typeof v !== "string") return null;
   const s = v.trim();
   if (s === '') return null;
-  // se claramente zero-date -> null (evita inserir 0000-00-00T00:00:00Z)
   if (isLikelyZeroDate(s) || s.startsWith('0000')) return null;
-
-  // já está no formato YYYY-MM-DDTHH:MM:SSZ (aceitar apenas se plausível)
   if (/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$/.test(s)) {
-    // rejeitar datas impossíveis (ano 0000)
     if (/^0000-/.test(s)) return null;
     const ts = Date.parse(s);
     return isNaN(ts) ? null : s;
   }
-
-  // se for "YYYY-MM-DD HH:MM:SS" -> transformar para ISO
   if (/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}$/.test(s)) {
     const s2 = s.replace(' ', 'T') + 'Z';
     if (/^0000-/.test(s2)) return null;
     const ts = Date.parse(s2);
     return isNaN(ts) ? null : s2;
   }
-
-  // tentar dd/mm/yyyy[ hh:mm:ss]
   const p = parseDateString(s);
   if (p) return p;
-
-  // outros formatos: rejeitar para evitar lixo
   return null;
 }
 
@@ -141,39 +131,68 @@ function dedupeByKey(rows, keys = ['codigo']) {
   return Array.from(map.values());
 }
 
-/* Insert robusto: menor batch, delay e fallback item-by-item em caso de timeout */
-async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
-  // antes, garantir remover qualquer string perigosa "0000-00-00T00:00:00Z" em rows
-  for (let i = 0; i < rows.length; i++) {
-    const row = rows[i];
-    for (const k of Object.keys(row)) {
-      const v = row[k];
-      if (typeof v === 'string' && isLikelyZeroDate(v)) row[k] = null;
-      // também remover strings exatas problemáticas
-      if (v === '0000-00-00T00:00:00Z' || v === '0000-00-00 00:00:00') row[k] = null;
-    }
+/* ---------- title parsing: tamanho & cor only ---------- */
+
+/*
+  Extrai:
+   - Cor: procura "Cor: <valor>" (case-insensitive) ou "Cor - <valor>" ou "Cor: <valor> -"
+   - Tamanho: procura "Tamanho: <valor>" ou tokens no final como "GG", "G1", "M", "P", "XL", etc.
+*/
+function extractSizeColorFromTitle(title) {
+  if (!title || typeof title !== 'string') return { tamanho: null, cor: null };
+
+  const t = title;
+
+  // cor
+  let cor = null;
+  const corRegex = /Cor[:\s\-]*([A-Za-z0-9À-ÿ \/\.\-]+?)(?:\s*(?:[-,\/\|]|$))/i;
+  const mcor = t.match(corRegex);
+  if (mcor && mcor[1]) cor = String(mcor[1]).trim();
+
+  // tamanho
+  let tamanho = null;
+  const tamRegex = /Tamanho[:\s]*([A-Za-z0-9\.\-]+)(?:\s*(?:[-,\/\|]|$))/i;
+  const mtam = t.match(tamRegex);
+  if (mtam && mtam[1]) {
+    tamanho = String(mtam[1]).trim();
+  } else {
+    // fallback: tokens comuns de tamanho próximos ao final ou em padrão " - GG" etc.
+    const fallback = t.match(/(?:[-\s]|^)(P{1,2}|M|G{1,3}|G\d|GG|G1|G2|G3|XS|S|L|XL|XXL|\d{1,3})(?:\s*$|[^\w]|$)/i);
+    if (fallback && fallback[1]) tamanho = String(fallback[1]).trim();
   }
 
+  if (cor) cor = cor.replace(/[-|,]+$/g, '').trim();
+  if (tamanho) tamanho = tamanho.replace(/[-|,]+$/g, '').trim();
+
+  return { tamanho: tamanho || null, cor: cor || null };
+}
+
+/* ---------------- Insert robusto com scrub ---------------- */
+async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
   for (let i = 0; i < rows.length; i += batch) {
     const chunk = rows.slice(i, i + batch);
     if (chunk.length === 0) continue;
+
+    // scrub agressivo de zero-dates
+    for (const row of chunk) {
+      for (const k of Object.keys(row)) {
+        const v = row[k];
+        if (typeof v === 'string' && isLikelyZeroDate(v)) row[k] = null;
+        if (v === '0000-00-00T00:00:00Z' || v === '0000-00-00 00:00:00') row[k] = null;
+      }
+    }
+
     try {
       const { error } = await supabase.from(table).insert(chunk, { returning: false });
       if (error) {
         console.error(`Error inserting chunk into ${table} (offset ${i})`, error);
-        console.log(`Attempting per-row retry for ${table} (offset ${i})...`);
+        // per-row retry para isolar
         for (let r = 0; r < chunk.length; r++) {
           try {
             const row = chunk[r];
-            // scrub again
-            for (const k of Object.keys(row)) {
-              const v = row[k];
-              if (typeof v === 'string' && isLikelyZeroDate(v)) row[k] = null;
-            }
+            for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
             const { error: e2 } = await supabase.from(table).insert([row], { returning: false });
-            if (e2) {
-              console.error(`Row insert error ${table} offset ${i} row ${r}:`, e2);
-            }
+            if (e2) console.error(`Row insert error ${table} offset ${i} row ${r}:`, e2);
           } catch (e3) {
             console.error(`Row insert thrown ${table} offset ${i} row ${r}:`, e3);
           }
@@ -186,10 +205,7 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
       for (let r = 0; r < chunk.length; r++) {
         try {
           const row = chunk[r];
-          for (const k of Object.keys(row)) {
-            const v = row[k];
-            if (typeof v === 'string' && isLikelyZeroDate(v)) row[k] = null;
-          }
+          for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
           const { error: e2 } = await supabase.from(table).insert([row], { returning: false });
           if (e2) console.error(`Row insert error ${table} offset ${i} row ${r}:`, e2);
         } catch (e3) {
@@ -197,6 +213,7 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
         }
       }
     }
+
     await new Promise(res => setTimeout(res, delayMs));
   }
 }
@@ -230,14 +247,11 @@ async function main() {
     let json;
     try { json = JSON.parse(raw); } catch (e) { console.error("Erro parseando JSON:", e.message); process.exit(1); }
 
-    // Detect arrays like antes (mantive sua heurística)
     const clientesArr = findArrayByHeuristics(json, ['clientes','lista_clientes','lista_clientes_geral','clientes_lista','clientes_data','users']);
-    // Se o arquivo que você usa tem clientes embutidos (formato que você mostrou), a heurística pode retornar o grande array corretamente
-    // Para segurança, se encontrou clientes por heurística = ok, senão assume json se for array
     const clientesSource = Array.isArray(clientesArr) && clientesArr.length ? clientesArr : (Array.isArray(json) ? json : []);
-    console.log(`→ ORIGINAIS:\nClientes: ${clientesSource.length}`);
+    console.log(`→ Clientes no JSON: ${clientesSource.length}`);
 
-    // clientes
+    // clientes rows
     let clientesRows = clientesSource.map(it => pickFields(it, COLUMNS_CLIENTES));
     clientesRows = clientesRows.map(row => {
       const copy = { ...row };
@@ -248,27 +262,23 @@ async function main() {
       copy.total_pedidos = (copy.total_pedidos !== undefined) ? parseInt(String(copy.total_pedidos).replace(/\D/g,''),10) || null : null;
       copy.valor_total_comprado = toNumberOrNull(copy.valor_total_comprado);
       if (copy.data_cadastro) copy.data_cadastro = sanitizeDateValue(copy.data_cadastro);
-      // garantir criado_em sem horário problemático (usar apenas ISO full or date)
       copy.criado_em = (new Date().toISOString()).replace(/\.\d+Z$/, 'Z');
-      // scrub zeros
-      for (const k of Object.keys(copy)) {
-        if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
-      }
+      for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
       return copy;
     });
 
-    // dedupe clientes
     clientesRows = clientesRows.map(c => {
       if (!c.codigo && c.cliente_codigo) c.codigo = c.cliente_codigo;
       return c;
     });
-    clientesRows = dedupeByKey(clientesRows, ['codigo']);
-    console.log(`→ DEDUPE FINAL: ${clientesRows.length} clientes únicos (orig ${clientesSource.length})`);
 
-    console.log("→ LIMPAR TABELAS...");
+    clientesRows = dedupeByKey(clientesRows, ['codigo']);
+    console.log(`→ DEDUPE / clientes únicos: ${clientesRows.length}`);
+
+    console.log("→ LIMPAR import_clientes...");
     await deleteAll('import_clientes');
 
-    // inserir clientes em batches via upsert (para evitar duplicate errors)
+    // upsert clientes em lotes (onConflict codigo)
     if (clientesRows.length) {
       const batch = 300;
       for (let i = 0; i < clientesRows.length; i += batch) {
@@ -286,7 +296,6 @@ async function main() {
           const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
           if (error) {
             console.error(`Erro em upsert import_clientes (offset ${i})`, error);
-            // tentar linha a linha mas não interromper
             for (let r = 0; r < chunk.length; r++) {
               try {
                 const { error: e2 } = await supabase.from('import_clientes').upsert([chunk[r]], { onConflict: 'codigo' });
@@ -298,13 +307,10 @@ async function main() {
           }
         } catch (e) {
           console.error(`Exception upserting clients offset ${i}:`, e);
-          // tentar por linha para isolar
           for (let r = 0; r < chunk.length; r++) {
             try {
               const row = chunk[r];
-              for (const k of Object.keys(row)) {
-                if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
-              }
+              for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
               const { error: e2 } = await supabase.from('import_clientes').upsert([row], { onConflict: 'codigo' });
               if (e2) console.error('row upsert fallback error', e2);
             } catch (er) { console.error('row upsert fallback exception', er); }
@@ -313,8 +319,7 @@ async function main() {
       }
     }
 
-    // Agora precisamos extrair pedidos e produtos do mesmo JSON (se estiverem embutidos)
-    // Usar heurística simples: para cada cliente original, se existir cliente.pedidos -> extrair
+    // extrair pedidos/produtos de cada cliente (quando embutidos)
     const pedidosRows = [];
     const produtosRows = [];
 
@@ -322,7 +327,7 @@ async function main() {
       const client = clientesSource[idx] || {};
       const clienteCodigo = normalizeCodigo(client.codigo ?? client.cliente_codigo ?? client.id ?? '') || null;
 
-      // pedidos embutidos
+      // pedidos
       if (Array.isArray(client.pedidos)) {
         for (const rawItem of client.pedidos) {
           const p = pickFields(rawItem, COLUMNS_PEDIDOS);
@@ -330,14 +335,12 @@ async function main() {
           p.codigo_pedido = p.codigo_pedido ?? rawItem.codigo_pedido ?? rawItem.codigo ?? rawItem.numero_pedido ?? rawItem.order_id ?? rawItem.id ?? null;
           p.codigo_pedido = normalizeCodigo(p.codigo_pedido);
 
-          p.cliente_codigo = normalizeCodigo(clienteCodigo ?? rawItem.cliente_codigo ?? rawItem.cliente ?? rawItem.codigo_cliente ?? rawItem.customer_id ?? rawItem.id_cliente ?? null) || '0';
+          p.cliente_codigo = normalizeCodigo(clienteCodigo ?? rawItem.cliente_codigo ?? rawItem.cliente ?? rawItem.codigo_cliente ?? rawItem.customer_id ?? rawItem.id_cliente) || '0';
           p.situacao_pedido = p.situacao_pedido ?? rawItem.status ?? rawItem.situacao ?? rawItem.status_pedido ?? null;
 
-          // datas
           p.data_hora_pedido = sanitizeDateValue(rawItem.data_hora_pedido ?? rawItem.data_pedido ?? rawItem.data_hora ?? rawItem.created_at ?? rawItem.criado_em ?? null);
           p.data_hora_confirmacao = sanitizeDateValue(rawItem.data_hora_confirmacao ?? rawItem.confirmado_em ?? rawItem.paid_at ?? null);
 
-          // valores
           p.valor_total_produtos = toNumberOrNull(rawItem.valor_total_produtos ?? rawItem.valor_produtos ?? rawItem.items_total ?? rawItem.total_items ?? rawItem.total ?? null);
           p.valor_frete = toNumberOrNull(rawItem.valor_frete ?? rawItem.shipping_value ?? rawItem.frete ?? null);
           p.valor_total_pedido = toNumberOrNull(rawItem.valor_total_pedido ?? rawItem.total ?? null);
@@ -352,38 +355,47 @@ async function main() {
           p.pedidos_loja_drop = rawItem.pedidos_loja_drop ?? null;
           p.criado_em = new Date().toISOString();
 
-          // scrub zero-dates just in case
-          for (const k of Object.keys(p)) {
-            if (typeof p[k] === 'string' && isLikelyZeroDate(p[k])) p[k] = null;
-          }
+          for (const k of Object.keys(p)) if (typeof p[k] === 'string' && isLikelyZeroDate(p[k])) p[k] = null;
 
-          // garantir codigo_pedido
           if (!p.codigo_pedido) p.codigo_pedido = `P_${clienteCodigo || '0'}_${Math.floor(Math.random()*1e9)}`;
 
           pedidosRows.push(p);
         }
       }
 
-      // produtos_embutidos (obj produtos_comprados)
+      // produtos_comprados (obj)
       const produtosComprados = client.produtos_comprados;
       if (produtosComprados && typeof produtosComprados === 'object') {
         for (const key of Object.keys(produtosComprados)) {
           const prRaw = produtosComprados[key] || {};
           const produto_codigo = normalizeCodigo(prRaw.codigo ?? key) || null;
+          const titulo = prRaw.titulo ?? prRaw.title ?? null;
+
+          // extrair tamanho/cor do título (somente esses dois)
+          const parsed = extractSizeColorFromTitle(titulo);
+
+          const tamanhoVal = prRaw.tamanho ?? parsed.tamanho ?? null;
+          const corVal = prRaw.cor ?? prRaw.color ?? parsed.cor ?? null;
+
+          const quantidade = prRaw.quantidade != null ? (parseInt(String(prRaw.quantidade).replace(/\D/g,''),10) || toNumberOrNull(prRaw.quantidade) || null) : null;
+
           const produtoRow = {
             cliente_codigo: clienteCodigo || '0',
             produto_codigo,
-            titulo: prRaw.titulo ?? prRaw.title ?? null,
-            categoria_principal: prRaw.categoria_principal ?? null,
+            titulo,
+            categoria_principal: prRaw.categoria_principal ?? prRaw.categoriaPrincipal ?? null,
             categoria: prRaw.categoria ?? null,
-            marca: prRaw.marca ?? null,
-            quantidade: prRaw.quantidade != null ? (parseInt(String(prRaw.quantidade).replace(/\D/g,''),10) || toNumberOrNull(prRaw.quantidade) || null) : null,
-            criado_em: new Date().toISOString()
+            marca: prRaw.marca ?? prRaw.brand ?? null,
+            quantidade: quantidade,
+            criado_em: new Date().toISOString(),
+            tamanho: tamanhoVal ? String(tamanhoVal).trim() : null,
+            cor: corVal ? String(corVal).trim() : null,
+            sku: prRaw.sku ?? null,
+            data_pedido: sanitizeDateValue(prRaw.data_pedido ?? prRaw.data)
           };
-          // scrub
-          for (const k of Object.keys(produtoRow)) {
-            if (typeof produtoRow[k] === 'string' && isLikelyZeroDate(produtoRow[k])) produtoRow[k] = null;
-          }
+
+          for (const k of Object.keys(produtoRow)) if (typeof produtoRow[k] === 'string' && isLikelyZeroDate(produtoRow[k])) produtoRow[k] = null;
+
           produtosRows.push(produtoRow);
         }
       }
@@ -391,7 +403,7 @@ async function main() {
 
     console.log(`→ EXTRAÍDO: pedidos ${pedidosRows.length}, produtos ${produtosRows.length}`);
 
-    // placeholders: garantir '0' e quaisquer cliente_codigo usados por pedidos/produtos que não existam
+    // placeholders para clientes inexistentes referenciados
     const existingSet = new Set(clientesRows.map(c => String(c.codigo ?? c.cliente_codigo ?? '').trim()));
     const usedCodes = new Set();
     for (const p of pedidosRows) usedCodes.add(String(p.cliente_codigo ?? '').trim());
@@ -424,7 +436,7 @@ async function main() {
       console.log('→ Nenhum placeholder necessário.');
     }
 
-    // garantir cliente_codigo nos pedidos/produtos (fallback '0') e normalizar datas
+    // normalizar pedidos/produtos antes de inserir
     for (let idx = 0; idx < pedidosRows.length; idx++) {
       const copy = pedidosRows[idx];
       if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
@@ -433,18 +445,16 @@ async function main() {
       }
       if (copy.data_hora_pedido) copy.data_hora_pedido = sanitizeDateValue(copy.data_hora_pedido);
       if (copy.data_hora_confirmacao) copy.data_hora_confirmacao = sanitizeDateValue(copy.data_hora_confirmacao);
-      // scrub final
       for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
     }
 
     for (let prIdx = 0; prIdx < produtosRows.length; prIdx++) {
       const copy = produtosRows[prIdx];
       if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
-      // quantidade normalizada já
       for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
     }
 
-    // inserir pedidos (robusto)
+    // inserir pedidos
     try {
       await deleteAll('import_pedidos');
       if (pedidosRows.length) {
@@ -455,7 +465,7 @@ async function main() {
       throw e;
     }
 
-    // inserir produtos (robusto)
+    // inserir produtos (sem valor_unitario — somente tamanho e cor extraídos)
     try {
       await deleteAll('import_clientes_produtos');
       if (produtosRows.length) {
@@ -475,7 +485,6 @@ async function main() {
 
 process.on('unhandledRejection', (reason, p) => {
   console.error('Unhandled Rejection at:', p, 'reason:', reason);
-  // Não deixar o node morrer sem log -- encerra com código de erro
   process.exit(1);
 });
 
