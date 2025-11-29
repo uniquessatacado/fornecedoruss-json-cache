@@ -1,6 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão final corrigida — 2025-11-29
-   Sincroniza general.json → import_clientes (upsert), import_pedidos, import_clientes_produtos
+   Versão final ajustada — preenche cliente_codigo em pedidos quando ausente (fallback = 0)
+   2025-11-29
 */
 
 const fs = require('fs');
@@ -62,7 +62,6 @@ function findArrayByHeuristics(json, candidateNames = []) {
 function parseDateString(val) {
   if (!val || typeof val !== "string") return null;
   const s = val.trim();
-  // DD/MM/YYYY or DD/MM/YYYY HH:MM[:SS]
   const m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})(?:\s+(\d{2}:\d{2}(?::\d{2})?))?$/);
   if (!m) return null;
   const day = m[1], month = m[2], year = m[3];
@@ -81,15 +80,12 @@ function sanitizeDateValue(v, keyName) {
   if (typeof v === 'string') {
     const s = v.trim();
     if (s === '' || isLikelyZeroDate(s)) return null;
-    // if already ISO-like but invalid, try parse fallback
     if (/^\d{4}-\d{2}-\d{2}T/.test(s)) {
       const ts = Date.parse(s);
       return isNaN(ts) ? null : s;
     }
-    // try dd/mm/yyyy -> iso
     const p = parseDateString(s);
     if (p) return p;
-    // if can't parse, return null to avoid DB error
     return null;
   }
   if (v instanceof Date) return isNaN(v.getTime()) ? null : v.toISOString();
@@ -209,7 +205,7 @@ async function main() {
   let pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   let produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
-  // normalize dates (DD/MM/YYYY -> ISO) where possible
+  // normalize dates
   normalizeDatesInRows(clientesRows);
   normalizeDatesInRows(pedidosRows);
   normalizeDatesInRows(produtosRows);
@@ -230,6 +226,9 @@ async function main() {
     if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
     if (r.valor_total_produtos !== undefined) r.valor_total_produtos = toNumberOrNull(r.valor_total_produtos);
     if (r.valor_total_pedido !== undefined) r.valor_total_pedido = toNumberOrNull(r.valor_total_pedido);
+    // ensure date fields sanitized
+    if (r.data_hora_pedido) r.data_hora_pedido = sanitizeDateValue(r.data_hora_pedido, 'data_hora_pedido');
+    if (r.data_hora_confirmacao) r.data_hora_confirmacao = sanitizeDateValue(r.data_hora_confirmacao, 'data_hora_confirmacao');
     return r;
   });
 
@@ -238,6 +237,7 @@ async function main() {
     if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
     if (r.quantidade !== undefined) r.quantidade = parseInt(String(r.quantidade).replace(/\D/g, ''), 10) || null;
     if (r.valor_unitario !== undefined) r.valor_unitario = toNumberOrNull(r.valor_unitario);
+    if (r.data_pedido) r.data_pedido = sanitizeDateValue(r.data_pedido, 'data_pedido');
     return r;
   });
 
@@ -262,7 +262,6 @@ async function main() {
 
         const chunk = rawChunk.map(row => {
           const copy = { ...row };
-          // sanitize date fields
           for (const k of Object.keys(copy)) {
             const v = copy[k];
             if (v === null || v === undefined) continue;
@@ -297,6 +296,23 @@ async function main() {
   } catch (e) {
     console.error("FATAL ao inserir import_clientes:", e);
     throw e;
+  }
+
+  // --- NEW: ensure pedidos have cliente_codigo non-nullable (fallback to 0)
+  let fallbackCount = 0;
+  const fallbackExamples = [];
+  pedidosRows = pedidosRows.map((p, idx) => {
+    const copy = { ...p };
+    if (copy.cliente_codigo === undefined || copy.cliente_codigo === null || String(copy.cliente_codigo).trim() === '') {
+      // fallback numeric 0 to satisfy NOT NULL constraint; log examples
+      copy.cliente_codigo = 0;
+      fallbackCount++;
+      if (fallbackExamples.length < 5) fallbackExamples.push({ index: idx, sample: copy });
+    }
+    return copy;
+  });
+  if (fallbackCount > 0) {
+    console.log(`→ WARN: ${fallbackCount} pedidos faltavam cliente_codigo — preenchidos com 0 (filtro NOT NULL). Exemplos:`, JSON.stringify(fallbackExamples, null, 2));
   }
 
   // Insert pedidos
