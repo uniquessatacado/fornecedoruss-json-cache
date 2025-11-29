@@ -1,4 +1,4 @@
-name: Sync Dados Gerais (every 5min)
+﻿name: Sync Dados Gerais (every 5min)
 
 on:
   schedule:
@@ -31,7 +31,6 @@ jobs:
             echo "No SOURCE_JSON_URL_GENERAL secret defined" >&2
             exit 1
           fi
-          # try download
           curl -sS "$SRC_URL" -o /tmp/source_general.json || (echo "Download failed" && exit 1)
           echo "Downloaded size: $(wc -c < /tmp/source_general.json) bytes"
 
