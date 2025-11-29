@@ -1,6 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão final: trata placeholders para pedidos e produtos (resolve FK cliente_codigo null)
-   2025-11-29
+   Versão final — garante placeholders e força cliente_codigo='0' quando vazio.
+   2025-11-29 - fix final
 */
 
 const fs = require('fs');
@@ -16,7 +16,6 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
 
-/* ------------------ colunas alvo ------------------ */
 const COLUMNS_CLIENTES = [
   'cliente_codigo','codigo','nome','email','data_cadastro',
   'whatsapp','cidade','estado','loja_drop','representante',
@@ -38,7 +37,6 @@ const COLUMNS_PRODUTOS = [
   'subcategoria','tamanho','cor','sku','data_pedido'
 ];
 
-/* ------------------ helpers ------------------ */
 function pickFields(obj, allowed) {
   const res = {};
   for (const k of Object.keys(obj || {})) {
@@ -58,7 +56,6 @@ function findArrayByHeuristics(json, candidateNames = []) {
   return [];
 }
 
-/* ------------------ date helpers ------------------ */
 function parseDateString(val) {
   if (!val || typeof val !== "string") return null;
   const s = val.trim();
@@ -107,7 +104,6 @@ function normalizeDatesInRows(rows) {
   });
 }
 
-/* ------------------ normalize / numeric helpers ------------------ */
 function normalizeCodigo(val) {
   if (val === null || val === undefined) return null;
   let s = String(val).trim();
@@ -127,7 +123,6 @@ function toNumberOrNull(v) {
   return Number.isNaN(n) ? null : n;
 }
 
-/* ------------------ dedupe helpers ------------------ */
 function detectDuplicates(rows, keys = ['codigo']) {
   const seen = new Map();
   const examples = [];
@@ -153,7 +148,6 @@ function dedupeByKey(rows, keys = ['codigo']) {
   return Array.from(map.values());
 }
 
-/* ------------------ db helpers ------------------ */
 async function deleteAll(table) {
   try {
     const { error } = await supabase.from(table).delete().gt('id', 0);
@@ -182,7 +176,6 @@ async function insertInBatches(table, rows, batch = 300) {
   }
 }
 
-/* ------------------ MAIN ------------------ */
 async function main() {
   const source = process.argv[2];
   if (!source || !fs.existsSync(source)) {
@@ -200,17 +193,14 @@ async function main() {
 
   console.log(`→ ORIGINAIS:\nClientes: ${clientesArr.length}\nPedidos: ${pedidosArr.length}\nProdutos: ${produtosArr.length}`);
 
-  // pick fields
   let clientesRows = clientesArr.map(it => pickFields(it, COLUMNS_CLIENTES));
   let pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   let produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
-  // normalize dates
   normalizeDatesInRows(clientesRows);
   normalizeDatesInRows(pedidosRows);
   normalizeDatesInRows(produtosRows);
 
-  // normalize codigo / cliente_codigo and basic numeric casts
   clientesRows = clientesRows.map(row => {
     const r = { ...row };
     r.codigo = (r.codigo !== undefined && r.codigo !== null) ? normalizeCodigo(r.codigo) : null;
@@ -233,7 +223,6 @@ async function main() {
 
   produtosRows = produtosRows.map(row => {
     const r = { ...row };
-    // tentativa: alguns JSONs usam 'cliente' ou 'cliente_codigo' ou 'codigo_cliente' — tenta mapear
     if (!r.cliente_codigo && (row.cliente || row.codigo_cliente || row['cliente_codigo'])) {
       r.cliente_codigo = normalizeCodigo(row.cliente ?? row.codigo_cliente ?? row['cliente_codigo']);
     } else if (r.cliente_codigo) {
@@ -245,28 +234,23 @@ async function main() {
     return r;
   });
 
-  // diagnóstico duplicatas
   const dupDiag = detectDuplicates(clientesRows, ['codigo']);
   console.log(`→ DUPUPE DIAG BEFORE (clientes) : ${dupDiag.count}`);
   if (dupDiag.examples && dupDiag.examples.length) console.log('→ exemplos duplicatas (antes):', JSON.stringify(dupDiag.examples.slice(0,6), null, 2));
 
-  // dedupe por codigo (mantém primeiro)
   clientesRows = dedupeByKey(clientesRows, ['codigo']);
   console.log(`→ DEDUPE FINAL: ${clientesRows.length} clientes únicos (orig ${clientesArr.length})`);
 
   console.log("→ LIMPAR TABELAS...");
 
-  // Upsert import_clientes with sanitization of dates
   try {
     await deleteAll('import_clientes');
     if (clientesRows.length) {
       const batch = 300;
       for (let i = 0; i < clientesRows.length; i += batch) {
         const rawChunk = clientesRows.slice(i, i + batch);
-
         const chunk = rawChunk.map(row => {
           const copy = { ...row };
-          // sanitize date fields
           for (const k of Object.keys(copy)) {
             const v = copy[k];
             if (v === null || v === undefined) continue;
@@ -280,11 +264,6 @@ async function main() {
           if ((!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
           return copy;
         });
-
-        const badBefore = rawChunk.find(r => Object.values(r).some(v => typeof v === 'string' && v.includes('0000-00-00')));
-        if (badBefore) {
-          console.log(`DEBUG: linha com "0000-00-00" no offset ${i}:`, JSON.stringify(badBefore));
-        }
 
         const { error } = await supabase
           .from('import_clientes')
@@ -303,20 +282,21 @@ async function main() {
     throw e;
   }
 
-  // --- coletar todos os cliente_codigo usados em pedidos e produtos
+  // --- garantir placeholders para TODOS os cliente_codigo usados em pedidos E produtos ---
   const clientesExistingSet = new Set(clientesRows.map(c => (c.codigo === undefined || c.codigo === null) ? '' : String(c.codigo)));
+
   const pedidoCodesSet = new Set();
   for (const p of pedidosRows) {
     const code = (p.cliente_codigo === undefined || p.cliente_codigo === null) ? '' : String(p.cliente_codigo);
     pedidoCodesSet.add(code);
   }
+
   const produtoCodesSet = new Set();
   for (const pr of produtosRows) {
     const code = (pr.cliente_codigo === undefined || pr.cliente_codigo === null) ? '' : String(pr.cliente_codigo);
     produtoCodesSet.add(code);
   }
 
-  // missing codes = those in pedidos or produtos not present in clientesExistingSet
   const missing = new Set();
   for (const code of pedidoCodesSet) {
     const key = (code === '' ? '0' : code);
@@ -327,7 +307,9 @@ async function main() {
     if (!clientesExistingSet.has(key)) missing.add(key);
   }
 
-  // If there are missing codes, insert placeholders into import_clientes
+  // garanta que '0' esteja sempre criado se houver qualquer pedido/produto sem codigo
+  if (pedidoCodesSet.has('') || produtoCodesSet.has('')) missing.add('0');
+
   if (missing.size) {
     const missingArr = Array.from(missing);
     console.log(`→ Criando ${missingArr.length} placeholders em import_clientes para satisfazer FK dos pedidos/produtos.`);
@@ -359,7 +341,7 @@ async function main() {
     console.log("→ Nenhum placeholder necessário para import_clientes.");
   }
 
-  // ensure pedidosRows cliente_codigo values are non-empty:
+  // força cliente_codigo não-nulos em pedidos/produtos (atribui '0' quando vazio)
   let pedidoFallbackCount = 0;
   const pedidoFallbackExamples = [];
   pedidosRows = pedidosRows.map((p, idx) => {
@@ -375,7 +357,6 @@ async function main() {
   });
   if (pedidoFallbackCount > 0) console.log(`→ WARN: ${pedidoFallbackCount} pedidos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(pedidoFallbackExamples, null, 2)})`);
 
-  // ensure produtosRows cliente_codigo values are non-empty:
   let produtoFallbackCount = 0;
   const produtoFallbackExamples = [];
   produtosRows = produtosRows.map((pr, idx) => {
@@ -390,6 +371,13 @@ async function main() {
     return copy;
   });
   if (produtoFallbackCount > 0) console.log(`→ WARN: ${produtoFallbackCount} produtos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(produtoFallbackExamples, null, 2)})`);
+
+  // debug extra: antes de inserir produtos, checar se há algum cliente_codigo null — se houver, logar até 10
+  const problemProducts = produtosRows.filter(p => p.cliente_codigo === null || p.cliente_codigo === undefined);
+  if (problemProducts.length) {
+    console.error("DEBUG: ainda existem produtos com cliente_codigo nulo (mostrando até 10):", JSON.stringify(problemProducts.slice(0,10), null, 2));
+    throw new Error("Produtos com cliente_codigo nulo encontrados — abortando para debug.");
+  }
 
   // Insert pedidos
   try {
