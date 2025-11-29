@@ -60,10 +60,6 @@ jobs:
             echo "no_change=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Install dependencies
-        working-directory: scripts
-        run: |
-          npm ci || npm i
           
       - name: Run sync script
         env:
