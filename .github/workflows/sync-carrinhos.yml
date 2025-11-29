@@ -1,0 +1,71 @@
+name: Sync Carrinhos (every 5min)
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Download source JSON
+        env:
+          SRC_URL: ${{ secrets.SOURCE_JSON_URL_CARRINHOS }}
+        run: |
+          echo "Fetching source JSON..."
+          curl -sS "$SRC_URL" -o /tmp/source_carrinhos.json || (echo "Download failed" && exit 1)
+          echo "Downloaded size: $(wc -c < /tmp/source_carrinhos.json) bytes"
+
+      - name: Compare and update repo cache
+        id: update_cache
+        run: |
+          TARGET="carrinhos.json"
+
+          if [ -f "$TARGET" ]; then
+            if cmp -s /tmp/source_carrinhos.json "$TARGET"; then
+              echo "no_change=true" >> $GITHUB_OUTPUT
+            else
+              cp /tmp/source_carrinhos.json "$TARGET"
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add "$TARGET"
+              git commit -m "Auto-update carrinhos.json"
+              git push
+              echo "no_change=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            cp /tmp/source_carrinhos.json "$TARGET"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$TARGET"
+            git commit -m "Add carrinhos.json (initial sync)"
+            git push
+            echo "no_change=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: |
+          npm install @supabase/supabase-js
+
+      - name: Run sync script
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          node ./scripts/sync_from_source.js /tmp/source_carrinhos.json
