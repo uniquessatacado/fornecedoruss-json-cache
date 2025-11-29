@@ -1,38 +1,34 @@
-name: Fetch fornecedoruss carrinhos
+name: Fetch fornecedorus carrinhos
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'  # executa a cada 5 minutos
-  workflow_dispatch: {}   # permite rodar manualmente
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  fetch:
+  buscar:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Fetch remote JSON
+      - name: Obter JSON remoto
         run: |
-          echo "Baixando JSON remoto..."
-          curl -s -H "User-Agent: Mozilla/5.0" -H "Accept: application/json" -H "Referer: https://fornecedoruss.com.br/" \
-            'https://fornecedoruss.com.br/webservice/carrinhos-abandonados/' -o remote.json || exit 0
+          curl -sS -A "Mozilla/5.0" "https://fornecedoruss.com.br/webservice/carrinhos-abandonados/" -o carrinhos.json
+          ls -lh carrinhos.json
 
-          mv remote.json carrinhos.json || true
-
-          echo "Primeiras linhas do arquivo:"
-          head -n 20 carrinhos.json || true
-
-      - name: Commit if changed
+      - name: Commit & push do JSON (se mudou)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add carrinhos.json || true
-
-          if git diff --staged --quiet; then
-            echo "Nenhuma alteração para fazer commit"
+          git add carrinhos.json
+          # só comita se houve mudanças
+          if ! git diff --quiet --staged; then
+            git commit -m "Update carrinhos.json from fornecedor"
+            git push origin HEAD:main
           else
-            git commit -m "Update carrinhos.json from fornecedoruss - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git push
+            echo "sem mudanças no JSON — nada a commitar"
           fi
