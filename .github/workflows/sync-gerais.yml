@@ -1,0 +1,74 @@
+name: Sync Dados Gerais (every 5min)
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Download source JSON (with debug + fallback)
+        env:
+          SRC_URL: ${{ secrets.SOURCE_JSON_URL_GENERAL }}
+        run: |
+          echo "Fetching source JSON..."
+          if [ -z "$SRC_URL" ]; then
+            echo "No SOURCE_JSON_URL_GENERAL secret defined" >&2
+            exit 1
+          fi
+          # try download
+          curl -sS "$SRC_URL" -o /tmp/source_general.json || (echo "Download failed" && exit 1)
+          echo "Downloaded size: $(wc -c < /tmp/source_general.json) bytes"
+
+      - name: Compare and update repo cache
+        id: update_cache
+        run: |
+          TARGET="general.json"
+          if [ -f "$TARGET" ]; then
+            if cmp -s /tmp/source_general.json "$TARGET"; then
+              echo "no_change=true" >> $GITHUB_OUTPUT
+            else
+              cp /tmp/source_general.json "$TARGET"
+              git config user.name "github-actions[bot]"
+              git config user.email "github-actions[bot]@users.noreply.github.com"
+              git add "$TARGET"
+              git commit -m "Auto-update general.json"
+              git push
+              echo "no_change=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            cp /tmp/source_general.json "$TARGET"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$TARGET"
+            git commit -m "Add general.json (initial sync)"
+            git push
+            echo "no_change=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: |
+          npm ci || npm i
+          
+      - name: Run sync script
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          node ./scripts/sync_from_general.js /tmp/source_general.json
