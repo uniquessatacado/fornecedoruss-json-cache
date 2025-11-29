@@ -1,9 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão: 2025-11-29
-   Função: sincronizar JSON "general" para 3 tabelas:
-     - import_clientes (UPsert por `codigo`)
-     - import_pedidos (insert em lote)
-     - import_clientes_produtos (insert em lote)
+   Versão final — sincroniza general.json → import_clientes (upsert), import_pedidos, import_clientes_produtos
+   2025-11-29
 */
 
 const fs = require('fs');
@@ -19,7 +16,7 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
 
-/* ------------------ colunas esperadas (mapear apenas essas) ------------------ */
+/* ------------------ colunas alvo ------------------ */
 const COLUMNS_CLIENTES = [
   'cliente_codigo','codigo','nome','email','data_cadastro',
   'whatsapp','cidade','estado','loja_drop','representante',
@@ -64,7 +61,7 @@ function findArrayByHeuristics(json, candidateNames = []) {
 function parseDateString(val) {
   if (!val || typeof val !== "string") return null;
   const s = val.trim();
-  // Match DD/MM/YYYY or DD/MM/YYYY HH:MM[:SS]
+  // DD/MM/YYYY or DD/MM/YYYY HH:MM[:SS]
   const m = s.match(/^(\d{2})\/(\d{2})\/(\d{4})(?:\s+(\d{2}:\d{2}(?::\d{2})?))?$/);
   if (!m) return null;
   const day = m[1], month = m[2], year = m[3];
@@ -73,32 +70,54 @@ function parseDateString(val) {
   return `${year}-${month}-${day}T${time}Z`;
 }
 
-function normalizeDatesInRows(rows) {
-  if (!Array.isArray(rows)) return;
-  const dateRegex = /^\d{2}\/\d{2}\/\d{4}/;
-  rows.forEach(row => {
-    if (!row || typeof row !== 'object') return;
-    for (const key of Object.keys(row)) {
-      const v = row[key];
-      if (typeof v === 'string' && dateRegex.test(v.trim())) {
-        const iso = parseDateString(v);
-        if (iso) row[key] = iso;
-      }
+function isLikelyZeroDate(s) {
+  if (!s || typeof s !== 'string') return false;
+  return /0000-00-00/.test(s) || /^0{4}-0{2}-0{2}/.test(s);
+}
+
+function sanitizeDateValue(v, keyName) {
+  if (v === null || v === undefined) return null;
+  if (typeof v === 'string') {
+    const s = v.trim();
+    if (s === '' || isLikelyZeroDate(s)) return null;
+    // if already ISO-like but invalid, try parse fallback
+    if (/^\d{4}-\d{2}-\d{2}T/.test(s)) {
+      const ts = Date.parse(s);
+      return isNaN(ts) ? null : s;
     }
-  });
+    // try dd/mm/yyyy -> iso
+    const p = parseDateString(s);
+    if (p) return p;
+    // if can't parse, return null to avoid DB error
+    return null;
+  }
+  // if number or Date, try to convert
+  if (v instanceof Date) return isNaN(v.getTime()) ? null : v.toISOString();
+  return null;
+}
+
+function normalizeCodigo(val) {
+  if (val === null || val === undefined) return null;
+  let s = String(val).trim();
+  // remove chars estranhos, manter alfanuméricos, ponto, hífen, underline
+  s = s.replace(/[^0-9a-zA-Z\-_.]/g, '');
+  // remove leading zeros (opcional; mantive para evitar '0001' vs '1' conflito)
+  s = s.replace(/^0+/, '');
+  if (s === '') return null;
+  return s;
 }
 
 function toNumberOrNull(v) {
   if (v === null || v === undefined) return null;
-  if (typeof v === 'number') return v;
+  if (typeof v === 'number') return Number.isFinite(v) ? v : null;
   const s = String(v).replace(/[^\d\-.,]/g, '').trim();
   if (s === '') return null;
-  // replace comma decimal to dot
-  const t = s.replace(/\./g, '').replace(/,/g, '.');
-  const n = parseFloat(t);
-  return Number.isFinite(n) ? n : null;
+  const s2 = s.replace(/\./g, '').replace(/,/g, '.'); // treat BR formatting
+  const n = parseFloat(s2);
+  return Number.isNaN(n) ? null : n;
 }
 
+/* detect duplicates e dedupe */
 function detectDuplicates(rows, keys = ['codigo']) {
   const seen = new Map();
   const examples = [];
@@ -118,13 +137,13 @@ function detectDuplicates(rows, keys = ['codigo']) {
 function dedupeByKey(rows, keys = ['codigo']) {
   const map = new Map();
   for (const r of rows) {
-    const k = keys.map(k0 => (r[k0] === undefined || r[k0] === null) ? '' : String(r[k0])).join('|');
-    if (!map.has(k)) map.set(k, r); // mantém primeiro
+    const key = keys.map(k0 => (r[k0] === undefined || r[k0] === null) ? '' : String(r[k0])).join('|');
+    if (!map.has(key)) map.set(key, r); // mantém primeiro
   }
   return Array.from(map.values());
 }
 
-/* ------------------ db helpers ------------------ */
+/* DB helpers */
 async function deleteAll(table) {
   try {
     const { error } = await supabase.from(table).delete().gt('id', 0);
@@ -153,7 +172,7 @@ async function insertInBatches(table, rows, batch = 300) {
   }
 }
 
-/* ------------------ main ------------------ */
+/* ------------------ MAIN ------------------ */
 async function main() {
   const source = process.argv[2];
   if (!source || !fs.existsSync(source)) {
@@ -171,82 +190,96 @@ async function main() {
 
   console.log(`→ ORIGINAIS:\nClientes: ${clientesArr.length}\nPedidos: ${pedidosArr.length}\nProdutos: ${produtosArr.length}`);
 
-  // pick only columns we care about
+  // pick fields
   let clientesRows = clientesArr.map(it => pickFields(it, COLUMNS_CLIENTES));
   let pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   let produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
-  // normalize dates
+  // normalize dates (DD/MM/YYYY -> ISO) where possible
   normalizeDatesInRows(clientesRows);
   normalizeDatesInRows(pedidosRows);
   normalizeDatesInRows(produtosRows);
 
-  // normalize codigo / cliente_codigo: trim, remove zeros à esquerda, forçar strings
-  clientesRows = clientesRows.map(r => {
-    const copy = { ...r };
-    if (copy.codigo !== undefined && copy.codigo !== null) {
-      copy.codigo = String(copy.codigo).trim();
-      copy.codigo = copy.codigo.replace(/[^0-9a-zA-Z\-_.]/g, ''); // remove espaços e chars estranhos
-      copy.codigo = copy.codigo.replace(/^0+/, ''); // remove leading zeros (se quiser manter zeros, comente)
-      if (copy.codigo === '') copy.codigo = null;
-    }
-    // manter cliente_codigo igual a codigo se ausente
-    if ((copy.cliente_codigo === undefined || copy.cliente_codigo === null || String(copy.cliente_codigo).trim() === '') && copy.codigo) {
-      copy.cliente_codigo = copy.codigo;
-    } else if (copy.cliente_codigo !== undefined && copy.cliente_codigo !== null) {
-      copy.cliente_codigo = String(copy.cliente_codigo).trim().replace(/^0+/, '');
-      if (copy.cliente_codigo === '') copy.cliente_codigo = null;
-    }
-    return copy;
+  // normalize codigo / cliente_codigo and basic numeric casts
+  clientesRows = clientesRows.map(row => {
+    const r = { ...row };
+    r.codigo = (r.codigo !== undefined && r.codigo !== null) ? normalizeCodigo(r.codigo) : null;
+    if (!r.cliente_codigo && r.codigo) r.cliente_codigo = r.codigo;
+    else if (r.cliente_codigo) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
+    // coerções simples
+    if (r.total_pedidos !== undefined) r.total_pedidos = parseInt(String(r.total_pedidos).replace(/\D/g, ''), 10) || null;
+    if (r.valor_total_comprado !== undefined) r.valor_total_comprado = toNumberOrNull(r.valor_total_comprado);
+    return r;
   });
 
-  // small normalization for pedidos/produtos numbers (optional)
-  pedidosRows = pedidosRows.map(r => {
-    const copy = { ...r };
-    if (copy.cliente_codigo !== undefined && copy.cliente_codigo !== null) {
-      copy.cliente_codigo = String(copy.cliente_codigo).trim().replace(/^0+/, '') || null;
-    }
-    return copy;
+  pedidosRows = pedidosRows.map(row => {
+    const r = { ...row };
+    if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
+    if (r.valor_total_produtos !== undefined) r.valor_total_produtos = toNumberOrNull(r.valor_total_produtos);
+    if (r.valor_total_pedido !== undefined) r.valor_total_pedido = toNumberOrNull(r.valor_total_pedido);
+    return r;
   });
 
-  produtosRows = produtosRows.map(r => {
-    const copy = { ...r };
-    if (copy.cliente_codigo !== undefined && copy.cliente_codigo !== null) {
-      copy.cliente_codigo = String(copy.cliente_codigo).trim().replace(/^0+/, '') || null;
-    }
-    if (copy.quantidade !== undefined && copy.quantidade !== null) {
-      const q = parseInt(String(copy.quantidade).replace(/\D/g, ''), 10);
-      copy.quantidade = Number.isFinite(q) ? q : null;
-    }
-    return copy;
+  produtosRows = produtosRows.map(row => {
+    const r = { ...row };
+    if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
+    if (r.quantidade !== undefined) r.quantidade = parseInt(String(r.quantidade).replace(/\D/g, ''), 10) || null;
+    if (r.valor_unitario !== undefined) r.valor_unitario = toNumberOrNull(r.valor_unitario);
+    return r;
   });
 
   // diagnóstico duplicatas
   const dupDiag = detectDuplicates(clientesRows, ['codigo']);
   console.log(`→ DUPUPE DIAG BEFORE (clientes) : ${dupDiag.count}`);
-  if (dupDiag.examples.length) console.log('→ exemplos duplicatas (antes):', JSON.stringify(dupDiag.examples.slice(0,6), null, 2));
+  if (dupDiag.examples && dupDiag.examples.length) console.log('→ exemplos duplicatas (antes):', JSON.stringify(dupDiag.examples.slice(0,6), null, 2));
 
-  // dedupe mantendo a primeira ocorrência por 'codigo'
+  // dedupe por codigo (mantém primeiro)
   clientesRows = dedupeByKey(clientesRows, ['codigo']);
   console.log(`→ DEDUPE FINAL: ${clientesRows.length} clientes únicos (orig ${clientesArr.length})`);
 
   console.log("→ LIMPAR TABELAS...");
 
-  // sincronizar import_clientes com upsert (evita duplicate key)
+  // Upsert import_clientes com sanitização de datas inválidas
   try {
     await deleteAll('import_clientes');
     if (clientesRows.length) {
       const batch = 300;
       for (let i = 0; i < clientesRows.length; i += batch) {
-        const chunk = clientesRows.slice(i, i + batch);
-        // Upsert por 'codigo' (mantenha 'codigo' como onConflict — ajuste se seu unique for outro)
+        const rawChunk = clientesRows.slice(i, i + batch);
+
+        const chunk = rawChunk.map(row => {
+          const copy = { ...row };
+          // sanitize date fields
+          for (const k of Object.keys(copy)) {
+            const v = copy[k];
+            if (v === null || v === undefined) continue;
+            // if appears like zero-date or invalid iso, set null
+            if (typeof v === 'string' && isLikelyZeroDate(v)) { copy[k] = null; continue; }
+            // if key name suggests date, sanitize
+            if (/data|criado|hora|date|timestamp/i.test(k)) {
+              const sd = sanitizeDateValue(v, k);
+              copy[k] = sd;
+              continue;
+            }
+          }
+          // ensure cliente_codigo mirrors codigo if missing
+          if ((!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
+          return copy;
+        });
+
+        // debug sample if bad patterns found
+        const badBefore = rawChunk.find(r => Object.values(r).some(v => typeof v === 'string' && v.includes('0000-00-00')));
+        if (badBefore) {
+          console.log(`DEBUG: linha com "0000-00-00" no offset ${i}:`, JSON.stringify(badBefore));
+        }
+
         const { error } = await supabase
           .from('import_clientes')
           .upsert(chunk, { onConflict: 'codigo' });
+
         if (error) {
           console.error(`Erro em upsert import_clientes (offset ${i})`, error);
-          // log exemplo da primeira linha do chunk para debug
-          console.error('exemplo linha:', JSON.stringify(chunk[0], null, 2));
+          console.error('exemplo linha (após sanitização):', JSON.stringify(chunk[0], null, 2));
           throw error;
         }
         console.log(`Upserted ${chunk.length} into import_clientes (offset ${i})`);
@@ -257,7 +290,7 @@ async function main() {
     throw e;
   }
 
-  // sincronizar import_pedidos (clear + insert)
+  // Insert pedidos
   try {
     await deleteAll('import_pedidos');
     if (pedidosRows.length) {
@@ -268,7 +301,7 @@ async function main() {
     throw e;
   }
 
-  // sincronizar import_clientes_produtos (clear + insert)
+  // Insert produtos
   try {
     await deleteAll('import_clientes_produtos');
     if (produtosRows.length) {
