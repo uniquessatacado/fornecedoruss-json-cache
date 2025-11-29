@@ -1,185 +1,190 @@
-/*  scripts/sync_from_general.js
-    Versão FINAL — compatível com o JSON real do cliente (2025-11-29)
-*/
+import fs from "fs";
+import process from "process";
+import path from "path";
+import { fileURLToPath } from "url";
+import { createClient } from "@supabase/supabase-js";
 
-const fs = require('fs');
-const { createClient } = require('@supabase/supabase-js');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-const SUPABASE_URL = process.env.SUPABASE_URL;
-const SUPABASE_KEY = process.env.SUPABASE_KEY;
-
-if (!SUPABASE_URL || !SUPABASE_KEY) {
-  console.error("Missing Supabase credentials.");
-  process.exit(1);
-}
-
-const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
-
-/* ---------------------- helpers ---------------------- */
-
-function safe(v) {
-  if (v === undefined || v === null) return null;
-  const s = String(v).trim();
-  return s === "" ? null : s;
-}
-
-function num(v) {
-  if (v === undefined || v === null) return null;
-  const s = String(v).replace(/[^\d\-.,]/g, '').replace(',', '.');
-  const n = parseFloat(s);
-  return isNaN(n) ? null : n;
-}
+const supabase = createClient(
+  process.env.SUPABASE_URL,
+  process.env.SUPABASE_SERVICE_ROLE
+);
 
 function iso(d) {
   if (!d) return null;
   d = String(d).trim();
-  if (d === "") return null;
-  if (/^0000/.test(d)) return null;
+  if (!d) return null;
 
-  // formato dd/mm/yyyy
+  // zero-date em qualquer formato
+  if (/^0000|^0{4}-0{2}-0{2}/.test(d)) return null;
+  if (d === "0000-00-00T00:00:00Z") return null;
+
+  // dd/mm/yyyy
   const m = d.match(/^(\d{2})\/(\d{2})\/(\d{4})$/);
   if (m) return `${m[3]}-${m[2]}-${m[1]}T00:00:00Z`;
 
-  // formato "2024-03-18 10:12:40"
-  const isoLike = d.replace(' ', 'T');
-  if (/^\d{4}-\d{2}-\d{2}T/.test(isoLike)) return isoLike + "Z";
+  // yyyy-mm-dd HH:mm:ss
+  const isoLike = d.replace(" ", "T");
+  if (/^\d{4}-\d{2}-\d{2}T/.test(isoLike)) {
+    return isoLike.endsWith("Z") ? isoLike : `${isoLike}Z`;
+  }
 
   return null;
 }
 
-/* ------------------------------------------------------ */
+async function insertBatch(table, rows) {
+  if (rows.length === 0) return;
 
-async function clear(table) {
-  try {
-    await supabase.from(table).delete().gt('id', 0);
-  } catch (e) {
-    console.error(`Erro limpando ${table}`, e.message);
+  const { error } = await supabase.from(table).insert(rows);
+
+  if (error) {
+    console.error(`Batch error ${table}`, error);
+    throw error;
   }
 }
 
-async function insertBatch(table, rows, batch, conflictColumn) {
-  for (let i = 0; i < rows.length; i += batch) {
-    const chunk = rows.slice(i, i + batch);
-    const { error } = await supabase
-      .from(table)
-      .upsert(chunk, { onConflict: conflictColumn, returning: false });
+async function run() {
+  const source = process.argv[2];
+  if (!source) {
+    console.error("Missing JSON file path");
+    process.exit(1);
+  }
 
-    if (error) {
-      console.error("Batch error", table, error);
-      throw error;
+  const json = JSON.parse(fs.readFileSync(source, "utf8"));
+
+  console.log("Clearing temp tables...");
+  await supabase.from("import_clientes").delete().neq("codigo", -1);
+  await supabase.from("import_pedidos").delete().neq("codigo_pedido", -1);
+  await supabase.from("import_clientes_produtos").delete().neq("produto_codigo", "-1");
+
+  // --------------------------
+  // IMPORT CLIENTES
+  // --------------------------
+  const clienteBatch = [];
+  const BATCH = 200;
+
+  for (let offset = 0; offset < json.length; offset++) {
+    const c = json[offset];
+    const row = {
+      codigo: c.codigo,
+      nome: c.nome,
+      email: c.email,
+      sexo: c.sexo || null,
+      whatsapp: c.whatsapp || null,
+      cidade: c.cidade || null,
+      estado: c.estado || null,
+      data_cadastro: iso(c.data_cadastro),
+      loja_drop: c.loja_drop ? c.loja_drop === "1" : false,
+      representante: c.representante ? c.representante === "1" : false,
+      total_pedidos: c.total_pedidos || 0,
+      valor_total_comprado: c.valor_total_comprado || 0,
+      criado_em: new Date().toISOString(),
+    };
+
+    clienteBatch.push(row);
+
+    if (clienteBatch.length === BATCH) {
+      await insertBatch("import_clientes", clienteBatch);
+      console.log(`→ import_clientes: inserted ${BATCH} (offset ${offset})`);
+      clienteBatch.length = 0;
     }
-
-    console.log(`→ ${table}: inserted ${chunk.length} (offset ${i})`);
-  }
-}
-
-/* ------------------------------------------------------ */
-
-async function main() {
-  const file = process.argv[2];
-  if (!file || !fs.existsSync(file)) {
-    console.error("Arquivo não encontrado");
-    process.exit(1);
   }
 
-  const raw = fs.readFileSync(file, 'utf8');
-  let json;
-  try {
-    json = JSON.parse(raw);
-  } catch (e) {
-    console.error("Erro no JSON", e.message);
-    process.exit(1);
+  if (clienteBatch.length) {
+    await insertBatch("import_clientes", clienteBatch);
+    console.log("→ import_clientes: final batch inserted");
   }
 
-  if (!Array.isArray(json)) {
-    console.error("JSON principal não é array.");
-    process.exit(1);
-  }
+  // --------------------------
+  // IMPORT PEDIDOS
+  // --------------------------
+  const pedidosBatch = [];
 
-  console.log("→ Clientes no JSON:", json.length);
+  for (let cx of json) {
+    const clienteCodigo = cx.codigo;
 
-  const clientesRows = [];
-  const pedidosRows = [];
-  const produtosRows = [];
-
-  for (const client of json) {
-    const cliente_codigo = safe(client.codigo) || safe(client.cliente_codigo);
-
-    /* ----- CLIENTE ----- */
-    clientesRows.push({
-      cliente_codigo,
-      codigo: cliente_codigo,
-      nome: safe(client.nome),
-      email: safe(client.email),
-      data_cadastro: iso(client.data_cadastro),
-      whatsapp: safe(client.whatsapp),
-      cidade: safe(client.cidade),
-      estado: safe(client.estado),
-      loja_drop: safe(client.loja_drop),
-      representante: safe(client.representante),
-      total_pedidos: num(client.total_pedidos),
-      valor_total_comprado: num(client.valor_total_comprado),
-      criado_em: new Date().toISOString()
-    });
-
-    /* ----- PEDIDOS ----- */
-    if (Array.isArray(client.pedidos)) {
-      for (const p of client.pedidos) {
-        pedidosRows.push({
-          codigo_pedido: safe(p.codigo_pedido),
-          cliente_codigo,
-          situacao_pedido: safe(p.situacao_pedido),
+    if (Array.isArray(cx.pedidos)) {
+      for (let p of cx.pedidos) {
+        pedidosBatch.push({
+          cliente_codigo: clienteCodigo,
+          codigo_pedido: p.codigo_pedido,
+          situacao_pedido: p.situacao_pedido || null,
           data_hora_pedido: iso(p.data_hora_pedido),
           data_hora_confirmacao: iso(p.data_hora_confirmacao),
           data_hora_confirmacao_pagamento: iso(p.data_hora_confirmacao_pagamento),
-          valor_total_produtos: num(p.valor_total_produtos),
-          valor_frete: num(p.valor_frete),
-          frete: safe(p.frete),
-          valor_total_pedido: num(p.valor_total_pedido),
-          desconto: num(p.desconto),
-          cidade: safe(p.cidade),
-          estado: safe(p.estado),
-          percentual_comissao: num(p.percentual_comissao),
-          origem_pedido: safe(p.origem_pedido),
-          tipo_compra: safe(p.tipo_compra),
-          texto_tipo_compra: safe(p.texto_tipo_compra),
-          pedidos_loja_drop: safe(p.pedidos_loja_drop),
-          criado_em: new Date().toISOString()
+          valor_total_produtos: p.valor_total_produtos || 0,
+          valor_frete: p.valor_frete || 0,
+          frete: p.frete || null,
+          valor_total_pedido: p.valor_total_pedido || 0,
+          desconto: p.desconto || 0,
+          cidade: p.cidade || cx.cidade || null,
+          estado: p.estado || cx.estado || null,
+          percentual_comissao: p.percentual_comissao || 0,
+          origem_pedido: p.origem_pedido || null,
+          tipo_compra: p.tipo_compra || null,
+          texto_tipo_compra: p.texto_tipo_compra || null,
+          pedidos_loja_drop: p.pedidos_loja_drop === "SIM",
+          criado_em: new Date().toISOString(),
         });
-      }
-    }
 
-    /* ----- PRODUTOS COMPRADOS ----- */
-    if (client.produtos_comprados && typeof client.produtos_comprados === "object") {
-      for (const key of Object.keys(client.produtos_comprados)) {
-        const pr = client.produtos_comprados[key];
-
-        produtosRows.push({
-          cliente_codigo,
-          produto_codigo: safe(pr.codigo) || safe(key),
-          titulo: safe(pr.titulo),
-          categoria_principal: safe(pr.categoria_principal),
-          categoria: safe(pr.categoria),
-          marca: safe(pr.marca),
-          quantidade: num(pr.quantidade),
-          criado_em: new Date().toISOString()
-        });
+        if (pedidosBatch.length >= BATCH) {
+          await insertBatch("import_pedidos", pedidosBatch);
+          console.log("Inserted 300 into import_pedidos");
+          pedidosBatch.length = 0;
+        }
       }
     }
   }
 
-  /* ---- LIMPAR E INSERIR ---- */
+  if (pedidosBatch.length) {
+    await insertBatch("import_pedidos", pedidosBatch);
+    console.log("Inserted final pedidos batch");
+  }
 
-  console.log("→ Limpando tabelas…");
-  await clear("import_clientes");
-  await clear("import_pedidos");
-  await clear("import_clientes_produtos");
+  // --------------------------
+  // IMPORT PRODUTOS
+  // --------------------------
+  const produtosBatch = [];
 
-  await insertBatch("import_clientes", clientesRows, 200, "codigo");
-  await insertBatch("import_pedidos", pedidosRows, 200, "codigo_pedido");
-  await insertBatch("import_clientes_produtos", produtosRows, 300, "produto_codigo");
+  for (let cx of json) {
+    const clienteCodigo = cx.codigo;
 
-  console.log("→ FINALIZADO COM SUCESSO!");
+    const produtos = cx.produtos_comprados;
+    if (!produtos) continue;
+
+    for (let key of Object.keys(produtos)) {
+      const pr = produtos[key];
+
+      produtosBatch.push({
+        cliente_codigo: clienteCodigo,
+        produto_codigo: pr.codigo,
+        titulo: pr.titulo || null,
+        categoria_principal: pr.categoria_principal || null,
+        categoria: pr.categoria || null,
+        marca: pr.marca || null,
+        quantidade: Number(pr.quantidade || 0),
+        criado_em: new Date().toISOString(),
+      });
+
+      if (produtosBatch.length >= BATCH) {
+        await insertBatch("import_clientes_produtos", produtosBatch);
+        console.log("Inserted 300 into import_clientes_produtos");
+        produtosBatch.length = 0;
+      }
+    }
+  }
+
+  if (produtosBatch.length) {
+    await insertBatch("import_clientes_produtos", produtosBatch);
+    console.log("Inserted final produtos batch");
+  }
+
+  console.log("✔ Sync finalizado sem erros.");
 }
 
-main();
+run().catch((e) => {
+  console.error("Fatal error", e);
+  process.exit(1);
+});
