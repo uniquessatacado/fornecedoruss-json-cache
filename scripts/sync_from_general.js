@@ -1,6 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão final — sincroniza general.json → import_clientes (upsert), import_pedidos, import_clientes_produtos
-   2025-11-29
+   Versão final corrigida — 2025-11-29
+   Sincroniza general.json → import_clientes (upsert), import_pedidos, import_clientes_produtos
 */
 
 const fs = require('fs');
@@ -58,6 +58,7 @@ function findArrayByHeuristics(json, candidateNames = []) {
   return [];
 }
 
+/* ------------------ date helpers ------------------ */
 function parseDateString(val) {
   if (!val || typeof val !== "string") return null;
   const s = val.trim();
@@ -91,17 +92,30 @@ function sanitizeDateValue(v, keyName) {
     // if can't parse, return null to avoid DB error
     return null;
   }
-  // if number or Date, try to convert
   if (v instanceof Date) return isNaN(v.getTime()) ? null : v.toISOString();
   return null;
 }
 
+function normalizeDatesInRows(rows) {
+  if (!Array.isArray(rows)) return;
+  const dateRegex = /^\d{2}\/\d{2}\/\d{4}/;
+  rows.forEach(row => {
+    if (!row || typeof row !== 'object') return;
+    for (const key of Object.keys(row)) {
+      const v = row[key];
+      if (typeof v === 'string' && dateRegex.test(v.trim())) {
+        const iso = parseDateString(v);
+        if (iso) row[key] = iso;
+      }
+    }
+  });
+}
+
+/* ------------------ normalize / numeric helpers ------------------ */
 function normalizeCodigo(val) {
   if (val === null || val === undefined) return null;
   let s = String(val).trim();
-  // remove chars estranhos, manter alfanuméricos, ponto, hífen, underline
   s = s.replace(/[^0-9a-zA-Z\-_.]/g, '');
-  // remove leading zeros (opcional; mantive para evitar '0001' vs '1' conflito)
   s = s.replace(/^0+/, '');
   if (s === '') return null;
   return s;
@@ -112,12 +126,12 @@ function toNumberOrNull(v) {
   if (typeof v === 'number') return Number.isFinite(v) ? v : null;
   const s = String(v).replace(/[^\d\-.,]/g, '').trim();
   if (s === '') return null;
-  const s2 = s.replace(/\./g, '').replace(/,/g, '.'); // treat BR formatting
+  const s2 = s.replace(/\./g, '').replace(/,/g, '.');
   const n = parseFloat(s2);
   return Number.isNaN(n) ? null : n;
 }
 
-/* detect duplicates e dedupe */
+/* ------------------ dedupe helpers ------------------ */
 function detectDuplicates(rows, keys = ['codigo']) {
   const seen = new Map();
   const examples = [];
@@ -138,12 +152,12 @@ function dedupeByKey(rows, keys = ['codigo']) {
   const map = new Map();
   for (const r of rows) {
     const key = keys.map(k0 => (r[k0] === undefined || r[k0] === null) ? '' : String(r[k0])).join('|');
-    if (!map.has(key)) map.set(key, r); // mantém primeiro
+    if (!map.has(key)) map.set(key, r);
   }
   return Array.from(map.values());
 }
 
-/* DB helpers */
+/* ------------------ db helpers ------------------ */
 async function deleteAll(table) {
   try {
     const { error } = await supabase.from(table).delete().gt('id', 0);
@@ -206,7 +220,6 @@ async function main() {
     r.codigo = (r.codigo !== undefined && r.codigo !== null) ? normalizeCodigo(r.codigo) : null;
     if (!r.cliente_codigo && r.codigo) r.cliente_codigo = r.codigo;
     else if (r.cliente_codigo) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
-    // coerções simples
     if (r.total_pedidos !== undefined) r.total_pedidos = parseInt(String(r.total_pedidos).replace(/\D/g, ''), 10) || null;
     if (r.valor_total_comprado !== undefined) r.valor_total_comprado = toNumberOrNull(r.valor_total_comprado);
     return r;
@@ -239,7 +252,7 @@ async function main() {
 
   console.log("→ LIMPAR TABELAS...");
 
-  // Upsert import_clientes com sanitização de datas inválidas
+  // Upsert import_clientes with sanitization of dates
   try {
     await deleteAll('import_clientes');
     if (clientesRows.length) {
@@ -253,21 +266,17 @@ async function main() {
           for (const k of Object.keys(copy)) {
             const v = copy[k];
             if (v === null || v === undefined) continue;
-            // if appears like zero-date or invalid iso, set null
             if (typeof v === 'string' && isLikelyZeroDate(v)) { copy[k] = null; continue; }
-            // if key name suggests date, sanitize
             if (/data|criado|hora|date|timestamp/i.test(k)) {
               const sd = sanitizeDateValue(v, k);
               copy[k] = sd;
               continue;
             }
           }
-          // ensure cliente_codigo mirrors codigo if missing
           if ((!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
           return copy;
         });
 
-        // debug sample if bad patterns found
         const badBefore = rawChunk.find(r => Object.values(r).some(v => typeof v === 'string' && v.includes('0000-00-00')));
         if (badBefore) {
           console.log(`DEBUG: linha com "0000-00-00" no offset ${i}:`, JSON.stringify(badBefore));
