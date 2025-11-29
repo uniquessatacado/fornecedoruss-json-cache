@@ -1,4 +1,4 @@
-﻿name: Sync Dados Gerais (every 5min)
+name: Sync Dados Gerais (every 5min)
 
 on:
   schedule:
@@ -31,7 +31,8 @@ jobs:
             echo "No SOURCE_JSON_URL_GENERAL secret defined" >&2
             exit 1
           fi
-          curl -sS "$SRC_URL" -o /tmp/source_general.json || (echo "Download failed" && exit 1)
+          # tenta baixar com timeout e retry simples
+          curl -sS --fail --retry 3 --max-time 30 "$SRC_URL" -o /tmp/source_general.json || (echo "Download failed" && exit 1)
           echo "Downloaded size: $(wc -c < /tmp/source_general.json) bytes"
 
       - name: Compare and update repo cache
@@ -46,8 +47,8 @@ jobs:
               git config user.name "github-actions[bot]"
               git config user.email "github-actions[bot]@users.noreply.github.com"
               git add "$TARGET"
-              git commit -m "Auto-update general.json"
-              git push
+              git commit -m "Auto-update general.json" || echo "No changes to commit"
+              git push || echo "Push failed (maybe permissions)"
               echo "no_change=false" >> $GITHUB_OUTPUT
             fi
           else
@@ -55,12 +56,16 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add "$TARGET"
-            git commit -m "Add general.json (initial sync)"
-            git push
+            git commit -m "Add general.json (initial sync)" || echo "No changes to commit"
+            git push || echo "Push failed (maybe permissions)"
             echo "no_change=false" >> $GITHUB_OUTPUT
           fi
 
-          
+      - name: Install supabase-js
+        # instala o cliente supabase sem depender de package.json
+        run: |
+          npm install @supabase/supabase-js --no-save
+
       - name: Run sync script
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
