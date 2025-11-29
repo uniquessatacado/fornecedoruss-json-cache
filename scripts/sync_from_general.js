@@ -1,4 +1,4 @@
-﻿/* scripts/sync_from_general.js */
+/* scripts/sync_from_general.js */
 const fs = require('fs');
 const { createClient } = require('@supabase/supabase-js');
 
@@ -62,38 +62,31 @@ function findArrayByHeuristics(json, candidateNames = []) {
    3. CONVERSÃO AUTOMÁTICA DE DATAS DD/MM/YYYY → ISO
 -------------------------------------------------------------- */
 function parseDateString(val) {
-  if (!val || typeof val !== "string") return null;
-  const s = val.trim();
+  if (!val && val !== 0) return null;
+  const s = String(val).trim();
+
+  // Attempt ISO first
+  const isoTest = Date.parse(s);
+  if (!isNaN(isoTest)) return new Date(isoTest).toISOString();
 
   // Match DD/MM/YYYY ou DD/MM/YYYY HH:MM[:SS]
-  const m = s.match(
-    /^(\d{2})\/(\d{2})\/(\d{4})(?:\s+(\d{2}:\d{2}(?::\d{2})?))?$/
-  );
+  const m = s.match(/^(\d{2})[\/\-](\d{2})[\/\-](\d{4})(?:\s+(\d{2}:\d{2}(?::\d{2})?))?$/);
   if (!m) return null;
 
-  const day = m[1];
-  const month = m[2];
-  const year = m[3];
-
+  const day = m[1], month = m[2], year = m[3];
   let time = m[4] || "00:00:00";
+  if (/^\d{2}:\d{2}$/.test(time)) time = time + ":00";
 
-  // Se for HH:MM, adicionar :00
-  if (/^\d{2}:\d{2}$/.test(time)) {
-    time = time + ":00";
-  }
-
-  // Retorna ISO UTC
+  // Return ISO UTC
   return `${year}-${month}-${day}T${time}Z`;
 }
 
 function normalizeDatesInRows(rows) {
   if (!Array.isArray(rows)) return;
-
-  const dateRegex = /^\d{2}\/\d{2}\/\d{4}/;
+  const dateRegex = /^\d{2}[\/\-]\d{2}[\/\-]\d{4}/;
 
   rows.forEach(row => {
     if (!row || typeof row !== "object") return;
-
     for (const key of Object.keys(row)) {
       const v = row[key];
       if (typeof v === "string" && dateRegex.test(v.trim())) {
@@ -105,7 +98,41 @@ function normalizeDatesInRows(rows) {
 }
 
 /* --------------------------------------------------------------
-   4. DELETE + INSERT EM LOTES
+   4. DEDUPE: manter por 'codigo' o item mais recente (por data)
+-------------------------------------------------------------- */
+function getDateForItem(it) {
+  // tenta várias chaves que podem conter data
+  const candidates = [it.data_cadastro, it.criado_em, it.criado, it.data_pedido, it.data_hora_pedido];
+  for (const c of candidates) {
+    const iso = parseDateString(c);
+    if (iso) return new Date(iso);
+  }
+  // se nenhuma data parseou, tenta Date.parse do raw
+  return null;
+}
+
+function dedupeByCodigoKeepLatest(arr) {
+  const map = new Map();
+  for (const it of arr) {
+    const codigo = (it.codigo ?? it.cliente_codigo ?? "").toString();
+    if (!codigo) continue; // pula sem código
+    const date = getDateForItem(it);
+    if (!map.has(codigo)) {
+      map.set(codigo, { item: it, date });
+    } else {
+      const existing = map.get(codigo);
+      // substitui se este tem data mais nova
+      if (date && (!existing.date || date > existing.date)) {
+        map.set(codigo, { item: it, date });
+      }
+      // se nenhum tiver data, mantemos o primeiro por estabilidade
+    }
+  }
+  return Array.from(map.values()).map(v => v.item);
+}
+
+/* --------------------------------------------------------------
+   5. DELETE + INSERT EM LOTES
 -------------------------------------------------------------- */
 async function deleteAll(table) {
   try {
@@ -140,7 +167,7 @@ async function insertInBatches(table, rows, batch = 300) {
 }
 
 /* --------------------------------------------------------------
-   5. MAIN (principal)
+   6. MAIN (principal)
 -------------------------------------------------------------- */
 async function main() {
   const source = process.argv[2];
@@ -177,8 +204,11 @@ async function main() {
     `Detected arrays sizes -> clientes: ${clientesArr.length}, pedidos: ${pedidosArr.length}, produtos: ${produtosArr.length}`
   );
 
-  // mapeia campos
-  const clientesRows = clientesArr.map(it => pickFields(it, COLUMNS_CLIENTES));
+  // --- dedupe clientes por 'codigo' mantendo o mais recente
+  const clientesClean = dedupeByCodigoKeepLatest(clientesArr);
+
+  // mapeia campos (após dedupe)
+  const clientesRows = clientesClean.map(it => pickFields(it, COLUMNS_CLIENTES));
   const pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   const produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
