@@ -1,6 +1,6 @@
 /* scripts/sync_from_general.js
-   Versão final com criação automática de placeholders para pedidos sem cliente existente
-   2025-11-29 - final
+   Versão final: trata placeholders para pedidos e produtos (resolve FK cliente_codigo null)
+   2025-11-29
 */
 
 const fs = require('fs');
@@ -205,7 +205,7 @@ async function main() {
   let pedidosRows  = pedidosArr.map(it => pickFields(it, COLUMNS_PEDIDOS));
   let produtosRows = produtosArr.map(it => pickFields(it, COLUMNS_PRODUTOS));
 
-  // normalize dates (DD/MM/YYYY -> ISO) where possible
+  // normalize dates
   normalizeDatesInRows(clientesRows);
   normalizeDatesInRows(pedidosRows);
   normalizeDatesInRows(produtosRows);
@@ -233,7 +233,12 @@ async function main() {
 
   produtosRows = produtosRows.map(row => {
     const r = { ...row };
-    if (r.cliente_codigo !== undefined && r.cliente_codigo !== null) r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
+    // tentativa: alguns JSONs usam 'cliente' ou 'cliente_codigo' ou 'codigo_cliente' — tenta mapear
+    if (!r.cliente_codigo && (row.cliente || row.codigo_cliente || row['cliente_codigo'])) {
+      r.cliente_codigo = normalizeCodigo(row.cliente ?? row.codigo_cliente ?? row['cliente_codigo']);
+    } else if (r.cliente_codigo) {
+      r.cliente_codigo = normalizeCodigo(r.cliente_codigo);
+    }
     if (r.quantidade !== undefined) r.quantidade = parseInt(String(r.quantidade).replace(/\D/g, ''), 10) || null;
     if (r.valor_unitario !== undefined) r.valor_unitario = toNumberOrNull(r.valor_unitario);
     if (r.data_pedido) r.data_pedido = sanitizeDateValue(r.data_pedido, 'data_pedido');
@@ -298,33 +303,35 @@ async function main() {
     throw e;
   }
 
-  // --- Ensure pedidos have cliente_codigo non-null and that cliente exists
-  // normalize pedidos cliente_codigo fallback to string '0' would break FK if not present,
-  // so we will detect all unique codes used in pedidos and create placeholder clients for missing ones.
-
+  // --- coletar todos os cliente_codigo usados em pedidos e produtos
   const clientesExistingSet = new Set(clientesRows.map(c => (c.codigo === undefined || c.codigo === null) ? '' : String(c.codigo)));
   const pedidoCodesSet = new Set();
   for (const p of pedidosRows) {
     const code = (p.cliente_codigo === undefined || p.cliente_codigo === null) ? '' : String(p.cliente_codigo);
     pedidoCodesSet.add(code);
   }
+  const produtoCodesSet = new Set();
+  for (const pr of produtosRows) {
+    const code = (pr.cliente_codigo === undefined || pr.cliente_codigo === null) ? '' : String(pr.cliente_codigo);
+    produtoCodesSet.add(code);
+  }
 
-  // collect missing codes (non-empty) — also include empty-string code if present
-  const missing = [];
+  // missing codes = those in pedidos or produtos not present in clientesExistingSet
+  const missing = new Set();
   for (const code of pedidoCodesSet) {
-    // treat '' as a real missing token — we will still create placeholder '0' to avoid empty-key issues
-    const check = code === '' ? '0' : code;
-    if (!clientesExistingSet.has(check)) {
-      missing.push(check);
-      // add to set so we don't duplicate
-      clientesExistingSet.add(check);
-    }
+    const key = (code === '' ? '0' : code);
+    if (!clientesExistingSet.has(key)) missing.add(key);
+  }
+  for (const code of produtoCodesSet) {
+    const key = (code === '' ? '0' : code);
+    if (!clientesExistingSet.has(key)) missing.add(key);
   }
 
   // If there are missing codes, insert placeholders into import_clientes
-  if (missing.length) {
-    console.log(`→ Criando ${missing.length} placeholders em import_clientes para satisfazer FK dos pedidos.`);
-    const placeholders = missing.map(code => {
+  if (missing.size) {
+    const missingArr = Array.from(missing);
+    console.log(`→ Criando ${missingArr.length} placeholders em import_clientes para satisfazer FK dos pedidos/produtos.`);
+    const placeholders = missingArr.map(code => {
       return {
         codigo: String(code),
         cliente_codigo: String(code),
@@ -333,7 +340,6 @@ async function main() {
       };
     });
 
-    // batch upsert placeholders
     try {
       const batch = 300;
       for (let i = 0; i < placeholders.length; i += batch) {
@@ -353,25 +359,37 @@ async function main() {
     console.log("→ Nenhum placeholder necessário para import_clientes.");
   }
 
-  // Now ensure pedidosRows cliente_codigo values are non-empty:
-  let fallbackCount = 0;
-  const fallbackExamples = [];
+  // ensure pedidosRows cliente_codigo values are non-empty:
+  let pedidoFallbackCount = 0;
+  const pedidoFallbackExamples = [];
   pedidosRows = pedidosRows.map((p, idx) => {
     const copy = { ...p };
     if (copy.cliente_codigo === undefined || copy.cliente_codigo === null || String(copy.cliente_codigo).trim() === '') {
-      // map to '0' placeholder if we created it, otherwise choose first missing or '0'
       copy.cliente_codigo = '0';
-      fallbackCount++;
-      if (fallbackExamples.length < 5) fallbackExamples.push({ index: idx, sample: copy });
+      pedidoFallbackCount++;
+      if (pedidoFallbackExamples.length < 5) pedidoFallbackExamples.push({ index: idx, sample: copy });
     } else {
-      // ensure it's string and matches pattern
       copy.cliente_codigo = String(copy.cliente_codigo);
     }
     return copy;
   });
-  if (fallbackCount > 0) {
-    console.log(`→ WARN: ${fallbackCount} pedidos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(fallbackExamples, null, 2)})`);
-  }
+  if (pedidoFallbackCount > 0) console.log(`→ WARN: ${pedidoFallbackCount} pedidos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(pedidoFallbackExamples, null, 2)})`);
+
+  // ensure produtosRows cliente_codigo values are non-empty:
+  let produtoFallbackCount = 0;
+  const produtoFallbackExamples = [];
+  produtosRows = produtosRows.map((pr, idx) => {
+    const copy = { ...pr };
+    if (copy.cliente_codigo === undefined || copy.cliente_codigo === null || String(copy.cliente_codigo).trim() === '') {
+      copy.cliente_codigo = '0';
+      produtoFallbackCount++;
+      if (produtoFallbackExamples.length < 5) produtoFallbackExamples.push({ index: idx, sample: copy });
+    } else {
+      copy.cliente_codigo = String(copy.cliente_codigo);
+    }
+    return copy;
+  });
+  if (produtoFallbackCount > 0) console.log(`→ WARN: ${produtoFallbackCount} produtos faltavam cliente_codigo — atribuídos a '0' (exemplos: ${JSON.stringify(produtoFallbackExamples, null, 2)})`);
 
   // Insert pedidos
   try {
