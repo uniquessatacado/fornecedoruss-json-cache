@@ -1,6 +1,8 @@
-/* scripts/sync_from_general_fixed_size_color_only.js
-   Versão corrigida (sem extração de valor_unitario) — extrai apenas tamanho e cor do título.
-   Uso: node ./scripts/sync_from_general_fixed_size_color_only.js /tmp/source_general.json
+/* scripts/sync_from_general.js
+   Versão com limpeza de orfãos (delete-orphans) por chave.
+   - Não zera tabelas inteiras.
+   - Apaga apenas registros que não existem mais no JSON (por chave).
+   - Configure as flags no topo para ativar/desativar delete-orphans por tabela.
 */
 
 const fs = require('fs');
@@ -15,6 +17,14 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 }
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
+
+/* ====== CONFIG: altere apenas aqui se quiser desligar comportamento de delete-orphans ====== */
+const DO_DELETE_ORPHANS = {
+  import_clientes: false,               // recomendo testar com false primeiro
+  import_pedidos: true,
+  import_clientes_produtos: true
+};
+/* ========================================================================================= */
 
 const COLUMNS_CLIENTES = [
   'cliente_codigo','codigo','nome','email','data_cadastro',
@@ -37,7 +47,7 @@ const COLUMNS_PRODUTOS = [
   'subcategoria','tamanho','cor','sku','data_pedido'
 ];
 
-/* ---------------- helpers ---------------- */
+/* ---------------- helpers (mesma lógica que você já conhece) ---------------- */
 
 function pickFields(obj, allowed) {
   const res = {};
@@ -133,30 +143,21 @@ function dedupeByKey(rows, keys = ['codigo']) {
 
 /* ---------- title parsing: tamanho & cor only ---------- */
 
-/*
-  Extrai:
-   - Cor: procura "Cor: <valor>" (case-insensitive) ou "Cor - <valor>" ou "Cor: <valor> -"
-   - Tamanho: procura "Tamanho: <valor>" ou tokens no final como "GG", "G1", "M", "P", "XL", etc.
-*/
 function extractSizeColorFromTitle(title) {
   if (!title || typeof title !== 'string') return { tamanho: null, cor: null };
 
   const t = title;
-
-  // cor
   let cor = null;
   const corRegex = /Cor[:\s\-]*([A-Za-z0-9À-ÿ \/\.\-]+?)(?:\s*(?:[-,\/\|]|$))/i;
   const mcor = t.match(corRegex);
   if (mcor && mcor[1]) cor = String(mcor[1]).trim();
 
-  // tamanho
   let tamanho = null;
   const tamRegex = /Tamanho[:\s]*([A-Za-z0-9\.\-]+)(?:\s*(?:[-,\/\|]|$))/i;
   const mtam = t.match(tamRegex);
   if (mtam && mtam[1]) {
     tamanho = String(mtam[1]).trim();
   } else {
-    // fallback: tokens comuns de tamanho próximos ao final ou em padrão " - GG" etc.
     const fallback = t.match(/(?:[-\s]|^)(P{1,2}|M|G{1,3}|G\d|GG|G1|G2|G3|XS|S|L|XL|XXL|\d{1,3})(?:\s*$|[^\w]|$)/i);
     if (fallback && fallback[1]) tamanho = String(fallback[1]).trim();
   }
@@ -167,13 +168,13 @@ function extractSizeColorFromTitle(title) {
   return { tamanho: tamanho || null, cor: cor || null };
 }
 
-/* ---------------- Insert robusto com scrub ---------------- */
+/* ---------------- Insert + delete-orphans helpers ---------------- */
+
 async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
   for (let i = 0; i < rows.length; i += batch) {
     const chunk = rows.slice(i, i + batch);
     if (chunk.length === 0) continue;
 
-    // scrub agressivo de zero-dates
     for (const row of chunk) {
       for (const k of Object.keys(row)) {
         const v = row[k];
@@ -186,7 +187,7 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
       const { error } = await supabase.from(table).insert(chunk, { returning: false });
       if (error) {
         console.error(`Error inserting chunk into ${table} (offset ${i})`, error);
-        // per-row retry para isolar
+        // per-row fallback
         for (let r = 0; r < chunk.length; r++) {
           try {
             const row = chunk[r];
@@ -218,20 +219,76 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
   }
 }
 
-/* delete padrão */
-async function deleteAll(table) {
-  try {
-    const { error } = await supabase.from(table).delete().gt('id', 0);
-    if (error) {
-      console.log(`delete fallback for ${table}`, error.message || error);
-      await supabase.from(table).delete().not('id', 'is', null);
-    } else {
-      console.log(`Deleted contents of ${table}`);
-    }
-  } catch (e) {
-    console.error("delete error", e);
-    throw e;
+/**
+ * deleteOrphansByKey
+ * - table: nome da tabela
+ * - keyColumn: coluna chave (ex: 'codigo_pedido')
+ * - keepKeysSet: Set com as chaves que DEVEM SER MANTIDAS (vêm do JSON)
+ *
+ * Estratégia:
+ * 1) busca todas as chaves existentes no banco
+ * 2) calcula diferença (existente - keepKeysSet)
+ * 3) deleta em chunks
+ */
+async function deleteOrphansByKey(table, keyColumn, keepKeysSet, chunk = 1000) {
+  if (!DO_DELETE_ORPHANS[table]) {
+    console.log(`deleteOrphansByKey: skip for ${table} (flag disabled)`);
+    return;
   }
+
+  console.log(`deleteOrphansByKey: buscando chaves existentes em ${table} (${keyColumn})...`);
+  let allExisting = [];
+  let page = 0;
+  const pageSize = 10000; // leitura por páginas para não estourar memória
+  while (true) {
+    const { data, error } = await supabase
+      .from(table)
+      .select(keyColumn, { count: 'exact' })
+      .range(page * pageSize, (page + 1) * pageSize - 1);
+
+    if (error) {
+      console.error(`Erro lendo chaves de ${table}:`, error);
+      return;
+    }
+    if (!data || data.length === 0) break;
+    allExisting = allExisting.concat(data.map(r => r[keyColumn]));
+    if (data.length < pageSize) break;
+    page++;
+  }
+
+  console.log(`→ Encontradas ${allExisting.length} chaves existentes em ${table}.`);
+  const toDelete = allExisting.filter(k => {
+    if (k === null || k === undefined) return false;
+    const ks = String(k).trim();
+    if (ks === '') return false;
+    return !keepKeysSet.has(ks);
+  });
+
+  console.log(`→ ${toDelete.length} registros serão deletados de ${table} (em chunks).`);
+
+  for (let i = 0; i < toDelete.length; i += chunk) {
+    const chunkArr = toDelete.slice(i, i + chunk);
+    try {
+      const { error } = await supabase
+        .from(table)
+        .delete()
+        .in(keyColumn, chunkArr);
+      if (error) console.error(`Erro ao deletar chunk em ${table} (offset ${i}):`, error);
+      else console.log(`Deleted chunk ${i}-${i+chunkArr.length-1} from ${table}`);
+    } catch (e) {
+      console.error(`Exception during delete chunk in ${table} (offset ${i}):`, e);
+    }
+    // pausa curta para não sobrecarregar
+    await new Promise(res => setTimeout(res, 200));
+  }
+
+  console.log(`deleteOrphansByKey: concluído para ${table}`);
+}
+
+/* Mantém deleteAll mas não iremos chamar */
+async function deleteAll(table) {
+  console.log(`[AVISO] deleteAll(${table}) chamado mas está desativado.`);
+  return;
 }
 
 /* ------------------ main ------------------ */
@@ -275,54 +332,12 @@ async function main() {
     clientesRows = dedupeByKey(clientesRows, ['codigo']);
     console.log(`→ DEDUPE / clientes únicos: ${clientesRows.length}`);
 
-    console.log("→ LIMPAR import_clientes...");
-    await deleteAll('import_clientes');
-
-    // upsert clientes em lotes (onConflict codigo)
-    if (clientesRows.length) {
-      const batch = 300;
-      for (let i = 0; i < clientesRows.length; i += batch) {
-        const chunk = clientesRows.slice(i, i + batch).map(r => {
-          const copy = { ...r };
-          for (const k of Object.keys(copy)) {
-            if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
-            if (/data|criado|hora|date|timestamp/i.test(k) && copy[k]) copy[k] = sanitizeDateValue(copy[k]);
-          }
-          if ((!copy.cliente_codigo || copy.cliente_codigo === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
-          return copy;
-        });
-
-        try {
-          const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
-          if (error) {
-            console.error(`Erro em upsert import_clientes (offset ${i})`, error);
-            for (let r = 0; r < chunk.length; r++) {
-              try {
-                const { error: e2 } = await supabase.from('import_clientes').upsert([chunk[r]], { onConflict: 'codigo' });
-                if (e2) console.error('upsert row error', e2);
-              } catch (er) { console.error('upsert row exception', er); }
-            }
-          } else {
-            console.log(`Upserted ${chunk.length} into import_clientes (offset ${i})`);
-          }
-        } catch (e) {
-          console.error(`Exception upserting clients offset ${i}:`, e);
-          for (let r = 0; r < chunk.length; r++) {
-            try {
-              const row = chunk[r];
-              for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
-              const { error: e2 } = await supabase.from('import_clientes').upsert([row], { onConflict: 'codigo' });
-              if (e2) console.error('row upsert fallback error', e2);
-            } catch (er) { console.error('row upsert fallback exception', er); }
-          }
-        }
-      }
-    }
-
-    // extrair pedidos/produtos de cada cliente (quando embutidos)
+    // Montar sets de chaves que chegaram no JSON
+    const clientesKeys = new Set(clientesRows.map(c => String(c.codigo ?? c.cliente_codigo ?? '').trim()).filter(x => x !== ''));
     const pedidosRows = [];
     const produtosRows = [];
 
+    /* Extrair pedidos/produtos embutidos como antes */
     for (let idx = 0; idx < clientesSource.length; idx++) {
       const client = clientesSource[idx] || {};
       const clienteCodigo = normalizeCodigo(client.codigo ?? client.cliente_codigo ?? client.id ?? '') || null;
@@ -371,7 +386,6 @@ async function main() {
           const produto_codigo = normalizeCodigo(prRaw.codigo ?? key) || null;
           const titulo = prRaw.titulo ?? prRaw.title ?? null;
 
-          // extrair tamanho/cor do título (somente esses dois)
           const parsed = extractSizeColorFromTitle(titulo);
 
           const tamanhoVal = prRaw.tamanho ?? parsed.tamanho ?? null;
@@ -436,7 +450,8 @@ async function main() {
       console.log('→ Nenhum placeholder necessário.');
     }
 
-    // normalizar pedidos/produtos antes de inserir
+    // normalizar pedidos/produtos antes de inserir e construir sets de chaves
+    const pedidosKeysSet = new Set();
     for (let idx = 0; idx < pedidosRows.length; idx++) {
       const copy = pedidosRows[idx];
       if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
@@ -446,17 +461,44 @@ async function main() {
       if (copy.data_hora_pedido) copy.data_hora_pedido = sanitizeDateValue(copy.data_hora_pedido);
       if (copy.data_hora_confirmacao) copy.data_hora_confirmacao = sanitizeDateValue(copy.data_hora_confirmacao);
       for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
+      pedidosKeysSet.add(String(copy.codigo_pedido).trim());
     }
 
+    const produtosKeysSet = new Set();
     for (let prIdx = 0; prIdx < produtosRows.length; prIdx++) {
       const copy = produtosRows[prIdx];
       if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
       for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
+      if (copy.produto_codigo) produtosKeysSet.add(String(copy.produto_codigo).trim());
     }
 
-    // inserir pedidos
+    // inserir clientes (upsert)
     try {
-      await deleteAll('import_pedidos');
+      console.log("→ Upsert em import_clientes (sem limpar tabela inteira)...");
+      if (clientesRows.length) {
+        const batch = 300;
+        for (let i = 0; i < clientesRows.length; i += batch) {
+          const chunk = clientesRows.slice(i, i + batch).map(r => {
+            const copy = { ...r };
+            for (const k of Object.keys(copy)) {
+              if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
+              if (/data|criado|hora|date|timestamp/i.test(k) && copy[k]) copy[k] = sanitizeDateValue(copy[k]);
+            }
+            if ((!copy.cliente_codigo || copy.cliente_codigo === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
+            return copy;
+          });
+          const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
+          if (error) console.error(`Erro em upsert import_clientes (offset ${i})`, error);
+          else console.log(`Upserted ${chunk.length} into import_clientes (offset ${i})`);
+        }
+      }
+    } catch (e) {
+      console.error("Exception upserting clients:", e);
+    }
+
+    // inserir pedidos (em batches) - incremental
+    try {
+      console.log("→ Inserindo import_pedidos (batches)...");
       if (pedidosRows.length) {
         await insertInBatchesRobust('import_pedidos', pedidosRows, 100, 400);
       }
@@ -465,15 +507,29 @@ async function main() {
       throw e;
     }
 
-    // inserir produtos (sem valor_unitario — somente tamanho e cor extraídos)
+    // inserir produtos (em batches) - incremental
     try {
-      await deleteAll('import_clientes_produtos');
+      console.log("→ Inserindo import_clientes_produtos (batches)...");
       if (produtosRows.length) {
         await insertInBatchesRobust('import_clientes_produtos', produtosRows, 200, 300);
       }
     } catch (e) {
       console.error("FATAL ao inserir import_clientes_produtos:", e);
       throw e;
+    }
+
+    // === Agora: delete-orphans por tabela (opcional por flag) ===
+    try {
+      // import_clientes: apagar clientes que não aparecem mais? (opcional)
+      await deleteOrphansByKey('import_clientes', 'codigo', clientesKeys, 1000);
+
+      // import_pedidos: apagar pedidos que não aparecem mais no JSON
+      await deleteOrphansByKey('import_pedidos', 'codigo_pedido', pedidosKeysSet, 1000);
+
+      // import_clientes_produtos: apagar produtos que não aparecem mais
+      await deleteOrphansByKey('import_clientes_produtos', 'produto_codigo', produtosKeysSet, 1000);
+    } catch (e) {
+      console.error("Erro durante delete-orphans:", e);
     }
 
     console.log("Sync finished successfully.");
