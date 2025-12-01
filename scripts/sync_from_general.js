@@ -1,11 +1,7 @@
 /* scripts/sync_from_general.js
-   Versão final (substituir arquivo inteiro).
-   - Associa produtos ao cliente atual (pela ordem do JSON).
-   - Usa chave composta: cliente_codigo | produto_codigo | COALESCE(id_pedido, '0').
-   - Dedup in-chunk (agrega quantidades).
-   - QUANTITY_MODE = 'delta' (soma) ou 'absolute' (substitui).
-   - Remove campos internos antes do insert para evitar erro de schema (_compKey).
-   - Fallback por linha para conflitos de unique constraint.
+   Versão corrigida: remove _compKey em todos os inserts (bulk + fallback por linha).
+   Mantém dedupe por composite key cliente|produto|coalesce(id_pedido,0),
+   agrega quantidades em-chunk, fallback robusto.
 */
 
 const fs = require('fs');
@@ -23,8 +19,8 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSessi
 
 /* ====== CONFIG ====== */
 const QUANTITY_MODE = 'delta'; // 'delta' (soma) ou 'absolute' (substitui)
-const CHUNK_SIZE = 120;        // ajuste se precisar (menor = menos pressão, mais tempo)
-const PAUSE_MS = 350;          // pausa entre chunks
+const CHUNK_SIZE = 120;        // ajuste: para 93k recomendo 60
+const PAUSE_MS = 350;          // ajuste: para 93k recomendo 600
 const DO_DELETE_ORPHANS = { import_clientes: false, import_pedidos: false, import_clientes_produtos: false };
 /* ===================== */
 
@@ -176,14 +172,7 @@ function compositeKeyFor(row) {
   return `${cliente}|${prod}|${pedido}`;
 }
 
-/* ---------------- Core: sync products with composite key (corrected) ----------------
-   - Dedup in-chunk by composite key and aggregate quantidade
-   - Fetch existing rows by produto_codigo for the chunk
-   - Build existingMap by composite key (coalesce id_pedido to '0')
-   - Decide inserts vs updates (quantity only)
-   - Remove internal fields (_compKey) before insert
-   - Bulk insert; fallback per-row on conflict to update instead
-*/
+/* ---------------- Core: sync products with composite key (corrected with fallback clean) ---------------- */
 async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
   for (let i = 0; i < produtosRows.length; i += batch) {
     const chunk = produtosRows.slice(i, i + batch);
@@ -272,7 +261,7 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
       }
     }
 
-    // remove internal helper fields (_compKey) before inserting
+    // remove internal helper fields (_compKey) before inserting (bulk)
     const cleanInserts = inserts.map(r => {
       const copy = { ...r };
       if (copy._compKey !== undefined) delete copy._compKey;
@@ -287,7 +276,10 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
           console.error(`Insert chunk error (composite) offset ${i}:`, insErr);
           // fallback per row: try to find the exact composite and update; if not exists try insert
           for (let r = 0; r < cleanInserts.length; r++) {
-            const row = cleanInserts[r];
+            let row = { ...cleanInserts[r] };
+            // ensure no internal props remain
+            if (row._compKey !== undefined) delete row._compKey;
+
             try {
               // Try find exact match (id_pedido match)
               let found = null;
@@ -323,6 +315,8 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
                 if (upErr) console.error(`Fallback update after insert-conflict id=${found.id}:`, upErr);
                 else console.log(`Fallback updated produto id=${found.id} after insert conflict`);
               } else {
+                // final fallback: try single insert (WITHOUT _compKey)
+                if (row._compKey !== undefined) delete row._compKey;
                 const { error: ins2 } = await supabase.from('import_clientes_produtos').insert([row], { returning: false });
                 if (ins2) console.error('Row insert fallback error (after conflict):', ins2);
                 else console.log('Row inserted after conflict fallback (single)');
