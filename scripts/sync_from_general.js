@@ -1,8 +1,8 @@
 /* scripts/sync_from_general.js
-   Versão com limpeza de orfãos (delete-orphans) por chave.
+   Versão final entregue: usa UPSERT quando informado conflictKey (evita duplicate key errors)
    - Não zera tabelas inteiras.
-   - Apaga apenas registros que não existem mais no JSON (por chave).
-   - Configure as flags no topo para ativar/desativar delete-orphans por tabela.
+   - Opcional: delete-orphans por chave (flags DO_DELETE_ORPHANS).
+   - Mantém parsing de tamanho/cor e placeholders como antes.
 */
 
 const fs = require('fs');
@@ -18,11 +18,11 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
 
-/* ====== CONFIG: altere apenas aqui se quiser desligar comportamento de delete-orphans ====== */
+/* ====== CONFIG: altere apenas aqui se quiser ligar/desligar delete-orphans ====== */
 const DO_DELETE_ORPHANS = {
-  import_clientes: false,               // recomendo testar com false primeiro
-  import_pedidos: true,
-  import_clientes_produtos: true
+  import_clientes: false,               // recomendo manter false até testar
+  import_pedidos: false,                // start false, ative depois
+  import_clientes_produtos: false       // start false, ative depois
 };
 /* ========================================================================================= */
 
@@ -47,7 +47,7 @@ const COLUMNS_PRODUTOS = [
   'subcategoria','tamanho','cor','sku','data_pedido'
 ];
 
-/* ---------------- helpers (mesma lógica que você já conhece) ---------------- */
+/* ---------------- helpers (mantidos) ---------------- */
 
 function pickFields(obj, allowed) {
   const res = {};
@@ -168,13 +168,19 @@ function extractSizeColorFromTitle(title) {
   return { tamanho: tamanho || null, cor: cor || null };
 }
 
-/* ---------------- Insert + delete-orphans helpers ---------------- */
+/* ---------------- Insert + upsert + delete-orphans helpers ---------------- */
 
-async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
+/**
+ * insertInBatchesRobust:
+ * - Quando conflictKey for fornecido, usa upsert (insert or update) para evitar duplicate key errors.
+ * - Caso contrário usa insert normal.
+ */
+async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400, conflictKey = null) {
   for (let i = 0; i < rows.length; i += batch) {
     const chunk = rows.slice(i, i + batch);
     if (chunk.length === 0) continue;
 
+    // scrub agressivo de zero-dates
     for (const row of chunk) {
       for (const k of Object.keys(row)) {
         const v = row[k];
@@ -184,33 +190,43 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
     }
 
     try {
-      const { error } = await supabase.from(table).insert(chunk, { returning: false });
-      if (error) {
-        console.error(`Error inserting chunk into ${table} (offset ${i})`, error);
-        // per-row fallback
+      let result;
+      if (conflictKey) {
+        // upsert: insere ou atualiza pelo conflito na chave informada
+        result = await supabase.from(table).upsert(chunk, { onConflict: conflictKey, returning: false });
+      } else {
+        result = await supabase.from(table).insert(chunk, { returning: false });
+      }
+
+      if (result.error) {
+        console.error(`Error writing chunk into ${table} (offset ${i})`, result.error);
+        // per-row fallback: tentar isolar linhas problemáticas
         for (let r = 0; r < chunk.length; r++) {
           try {
             const row = chunk[r];
-            for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
-            const { error: e2 } = await supabase.from(table).insert([row], { returning: false });
-            if (e2) console.error(`Row insert error ${table} offset ${i} row ${r}:`, e2);
-          } catch (e3) {
-            console.error(`Row insert thrown ${table} offset ${i} row ${r}:`, e3);
+            const perRowOp = conflictKey
+              ? await supabase.from(table).upsert([row], { onConflict: conflictKey, returning: false })
+              : await supabase.from(table).insert([row], { returning: false });
+            if (perRowOp.error) console.error(`Row write error ${table} offset ${i} row ${r}:`, perRowOp.error);
+          } catch (er) {
+            console.error(`Row write exception ${table} offset ${i} row ${r}:`, er);
           }
         }
       } else {
-        console.log(`Inserted ${chunk.length} into ${table} (offset ${i})`);
+        console.log(`${conflictKey ? 'Upserted' : 'Inserted'} ${chunk.length} into ${table} (offset ${i})`);
       }
     } catch (e) {
-      console.error(`Exception inserting chunk into ${table} (offset ${i}):`, e);
+      console.error(`Exception writing chunk into ${table} (offset ${i}):`, e);
+      // fallback per-row
       for (let r = 0; r < chunk.length; r++) {
         try {
           const row = chunk[r];
-          for (const k of Object.keys(row)) if (typeof row[k] === 'string' && isLikelyZeroDate(row[k])) row[k] = null;
-          const { error: e2 } = await supabase.from(table).insert([row], { returning: false });
-          if (e2) console.error(`Row insert error ${table} offset ${i} row ${r}:`, e2);
-        } catch (e3) {
-          console.error(`Row insert thrown ${table} offset ${i} row ${r}:`, e3);
+          const perRowOp = conflictKey
+            ? await supabase.from(table).upsert([row], { onConflict: conflictKey, returning: false })
+            : await supabase.from(table).insert([row], { returning: false });
+          if (perRowOp.error) console.error(`Row write error ${table} offset ${i} row ${r}:`, perRowOp.error);
+        } catch (er) {
+          console.error(`Row write exception fallback ${table} offset ${i} row ${r}:`, er);
         }
       }
     }
@@ -226,7 +242,7 @@ async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400) {
  * - keepKeysSet: Set com as chaves que DEVEM SER MANTIDAS (vêm do JSON)
  *
  * Estratégia:
- * 1) busca todas as chaves existentes no banco
+ * 1) busca todas as chaves existentes no banco (em páginas)
  * 2) calcula diferença (existente - keepKeysSet)
  * 3) deleta em chunks
  */
@@ -496,22 +512,22 @@ async function main() {
       console.error("Exception upserting clients:", e);
     }
 
-    // inserir pedidos (em batches) - incremental
+    // inserir pedidos (em batches) - usando upsert por codigo_pedido para evitar duplicate key
     try {
-      console.log("→ Inserindo import_pedidos (batches)...");
+      console.log("→ Inserindo import_pedidos (batches, upsert by codigo_pedido)...");
       if (pedidosRows.length) {
-        await insertInBatchesRobust('import_pedidos', pedidosRows, 100, 400);
+        await insertInBatchesRobust('import_pedidos', pedidosRows, 100, 400, 'codigo_pedido');
       }
     } catch (e) {
       console.error("FATAL ao inserir import_pedidos:", e);
       throw e;
     }
 
-    // inserir produtos (em batches) - incremental
+    // inserir produtos (em batches) - usando upsert por produto_codigo
     try {
-      console.log("→ Inserindo import_clientes_produtos (batches)...");
+      console.log("→ Inserindo import_clientes_produtos (batches, upsert by produto_codigo)...");
       if (produtosRows.length) {
-        await insertInBatchesRobust('import_clientes_produtos', produtosRows, 200, 300);
+        await insertInBatchesRobust('import_clientes_produtos', produtosRows, 200, 300, 'produto_codigo');
       }
     } catch (e) {
       console.error("FATAL ao inserir import_clientes_produtos:", e);
