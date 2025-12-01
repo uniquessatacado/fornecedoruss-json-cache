@@ -1,7 +1,11 @@
 /* scripts/sync_from_general.js
-   Versão final: associa produtos ao cliente atual, usa chave composta (cliente|produto|coalesce(id_pedido,0)),
-   dedup in-chunk, agrega quantidade e faz update/inserts com fallback seguro.
-   Configure QUANTITY_MODE = 'delta' (soma) ou 'absolute' (substitui).
+   Versão final (substituir arquivo inteiro).
+   - Associa produtos ao cliente atual (pela ordem do JSON).
+   - Usa chave composta: cliente_codigo | produto_codigo | COALESCE(id_pedido, '0').
+   - Dedup in-chunk (agrega quantidades).
+   - QUANTITY_MODE = 'delta' (soma) ou 'absolute' (substitui).
+   - Remove campos internos antes do insert para evitar erro de schema (_compKey).
+   - Fallback por linha para conflitos de unique constraint.
 */
 
 const fs = require('fs');
@@ -164,14 +168,7 @@ async function upsertPedidosInBatches(rows, batch = 200) {
   }
 }
 
-/* ---------------- Core: sync products with composite key (cliente|produto|coalesce(id_pedido,0)) ----------------
-   Steps:
-   - Build incomingMap aggregated by composite key to dedupe and sum quantities in-chunk.
-   - Fetch existing rows by produto_codigo for chunk.
-   - Build existingMap by same composite key (coalesce id_pedido to '0').
-   - Decide inserts vs updates (quantity only).
-   - Bulk-insert attempts; on unique-error, fallback per-row: fetch exact composite and update.
-*/
+/* ---------------- Core: composite key helper ---------------- */
 function compositeKeyFor(row) {
   const cliente = String(row.cliente_codigo ?? '0').trim() || '0';
   const prod = String(row.produto_codigo ?? '').trim();
@@ -179,6 +176,14 @@ function compositeKeyFor(row) {
   return `${cliente}|${prod}|${pedido}`;
 }
 
+/* ---------------- Core: sync products with composite key (corrected) ----------------
+   - Dedup in-chunk by composite key and aggregate quantidade
+   - Fetch existing rows by produto_codigo for the chunk
+   - Build existingMap by composite key (coalesce id_pedido to '0')
+   - Decide inserts vs updates (quantity only)
+   - Remove internal fields (_compKey) before insert
+   - Bulk insert; fallback per-row on conflict to update instead
+*/
 async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
   for (let i = 0; i < produtosRows.length; i += batch) {
     const chunk = produtosRows.slice(i, i + batch);
@@ -196,11 +201,10 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
       if (!incomingMap.has(comp)) {
         incomingMap.set(comp, { ...r, _compKey: comp });
       } else {
-        // aggregate quantidade (sum). For absolute mode, keep last (overwrite)
         const cur = incomingMap.get(comp);
         if (QUANTITY_MODE === 'delta') {
           cur.quantidade = (Number(cur.quantidade) || 0) + (Number(r.quantidade) || 0);
-        } else { // absolute -> keep incoming r (most recent)
+        } else {
           cur.quantidade = r.quantidade;
         }
         cur.criado_em = r.criado_em || cur.criado_em;
@@ -247,20 +251,17 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
       const existing = existingMap.get(comp);
 
       if (!prodCode) {
-        // no product code: insert as-is
         inserts.push(incoming);
         continue;
       }
 
       if (!existing) {
-        // no existing composite -> insert
         inserts.push(incoming);
       } else {
-        // compute new quantity according to mode
         const existingQty = (existing.quantidade === null || existing.quantidade === undefined) ? 0 : Number(existing.quantidade) || 0;
         let newQty = existingQty;
         if (incomingQty === null) {
-          continue; // nothing to change
+          continue;
         } else {
           if (QUANTITY_MODE === 'delta') newQty = existingQty + incomingQty;
           else newQty = incomingQty;
@@ -271,23 +272,23 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
       }
     }
 
+    // remove internal helper fields (_compKey) before inserting
+    const cleanInserts = inserts.map(r => {
+      const copy = { ...r };
+      if (copy._compKey !== undefined) delete copy._compKey;
+      return copy;
+    });
+
     // try bulk insert
-    if (inserts.length) {
+    if (cleanInserts.length) {
       try {
-        const { error: insErr } = await supabase.from('import_clientes_produtos').insert(inserts, { returning: false });
+        const { error: insErr } = await supabase.from('import_clientes_produtos').insert(cleanInserts, { returning: false });
         if (insErr) {
           console.error(`Insert chunk error (composite) offset ${i}:`, insErr);
           // fallback per row: try to find the exact composite and update; if not exists try insert
-          for (let r = 0; r < inserts.length; r++) {
-            const row = inserts[r];
+          for (let r = 0; r < cleanInserts.length; r++) {
+            const row = cleanInserts[r];
             try {
-              // try match by composite columns: cliente_codigo, produto_codigo and id_pedido (or null -> 0)
-              const matchObj = {};
-              matchObj.cliente_codigo = row.cliente_codigo;
-              matchObj.produto_codigo = row.produto_codigo;
-              if (row.id_pedido !== undefined && row.id_pedido !== null) matchObj.id_pedido = row.id_pedido;
-              else matchObj.id_pedido = null; // try null match first
-
               // Try find exact match (id_pedido match)
               let found = null;
               try {
@@ -301,7 +302,7 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
                 // ignore
               }
 
-              // If not found, attempt match without id_pedido (coalesce style) - best-effort
+              // If not found, attempt match without id_pedido (best-effort)
               if (!found) {
                 try {
                   const { data: f2 } = await supabase.from('import_clientes_produtos').select('id,quantidade,id_pedido').match({
@@ -315,7 +316,6 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
               }
 
               if (found) {
-                // update found row quantity based on mode
                 const existingQty = Number(found.quantidade || 0);
                 const incQty = Number(row.quantidade || 0);
                 const computed = (QUANTITY_MODE === 'delta') ? existingQty + incQty : incQty;
@@ -323,7 +323,6 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
                 if (upErr) console.error(`Fallback update after insert-conflict id=${found.id}:`, upErr);
                 else console.log(`Fallback updated produto id=${found.id} after insert conflict`);
               } else {
-                // final fallback: try single insert
                 const { error: ins2 } = await supabase.from('import_clientes_produtos').insert([row], { returning: false });
                 if (ins2) console.error('Row insert fallback error (after conflict):', ins2);
                 else console.log('Row inserted after conflict fallback (single)');
@@ -333,7 +332,7 @@ async function syncProductsQuantityComposite(produtosRows, batch = CHUNK_SIZE) {
             }
           }
         } else {
-          console.log(`Inserted ${inserts.length} new produtos (offset ${i}) [composite]`);
+          console.log(`Inserted ${cleanInserts.length} new produtos (offset ${i}) [composite]`);
         }
       } catch (e) {
         console.error('Exception inserting produtos chunk (composite):', e);
@@ -460,7 +459,7 @@ async function main() {
         }
       }
 
-      // produtos_comprados: in this JSON structure products are listed under client (not linked explicitly), so attach clienteCodigo
+      // produtos_comprados: attach clienteCodigo since products in JSON are under the client node
       const produtosComprados = client.produtos_comprados;
       if (produtosComprados && typeof produtosComprados === 'object') {
         for (const key of Object.keys(produtosComprados)) {
@@ -514,7 +513,7 @@ async function main() {
     if (clientesRows.length) await upsertClientesInBatches(clientesRows, 300);
     if (pedidosRows.length) await upsertPedidosInBatches(pedidosRows, 200);
 
-    // sync produtos using composite key logic (quantity-only update)
+    // sync produtos using composite key logic (quantity-only)
     if (produtosRows.length) {
       await syncProductsQuantityComposite(produtosRows, CHUNK_SIZE);
     }
