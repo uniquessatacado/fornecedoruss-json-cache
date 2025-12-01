@@ -1,8 +1,9 @@
 /* scripts/sync_from_general.js
-   Versão final entregue: usa UPSERT quando informado conflictKey (evita duplicate key errors)
-   - Não zera tabelas inteiras.
-   - Opcional: delete-orphans por chave (flags DO_DELETE_ORPHANS).
-   - Mantém parsing de tamanho/cor e placeholders como antes.
+   Versão simplificada: só compara produto_codigo e quantidade.
+   - QUANTITY_MODE: 'delta' (default) ou 'absolute'
+   - delta: incoming.quantidade é variação (soma ao existente)
+   - absolute: incoming.quantidade substitui existente
+   - Mantém upsert de clientes e pedidos como antes.
 */
 
 const fs = require('fs');
@@ -18,13 +19,16 @@ if (!SUPABASE_URL || !SUPABASE_KEY) {
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSession: false } });
 
-/* ====== CONFIG: altere apenas aqui se quiser ligar/desligar delete-orphans ====== */
+/* ====== CONFIG ====== */
+// Mude aqui se quiser outro comportamento: 'delta' ou 'absolute'
+const QUANTITY_MODE = 'delta'; // 'delta' = soma a quantidade existente; 'absolute' = substitui pelo valor do JSON
+
 const DO_DELETE_ORPHANS = {
-  import_clientes: false,               // recomendo manter false até testar
-  import_pedidos: false,                // start false, ative depois
-  import_clientes_produtos: false       // start false, ative depois
+  import_clientes: false,
+  import_pedidos: false,
+  import_clientes_produtos: false
 };
-/* ========================================================================================= */
+/* ===================== */
 
 const COLUMNS_CLIENTES = [
   'cliente_codigo','codigo','nome','email','data_cadastro',
@@ -47,7 +51,7 @@ const COLUMNS_PRODUTOS = [
   'subcategoria','tamanho','cor','sku','data_pedido'
 ];
 
-/* ---------------- helpers (mantidos) ---------------- */
+/* ---------------- helpers ---------------- */
 
 function pickFields(obj, allowed) {
   const res = {};
@@ -132,120 +136,185 @@ function toNumberOrNull(v) {
   return Number.isNaN(n) ? null : n;
 }
 
-function dedupeByKey(rows, keys = ['codigo']) {
-  const map = new Map();
-  for (const r of rows) {
-    const key = keys.map(k0 => (r[k0] === undefined || r[k0] === null) ? '' : String(r[k0])).join('|');
-    if (!map.has(key)) map.set(key, r);
-  }
-  return Array.from(map.values());
-}
+/* ---------------- DB helpers (clientes/pedidos) ---------------- */
 
-/* ---------- title parsing: tamanho & cor only ---------- */
-
-function extractSizeColorFromTitle(title) {
-  if (!title || typeof title !== 'string') return { tamanho: null, cor: null };
-
-  const t = title;
-  let cor = null;
-  const corRegex = /Cor[:\s\-]*([A-Za-z0-9À-ÿ \/\.\-]+?)(?:\s*(?:[-,\/\|]|$))/i;
-  const mcor = t.match(corRegex);
-  if (mcor && mcor[1]) cor = String(mcor[1]).trim();
-
-  let tamanho = null;
-  const tamRegex = /Tamanho[:\s]*([A-Za-z0-9\.\-]+)(?:\s*(?:[-,\/\|]|$))/i;
-  const mtam = t.match(tamRegex);
-  if (mtam && mtam[1]) {
-    tamanho = String(mtam[1]).trim();
-  } else {
-    const fallback = t.match(/(?:[-\s]|^)(P{1,2}|M|G{1,3}|G\d|GG|G1|G2|G3|XS|S|L|XL|XXL|\d{1,3})(?:\s*$|[^\w]|$)/i);
-    if (fallback && fallback[1]) tamanho = String(fallback[1]).trim();
-  }
-
-  if (cor) cor = cor.replace(/[-|,]+$/g, '').trim();
-  if (tamanho) tamanho = tamanho.replace(/[-|,]+$/g, '').trim();
-
-  return { tamanho: tamanho || null, cor: cor || null };
-}
-
-/* ---------------- Insert + upsert + delete-orphans helpers ---------------- */
-
-/**
- * insertInBatchesRobust:
- * - Quando conflictKey for fornecido, usa upsert (insert or update) para evitar duplicate key errors.
- * - Caso contrário usa insert normal.
- */
-async function insertInBatchesRobust(table, rows, batch = 100, delayMs = 400, conflictKey = null) {
+async function upsertClientesInBatches(rows, batch = 300) {
   for (let i = 0; i < rows.length; i += batch) {
-    const chunk = rows.slice(i, i + batch);
-    if (chunk.length === 0) continue;
-
-    // scrub agressivo de zero-dates
-    for (const row of chunk) {
-      for (const k of Object.keys(row)) {
-        const v = row[k];
-        if (typeof v === 'string' && isLikelyZeroDate(v)) row[k] = null;
-        if (v === '0000-00-00T00:00:00Z' || v === '0000-00-00 00:00:00') row[k] = null;
+    const chunk = rows.slice(i, i + batch).map(r => {
+      const copy = { ...r };
+      for (const k of Object.keys(copy)) {
+        if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
+        if (/data|criado|hora|date|timestamp/i.test(k) && copy[k]) copy[k] = sanitizeDateValue(copy[k]);
       }
+      if ((!copy.cliente_codigo || copy.cliente_codigo === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
+      return copy;
+    });
+    const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
+    if (error) console.error('Erro upserting import_clientes chunk:', error);
+    else console.log(`Upsert clientes chunk ${i}/${rows.length}`);
+  }
+}
+
+async function upsertPedidosInBatches(rows, batch = 200) {
+  for (let i = 0; i < rows.length; i += batch) {
+    const chunk = rows.slice(i, i + batch).map(r => {
+      const copy = { ...r };
+      for (const k of Object.keys(copy)) {
+        if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
+        if (/data|criado|hora|date|timestamp/i.test(k) && copy[k]) copy[k] = sanitizeDateValue(copy[k]);
+      }
+      return copy;
+    });
+    const { error } = await supabase.from('import_pedidos').upsert(chunk, { onConflict: 'codigo_pedido' });
+    if (error) {
+      console.error('Erro upserting import_pedidos chunk:', error);
+      for (let r = 0; r < chunk.length; r++) {
+        const { error: e2 } = await supabase.from('import_pedidos').upsert([chunk[r]], { onConflict: 'codigo_pedido' });
+        if (e2) console.error('Row upsert error import_pedidos:', e2);
+      }
+    } else console.log(`Upsert pedidos chunk ${i}/${rows.length}`);
+  }
+}
+
+/* ---------------- Core: sync products (only produto_codigo + quantidade) ----------------
+   Behavior:
+   - For each chunk, fetch existing rows by produto_codigo.
+   - If not exists -> insert incoming row.
+   - If exists -> update quantidade according to QUANTITY_MODE:
+       * 'delta' = existing.quantidade + incoming.quantidade (treat incoming as delta)
+       * 'absolute' = existing.quantidade = incoming.quantidade
+   - Other columns are left unchanged.
+*/
+async function syncProductsQuantityOnly(produtosRows, batch = 200) {
+  for (let i = 0; i < produtosRows.length; i += batch) {
+    const chunk = produtosRows.slice(i, i + batch);
+
+    // normalize incoming
+    for (const r of chunk) {
+      if (!r.cliente_codigo || String(r.cliente_codigo).trim() === '') r.cliente_codigo = '0';
+      r.quantidade = r.quantidade != null ? (Number(r.quantidade) || 0) : null;
+      if (r.data_pedido) r.data_pedido = sanitizeDateValue(r.data_pedido);
+      for (const k of Object.keys(r)) if (typeof r[k] === 'string' && isLikelyZeroDate(r[k])) r[k] = null;
     }
 
-    try {
-      let result;
-      if (conflictKey) {
-        // upsert: insere ou atualiza pelo conflito na chave informada
-        result = await supabase.from(table).upsert(chunk, { onConflict: conflictKey, returning: false });
-      } else {
-        result = await supabase.from(table).insert(chunk, { returning: false });
-      }
+    const keys = Array.from(new Set(chunk.map(r => (r.produto_codigo||'').toString().trim()).filter(k => k !== '')));
+    let existingMap = new Map(); // produto_codigo -> existing row (choose one if multiple)
+    if (keys.length) {
+      try {
+        const { data: existing, error: selErr } = await supabase
+          .from('import_clientes_produtos')
+          .select('id,produto_codigo,quantidade')
+          .in('produto_codigo', keys)
+          .limit(10000);
 
-      if (result.error) {
-        console.error(`Error writing chunk into ${table} (offset ${i})`, result.error);
-        // per-row fallback: tentar isolar linhas problemáticas
-        for (let r = 0; r < chunk.length; r++) {
-          try {
-            const row = chunk[r];
-            const perRowOp = conflictKey
-              ? await supabase.from(table).upsert([row], { onConflict: conflictKey, returning: false })
-              : await supabase.from(table).insert([row], { returning: false });
-            if (perRowOp.error) console.error(`Row write error ${table} offset ${i} row ${r}:`, perRowOp.error);
-          } catch (er) {
-            console.error(`Row write exception ${table} offset ${i} row ${r}:`, er);
+        if (selErr) {
+          console.error('Erro buscando produtos existentes (quantidade-only):', selErr);
+        } else if (existing && existing.length) {
+          // if duplicates exist, keep the one with largest id
+          const grouped = {};
+          for (const e of existing) {
+            const k = (e.produto_codigo||'').toString().trim();
+            if (!k) continue;
+            if (!grouped[k]) grouped[k] = [];
+            grouped[k].push(e);
+          }
+          for (const k of Object.keys(grouped)) {
+            const arr = grouped[k];
+            arr.sort((a,b) => (b.id||0) - (a.id||0));
+            existingMap.set(k, arr[0]); // pick most recent id
           }
         }
-      } else {
-        console.log(`${conflictKey ? 'Upserted' : 'Inserted'} ${chunk.length} into ${table} (offset ${i})`);
+      } catch (e) {
+        console.error('Exception fetching existing products (quantity-only):', e);
       }
-    } catch (e) {
-      console.error(`Exception writing chunk into ${table} (offset ${i}):`, e);
-      // fallback per-row
-      for (let r = 0; r < chunk.length; r++) {
-        try {
-          const row = chunk[r];
-          const perRowOp = conflictKey
-            ? await supabase.from(table).upsert([row], { onConflict: conflictKey, returning: false })
-            : await supabase.from(table).insert([row], { returning: false });
-          if (perRowOp.error) console.error(`Row write error ${table} offset ${i} row ${r}:`, perRowOp.error);
-        } catch (er) {
-          console.error(`Row write exception fallback ${table} offset ${i} row ${r}:`, er);
+    }
+
+    const inserts = [];
+    const updates = []; // { id, newQuantidade }
+
+    for (const incoming of chunk) {
+      const code = (incoming.produto_codigo||'').toString().trim();
+      const incomingQty = (incoming.quantidade === null || incoming.quantidade === undefined) ? null : Number(incoming.quantidade);
+      if (!code) {
+        // no code -> insert (can't match)
+        inserts.push(incoming);
+        continue;
+      }
+      const existing = existingMap.get(code);
+      if (!existing) {
+        // not found -> insert
+        inserts.push(incoming);
+      } else {
+        // found -> compute new quantidade based on mode
+        const existingQty = (existing.quantidade === null || existing.quantidade === undefined) ? 0 : Number(existing.quantidade) || 0;
+        let newQty = existingQty;
+        if (incomingQty === null) {
+          // no quantity info -> skip update
+          continue;
+        } else {
+          if (QUANTITY_MODE === 'delta') {
+            newQty = existingQty + incomingQty;
+          } else if (QUANTITY_MODE === 'absolute') {
+            newQty = incomingQty;
+          } else {
+            // default to absolute if unknown mode
+            newQty = incomingQty;
+          }
+        }
+        // if changed, queue update
+        if (Number(newQty) !== Number(existingQty)) {
+          updates.push({ id: existing.id, quantidade: newQty });
         }
       }
     }
 
-    await new Promise(res => setTimeout(res, delayMs));
+    // do inserts
+    if (inserts.length) {
+      try {
+        const { error: insErr } = await supabase.from('import_clientes_produtos').insert(inserts, { returning: false });
+        if (insErr) {
+          console.error(`Insert chunk error (quantity-only) offset ${i}:`, insErr);
+          // per-row fallback
+          for (let r = 0; r < inserts.length; r++) {
+            try {
+              const { error: e2 } = await supabase.from('import_clientes_produtos').insert([inserts[r]], { returning: false });
+              if (e2) console.error(`Row insert error import_clientes_produtos offset ${i} row ${r}:`, e2);
+            } catch (er) {
+              console.error(`Row insert thrown import_clientes_produtos offset ${i} row ${r}:`, er);
+            }
+          }
+        } else {
+          console.log(`Inserted ${inserts.length} new produtos (offset ${i}) [quantity-only]`);
+        }
+      } catch (e) {
+        console.error('Exception inserting produtos chunk (quantity-only):', e);
+      }
+    }
+
+    // do updates
+    if (updates.length) {
+      for (let u = 0; u < updates.length; u++) {
+        const upd = updates[u];
+        try {
+          const { error: upErr } = await supabase.from('import_clientes_produtos').update({ quantidade: upd.quantidade }).eq('id', upd.id);
+          if (upErr) {
+            console.error(`Error updating produto id=${upd.id} quantidade=${upd.quantidade}:`, upErr);
+          } else {
+            // optional small log per update removed for verbosity
+          }
+        } catch (e) {
+          console.error(`Exception updating produto id=${upd.id}:`, e);
+        }
+      }
+      console.log(`Updated ${updates.length} produtos (offset ${i}) [quantity-only]`);
+    }
+
+    // small pause to avoid throttling
+    await new Promise(res => setTimeout(res, 250));
   }
 }
 
-/**
- * deleteOrphansByKey
- * - table: nome da tabela
- * - keyColumn: coluna chave (ex: 'codigo_pedido')
- * - keepKeysSet: Set com as chaves que DEVEM SER MANTIDAS (vêm do JSON)
- *
- * Estratégia:
- * 1) busca todas as chaves existentes no banco (em páginas)
- * 2) calcula diferença (existente - keepKeysSet)
- * 3) deleta em chunks
- */
+/* ---------------- deleteOrphansByKey (unchanged, optional) ---------------- */
 async function deleteOrphansByKey(table, keyColumn, keepKeysSet, chunk = 1000) {
   if (!DO_DELETE_ORPHANS[table]) {
     console.log(`deleteOrphansByKey: skip for ${table} (flag disabled)`);
@@ -255,13 +324,12 @@ async function deleteOrphansByKey(table, keyColumn, keepKeysSet, chunk = 1000) {
   console.log(`deleteOrphansByKey: buscando chaves existentes em ${table} (${keyColumn})...`);
   let allExisting = [];
   let page = 0;
-  const pageSize = 10000; // leitura por páginas para não estourar memória
+  const pageSize = 10000;
   while (true) {
     const { data, error } = await supabase
       .from(table)
       .select(keyColumn, { count: 'exact' })
       .range(page * pageSize, (page + 1) * pageSize - 1);
-
     if (error) {
       console.error(`Erro lendo chaves de ${table}:`, error);
       return;
@@ -272,7 +340,6 @@ async function deleteOrphansByKey(table, keyColumn, keepKeysSet, chunk = 1000) {
     page++;
   }
 
-  console.log(`→ Encontradas ${allExisting.length} chaves existentes em ${table}.`);
   const toDelete = allExisting.filter(k => {
     if (k === null || k === undefined) return false;
     const ks = String(k).trim();
@@ -281,30 +348,19 @@ async function deleteOrphansByKey(table, keyColumn, keepKeysSet, chunk = 1000) {
   });
 
   console.log(`→ ${toDelete.length} registros serão deletados de ${table} (em chunks).`);
-
   for (let i = 0; i < toDelete.length; i += chunk) {
     const chunkArr = toDelete.slice(i, i + chunk);
     try {
-      const { error } = await supabase
-        .from(table)
-        .delete()
-        .in(keyColumn, chunkArr);
+      const { error } = await supabase.from(table).delete().in(keyColumn, chunkArr);
       if (error) console.error(`Erro ao deletar chunk em ${table} (offset ${i}):`, error);
       else console.log(`Deleted chunk ${i}-${i+chunkArr.length-1} from ${table}`);
     } catch (e) {
       console.error(`Exception during delete chunk in ${table} (offset ${i}):`, e);
     }
-    // pausa curta para não sobrecarregar
     await new Promise(res => setTimeout(res, 200));
   }
 
   console.log(`deleteOrphansByKey: concluído para ${table}`);
-}
-
-/* Mantém deleteAll mas não iremos chamar */
-async function deleteAll(table) {
-  console.log(`[AVISO] deleteAll(${table}) chamado mas está desativado.`);
-  return;
 }
 
 /* ------------------ main ------------------ */
@@ -345,20 +401,19 @@ async function main() {
       return c;
     });
 
-    clientesRows = dedupeByKey(clientesRows, ['codigo']);
+    clientesRows = (function dedupe(rows){ const map=new Map(); for(const r of rows){ const k=String(r.codigo||r.cliente_codigo||''); if(!map.has(k)) map.set(k,r);} return Array.from(map.values()); })(clientesRows);
     console.log(`→ DEDUPE / clientes únicos: ${clientesRows.length}`);
 
-    // Montar sets de chaves que chegaram no JSON
+    // build sets / arrays
     const clientesKeys = new Set(clientesRows.map(c => String(c.codigo ?? c.cliente_codigo ?? '').trim()).filter(x => x !== ''));
     const pedidosRows = [];
     const produtosRows = [];
 
-    /* Extrair pedidos/produtos embutidos como antes */
+    /* extract embedded pedidos and produtos per client */
     for (let idx = 0; idx < clientesSource.length; idx++) {
       const client = clientesSource[idx] || {};
       const clienteCodigo = normalizeCodigo(client.codigo ?? client.cliente_codigo ?? client.id ?? '') || null;
 
-      // pedidos
       if (Array.isArray(client.pedidos)) {
         for (const rawItem of client.pedidos) {
           const p = pickFields(rawItem, COLUMNS_PEDIDOS);
@@ -394,20 +449,14 @@ async function main() {
         }
       }
 
-      // produtos_comprados (obj)
       const produtosComprados = client.produtos_comprados;
       if (produtosComprados && typeof produtosComprados === 'object') {
         for (const key of Object.keys(produtosComprados)) {
           const prRaw = produtosComprados[key] || {};
           const produto_codigo = normalizeCodigo(prRaw.codigo ?? key) || null;
           const titulo = prRaw.titulo ?? prRaw.title ?? null;
-
-          const parsed = extractSizeColorFromTitle(titulo);
-
-          const tamanhoVal = prRaw.tamanho ?? parsed.tamanho ?? null;
-          const corVal = prRaw.cor ?? prRaw.color ?? parsed.cor ?? null;
-
-          const quantidade = prRaw.quantidade != null ? (parseInt(String(prRaw.quantidade).replace(/\D/g,''),10) || toNumberOrNull(prRaw.quantidade) || null) : null;
+          const parsed = {}; // not extracting size/color here, not needed
+          const quantidade = prRaw.quantidade != null ? (parseInt(String(prRaw.quantidade).replace(/\D/g,''),10) || toNumberOrNull(prRaw.quantidade) || 0) : null;
 
           const produtoRow = {
             cliente_codigo: clienteCodigo || '0',
@@ -418,8 +467,8 @@ async function main() {
             marca: prRaw.marca ?? prRaw.brand ?? null,
             quantidade: quantidade,
             criado_em: new Date().toISOString(),
-            tamanho: tamanhoVal ? String(tamanhoVal).trim() : null,
-            cor: corVal ? String(corVal).trim() : null,
+            tamanho: null,
+            cor: null,
             sku: prRaw.sku ?? null,
             data_pedido: sanitizeDateValue(prRaw.data_pedido ?? prRaw.data)
           };
@@ -433,7 +482,7 @@ async function main() {
 
     console.log(`→ EXTRAÍDO: pedidos ${pedidosRows.length}, produtos ${produtosRows.length}`);
 
-    // placeholders para clientes inexistentes referenciados
+    // placeholders
     const existingSet = new Set(clientesRows.map(c => String(c.codigo ?? c.cliente_codigo ?? '').trim()));
     const usedCodes = new Set();
     for (const p of pedidosRows) usedCodes.add(String(p.cliente_codigo ?? '').trim());
@@ -452,100 +501,38 @@ async function main() {
         nome: 'AUTO-CREATED',
         criado_em: new Date().toISOString()
       }));
-      try {
-        for (let i = 0; i < placeholders.length; i += 300) {
-          const chunk = placeholders.slice(i, i + 300);
-          const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
-          if (error) console.error('Erro criando placeholders', error);
-          else console.log(`Placeholders upserted ${chunk.length} (offset ${i})`);
-        }
-      } catch (e) {
-        console.error('Erro criando placeholders', e);
+      for (let i = 0; i < placeholders.length; i += 300) {
+        const chunk = placeholders.slice(i, i + 300);
+        const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
+        if (error) console.error('Erro criando placeholders', error);
       }
+      console.log('Placeholders processed.');
     } else {
       console.log('→ Nenhum placeholder necessário.');
     }
 
-    // normalizar pedidos/produtos antes de inserir e construir sets de chaves
-    const pedidosKeysSet = new Set();
-    for (let idx = 0; idx < pedidosRows.length; idx++) {
-      const copy = pedidosRows[idx];
-      if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
-      if (!copy.codigo_pedido || copy.codigo_pedido === '') {
-        copy.codigo_pedido = normalizeCodigo(copy.id ?? copy.codigo_pedido ?? copy.codigo ?? ('P' + idx)) || (`P${idx}`);
-      }
-      if (copy.data_hora_pedido) copy.data_hora_pedido = sanitizeDateValue(copy.data_hora_pedido);
-      if (copy.data_hora_confirmacao) copy.data_hora_confirmacao = sanitizeDateValue(copy.data_hora_confirmacao);
-      for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
-      pedidosKeysSet.add(String(copy.codigo_pedido).trim());
+    // upsert clientes
+    if (clientesRows.length) {
+      await upsertClientesInBatches(clientesRows, 300);
+    }
+    // upsert pedidos
+    if (pedidosRows.length) {
+      await upsertPedidosInBatches(pedidosRows, 200);
+    }
+    // sync produtos (quantidade-only)
+    if (produtosRows.length) {
+      await syncProductsQuantityOnly(produtosRows, 200);
     }
 
-    const produtosKeysSet = new Set();
-    for (let prIdx = 0; prIdx < produtosRows.length; prIdx++) {
-      const copy = produtosRows[prIdx];
-      if (!copy.cliente_codigo || String(copy.cliente_codigo).trim() === '') copy.cliente_codigo = '0';
-      for (const k of Object.keys(copy)) if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
-      if (copy.produto_codigo) produtosKeysSet.add(String(copy.produto_codigo).trim());
-    }
-
-    // inserir clientes (upsert)
+    // optional delete orphans (disabled by default)
     try {
-      console.log("→ Upsert em import_clientes (sem limpar tabela inteira)...");
-      if (clientesRows.length) {
-        const batch = 300;
-        for (let i = 0; i < clientesRows.length; i += batch) {
-          const chunk = clientesRows.slice(i, i + batch).map(r => {
-            const copy = { ...r };
-            for (const k of Object.keys(copy)) {
-              if (typeof copy[k] === 'string' && isLikelyZeroDate(copy[k])) copy[k] = null;
-              if (/data|criado|hora|date|timestamp/i.test(k) && copy[k]) copy[k] = sanitizeDateValue(copy[k]);
-            }
-            if ((!copy.cliente_codigo || copy.cliente_codigo === '') && copy.codigo) copy.cliente_codigo = copy.codigo;
-            return copy;
-          });
-          const { error } = await supabase.from('import_clientes').upsert(chunk, { onConflict: 'codigo' });
-          if (error) console.error(`Erro em upsert import_clientes (offset ${i})`, error);
-          else console.log(`Upserted ${chunk.length} into import_clientes (offset ${i})`);
-        }
-      }
-    } catch (e) {
-      console.error("Exception upserting clients:", e);
-    }
-
-    // inserir pedidos (em batches) - usando upsert por codigo_pedido para evitar duplicate key
-    try {
-      console.log("→ Inserindo import_pedidos (batches, upsert by codigo_pedido)...");
-      if (pedidosRows.length) {
-        await insertInBatchesRobust('import_pedidos', pedidosRows, 100, 400, 'codigo_pedido');
-      }
-    } catch (e) {
-      console.error("FATAL ao inserir import_pedidos:", e);
-      throw e;
-    }
-
-    // inserir produtos (em batches) - usando upsert por produto_codigo
-    try {
-      console.log("→ Inserindo import_clientes_produtos (batches, upsert by produto_codigo)...");
-      if (produtosRows.length) {
-        await insertInBatchesRobust('import_clientes_produtos', produtosRows, 200, 300, 'produto_codigo');
-      }
-    } catch (e) {
-      console.error("FATAL ao inserir import_clientes_produtos:", e);
-      throw e;
-    }
-
-    // === Agora: delete-orphans por tabela (opcional por flag) ===
-    try {
-      // import_clientes: apagar clientes que não aparecem mais? (opcional)
       await deleteOrphansByKey('import_clientes', 'codigo', clientesKeys, 1000);
-
-      // import_pedidos: apagar pedidos que não aparecem mais no JSON
+      const pedidosKeysSet = new Set(pedidosRows.map(p => String(p.codigo_pedido).trim()).filter(x => x !== ''));
+      const produtosKeysSet = new Set(produtosRows.map(p => String(p.produto_codigo||'').trim()).filter(x => x !== ''));
       await deleteOrphansByKey('import_pedidos', 'codigo_pedido', pedidosKeysSet, 1000);
-
-      // import_clientes_produtos: apagar produtos que não aparecem mais
       await deleteOrphansByKey('import_clientes_produtos', 'produto_codigo', produtosKeysSet, 1000);
     } catch (e) {
-      console.error("Erro durante delete-orphans:", e);
+      console.error('Erro durante delete-orphans process:', e);
     }
 
     console.log("Sync finished successfully.");
