@@ -19,8 +19,8 @@ const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, { auth: { persistSessi
 
 /* ====== CONFIG ====== */
 const QUANTITY_MODE = 'delta'; // 'delta' (soma) ou 'absolute' (substitui)
-const CHUNK_SIZE = 120;        // ajuste: para 93k recomendo 60
-const PAUSE_MS = 350;          // ajuste: para 93k recomendo 600
+const CHUNK_SIZE = 60;        // ajuste: para 93k recomendo 60
+const PAUSE_MS = 600;          // ajuste: para 93k recomendo 600
 const DO_DELETE_ORPHANS = { import_clientes: false, import_pedidos: false, import_clientes_produtos: false };
 /* ===================== */
 
