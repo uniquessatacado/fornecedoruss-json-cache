@@ -3,6 +3,48 @@
     "total_carrinhos": 1266,
     "lista_carrinhos": [
         {
+            "id": "73174",
+            "id_clientes": "2144",
+            "chave_sessao": "4a42c82fa18d02eb50e12beedc1af36a",
+            "nome": "BRENO BELLÃO",
+            "email": "brenoallyssonb@hotmail.com",
+            "celular": "(11) 96028-5445",
+            "id_usuarios": "1",
+            "data_transacao": "2025-11-11",
+            "hora_transacao": "18:05:04",
+            "ip": "172.69.39.167",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-07 16:56:11",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/4a42c82fa18d02eb50e12beedc1af36a\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_15-25-28_2.jpg",
+                    "codigo": "54612",
+                    "produto": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: G ",
+                    "valor_unitario": "R$ 65,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 65,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+                    "marca": "NIKE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-33_2.jpg",
+                    "codigo": "55158",
+                    "produto": "Cueca Peruana Hugo Boss (LT057) - Cor: PRETA - Tamanho: GG ",
+                    "valor_unitario": "R$ 17,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 17,50",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Hugo Boss"
+                }
+            ]
+        },
+        {
             "id": "72990",
             "id_clientes": "4698",
             "chave_sessao": "ba68b8e48c71a40aa41cefaa1fa29d3b",
@@ -81982,37 +82024,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
                     "marca": "NIKE"
-                }
-            ]
-        },
-        {
-            "id": "71722",
-            "id_clientes": "0",
-            "chave_sessao": "270ddbab06e6303cfe682c61ef36fbbc",
-            "nome": "",
-            "email": "",
-            "celular": "(11) 9871-2727",
-            "id_usuarios": "1",
-            "data_transacao": "2025-09-08",
-            "hora_transacao": "16:58:30",
-            "ip": "172.69.11.78",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-09-08 17:02:56",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/carrinho\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/carrinho\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/270ddbab06e6303cfe682c61ef36fbbc\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2025-02-17_19-06-52.webp",
-                    "codigo": "42127",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "1",
-                    "valor_total": "R$ 38,81",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "COLCCI"
                 }
             ]
         }
