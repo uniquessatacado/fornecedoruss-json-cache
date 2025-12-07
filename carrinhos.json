@@ -1,7 +1,115 @@
 {
     "success": true,
-    "total_carrinhos": 1284,
+    "total_carrinhos": 1283,
     "lista_carrinhos": [
+        {
+            "id": "72425",
+            "id_clientes": "12602",
+            "chave_sessao": "ead472665dcfb25b44d54af9e60d278f",
+            "nome": "CARLOS WILIAM LOPES LIMA",
+            "email": "carlos12lopes06@gmail.com",
+            "celular": "(64) 99209-6462",
+            "id_usuarios": "1",
+            "data_transacao": "2025-10-02",
+            "hora_transacao": "11:03:13",
+            "ip": "172.71.11.143",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-07 12:48:32",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/ead472665dcfb25b44d54af9e60d278f\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2025-03-05_18-02-33.webp",
+                    "codigo": "42687",
+                    "produto": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
+                    "valor_unitario": "R$ 38,81",
+                    "quantidade": "1",
+                    "valor_total": "R$ 38,81",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Kit cueca premium",
+                    "marca": "MCD"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-04_1.jpg",
+                    "codigo": "55217",
+                    "produto": "Cueca Peruana Gucci (LT057) - Cor: CINZA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "GUCCI"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_10-23-54.jpg",
+                    "codigo": "53997",
+                    "produto": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 33,75",
+                    "quantidade": "1",
+                    "valor_total": "R$ 33,75",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Kit cueca premium",
+                    "marca": "DIESEL"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-31_2.jpg",
+                    "codigo": "55146",
+                    "produto": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: GG ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Hugo Boss"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-23_2.jpg",
+                    "codigo": "55188",
+                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: GG ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "CALVIN KLEIN"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-07_09-52-04_1.jpg",
+                    "codigo": "55869",
+                    "produto": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Hugo Boss"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-44_1.jpg",
+                    "codigo": "55851",
+                    "produto": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-02_1.jpg",
+                    "codigo": "55223",
+                    "produto": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "GUCCI"
+                }
+            ]
+        },
         {
             "id": "72338",
             "id_clientes": "9816",
@@ -83070,79 +83178,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta 40.1 Ultra Premium",
                     "marca": "Hugo Boss"
-                }
-            ]
-        },
-        {
-            "id": "71700",
-            "id_clientes": "0",
-            "chave_sessao": "96379e0ab40789764162069fdd0d4b83",
-            "nome": "",
-            "email": "",
-            "celular": "(85) 99209-4416",
-            "id_usuarios": "1",
-            "data_transacao": "2025-09-08",
-            "hora_transacao": "12:43:43",
-            "ip": "172.70.193.134",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-09-08 12:47:29",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-bordada-lt046\/53803\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-bordada-lt046\/53803\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/96379e0ab40789764162069fdd0d4b83\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-05_15-18-44.jpg",
-                    "codigo": "53798",
-                    "produto": "Camiseta Suedine 1:1 Ultra Nike - BORDADA (LT046) - Cor: PRETA - Tamanho: M ",
-                    "valor_unitario": "R$ 65,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 65,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-05_17-13-472_1.jpg",
-                    "codigo": "53882",
-                    "produto": "Camiseta Suedine 1:1 Ultra OVERSIZED Adidas - ARTE EM DTF (LT047) - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 75,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 75,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
-                    "marca": "ADIDAS"
-                }
-            ]
-        },
-        {
-            "id": "71701",
-            "id_clientes": "0",
-            "chave_sessao": "a09ee46c44d4ab8a19e2bf1414749e2a",
-            "nome": "",
-            "email": "",
-            "celular": "(17) 99774-2097",
-            "id_usuarios": "1",
-            "data_transacao": "2025-09-08",
-            "hora_transacao": "12:44:46",
-            "ip": "172.70.236.139",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-09-08 12:47:12",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/categoria\/bermudas\/20\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/categoria\/bermudas\/20\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/a09ee46c44d4ab8a19e2bf1414749e2a\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-04-04_13-14-16_1.jpg",
-                    "codigo": "46092",
-                    "produto": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT37A (C789) AL HILAL - PRONTA ENTREGA - Tamanho: GG - Times : Al-Hilal - VERSÃO: TORCEDOR ",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
-                    "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
-                    "marca": "Camisa de Time"
                 }
             ]
         }
