@@ -1,7 +1,60 @@
 {
     "success": true,
-    "total_carrinhos": 1225,
+    "total_carrinhos": 1224,
     "lista_carrinhos": [
+        {
+            "id": "73584",
+            "id_clientes": "4825",
+            "chave_sessao": "d3218eb287bfa67711b27e76cd3b215b",
+            "nome": "LUÍS HENRIQUE SILVEIRA",
+            "email": "henriquexr@icloud.com",
+            "celular": "(11) 93338-9776",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-09",
+            "hora_transacao": "23:20:47",
+            "ip": "172.71.234.254",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-10 18:44:56",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d3218eb287bfa67711b27e76cd3b215b\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-49.jpg",
+                    "codigo": "55806",
+                    "produto": "Cueca Peruana - Nike (LT058) - Cor: CINZA - Tamanho: M ",
+                    "valor_unitario": "R$ 17,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 17,50",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "NIKE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-23.jpg",
+                    "codigo": "55184",
+                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M ",
+                    "valor_unitario": "R$ 17,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 17,50",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "CALVIN KLEIN"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-28.jpg",
+                    "codigo": "55244",
+                    "produto": "Cueca Peruana Tommy Hilfiger (LT057) - Cor: BRANCA - Tamanho: M ",
+                    "valor_unitario": "R$ 17,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 17,50",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Tommy Hilfiger"
+                }
+            ]
+        },
         {
             "id": "73343",
             "id_clientes": "554",
@@ -895,59 +948,6 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA ULTRA",
                     "marca": "NIKE"
-                }
-            ]
-        },
-        {
-            "id": "73584",
-            "id_clientes": "4825",
-            "chave_sessao": "d3218eb287bfa67711b27e76cd3b215b",
-            "nome": "LUÍS HENRIQUE SILVEIRA",
-            "email": "henriquexr@icloud.com",
-            "celular": "(11) 93338-9776",
-            "id_usuarios": "1",
-            "data_transacao": "2025-12-09",
-            "hora_transacao": "23:20:47",
-            "ip": "172.71.234.254",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-12-10 07:53:06",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d3218eb287bfa67711b27e76cd3b215b\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-49.jpg",
-                    "codigo": "55806",
-                    "produto": "Cueca Peruana - Nike (LT058) - Cor: CINZA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-23.jpg",
-                    "codigo": "55184",
-                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "CALVIN KLEIN"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-28.jpg",
-                    "codigo": "55244",
-                    "produto": "Cueca Peruana Tommy Hilfiger (LT057) - Cor: BRANCA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "Tommy Hilfiger"
                 }
             ]
         },
@@ -79105,92 +79105,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
                     "marca": "ADIDAS"
-                }
-            ]
-        },
-        {
-            "id": "71697",
-            "id_clientes": "20495",
-            "chave_sessao": "96b16b1ebfcc5d4b4b4378f3d46243ce",
-            "nome": "DALILA MARQUES ARAGÃO",
-            "email": "dalila.aragao@hotmail.com",
-            "celular": "(98) 98264-7699",
-            "id_usuarios": "1",
-            "data_transacao": "2025-09-08",
-            "hora_transacao": "12:17:54",
-            "ip": "172.71.172.29",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-09-11 18:43:08",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/carrinho\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/carrinho\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/96b16b1ebfcc5d4b4b4378f3d46243ce\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_09-38-31.jpg",
-                    "codigo": "54003",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - NIKE (LT049) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: M ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_11-48-19.jpg",
-                    "codigo": "54007",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - ARMANI (LT049) - Cor: PRETO CHUMBO VERDE - Tamanho: GG ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "ARMANI"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_12-23-43.jpg",
-                    "codigo": "54011",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - PRADA (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "PRADA"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_09-38-48_1.jpg",
-                    "codigo": "54013",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - PRADA (LT049) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "PRADA"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_09-38-34.jpg",
-                    "codigo": "54040",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - GUCCI (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "GUCCI"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_09-38-282.jpg",
-                    "codigo": "54038",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE (LT049) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: G ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "2",
-                    "valor_total": "R$ 77,62",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "LACOSTE"
                 }
             ]
         }
