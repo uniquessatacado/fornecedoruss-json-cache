@@ -1,7 +1,104 @@
 {
     "success": true,
-    "total_carrinhos": 1209,
+    "total_carrinhos": 1208,
     "lista_carrinhos": [
+        {
+            "id": "72425",
+            "id_clientes": "12602",
+            "chave_sessao": "ead472665dcfb25b44d54af9e60d278f",
+            "nome": "CARLOS WILIAM LOPES LIMA",
+            "email": "carlos12lopes06@gmail.com",
+            "celular": "(64) 99209-6462",
+            "id_usuarios": "1",
+            "data_transacao": "2025-10-02",
+            "hora_transacao": "11:03:13",
+            "ip": "172.71.11.143",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-11 14:21:53",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/ead472665dcfb25b44d54af9e60d278f\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2025-03-05_18-02-33.webp",
+                    "codigo": "42687",
+                    "produto": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
+                    "valor_unitario": "R$ 38,81",
+                    "quantidade": "1",
+                    "valor_total": "R$ 38,81",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Kit cueca premium",
+                    "marca": "MCD"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_10-23-54.jpg",
+                    "codigo": "53997",
+                    "produto": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 33,75",
+                    "quantidade": "1",
+                    "valor_total": "R$ 33,75",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Kit cueca premium",
+                    "marca": "DIESEL"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-31_2.jpg",
+                    "codigo": "55146",
+                    "produto": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: GG ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Hugo Boss"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-23_2.jpg",
+                    "codigo": "55188",
+                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: GG ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "CALVIN KLEIN"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-07_09-52-04_1.jpg",
+                    "codigo": "55869",
+                    "produto": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "Hugo Boss"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-44_1.jpg",
+                    "codigo": "55851",
+                    "produto": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-02_1.jpg",
+                    "codigo": "55223",
+                    "produto": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: G ",
+                    "valor_unitario": "R$ 10,06",
+                    "quantidade": "1",
+                    "valor_total": "R$ 10,06",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "GUCCI"
+                }
+            ]
+        },
         {
             "id": "73094",
             "id_clientes": "671",
@@ -754,37 +851,6 @@
                     "categoria_principal": "CUECAS",
                     "categoria": "Cuecas Peruanas",
                     "marca": "GUCCI"
-                }
-            ]
-        },
-        {
-            "id": "73361",
-            "id_clientes": "16918",
-            "chave_sessao": "8ce112b610ad0c6af77c35c2c2ca5fd5",
-            "nome": "MAX HENRIQUE GOULART BORGES",
-            "email": "maxborgesduda@icloud.com",
-            "celular": "(11) 94118-3479",
-            "id_usuarios": "1",
-            "data_transacao": "2025-11-24",
-            "hora_transacao": "22:17:38",
-            "ip": "172.69.138.132",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-12-10 20:40:30",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/8ce112b610ad0c6af77c35c2c2ca5fd5\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41_2.jpg",
-                    "codigo": "53603",
-                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: G - Times : Corinthians - VERSÃO: RETRO ",
-                    "valor_unitario": "R$ 180,00",
-                    "quantidade": "6",
-                    "valor_total": "R$ 1.080,00",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
-                    "marca": "Camisa de Time"
                 }
             ]
         },
@@ -4876,114 +4942,6 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA ULTRA",
                     "marca": "ADIDAS"
-                }
-            ]
-        },
-        {
-            "id": "72425",
-            "id_clientes": "12602",
-            "chave_sessao": "ead472665dcfb25b44d54af9e60d278f",
-            "nome": "CARLOS WILIAM LOPES LIMA",
-            "email": "carlos12lopes06@gmail.com",
-            "celular": "(64) 99209-6462",
-            "id_usuarios": "1",
-            "data_transacao": "2025-10-02",
-            "hora_transacao": "11:03:13",
-            "ip": "172.71.11.143",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-12-07 12:48:32",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-entrega\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-entrega\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/ead472665dcfb25b44d54af9e60d278f\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2025-03-05_18-02-33.webp",
-                    "codigo": "42687",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G ",
-                    "valor_unitario": "R$ 38,81",
-                    "quantidade": "1",
-                    "valor_total": "R$ 38,81",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "MCD"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-04_1.jpg",
-                    "codigo": "55217",
-                    "produto": "Cueca Peruana Gucci (LT057) - Cor: CINZA - Tamanho: G ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "GUCCI"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_10-23-54.jpg",
-                    "codigo": "53997",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 33,75",
-                    "quantidade": "1",
-                    "valor_total": "R$ 33,75",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "DIESEL"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-31_2.jpg",
-                    "codigo": "55146",
-                    "produto": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: GG ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "Hugo Boss"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-23_2.jpg",
-                    "codigo": "55188",
-                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: GG ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "CALVIN KLEIN"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-07_09-52-04_1.jpg",
-                    "codigo": "55869",
-                    "produto": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: G ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "Hugo Boss"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-44_1.jpg",
-                    "codigo": "55851",
-                    "produto": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: G ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "LACOSTE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-02_1.jpg",
-                    "codigo": "55223",
-                    "produto": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: G ",
-                    "valor_unitario": "R$ 10,06",
-                    "quantidade": "1",
-                    "valor_total": "R$ 10,06",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "GUCCI"
                 }
             ]
         },
