@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 1214,
+    "total_carrinhos": 1215,
     "lista_carrinhos": [
+        {
+            "id": "73628",
+            "id_clientes": "0",
+            "chave_sessao": "10e0b44b0918c9b00af15fb4a2e181df",
+            "nome": "",
+            "email": "",
+            "celular": "(19) 99399-8013",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-13",
+            "hora_transacao": "15:11:17",
+            "ip": "172.71.10.31",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-13 15:11:17",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/10e0b44b0918c9b00af15fb4a2e181df\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2025-09-24_10-19-04_2.jpg",
+                    "codigo": "54582",
+                    "produto": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: BEGE - Tamanho: GG ",
+                    "valor_unitario": "R$ 75,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 75,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+                    "marca": "ADIDAS"
+                }
+            ]
+        },
         {
             "id": "73343",
             "id_clientes": "554",
