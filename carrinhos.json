@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 1216,
+    "total_carrinhos": 1217,
     "lista_carrinhos": [
+        {
+            "id": "73632",
+            "id_clientes": "0",
+            "chave_sessao": "d25e6883236ec5609298944a56123f1e",
+            "nome": "",
+            "email": "",
+            "celular": "(98) 98111-1284",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-13",
+            "hora_transacao": "18:38:49",
+            "ip": "172.71.235.60",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-13 18:38:57",
+            "id_clientes_loja_drop": "16103",
+            "url_abandono": "euvendovccompra.com.br\/ibizastore\/finalizar-pedido\/",
+            "url_abandono_site": "https:\/\/euvendovccompra.com.br\/ibizastore\/finalizar-pedido\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d25e6883236ec5609298944a56123f1e\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_15-21-35.jpg",
+                    "codigo": "54591",
+                    "produto": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: P ",
+                    "valor_unitario": "R$ 52,32",
+                    "quantidade": "1",
+                    "valor_total": "R$ 52,32",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+                    "marca": "NIKE"
+                }
+            ]
+        },
         {
             "id": "72956",
             "id_clientes": "260",
