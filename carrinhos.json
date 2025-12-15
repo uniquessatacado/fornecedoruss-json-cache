@@ -1,7 +1,80 @@
 {
     "success": true,
-    "total_carrinhos": 1219,
+    "total_carrinhos": 1221,
     "lista_carrinhos": [
+        {
+            "id": "73594",
+            "id_clientes": "20680",
+            "chave_sessao": "07932e84b1a1d212d752102870c8d8d9",
+            "nome": "ARTHUR DE OLIVEIRA",
+            "email": "arthuroliveirarei55@gmail.com",
+            "celular": "(31) 98907-2517",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-11",
+            "hora_transacao": "09:39:16",
+            "ip": "172.64.222.223",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-15 17:42:04",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-pagamento\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-pagamento\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/07932e84b1a1d212d752102870c8d8d9\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-21_11-13-57_1.jpg",
+                    "codigo": "51108",
+                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER UNITED III 25\/26 - Tamanho: M - Times : Manchester United - VERSÃO: TORCEDOR ",
+                    "valor_unitario": "R$ 127,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 127,50",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
+        {
+            "id": "73662",
+            "id_clientes": "0",
+            "chave_sessao": "fb69f68d535064bddfdbb0ecdf2f9b3b",
+            "nome": "",
+            "email": "",
+            "celular": "(47) 98472-8996",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-15",
+            "hora_transacao": "17:38:38",
+            "ip": "252.61.175.116",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-15 17:38:38",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/fb69f68d535064bddfdbb0ecdf2f9b3b\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-07_16-35-09.jpg",
+                    "codigo": "53038",
+                    "produto": "Camiseta Malha Chinesa Louis Vuitton (LT036) - Cor: PRETA - Tamanho: M <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 47,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 47,50",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+                    "marca": "Louis Vuitton"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-25_10-48-56_5.jpg",
+                    "codigo": "52063",
+                    "produto": "Camiseta Pima Premium Armani (LT011) - Cor: BRANCA - Tamanho: M <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 50,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 50,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA PIMA LUXO",
+                    "marca": "ARMANI"
+                }
+            ]
+        },
         {
             "id": "73661",
             "id_clientes": "0",
