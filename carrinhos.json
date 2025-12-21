@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 1125,
+    "total_carrinhos": 1126,
     "lista_carrinhos": [
+        {
+            "id": "73750",
+            "id_clientes": "8550",
+            "chave_sessao": "9872026b4eb143ff2cc4ceb99dbc052b",
+            "nome": "LEANDRO SILVA DE ARAUJO",
+            "email": "leandro.s.a.sp11@gmail.com",
+            "celular": "(11) 96715-2752",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-21",
+            "hora_transacao": "18:23:42",
+            "ip": "172.69.138.132",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-21 18:23:51",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/remover-produto-carrinho\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/remover-produto-carrinho\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/9872026b4eb143ff2cc4ceb99dbc052b\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-16_10-49-482_1.jpg",
+                    "codigo": "54989",
+                    "produto": "Bermuda Microfibra Ultra Jordan (LT056) - Cor: AZUL ROYAL - Tamanho: G ",
+                    "valor_unitario": "R$ 62,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 62,50",
+                    "categoria_principal": "BERMUDAS",
+                    "categoria": "BERMUDA MICROFIBRA ULTRA",
+                    "marca": "JORDAN"
+                }
+            ]
+        },
         {
             "id": "73749",
             "id_clientes": "8945",
@@ -14,10 +45,10 @@
             "hora_transacao": "18:09:39",
             "ip": "104.23.254.164",
             "excluido": "F",
-            "data_hora_atualizacao": "2025-12-21 18:09:39",
+            "data_hora_atualizacao": "2025-12-21 18:17:31",
             "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-personalizacao\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-personalizacao\/",
             "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/f436dc19d96bb373315768bd71725380\/",
             "produtos": [
                 {
@@ -29,17 +60,6 @@
                     "valor_total": "R$ 180,00",
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
-                    "marca": "Camisa de Time"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-29_17-42-082_3.jpg",
-                    "codigo": "53682",
-                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO III 25\/26 - Tamanho: GG - Times : São Paulo - VERSÃO: TORCEDOR ",
-                    "valor_unitario": "R$ 127,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 127,50",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
                     "marca": "Camisa de Time"
                 }
             ]
