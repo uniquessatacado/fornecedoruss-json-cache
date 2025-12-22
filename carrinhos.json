@@ -3,48 +3,6 @@
     "total_carrinhos": 1118,
     "lista_carrinhos": [
         {
-            "id": "72783",
-            "id_clientes": "20258",
-            "chave_sessao": "98b1ab8cefe1fbcd262ce2db0ab28744",
-            "nome": "GUSTAVO COSTA YANO",
-            "email": "gustavoyano019@gmail.com",
-            "celular": "(19) 98440-4585",
-            "id_usuarios": "1",
-            "data_transacao": "2025-10-16",
-            "hora_transacao": "22:00:07",
-            "ip": "104.23.254.165",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-12-22 09:15:44",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/32317\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/32317\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/98b1ab8cefe1fbcd262ce2db0ab28744\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_16-41-19_1.jpg",
-                    "codigo": "55043",
-                    "produto": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "LACOSTE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-26-32_2.jpg",
-                    "codigo": "55695",
-                    "produto": "Bermuda Microfibra Ultra Nike (LT060) - Cor: PRETA - Tamanho: GG ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "NIKE"
-                }
-            ]
-        },
-        {
             "id": "73331",
             "id_clientes": "15345",
             "chave_sessao": "06fb9539a8abc3efc6470f96770f58ab",
@@ -56,10 +14,10 @@
             "hora_transacao": "22:06:05",
             "ip": "172.71.10.30",
             "excluido": "F",
-            "data_hora_atualizacao": "2025-12-22 09:12:02",
+            "data_hora_atualizacao": "2025-12-22 09:30:04",
             "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-pagamento\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-pagamento\/",
             "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/06fb9539a8abc3efc6470f96770f58ab\/",
             "produtos": [
                 {
@@ -127,6 +85,48 @@
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
                     "marca": "Camisa de Time"
+                }
+            ]
+        },
+        {
+            "id": "72783",
+            "id_clientes": "20258",
+            "chave_sessao": "98b1ab8cefe1fbcd262ce2db0ab28744",
+            "nome": "GUSTAVO COSTA YANO",
+            "email": "gustavoyano019@gmail.com",
+            "celular": "(19) 98440-4585",
+            "id_usuarios": "1",
+            "data_transacao": "2025-10-16",
+            "hora_transacao": "22:00:07",
+            "ip": "104.23.254.165",
+            "excluido": "F",
+            "data_hora_atualizacao": "2025-12-22 09:29:40",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/32317\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/32317\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/98b1ab8cefe1fbcd262ce2db0ab28744\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_16-41-19_1.jpg",
+                    "codigo": "55043",
+                    "produto": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: G ",
+                    "valor_unitario": "R$ 62,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 62,50",
+                    "categoria_principal": "BERMUDAS",
+                    "categoria": "BERMUDA MICROFIBRA ULTRA",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-26-32_2.jpg",
+                    "codigo": "55695",
+                    "produto": "Bermuda Microfibra Ultra Nike (LT060) - Cor: PRETA - Tamanho: GG ",
+                    "valor_unitario": "R$ 62,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 62,50",
+                    "categoria_principal": "BERMUDAS",
+                    "categoria": "BERMUDA MICROFIBRA ULTRA",
+                    "marca": "NIKE"
                 }
             ]
         },
