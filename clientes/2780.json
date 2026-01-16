@@ -1,0 +1,88 @@
+{
+  "codigo": "2780",
+  "nome": "WESLLEY DÁ CRUZ LOPES",
+  "email": "weslleydacruzlopes29114@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(64) 98455-6587",
+  "cidade": "Rio Verde",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 149.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "22879",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-15 23:47:33",
+      "data_hora_confirmacao": "2024-10-16 11:00:26",
+      "data_hora_confirmacao_pagamento": "2024-10-16 11:00:18",
+      "valor_total_produtos": 46.98,
+      "valor_frete": 17.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.72,
+      "desconto": 0,
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23200",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-22 21:40:24",
+      "data_hora_confirmacao": "2024-10-23 09:46:49",
+      "data_hora_confirmacao_pagamento": "2024-10-23 09:46:08",
+      "valor_total_produtos": 64.98,
+      "valor_frete": 19.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.43,
+      "desconto": 0,
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29715": {
+      "codigo": "29715",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31423": {
+      "codigo": "31423",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "32344": {
+      "codigo": "32344",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32517": {
+      "codigo": "32517",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

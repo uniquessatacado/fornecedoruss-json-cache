@@ -1,0 +1,53 @@
+{
+  "codigo": "12341",
+  "nome": "CAUE SANTOS DE JESUS",
+  "email": "scaue5543@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/07/2024",
+  "whatsapp": "(11) 94990-3158",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 54.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "15894",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 11:56:58",
+      "data_hora_confirmacao": "2024-07-13 14:03:05",
+      "data_hora_confirmacao_pagamento": "2024-07-13 14:02:59",
+      "valor_total_produtos": 41.98,
+      "valor_frete": 12.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.95,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23082": {
+      "codigo": "23082",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "23777": {
+      "codigo": "23777",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte emborrachada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

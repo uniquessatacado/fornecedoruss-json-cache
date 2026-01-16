@@ -1,0 +1,72 @@
+{
+  "codigo": "14780",
+  "nome": "KALINE RODRIGUES",
+  "email": "kalinesouzarodrigues@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/08/2024",
+  "whatsapp": "(11) 9821-44306",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 118.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "22407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-07 12:20:45",
+      "data_hora_confirmacao": "2024-10-07 18:17:30",
+      "data_hora_confirmacao_pagamento": "2024-10-07 18:17:20",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.76,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30283",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-13 15:19:13",
+      "data_hora_confirmacao": "2025-06-13 15:20:35",
+      "data_hora_confirmacao_pagamento": "2025-06-13 15:20:35",
+      "valor_total_produtos": 50,
+      "valor_frete": 13.65,
+      "frete": "SEDEX",
+      "valor_total_pedido": 63.65,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32159": {
+      "codigo": "32159",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte BORDADA - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49567": {
+      "codigo": "49567",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1189) - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

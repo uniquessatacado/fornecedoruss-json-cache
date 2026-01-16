@@ -1,0 +1,69 @@
+{
+  "codigo": "9199",
+  "nome": "VINICIUS OTTOBONI REIS",
+  "email": "viniciusottobonireis@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/05/2024",
+  "whatsapp": "(11) 99209-3603",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 161.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "11496",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-08 13:11:09",
+      "data_hora_confirmacao": "2024-05-08 16:34:30",
+      "data_hora_confirmacao_pagamento": "2024-05-08 16:32:42",
+      "valor_total_produtos": 137.96,
+      "valor_frete": 23.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 161.59,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17922": {
+      "codigo": "17922",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17938": {
+      "codigo": "17938",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "KT1.2GG": {
+      "codigo": "KT1.2GG",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

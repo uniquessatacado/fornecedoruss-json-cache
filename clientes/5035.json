@@ -1,0 +1,155 @@
+{
+  "codigo": "5035",
+  "nome": "DANILO NUNES DE MELO",
+  "email": "dmelocell@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(83) 98137-3858",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 573.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "11303",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 22:28:33",
+      "data_hora_confirmacao": "2024-05-08 17:50:50",
+      "data_hora_confirmacao_pagamento": "2024-05-08 17:50:41",
+      "valor_total_produtos": 133.96,
+      "valor_frete": 29.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.72,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28658",
+      "situacao_pedido": "PEDIDO EM TRANSITO DA FABRICA PARA NOSSO ESTOQUE",
+      "data_hora_pedido": "2025-03-11 19:54:47",
+      "data_hora_confirmacao": "2025-03-11 19:54:47",
+      "data_hora_confirmacao_pagamento": "2025-03-11 19:54:47",
+      "valor_total_produtos": 63.06,
+      "valor_frete": 37.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.28,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28659",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-11 19:54:48",
+      "data_hora_confirmacao": "2025-03-11 19:54:48",
+      "data_hora_confirmacao_pagamento": "2025-03-11 19:54:48",
+      "valor_total_produtos": 269.22,
+      "valor_frete": 40.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 309.81,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41221": {
+      "codigo": "41221",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C356)- Flamengo LT14A - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "42956": {
+      "codigo": "42956",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 25/26 TORCEDOR - (envio direto da fabrica) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "43014": {
+      "codigo": "43014",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C664)  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43021": {
+      "codigo": "43021",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C664)   - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43049": {
+      "codigo": "43049",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43200": {
+      "codigo": "43200",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C668) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "43221": {
+      "codigo": "43221",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C668)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD8.01M": {
+      "codigo": "CD8.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.134M": {
+      "codigo": "CD02.134M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Azul Marinho - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.143G": {
+      "codigo": "CD02.143G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: MARROM - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

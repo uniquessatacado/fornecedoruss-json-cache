@@ -1,0 +1,53 @@
+{
+  "codigo": "4032",
+  "nome": "RAFAEL DE SOUZA ALMEIDA",
+  "email": "rsalmeida87@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/11/2023",
+  "whatsapp": "(11) 99705-7338",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 106.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "3059",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-11 12:04:48",
+      "data_hora_confirmacao": "2023-11-13 11:52:20",
+      "data_hora_confirmacao_pagamento": "2023-11-13 11:52:31",
+      "valor_total_produtos": 95,
+      "valor_frete": 11.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.86,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.48M": {
+      "codigo": "CD01.48M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: M - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: M - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

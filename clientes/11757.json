@@ -1,0 +1,72 @@
+{
+  "codigo": "11757",
+  "nome": "IGOR KAUÃ SIMÕES",
+  "email": "igorkaua1205@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/06/2024",
+  "whatsapp": "(19) 9861-00197",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 102.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "14839",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-30 18:24:14",
+      "data_hora_confirmacao": "2024-07-01 12:59:41",
+      "data_hora_confirmacao_pagamento": "2024-07-01 12:59:36",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27143",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-23 12:08:39",
+      "data_hora_confirmacao": "2024-12-23 12:16:34",
+      "data_hora_confirmacao_pagamento": "2024-12-23 12:16:34",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 56.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23209": {
+      "codigo": "23209",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BARCELONA  - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "39252": {
+      "codigo": "39252",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C161) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

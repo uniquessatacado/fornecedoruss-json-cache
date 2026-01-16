@@ -1,0 +1,69 @@
+{
+  "codigo": "16874",
+  "nome": "EDIO ADALBERTO DE OLIVEIRA",
+  "email": "oliveira-edio@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/10/2024",
+  "whatsapp": "(11) 97283-3425",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 214.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "23313",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-24 17:39:59",
+      "data_hora_confirmacao": "2024-10-24 18:01:04",
+      "data_hora_confirmacao_pagamento": "2024-10-24 18:00:57",
+      "valor_total_produtos": 200.96,
+      "valor_frete": 13.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 214.34,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "31873": {
+      "codigo": "31873",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31877": {
+      "codigo": "31877",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32161": {
+      "codigo": "32161",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte BORDADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "32214": {
+      "codigo": "32214",
+      "titulo": "Camiseta Algodão Soft Americano - ARMANI arte BORDADA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

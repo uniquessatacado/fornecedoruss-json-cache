@@ -1,0 +1,53 @@
+{
+  "codigo": "20049",
+  "nome": "MATHEUS HENRIQUE DA SILVA RAMOS",
+  "email": "matheushenriquers14@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/06/2025",
+  "whatsapp": "(19) 98153-4675",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 128.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "30105",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-03 18:05:30",
+      "data_hora_confirmacao": "2025-06-03 18:05:30",
+      "data_hora_confirmacao_pagamento": "2025-06-03 18:05:30",
+      "valor_total_produtos": 128.34,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 128.34,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39338": {
+      "codigo": "39338",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "46936": {
+      "codigo": "46936",
+      "titulo": "Camisa Polo Lacoste Sport Zíper - Crocodilo Bordado em Alto Relevo Tonal - Cinza - Cor: CINZA - Marca: Lacoste - Tamanho: P",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

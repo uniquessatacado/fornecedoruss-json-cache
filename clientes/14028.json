@@ -1,0 +1,69 @@
+{
+  "codigo": "14028",
+  "nome": "CARLOS DANIEL DOS SANTOS RODRIGUES",
+  "email": "carlosdaniel57164@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(31) 9838-46786",
+  "cidade": "Ribeirão das Neves",
+  "estado": "MG",
+  "loja_drop": "1",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 239.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "18603",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 22:33:03",
+      "data_hora_confirmacao": "2024-08-14 19:27:27",
+      "data_hora_confirmacao_pagamento": "2024-08-14 19:27:21",
+      "valor_total_produtos": 219.96,
+      "valor_frete": 19.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 239.44,
+      "desconto": 0,
+      "cidade": "Ribeirão das Neves",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26606": {
+      "codigo": "26606",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26608": {
+      "codigo": "26608",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26612": {
+      "codigo": "26612",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26615": {
+      "codigo": "26615",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

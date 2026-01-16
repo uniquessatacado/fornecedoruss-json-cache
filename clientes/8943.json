@@ -1,0 +1,96 @@
+{
+  "codigo": "8943",
+  "nome": "EWERTON MATOS",
+  "email": "reis.matos5075@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(79) 9984-45690",
+  "cidade": "Aracaju",
+  "estado": "SE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 262.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "27868",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-28 18:57:00",
+      "data_hora_confirmacao": "2025-01-28 19:03:03",
+      "data_hora_confirmacao_pagamento": "2025-01-28 19:03:03",
+      "valor_total_produtos": 115.38,
+      "valor_frete": 24.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.46,
+      "desconto": 0,
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27869",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-01-28 18:57:00",
+      "data_hora_confirmacao": "2025-01-28 19:10:08",
+      "data_hora_confirmacao_pagamento": "2025-01-28 19:10:08",
+      "valor_total_produtos": 122.73,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 122.73,
+      "desconto": 0,
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20927": {
+      "codigo": "20927",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33093": {
+      "codigo": "33093",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "40882": {
+      "codigo": "40882",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40924": {
+      "codigo": "40924",
+      "titulo": "Bermuda Microfibra Ultra (C251) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40952": {
+      "codigo": "40952",
+      "titulo": "Bermuda Microfibra Ultra (C250)  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

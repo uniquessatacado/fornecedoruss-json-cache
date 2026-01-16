@@ -1,0 +1,120 @@
+{
+  "codigo": "2658",
+  "nome": "ADRIANO RODRIGUES FERREIRA",
+  "email": "adrianoferreira2@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(32) 9983-22929",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 379,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300524",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 23:24:27",
+      "data_hora_confirmacao": "2023-09-22 23:46:28",
+      "data_hora_confirmacao_pagamento": "2023-09-22 23:45:39",
+      "valor_total_produtos": 294,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 294,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300542",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-23 10:40:21",
+      "data_hora_confirmacao": "2023-09-23 11:00:42",
+      "data_hora_confirmacao_pagamento": "2023-09-23 11:01:31",
+      "valor_total_produtos": 85,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 85,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.3P": {
+      "codigo": "CD07.3P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci ( Bordado com a linha madeira) - Cor: OffWhite - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.15P": {
+      "codigo": "CD08.15P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.1GG": {
+      "codigo": "CD15.1GG",
+      "titulo": "Camiseta Peruana com Elastano - Lacoste - Cor: Vermelha - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.6G": {
+      "codigo": "CD02.6G",
+      "titulo": "Camiseta Quiksilver 40.1 Ultra Premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD13.3GG": {
+      "codigo": "CD13.3GG",
+      "titulo": "Camiseta standard Fit 1:1 - Nike  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.24M": {
+      "codigo": "CD17.24M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD08.20M": {
+      "codigo": "CD08.20M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Aplique Lantejoula e Bordada) - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.2P": {
+      "codigo": "CD33.2P",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

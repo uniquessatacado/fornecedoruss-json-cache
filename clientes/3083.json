@@ -1,0 +1,203 @@
+{
+  "codigo": "3083",
+  "nome": "CARLOS EDUARDO DOMINGOS",
+  "email": "dubigu10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(19) 9974-01844",
+  "cidade": "Amparo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 655.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 19:36:04",
+      "data_hora_confirmacao": "2023-10-02 10:57:04",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:57:14",
+      "valor_total_produtos": 66,
+      "valor_frete": 10.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.23,
+      "desconto": 0,
+      "cidade": "Amparo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12389",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-22 19:01:14",
+      "data_hora_confirmacao": "2024-05-24 15:14:09",
+      "data_hora_confirmacao_pagamento": "2024-05-24 15:14:01",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 15.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 195.43,
+      "desconto": 0,
+      "cidade": "Amparo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30790",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-17 13:26:07",
+      "data_hora_confirmacao": "2025-07-17 13:28:17",
+      "data_hora_confirmacao_pagamento": "2025-07-17 13:28:17",
+      "valor_total_produtos": 356.7,
+      "valor_frete": 27.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 384.06,
+      "desconto": 0,
+      "cidade": "Amparo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19216": {
+      "codigo": "19216",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19220": {
+      "codigo": "19220",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19241": {
+      "codigo": "19241",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19243": {
+      "codigo": "19243",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19246": {
+      "codigo": "19246",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50011": {
+      "codigo": "50011",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50017": {
+      "codigo": "50017",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50029": {
+      "codigo": "50029",
+      "titulo": "Regata Machão Suedine 1:1 Nike Air - ARTE EM DTF (LT003.1) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50041": {
+      "codigo": "50041",
+      "titulo": "Regata Machão Suedine 1:1 Nike Air - ARTE EM DTF (LT003.1) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50123": {
+      "codigo": "50123",
+      "titulo": "Regata Machão Suedine 1:1 Nike (LT003.1) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50238": {
+      "codigo": "50238",
+      "titulo": "Bermuda Nike Microfibra Ultra (LT003.3) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50829": {
+      "codigo": "50829",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50835": {
+      "codigo": "50835",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50847": {
+      "codigo": "50847",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50889": {
+      "codigo": "50889",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.11M": {
+      "codigo": "CD17.11M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

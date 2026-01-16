@@ -1,0 +1,80 @@
+{
+  "codigo": "9399",
+  "nome": "EDMILSON MARTINS",
+  "email": "edmilsonmramos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/05/2024",
+  "whatsapp": "(81) 98811-6538",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 167.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "11838",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 20:58:57",
+      "data_hora_confirmacao": "2024-05-15 09:44:25",
+      "data_hora_confirmacao_pagamento": "2024-05-15 09:44:17",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 57.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 93.66,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12150",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 23:08:33",
+      "data_hora_confirmacao": "2024-05-21 12:39:29",
+      "data_hora_confirmacao_pagamento": "2024-05-21 12:39:21",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18541": {
+      "codigo": "18541",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Oakley - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "18549": {
+      "codigo": "18549",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "CD25.10G": {
+      "codigo": "CD25.10G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LOUIS VUITTON - Cor: KIT - PRETA - CINZA - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

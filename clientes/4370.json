@@ -1,0 +1,61 @@
+{
+  "codigo": "4370",
+  "nome": "ROBSON DOUGLAS DA SILVA PEREIRA",
+  "email": "rd.pereira@live.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2023",
+  "whatsapp": "(13) 99134-7149",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 117.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "3826",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-29 17:26:48",
+      "data_hora_confirmacao": "2023-11-29 18:17:30",
+      "data_hora_confirmacao_pagamento": "2023-11-29 18:17:40",
+      "valor_total_produtos": 105,
+      "valor_frete": 12.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 117.1,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.52": {
+      "codigo": "CD02.52",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT29.11  - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD66.3": {
+      "codigo": "CD66.3",
+      "titulo": "CAMISETA PERUANA LUXO - BALMAIN  LT23.10  - Cor: Azul Marinho - Marca: Balmain - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    }
+  }
+}

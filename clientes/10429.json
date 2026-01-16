@@ -1,0 +1,61 @@
+{
+  "codigo": "10429",
+  "nome": "JHONATA BRUNO NASCIMENTO MOURA",
+  "email": "jhonatabruno1teka@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(64) 99298-9649",
+  "cidade": "Bom Jesus de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 134.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "13235",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 18:13:56",
+      "data_hora_confirmacao": "2024-06-06 18:42:57",
+      "data_hora_confirmacao_pagamento": "2024-06-06 18:43:17",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 27.02,
+      "frete": "PAC",
+      "valor_total_pedido": 134.99,
+      "desconto": 0,
+      "cidade": "Bom Jesus de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15158": {
+      "codigo": "15158",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18278": {
+      "codigo": "18278",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: LARANJA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20109": {
+      "codigo": "20109",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

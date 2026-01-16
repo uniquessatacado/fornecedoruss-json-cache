@@ -1,0 +1,104 @@
+{
+  "codigo": "6942",
+  "nome": "GILSON APARECIDO RIBEIRO",
+  "email": "gaparecidoribeiro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/03/2024",
+  "whatsapp": "(66) 99251-9431",
+  "cidade": "Rondonópolis",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 274.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "8479",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-14 16:39:36",
+      "data_hora_confirmacao": "2024-03-15 11:18:40",
+      "data_hora_confirmacao_pagamento": "2024-03-15 11:18:35",
+      "valor_total_produtos": 133.86,
+      "valor_frete": 30.97,
+      "frete": "JADLOG",
+      "valor_total_pedido": 164.83,
+      "desconto": 0,
+      "cidade": "Rondonópolis",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8756",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 16:37:47",
+      "data_hora_confirmacao": "2024-03-21 16:37:53",
+      "data_hora_confirmacao_pagamento": "2024-03-21 16:37:37",
+      "valor_total_produtos": 79.92,
+      "valor_frete": 29.87,
+      "frete": "JADLOG",
+      "valor_total_pedido": 109.79,
+      "desconto": 0,
+      "cidade": "Rondonópolis",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.05M": {
+      "codigo": "CD24.05M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD02.122M": {
+      "codigo": "CD02.122M",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Preto - Marca: Rip Curl - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": 2
+    },
+    "CD12.01M": {
+      "codigo": "CD12.01M",
+      "titulo": "Polo Piquet Duplo - LACOSTE - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.11M": {
+      "codigo": "CD24.11M",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Azul Marinho - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    },
+    "CD24.12M": {
+      "codigo": "CD24.12M",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.10M": {
+      "codigo": "CD24.10M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "9291",
+  "nome": "SINVALDO NIERO",
+  "email": "sisiniero@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(27) 99984-5952",
+  "cidade": "Jaguaré",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 256.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "11764",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-13 06:55:21",
+      "data_hora_confirmacao": "2024-05-16 17:12:20",
+      "data_hora_confirmacao_pagamento": "2024-05-16 17:12:11",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 26.38,
+      "frete": "PAC",
+      "valor_total_pedido": 88.36,
+      "desconto": 0,
+      "cidade": "Jaguaré",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 22:00:42",
+      "data_hora_confirmacao": "2024-07-11 09:40:51",
+      "data_hora_confirmacao_pagamento": "2024-07-11 09:40:42",
+      "valor_total_produtos": 145.96,
+      "valor_frete": 21.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.94,
+      "desconto": 0,
+      "cidade": "Jaguaré",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18448": {
+      "codigo": "18448",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18475": {
+      "codigo": "18475",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23838": {
+      "codigo": "23838",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23883": {
+      "codigo": "23883",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "24031": {
+      "codigo": "24031",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "24068": {
+      "codigo": "24068",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

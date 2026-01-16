@@ -1,0 +1,88 @@
+{
+  "codigo": "801",
+  "nome": "FABIANA AZEVEDO",
+  "email": "fabiazevedo2019@yahoo.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(19) 99249-2256",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 181.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "3366",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-19 10:33:20",
+      "data_hora_confirmacao": "2023-11-23 14:20:44",
+      "data_hora_confirmacao_pagamento": "2023-11-23 14:20:59",
+      "valor_total_produtos": 51,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 61,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4170",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-06 22:33:20",
+      "data_hora_confirmacao": "2023-12-07 23:26:06",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:26:14",
+      "valor_total_produtos": 110.5,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 120.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 6
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Azul Marinho - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

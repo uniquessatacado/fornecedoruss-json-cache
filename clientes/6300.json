@@ -1,0 +1,53 @@
+{
+  "codigo": "6300",
+  "nome": "EDSON HERCULANO ANDRÉ",
+  "email": "edsonh.andre@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(47) 9916-70315",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 77.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "7427",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 16:39:00",
+      "data_hora_confirmacao": "2024-02-21 17:16:35",
+      "data_hora_confirmacao_pagamento": "2024-02-21 17:16:29",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 15.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.84,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.107M": {
+      "codigo": "CD02.107M",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Bege - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.105M": {
+      "codigo": "CD02.105M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

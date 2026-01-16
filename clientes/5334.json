@@ -1,0 +1,182 @@
+{
+  "codigo": "5334",
+  "nome": "GABRIEL LANA BRAGA",
+  "email": "g.braga2605@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/01/2024",
+  "whatsapp": "(43) 98473-3572",
+  "cidade": "Londrina",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 530.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "6517",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-12 13:02:02",
+      "data_hora_confirmacao": "2024-01-13 11:36:38",
+      "data_hora_confirmacao_pagamento": "2024-01-13 11:36:50",
+      "valor_total_produtos": 223.89,
+      "valor_frete": 17.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 241.59,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6630",
+      "situacao_pedido": "PEDIDO SEPARADO COM ERRO",
+      "data_hora_pedido": "2024-01-18 12:40:02",
+      "data_hora_confirmacao": "2024-01-18 13:28:11",
+      "data_hora_confirmacao_pagamento": "2024-01-18 13:30:24",
+      "valor_total_produtos": 140.95,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 140.95,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7033",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-31 15:03:22",
+      "data_hora_confirmacao": "2024-01-31 15:22:00",
+      "data_hora_confirmacao_pagamento": "2024-01-31 15:23:01",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 65.98,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7284",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-02-16 13:25:55",
+      "data_hora_confirmacao": "2024-02-16 14:35:58",
+      "data_hora_confirmacao_pagamento": "2024-02-16 14:35:51",
+      "valor_total_produtos": 81.97,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 81.97,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 8
+    },
+    "CD39.59": {
+      "codigo": "CD39.59",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD39.49": {
+      "codigo": "CD39.49",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  JORDAN (BORDADA)  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD39.61": {
+      "codigo": "CD39.61",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.18": {
+      "codigo": "CD40.18",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.95": {
+      "codigo": "CD02.95",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.97": {
+      "codigo": "CD02.97",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

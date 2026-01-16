@@ -1,0 +1,69 @@
+{
+  "codigo": "9251",
+  "nome": "JARBAS VICENTE NETO DA SILVA",
+  "email": "jarbasvicenteneto@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(32) 9991-72358",
+  "cidade": "Astolfo Dutra",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 225.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "11593",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 10:30:08",
+      "data_hora_confirmacao": "2024-05-10 11:21:23",
+      "data_hora_confirmacao_pagamento": "2024-05-10 11:21:14",
+      "valor_total_produtos": 162.96,
+      "valor_frete": 62.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 225.83,
+      "desconto": 0,
+      "cidade": "Astolfo Dutra",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18253": {
+      "codigo": "18253",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CF1.1G": {
+      "codigo": "CF1.1G",
+      "titulo": "CONJUNTO FEMINO  - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD25.07GG": {
+      "codigo": "CD25.07GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA BOSS - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.22M": {
+      "codigo": "CD4.22M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "codigo": "1367",
+  "nome": "VINÍCIUS LIMA DO NASCIMENTO",
+  "email": "viniciuslimavn10@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "19/08/2023",
+  "whatsapp": "(88) 9821-55353",
+  "cidade": "Madalena",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 552.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-27 17:51:34",
+      "data_hora_confirmacao": "2023-09-28 13:07:20",
+      "data_hora_confirmacao_pagamento": "2023-09-28 13:07:27",
+      "valor_total_produtos": 60,
+      "valor_frete": 58.31,
+      "frete": "PAC",
+      "valor_total_pedido": 118.31,
+      "desconto": 0,
+      "cidade": "Madalena",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9502",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 23:50:59",
+      "data_hora_confirmacao": "2024-04-06 09:21:47",
+      "data_hora_confirmacao_pagamento": "2024-04-06 09:21:42",
+      "valor_total_produtos": 116.7,
+      "valor_frete": 56.02,
+      "frete": "PAC",
+      "valor_total_pedido": 172.72,
+      "desconto": 0,
+      "cidade": "Madalena",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9658",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 11:24:45",
+      "data_hora_confirmacao": "2024-04-08 11:41:28",
+      "data_hora_confirmacao_pagamento": "2024-04-08 11:41:23",
+      "valor_total_produtos": 79.96,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 79.96,
+      "desconto": 0,
+      "cidade": "Madalena",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12608",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-25 22:42:22",
+      "data_hora_confirmacao": "2024-05-29 13:01:32",
+      "data_hora_confirmacao_pagamento": "2024-05-29 13:01:20",
+      "valor_total_produtos": 129.97,
+      "valor_frete": 51.28,
+      "frete": "LOGGI",
+      "valor_total_pedido": 181.25,
+      "desconto": 0,
+      "cidade": "Madalena",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18070": {
+      "codigo": "18070",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18412": {
+      "codigo": "18412",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19393": {
+      "codigo": "19393",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: ROXO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.19M": {
+      "codigo": "CD01.19M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.11M": {
+      "codigo": "CD01.11M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Santos - Tamanho: M - Times : Santos",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD39.09M": {
+      "codigo": "CD39.09M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.09G": {
+      "codigo": "CD39.09G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10M": {
+      "codigo": "CD39.10M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 3
+    },
+    "PA66": {
+      "codigo": "PA66",
+      "titulo": "PULSEIRA 1X1 3MM ESCAMA",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

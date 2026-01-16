@@ -1,0 +1,96 @@
+{
+  "codigo": "12311",
+  "nome": "ALESSANDRO DE SOUZA GUTTERRES",
+  "email": "damigrs@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/07/2024",
+  "whatsapp": "(48) 99978-5141",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 69.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "16268",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 16:39:39",
+      "data_hora_confirmacao": "2024-07-17 16:39:39",
+      "data_hora_confirmacao_pagamento": "2024-07-17 16:41:27",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 19.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.03,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16614",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-22 15:25:07",
+      "data_hora_confirmacao": "2024-07-22 15:25:07",
+      "data_hora_confirmacao_pagamento": "2024-07-23 13:14:22",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 9.99,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23495": {
+      "codigo": "23495",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24633": {
+      "codigo": "24633",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24636": {
+      "codigo": "24636",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24645": {
+      "codigo": "24645",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24667": {
+      "codigo": "24667",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "9050",
+  "nome": "JORGE RICARDO FRANCISCO SOBRINHO",
+  "email": "jorgericardobol@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/05/2024",
+  "whatsapp": "(19) 98895-1411",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 51.28999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "11338",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-04 12:43:28",
+      "data_hora_confirmacao": "2024-05-04 12:48:36",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 32.3,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 32.3,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17713",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-02 17:05:32",
+      "data_hora_confirmacao": "2024-08-02 17:06:42",
+      "data_hora_confirmacao_pagamento": "2024-08-02 17:16:23",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 18.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO 04.05 OURO - Cor: PRETA - Marca: Mizuno - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": 2
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - LACOSTE - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

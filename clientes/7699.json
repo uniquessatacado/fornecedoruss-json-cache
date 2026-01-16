@@ -1,0 +1,61 @@
+{
+  "codigo": "7699",
+  "nome": "KEVIN ALVES DE OLIVEIRA",
+  "email": "kevinborrachariajr@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(19) 99964-6306",
+  "cidade": "Monte Mor",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 72.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "9628",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 17:50:21",
+      "data_hora_confirmacao": "2024-04-08 10:13:36",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:13:31",
+      "valor_total_produtos": 60.96,
+      "valor_frete": 11.29,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.25,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.131GG": {
+      "codigo": "CD02.131GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

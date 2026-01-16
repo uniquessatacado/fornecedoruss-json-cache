@@ -1,0 +1,80 @@
+{
+  "codigo": "18265",
+  "nome": "RONNIERY MONTEIRO DE FARIA",
+  "email": "hronniery@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2024",
+  "whatsapp": "(62) 98441-1690",
+  "cidade": "Uruaçu",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 242.01999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "26152",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 16:13:59",
+      "data_hora_confirmacao": "2024-12-11 16:22:06",
+      "data_hora_confirmacao_pagamento": "2024-12-11 16:22:06",
+      "valor_total_produtos": 133.98,
+      "valor_frete": 35.27,
+      "frete": "PAC",
+      "valor_total_pedido": 169.25,
+      "desconto": 0,
+      "cidade": "Uruaçu",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26153",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 16:13:59",
+      "data_hora_confirmacao": "2024-12-11 16:22:06",
+      "data_hora_confirmacao_pagamento": "2024-12-11 16:22:06",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 17.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.77,
+      "desconto": 0,
+      "cidade": "Uruaçu",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20667": {
+      "codigo": "20667",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32963": {
+      "codigo": "32963",
+      "titulo": "Camisa de time Tailandesa 1.1 BOTAFOGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: GG - Times : Botafogo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "36480": {
+      "codigo": "36480",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

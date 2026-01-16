@@ -1,0 +1,88 @@
+{
+  "codigo": "13035",
+  "nome": "GUSTAVO CARDOSO DE LIMA",
+  "email": "gustavoclp2003@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(11) 97256-3975",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 177.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "16918",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 16:48:38",
+      "data_hora_confirmacao": "2024-07-25 15:53:27",
+      "data_hora_confirmacao_pagamento": "2024-07-25 15:53:21",
+      "valor_total_produtos": 89.91,
+      "valor_frete": 13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.91,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28539",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-03 16:14:24",
+      "data_hora_confirmacao": "2025-03-03 16:16:03",
+      "data_hora_confirmacao_pagamento": "2025-03-03 16:16:03",
+      "valor_total_produtos": 60,
+      "valor_frete": 14.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25359": {
+      "codigo": "25359",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "25364": {
+      "codigo": "25364",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "42570": {
+      "codigo": "42570",
+      "titulo": "Cueca Peruana LT29A (C639) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "6"
+    }
+  }
+}

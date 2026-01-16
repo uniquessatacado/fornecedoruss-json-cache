@@ -1,0 +1,88 @@
+{
+  "codigo": "18934",
+  "nome": "GABRIEL FRANCISCO DE MIRANDA ALMEIDA",
+  "email": "cauagomes033@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/01/2025",
+  "whatsapp": "(21) 98186-1129",
+  "cidade": "Belford Roxo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 230.76999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "27567",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-12 06:51:10",
+      "data_hora_confirmacao": "2025-01-12 07:00:07",
+      "data_hora_confirmacao_pagamento": "2025-01-12 07:00:07",
+      "valor_total_produtos": 144.99,
+      "valor_frete": 17.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 162.32,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-12 08:52:09",
+      "data_hora_confirmacao": "2025-01-12 08:53:18",
+      "data_hora_confirmacao_pagamento": "2025-01-12 08:53:18",
+      "valor_total_produtos": 55,
+      "valor_frete": 13.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 68.45,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38248": {
+      "codigo": "38248",
+      "titulo": "Corta Vento Microfibra ultra (C116) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38808": {
+      "codigo": "38808",
+      "titulo": "Camiseta Suedine ultra -(C140) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38833": {
+      "codigo": "38833",
+      "titulo": "Camiseta Suedine ultra -(C141) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38863": {
+      "codigo": "38863",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "11942",
+  "nome": "SANDRO LUIZ BUDRI",
+  "email": "sandrobudri03@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(11) 9737-38206",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65,
+  "pedidos": [
+    {
+      "codigo_pedido": "15128",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 16:43:07",
+      "data_hora_confirmacao": "2024-07-04 18:35:56",
+      "data_hora_confirmacao_pagamento": "2024-07-04 18:35:50",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22957": {
+      "codigo": "22957",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

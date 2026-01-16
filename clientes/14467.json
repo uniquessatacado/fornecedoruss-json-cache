@@ -1,0 +1,88 @@
+{
+  "codigo": "14467",
+  "nome": "DANILLO SEITI",
+  "email": "danillo.seiti@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/08/2024",
+  "whatsapp": "(11) 95126-9777",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 108.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "19345",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 13:51:21",
+      "data_hora_confirmacao": "2024-08-24 11:26:20",
+      "data_hora_confirmacao_pagamento": "2024-08-24 11:26:12",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21776",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-26 08:40:17",
+      "data_hora_confirmacao": "2024-10-03 17:19:28",
+      "data_hora_confirmacao_pagamento": "2024-10-03 17:19:21",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 11.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.72,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28486": {
+      "codigo": "28486",
+      "titulo": "Boné Super Premium - LACOSTE tactel  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28487": {
+      "codigo": "28487",
+      "titulo": "Boné Super Premium - LACOSTE tactel  - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "31333": {
+      "codigo": "31333",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31336": {
+      "codigo": "31336",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

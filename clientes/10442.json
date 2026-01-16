@@ -1,0 +1,53 @@
+{
+  "codigo": "10442",
+  "nome": "CARLOS ALEXANDRE ANANIAS",
+  "email": "ananiasalexandre1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(11) 9707-21744",
+  "cidade": "Itatiba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 186.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "13116",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 16:10:24",
+      "data_hora_confirmacao": "2024-06-05 18:22:32",
+      "data_hora_confirmacao_pagamento": "2024-06-05 18:22:25",
+      "valor_total_produtos": 169.98,
+      "valor_frete": 16.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 186.69,
+      "desconto": 0,
+      "cidade": "Itatiba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19930": {
+      "codigo": "19930",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR BRASIL (PRONTA ENTREGA) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20312": {
+      "codigo": "20312",
+      "titulo": "Conjunto Infantil São Paulo - ADIDAS - Cor: PRETA - Tamanho: 24",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA KIT INFANTIL ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

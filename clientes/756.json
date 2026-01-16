@@ -1,0 +1,182 @@
+{
+  "codigo": "756",
+  "nome": "WANDERSON LIMA DIAS",
+  "email": "wdinholima@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(31) 99257-3533",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 657.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "7140",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-05 13:20:58",
+      "data_hora_confirmacao": "2024-02-06 10:49:48",
+      "data_hora_confirmacao_pagamento": "2024-02-06 10:49:28",
+      "valor_total_produtos": 316.96,
+      "valor_frete": 20.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 337.39,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10114",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-16 17:52:57",
+      "data_hora_confirmacao": "2024-04-18 17:36:56",
+      "data_hora_confirmacao_pagamento": "2024-04-17 09:35:23",
+      "valor_total_produtos": 121.97,
+      "valor_frete": 18.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 140.92,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10234",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 17:27:04",
+      "data_hora_confirmacao": "2024-04-18 17:36:10",
+      "data_hora_confirmacao_pagamento": "2024-04-18 17:36:06",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 32.99,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22222",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-03 18:55:44",
+      "data_hora_confirmacao": "2024-10-04 13:11:14",
+      "data_hora_confirmacao_pagamento": "2024-10-04 13:11:04",
+      "valor_total_produtos": 128.97,
+      "valor_frete": 17.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.01,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "31632": {
+      "codigo": "31632",
+      "titulo": "Tênis Nike Air Force React - NIKE - Cor: PRETO BRANCO CHUMBO - Tamanho: 43",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31874": {
+      "codigo": "31874",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.58": {
+      "codigo": "CD16.58",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS   LT08.11  - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "PE02": {
+      "codigo": "PE02",
+      "titulo": "Óculos  Penny - Azul bb - Cor da Armação: Prata - Cor da Lente: Azul bb - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "2"
+    },
+    "DX01": {
+      "codigo": "DX01",
+      "titulo": "Óculos  Double X - Azul  - Cor da Armação: Prata - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "DX03": {
+      "codigo": "DX03",
+      "titulo": "Óculos  Double X - Dourada 24K - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.124G": {
+      "codigo": "CD02.124G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Laranja - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD03.13": {
+      "codigo": "CD03.13",
+      "titulo": "Óculos OAKLEY JULIET - DOUBLE XX   - ARMAÇÃO: PRATA+DOURADA- 24K - COR DA LENTE: DOURADA - GOLD - Kit Borracha: BRANCA",
+      "categoria_principal": "OCULOS",
+      "categoria": "DOUBLE-XX",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD15.4G": {
+      "codigo": "CD15.4G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - HUGO BOSS - Cor: AZUL MARINHO - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

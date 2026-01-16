@@ -1,0 +1,61 @@
+{
+  "codigo": "14715",
+  "nome": "SERGIO RICARDO DIAS",
+  "email": "said1@uol.com.br",
+  "sexo": "0",
+  "data_cadastro": "27/08/2024",
+  "whatsapp": "(11) 99677-5633",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "20183",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 20:55:22",
+      "data_hora_confirmacao": "2024-09-03 11:56:44",
+      "data_hora_confirmacao_pagamento": "2024-09-03 11:56:38",
+      "valor_total_produtos": 53.97,
+      "valor_frete": 11.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 65.67,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28613": {
+      "codigo": "28613",
+      "titulo": "Boné Super Premium - OAKLEY - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

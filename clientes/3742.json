@@ -1,0 +1,61 @@
+{
+  "codigo": "3742",
+  "nome": "EMANUEL MESSIAS DE MORAIS LUCENA",
+  "email": "emmlucena@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/10/2023",
+  "whatsapp": "(83) 99908-2629",
+  "cidade": "Patos",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 374.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302246",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-25 13:10:52",
+      "data_hora_confirmacao": "2023-10-25 13:31:46",
+      "data_hora_confirmacao_pagamento": "2023-10-25 13:31:57",
+      "valor_total_produtos": 343,
+      "valor_frete": 31.78,
+      "frete": "JADLOG",
+      "valor_total_pedido": 374.78,
+      "desconto": 0,
+      "cidade": "Patos",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.7M": {
+      "codigo": "CD12.7M",
+      "titulo": "Polo Piquet Duplo Ultra - LACOSTE  LT25.10 - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD12.7G": {
+      "codigo": "CD12.7G",
+      "titulo": "Polo Piquet Duplo Ultra - LACOSTE  LT25.10 - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD12.7GG": {
+      "codigo": "CD12.7GG",
+      "titulo": "Polo Piquet Duplo Ultra - LACOSTE  LT25.10 - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

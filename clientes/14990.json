@@ -1,0 +1,85 @@
+{
+  "codigo": "14990",
+  "nome": "IVAN JOSE UMANN",
+  "email": "ijouma@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(51) 98186-1051",
+  "cidade": "Novo Hamburgo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 204.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "20156",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 16:52:02",
+      "data_hora_confirmacao": "2024-09-02 17:56:55",
+      "data_hora_confirmacao_pagamento": "2024-09-02 17:56:43",
+      "valor_total_produtos": 177.94,
+      "valor_frete": 26.51,
+      "frete": "JADLOG",
+      "valor_total_pedido": 204.45,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24708": {
+      "codigo": "24708",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "25356": {
+      "codigo": "25356",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25650": {
+      "codigo": "25650",
+      "titulo": "Calça Jeans Luxo Importada - CALVIN KLEIN - Cor: JEANS - Tamanho: 38",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29092": {
+      "codigo": "29092",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "29138": {
+      "codigo": "29138",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO MARINHO VERDE  - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

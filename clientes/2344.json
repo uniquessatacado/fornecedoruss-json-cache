@@ -1,0 +1,120 @@
+{
+  "codigo": "2344",
+  "nome": "FERNANDO DE LIMA",
+  "email": "ffefis@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(15) 99815-8894",
+  "cidade": "Cerquilho",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 262.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300352",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 10:30:19",
+      "data_hora_confirmacao": "2023-09-23 09:40:49",
+      "data_hora_confirmacao_pagamento": "2023-09-23 09:40:37",
+      "valor_total_produtos": 154,
+      "valor_frete": 21.57,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 175.57,
+      "desconto": 0,
+      "cidade": "Cerquilho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301008",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 19:34:05",
+      "data_hora_confirmacao": "2023-09-30 09:26:41",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 87,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 87,
+      "desconto": 0,
+      "cidade": "Cerquilho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.23GG": {
+      "codigo": "CD02.23GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Preto - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD10.8GG": {
+      "codigo": "CD10.8GG",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD02.17GG": {
+      "codigo": "CD02.17GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Silkada) - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.5GG": {
+      "codigo": "CD02.5GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.28GG": {
+      "codigo": "CD02.28GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Silk Premium) - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.25G": {
+      "codigo": "CD02.25G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Marrom - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD15.6G": {
+      "codigo": "CD15.6G",
+      "titulo": "Camiseta Peruana com Elastano - Nike - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

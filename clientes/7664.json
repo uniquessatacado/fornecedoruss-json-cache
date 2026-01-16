@@ -1,0 +1,45 @@
+{
+  "codigo": "7664",
+  "nome": "DIOGO ESTEVES",
+  "email": "diogoesteves.bb@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "06/04/2024",
+  "whatsapp": "(11) 9584-75536",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "9596",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-06 20:13:31",
+      "data_hora_confirmacao": "2024-04-08 10:37:02",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:36:57",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 11.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 83.42,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.11G": {
+      "codigo": "CD4.11G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    }
+  }
+}

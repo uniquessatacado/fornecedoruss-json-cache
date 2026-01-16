@@ -1,0 +1,77 @@
+{
+  "codigo": "13710",
+  "nome": "ÉDIPO ARAÚJO",
+  "email": "edipo.araujo1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/08/2024",
+  "whatsapp": "(11) 91288-2190",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "19397",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-23 01:29:17",
+      "data_hora_confirmacao": "2024-08-24 11:44:52",
+      "data_hora_confirmacao_pagamento": "2024-08-24 11:44:37",
+      "valor_total_produtos": 110.86,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 120.86,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "24636": {
+      "codigo": "24636",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24642": {
+      "codigo": "24642",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25994": {
+      "codigo": "25994",
+      "titulo": "Chinelo Premium ADIDAS - COR CHINELO: PRETO - Marca: Adidas - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 38/39",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD39.07M": {
+      "codigo": "CD39.07M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

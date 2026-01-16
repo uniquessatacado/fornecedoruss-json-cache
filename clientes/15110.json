@@ -1,0 +1,72 @@
+{
+  "codigo": "15110",
+  "nome": "JAIR MUTCHNIK",
+  "email": "jairmut@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(67) 99297-4747",
+  "cidade": "Bonito",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 189.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "20281",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 20:12:02",
+      "data_hora_confirmacao": "2024-09-04 10:00:52",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:00:45",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 30.93,
+      "frete": "PAC",
+      "valor_total_pedido": 123.92,
+      "desconto": 0,
+      "cidade": "Bonito",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20282",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 20:12:03",
+      "data_hora_confirmacao": "2024-09-04 10:00:24",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:00:17",
+      "valor_total_produtos": 33.99,
+      "valor_frete": 31.41,
+      "frete": "PAC",
+      "valor_total_pedido": 65.4,
+      "desconto": 0,
+      "cidade": "Bonito",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20694": {
+      "codigo": "20694",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24140": {
+      "codigo": "24140",
+      "titulo": "Calça Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "3665",
+  "nome": "WILLIAM SEIFERT",
+  "email": "william.tauan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2023",
+  "whatsapp": "(55) 99108-6979",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302105",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 00:41:28",
+      "data_hora_confirmacao": "2023-10-21 09:20:32",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:20:40",
+      "valor_total_produtos": 51,
+      "valor_frete": 13.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.98,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.49Mandrake": {
+      "codigo": "CD32.49Mandrake",
+      "titulo": "Óculos Oakley Mandrake - Vermelho c/Laranja  LT20.10   - Cor da Armação: Preto - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

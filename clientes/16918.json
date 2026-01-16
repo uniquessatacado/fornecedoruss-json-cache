@@ -1,0 +1,80 @@
+{
+  "codigo": "16918",
+  "nome": "MAX HENRIQUE GOULART BORGES",
+  "email": "maxborgesduda@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2024",
+  "whatsapp": "(11) 94118-3479",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 231.64000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "24858",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-20 21:16:29",
+      "data_hora_confirmacao": "2024-11-20 21:18:18",
+      "data_hora_confirmacao_pagamento": "2024-11-20 21:18:18",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29257",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-14 16:01:19",
+      "data_hora_confirmacao": "2025-04-14 16:04:32",
+      "data_hora_confirmacao_pagamento": "2025-04-14 16:04:32",
+      "valor_total_produtos": 132.5,
+      "valor_frete": 13.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.74,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34092": {
+      "codigo": "34092",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35137": {
+      "codigo": "35137",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46756": {
+      "codigo": "46756",
+      "titulo": "Tênis Esportivo Wave Prophecy 13 Branco - Conforto e Estilo Premium - Cor: BRANCA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

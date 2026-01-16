@@ -1,0 +1,61 @@
+{
+  "codigo": "1026",
+  "nome": "MARCELO SILVEIRA",
+  "email": "marcelo.050815@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(51) 9861-02664",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300114",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-17 09:49:58",
+      "data_hora_confirmacao": "2023-09-17 10:05:14",
+      "data_hora_confirmacao_pagamento": "2023-09-17 10:05:25",
+      "valor_total_produtos": 122,
+      "valor_frete": 23.24,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 145.24,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.16G": {
+      "codigo": "CD02.16G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD02.17G": {
+      "codigo": "CD02.17G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Silkada) - Cor: Cinza - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.14G": {
+      "codigo": "CD02.14G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

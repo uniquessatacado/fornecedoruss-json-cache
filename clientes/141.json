@@ -1,0 +1,619 @@
+{
+  "codigo": "141",
+  "nome": "MICHEL ARAUJO",
+  "email": "shellaraujo295@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/03/2023",
+  "whatsapp": "(98) 98597-2101",
+  "cidade": "Paço do Lumiar",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 11,
+  "valor_total_comprado": 2741.4600000000005,
+  "pedidos": [
+    {
+      "codigo_pedido": "2358",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 11:31:00",
+      "data_hora_confirmacao": "2023-10-27 12:21:01",
+      "data_hora_confirmacao_pagamento": "2023-10-27 12:21:15",
+      "valor_total_produtos": 217,
+      "valor_frete": 36.21,
+      "frete": "JADLOG",
+      "valor_total_pedido": 253.21,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2613",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-02 13:30:21",
+      "data_hora_confirmacao": "2023-11-03 12:18:35",
+      "data_hora_confirmacao_pagamento": "2023-11-03 12:18:46",
+      "valor_total_produtos": 140,
+      "valor_frete": 31.11,
+      "frete": "JADLOG",
+      "valor_total_pedido": 171.11,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2723",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-06 21:30:13",
+      "data_hora_confirmacao": "2023-11-07 09:29:22",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2841",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 06:58:13",
+      "data_hora_confirmacao": "2023-11-08 14:07:52",
+      "data_hora_confirmacao_pagamento": "2023-11-08 14:08:02",
+      "valor_total_produtos": 130,
+      "valor_frete": 29.9,
+      "frete": "JADLOG",
+      "valor_total_pedido": 159.9,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3075",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-12 11:40:15",
+      "data_hora_confirmacao": "2023-11-13 11:49:12",
+      "data_hora_confirmacao_pagamento": "2023-11-13 11:49:22",
+      "valor_total_produtos": 195,
+      "valor_frete": 31.74,
+      "frete": "JADLOG",
+      "valor_total_pedido": 226.74,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3892",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-01 16:48:04",
+      "data_hora_confirmacao": "2023-12-02 12:29:04",
+      "data_hora_confirmacao_pagamento": "2023-12-02 12:29:14",
+      "valor_total_produtos": 152,
+      "valor_frete": 34.93,
+      "frete": "JADLOG",
+      "valor_total_pedido": 186.93,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13750",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 07:26:42",
+      "data_hora_confirmacao": "2024-06-15 11:51:39",
+      "data_hora_confirmacao_pagamento": "2024-06-15 11:51:32",
+      "valor_total_produtos": 324.95,
+      "valor_frete": 46.92,
+      "frete": "JADLOG",
+      "valor_total_pedido": 371.87,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15319",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-07 20:34:16",
+      "data_hora_confirmacao": "2024-07-08 10:42:13",
+      "data_hora_confirmacao_pagamento": "2024-07-08 10:42:05",
+      "valor_total_produtos": 287.92,
+      "valor_frete": 47.96,
+      "frete": "JADLOG",
+      "valor_total_pedido": 335.88,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21135",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-14 19:11:02",
+      "data_hora_confirmacao": "2024-09-16 11:18:01",
+      "data_hora_confirmacao_pagamento": "2024-09-16 11:17:51",
+      "valor_total_produtos": 228.92,
+      "valor_frete": 43.77,
+      "frete": "JADLOG",
+      "valor_total_pedido": 272.69,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21518",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-21 08:19:06",
+      "data_hora_confirmacao": "2024-09-21 11:31:37",
+      "data_hora_confirmacao_pagamento": "2024-09-21 11:31:29",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 38.19,
+      "frete": "JADLOG",
+      "valor_total_pedido": 186.15,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29124",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-08 17:42:46",
+      "data_hora_confirmacao": "2025-04-08 17:46:19",
+      "data_hora_confirmacao_pagamento": "2025-04-08 17:46:19",
+      "valor_total_produtos": 489.39,
+      "valor_frete": 52.59,
+      "frete": "PAC",
+      "valor_total_pedido": 541.98,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19684": {
+      "codigo": "19684",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR ARGENTINA PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19685": {
+      "codigo": "19685",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR ARGENTINA PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19946": {
+      "codigo": "19946",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INGLATERRA (PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20014": {
+      "codigo": "20014",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FRANÇA (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20015": {
+      "codigo": "20015",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FRANÇA (PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22359": {
+      "codigo": "22359",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22361": {
+      "codigo": "22361",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22916": {
+      "codigo": "22916",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO LONGO - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23182": {
+      "codigo": "23182",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23185": {
+      "codigo": "23185",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23555": {
+      "codigo": "23555",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23582": {
+      "codigo": "23582",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23586": {
+      "codigo": "23586",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25697": {
+      "codigo": "25697",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "25984": {
+      "codigo": "25984",
+      "titulo": "Chinelo Premium MIZUNO - COR CHINELO: PRETO - Marca: Mizuno - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 36/37",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "29295": {
+      "codigo": "29295",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29350": {
+      "codigo": "29350",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29405": {
+      "codigo": "29405",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "29411": {
+      "codigo": "29411",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "30429": {
+      "codigo": "30429",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "30808": {
+      "codigo": "30808",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30824": {
+      "codigo": "30824",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30827": {
+      "codigo": "30827",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30830": {
+      "codigo": "30830",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41186": {
+      "codigo": "41186",
+      "titulo": "Oculos  - JULIET LT12A(C328) - ARMAÇÃO: BLACK - Kit Borracha: VERMELHA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41191": {
+      "codigo": "41191",
+      "titulo": "Oculos  - JULIET LT12A(C332) - ARMAÇÃO: X METAL - CHUMBO  - Kit Borracha: BRANCA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41210": {
+      "codigo": "41210",
+      "titulo": "Oculos  - JULIET ROMEU 1 LT12A(C349) - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41236": {
+      "codigo": "41236",
+      "titulo": "Oculos  - JULIET PENNY LT13A(C370) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "45708": {
+      "codigo": "45708",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45721": {
+      "codigo": "45721",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769)  - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45727": {
+      "codigo": "45727",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45728": {
+      "codigo": "45728",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45755": {
+      "codigo": "45755",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C771) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46133": {
+      "codigo": "46133",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT37A (C780) PALMEIRAS - PRONTA ENTREGA - Tamanho: M - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.42M": {
+      "codigo": "CD02.42M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.41G": {
+      "codigo": "CD02.41G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.43M": {
+      "codigo": "CD02.43M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.43G": {
+      "codigo": "CD02.43G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.7G": {
+      "codigo": "CD40.7G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.7M": {
+      "codigo": "CD40.7M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD47.1": {
+      "codigo": "CD47.1",
+      "titulo": "BERMUDA DRIFIT SUPER HIPER - NIKE  LT31.10  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DRIFIT-ULTRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.3G": {
+      "codigo": "CD40.3G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - HUGO BOSS  LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD16.54": {
+      "codigo": "CD16.54",
+      "titulo": "Camisetas de Time Tailandesas - VASCO   LT06.11 - Tamanho: G - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Vermelha - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    },
+    "PA13": {
+      "codigo": "PA13",
+      "titulo": "CORRENTE DE PRATA  3X1  2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "20015",
+  "nome": "JHONNY SIMOES",
+  "email": "irineuvocensabenemeu@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/05/2025",
+  "whatsapp": "(19) 99543-3119",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 33.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "30015",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-27 17:08:41",
+      "data_hora_confirmacao": "2025-05-27 17:08:41",
+      "data_hora_confirmacao_pagamento": "2025-05-27 17:08:41",
+      "valor_total_produtos": 33.75,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 33.75,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42748": {
+      "codigo": "42748",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C611) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

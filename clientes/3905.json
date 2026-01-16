@@ -1,0 +1,155 @@
+{
+  "codigo": "3905",
+  "nome": "ALLAN FERNANDO COSTA",
+  "email": "allancosta2509@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(31) 99825-5000",
+  "cidade": "Contagem",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 738.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "2743",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 05:05:46",
+      "data_hora_confirmacao": "2023-11-07 11:18:14",
+      "data_hora_confirmacao_pagamento": "2023-11-07 11:18:26",
+      "valor_total_produtos": 105.5,
+      "valor_frete": 27.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.07,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4609",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 04:02:43",
+      "data_hora_confirmacao": "2023-12-13 13:19:38",
+      "data_hora_confirmacao_pagamento": "2023-12-13 13:19:47",
+      "valor_total_produtos": 303.92,
+      "valor_frete": 44.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 348.43,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6405",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 21:20:50",
+      "data_hora_confirmacao": "2024-01-10 12:50:42",
+      "data_hora_confirmacao_pagamento": "2024-01-10 12:50:53",
+      "valor_total_produtos": 232.87,
+      "valor_frete": 24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 256.87,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.34": {
+      "codigo": "CD39.34",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD39.36": {
+      "codigo": "CD39.36",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE (Bordada)  LT12.12  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.37": {
+      "codigo": "CD39.37",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD39.52": {
+      "codigo": "CD39.52",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.56": {
+      "codigo": "CD39.56",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.54": {
+      "codigo": "CD39.54",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.60": {
+      "codigo": "CD24.60",
+      "titulo": "Cuecas Peruanas - Hugo Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Vermelha - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 3
+    }
+  }
+}

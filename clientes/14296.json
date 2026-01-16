@@ -1,0 +1,80 @@
+{
+  "codigo": "14296",
+  "nome": "GUILHERME HENRIQUE",
+  "email": "gui.mazzuca@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/08/2024",
+  "whatsapp": "(19) 98907-1626",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 218.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "19625",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-26 12:51:59",
+      "data_hora_confirmacao": "2024-08-26 13:24:07",
+      "data_hora_confirmacao_pagamento": "2024-08-26 13:23:55",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 41.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22037",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-30 18:55:37",
+      "data_hora_confirmacao": "2024-10-01 10:35:58",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 176.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 176.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28786": {
+      "codigo": "28786",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31617": {
+      "codigo": "31617",
+      "titulo": "Tênis RS-X Running System - PUMA - Cor: BRANCA - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "31630": {
+      "codigo": "31630",
+      "titulo": "Tênis Nike Air Force React - NIKE - Cor: PRETO BRANCO CHUMBO - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

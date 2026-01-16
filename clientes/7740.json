@@ -1,0 +1,61 @@
+{
+  "codigo": "7740",
+  "nome": "MIGUEL CARLOS PEREIRA FILHO",
+  "email": "mf768181@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/04/2024",
+  "whatsapp": "(81) 99911-5042",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "9679",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 14:54:32",
+      "data_hora_confirmacao": "2024-04-08 15:21:08",
+      "data_hora_confirmacao_pagamento": "2024-04-08 15:21:21",
+      "valor_total_produtos": 89.91,
+      "valor_frete": 19.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.4,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "3"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "3"
+    },
+    "CD24.14G": {
+      "codigo": "CD24.14G",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "3"
+    }
+  }
+}

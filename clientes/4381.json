@@ -1,0 +1,88 @@
+{
+  "codigo": "4381",
+  "nome": "SANDRA ROGÉRIA SCARAMUSSA",
+  "email": "sandrarscaramussa1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/11/2023",
+  "whatsapp": "(28) 99984-6961",
+  "cidade": "Cachoeiro de Itapemirim",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 224.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "3858",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-30 12:22:57",
+      "data_hora_confirmacao": "2023-11-30 12:33:30",
+      "data_hora_confirmacao_pagamento": "2023-11-30 12:33:52",
+      "valor_total_produtos": 80.25,
+      "valor_frete": 20.41,
+      "frete": "PAC",
+      "valor_total_pedido": 100.66,
+      "desconto": 0,
+      "cidade": "Cachoeiro de Itapemirim",
+      "estado": "ES",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4568",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 19:43:43",
+      "data_hora_confirmacao": "2023-12-12 22:27:10",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:27:20",
+      "valor_total_produtos": 101.99,
+      "valor_frete": 21.82,
+      "frete": "PAC",
+      "valor_total_pedido": 123.81,
+      "desconto": 0,
+      "cidade": "Cachoeiro de Itapemirim",
+      "estado": "ES",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.43": {
+      "codigo": "CD24.43",
+      "titulo": "Cuecas Peruanas - Tommy Hilfiger LT25.11  - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    },
+    "CD65.3": {
+      "codigo": "CD65.3",
+      "titulo": "Camiseta 30.1 com Elastano - LACOSTE   LT23.11   - Cor: Amarela - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.34": {
+      "codigo": "CD39.34",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.54": {
+      "codigo": "CD02.54",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12   - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

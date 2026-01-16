@@ -1,0 +1,107 @@
+{
+  "codigo": "4344",
+  "nome": "JOIRTO GUIA DOS REIS",
+  "email": "joirtoreis@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2023",
+  "whatsapp": "(65) 65999-4360",
+  "cidade": "Cuiabá",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 221.67000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "3766",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-28 20:38:04",
+      "data_hora_confirmacao": "2023-11-30 08:46:34",
+      "data_hora_confirmacao_pagamento": "2023-11-30 08:46:44",
+      "valor_total_produtos": 50,
+      "valor_frete": 18.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 68.74,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27717",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-19 12:04:20",
+      "data_hora_confirmacao": "2025-01-19 12:10:14",
+      "data_hora_confirmacao_pagamento": "2025-01-19 12:10:14",
+      "valor_total_produtos": 80,
+      "valor_frete": 15.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 95.25,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30910",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-24 23:10:05",
+      "data_hora_confirmacao": "2025-07-24 23:17:52",
+      "data_hora_confirmacao_pagamento": "2025-07-24 23:17:52",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 16.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.68,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39389": {
+      "codigo": "39389",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR  (PRONTA ENTREGA)  - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48951": {
+      "codigo": "48951",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1103) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.69": {
+      "codigo": "CD01.69",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ALEMANHA  LT27.10    - Tamanho: M - Times : Alemanha",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.80": {
+      "codigo": "CD01.80",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11    - Tamanho: M - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

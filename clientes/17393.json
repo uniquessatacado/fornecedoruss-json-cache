@@ -1,0 +1,53 @@
+{
+  "codigo": "17393",
+  "nome": "ANDERSON ESTEVÃO LINO",
+  "email": "antonylino012@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/11/2024",
+  "whatsapp": "(11) 96437-3332",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 85.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "24214",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-11 15:03:46",
+      "data_hora_confirmacao": "2024-11-11 15:08:06",
+      "data_hora_confirmacao_pagamento": "2024-11-11 15:08:06",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33922": {
+      "codigo": "33922",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33925": {
+      "codigo": "33925",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

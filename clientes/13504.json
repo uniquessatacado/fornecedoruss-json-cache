@@ -1,0 +1,61 @@
+{
+  "codigo": "13504",
+  "nome": "CICERO ADRIANO DA SILVA GARCIA",
+  "email": "cicerogarcia@live.com",
+  "sexo": "0",
+  "data_cadastro": "02/08/2024",
+  "whatsapp": "(13) 99149-5960",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 148.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "25988",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-08 12:23:47",
+      "data_hora_confirmacao": "2024-12-08 12:25:49",
+      "data_hora_confirmacao_pagamento": "2024-12-08 12:25:49",
+      "valor_total_produtos": 131.97,
+      "valor_frete": 16.5,
+      "frete": "SEDEX",
+      "valor_total_pedido": 148.47,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34157": {
+      "codigo": "34157",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36398": {
+      "codigo": "36398",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36485": {
+      "codigo": "36485",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

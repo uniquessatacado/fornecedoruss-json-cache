@@ -1,0 +1,72 @@
+{
+  "codigo": "12737",
+  "nome": "EVANDRO RODRIGO CORDOVA",
+  "email": "rodrigocordova2012@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(19) 98860-6886",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 68.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "16482",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 19:52:24",
+      "data_hora_confirmacao": "2024-07-20 09:33:07",
+      "data_hora_confirmacao_pagamento": "2024-07-20 09:33:02",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 19.92,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16797",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 21:26:56",
+      "data_hora_confirmacao": "2024-07-24 10:27:34",
+      "data_hora_confirmacao_pagamento": "2024-07-24 10:27:25",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.92,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22986": {
+      "codigo": "22986",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "25281": {
+      "codigo": "25281",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

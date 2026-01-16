@@ -1,0 +1,53 @@
+{
+  "codigo": "14835",
+  "nome": "TÂNIA REGINA RIBEIRO DE SOUZA",
+  "email": "taniarrs83@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/08/2024",
+  "whatsapp": "(31) 99163-9441",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 99.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "20122",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 10:23:39",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-09-02 10:24:11",
+      "valor_total_produtos": 82.98,
+      "valor_frete": 16.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.51,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26210": {
+      "codigo": "26210",
+      "titulo": "Camiseta Egípcia Luxo - LOUIS VUITTON arte em bordado camurça - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "26657": {
+      "codigo": "26657",
+      "titulo": "KIT CUECA PREMIUM NA CAIXA DE MADEIRA - ARMANI - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

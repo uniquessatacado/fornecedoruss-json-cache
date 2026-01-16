@@ -1,0 +1,88 @@
+{
+  "codigo": "737",
+  "nome": "ALEXANDRE TELES DE SOUZA",
+  "email": "alexandreteles1975@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(19) 9919-40482",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 215,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300139",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-18 12:06:22",
+      "data_hora_confirmacao": "2023-09-18 12:49:10",
+      "data_hora_confirmacao_pagamento": "2023-09-18 12:49:00",
+      "valor_total_produtos": 140,
+      "valor_frete": 10,
+      "frete": "MOTO BOY",
+      "valor_total_pedido": 150,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300216",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-19 16:51:10",
+      "data_hora_confirmacao": "2023-09-19 16:56:07",
+      "data_hora_confirmacao_pagamento": "2023-09-26 09:43:30",
+      "valor_total_produtos": 55,
+      "valor_frete": 10,
+      "frete": "MOTO BOY",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.21GG": {
+      "codigo": "CD16.21GG",
+      "titulo": "Camisetas de Time Tailandesas - Argentina - Tamanho: GG - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43M": {
+      "codigo": "CD01.43M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.22G": {
+      "codigo": "CD16.22G",
+      "titulo": "Camisetas de Time Tailandesas - Manchester City - Tamanho: G - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.30G": {
+      "codigo": "CD16.30G",
+      "titulo": "Camisetas de Time Tailandesas - Liverpool - Tamanho: G - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "6881",
+  "nome": "JEAN CARLOS BATISTA DA SILVA",
+  "email": "jc.bsilva@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/03/2024",
+  "whatsapp": "(92) 98105-3681",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 174.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "8337",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 19:14:46",
+      "data_hora_confirmacao": "2024-03-13 10:18:59",
+      "data_hora_confirmacao_pagamento": "2024-03-13 10:18:54",
+      "valor_total_produtos": 116.7,
+      "valor_frete": 57.94,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 174.64,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.04GG": {
+      "codigo": "CD39.04GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.06GG": {
+      "codigo": "CD39.06GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.07M": {
+      "codigo": "CD39.07M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

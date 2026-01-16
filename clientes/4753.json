@@ -1,0 +1,80 @@
+{
+  "codigo": "4753",
+  "nome": "WILLIAN SILVA DE MORAIS",
+  "email": "willian.fs@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "15/12/2023",
+  "whatsapp": "(11) 97068-7678",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 111.85000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "4814",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-15 08:17:31",
+      "data_hora_confirmacao": "2023-12-16 07:45:10",
+      "data_hora_confirmacao_pagamento": "2023-12-16 07:45:20",
+      "valor_total_produtos": 60,
+      "valor_frete": 11.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.26,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5159",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 21:12:15",
+      "data_hora_confirmacao": "2023-12-20 08:01:32",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:01:41",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Branca - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.54": {
+      "codigo": "CD02.54",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12   - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

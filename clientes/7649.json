@@ -1,0 +1,104 @@
+{
+  "codigo": "7649",
+  "nome": "LUCINEIA DA SILVA MOLINA",
+  "email": "neiaindaia@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/04/2024",
+  "whatsapp": "(11) 98097-8961",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 232.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "9584",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-06 10:39:02",
+      "data_hora_confirmacao": "2024-04-06 10:39:57",
+      "data_hora_confirmacao_pagamento": "2024-04-06 10:45:22",
+      "valor_total_produtos": 196.51,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 196.51,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9804",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-10 11:07:39",
+      "data_hora_confirmacao": "2024-04-10 11:07:39",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.06 MD -1": {
+      "codigo": "CD43.06 MD -1",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD4.12GG": {
+      "codigo": "CD4.12GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.11G": {
+      "codigo": "CD4.11G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD24.14G": {
+      "codigo": "CD24.14G",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 4
+    },
+    "CD16.31M": {
+      "codigo": "CD16.31M",
+      "titulo": "Camisetas de Time Tailandesas - Juventus - Tamanho: M - Times : Juventus",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD4.16G": {
+      "codigo": "CD4.16G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

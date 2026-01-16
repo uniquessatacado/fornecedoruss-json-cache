@@ -1,0 +1,179 @@
+{
+  "codigo": "3099",
+  "nome": "ANTONIO EDINAN DE ARAÚJO CUNHA",
+  "email": "edinancunha1997@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(91) 9983-37230",
+  "cidade": "Irituia",
+  "estado": "PA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 532.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "8219",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 19:57:50",
+      "data_hora_confirmacao": "2024-03-12 09:58:58",
+      "data_hora_confirmacao_pagamento": "2024-03-12 09:58:52",
+      "valor_total_produtos": 102.97,
+      "valor_frete": 32.64,
+      "frete": "PAC",
+      "valor_total_pedido": 135.61,
+      "desconto": 0,
+      "cidade": "Canarana",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8382",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 08:04:24",
+      "data_hora_confirmacao": "2024-03-13 10:36:24",
+      "data_hora_confirmacao_pagamento": "2024-03-13 10:36:17",
+      "valor_total_produtos": 301.91,
+      "valor_frete": 59.29,
+      "frete": "PAC",
+      "valor_total_pedido": 361.2,
+      "desconto": 0,
+      "cidade": "Irituia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8397",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-13 13:25:41",
+      "data_hora_confirmacao": "2024-03-13 13:29:36",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:29:28",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Irituia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.112GG": {
+      "codigo": "CD02.112GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.4GG": {
+      "codigo": "CD04.4GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32M": {
+      "codigo": "CD32M",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.06G": {
+      "codigo": "CD39.06G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD31G": {
+      "codigo": "CD31G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD30G": {
+      "codigo": "CD30G",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD04.8M": {
+      "codigo": "CD04.8M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.1M": {
+      "codigo": "CD04.1M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.7M": {
+      "codigo": "CD04.7M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.1G": {
+      "codigo": "CD04.1G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

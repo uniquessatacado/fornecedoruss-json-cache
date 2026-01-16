@@ -1,0 +1,61 @@
+{
+  "codigo": "4539",
+  "nome": "DEIVID HENRIQUE",
+  "email": "deividhenrique55333@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2023",
+  "whatsapp": "(19) 9860-0285",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 175.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "4250",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 00:16:46",
+      "data_hora_confirmacao": "2023-12-08 13:03:39",
+      "data_hora_confirmacao_pagamento": "2023-12-08 11:45:33",
+      "valor_total_produtos": 165.92,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 175.92,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 35,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.83": {
+      "codigo": "CD01.83",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ARGENTINA   LT10.11  - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD07.24P": {
+      "codigo": "CD07.24P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - GUCCI - Cor: Preto - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "10546",
+  "nome": "NATHAN SOARES BRAGA",
+  "email": "nathansoaresb10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(21) 97498-2885",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 340,
+  "pedidos": [
+    {
+      "codigo_pedido": "13201",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 11:27:25",
+      "data_hora_confirmacao": "2024-06-06 14:26:52",
+      "data_hora_confirmacao_pagamento": "2024-06-06 14:26:45",
+      "valor_total_produtos": 181.96,
+      "valor_frete": 21.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 203.63,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15071",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 20:28:35",
+      "data_hora_confirmacao": "2024-07-04 09:30:44",
+      "data_hora_confirmacao_pagamento": "2024-07-04 09:30:38",
+      "valor_total_produtos": 115.96,
+      "valor_frete": 20.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.37,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20177": {
+      "codigo": "20177",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20180": {
+      "codigo": "20180",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20391": {
+      "codigo": "20391",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23133": {
+      "codigo": "23133",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR arte em bordado  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23532": {
+      "codigo": "23532",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23538": {
+      "codigo": "23538",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

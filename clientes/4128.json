@@ -1,0 +1,53 @@
+{
+  "codigo": "4128",
+  "nome": "LYCIO TEIXEIRA",
+  "email": "lycio@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/11/2023",
+  "whatsapp": "(41) 99202-0720",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "3329",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-18 07:35:05",
+      "data_hora_confirmacao": "2023-11-18 13:58:15",
+      "data_hora_confirmacao_pagamento": "2023-11-18 13:58:27",
+      "valor_total_produtos": 85,
+      "valor_frete": 30.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 115.1,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 9
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

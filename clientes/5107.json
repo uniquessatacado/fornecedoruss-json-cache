@@ -1,0 +1,88 @@
+{
+  "codigo": "5107",
+  "nome": "ERIK JEAN",
+  "email": "erikjeandossantoslima@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/12/2023",
+  "whatsapp": "(19) 99504-3509",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 138.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "6051",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-30 13:28:38",
+      "data_hora_confirmacao": "2023-12-30 13:30:59",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 72.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 72.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6671",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-20 12:53:48",
+      "data_hora_confirmacao": "2024-01-20 12:54:12",
+      "data_hora_confirmacao_pagamento": "2024-01-20 12:56:15",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.58": {
+      "codigo": "CD17.58",
+      "titulo": "Bermuda Microfibra Ultra - NIKE     - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.35": {
+      "codigo": "CD39.35",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Verde Água - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.88": {
+      "codigo": "CD02.88",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vinho - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD41.37": {
+      "codigo": "CD41.37",
+      "titulo": "BERMUDA MICROFIBRA HIPER - QUIKSILVER - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

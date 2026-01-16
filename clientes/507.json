@@ -1,0 +1,575 @@
+{
+  "codigo": "507",
+  "nome": "JUNIOR ZANINI",
+  "email": "junioor_zaninii@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/03/2023",
+  "whatsapp": "(19) 9884-03048",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 7,
+  "valor_total_comprado": 2862.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "18192",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-09 13:09:24",
+      "data_hora_confirmacao": "2024-08-09 17:46:00",
+      "data_hora_confirmacao_pagamento": "2024-08-09 17:45:50",
+      "valor_total_produtos": 202.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 202.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18536",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-13 13:45:34",
+      "data_hora_confirmacao": "2024-08-14 10:19:11",
+      "data_hora_confirmacao_pagamento": "2024-08-14 10:19:03",
+      "valor_total_produtos": 876.78,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 876.78,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19900",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-29 18:04:59",
+      "data_hora_confirmacao": "2024-08-30 10:05:42",
+      "data_hora_confirmacao_pagamento": "2024-08-30 10:05:30",
+      "valor_total_produtos": 369.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 369.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19922",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-29 21:28:43",
+      "data_hora_confirmacao": "2024-08-30 10:09:49",
+      "data_hora_confirmacao_pagamento": "2024-08-30 10:09:38",
+      "valor_total_produtos": 274.94,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 274.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24380",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-13 23:54:11",
+      "data_hora_confirmacao": "2024-11-13 23:56:00",
+      "data_hora_confirmacao_pagamento": "2024-11-13 23:56:00",
+      "valor_total_produtos": 289.83,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 289.83,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30393",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-25 16:40:10",
+      "data_hora_confirmacao": "2025-06-25 16:40:59",
+      "data_hora_confirmacao_pagamento": "2025-06-25 16:40:59",
+      "valor_total_produtos": 504.85,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 504.85,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31479",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-08-29 13:55:34",
+      "data_hora_confirmacao": "2025-08-29 14:00:42",
+      "data_hora_confirmacao_pagamento": "2025-08-29 14:00:42",
+      "valor_total_produtos": 343.7,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 343.7,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19601": {
+      "codigo": "19601",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO PRONTA ENTREGA)    - Tamanho: 2XL - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23374": {
+      "codigo": "23374",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "23444": {
+      "codigo": "23444",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23447": {
+      "codigo": "23447",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "25357": {
+      "codigo": "25357",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25360": {
+      "codigo": "25360",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25369": {
+      "codigo": "25369",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25425": {
+      "codigo": "25425",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25698": {
+      "codigo": "25698",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "25699": {
+      "codigo": "25699",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "25707": {
+      "codigo": "25707",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "25708": {
+      "codigo": "25708",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "25724": {
+      "codigo": "25724",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "25775": {
+      "codigo": "25775",
+      "titulo": "Bermuda Microfibra HIPER - NIKE AIR - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26704": {
+      "codigo": "26704",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26707": {
+      "codigo": "26707",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26710": {
+      "codigo": "26710",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "26757": {
+      "codigo": "26757",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26760": {
+      "codigo": "26760",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "27166": {
+      "codigo": "27166",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27167": {
+      "codigo": "27167",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28934": {
+      "codigo": "28934",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28936": {
+      "codigo": "28936",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28956": {
+      "codigo": "28956",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28957": {
+      "codigo": "28957",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29293": {
+      "codigo": "29293",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29294": {
+      "codigo": "29294",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "29295": {
+      "codigo": "29295",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "29300": {
+      "codigo": "29300",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29301": {
+      "codigo": "29301",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32766": {
+      "codigo": "32766",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32813": {
+      "codigo": "32813",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA MESCLA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33626": {
+      "codigo": "33626",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34021": {
+      "codigo": "34021",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "34027": {
+      "codigo": "34027",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "34030": {
+      "codigo": "34030",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "34155": {
+      "codigo": "34155",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34161": {
+      "codigo": "34161",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34243": {
+      "codigo": "34243",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "45755": {
+      "codigo": "45755",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C771) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "4"
+    },
+    "46289": {
+      "codigo": "46289",
+      "titulo": "Bermuda Microfibra Ultra LT38A (C813) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "48466": {
+      "codigo": "48466",
+      "titulo": "Bermuda Nike Microfibra Ultra | Dry Street LT59A (C1021) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "48477": {
+      "codigo": "48477",
+      "titulo": "Bermuda Nike Microfibra Ultra | Dry Street LT59A (C1023) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48478": {
+      "codigo": "48478",
+      "titulo": "Bermuda Nike Microfibra Ultra | Dry Street LT59A (C1023) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "49325": {
+      "codigo": "49325",
+      "titulo": "Bermuda Nike Microfibra Ultra | LT67A (C1158) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "50853": {
+      "codigo": "50853",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53002": {
+      "codigo": "53002",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT034) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "53339": {
+      "codigo": "53339",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - Logo Bordado (LT045) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "53345": {
+      "codigo": "53345",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - Logo Bordado (LT045) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "53357": {
+      "codigo": "53357",
+      "titulo": "Regata Machão Suedine 1:1 Nike AIR MAX - ARTE EM DTF (LT045) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53363": {
+      "codigo": "53363",
+      "titulo": "Regata Machão Suedine 1:1 Nike AIR MAX - ARTE EM DTF (LT045) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53371": {
+      "codigo": "53371",
+      "titulo": "Regata Machão Suedine 1:1 Nike JUST DO IT - ARTE EM DTF (LT045) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

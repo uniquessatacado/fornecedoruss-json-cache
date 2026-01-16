@@ -1,0 +1,69 @@
+{
+  "codigo": "9247",
+  "nome": "NEEMIAS OLIVEIRA DE ALMEIDA",
+  "email": "neemias@neemiasalmeida.com.br",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(15) 99756-3821",
+  "cidade": "Itapetininga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 197.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "11568",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 07:18:25",
+      "data_hora_confirmacao": "2024-05-10 18:02:55",
+      "data_hora_confirmacao_pagamento": "2024-05-10 18:02:47",
+      "valor_total_produtos": 178.9,
+      "valor_frete": 18.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 197.13,
+      "desconto": 0,
+      "cidade": "Itapetininga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17859": {
+      "codigo": "17859",
+      "titulo": "Camiseta 40.1 Ultra  - LACOSTE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "18450": {
+      "codigo": "18450",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD24.23M": {
+      "codigo": "CD24.23M",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "6"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

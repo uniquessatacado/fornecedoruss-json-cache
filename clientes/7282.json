@@ -1,0 +1,72 @@
+{
+  "codigo": "7282",
+  "nome": "STYVENT INÁCIO KNUPP SANGLARD",
+  "email": "styventknupp@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/03/2024",
+  "whatsapp": "(33) 99137-1200",
+  "cidade": "Manhumirim",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 128.51999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "9049",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-28 08:59:38",
+      "data_hora_confirmacao": "2024-03-28 12:26:51",
+      "data_hora_confirmacao_pagamento": "2024-03-28 12:26:47",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 18.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.72,
+      "desconto": 0,
+      "cidade": "Manhumirim",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9277",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 22:01:56",
+      "data_hora_confirmacao": "2024-04-03 11:56:36",
+      "data_hora_confirmacao_pagamento": "2024-04-03 11:56:30",
+      "valor_total_produtos": 51.98,
+      "valor_frete": 18.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.8,
+      "desconto": 0,
+      "cidade": "Manhumirim",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.10G": {
+      "codigo": "CD39.10G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD51.1G": {
+      "codigo": "CD51.1G",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

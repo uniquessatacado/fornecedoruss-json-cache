@@ -1,0 +1,88 @@
+{
+  "codigo": "3711",
+  "nome": "GUILHERME LUCAS LOPES DANTAS",
+  "email": "guilld2309@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/10/2023",
+  "whatsapp": "(11) 95555-4229",
+  "cidade": "Mogi das Cruzes",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "4312",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 19:58:01",
+      "data_hora_confirmacao": "2023-12-08 20:46:56",
+      "data_hora_confirmacao_pagamento": "2023-12-08 20:47:14",
+      "valor_total_produtos": 25,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.6,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20922",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-11 17:56:38",
+      "data_hora_confirmacao": "2024-09-12 10:19:23",
+      "data_hora_confirmacao_pagamento": "2024-09-12 10:19:16",
+      "valor_total_produtos": 196.97,
+      "valor_frete": 13.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 210.49,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25497": {
+      "codigo": "25497",
+      "titulo": "Óculos OAKLEY JULIET - DOUBLE X - ARMAÇÃO: PLASMA - PRATA - COR DA LENTE: ICE THUG - Kit Borracha: PRETA - MODELO: DOUBLE X",
+      "categoria_principal": "OCULOS",
+      "categoria": "DOUBLE-XX",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "30181": {
+      "codigo": "30181",
+      "titulo": "Óculos OAKLEY JULIET - DOUBLE X - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: RED - Kit Borracha: PRETA - MODELO: DOUBLE X",
+      "categoria_principal": "OCULOS",
+      "categoria": "DOUBLE-XX",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "30281": {
+      "codigo": "30281",
+      "titulo": "Oculos OAKLEY JULIET - ARMAÇÃO: PLASMA - PRATA - COR DA LENTE: RED - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD01.111": {
+      "codigo": "CD01.111",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID  LT08.12   - Tamanho: G - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "8226",
+  "nome": "DANIEL DE ALMEIDA SANTOS ROCHA PEREIRA",
+  "email": "danielalmeidasrp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(75) 9981-03107",
+  "cidade": "Inhambupe",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 103.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "10211",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 08:50:20",
+      "data_hora_confirmacao": "2024-04-18 11:53:48",
+      "data_hora_confirmacao_pagamento": "2024-04-18 11:53:12",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 31.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.46,
+      "desconto": 0,
+      "cidade": "Inhambupe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.19M": {
+      "codigo": "CD4.19M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.18M": {
+      "codigo": "CD4.18M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO ESCRITA INTERNA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

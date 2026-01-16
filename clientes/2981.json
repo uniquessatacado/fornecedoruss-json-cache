@@ -1,0 +1,80 @@
+{
+  "codigo": "2981",
+  "nome": "RYAN DE SOUSA PEREIRA",
+  "email": "ryansousaa2004@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(21) 99369-3057",
+  "cidade": "Niterói",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 160.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "2791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 14:03:00",
+      "data_hora_confirmacao": "2023-11-09 13:01:31",
+      "data_hora_confirmacao_pagamento": "2023-11-09 13:01:40",
+      "valor_total_produtos": 65,
+      "valor_frete": 14.33,
+      "frete": "JADLOG",
+      "valor_total_pedido": 79.33,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5057",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 11:55:42",
+      "data_hora_confirmacao": "2023-12-19 12:06:39",
+      "data_hora_confirmacao_pagamento": "2023-12-19 12:06:52",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 15.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.35,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: G - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.70": {
+      "codigo": "CD02.70",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12    - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.52": {
+      "codigo": "CD17.52",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

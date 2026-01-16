@@ -1,0 +1,80 @@
+{
+  "codigo": "6784",
+  "nome": "VINICIUS ALMEIDA DE QUADROS",
+  "email": "vinicius.quadros@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "11/03/2024",
+  "whatsapp": "(48) 9984-48722",
+  "cidade": "Balneário Camboriú",
+  "estado": "SC",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 120.83000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "8357",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 23:03:46",
+      "data_hora_confirmacao": "2024-03-13 11:21:38",
+      "data_hora_confirmacao_pagamento": "2024-03-13 11:21:32",
+      "valor_total_produtos": 16.59,
+      "valor_frete": 28.26,
+      "frete": "SEDEX",
+      "valor_total_pedido": 44.85,
+      "desconto": 0,
+      "cidade": "Balneário Camboriú",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8404",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 16:18:45",
+      "data_hora_confirmacao": "2024-03-13 17:27:24",
+      "data_hora_confirmacao_pagamento": "2024-03-13 17:27:19",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 75.98,
+      "desconto": 0,
+      "cidade": "Balneário Camboriú",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD25.06G": {
+      "codigo": "CD25.06G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Marinho-Vemelho-Cinza - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD25.11G": {
+      "codigo": "CD25.11G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Vemelho-Marinho - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "7413",
+  "nome": "VINÍCIUS ELMIRO",
+  "email": "vncs.efs@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/04/2024",
+  "whatsapp": "(11) 99245-7877",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "9192",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-01 16:11:28",
+      "data_hora_confirmacao": "2024-04-02 11:05:09",
+      "data_hora_confirmacao_pagamento": "2024-04-02 11:04:56",
+      "valor_total_produtos": 56.97,
+      "valor_frete": 13.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.96,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.22 - MD 3": {
+      "codigo": "CD43.22 - MD 3",
+      "titulo": "Boné Super Premium - HIGH - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 5": {
+      "codigo": "CD43.22 - MD 5",
+      "titulo": "Boné Super Premium - HIGH - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 6": {
+      "codigo": "CD43.22 - MD 6",
+      "titulo": "Boné Super Premium - HIGH - Cor: Cinza",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    }
+  }
+}

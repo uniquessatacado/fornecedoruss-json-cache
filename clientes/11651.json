@@ -1,0 +1,88 @@
+{
+  "codigo": "11651",
+  "nome": "DONIZETTI ALVES",
+  "email": "donizetti.alves26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/06/2024",
+  "whatsapp": "(12) 99759-0565",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 162.04000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "15334",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 10:47:21",
+      "data_hora_confirmacao": "2024-07-09 11:57:45",
+      "data_hora_confirmacao_pagamento": "2024-07-09 11:57:39",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20844",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-11 08:37:25",
+      "data_hora_confirmacao": "2024-09-13 09:32:03",
+      "data_hora_confirmacao_pagamento": "2024-09-13 09:31:57",
+      "valor_total_produtos": 82.97,
+      "valor_frete": 14.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.04,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22956": {
+      "codigo": "22956",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29350": {
+      "codigo": "29350",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30367": {
+      "codigo": "30367",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30382": {
+      "codigo": "30382",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

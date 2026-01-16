@@ -1,0 +1,53 @@
+{
+  "codigo": "12685",
+  "nome": "HERMES LUIS ROSO MESQUITA",
+  "email": "hlrm65@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(16) 99766-8687",
+  "cidade": "São Carlos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "16410",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 14:47:49",
+      "data_hora_confirmacao": "2024-07-19 16:43:57",
+      "data_hora_confirmacao_pagamento": "2024-07-19 16:43:51",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 16.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.75,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25031": {
+      "codigo": "25031",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SÃO PAULO - Tamanho: P - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25034": {
+      "codigo": "25034",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SÃO PAULO - Tamanho: GG - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

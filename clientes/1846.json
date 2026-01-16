@@ -1,0 +1,80 @@
+{
+  "codigo": "1846",
+  "nome": "DENNERSON LIMA",
+  "email": "dennersonlima@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(11) 99391-8124",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 151.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "2322",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 15:57:33",
+      "data_hora_confirmacao": "2023-11-03 15:20:16",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 66,
+      "valor_frete": 10.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.91,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12468",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-23 17:20:42",
+      "data_hora_confirmacao": "2024-05-28 15:37:44",
+      "data_hora_confirmacao_pagamento": "2024-05-28 15:37:34",
+      "valor_total_produtos": 64,
+      "valor_frete": 10.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.14,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19869": {
+      "codigo": "19869",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO PRONTA ENTREGA)    - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10    - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

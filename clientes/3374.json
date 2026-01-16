@@ -1,0 +1,53 @@
+{
+  "codigo": "3374",
+  "nome": "DENZEL POMPEU SILVA",
+  "email": "denzelpompeu100@outlook.com.br",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(19) 98608-1634",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 71.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "16655",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-22 18:45:01",
+      "data_hora_confirmacao": "2024-07-23 12:31:51",
+      "data_hora_confirmacao_pagamento": "2024-07-23 12:31:45",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24943": {
+      "codigo": "24943",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25002": {
+      "codigo": "25002",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: M - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

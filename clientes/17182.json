@@ -1,0 +1,61 @@
+{
+  "codigo": "17182",
+  "nome": "LUIZ CARLOS F NETO",
+  "email": "luizacarlos.vda@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/11/2024",
+  "whatsapp": "(81) 99924-9924",
+  "cidade": "Olinda",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 138.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "23779",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 19:13:45",
+      "data_hora_confirmacao": "2024-11-05 19:14:51",
+      "data_hora_confirmacao_pagamento": "2024-11-05 19:14:51",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 18.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 138.14,
+      "desconto": 0,
+      "cidade": "Olinda",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32941": {
+      "codigo": "32941",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO - Cor: ROXO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33296": {
+      "codigo": "33296",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33305": {
+      "codigo": "33305",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "codigo": "3669",
+  "nome": "ALEX SANDRO W DOS SANTOS",
+  "email": "alexsandro91.as.as@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2023",
+  "whatsapp": "(45) 45998-1273",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 632.4200000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 08:54:49",
+      "data_hora_confirmacao": "2023-10-21 09:17:09",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:17:17",
+      "valor_total_produtos": 239.6,
+      "valor_frete": 15.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 255.5,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5835",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-24 14:33:30",
+      "data_hora_confirmacao": "2023-12-26 11:48:32",
+      "data_hora_confirmacao_pagamento": "2023-12-26 11:48:43",
+      "valor_total_produtos": 358.58,
+      "valor_frete": 18.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 376.92,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.53Romeu": {
+      "codigo": "CD32.53Romeu",
+      "titulo": "Óculos  Romeu 2 - Roxo  LT20.10  - Cor da Armação: Preto - Cor da Lente: Roxo - Kit Borracha: Roxo - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.15Juliet": {
+      "codigo": "CD32.15Juliet",
+      "titulo": "Óculos  Juliet - Dourada 24k - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    },
+    "CD32.23Penny": {
+      "codigo": "CD32.23Penny",
+      "titulo": "Óculos  Penny - Azul bb - Cor da Armação: Chumbo - Cor da Lente: Azul bb - Kit Borracha: Azul - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.38Double X": {
+      "codigo": "CD32.38Double X",
+      "titulo": "Óculos  Double X - Rosa Transparente  LT20.10 - Cor da Armação: Prata - Cor da Lente: Rosa Transparente - Kit Borracha: Rosa - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.3Juliet": {
+      "codigo": "CD32.3Juliet",
+      "titulo": "Óculos  Juliet - Verde c/Azul - Cor da Armação: Prata c/Chumbo - Cor da Lente: Verde c/azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.20Penny": {
+      "codigo": "CD32.20Penny",
+      "titulo": "Óculos  Penny - Vermelho c/Laranja - Cor da Armação: Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.18Juliet": {
+      "codigo": "CD32.18Juliet",
+      "titulo": "Óculos  Juliet - Prata - Cor da Armação: Prata c/Chumbo - Cor da Lente: Prata - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.18": {
+      "codigo": "CD59.18",
+      "titulo": "Óculos  Penny - ROXA C/ VERDE - Cor da Armação: Preto - Cor da Lente: Roxo c/Verde - Kit Borracha: Roxo - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

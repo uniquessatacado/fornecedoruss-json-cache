@@ -1,0 +1,128 @@
+{
+  "codigo": "3781",
+  "nome": "JONATHAN BATISTA",
+  "email": "jonathanbbt578@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/10/2023",
+  "whatsapp": "(22) 99617-0018",
+  "cidade": "Macaé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 439.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "9544",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 18:08:38",
+      "data_hora_confirmacao": "2024-04-06 11:41:58",
+      "data_hora_confirmacao_pagamento": "2024-04-06 11:41:48",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 17.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.24,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12833",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-29 18:13:28",
+      "data_hora_confirmacao": "2024-05-30 10:12:44",
+      "data_hora_confirmacao_pagamento": "2024-05-30 10:12:37",
+      "valor_total_produtos": 296.92,
+      "valor_frete": 25.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 322.53,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19248": {
+      "codigo": "19248",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19313": {
+      "codigo": "19313",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19338": {
+      "codigo": "19338",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19379": {
+      "codigo": "19379",
+      "titulo": "Bermuda Microfibra Ultra NIKE com fitilho  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19862": {
+      "codigo": "19862",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19865": {
+      "codigo": "19865",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 10
+    },
+    "KT1.2GG": {
+      "codigo": "KT1.2GG",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

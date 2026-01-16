@@ -1,0 +1,112 @@
+{
+  "codigo": "8896",
+  "nome": "GUILHERME VINICIUS FARIA SILVA",
+  "email": "guiiihfaria@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/05/2024",
+  "whatsapp": "(13) 9975-13978",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 273.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "11123",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 19:34:52",
+      "data_hora_confirmacao": "2024-05-01 19:38:15",
+      "data_hora_confirmacao_pagamento": "2024-05-01 19:38:05",
+      "valor_total_produtos": 138.64,
+      "valor_frete": 14.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 152.97,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11290",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 20:40:50",
+      "data_hora_confirmacao": "2024-05-04 11:42:16",
+      "data_hora_confirmacao_pagamento": "2024-05-04 11:42:06",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 12.28,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.25,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18089": {
+      "codigo": "18089",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - JORDAN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18097": {
+      "codigo": "18097",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - JORDAN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18098": {
+      "codigo": "18098",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - JORDAN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.14G": {
+      "codigo": "CD50.14G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - JORDAN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.02G": {
+      "codigo": "CD39.02G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.70M": {
+      "codigo": "CD39.70M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OFFWHITE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.13M": {
+      "codigo": "CD50.13M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

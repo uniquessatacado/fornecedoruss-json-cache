@@ -1,0 +1,53 @@
+{
+  "codigo": "4937",
+  "nome": "RYAN FELIPE",
+  "email": "rcorreabaccas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/12/2023",
+  "whatsapp": "(19) 99389-8728",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50,
+  "pedidos": [
+    {
+      "codigo_pedido": "5460",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-21 12:09:59",
+      "data_hora_confirmacao": "2023-12-21 12:25:18",
+      "data_hora_confirmacao_pagamento": "2023-12-21 13:56:45",
+      "valor_total_produtos": 50,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.89": {
+      "codigo": "CD01.89",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11  - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: M - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

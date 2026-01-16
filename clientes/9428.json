@@ -1,0 +1,53 @@
+{
+  "codigo": "9428",
+  "nome": "MARIA DE FATIMA SILVA",
+  "email": "mundobrindes1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/05/2024",
+  "whatsapp": "(11) 96921-6309",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 201.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "11901",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-15 19:37:43",
+      "data_hora_confirmacao": "2024-05-16 18:37:41",
+      "data_hora_confirmacao_pagamento": "2024-05-16 18:37:35",
+      "valor_total_produtos": 184.48,
+      "valor_frete": 16.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 201.06,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "17704": {
+      "codigo": "17704",
+      "titulo": "MOLETOM 3 CABOS  CANGURU HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "17998": {
+      "codigo": "17998",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT- PRETA - BRANCA - CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

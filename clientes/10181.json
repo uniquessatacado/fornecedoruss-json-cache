@@ -1,0 +1,77 @@
+{
+  "codigo": "10181",
+  "nome": "MATEUS VINICIUS BRATZ",
+  "email": "mateus.bratz@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(55) 99977-6065",
+  "cidade": "Porto Xavier",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 183.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "12896",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-31 16:06:57",
+      "data_hora_confirmacao": "2024-05-31 17:03:14",
+      "data_hora_confirmacao_pagamento": "2024-05-31 17:02:55",
+      "valor_total_produtos": 161.94,
+      "valor_frete": 21.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 183.62,
+      "desconto": 0,
+      "cidade": "Porto Xavier",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19557": {
+      "codigo": "19557",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "19570": {
+      "codigo": "19570",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "19571": {
+      "codigo": "19571",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

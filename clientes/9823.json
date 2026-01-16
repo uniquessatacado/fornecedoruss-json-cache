@@ -1,0 +1,53 @@
+{
+  "codigo": "9823",
+  "nome": "MARCIO DE PAULA",
+  "email": "Marcinho_dol@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/05/2024",
+  "whatsapp": "(45) 9846-9624",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 112.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "12458",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-23 14:57:02",
+      "data_hora_confirmacao": "2024-05-23 16:00:11",
+      "data_hora_confirmacao_pagamento": "2024-05-23 16:00:03",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 32.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 112.29,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18071": {
+      "codigo": "18071",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18686": {
+      "codigo": "18686",
+      "titulo": "Camiseta Suedine Premium OFF-WHITE arte em Silk - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Suedine Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

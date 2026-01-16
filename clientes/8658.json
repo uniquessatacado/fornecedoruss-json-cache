@@ -1,0 +1,69 @@
+{
+  "codigo": "8658",
+  "nome": "RAFAEL DE SOUZA SILVA",
+  "email": "rafael.boasafra@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(33) 99918-5120",
+  "cidade": "Manhuaçu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 218.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "10744",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 07:02:53",
+      "data_hora_confirmacao": "2024-04-27 14:37:00",
+      "data_hora_confirmacao_pagamento": "2024-04-27 14:36:53",
+      "valor_total_produtos": 193.96,
+      "valor_frete": 24.74,
+      "frete": "JADLOG",
+      "valor_total_pedido": 218.7,
+      "desconto": 0,
+      "cidade": "Manhuaçu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD50.13G": {
+      "codigo": "CD50.13G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN NEW YORK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.09G": {
+      "codigo": "CD50.09G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD50.08G": {
+      "codigo": "CD50.08G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.02G": {
+      "codigo": "CD50.02G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - PRADA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

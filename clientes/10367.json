@@ -1,0 +1,45 @@
+{
+  "codigo": "10367",
+  "nome": "FERNANDO ALVES SANTOS",
+  "email": "nandinho_alves.santos@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/06/2024",
+  "whatsapp": "(11) 95821-2874",
+  "cidade": "Suzano",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "13068",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-04 14:56:47",
+      "data_hora_confirmacao": "2024-06-04 17:11:16",
+      "data_hora_confirmacao_pagamento": "2024-06-04 17:11:08",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.14,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19901": {
+      "codigo": "19901",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

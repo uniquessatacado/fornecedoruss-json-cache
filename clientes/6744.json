@@ -1,0 +1,128 @@
+{
+  "codigo": "6744",
+  "nome": "LEONARDO CASTRO DA VITÓRIA",
+  "email": "lcleocastro@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "10/03/2024",
+  "whatsapp": "(27) 99662-2753",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 343.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "8181",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-10 13:23:24",
+      "data_hora_confirmacao": "2024-03-11 09:32:06",
+      "data_hora_confirmacao_pagamento": "2024-03-11 09:32:01",
+      "valor_total_produtos": 247.62,
+      "valor_frete": 26.88,
+      "frete": "JADLOG",
+      "valor_total_pedido": 274.5,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8355",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 22:59:18",
+      "data_hora_confirmacao": "2024-03-13 10:14:43",
+      "data_hora_confirmacao_pagamento": "2024-03-13 10:14:39",
+      "valor_total_produtos": 49.77,
+      "valor_frete": 19.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.43,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.4G": {
+      "codigo": "CD04.4G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD30G": {
+      "codigo": "CD30G",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.08G": {
+      "codigo": "CD24.08G",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Azul - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.07G": {
+      "codigo": "CD24.07G",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD02.121G": {
+      "codigo": "CD02.121G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  C - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.120G": {
+      "codigo": "CD02.120G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE - Cor: Preto - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

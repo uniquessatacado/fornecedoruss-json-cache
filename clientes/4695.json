@@ -1,0 +1,115 @@
+{
+  "codigo": "4695",
+  "nome": "CARLOS LIMA",
+  "email": "carlosalveslima63a@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(11) 98981-7721",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 217.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "4771",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 09:43:08",
+      "data_hora_confirmacao": "2023-12-16 08:00:02",
+      "data_hora_confirmacao_pagamento": "2023-12-16 08:00:15",
+      "valor_total_produtos": 44.95,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.69,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5505",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-21 21:00:43",
+      "data_hora_confirmacao": "2023-12-21 21:03:56",
+      "data_hora_confirmacao_pagamento": "2023-12-21 21:04:04",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.59,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16912",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 16:28:34",
+      "data_hora_confirmacao": "2024-07-25 13:18:57",
+      "data_hora_confirmacao_pagamento": "2024-07-25 13:18:51",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 14.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.13,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25358": {
+      "codigo": "25358",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "4"
+    },
+    "25364": {
+      "codigo": "25364",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "25367": {
+      "codigo": "25367",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "4"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD69.1": {
+      "codigo": "CD69.1",
+      "titulo": "CAMISETA EGIPICIA COTTON - LACOSTE  LT20.12 - Cor: OffWhite - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

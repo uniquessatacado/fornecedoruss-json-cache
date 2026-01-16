@@ -1,0 +1,401 @@
+{
+  "codigo": "118",
+  "nome": "SALAS MARTINS SIQUEIRA",
+  "email": "salassiqueira1234@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/03/2023",
+  "whatsapp": "(22) 98184-2573",
+  "cidade": "Bom Jardim",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 3080.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300167",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-18 21:42:18",
+      "data_hora_confirmacao": "2023-09-18 22:20:07",
+      "data_hora_confirmacao_pagamento": "2023-09-18 22:20:46",
+      "valor_total_produtos": 560,
+      "valor_frete": 64.81,
+      "frete": "PAC",
+      "valor_total_pedido": 624.81,
+      "desconto": 0,
+      "cidade": "Bom Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300969",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 15:24:38",
+      "data_hora_confirmacao": "2023-10-02 10:58:50",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:59:03",
+      "valor_total_produtos": 299.6,
+      "valor_frete": 25.23,
+      "frete": "PAC",
+      "valor_total_pedido": 324.83,
+      "desconto": 0,
+      "cidade": "Bom Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301834",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 17:52:35",
+      "data_hora_confirmacao": "2023-10-17 18:01:26",
+      "data_hora_confirmacao_pagamento": "2023-10-17 18:01:34",
+      "valor_total_produtos": 860,
+      "valor_frete": 58.84,
+      "frete": "PAC",
+      "valor_total_pedido": 918.84,
+      "desconto": 0,
+      "cidade": "Bom Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301996",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 17:28:53",
+      "data_hora_confirmacao": "2023-10-19 17:54:19",
+      "data_hora_confirmacao_pagamento": "2023-10-19 17:54:26",
+      "valor_total_produtos": 890,
+      "valor_frete": 49.41,
+      "frete": "PAC",
+      "valor_total_pedido": 939.41,
+      "desconto": 0,
+      "cidade": "Bom Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302078",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-20 15:21:29",
+      "data_hora_confirmacao": "2023-10-20 15:26:15",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 272.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 272.5,
+      "desconto": 0,
+      "cidade": "Bom Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.1M": {
+      "codigo": "CD29.1M",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 8
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD29.2G": {
+      "codigo": "CD29.2G",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD29.2GG": {
+      "codigo": "CD29.2GG",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Royal - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD32.9Double X": {
+      "codigo": "CD32.9Double X",
+      "titulo": "Óculos  Double X - Dourada 24k - Cor da Armação: Prata - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.8Double X": {
+      "codigo": "CD32.8Double X",
+      "titulo": "Óculos  Double X - Azul - Cor da Armação: Prata - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.5Juliet": {
+      "codigo": "CD32.5Juliet",
+      "titulo": "Óculos  Romeu - Rosa Transparente - Cor da Armação: Chumbo - Cor da Lente: Rosa Transparente - Kit Borracha: Rosa - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.3Juliet": {
+      "codigo": "CD32.3Juliet",
+      "titulo": "Óculos  Juliet - Verde c/Azul - Cor da Armação: Prata c/Chumbo - Cor da Lente: Verde c/azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.29G": {
+      "codigo": "CD02.29G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Oakley - Cor: Preto - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.29GG": {
+      "codigo": "CD02.29GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Oakley - Cor: Bege - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD29.4G": {
+      "codigo": "CD29.4G",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 10
+    },
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 10
+    },
+    "CD29.5M": {
+      "codigo": "CD29.5M",
+      "titulo": "Bermuda Microfibra Premium - Gucci - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD29.5G": {
+      "codigo": "CD29.5G",
+      "titulo": "Bermuda Microfibra Premium - Gucci - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": 6
+    },
+    "CD29.5GG": {
+      "codigo": "CD29.5GG",
+      "titulo": "Bermuda Microfibra Premium - Gucci - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": 6
+    },
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.1M": {
+      "codigo": "CD41.1M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - LACOSTE  LT19.10   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD41.1G": {
+      "codigo": "CD41.1G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - LACOSTE  LT19.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD41.1GG": {
+      "codigo": "CD41.1GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - LACOSTE  LT19.10   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD40.1": {
+      "codigo": "CD40.1",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.1G": {
+      "codigo": "CD40.1G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD40.1GG": {
+      "codigo": "CD40.1GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.2M": {
+      "codigo": "CD40.2M",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10  - Cor: Branco com Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.2G": {
+      "codigo": "CD40.2G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10  - Cor: Branco com Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD40.2GG": {
+      "codigo": "CD40.2GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10  - Cor: Branco com Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35GG": {
+      "codigo": "CD17.35GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.9G": {
+      "codigo": "CD41.9G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - OAKLEY LT20.10    - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "OAKLEY",
+      "quantidade": 3
+    },
+    "CD17.26M": {
+      "codigo": "CD17.26M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.7G": {
+      "codigo": "CD41.7G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - HIGH  LT19.10   - Cor: Preto com Vermelho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "HIGH",
+      "quantidade": 2
+    },
+    "CD41.7GG": {
+      "codigo": "CD41.7GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - HIGH  LT19.10   - Cor: Preto com Vermelho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "HIGH",
+      "quantidade": 2
+    },
+    "CD24.32M - Hugo Boss": {
+      "codigo": "CD24.32M - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

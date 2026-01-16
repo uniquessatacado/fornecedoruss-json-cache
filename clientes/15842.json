@@ -1,0 +1,61 @@
+{
+  "codigo": "15842",
+  "nome": "DANIEL AUGUSTO",
+  "email": "daneli2405@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2024",
+  "whatsapp": "(19) 9740-86579",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "21461",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-20 13:21:01",
+      "data_hora_confirmacao": "2024-09-20 13:29:19",
+      "data_hora_confirmacao_pagamento": "2024-09-20 13:34:42",
+      "valor_total_produtos": 76.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 76.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29806": {
+      "codigo": "29806",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29842": {
+      "codigo": "29842",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30811": {
+      "codigo": "30811",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

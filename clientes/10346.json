@@ -1,0 +1,69 @@
+{
+  "codigo": "10346",
+  "nome": "VITOR KRUK NEVES",
+  "email": "vitorkruk3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/06/2024",
+  "whatsapp": "(41) 99262-2064",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 177.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "13020",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 13:45:34",
+      "data_hora_confirmacao": "2024-06-03 15:38:15",
+      "data_hora_confirmacao_pagamento": "2024-06-03 15:38:06",
+      "valor_total_produtos": 161.96,
+      "valor_frete": 15.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 177.5,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16947": {
+      "codigo": "16947",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "16951": {
+      "codigo": "16951",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: VINHO - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18408": {
+      "codigo": "18408",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19887": {
+      "codigo": "19887",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

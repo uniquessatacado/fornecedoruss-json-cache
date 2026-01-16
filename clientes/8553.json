@@ -1,0 +1,45 @@
+{
+  "codigo": "8553",
+  "nome": "ANDRÉ VEDOVELLO",
+  "email": "andrevedovello@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(19) 99369-2979",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "10600",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 02:31:16",
+      "data_hora_confirmacao": "2024-04-25 16:18:57",
+      "data_hora_confirmacao_pagamento": "2024-04-25 16:18:46",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 12.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.37,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.20M": {
+      "codigo": "CD24.20M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    }
+  }
+}

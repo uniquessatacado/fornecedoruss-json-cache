@@ -1,0 +1,53 @@
+{
+  "codigo": "8866",
+  "nome": "LUCIANO FABRI BARBOSA",
+  "email": "lucianofabri2018@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/05/2024",
+  "whatsapp": "(18) 99672-1288",
+  "cidade": "Araçatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 154.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "11086",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 08:50:11",
+      "data_hora_confirmacao": "2024-05-03 13:25:54",
+      "data_hora_confirmacao_pagamento": "2024-05-03 13:25:47",
+      "valor_total_produtos": 132.93,
+      "valor_frete": 21.98,
+      "frete": "JADLOG",
+      "valor_total_pedido": 154.91,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": 2
+    },
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Marrom",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": 5
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "20073",
+  "nome": "VANESSA SALOMÃO LOPES",
+  "email": "vanessasalomao694@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/06/2025",
+  "whatsapp": "(35) 9915-65764",
+  "cidade": "Poços de Caldas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 206.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "30213",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-08 21:10:56",
+      "data_hora_confirmacao": "2025-06-08 21:13:54",
+      "data_hora_confirmacao_pagamento": "2025-06-08 21:13:54",
+      "valor_total_produtos": 187.2,
+      "valor_frete": 19.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 206.87,
+      "desconto": 0,
+      "cidade": "Poços de Caldas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "48399": {
+      "codigo": "48399",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT58A (C1010) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "48405": {
+      "codigo": "48405",
+      "titulo": "Camiseta Suedine 1:1 Ultra Louis Vuitton | ARTE EM DTF LT58A (C1011) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "49084": {
+      "codigo": "49084",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF | LT67A (C1124) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

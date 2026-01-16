@@ -1,0 +1,99 @@
+{
+  "codigo": "16464",
+  "nome": "FREDERICO NOGUEIRA LIMA NOGUEIRA",
+  "email": "fredericonogueira77@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/10/2024",
+  "whatsapp": "(77) 9919-75316",
+  "cidade": "São Félix do Coribe",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 203.70999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "22662",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-10 18:27:13",
+      "data_hora_confirmacao": "2024-10-11 10:10:30",
+      "data_hora_confirmacao_pagamento": "2024-10-11 10:10:23",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 30.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.57,
+      "desconto": 0,
+      "cidade": "São Félix do Coribe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24475",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-15 14:23:07",
+      "data_hora_confirmacao": "2024-11-15 14:26:15",
+      "data_hora_confirmacao_pagamento": "2024-11-15 14:26:15",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 30.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.57,
+      "desconto": 0,
+      "cidade": "São Félix do Coribe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24809",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-20 15:16:03",
+      "data_hora_confirmacao": "2024-11-20 15:17:14",
+      "data_hora_confirmacao_pagamento": "2024-11-20 15:17:14",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 30.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.57,
+      "desconto": 0,
+      "cidade": "São Félix do Coribe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32080": {
+      "codigo": "32080",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34396": {
+      "codigo": "34396",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE PREMIUM OVERSIZED ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35039": {
+      "codigo": "35039",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

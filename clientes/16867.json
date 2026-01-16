@@ -1,0 +1,53 @@
+{
+  "codigo": "16867",
+  "nome": "TIAGO GONCALVES DA SILVA",
+  "email": "tiago.hort@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/10/2024",
+  "whatsapp": "(19) 99893-1871",
+  "cidade": "Araras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "23298",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-24 12:57:49",
+      "data_hora_confirmacao": "2024-10-24 13:31:48",
+      "data_hora_confirmacao_pagamento": "2024-10-24 13:31:42",
+      "valor_total_produtos": 86.94,
+      "valor_frete": 13.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.43,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 60,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "32786": {
+      "codigo": "32786",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "32808": {
+      "codigo": "32808",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "3"
+    }
+  }
+}

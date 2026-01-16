@@ -1,0 +1,168 @@
+{
+  "codigo": "8775",
+  "nome": "RAFAEL DE OLIVEIRA LAVOURINHA",
+  "email": "rafaellavourinha@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(22) 99227-4605",
+  "cidade": "Sumidouro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 1014.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "10946",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 16:06:24",
+      "data_hora_confirmacao": "2024-04-30 11:44:35",
+      "data_hora_confirmacao_pagamento": "2024-04-30 11:44:25",
+      "valor_total_produtos": 593.9,
+      "valor_frete": 87.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 681.45,
+      "desconto": 0,
+      "cidade": "Sumidouro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18700",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 16:57:25",
+      "data_hora_confirmacao": "2024-08-16 16:00:43",
+      "data_hora_confirmacao_pagamento": "2024-08-16 15:59:44",
+      "valor_total_produtos": 307.92,
+      "valor_frete": 25.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 333,
+      "desconto": 0,
+      "cidade": "Sumidouro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17765": {
+      "codigo": "17765",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17769": {
+      "codigo": "17769",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25724": {
+      "codigo": "25724",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26614": {
+      "codigo": "26614",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27123": {
+      "codigo": "27123",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27132": {
+      "codigo": "27132",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27151": {
+      "codigo": "27151",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27154": {
+      "codigo": "27154",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27195": {
+      "codigo": "27195",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27501": {
+      "codigo": "27501",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD22.3G": {
+      "codigo": "CD22.3G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.3GG": {
+      "codigo": "CD22.3GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

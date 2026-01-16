@@ -1,0 +1,446 @@
+{
+  "codigo": "2329",
+  "nome": "GABRIEL HENRIQUE SOUZA DE AZEVEDO",
+  "email": "gabrielhsazevedo98@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(51) 99772-8920",
+  "cidade": "Lajeado",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1885.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300212",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 16:16:05",
+      "data_hora_confirmacao": "2023-09-19 16:26:58",
+      "data_hora_confirmacao_pagamento": "2023-09-19 16:26:49",
+      "valor_total_produtos": 608,
+      "valor_frete": 60.81,
+      "frete": "PAC",
+      "valor_total_pedido": 668.81,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300391",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 16:42:57",
+      "data_hora_confirmacao": "2023-09-21 16:50:28",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 106.5,
+      "valor_frete": 31.27,
+      "frete": "PAC",
+      "valor_total_pedido": 137.77,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3964",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 13:20:11",
+      "data_hora_confirmacao": "2023-12-06 17:34:51",
+      "data_hora_confirmacao_pagamento": "2023-12-06 17:35:01",
+      "valor_total_produtos": 501,
+      "valor_frete": 35.77,
+      "frete": "JADLOG",
+      "valor_total_pedido": 536.77,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3988",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 23:11:50",
+      "data_hora_confirmacao": "2023-12-05 14:10:23",
+      "data_hora_confirmacao_pagamento": "2023-12-05 14:10:33",
+      "valor_total_produtos": 504.5,
+      "valor_frete": 37.76,
+      "frete": "JADLOG",
+      "valor_total_pedido": 542.26,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.42G": {
+      "codigo": "CD01.42G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.11GG": {
+      "codigo": "CD01.11GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Santos - Tamanho: GG - Times : Santos",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.14M": {
+      "codigo": "CD16.14M",
+      "titulo": "Camisetas de Time Tailandesas - Brasil - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.132XL": {
+      "codigo": "CD16.132XL",
+      "titulo": "Camisetas de Time Tailandesas - Brasil - Tamanho: 2XL - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.1M": {
+      "codigo": "CD29.1M",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD06.2P": {
+      "codigo": "CD06.2P",
+      "titulo": "Camiseta Egipicia Pima Luxo - Diesel - Cor: Preto - Marca: Diesel - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Pima Luxo",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD06.2GG": {
+      "codigo": "CD06.2GG",
+      "titulo": "Camiseta Egipicia Pima Luxo - Diesel - Cor: Vermelha - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Pima Luxo",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.2G": {
+      "codigo": "CD08.2G",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD09.2GG": {
+      "codigo": "CD09.2GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.15G": {
+      "codigo": "CD02.15G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Boss (Termogel) - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Branco - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.5GG": {
+      "codigo": "CD26.5GG",
+      "titulo": "Camiseta Drifit Ultra - Nike - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.24GG": {
+      "codigo": "CD17.24GG",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.24G": {
+      "codigo": "CD17.24G",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.19GG - Calvin Klein": {
+      "codigo": "CD24.19GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD28": {
+      "codigo": "CD28",
+      "titulo": "Caixinha Cueca - Cor: Preto",
+      "categoria_principal": "CUECAS",
+      "categoria": "CUECAS excluir",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD01.88": {
+      "codigo": "CD01.88",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11   - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD02.45": {
+      "codigo": "CD02.45",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11  - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: G - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD12.6G": {
+      "codigo": "CD12.6G",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT25.10 - Cor: Marrom - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.30G": {
+      "codigo": "CD17.30G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Cinza Escuro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD01.98": {
+      "codigo": "CD01.98",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT04.12  - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD02.27G": {
+      "codigo": "CD02.27G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Termo gel) - Cor: Marrom - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.27M": {
+      "codigo": "CD02.27M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Termo gel) - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD16.43": {
+      "codigo": "CD16.43",
+      "titulo": "Camisetas de Time Tailandesas - FORTALEZA   LT31.10   - Tamanho: G - Times : Fortaleza",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: GG - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.81": {
+      "codigo": "CD01.81",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11    - Tamanho: G - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.38": {
+      "codigo": "CD16.38",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT31.10   - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.61": {
+      "codigo": "CD01.61",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  LT27.10  - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.97": {
+      "codigo": "CD01.97",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -PSG   LT04.12  - Tamanho: G - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.54": {
+      "codigo": "CD16.54",
+      "titulo": "Camisetas de Time Tailandesas - VASCO   LT06.11 - Tamanho: GG - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Amarela - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Azul - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.1": {
+      "codigo": "CD57.1",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11 - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.46": {
+      "codigo": "CD02.46",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11   - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Preto - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    }
+  }
+}

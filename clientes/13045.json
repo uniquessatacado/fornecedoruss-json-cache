@@ -1,0 +1,61 @@
+{
+  "codigo": "13045",
+  "nome": "WILLIAMS ALBARADO DE MORAES",
+  "email": "williamsalbaradoian@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(91) 99163-8843",
+  "cidade": "Ananindeua",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 248.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "16925",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 17:14:02",
+      "data_hora_confirmacao": "2024-07-25 12:34:27",
+      "data_hora_confirmacao_pagamento": "2024-07-25 12:34:22",
+      "valor_total_produtos": 218.97,
+      "valor_frete": 30.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 248.98,
+      "desconto": 0,
+      "cidade": "Ananindeua",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21236": {
+      "codigo": "21236",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21929": {
+      "codigo": "21929",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO Feminina - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21959": {
+      "codigo": "21959",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

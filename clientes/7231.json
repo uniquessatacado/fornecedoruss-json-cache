@@ -1,0 +1,61 @@
+{
+  "codigo": "7231",
+  "nome": "ESIO SOUZA ARAUJO",
+  "email": "esiosouza74@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(61) 9857-06812",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 329.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "10122",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 01:05:40",
+      "data_hora_confirmacao": "2024-04-17 09:48:36",
+      "data_hora_confirmacao_pagamento": "2024-04-17 09:48:17",
+      "valor_total_produtos": 287.92,
+      "valor_frete": 41.76,
+      "frete": "SEDEX",
+      "valor_total_pedido": 329.68,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.21M": {
+      "codigo": "CD4.21M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD4.21GG": {
+      "codigo": "CD4.21GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

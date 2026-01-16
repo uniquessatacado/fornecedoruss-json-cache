@@ -1,0 +1,69 @@
+{
+  "codigo": "14131",
+  "nome": "MICHEL ESTEVAM",
+  "email": "michel_estevam@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(19) 98261-8102",
+  "cidade": "Mogi Guaçu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "18821",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 15:03:38",
+      "data_hora_confirmacao": "2024-08-15 15:45:47",
+      "data_hora_confirmacao_pagamento": "2024-08-15 15:44:32",
+      "valor_total_produtos": 91.96,
+      "valor_frete": 17.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.91,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27869": {
+      "codigo": "27869",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: AREIA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27972": {
+      "codigo": "27972",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE AIR  - Cor: AREIA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27975": {
+      "codigo": "27975",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE AIR  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27981": {
+      "codigo": "27981",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE AIR  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

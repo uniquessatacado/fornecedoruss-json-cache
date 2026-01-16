@@ -1,0 +1,158 @@
+{
+  "codigo": "7520",
+  "nome": "ENZO FERRARI",
+  "email": "enzonogferrari@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(21) 9806-02288",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 385.21000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "9513",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 10:03:24",
+      "data_hora_confirmacao": "2024-04-05 15:40:53",
+      "data_hora_confirmacao_pagamento": "2024-04-05 15:40:48",
+      "valor_total_produtos": 109.96,
+      "valor_frete": 17.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.19,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 08:56:57",
+      "data_hora_confirmacao": "2024-08-12 11:48:30",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:48:20",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 13.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.52,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18721",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 19:32:17",
+      "data_hora_confirmacao": "2024-08-16 09:11:21",
+      "data_hora_confirmacao_pagamento": "2024-08-16 09:11:13",
+      "valor_total_produtos": 115.97,
+      "valor_frete": 16.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.49,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20481",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-06 11:11:51",
+      "data_hora_confirmacao": "2024-09-06 11:19:24",
+      "data_hora_confirmacao_pagamento": "2024-09-06 11:18:50",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 18.02,
+      "frete": "JADLOG",
+      "valor_total_pedido": 62.01,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24170": {
+      "codigo": "24170",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26726": {
+      "codigo": "26726",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em BORDADO - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26757": {
+      "codigo": "26757",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27868": {
+      "codigo": "27868",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: AREIA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29018": {
+      "codigo": "29018",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 7": {
+      "codigo": "CD43.22 - MD 7",
+      "titulo": "Boné Super Premium - HIGH - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD43.29": {
+      "codigo": "CD43.29",
+      "titulo": "Boné Super Premium - NIKE  - Cor: OffWhite",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.15M": {
+      "codigo": "CD4.15M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

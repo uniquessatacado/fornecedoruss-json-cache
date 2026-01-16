@@ -1,0 +1,53 @@
+{
+  "codigo": "7175",
+  "nome": "ROBERTO DE PAULA SANTANA JUNIOR",
+  "email": "robertojuninn100@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/03/2024",
+  "whatsapp": "(62) 98321-2670",
+  "cidade": "Mara Rosa",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "8896",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-25 09:40:59",
+      "data_hora_confirmacao": "2024-03-25 11:09:53",
+      "data_hora_confirmacao_pagamento": "2024-03-25 11:09:49",
+      "valor_total_produtos": 66.98,
+      "valor_frete": 23.47,
+      "frete": "PAC",
+      "valor_total_pedido": 90.45,
+      "desconto": 0,
+      "cidade": "Mara Rosa",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.1M": {
+      "codigo": "CD04.1M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.133M": {
+      "codigo": "CD02.133M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

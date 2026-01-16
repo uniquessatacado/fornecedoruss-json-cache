@@ -1,0 +1,96 @@
+{
+  "codigo": "77",
+  "nome": "GIDEON CORREIA DE ANDRADE",
+  "email": "gideonandrade97@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/03/2023",
+  "whatsapp": "(62) 99391-7463",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "14270",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-21 00:26:35",
+      "data_hora_confirmacao": "2024-06-21 18:58:12",
+      "data_hora_confirmacao_pagamento": "2024-06-21 18:58:02",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 31.46,
+      "frete": "SEDEX",
+      "valor_total_pedido": 139.43,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15108",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 14:41:37",
+      "data_hora_confirmacao": "2024-07-04 15:59:11",
+      "data_hora_confirmacao_pagamento": "2024-07-04 15:59:05",
+      "valor_total_produtos": 60.98,
+      "valor_frete": 21.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.25,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21609": {
+      "codigo": "21609",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22404": {
+      "codigo": "22404",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22413": {
+      "codigo": "22413",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23220": {
+      "codigo": "23220",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  - Tamanho: GG - Times : Borussia Dortmund - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23268": {
+      "codigo": "23268",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - MANCHESTER CITY  - Tamanho: GG - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

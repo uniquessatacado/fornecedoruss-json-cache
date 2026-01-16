@@ -1,0 +1,96 @@
+{
+  "codigo": "9068",
+  "nome": "GUILHERME RODRIGUES DA CRUZ",
+  "email": "guilhermerdc7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/05/2024",
+  "whatsapp": "(11) 95835-8722",
+  "cidade": "Alambari",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 186.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "11353",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-05 09:54:39",
+      "data_hora_confirmacao": "2024-05-06 15:16:46",
+      "data_hora_confirmacao_pagamento": "2024-05-06 15:16:37",
+      "valor_total_produtos": 17.25,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 27.18,
+      "desconto": 0,
+      "cidade": "Alambari",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19424",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-23 14:56:23",
+      "data_hora_confirmacao": "2024-08-24 09:54:36",
+      "data_hora_confirmacao_pagamento": "2024-08-24 09:54:28",
+      "valor_total_produtos": 132.96,
+      "valor_frete": 26.46,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159.42,
+      "desconto": 0,
+      "cidade": "Alambari",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28072": {
+      "codigo": "28072",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28298": {
+      "codigo": "28298",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28574": {
+      "codigo": "28574",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE  04,05 BRONZE - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

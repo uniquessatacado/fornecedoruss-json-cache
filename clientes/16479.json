@@ -1,0 +1,53 @@
+{
+  "codigo": "16479",
+  "nome": "GABRIEL DA SILVA NONAKA",
+  "email": "gabriel.nonaka@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2024",
+  "whatsapp": "(18) 99757-9192",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 35.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "22685",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-11 11:50:35",
+      "data_hora_confirmacao": "2024-10-11 15:04:18",
+      "data_hora_confirmacao_pagamento": "2024-10-11 15:04:12",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 15.28,
+      "frete": "JADLOG",
+      "valor_total_pedido": 35.26,
+      "desconto": 0,
+      "cidade": "Presidente Prudente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29717": {
+      "codigo": "29717",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31475": {
+      "codigo": "31475",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

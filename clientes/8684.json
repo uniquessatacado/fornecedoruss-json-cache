@@ -1,0 +1,69 @@
+{
+  "codigo": "8684",
+  "nome": "ARTHUR MARCELO",
+  "email": "arthmarcelo@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(98) 97003-6046",
+  "cidade": "São José de Ribamar",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 180.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "12192",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 14:05:03",
+      "data_hora_confirmacao": "2024-05-21 15:19:07",
+      "data_hora_confirmacao_pagamento": "2024-05-21 15:18:55",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 36.48,
+      "frete": "PAC",
+      "valor_total_pedido": 180.44,
+      "desconto": 0,
+      "cidade": "São José de Ribamar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18935": {
+      "codigo": "18935",
+      "titulo": "Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "18995": {
+      "codigo": "18995",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "19004": {
+      "codigo": "19004",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte em camaleão  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "19132": {
+      "codigo": "19132",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em bordado e gel  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

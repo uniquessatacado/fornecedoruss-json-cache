@@ -1,0 +1,80 @@
+{
+  "codigo": "8681",
+  "nome": "ALAN SANTOS SILVA",
+  "email": "alan10vl38@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(19) 99102-0207",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 102.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "10947",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-29 16:06:44",
+      "data_hora_confirmacao": "2024-04-29 16:06:44",
+      "data_hora_confirmacao_pagamento": "2024-04-29 16:25:02",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10948",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-29 16:22:22",
+      "data_hora_confirmacao": "2024-04-29 16:22:22",
+      "data_hora_confirmacao_pagamento": "2024-04-29 16:23:48",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.147G": {
+      "codigo": "CD02.147G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE     - Cor: VERMELHA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD8.01G": {
+      "codigo": "CD8.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD7.01G": {
+      "codigo": "CD7.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

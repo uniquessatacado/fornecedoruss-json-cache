@@ -1,0 +1,61 @@
+{
+  "codigo": "14020",
+  "nome": "ALEX NOGUEIRA DA SILVA",
+  "email": "alex.ans.nogueira@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(11) 98481-3373",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "18584",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 20:19:34",
+      "data_hora_confirmacao": "2024-08-14 18:28:07",
+      "data_hora_confirmacao_pagamento": "2024-08-14 18:28:00",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 14.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 110.48,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27451": {
+      "codigo": "27451",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em relevo  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27455": {
+      "codigo": "27455",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em relevo  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27572": {
+      "codigo": "27572",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte bordada - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

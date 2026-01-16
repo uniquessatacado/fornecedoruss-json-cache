@@ -1,0 +1,53 @@
+{
+  "codigo": "9599",
+  "nome": "DENILSON SANTOS",
+  "email": "denilson.santtos0007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/05/2024",
+  "whatsapp": "(85) 99647-5448",
+  "cidade": "Caucaia",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "12116",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 18:02:16",
+      "data_hora_confirmacao": "2024-05-20 18:32:38",
+      "data_hora_confirmacao_pagamento": "2024-05-20 18:32:31",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 15.24,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 89.22,
+      "desconto": 0,
+      "cidade": "Caucaia",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18560": {
+      "codigo": "18560",
+      "titulo": "Camiseta Suedine Nike Jordan Arte em aplique  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "CD70.1M": {
+      "codigo": "CD70.1M",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

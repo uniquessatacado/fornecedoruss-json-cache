@@ -1,0 +1,112 @@
+{
+  "codigo": "5256",
+  "nome": "FABIO DAMIANI LORETO",
+  "email": "fabio.damiani87@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(17) 99230-2313",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 811.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "6401",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 21:14:27",
+      "data_hora_confirmacao": "2024-01-13 11:21:51",
+      "data_hora_confirmacao_pagamento": "2024-01-13 11:22:27",
+      "valor_total_produtos": 398.76,
+      "valor_frete": 31.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 430.3,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7132",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-04 22:27:06",
+      "data_hora_confirmacao": "2024-02-07 13:26:42",
+      "data_hora_confirmacao_pagamento": "2024-02-07 13:26:34",
+      "valor_total_produtos": 354.93,
+      "valor_frete": 26.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 381.34,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 17
+    },
+    "CD39.52": {
+      "codigo": "CD39.52",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.56": {
+      "codigo": "CD24.56",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.3": {
+      "codigo": "CD12.3",
+      "titulo": "Polo Piquet Duplo - HUGO BOSS  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD13.7": {
+      "codigo": "CD13.7",
+      "titulo": "Camiseta standard Fit 1:1 - NIKE - Cor: Cinza Mescla - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "JU01": {
+      "codigo": "JU01",
+      "titulo": "Óculos  Juliet - Azul - Cor da Armação: Prata c/Chumbo - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

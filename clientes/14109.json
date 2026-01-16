@@ -1,0 +1,53 @@
+{
+  "codigo": "14109",
+  "nome": "RAFAEL OLIVEIRA MOUTINHO",
+  "email": "rafael.oliveira@globalrastreadores.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(53) 99137-9897",
+  "cidade": "Rio Grande",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "18770",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 10:45:25",
+      "data_hora_confirmacao": "2024-08-15 14:32:31",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:32:24",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 22.35,
+      "frete": "JADLOG",
+      "valor_total_pedido": 62.33,
+      "desconto": 0,
+      "cidade": "Rio Grande",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26331": {
+      "codigo": "26331",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26340": {
+      "codigo": "26340",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "codigo": "10191",
+  "nome": "FERNANDO SILVA",
+  "email": "fernandosilva03@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(19) 97806-0505",
+  "cidade": "Araras",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 309.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "16043",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 15:47:40",
+      "data_hora_confirmacao": "2024-07-15 17:05:20",
+      "data_hora_confirmacao_pagamento": "2024-07-15 17:05:15",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 20.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.68,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18862",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 19:31:25",
+      "data_hora_confirmacao": "2024-08-17 10:30:06",
+      "data_hora_confirmacao_pagamento": "2024-08-17 10:30:01",
+      "valor_total_produtos": 25.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 37.63,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20001",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-30 21:34:43",
+      "data_hora_confirmacao": "2024-08-31 09:30:58",
+      "data_hora_confirmacao_pagamento": "2024-08-31 09:30:51",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.63,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21644",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-23 19:33:34",
+      "data_hora_confirmacao": "2024-09-24 10:09:55",
+      "data_hora_confirmacao_pagamento": "2024-09-24 10:09:47",
+      "valor_total_produtos": 89.97,
+      "valor_frete": 19.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.65,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21670",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-24 10:38:34",
+      "data_hora_confirmacao": "2024-09-24 16:09:21",
+      "data_hora_confirmacao_pagamento": "2024-09-24 16:09:13",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 13.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 43.03,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "24530": {
+      "codigo": "24530",
+      "titulo": "Chinelo Premium NIKE - COR CHINELO: BRANCO - Marca: Nike - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 40/41",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24575": {
+      "codigo": "24575",
+      "titulo": "Chinelo Premium LACOSTE - COR CHINELO: BEGE - Marca: Lacoste - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 40/41",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28676": {
+      "codigo": "28676",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: VERDE MILITAR",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28677": {
+      "codigo": "28677",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: AZUL TURQUEZA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29175": {
+      "codigo": "29175",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: PRETO CHUMBO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29444": {
+      "codigo": "29444",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID - Tamanho: M - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30316": {
+      "codigo": "30316",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO VERMELHO BRANCO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30334": {
+      "codigo": "30334",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO BRANCO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "codigo": "5085",
+  "nome": "LEONIDAS ANTÔNIO DA COSTA",
+  "email": "leonidasloirinho1234@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/12/2023",
+  "whatsapp": "(11) 98074-1420",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 213.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "5986",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-29 08:17:03",
+      "data_hora_confirmacao": "2024-01-02 10:25:48",
+      "data_hora_confirmacao_pagamento": "2024-01-02 10:26:05",
+      "valor_total_produtos": 102.98,
+      "valor_frete": 11.32,
+      "frete": "SEDEX",
+      "valor_total_pedido": 114.3,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6479",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 18:35:25",
+      "data_hora_confirmacao": "2024-01-11 16:12:59",
+      "data_hora_confirmacao_pagamento": "2024-01-11 16:13:20",
+      "valor_total_produtos": 52.98,
+      "valor_frete": 10.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 63.76,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6607",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-17 13:22:06",
+      "data_hora_confirmacao": "2024-01-17 13:25:46",
+      "data_hora_confirmacao_pagamento": "2024-01-17 13:26:15",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.31M": {
+      "codigo": "CD17.31M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE SPORTS   LT11.12  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD17.63": {
+      "codigo": "CD17.63",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT04.01   - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "codigo": "3635",
+  "nome": "DAVI GEGLIEL MORAES",
+  "email": "davigegrielmoraes@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "20/10/2023",
+  "whatsapp": "(49) 9981-78742",
+  "cidade": "Forquilhinha",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 455.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302038",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 07:28:01",
+      "data_hora_confirmacao": "2023-10-20 09:17:22",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:17:33",
+      "valor_total_produtos": 150,
+      "valor_frete": 44.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 194.54,
+      "desconto": 0,
+      "cidade": "Araranguá",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302108",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 03:40:05",
+      "data_hora_confirmacao": "2023-10-21 09:19:08",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:19:18",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 15.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.49,
+      "desconto": 0,
+      "cidade": "Araranguá",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302116",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-21 09:53:10",
+      "data_hora_confirmacao": "2023-10-21 10:00:06",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Araranguá",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32469",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-11 14:25:01",
+      "data_hora_confirmacao": "2026-01-11 14:26:11",
+      "data_hora_confirmacao_pagamento": "2026-01-11 14:26:11",
+      "valor_total_produtos": 131.55,
+      "valor_frete": 23.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 155.48,
+      "desconto": 0,
+      "cidade": "Forquilhinha",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51413": {
+      "codigo": "51413",
+      "titulo": "Blusa de Moletom 3 Cabos BOSS (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "53515": {
+      "codigo": "53515",
+      "titulo": "Cueca Peruana Lacoste (LT043) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55848": {
+      "codigo": "55848",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55854": {
+      "codigo": "55854",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55860": {
+      "codigo": "55860",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55866": {
+      "codigo": "55866",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.9M": {
+      "codigo": "CD39.9M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.51M": {
+      "codigo": "CD01.51M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter de Milão - Tamanho: M - Times : Inter de Milão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.25M - Nike": {
+      "codigo": "CD24.25M - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.12M": {
+      "codigo": "CD39.12M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.1M": {
+      "codigo": "CD41.1M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - LACOSTE  LT19.10   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD32.9Double X": {
+      "codigo": "CD32.9Double X",
+      "titulo": "Óculos  Double X - Dourada 24k - Cor da Armação: Prata - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD16.32M": {
+      "codigo": "CD16.32M",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

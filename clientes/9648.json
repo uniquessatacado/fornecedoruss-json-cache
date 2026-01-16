@@ -1,0 +1,61 @@
+{
+  "codigo": "9648",
+  "nome": "IVANILTON AZEVEDO PEREIRA",
+  "email": "ivaniltonazevedo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(74) 99949-1006",
+  "cidade": "Filadélfia",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 154.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "12169",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 10:56:15",
+      "data_hora_confirmacao": "2024-05-22 12:49:53",
+      "data_hora_confirmacao_pagamento": "2024-05-22 12:49:47",
+      "valor_total_produtos": 128.97,
+      "valor_frete": 25.45,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 154.42,
+      "desconto": 0,
+      "cidade": "Filadélfia",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18799": {
+      "codigo": "18799",
+      "titulo": "Camiseta Genuina Egípcia Luxo HUGO BOSS arte em camaleão e bordado - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18844": {
+      "codigo": "18844",
+      "titulo": "Camiseta Genuina Egípcia Luxo ARMANI arte em patch emborrachado  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "18871": {
+      "codigo": "18871",
+      "titulo": "Camiseta Genuina Egípcia Luxo ARMANI arte em couro e bordado  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

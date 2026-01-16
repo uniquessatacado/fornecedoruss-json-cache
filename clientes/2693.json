@@ -1,0 +1,53 @@
+{
+  "codigo": "2693",
+  "nome": "MATHEUS SANTIAGO OLIVEIRA",
+  "email": "t3t3456@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(75) 98334-5532",
+  "cidade": "Ichu",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300557",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 11:58:29",
+      "data_hora_confirmacao": "2023-09-24 23:27:52",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:27:45",
+      "valor_total_produtos": 88,
+      "valor_frete": 35.28,
+      "frete": "PAC",
+      "valor_total_pedido": 123.28,
+      "desconto": 0,
+      "cidade": "Ichu",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.29GG": {
+      "codigo": "CD08.29GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte em alto relevo) - Cor: Vermelha - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD07.8GG": {
+      "codigo": "CD07.8GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

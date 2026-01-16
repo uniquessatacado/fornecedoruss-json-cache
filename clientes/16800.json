@@ -1,0 +1,45 @@
+{
+  "codigo": "16800",
+  "nome": "JOÃO PAULO NODA",
+  "email": "noda@sytech.ind.br",
+  "sexo": "0",
+  "data_cadastro": "22/10/2024",
+  "whatsapp": "(16) 99794-2003",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "23188",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-22 16:46:32",
+      "data_hora_confirmacao": "2024-10-22 17:41:43",
+      "data_hora_confirmacao_pagamento": "2024-10-22 17:41:37",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 13.28,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.21,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28373": {
+      "codigo": "28373",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "7"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "2194",
+  "nome": "LUCAS FERREIRA",
+  "email": "lucas.proenca395@al.unieduk.com",
+  "sexo": "0",
+  "data_cadastro": "15/09/2023",
+  "whatsapp": "(19) 99865-8322",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 200,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300056",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-15 13:57:04",
+      "data_hora_confirmacao": "2023-09-15 14:00:26",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 165,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 165,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302075",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-20 15:02:15",
+      "data_hora_confirmacao": "2023-10-20 15:03:41",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.4M": {
+      "codigo": "CD08.4M",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.5M": {
+      "codigo": "CD02.5M",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: OffWhite - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD10.2M": {
+      "codigo": "CD10.2M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.2P": {
+      "codigo": "CD08.2P",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.6P": {
+      "codigo": "CD39.6P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Cinza - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "1677",
+  "nome": "RENAN LIMA",
+  "email": "renan9133@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(19) 99133-2324",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 97.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300264",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 12:04:53",
+      "data_hora_confirmacao": "2023-09-20 12:14:27",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 71.5,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 71.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4532",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-12 18:00:01",
+      "data_hora_confirmacao": "2023-12-12 22:36:06",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:36:18",
+      "valor_total_produtos": 26,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 26,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.1GG - Boss": {
+      "codigo": "CD24.1GG - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.10GG - Lacoste": {
+      "codigo": "CD24.10GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.14GG - Lacoste": {
+      "codigo": "CD24.14GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD12.3GG": {
+      "codigo": "CD12.3GG",
+      "titulo": "Polo Piquet Duplo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

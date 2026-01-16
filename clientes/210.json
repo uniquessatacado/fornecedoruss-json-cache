@@ -1,0 +1,971 @@
+{
+  "codigo": "210",
+  "nome": "SANDRO SERAFIM",
+  "email": "sanroben10@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(55) 8398-72039",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 19,
+  "valor_total_comprado": 4997.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300290",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-20 17:22:11",
+      "data_hora_confirmacao": "2023-09-21 23:18:31",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:18:39",
+      "valor_total_produtos": 297,
+      "valor_frete": 46.83,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 343.83,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301993",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 16:54:15",
+      "data_hora_confirmacao": "2023-10-19 17:25:49",
+      "data_hora_confirmacao_pagamento": "2023-10-19 17:26:02",
+      "valor_total_produtos": 163,
+      "valor_frete": 26.73,
+      "frete": "JADLOG",
+      "valor_total_pedido": 189.73,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2501",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-31 16:27:17",
+      "data_hora_confirmacao": "2023-10-31 16:29:37",
+      "data_hora_confirmacao_pagamento": "2023-10-31 16:29:46",
+      "valor_total_produtos": 298,
+      "valor_frete": 24.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 322.66,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2563",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-01 11:21:11",
+      "data_hora_confirmacao": "2023-11-01 11:25:25",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5297",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 13:16:00",
+      "data_hora_confirmacao": "2023-12-20 17:06:55",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:07:10",
+      "valor_total_produtos": 184.95,
+      "valor_frete": 23.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 208.55,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5340",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 15:54:36",
+      "data_hora_confirmacao": "2023-12-20 17:05:54",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:06:01",
+      "valor_total_produtos": 243.92,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 243.92,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5583",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 09:55:33",
+      "data_hora_confirmacao": "2023-12-22 14:57:37",
+      "data_hora_confirmacao_pagamento": "2023-12-22 14:57:50",
+      "valor_total_produtos": 205.94,
+      "valor_frete": 23.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 229.88,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5748",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-23 17:31:26",
+      "data_hora_confirmacao": "2023-12-26 12:05:12",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:05:23",
+      "valor_total_produtos": 314.91,
+      "valor_frete": 26.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 341.38,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6167",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 16:24:36",
+      "data_hora_confirmacao": "2024-01-04 18:03:56",
+      "data_hora_confirmacao_pagamento": "2024-01-04 18:04:17",
+      "valor_total_produtos": 209.94,
+      "valor_frete": 22.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 232.49,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6450",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 11:29:24",
+      "data_hora_confirmacao": "2024-01-10 12:20:21",
+      "data_hora_confirmacao_pagamento": "2024-01-10 12:21:10",
+      "valor_total_produtos": 127.89,
+      "valor_frete": 21.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 149.19,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7703",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 11:10:17",
+      "data_hora_confirmacao": "2024-02-27 12:50:27",
+      "data_hora_confirmacao_pagamento": "2024-02-27 12:50:22",
+      "valor_total_produtos": 383.87,
+      "valor_frete": 44.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 428.22,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-15 22:15:31",
+      "data_hora_confirmacao": "2024-03-16 13:16:00",
+      "data_hora_confirmacao_pagamento": "2024-03-16 13:15:54",
+      "valor_total_produtos": 63.6,
+      "valor_frete": 21.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.36,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9289",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 22:38:21",
+      "data_hora_confirmacao": "2024-04-03 11:58:45",
+      "data_hora_confirmacao_pagamento": "2024-04-03 11:58:41",
+      "valor_total_produtos": 165.94,
+      "valor_frete": 26.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 192.14,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9947",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 10:37:28",
+      "data_hora_confirmacao": "2024-04-12 10:54:28",
+      "data_hora_confirmacao_pagamento": "2024-04-12 10:54:22",
+      "valor_total_produtos": 170.91,
+      "valor_frete": 25.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 196.27,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11188",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 21:49:16",
+      "data_hora_confirmacao": "2024-05-03 11:47:59",
+      "data_hora_confirmacao_pagamento": "2024-05-03 11:47:50",
+      "valor_total_produtos": 164.95,
+      "valor_frete": 35.61,
+      "frete": "JADLOG",
+      "valor_total_pedido": 200.56,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13164",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 20:29:47",
+      "data_hora_confirmacao": "2024-06-06 10:13:48",
+      "data_hora_confirmacao_pagamento": "2024-06-06 10:13:37",
+      "valor_total_produtos": 503.86,
+      "valor_frete": 56.49,
+      "frete": "JADLOG",
+      "valor_total_pedido": 560.35,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14609",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 12:39:46",
+      "data_hora_confirmacao": "2024-06-27 12:59:17",
+      "data_hora_confirmacao_pagamento": "2024-06-27 12:59:08",
+      "valor_total_produtos": 467.87,
+      "valor_frete": 51.95,
+      "frete": "PAC",
+      "valor_total_pedido": 519.82,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15181",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 22:41:12",
+      "data_hora_confirmacao": "2024-07-05 10:07:11",
+      "data_hora_confirmacao_pagamento": "2024-07-05 10:07:03",
+      "valor_total_produtos": 175.92,
+      "valor_frete": 47.91,
+      "frete": "PAC",
+      "valor_total_pedido": 223.83,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19635",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 14:09:46",
+      "data_hora_confirmacao": "2024-08-26 16:49:08",
+      "data_hora_confirmacao_pagamento": "2024-08-26 16:49:01",
+      "valor_total_produtos": 258.93,
+      "valor_frete": 35.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 293.94,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17942": {
+      "codigo": "17942",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "17943": {
+      "codigo": "17943",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "17944": {
+      "codigo": "17944",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19223": {
+      "codigo": "19223",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19225": {
+      "codigo": "19225",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19240": {
+      "codigo": "19240",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19242": {
+      "codigo": "19242",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: VERDE AGUA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19247": {
+      "codigo": "19247",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19248": {
+      "codigo": "19248",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20129": {
+      "codigo": "20129",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20130": {
+      "codigo": "20130",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20131": {
+      "codigo": "20131",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20132": {
+      "codigo": "20132",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20134": {
+      "codigo": "20134",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20437": {
+      "codigo": "20437",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20438": {
+      "codigo": "20438",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "20439": {
+      "codigo": "20439",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20443": {
+      "codigo": "20443",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20444": {
+      "codigo": "20444",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "20445": {
+      "codigo": "20445",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22337": {
+      "codigo": "22337",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22340": {
+      "codigo": "22340",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22354": {
+      "codigo": "22354",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22355": {
+      "codigo": "22355",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "22864": {
+      "codigo": "22864",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23526": {
+      "codigo": "23526",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23527": {
+      "codigo": "23527",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23528": {
+      "codigo": "23528",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23533": {
+      "codigo": "23533",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "23538": {
+      "codigo": "23538",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23539": {
+      "codigo": "23539",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23540": {
+      "codigo": "23540",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28955": {
+      "codigo": "28955",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "28956": {
+      "codigo": "28956",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "28957": {
+      "codigo": "28957",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "28959": {
+      "codigo": "28959",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.25G": {
+      "codigo": "CD17.25G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD17.25GG": {
+      "codigo": "CD17.25GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.32GG - Hugo Boss": {
+      "codigo": "CD24.32GG - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.26GG - Boss": {
+      "codigo": "CD24.26GG - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "2"
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.12": {
+      "codigo": "CD40.12",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT31.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.7G": {
+      "codigo": "CD40.7G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.39G": {
+      "codigo": "CD17.39G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "CD40.11": {
+      "codigo": "CD40.11",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT31.10  - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD40.8": {
+      "codigo": "CD40.8",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT31.10  - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DRIFIT-ULTRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 5
+    },
+    "CD02.76": {
+      "codigo": "CD02.76",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   LT19.12   - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Laranja - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Azul - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD18.2": {
+      "codigo": "CD18.2",
+      "titulo": "Bermuda Drifit Ultra - Nike  LT19.12 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Drifit Ultra",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.58": {
+      "codigo": "CD17.58",
+      "titulo": "Bermuda Microfibra Ultra - NIKE     - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.57": {
+      "codigo": "CD17.57",
+      "titulo": "Bermuda Microfibra Ultra - NIKE    - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.56": {
+      "codigo": "CD17.56",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.60": {
+      "codigo": "CD17.60",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD24.50": {
+      "codigo": "CD24.50",
+      "titulo": "Cuecas Peruanas - DOLCE GABANNA  LT13.12 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 3
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Cinza - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 5
+    },
+    "CD24.60": {
+      "codigo": "CD24.60",
+      "titulo": "Cuecas Peruanas - Hugo Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.54": {
+      "codigo": "CD39.54",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.3G": {
+      "codigo": "CD04.3G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD14.01GG": {
+      "codigo": "CD14.01GG",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD16.32M": {
+      "codigo": "CD16.32M",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "4"
+    },
+    "CD51.1M": {
+      "codigo": "CD51.1M",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD51.1G": {
+      "codigo": "CD51.1G",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD4.13G": {
+      "codigo": "CD4.13G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.10M": {
+      "codigo": "CD57.10M",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD57.10G": {
+      "codigo": "CD57.10G",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD57.10GG": {
+      "codigo": "CD57.10GG",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

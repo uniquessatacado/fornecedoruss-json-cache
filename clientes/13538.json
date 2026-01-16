@@ -1,0 +1,61 @@
+{
+  "codigo": "13538",
+  "nome": "RAMON GABRIEL TIMOTEO DA SILVA",
+  "email": "ramoncok01@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/08/2024",
+  "whatsapp": "(14) 98230-1555",
+  "cidade": "Fartura",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "17801",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-03 15:44:33",
+      "data_hora_confirmacao": "2024-08-05 11:01:01",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:00:52",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 16.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.94,
+      "desconto": 0,
+      "cidade": "Fartura",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26014": {
+      "codigo": "26014",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em termogel - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "26022": {
+      "codigo": "26022",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "26027": {
+      "codigo": "26027",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

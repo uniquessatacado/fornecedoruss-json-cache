@@ -1,0 +1,72 @@
+{
+  "codigo": "5380",
+  "nome": "MICHEL SILVA",
+  "email": "michel.farineli205@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/01/2024",
+  "whatsapp": "(21) 96952-8360",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 103.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "16961",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-25 10:35:27",
+      "data_hora_confirmacao": "2024-07-26 14:30:41",
+      "data_hora_confirmacao_pagamento": "2024-07-26 14:30:29",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 14.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.32,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24170",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-10 20:06:51",
+      "data_hora_confirmacao": "2024-11-10 20:07:47",
+      "data_hora_confirmacao_pagamento": "2024-11-10 20:07:47",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 13.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.4,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25283": {
+      "codigo": "25283",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33758": {
+      "codigo": "33758",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - INTER MILAN - Tamanho: M - Times : Inter de Milão - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

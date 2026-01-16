@@ -1,0 +1,53 @@
+{
+  "codigo": "7416",
+  "nome": "GEIMISON MORAIS DA SILVA",
+  "email": "geimisoncurio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/04/2024",
+  "whatsapp": "(83) 98711-9851",
+  "cidade": "Santa Rita",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "9208",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-01 20:30:58",
+      "data_hora_confirmacao": "2024-04-02 10:32:34",
+      "data_hora_confirmacao_pagamento": "2024-04-02 10:32:30",
+      "valor_total_produtos": 90.73,
+      "valor_frete": 34.19,
+      "frete": "PAC",
+      "valor_total_pedido": 124.92,
+      "desconto": 0,
+      "cidade": "Santa Rita",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.10G": {
+      "codigo": "CD4.10G",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

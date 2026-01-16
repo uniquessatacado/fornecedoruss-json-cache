@@ -1,0 +1,93 @@
+{
+  "codigo": "9337",
+  "nome": "GABRIEL PEREIRA ALVES",
+  "email": "gabrielpereira060901@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "12/05/2024",
+  "whatsapp": "(13) 99147-2235",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 333.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "29665",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-06 23:29:03",
+      "data_hora_confirmacao": "2025-05-06 23:32:41",
+      "data_hora_confirmacao_pagamento": "2025-05-06 23:32:41",
+      "valor_total_produtos": 310.47,
+      "valor_frete": 22.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 333.45,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45678": {
+      "codigo": "45678",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C768)  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "46380": {
+      "codigo": "46380",
+      "titulo": "Bermuda Microfibra Ultra NIKE LT40A (C818) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47187": {
+      "codigo": "47187",
+      "titulo": "Camiseta Just Do It Suedine | Vibe Street Fresh bolso  - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47650": {
+      "codigo": "47650",
+      "titulo": "Camiseta 40.1 HUGO BOSS | Conforto Essencial LT51A (C897) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "47716": {
+      "codigo": "47716",
+      "titulo": "Camiseta 40.1 ARMANI | Conforto Essencial LT51A (C902) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47760": {
+      "codigo": "47760",
+      "titulo": "Camiseta 40.1 ARMANI | Conforto Essencial LT51A (C905) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47900": {
+      "codigo": "47900",
+      "titulo": "Camisa Polo Armani - Estampa Termogel em Alto Relevo - Cor: BRANCA - Marca: Armani - Tamanho: P",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "20181",
+  "nome": "MURILO BERTONI",
+  "email": "murilobertoni96@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/07/2025",
+  "whatsapp": "(27) 99766-7974",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 207.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "30529",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-06 18:15:32",
+      "data_hora_confirmacao": "2025-07-06 18:17:49",
+      "data_hora_confirmacao_pagamento": "2025-07-06 18:17:49",
+      "valor_total_produtos": 163.34,
+      "valor_frete": 44.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 207.88,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "49869": {
+      "codigo": "49869",
+      "titulo": "Boné ultra Premium NIKE (LT001.2)  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "49873": {
+      "codigo": "49873",
+      "titulo": "Boné ultra Premium NY (LT001.2) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "49945": {
+      "codigo": "49945",
+      "titulo": "Blusa de Moletom 3 Cabos HIGH estampa nas costas (LT001.4)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "HIGH",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "5280",
+  "nome": "HENRIQUE CÉSAR PONTES SANTOS",
+  "email": "henrique_cesar_1997@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/01/2024",
+  "whatsapp": "(11) 97638-7431",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 57.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "6453",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 11:40:10",
+      "data_hora_confirmacao": "2024-01-10 12:27:32",
+      "data_hora_confirmacao_pagamento": "2024-01-10 12:27:46",
+      "valor_total_produtos": 46.98,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 57.72,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.54": {
+      "codigo": "CD39.54",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Azul Marinho - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

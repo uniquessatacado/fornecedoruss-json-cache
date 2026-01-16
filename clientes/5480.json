@@ -1,0 +1,123 @@
+{
+  "codigo": "5480",
+  "nome": "RENATO FERREIRA DE MESQUITA",
+  "email": "renato.mvvs@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/01/2024",
+  "whatsapp": "(21) 9653-22986",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 333.78999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "6725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-23 11:27:01",
+      "data_hora_confirmacao": "2024-01-24 09:20:47",
+      "data_hora_confirmacao_pagamento": "2024-01-24 09:21:00",
+      "valor_total_produtos": 123.97,
+      "valor_frete": 16.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 140.29,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13084",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 08:29:37",
+      "data_hora_confirmacao": "2024-06-06 12:21:22",
+      "data_hora_confirmacao_pagamento": "2024-06-06 12:21:15",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 14.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.16,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14641",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 18:55:48",
+      "data_hora_confirmacao": "2024-06-28 11:12:58",
+      "data_hora_confirmacao_pagamento": "2024-06-28 11:12:47",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 16.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.34,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22968": {
+      "codigo": "22968",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22971": {
+      "codigo": "22971",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.60": {
+      "codigo": "CD17.60",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "RO02": {
+      "codigo": "RO02",
+      "titulo": "Óculos  Romeu 2 - Vermelho c/laranja - Cor da Armação: Preto - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Vermelha - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD22.3G": {
+      "codigo": "CD22.3G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

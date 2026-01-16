@@ -1,0 +1,53 @@
+{
+  "codigo": "13973",
+  "nome": "WILLIAM OLIVEIRA",
+  "email": "william.so@live.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(19) 99275-0685",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "18503",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-13 03:29:56",
+      "data_hora_confirmacao": "2024-08-13 10:04:08",
+      "data_hora_confirmacao_pagamento": "2024-08-13 10:03:55",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 80.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26751": {
+      "codigo": "26751",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27122": {
+      "codigo": "27122",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

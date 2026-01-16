@@ -1,0 +1,96 @@
+{
+  "codigo": "4088",
+  "nome": "RODRIGO MACHADO",
+  "email": "verona.rod@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/11/2023",
+  "whatsapp": "(11) 98540-1385",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 311.28999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "3179",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-15 20:17:15",
+      "data_hora_confirmacao": "2023-11-16 07:41:22",
+      "data_hora_confirmacao_pagamento": "2023-11-16 07:41:32",
+      "valor_total_produtos": 167,
+      "valor_frete": 12.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 179.78,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3932",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-02 18:22:57",
+      "data_hora_confirmacao": "2023-12-02 19:13:52",
+      "data_hora_confirmacao_pagamento": "2023-12-02 19:14:03",
+      "valor_total_produtos": 120,
+      "valor_frete": 11.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 131.51,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.33": {
+      "codigo": "CD16.33",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10 - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD30.6": {
+      "codigo": "CD30.6",
+      "titulo": "Chapéu Bucket - Gucci - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Chapéu Bucket",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD16.34": {
+      "codigo": "CD16.34",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.38": {
+      "codigo": "CD16.38",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT31.10   - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.31P": {
+      "codigo": "CD16.31P",
+      "titulo": "Camisetas de Time Tailandesas - Juventus - Tamanho: P - Times : Juventus",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

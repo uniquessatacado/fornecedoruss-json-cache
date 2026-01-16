@@ -1,0 +1,61 @@
+{
+  "codigo": "14122",
+  "nome": "GILMAR VIEIRA",
+  "email": "Gilmar.vieira1@yahoo.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(15) 99768-6742",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "20506",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-06 14:13:06",
+      "data_hora_confirmacao": "2024-09-06 14:39:56",
+      "data_hora_confirmacao_pagamento": "2024-09-06 14:39:51",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 123.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29172": {
+      "codigo": "29172",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "29175": {
+      "codigo": "29175",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: PRETO CHUMBO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29180": {
+      "codigo": "29180",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

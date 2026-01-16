@@ -1,0 +1,85 @@
+{
+  "codigo": "20288",
+  "nome": "HELENA RAMALHO",
+  "email": "helena.gordinhadog@gmail.com",
+  "sexo": "2",
+  "data_cadastro": "31/07/2025",
+  "whatsapp": "(11) 9764-21386",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 154.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "32086",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-14 10:19:04",
+      "data_hora_confirmacao": "2025-10-14 10:19:04",
+      "data_hora_confirmacao_pagamento": "2025-10-14 10:19:04",
+      "valor_total_produtos": 133.97,
+      "valor_frete": 20.05,
+      "frete": "SEDEX",
+      "valor_total_pedido": 154.02,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "52308": {
+      "codigo": "52308",
+      "titulo": "Calça Microfibra Ultra Armani (LT029) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53154": {
+      "codigo": "53154",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53166": {
+      "codigo": "53166",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53169": {
+      "codigo": "53169",
+      "titulo": "Camiseta Drifit ULTRA Nike (LT039) - Cor: BRANCO/PRETO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53483": {
+      "codigo": "53483",
+      "titulo": "Cueca Peruana Boss (LT043) - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "53512": {
+      "codigo": "53512",
+      "titulo": "Cueca Peruana Boss (LT043) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

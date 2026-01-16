@@ -1,0 +1,53 @@
+{
+  "codigo": "3578",
+  "nome": "CARLOS VINICIUS LIMA SANTOS",
+  "email": "carlosviniciusm055@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/10/2023",
+  "whatsapp": "(11) 95935-4647",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 48.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301971",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 13:26:29",
+      "data_hora_confirmacao": "2023-10-19 13:29:11",
+      "data_hora_confirmacao_pagamento": "2023-10-19 13:29:18",
+      "valor_total_produtos": 40,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.73,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.5GG": {
+      "codigo": "CD29.5GG",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Verde - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Vinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

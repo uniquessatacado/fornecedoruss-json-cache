@@ -1,0 +1,69 @@
+{
+  "codigo": "754",
+  "nome": "EDUARDO GUEDES",
+  "email": "eduardocat719@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(88) 99667-8659",
+  "cidade": "Juazeiro do Norte",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 174.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "10169",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 13:55:07",
+      "data_hora_confirmacao": "2024-04-17 15:42:01",
+      "data_hora_confirmacao_pagamento": "2024-04-17 15:41:17",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 30.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 174.68,
+      "desconto": 0,
+      "cidade": "Juazeiro do Norte",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.1G": {
+      "codigo": "CD04.1G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22G": {
+      "codigo": "CD4.22G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.19G": {
+      "codigo": "CD4.19G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

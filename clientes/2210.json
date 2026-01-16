@@ -1,0 +1,104 @@
+{
+  "codigo": "2210",
+  "nome": "AFONSO OLIVEIRA NASCIMENTO",
+  "email": "afonso231.paz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/09/2023",
+  "whatsapp": "(19) 99407-1215",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 225,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300097",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-16 16:58:10",
+      "data_hora_confirmacao": "2023-09-18 18:12:48",
+      "data_hora_confirmacao_pagamento": "2023-09-18 18:12:33",
+      "valor_total_produtos": 112,
+      "valor_frete": 10,
+      "frete": "MOTO BOY",
+      "valor_total_pedido": 122,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300565",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-23 12:23:55",
+      "data_hora_confirmacao": "2023-09-23 12:24:43",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 103,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 103,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.2G": {
+      "codigo": "CD08.2G",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.4G": {
+      "codigo": "CD15.4G",
+      "titulo": "Camiseta Peruana com Elastano - Armani - Cor: Vermelha - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD10.2GG": {
+      "codigo": "CD10.2GG",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.15GG": {
+      "codigo": "CD07.15GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci  - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD10.3GG": {
+      "codigo": "CD10.3GG",
+      "titulo": "Camiseta Egípcia Ultra Luxo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

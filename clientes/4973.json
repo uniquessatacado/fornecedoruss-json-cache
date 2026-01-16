@@ -1,0 +1,139 @@
+{
+  "codigo": "4973",
+  "nome": "RENATO SANTOS BARBOSA",
+  "email": "renato_gueropa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(15) 99735-6454",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 555.1300000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "5578",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 09:28:31",
+      "data_hora_confirmacao": "2023-12-26 12:17:10",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:17:20",
+      "valor_total_produtos": 322.87,
+      "valor_frete": 17.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 340.23,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5933",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-28 13:43:02",
+      "data_hora_confirmacao": "2023-12-28 13:54:05",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 106.97,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 106.97,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5974",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-28 21:51:53",
+      "data_hora_confirmacao": "2023-12-29 00:02:45",
+      "data_hora_confirmacao_pagamento": "2023-12-29 00:02:55",
+      "valor_total_produtos": 95.94,
+      "valor_frete": 11.99,
+      "frete": "SEDEX",
+      "valor_total_pedido": 107.93,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE - Cor: Azul Bebê - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": 5
+    },
+    "CD12.1": {
+      "codigo": "CD12.1",
+      "titulo": "Polo Piquet Duplo Ultra -HUGO BOSS - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD32.24Double X": {
+      "codigo": "CD32.24Double X",
+      "titulo": "Óculos  Double X - Vermelho c/Laranja - Cor da Armação: Prata - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD2.81": {
+      "codigo": "CD2.81",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Bege - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD69": {
+      "codigo": "CD69",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.25": {
+      "codigo": "CD39.25",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

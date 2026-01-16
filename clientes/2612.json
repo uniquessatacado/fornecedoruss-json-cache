@@ -1,0 +1,69 @@
+{
+  "codigo": "2612",
+  "nome": "RONALDO SOUZA",
+  "email": "rssouza829@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(69) 99217-0043",
+  "cidade": "Porto Velho",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 277.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300478",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 14:18:18",
+      "data_hora_confirmacao": "2023-09-22 14:51:40",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:58:22",
+      "valor_total_produtos": 199,
+      "valor_frete": 78.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 277.73,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.9G": {
+      "codigo": "CD08.9G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Azul Marinho - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.17G": {
+      "codigo": "CD08.17G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -Louis Vuitton (Bordada com Linha Madeira) - Cor: Preto - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD08.13G": {
+      "codigo": "CD08.13G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Louis Vuitton (Aplique Abordada) - Cor: Verde - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD33.6G": {
+      "codigo": "CD33.6G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste   - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

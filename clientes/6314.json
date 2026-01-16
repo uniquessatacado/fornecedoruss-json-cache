@@ -1,0 +1,53 @@
+{
+  "codigo": "6314",
+  "nome": "ANTÔNIO MARCOS SANTANA DE JESUS",
+  "email": "am9802472@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(71) 98348-2682",
+  "cidade": "Paracatu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 235.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "7461",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 20:44:36",
+      "data_hora_confirmacao": "2024-02-22 10:08:06",
+      "data_hora_confirmacao_pagamento": "2024-02-22 10:07:57",
+      "valor_total_produtos": 215.94,
+      "valor_frete": 19.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 235.92,
+      "desconto": 0,
+      "cidade": "Paracatu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.1M": {
+      "codigo": "CD04.1M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD04.1G": {
+      "codigo": "CD04.1G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

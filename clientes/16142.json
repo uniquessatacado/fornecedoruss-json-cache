@@ -1,0 +1,104 @@
+{
+  "codigo": "16142",
+  "nome": "MAYRO CASTRO",
+  "email": "mayro.castro1988@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2024",
+  "whatsapp": "(89) 98148-1245",
+  "cidade": "Bom Jesus",
+  "estado": "PI",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 398.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "22100",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 21:57:37",
+      "data_hora_confirmacao": "2024-10-02 12:33:25",
+      "data_hora_confirmacao_pagamento": "2024-10-02 12:33:13",
+      "valor_total_produtos": 170.98,
+      "valor_frete": 78.16,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 249.14,
+      "desconto": 0,
+      "cidade": "Bom Jesus",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-25 12:45:59",
+      "data_hora_confirmacao": "2024-10-25 13:06:54",
+      "data_hora_confirmacao_pagamento": "2024-10-25 13:06:46",
+      "valor_total_produtos": 96.96,
+      "valor_frete": 52.53,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 149.49,
+      "desconto": 0,
+      "cidade": "Bom Jesus",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26376": {
+      "codigo": "26376",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28372": {
+      "codigo": "28372",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31588": {
+      "codigo": "31588",
+      "titulo": "Tênis Nike Air Force - NIKE  - Cor: BRANCA - Tamanho: 38",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31640": {
+      "codigo": "31640",
+      "titulo": "Tênis Nike Air Force React - NIKE - Cor: BRANCA - Tamanho: 38",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31970": {
+      "codigo": "31970",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte emborrachada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32293": {
+      "codigo": "32293",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em PELÚCIA - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

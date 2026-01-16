@@ -1,0 +1,61 @@
+{
+  "codigo": "14498",
+  "nome": "DIOMIR MORAIS LEITE",
+  "email": "nicaoleite@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/08/2024",
+  "whatsapp": "(14) 99717-6852",
+  "cidade": "Lençóis Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "19408",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-23 10:31:19",
+      "data_hora_confirmacao": "2024-08-23 18:01:30",
+      "data_hora_confirmacao_pagamento": "2024-08-23 18:01:25",
+      "valor_total_produtos": 76.97,
+      "valor_frete": 15.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.32,
+      "desconto": 0,
+      "cidade": "Lençóis Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28318": {
+      "codigo": "28318",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28522": {
+      "codigo": "28522",
+      "titulo": "Boné Super Premium - NEW ERA NEW YORK  - Cor: VERDE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28530": {
+      "codigo": "28530",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

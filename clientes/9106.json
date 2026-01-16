@@ -1,0 +1,45 @@
+{
+  "codigo": "9106",
+  "nome": "GERALDO GALAZZINI NETO",
+  "email": "galazzini@yahoo.com",
+  "sexo": "0",
+  "data_cadastro": "06/05/2024",
+  "whatsapp": "(14) 99807-3344",
+  "cidade": "Jaú",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "11391",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-06 15:21:13",
+      "data_hora_confirmacao": "2024-05-06 17:43:02",
+      "data_hora_confirmacao_pagamento": "2024-05-06 17:42:50",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 42.92,
+      "desconto": 0,
+      "cidade": "Jaú",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17941": {
+      "codigo": "17941",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

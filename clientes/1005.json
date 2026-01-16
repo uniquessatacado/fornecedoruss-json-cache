@@ -1,0 +1,123 @@
+{
+  "codigo": "1005",
+  "nome": "MARCOS ADRIANO",
+  "email": "marcosadriano20201997@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(31) 9952-45203",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 434.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "13528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-11 20:12:44",
+      "data_hora_confirmacao": "2024-06-12 09:42:31",
+      "data_hora_confirmacao_pagamento": "2024-06-12 09:42:22",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 29.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 94.62,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22288",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-04 18:29:03",
+      "data_hora_confirmacao": "2024-10-04 18:38:50",
+      "data_hora_confirmacao_pagamento": "2024-10-04 18:39:16",
+      "valor_total_produtos": 250.96,
+      "valor_frete": 51.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 302.75,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22426",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-07 15:19:46",
+      "data_hora_confirmacao": "2024-10-07 15:19:46",
+      "data_hora_confirmacao_pagamento": "2024-10-07 15:19:46",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19666": {
+      "codigo": "19666",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25554": {
+      "codigo": "25554",
+      "titulo": "SMARTWATCH HW9 ULTRA MAX  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH HW9 ULTRA MAX ",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    },
+    "29023": {
+      "codigo": "29023",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30715": {
+      "codigo": "30715",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: ROSA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31873": {
+      "codigo": "31873",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32179": {
+      "codigo": "32179",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte COMPOSTA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

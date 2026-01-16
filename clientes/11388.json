@@ -1,0 +1,53 @@
+{
+  "codigo": "11388",
+  "nome": "MÁRCIO CARLOS GOMES DOS SANTOS",
+  "email": "marcio_geisi@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/06/2024",
+  "whatsapp": "(65) 99913-1253",
+  "cidade": "Arenápolis",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "14389",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-23 09:51:46",
+      "data_hora_confirmacao": "2024-06-24 09:29:21",
+      "data_hora_confirmacao_pagamento": "2024-06-24 09:29:13",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 33.8,
+      "frete": "PAC",
+      "valor_total_pedido": 109.78,
+      "desconto": 0,
+      "cidade": "Arenápolis",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22529": {
+      "codigo": "22529",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "22542": {
+      "codigo": "22542",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

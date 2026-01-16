@@ -1,0 +1,80 @@
+{
+  "codigo": "1202",
+  "nome": "GABRIEL SILVAG",
+  "email": "gabrielrsilva586@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "16/08/2023",
+  "whatsapp": "(19) 9817-46894",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 172.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301132",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-02 18:52:37",
+      "data_hora_confirmacao": "2023-10-03 11:53:38",
+      "data_hora_confirmacao_pagamento": "2023-10-03 17:01:50",
+      "valor_total_produtos": 80,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 80,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17356",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENTREGUE AO CLIENTE",
+      "data_hora_pedido": "2024-07-30 15:06:08",
+      "data_hora_confirmacao": "2024-07-30 15:13:54",
+      "data_hora_confirmacao_pagamento": "2024-07-30 15:13:42",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 92.99,
+      "desconto": 0,
+      "cidade": "Hortolândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20691": {
+      "codigo": "20691",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Branca - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

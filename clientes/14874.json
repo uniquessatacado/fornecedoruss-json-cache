@@ -1,0 +1,53 @@
+{
+  "codigo": "14874",
+  "nome": "EDIVAN ALVES",
+  "email": "Edihalves@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "30/08/2024",
+  "whatsapp": "(49) 99815-5393",
+  "cidade": "Joaçaba",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "19934",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-30 10:55:56",
+      "data_hora_confirmacao": "2024-08-30 17:39:05",
+      "data_hora_confirmacao_pagamento": "2024-08-30 17:39:00",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 20.93,
+      "frete": "JADLOG",
+      "valor_total_pedido": 104.91,
+      "desconto": 0,
+      "cidade": "Joaçaba",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28705": {
+      "codigo": "28705",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte emborrachada - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28911": {
+      "codigo": "28911",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

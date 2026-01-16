@@ -1,0 +1,99 @@
+{
+  "codigo": "3554",
+  "nome": "GUILHERME STANGHERLIM GUEDES",
+  "email": "guilhermesguedes70@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(31) 99140-4525",
+  "cidade": "Lagoa Santa",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 440.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "3514",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 15:38:55",
+      "data_hora_confirmacao": "2023-11-23 18:54:16",
+      "data_hora_confirmacao_pagamento": "2023-11-23 18:55:28",
+      "valor_total_produtos": 195,
+      "valor_frete": 18.56,
+      "frete": "JADLOG",
+      "valor_total_pedido": 213.56,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4383",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 11:10:50",
+      "data_hora_confirmacao": "2023-12-11 11:13:53",
+      "data_hora_confirmacao_pagamento": "2023-12-11 11:14:03",
+      "valor_total_produtos": 130,
+      "valor_frete": 20.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 150.11,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7068",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 14:26:03",
+      "data_hora_confirmacao": "2024-02-03 10:44:31",
+      "data_hora_confirmacao_pagamento": "2024-02-03 10:44:54",
+      "valor_total_produtos": 59.97,
+      "valor_frete": 16.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.8,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.49": {
+      "codigo": "CD16.49",
+      "titulo": "Camisetas de Time Tailandesas - CRUZEIRO  LT06.11  - Tamanho: G1 - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 4
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

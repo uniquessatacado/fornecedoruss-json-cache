@@ -1,0 +1,45 @@
+{
+  "codigo": "7536",
+  "nome": "MATEUS EUSTAQUIO CÂNDIDO",
+  "email": "mateusecandido@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(35) 98852-8020",
+  "cidade": "Campo Belo",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 36.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "9443",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 14:52:04",
+      "data_hora_confirmacao": "2024-04-04 14:52:04",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 18.75,
+      "valor_frete": 17.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 36.14,
+      "desconto": 0,
+      "cidade": "Campo Belo",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "8801",
+  "nome": "FERNANDO SILVA",
+  "email": "fernnado_hz82@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(41) 98433-2873",
+  "cidade": "Maringá",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 125.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "10988",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 20:43:15",
+      "data_hora_confirmacao": "2024-04-30 18:17:14",
+      "data_hora_confirmacao_pagamento": "2024-04-30 18:17:40",
+      "valor_total_produtos": 109.89,
+      "valor_frete": 15.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 125.11,
+      "desconto": 0,
+      "cidade": "Maringá",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23GG": {
+      "codigo": "CD24.23GG",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 6
+    },
+    "CD24.17GG": {
+      "codigo": "CD24.17GG",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "CD24.20G": {
+      "codigo": "CD24.20G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.20GG": {
+      "codigo": "CD24.20GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

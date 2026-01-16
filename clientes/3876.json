@@ -1,0 +1,77 @@
+{
+  "codigo": "3876",
+  "nome": "RAILSON RIBEIRO DA SILVA",
+  "email": "dkribeirolindo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/11/2023",
+  "whatsapp": "(92) 9944-36405",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 355.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "22560",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-09 12:43:55",
+      "data_hora_confirmacao": "2024-10-09 14:36:18",
+      "data_hora_confirmacao_pagamento": "2024-10-09 14:36:08",
+      "valor_total_produtos": 257.93,
+      "valor_frete": 97.52,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 355.45,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25705": {
+      "codigo": "25705",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30825": {
+      "codigo": "30825",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30831": {
+      "codigo": "30831",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32336": {
+      "codigo": "32336",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "32345": {
+      "codigo": "32345",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

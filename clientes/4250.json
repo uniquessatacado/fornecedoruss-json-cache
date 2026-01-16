@@ -1,0 +1,107 @@
+{
+  "codigo": "4250",
+  "nome": "BRUNO VINICIUS",
+  "email": "Bruno.sabino12@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/11/2023",
+  "whatsapp": "(19) 98965-2668",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 254.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "3597",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-25 09:45:47",
+      "data_hora_confirmacao": "2023-11-25 11:30:22",
+      "data_hora_confirmacao_pagamento": "2023-11-25 11:37:14",
+      "valor_total_produtos": 130,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 130,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5927",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-28 13:17:25",
+      "data_hora_confirmacao": "2023-12-28 13:20:47",
+      "data_hora_confirmacao_pagamento": "2023-12-28 13:20:59",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 59.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13004",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-03 10:41:15",
+      "data_hora_confirmacao": "2024-06-03 10:41:15",
+      "data_hora_confirmacao_pagamento": "2024-06-03 10:42:19",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 64.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19952": {
+      "codigo": "19952",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO PRONTA ENTREGA)   - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.61": {
+      "codigo": "CD16.61",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD32.15Juliet": {
+      "codigo": "CD32.15Juliet",
+      "titulo": "Óculos  DOUBLE X  - Dourada 24k - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

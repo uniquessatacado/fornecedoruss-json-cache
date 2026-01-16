@@ -1,0 +1,85 @@
+{
+  "codigo": "5032",
+  "nome": "DIONIZIO GOMES",
+  "email": "barbosadionizio009@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(19) 99214-2964",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 257.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "27163",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-23 15:56:32",
+      "data_hora_confirmacao": "2024-12-23 16:01:00",
+      "data_hora_confirmacao_pagamento": "2024-12-23 16:01:00",
+      "valor_total_produtos": 247.65,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 257.65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38446": {
+      "codigo": "38446",
+      "titulo": "Camiseta Suedine ultra -(C127) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38689": {
+      "codigo": "38689",
+      "titulo": "Bermuda Microfibra Hiper (C137) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38715": {
+      "codigo": "38715",
+      "titulo": "Bermuda Microfibra Hiper (C134) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38741": {
+      "codigo": "38741",
+      "titulo": "Bermuda Microfibra Hiper (C136) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38804": {
+      "codigo": "38804",
+      "titulo": "Camiseta Suedine ultra -(C140) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39279": {
+      "codigo": "39279",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C163) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

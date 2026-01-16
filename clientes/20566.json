@@ -1,0 +1,61 @@
+{
+  "codigo": "20566",
+  "nome": "GUILHERME CAMPOS BORGES DE OLIVEIRA",
+  "email": "guizaocma77@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2025",
+  "whatsapp": "(31) 98868-6025",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "31883",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-29 11:39:05",
+      "data_hora_confirmacao": "2025-09-29 11:40:39",
+      "data_hora_confirmacao_pagamento": "2025-09-29 11:40:39",
+      "valor_total_produtos": 86.24,
+      "valor_frete": 14.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.46,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "54919": {
+      "codigo": "54919",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55172": {
+      "codigo": "55172",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "55178": {
+      "codigo": "55178",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

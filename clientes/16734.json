@@ -1,0 +1,61 @@
+{
+  "codigo": "16734",
+  "nome": "MATHEUS CARLOS",
+  "email": "matheusoliveiravr178@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2024",
+  "whatsapp": "(24) 98846-4371",
+  "cidade": "Volta Redonda",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 126.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "25172",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 07:45:13",
+      "data_hora_confirmacao": "2024-11-28 07:48:30",
+      "data_hora_confirmacao_pagamento": "2024-11-28 07:48:30",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 15.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.45,
+      "desconto": 0,
+      "cidade": "Volta Redonda",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28957": {
+      "codigo": "28957",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35337": {
+      "codigo": "35337",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35376": {
+      "codigo": "35376",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

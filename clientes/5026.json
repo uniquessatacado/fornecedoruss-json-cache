@@ -1,0 +1,53 @@
+{
+  "codigo": "5026",
+  "nome": "GUSTAVO HENRIQUE",
+  "email": "gh160710@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(11) 94367-5237",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "5718",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-23 13:42:55",
+      "data_hora_confirmacao": "2023-12-26 12:08:54",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:09:04",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 12.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.8,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Marrom - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.40": {
+      "codigo": "CD39.40",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

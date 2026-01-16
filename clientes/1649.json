@@ -1,0 +1,96 @@
+{
+  "codigo": "1649",
+  "nome": "PEDRO TEIXEIRA",
+  "email": "phteixeira@outlook.pt",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(15) 99739-7416",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 224.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "14178",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 12:13:53",
+      "data_hora_confirmacao": "2024-06-21 12:17:46",
+      "data_hora_confirmacao_pagamento": "2024-06-21 12:17:38",
+      "valor_total_produtos": 89.98,
+      "valor_frete": 13.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.73,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17194",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-27 17:11:09",
+      "data_hora_confirmacao": "2024-07-29 18:01:53",
+      "data_hora_confirmacao_pagamento": "2024-07-29 18:01:47",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.74,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21837": {
+      "codigo": "21837",
+      "titulo": "CAMISETAS GENUINA COTTON TANGUIS TURCO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "21898": {
+      "codigo": "21898",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "24902": {
+      "codigo": "24902",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS recorte atrás  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25321": {
+      "codigo": "25321",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS arte em silk - Cor: AREIA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25333": {
+      "codigo": "25333",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS arte em silk - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

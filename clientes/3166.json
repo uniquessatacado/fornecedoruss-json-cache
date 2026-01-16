@@ -1,0 +1,77 @@
+{
+  "codigo": "3166",
+  "nome": "IGOR VIEIRA LEMOS",
+  "email": "igorvlemos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(27) 99239-9301",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 189.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301104",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-02 09:49:29",
+      "data_hora_confirmacao": "2023-10-02 10:37:25",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:38:04",
+      "valor_total_produtos": 171.5,
+      "valor_frete": 17.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 189.11,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.27G": {
+      "codigo": "CD02.27G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Termo gel) - Cor: Bege - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.26G": {
+      "codigo": "CD02.26G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD08.27G": {
+      "codigo": "CD08.27G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Arte aplique em tecido e bordado em linha madeira) - Cor: Cinza - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.19G - Calvin Klein": {
+      "codigo": "CD24.19G - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    }
+  }
+}

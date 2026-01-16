@@ -1,0 +1,45 @@
+{
+  "codigo": "7590",
+  "nome": "MARIA APARECIDA",
+  "email": "cida.f13@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(11) 98079-8640",
+  "cidade": "Mauá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 40.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "9481",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 21:08:55",
+      "data_hora_confirmacao": "2024-04-05 12:37:35",
+      "data_hora_confirmacao_pagamento": "2024-04-05 12:37:30",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.96,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.133GG": {
+      "codigo": "CD02.133GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

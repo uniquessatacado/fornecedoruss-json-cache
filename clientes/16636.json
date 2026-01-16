@@ -1,0 +1,53 @@
+{
+  "codigo": "16636",
+  "nome": "RAFAEL PEREIRA GUILHERME",
+  "email": "pereirarafffa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/10/2024",
+  "whatsapp": "(24) 99240-6327",
+  "cidade": "Valença",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "22992",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-18 14:08:19",
+      "data_hora_confirmacao": "2024-10-18 15:01:49",
+      "data_hora_confirmacao_pagamento": "2024-10-18 15:01:27",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 14.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.8,
+      "desconto": 0,
+      "cidade": "Valença",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31834": {
+      "codigo": "31834",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31839": {
+      "codigo": "31839",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

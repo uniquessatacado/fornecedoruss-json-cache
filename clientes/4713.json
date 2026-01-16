@@ -1,0 +1,69 @@
+{
+  "codigo": "4713",
+  "nome": "JONAS DE JESUS ESPERANÇA VILAS BOAS",
+  "email": "jesusjonas204@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(12) 99202-1626",
+  "cidade": "Jacareí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 257.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "4767",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 08:56:23",
+      "data_hora_confirmacao": "2023-12-14 10:40:34",
+      "data_hora_confirmacao_pagamento": "2023-12-14 10:40:48",
+      "valor_total_produtos": 245.78,
+      "valor_frete": 11.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 257.55,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.18Juliet": {
+      "codigo": "CD32.18Juliet",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada  - Cor da Armação: Prata c/Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.16Juliet": {
+      "codigo": "CD32.16Juliet",
+      "titulo": "Óculos  Juliet - Roxa Transparente - Cor da Armação: Chumbo - Cor da Lente: Roxo Transparente - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD60.9": {
+      "codigo": "CD60.9",
+      "titulo": "Óculos  Double X - VERMELHO C/ROXO  LT13.12  - Cor da Armação: Chumbo - Cor da Lente: Vermelho com Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.13": {
+      "codigo": "CD59.13",
+      "titulo": "Óculos  Penny - PRETA  LT13.12   - Cor da Armação: Preto - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

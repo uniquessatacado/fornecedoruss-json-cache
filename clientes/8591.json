@@ -1,0 +1,45 @@
+{
+  "codigo": "8591",
+  "nome": "FABIANO FARIAS",
+  "email": "fabiano914@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(61) 99333-9897",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 67.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "10642",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 15:25:04",
+      "data_hora_confirmacao": "2024-04-25 09:13:28",
+      "data_hora_confirmacao_pagamento": "2024-04-25 09:12:59",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 17.09,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.04,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23G": {
+      "codigo": "CD24.23G",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 5
+    }
+  }
+}

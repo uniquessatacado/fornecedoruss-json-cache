@@ -1,0 +1,310 @@
+{
+  "codigo": "753",
+  "nome": "FELIPE MULLER",
+  "email": "flipmuller@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(51) 9892-77136",
+  "cidade": "Lajeado",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 934.5699999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300818",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 02:04:52",
+      "data_hora_confirmacao": "2023-10-02 12:01:31",
+      "data_hora_confirmacao_pagamento": "2023-10-02 12:01:18",
+      "valor_total_produtos": 110.5,
+      "valor_frete": 26.78,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 137.28,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 15:42:36",
+      "data_hora_confirmacao": "2023-10-02 13:16:51",
+      "data_hora_confirmacao_pagamento": "2023-10-04 12:24:00",
+      "valor_total_produtos": 163,
+      "valor_frete": 16.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 179.49,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2825",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 20:50:41",
+      "data_hora_confirmacao": "2023-11-09 14:10:05",
+      "data_hora_confirmacao_pagamento": "2023-11-09 14:10:14",
+      "valor_total_produtos": 427,
+      "valor_frete": 32.15,
+      "frete": "JADLOG",
+      "valor_total_pedido": 459.15,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26533",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-15 23:12:59",
+      "data_hora_confirmacao": "2024-12-15 23:15:47",
+      "data_hora_confirmacao_pagamento": "2024-12-15 23:15:47",
+      "valor_total_produtos": 130.41,
+      "valor_frete": 28.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 158.65,
+      "desconto": 0,
+      "cidade": "Lajeado",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35178": {
+      "codigo": "35178",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35407": {
+      "codigo": "35407",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "35428": {
+      "codigo": "35428",
+      "titulo": "Cuecas Peruanas - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35431": {
+      "codigo": "35431",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35453": {
+      "codigo": "35453",
+      "titulo": "Cuecas Peruanas - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37520": {
+      "codigo": "37520",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C06) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "37749": {
+      "codigo": "37749",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C22) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37874": {
+      "codigo": "37874",
+      "titulo": "MEIAS PERUANAS (C67) - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37910": {
+      "codigo": "37910",
+      "titulo": "MEIAS PERUANAS (C71) - Marca: Vans - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD24.19G - Calvin Klein": {
+      "codigo": "CD24.19G - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD24.19GG - Calvin Klein": {
+      "codigo": "CD24.19GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD17.27G": {
+      "codigo": "CD17.27G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.22GG - Calvin Klein": {
+      "codigo": "CD24.22GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD02.26G": {
+      "codigo": "CD02.26G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Azul Marinho - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD08.15G": {
+      "codigo": "CD08.15G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.39GG": {
+      "codigo": "CD17.39GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.37GG": {
+      "codigo": "CD17.37GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Verde - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD16.46": {
+      "codigo": "CD16.46",
+      "titulo": "Camisetas de Time Tailandesas - GREMIO  LT03.11   - Tamanho: G - Times : Gremio",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD39.14": {
+      "codigo": "CD39.14",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

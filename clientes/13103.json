@@ -1,0 +1,104 @@
+{
+  "codigo": "13103",
+  "nome": "LUIZ FERNANDO EUGÊNIO DOS SANTOS",
+  "email": "nando.will@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "25/07/2024",
+  "whatsapp": "(13) 9741-70892",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 255.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "20273",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 18:45:39",
+      "data_hora_confirmacao": "2024-09-04 12:31:23",
+      "data_hora_confirmacao_pagamento": "2024-09-04 12:31:16",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 18.47,
+      "frete": "JADLOG",
+      "valor_total_pedido": 129.44,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24960",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-22 15:21:59",
+      "data_hora_confirmacao": "2024-11-22 15:24:53",
+      "data_hora_confirmacao_pagamento": "2024-11-22 15:24:53",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 15.18,
+      "frete": "SEDEX",
+      "valor_total_pedido": 126.15,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28956": {
+      "codigo": "28956",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29354": {
+      "codigo": "29354",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: SALMÃO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29357": {
+      "codigo": "29357",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29630": {
+      "codigo": "29630",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35087": {
+      "codigo": "35087",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35158": {
+      "codigo": "35158",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

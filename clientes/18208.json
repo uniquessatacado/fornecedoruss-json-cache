@@ -1,0 +1,80 @@
+{
+  "codigo": "18208",
+  "nome": "MURILO NASCIMENTO SILVA",
+  "email": "musilva637@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2024",
+  "whatsapp": "(19) 98323-3654",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 80.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "26007",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-08 20:59:26",
+      "data_hora_confirmacao": "2024-12-08 21:00:28",
+      "data_hora_confirmacao_pagamento": "2024-12-08 21:00:28",
+      "valor_total_produtos": 56.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 56.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26410",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-14 02:04:54",
+      "data_hora_confirmacao": "2024-12-14 02:07:56",
+      "data_hora_confirmacao_pagamento": "2024-12-14 02:07:56",
+      "valor_total_produtos": 23.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 23.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36399": {
+      "codigo": "36399",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36551": {
+      "codigo": "36551",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada   - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36860": {
+      "codigo": "36860",
+      "titulo": "camiseta fio 30.1 soft penteada - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "15118",
+  "nome": "MATHEUS AUGUSTO KORTZ",
+  "email": "maugustokortz16@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(11) 96034-3221",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 319.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "20301",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 22:00:37",
+      "data_hora_confirmacao": "2024-09-05 15:34:37",
+      "data_hora_confirmacao_pagamento": "2024-09-05 15:33:59",
+      "valor_total_produtos": 299.7,
+      "valor_frete": 19.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 319.5,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25369": {
+      "codigo": "25369",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "8"
+    },
+    "29377": {
+      "codigo": "29377",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "8"
+    },
+    "29380": {
+      "codigo": "29380",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "7"
+    },
+    "29383": {
+      "codigo": "29383",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "2"
+    },
+    "29386": {
+      "codigo": "29386",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "5"
+    }
+  }
+}

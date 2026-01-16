@@ -1,0 +1,53 @@
+{
+  "codigo": "8220",
+  "nome": "EDINALDO PEREIRA GALINDO",
+  "email": "galindoestamparia@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(21) 96463-7690",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "10205",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 06:11:30",
+      "data_hora_confirmacao": "2024-04-18 10:23:32",
+      "data_hora_confirmacao_pagamento": "2024-04-18 10:23:27",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 30.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 94.85,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD15.5GG": {
+      "codigo": "CD15.5GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo - ARMANI - Cor: VERMELHA - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.140gg": {
+      "codigo": "CD02.140gg",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

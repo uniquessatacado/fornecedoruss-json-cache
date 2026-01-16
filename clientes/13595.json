@@ -1,0 +1,61 @@
+{
+  "codigo": "13595",
+  "nome": "LUCAS APOSTOLICO REIS",
+  "email": "lucasapostolicor@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/08/2024",
+  "whatsapp": "(21) 98258-8037",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "17898",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-05 23:04:22",
+      "data_hora_confirmacao": "2024-08-06 11:18:53",
+      "data_hora_confirmacao_pagamento": "2024-08-06 11:18:47",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 15.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.78,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "24170": {
+      "codigo": "24170",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26157": {
+      "codigo": "26157",
+      "titulo": "Camiseta Egípcia Luxo - DIESEL arte em bordado madeira  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

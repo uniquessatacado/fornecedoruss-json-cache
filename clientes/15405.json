@@ -1,0 +1,53 @@
+{
+  "codigo": "15405",
+  "nome": "DIEGO GUIMARÃES",
+  "email": "diegoguimaraesp@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/09/2024",
+  "whatsapp": "(19) 99795-5725",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 49.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "20713",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-09 17:30:30",
+      "data_hora_confirmacao": "2024-09-09 17:43:36",
+      "data_hora_confirmacao_pagamento": "2024-09-09 17:50:12",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 49.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "5683": {
+      "codigo": "5683",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21512": {
+      "codigo": "21512",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "12923",
+  "nome": "WAGNER NICACIO CAMPOS",
+  "email": "wagnernc8484@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/07/2024",
+  "whatsapp": "(11) 9493-01190",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "16746",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 15:40:16",
+      "data_hora_confirmacao": "2024-07-23 15:46:13",
+      "data_hora_confirmacao_pagamento": "2024-07-23 15:46:06",
+      "valor_total_produtos": 105.95,
+      "valor_frete": 23.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.68,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24706": {
+      "codigo": "24706",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "24709": {
+      "codigo": "24709",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "2"
+    },
+    "24759": {
+      "codigo": "24759",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ARMANI - Cor: Kit Preto-Branco-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "24761": {
+      "codigo": "24761",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ARMANI - Cor: Kit Preto-Branco-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "12091",
+  "nome": "FABIANO BARBOSA DOS SANTOS",
+  "email": "fabiano.barbosa.abi@gmail.con",
+  "sexo": "0",
+  "data_cadastro": "08/07/2024",
+  "whatsapp": "(11) 98057-3272",
+  "cidade": "Jandira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 342.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "27945",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-02-03 17:53:53",
+      "data_hora_confirmacao": "2025-02-03 18:00:08",
+      "data_hora_confirmacao_pagamento": "2025-02-03 18:00:08",
+      "valor_total_produtos": 209.47,
+      "valor_frete": 22.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 232.27,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27946",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-03 17:53:53",
+      "data_hora_confirmacao": "2025-02-03 18:00:13",
+      "data_hora_confirmacao_pagamento": "2025-02-03 18:00:13",
+      "valor_total_produtos": 89.2,
+      "valor_frete": 21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.2,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20745": {
+      "codigo": "20745",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21205": {
+      "codigo": "21205",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "40280": {
+      "codigo": "40280",
+      "titulo": "Camiseta Suedine ultra -(C246) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40315": {
+      "codigo": "40315",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

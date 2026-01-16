@@ -1,0 +1,72 @@
+{
+  "codigo": "4783",
+  "nome": "LUCAS TOMASEVIC",
+  "email": "ltomasevic5@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2023",
+  "whatsapp": "(19) 99494-7449",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 150,
+  "pedidos": [
+    {
+      "codigo_pedido": "7931",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-04 00:29:11",
+      "data_hora_confirmacao": "2024-03-04 10:11:31",
+      "data_hora_confirmacao_pagamento": "2024-03-04 10:15:07",
+      "valor_total_produtos": 65,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 75,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7958",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-03-04 17:49:10",
+      "data_hora_confirmacao": "2024-03-04 17:50:04",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 65,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 75,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.54": {
+      "codigo": "CD16.54",
+      "titulo": "Camisetas de Time Tailandesas - VASCO   LT06.11 - Tamanho: G1 - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.41": {
+      "codigo": "CD16.41",
+      "titulo": "Camisetas de Time Tailandesas - BOTAFOGO    LT31.10   - Tamanho: G1 - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

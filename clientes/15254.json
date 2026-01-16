@@ -1,0 +1,53 @@
+{
+  "codigo": "15254",
+  "nome": "SAMUEL BEZERRA",
+  "email": "samuelbez299@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/09/2024",
+  "whatsapp": "(88) 98228-3068",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 93.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "20505",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-06 14:11:43",
+      "data_hora_confirmacao": "2024-09-06 14:37:30",
+      "data_hora_confirmacao_pagamento": "2024-09-06 14:37:12",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 15.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 93.35,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25682": {
+      "codigo": "25682",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "29067": {
+      "codigo": "29067",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF  - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

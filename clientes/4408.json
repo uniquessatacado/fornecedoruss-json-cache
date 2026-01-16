@@ -1,0 +1,131 @@
+{
+  "codigo": "4408",
+  "nome": "FABIO RODRIGUES DE FARIAS",
+  "email": "fabiorf74@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/12/2023",
+  "whatsapp": "(13) 97405-0577",
+  "cidade": "Praia Grande",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 394.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "3930",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-02 16:49:02",
+      "data_hora_confirmacao": "2023-12-02 19:11:25",
+      "data_hora_confirmacao_pagamento": "2023-12-02 19:11:35",
+      "valor_total_produtos": 159.3,
+      "valor_frete": 11.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 171.26,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9263",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 19:49:55",
+      "data_hora_confirmacao": "2024-04-03 11:53:55",
+      "data_hora_confirmacao_pagamento": "2024-04-03 11:53:50",
+      "valor_total_produtos": 102.96,
+      "valor_frete": 12.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 115.09,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16273",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 17:39:09",
+      "data_hora_confirmacao": "2024-07-17 18:46:17",
+      "data_hora_confirmacao_pagamento": "2024-07-17 18:46:09",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 15.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.16,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24460": {
+      "codigo": "24460",
+      "titulo": "Chinelo NIKE ASUNA 3.0 - COR CHINELO: PRETO - MODELO CHINELO: NIKE ASUNA 3.0 - TAMANHO CHINELO: 42/43",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD60.2": {
+      "codigo": "CD60.2",
+      "titulo": "Óculos  Double X - AZUL BB  LT17.11 - Cor da Armação: Prata - Cor da Lente: Azul bb - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "2"
+    },
+    "CD02.51": {
+      "codigo": "CD02.51",
+      "titulo": "Camiseta 40.1 Ultra Premium - VOLCOM  LT29.11  - Cor: Branca - Marca: Volcom - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "VOLCOM ",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: Azul Marinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.122GG": {
+      "codigo": "CD02.122GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Marrom - Marca: Rip Curl - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "18497",
+  "nome": "ANDRE LUIS SILVA",
+  "email": "andreindaia@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/12/2024",
+  "whatsapp": "(19) 99691-1000",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "26714",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-18 15:42:42",
+      "data_hora_confirmacao": "2024-12-18 15:50:21",
+      "data_hora_confirmacao_pagamento": "2024-12-18 15:50:21",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 110.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29506": {
+      "codigo": "29506",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - TOTTENHAM  - Tamanho: P - Times : Tottenham - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33748": {
+      "codigo": "33748",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BAYERN DE MUNIQUE - Tamanho: P - Times : Bayern de Munique - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33757": {
+      "codigo": "33757",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - INTER MILAN - Tamanho: P - Times : Inter de Milão - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

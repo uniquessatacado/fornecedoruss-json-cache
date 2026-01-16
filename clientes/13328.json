@@ -1,0 +1,61 @@
+{
+  "codigo": "13328",
+  "nome": "GUILHERME CACHUBA RIBEIRO COSTA",
+  "email": "guilherme_cachuba@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/07/2024",
+  "whatsapp": "(41) 99696-3030",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 165.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "17359",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-30 15:25:53",
+      "data_hora_confirmacao": "2024-07-31 19:06:01",
+      "data_hora_confirmacao_pagamento": "2024-07-31 19:05:55",
+      "valor_total_produtos": 150.77,
+      "valor_frete": 15.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 165.83,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19623": {
+      "codigo": "19623",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO MANCHESTER UNITED PRONTA ENTREGA)     - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23977": {
+      "codigo": "23977",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em bordado madeira  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24011": {
+      "codigo": "24011",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

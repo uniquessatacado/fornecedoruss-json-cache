@@ -1,0 +1,107 @@
+{
+  "codigo": "4851",
+  "nome": "JULIO CESAR",
+  "email": "julio_jennifer@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(11) 94504-0013",
+  "cidade": "Carapicuíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 223.54000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "5180",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 21:36:11",
+      "data_hora_confirmacao": "2023-12-20 07:57:49",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:57:59",
+      "valor_total_produtos": 24,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 33.6,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25582",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-03 16:19:41",
+      "data_hora_confirmacao": "2024-12-03 16:21:56",
+      "data_hora_confirmacao_pagamento": "2024-12-03 16:21:56",
+      "valor_total_produtos": 99.98,
+      "valor_frete": 15.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 115.01,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25713",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 19:02:31",
+      "data_hora_confirmacao": "2024-12-04 19:03:55",
+      "data_hora_confirmacao_pagamento": "2024-12-04 19:03:55",
+      "valor_total_produtos": 61.99,
+      "valor_frete": 12.94,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.93,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33099": {
+      "codigo": "33099",
+      "titulo": "Oculos OAKLEY JULIET - ARMAÇÃO: 24K - PRATA+DOURADA  - COR DA LENTE: GOLD - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "35983": {
+      "codigo": "35983",
+      "titulo": "Camiseta malha chines autentica importada - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "35986": {
+      "codigo": "35986",
+      "titulo": "Camiseta malha chines autentica importada - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD27.12": {
+      "codigo": "CD27.12",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

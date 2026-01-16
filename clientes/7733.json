@@ -1,0 +1,80 @@
+{
+  "codigo": "7733",
+  "nome": "ARTHUR ROSA ALVES",
+  "email": "arthurclk222@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/04/2024",
+  "whatsapp": "(51) 99529-5320",
+  "cidade": "Osório",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 140.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "9670",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 13:49:47",
+      "data_hora_confirmacao": "2024-04-08 14:11:36",
+      "data_hora_confirmacao_pagamento": "2024-04-08 14:11:31",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 19.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.41,
+      "desconto": 0,
+      "cidade": "Osório",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9795",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-10 08:11:46",
+      "data_hora_confirmacao": "2024-04-10 08:11:46",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 51.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 51.9,
+      "desconto": 0,
+      "cidade": "Osório",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.06G": {
+      "codigo": "CD25.06G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: KIT - PRETA -VERMELHA- MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.123G": {
+      "codigo": "CD02.123G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.01GG": {
+      "codigo": "CD12.01GG",
+      "titulo": "Polo Piquet Duplo - LACOSTE  - Cor: PRETA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

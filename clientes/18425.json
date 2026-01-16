@@ -1,0 +1,72 @@
+{
+  "codigo": "18425",
+  "nome": "CARLOS EDUARDO DA SILVEIRA GOMES",
+  "email": "carlos0861461@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2024",
+  "whatsapp": "(21) 98150-4463",
+  "cidade": "Nilópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 136.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "26610",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 17:46:38",
+      "data_hora_confirmacao": "2024-12-16 17:50:11",
+      "data_hora_confirmacao_pagamento": "2024-12-16 17:50:11",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 15.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.64,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28890",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-22 09:14:31",
+      "data_hora_confirmacao": "2025-03-22 09:19:06",
+      "data_hora_confirmacao_pagamento": "2025-03-22 09:19:06",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 13.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.08,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21913": {
+      "codigo": "21913",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "41220": {
+      "codigo": "41220",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C356)- Flamengo LT14A - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

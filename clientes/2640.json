@@ -1,0 +1,61 @@
+{
+  "codigo": "2640",
+  "nome": "ANTONIO SÉRGIO M JR",
+  "email": "antoniojr856@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(15) 99623-0603",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 152.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300505",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 19:51:55",
+      "data_hora_confirmacao": "2023-09-22 23:51:40",
+      "data_hora_confirmacao_pagamento": "2023-09-22 23:51:50",
+      "valor_total_produtos": 137,
+      "valor_frete": 15.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 152.41,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.4G": {
+      "codigo": "CD07.4G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Armani (Aplique) - Cor: Branca - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD08.8G": {
+      "codigo": "CD08.8G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Preto - Marca: Dior - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD08.21G": {
+      "codigo": "CD08.21G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Tommy (Arte Bordada em linha madeira e Emborrachada) - Cor: Branca - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "7371",
+  "nome": "DENIS PINHEIRO",
+  "email": "denisgimenez@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/03/2024",
+  "whatsapp": "(11) 98759-3946",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 126.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "9155",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-31 00:46:20",
+      "data_hora_confirmacao": "2024-03-31 23:34:30",
+      "data_hora_confirmacao_pagamento": "2024-03-31 23:34:44",
+      "valor_total_produtos": 77.8,
+      "valor_frete": 12.27,
+      "frete": "SEDEX",
+      "valor_total_pedido": 90.07,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9228",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-02 12:35:19",
+      "data_hora_confirmacao": "2024-04-02 12:46:52",
+      "data_hora_confirmacao_pagamento": "2024-04-02 12:46:47",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.11G": {
+      "codigo": "CD39.11G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10G": {
+      "codigo": "CD39.10G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

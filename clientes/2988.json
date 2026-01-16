@@ -1,0 +1,131 @@
+{
+  "codigo": "2988",
+  "nome": "BRUNO ALVES RENOSTO",
+  "email": "brunorenosto2@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(11) 94801-3943",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 314.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300841",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 15:06:01",
+      "data_hora_confirmacao": "2023-09-29 13:43:52",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 148,
+      "valor_frete": 15.56,
+      "frete": "SEDEX",
+      "valor_total_pedido": 163.56,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3524",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 18:38:05",
+      "data_hora_confirmacao": "2023-11-23 19:11:02",
+      "data_hora_confirmacao_pagamento": "2023-11-23 19:11:14",
+      "valor_total_produtos": 70,
+      "valor_frete": 10.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 80.97,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3721",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 21:53:31",
+      "data_hora_confirmacao": "2023-11-28 09:41:46",
+      "data_hora_confirmacao_pagamento": "2023-11-28 09:41:58",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 9.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 69.61,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.26M": {
+      "codigo": "CD17.26M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD26.2P": {
+      "codigo": "CD26.2P",
+      "titulo": "Regatas Drifit - Nike - Cor: Vermelha - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.1P": {
+      "codigo": "CD26.1P",
+      "titulo": "Regatas Drifit - Mizuno - Cor: Branca - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD33.4G": {
+      "codigo": "CD33.4G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD64.2": {
+      "codigo": "CD64.2",
+      "titulo": "CAMISETAS 30.1 LUXO - QUIKSILVER  LT22.11 - Cor: OffWhite - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD12.8": {
+      "codigo": "CD12.8",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT16.11 - Cor: Marrom - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD59.8": {
+      "codigo": "CD59.8",
+      "titulo": "Óculos  Penny - ROXO  LT27.11 - Cor da Armação: Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

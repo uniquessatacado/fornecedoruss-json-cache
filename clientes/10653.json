@@ -1,0 +1,53 @@
+{
+  "codigo": "10653",
+  "nome": "VITOR HUGO",
+  "email": "victorhugo34344@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(84) 98176-7245",
+  "cidade": "Atibaia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "13420",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-09 14:08:31",
+      "data_hora_confirmacao": "2024-06-10 13:19:25",
+      "data_hora_confirmacao_pagamento": "2024-06-10 13:19:19",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 20.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 104.58,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18074": {
+      "codigo": "18074",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20110": {
+      "codigo": "20110",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

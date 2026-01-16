@@ -1,0 +1,101 @@
+{
+  "codigo": "1145",
+  "nome": "ALAN ROBAINA",
+  "email": "alan_robaina@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "11/08/2023",
+  "whatsapp": "(22) 99979-8560",
+  "cidade": "Cabo Frio",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 247.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301944",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 08:41:41",
+      "data_hora_confirmacao": "2023-10-19 10:50:24",
+      "data_hora_confirmacao_pagamento": "2023-10-19 10:50:33",
+      "valor_total_produtos": 229.5,
+      "valor_frete": 17.71,
+      "frete": "JADLOG",
+      "valor_total_pedido": 247.21,
+      "desconto": 0,
+      "cidade": "Cabo Frio",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.26GG - Boss": {
+      "codigo": "CD24.26GG - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD24.23GG - Burberry": {
+      "codigo": "CD24.23GG - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Azul Marinho - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 4
+    },
+    "CD24.23G - Burberry": {
+      "codigo": "CD24.23G - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Vermelha - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD24.24GG - Plein": {
+      "codigo": "CD24.24GG - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": 3
+    },
+    "CD24.30GG - POLO": {
+      "codigo": "CD24.30GG - POLO",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: Preto - Marca: Polo Ralph - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 7
+    },
+    "CD24.30G - POLO": {
+      "codigo": "CD24.30G - POLO",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: Azul Marinho - Marca: Polo Ralph - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 2
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    }
+  }
+}

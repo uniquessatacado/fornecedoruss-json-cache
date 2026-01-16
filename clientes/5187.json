@@ -1,0 +1,45 @@
+{
+  "codigo": "5187",
+  "nome": "DANIELLE GONÇALO",
+  "email": "dani.goncalo@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "05/01/2024",
+  "whatsapp": "(19) 99540-3530",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 40.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "6246",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-05 16:51:03",
+      "data_hora_confirmacao": "2024-01-05 16:55:31",
+      "data_hora_confirmacao_pagamento": "2024-01-05 16:56:19",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 40.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.64": {
+      "codigo": "CD02.64",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT13.12   - Cor: Marrom - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    }
+  }
+}

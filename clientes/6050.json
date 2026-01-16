@@ -1,0 +1,88 @@
+{
+  "codigo": "6050",
+  "nome": "HEITOR A PIRES NETO",
+  "email": "hpiresneto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/02/2024",
+  "whatsapp": "(12) 99610-6325",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "7136",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-05 10:12:42",
+      "data_hora_confirmacao": "2024-02-06 17:05:25",
+      "data_hora_confirmacao_pagamento": "2024-02-06 17:05:17",
+      "valor_total_produtos": 74.97,
+      "valor_frete": 11.02,
+      "frete": "SEDEX",
+      "valor_total_pedido": 85.99,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7334",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-19 16:25:02",
+      "data_hora_confirmacao": "2024-02-19 16:28:08",
+      "data_hora_confirmacao_pagamento": "2024-02-19 16:28:02",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 10.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 80.95,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.22": {
+      "codigo": "CD40.22",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  PUMA - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD40.18": {
+      "codigo": "CD40.18",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.15": {
+      "codigo": "CD40.15",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  ADIDAS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

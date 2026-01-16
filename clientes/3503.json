@@ -1,0 +1,93 @@
+{
+  "codigo": "3503",
+  "nome": "PABLO VICTOR FRAZÃO CALDAS",
+  "email": "pablofrazao01@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "13/10/2023",
+  "whatsapp": "(21) 97938-6655",
+  "cidade": "Niterói",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 143.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301717",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-13 14:37:07",
+      "data_hora_confirmacao": "2023-10-13 15:04:26",
+      "data_hora_confirmacao_pagamento": "2023-10-13 15:04:33",
+      "valor_total_produtos": 115.5,
+      "valor_frete": 27.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 143.17,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23M - Burberry": {
+      "codigo": "CD24.23M - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Vermelha - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.30G - POLO": {
+      "codigo": "CD24.30G - POLO",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: Azul Marinho - Marca: Polo Ralph - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.30M - POLO": {
+      "codigo": "CD24.30M - POLO",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: Cinza - Marca: Polo Ralph - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.29M - TOMMY": {
+      "codigo": "CD24.29M - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Cinza - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD26.5M": {
+      "codigo": "CD26.5M",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

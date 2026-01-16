@@ -1,0 +1,53 @@
+{
+  "codigo": "4770",
+  "nome": "VICTOR GABRIEL ABN",
+  "email": "",
+  "sexo": "0",
+  "data_cadastro": "15/12/2023",
+  "whatsapp": "(19) 98340-8421",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 200,
+  "pedidos": [
+    {
+      "codigo_pedido": "4876",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-15 16:42:59",
+      "data_hora_confirmacao": "2023-12-15 16:42:59",
+      "data_hora_confirmacao_pagamento": "2023-12-15 16:42:59",
+      "valor_total_produtos": 200,
+      "valor_frete": 0,
+      "frete": "",
+      "valor_total_pedido": 200,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "PDV",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA11": {
+      "codigo": "PA11",
+      "titulo": "CORRENTE DE PRATA  ESCAMA  2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA38": {
+      "codigo": "PA38",
+      "titulo": "CORRENTE ESCAMA MOEDA ANTIGA   3,5mm  70cm ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE MOEDAS ANTIGAS",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

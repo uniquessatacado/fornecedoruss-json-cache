@@ -1,0 +1,61 @@
+{
+  "codigo": "4689",
+  "nome": "FELIPE CAMARGO DE SOUZA",
+  "email": "felipecamargodesouza89@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(16) 9933-42175",
+  "cidade": "Serrana",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 175.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "4655",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 12:09:05",
+      "data_hora_confirmacao": "2023-12-13 12:59:34",
+      "data_hora_confirmacao_pagamento": "2023-12-13 12:59:47",
+      "valor_total_produtos": 160.87,
+      "valor_frete": 14.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 175.65,
+      "desconto": 0,
+      "cidade": "Serrana",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.35": {
+      "codigo": "CD39.35",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

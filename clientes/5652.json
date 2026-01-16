@@ -1,0 +1,45 @@
+{
+  "codigo": "5652",
+  "nome": "LUIZ HENRIQUE",
+  "email": "luizhenriquepba6@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/01/2024",
+  "whatsapp": "(31) 98254-6277",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "6823",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-25 00:59:11",
+      "data_hora_confirmacao": "2024-01-25 10:51:00",
+      "data_hora_confirmacao_pagamento": "2024-01-25 10:51:13",
+      "valor_total_produtos": 25,
+      "valor_frete": 27.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.42,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.82": {
+      "codigo": "CD01.82",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  KOREA  LT10.11   - Tamanho: M - Times : Korea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

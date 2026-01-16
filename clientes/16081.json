@@ -1,0 +1,53 @@
+{
+  "codigo": "16081",
+  "nome": "HELIO JOSE CORREIA DA SILVA",
+  "email": "heliojosecs@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2024",
+  "whatsapp": "(11) 99147-5455",
+  "cidade": "Embu das Artes",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "21962",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-28 13:23:52",
+      "data_hora_confirmacao": "2024-09-28 14:04:06",
+      "data_hora_confirmacao_pagamento": "2024-09-28 14:04:01",
+      "valor_total_produtos": 93.98,
+      "valor_frete": 15.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.94,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31106": {
+      "codigo": "31106",
+      "titulo": "Camiseta Tecido Cashmere Importada - POLO RALPH LAUREN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "POLO RALPH LAUREN ",
+      "quantidade": "1"
+    },
+    "31128": {
+      "codigo": "31128",
+      "titulo": "Camiseta Tecido Cashmere Importada - PRADA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "1731",
+  "nome": "PEDRO HENRIQUE",
+  "email": "kellymascarenhas02@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "24/08/2023",
+  "whatsapp": "(19) 99415-0970",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 49.989999999999995,
+  "pedidos": [
+    {
+      "codigo_pedido": "23326",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-24 21:21:11",
+      "data_hora_confirmacao": "2024-10-25 11:26:06",
+      "data_hora_confirmacao_pagamento": "2024-10-26 11:14:41",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 24.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27662",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-01-16 00:39:45",
+      "data_hora_confirmacao": "2025-01-16 00:56:06",
+      "data_hora_confirmacao_pagamento": "2025-01-16 00:56:06",
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31841": {
+      "codigo": "31841",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39595": {
+      "codigo": "39595",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C209) LT7A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

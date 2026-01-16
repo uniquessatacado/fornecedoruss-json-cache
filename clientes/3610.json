@@ -1,0 +1,120 @@
+{
+  "codigo": "3610",
+  "nome": "GLEIBSON MACHADO DA SILVA",
+  "email": "gleibsonmachado@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(64) 99231-1187",
+  "cidade": "Rio Verde",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 357.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "3292",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 16:28:07",
+      "data_hora_confirmacao": "2023-11-17 17:15:14",
+      "data_hora_confirmacao_pagamento": "2023-11-17 17:15:27",
+      "valor_total_produtos": 200,
+      "valor_frete": 23.39,
+      "frete": "JADLOG",
+      "valor_total_pedido": 223.39,
+      "desconto": 0,
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10981",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 20:15:02",
+      "data_hora_confirmacao": "2024-04-30 11:55:47",
+      "data_hora_confirmacao_pagamento": "2024-04-30 11:55:40",
+      "valor_total_produtos": 107.98,
+      "valor_frete": 26,
+      "frete": "JADLOG",
+      "valor_total_pedido": 133.98,
+      "desconto": 0,
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17809": {
+      "codigo": "17809",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/LARANJA/BRANCO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17825": {
+      "codigo": "17825",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD01.61": {
+      "codigo": "CD01.61",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  LT27.10  - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    },
+    "CD01.74": {
+      "codigo": "CD01.74",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11    - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.67": {
+      "codigo": "CD01.67",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BAYERN DE MUNIQUE  LT27.10   - Tamanho: G - Times : Bayern de Munique",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD45.3": {
+      "codigo": "CD45.3",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL FEMININA  LT10.11 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME FEMININA  LT",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD45.1": {
+      "codigo": "CD45.1",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS FEMININA  LT27.10 - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME FEMININA  LT",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: M - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "17333",
+  "nome": "GEANDERSON SOUZA OLIVEIRA",
+  "email": "dr.geandpvh@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/11/2024",
+  "whatsapp": "(69) 99288-3597",
+  "cidade": "Porto Velho",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "24106",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-09 17:11:42",
+      "data_hora_confirmacao": "2024-11-09 17:14:39",
+      "data_hora_confirmacao_pagamento": "2024-11-09 17:14:39",
+      "valor_total_produtos": 93.97,
+      "valor_frete": 27.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.1,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33799": {
+      "codigo": "33799",
+      "titulo": "Regata Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33824": {
+      "codigo": "33824",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33830": {
+      "codigo": "33830",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

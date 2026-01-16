@@ -1,0 +1,45 @@
+{
+  "codigo": "5074",
+  "nome": "GREGORY KAUAN",
+  "email": "gregorykauan79@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/12/2023",
+  "whatsapp": "(19) 99114-6639",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "5936",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-28 14:58:30",
+      "data_hora_confirmacao": "2023-12-28 14:59:15",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 62.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.37Juliet": {
+      "codigo": "CD32.37Juliet",
+      "titulo": "Óculos  Juliet - Amarelo   LT20.10   - Cor da Armação: Prata c/Chumbo - Cor da Lente: Amarelo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

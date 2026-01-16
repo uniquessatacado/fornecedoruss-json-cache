@@ -1,0 +1,61 @@
+{
+  "codigo": "11571",
+  "nome": "JACKSON SILVA",
+  "email": "jackson250fla@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/06/2024",
+  "whatsapp": "(11) 95276-6775",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 173.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "14577",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 07:38:57",
+      "data_hora_confirmacao": "2024-06-27 10:34:01",
+      "data_hora_confirmacao_pagamento": "2024-06-27 10:33:53",
+      "valor_total_produtos": 156.97,
+      "valor_frete": 16.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 173.92,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19011": {
+      "codigo": "19011",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em camurça  - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "20075": {
+      "codigo": "20075",
+      "titulo": "Camiseta Genuina 40.1 LUXO - ARMANI arte em patch emborrachado  - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "20367": {
+      "codigo": "20367",
+      "titulo": "Blusa de Moletom 3 Cabos Canguru - VERSACE - Cor: CINZA - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

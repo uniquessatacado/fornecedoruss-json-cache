@@ -1,0 +1,61 @@
+{
+  "codigo": "1201",
+  "nome": "RAFAEL RIBEIRO",
+  "email": "rafaribeiro455@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "16/08/2023",
+  "whatsapp": "(19) 9977-45052",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300239",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 00:02:22",
+      "data_hora_confirmacao": "2023-09-20 06:23:20",
+      "data_hora_confirmacao_pagamento": "2023-09-20 06:23:31",
+      "valor_total_produtos": 109,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 109,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD13.3M": {
+      "codigo": "CD13.3M",
+      "titulo": "Camiseta standard Fit 1:1 - Nike  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD10.2M": {
+      "codigo": "CD10.2M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

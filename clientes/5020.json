@@ -1,0 +1,99 @@
+{
+  "codigo": "5020",
+  "nome": "FELIPE BARRETO",
+  "email": "paixao_barreto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(51) 99322-1982",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 155,
+  "pedidos": [
+    {
+      "codigo_pedido": "5699",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 11:02:00",
+      "data_hora_confirmacao": "2023-12-23 11:05:54",
+      "data_hora_confirmacao_pagamento": "2023-12-23 11:28:53",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5702",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 11:17:47",
+      "data_hora_confirmacao": "2023-12-23 11:19:24",
+      "data_hora_confirmacao_pagamento": "2023-12-23 11:28:17",
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5703",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 11:28:35",
+      "data_hora_confirmacao": "2023-12-23 11:29:34",
+      "data_hora_confirmacao_pagamento": "2023-12-23 11:37:08",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: GG - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.97": {
+      "codigo": "CD01.97",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -PSG   LT04.12  - Tamanho: P - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.42": {
+      "codigo": "CD16.42",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT31.10   - Tamanho: GG - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

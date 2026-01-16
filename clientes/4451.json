@@ -1,0 +1,45 @@
+{
+  "codigo": "4451",
+  "nome": "ANDRÉ GERMANO GOMES",
+  "email": "andregermano643@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/12/2023",
+  "whatsapp": "(19) 98207-8621",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "4036",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 16:09:19",
+      "data_hora_confirmacao": "2023-12-06 09:55:26",
+      "data_hora_confirmacao_pagamento": "2023-12-06 09:55:52",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 10.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.36,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.33": {
+      "codigo": "CD39.33",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

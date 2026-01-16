@@ -1,0 +1,104 @@
+{
+  "codigo": "522",
+  "nome": "EMERSON BRITO",
+  "email": "075981895769emersonbrito@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "22/03/2023",
+  "whatsapp": "(75) 98189-5769",
+  "cidade": "São José",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 102.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "23718",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-03 09:00:23",
+      "data_hora_confirmacao": "2024-11-07 14:41:01",
+      "data_hora_confirmacao_pagamento": "2024-11-07 14:40:49",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 15.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.87,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24672",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-19 10:38:50",
+      "data_hora_confirmacao": "2024-11-19 10:42:48",
+      "data_hora_confirmacao_pagamento": "2024-11-19 10:44:09",
+      "valor_total_produtos": 46.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 46.98,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23443": {
+      "codigo": "23443",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "30616": {
+      "codigo": "30616",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30641": {
+      "codigo": "30641",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32765": {
+      "codigo": "32765",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32812": {
+      "codigo": "32812",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33831": {
+      "codigo": "33831",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

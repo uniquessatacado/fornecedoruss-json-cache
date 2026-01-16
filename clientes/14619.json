@@ -1,0 +1,69 @@
+{
+  "codigo": "14619",
+  "nome": "DANIELA KUNTZE",
+  "email": "danielakuntze@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/08/2024",
+  "whatsapp": "(47) 99970-8182",
+  "cidade": "Balneário Camboriú",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 159.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "19598",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-25 22:12:20",
+      "data_hora_confirmacao": "2024-08-26 10:10:45",
+      "data_hora_confirmacao_pagamento": "2024-08-26 10:10:38",
+      "valor_total_produtos": 137.95,
+      "valor_frete": 21.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 159.68,
+      "desconto": 0,
+      "cidade": "Balneário Camboriú",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "25993": {
+      "codigo": "25993",
+      "titulo": "Chinelo Premium ADIDAS - COR CHINELO: PRETO - Marca: Adidas - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 36/37",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28511": {
+      "codigo": "28511",
+      "titulo": "Boné Super Premium - NEW ERA MVP 47 - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28516": {
+      "codigo": "28516",
+      "titulo": "Boné Super Premium - NEW ERA bordado - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    }
+  }
+}

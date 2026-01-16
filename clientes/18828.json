@@ -1,0 +1,77 @@
+{
+  "codigo": "18828",
+  "nome": "DANILO SOUZA",
+  "email": "danilorafaelufpe@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/01/2025",
+  "whatsapp": "(81) 97331-5618",
+  "cidade": "Igarassu",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "27418",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-06 00:43:04",
+      "data_hora_confirmacao": "2025-01-06 00:47:05",
+      "data_hora_confirmacao_pagamento": "2025-01-06 00:47:05",
+      "valor_total_produtos": 72.3,
+      "valor_frete": 25.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.91,
+      "desconto": 0,
+      "cidade": "Igarassu",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35205": {
+      "codigo": "35205",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37857": {
+      "codigo": "37857",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38037": {
+      "codigo": "38037",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38062": {
+      "codigo": "38062",
+      "titulo": "Cuecas Peruanas (C100) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38077": {
+      "codigo": "38077",
+      "titulo": "Cuecas Peruanas (C100) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

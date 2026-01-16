@@ -1,0 +1,99 @@
+{
+  "codigo": "11809",
+  "nome": "GEOVANE BERNARDO SANTOS",
+  "email": "geovanebernardo44@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(92) 99603-6873",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 226.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "14928",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 13:49:44",
+      "data_hora_confirmacao": "2024-07-03 09:18:54",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:18:48",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 13.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.22,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16724",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 13:21:56",
+      "data_hora_confirmacao": "2024-07-23 15:40:28",
+      "data_hora_confirmacao_pagamento": "2024-07-23 15:40:22",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.14,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18968",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-17 13:14:15",
+      "data_hora_confirmacao": "2024-08-17 13:57:29",
+      "data_hora_confirmacao_pagamento": "2024-08-17 13:57:50",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 11.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.47,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23187": {
+      "codigo": "23187",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "25170": {
+      "codigo": "25170",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA 24/25 (PRONTA ENTREGA) - Tamanho: G - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28008": {
+      "codigo": "28008",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

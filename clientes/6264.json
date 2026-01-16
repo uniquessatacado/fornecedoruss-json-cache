@@ -1,0 +1,115 @@
+{
+  "codigo": "6264",
+  "nome": "KELES FERNANDES NOGUEIRA DA SILVA",
+  "email": "fernandeskelesfernandes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/02/2024",
+  "whatsapp": "(11) 9418-02735",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 181.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "7365",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-20 20:19:36",
+      "data_hora_confirmacao": "2024-02-21 11:19:56",
+      "data_hora_confirmacao_pagamento": "2024-02-21 11:19:51",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 11.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.35,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7818",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 07:20:12",
+      "data_hora_confirmacao": "2024-03-01 10:41:24",
+      "data_hora_confirmacao_pagamento": "2024-03-01 10:40:59",
+      "valor_total_produtos": 94.97,
+      "valor_frete": 13.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.19,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7907",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-02 11:12:55",
+      "data_hora_confirmacao": "2024-03-02 11:15:15",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.101G": {
+      "codigo": "CD02.101G",
+      "titulo": "Camiseta 40.1 Ultra Premium - JORDAN - NIKE - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.3GG": {
+      "codigo": "CD15.3GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Bruberry - Cor: OffWhite - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD02.100G": {
+      "codigo": "CD02.100G",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Azul - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.110GG": {
+      "codigo": "CD02.110GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.114GG": {
+      "codigo": "CD02.114GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

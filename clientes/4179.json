@@ -1,0 +1,96 @@
+{
+  "codigo": "4179",
+  "nome": "DANIELE ALVES FARIA",
+  "email": "dannialvesfaria@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/11/2023",
+  "whatsapp": "(14) 99743-8917",
+  "cidade": "Pederneiras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 327.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "3447",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-22 14:06:06",
+      "data_hora_confirmacao": "2023-11-23 09:42:43",
+      "data_hora_confirmacao_pagamento": "2023-11-23 09:42:52",
+      "valor_total_produtos": 185.8,
+      "valor_frete": 20.3,
+      "frete": "SEDEX",
+      "valor_total_pedido": 206.1,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3744",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-28 13:38:34",
+      "data_hora_confirmacao": "2023-11-28 16:46:44",
+      "data_hora_confirmacao_pagamento": "2023-11-28 16:46:55",
+      "valor_total_produtos": 105.4,
+      "valor_frete": 15.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.28,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 55,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD60.4": {
+      "codigo": "CD60.4",
+      "titulo": "Óculos  Double X - DOURADO 24K    LT17.11  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD62.2": {
+      "codigo": "CD62.2",
+      "titulo": "Óculos  Romeu 2 - AZUL MARINHO   LT18.11  - Cor da Armação: Chumbo - Cor da Lente: Azul Marinho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra Rajada Gramatura 150g  - NIKE   LT25.11  - Cor: Cinza Escuro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

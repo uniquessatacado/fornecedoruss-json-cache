@@ -1,0 +1,69 @@
+{
+  "codigo": "9023",
+  "nome": "BRUNO TAVARES",
+  "email": "tavarxz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(11) 94909-0378",
+  "cidade": "Mauá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 228.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "12407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-22 21:53:30",
+      "data_hora_confirmacao": "2024-05-22 21:53:30",
+      "data_hora_confirmacao_pagamento": "2024-05-23 12:22:50",
+      "valor_total_produtos": 211.97,
+      "valor_frete": 16.45,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 228.42,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17622": {
+      "codigo": "17622",
+      "titulo": "MOLETOM 3 CABOS  GOLA CARECA HUGO BOSSO - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "17784": {
+      "codigo": "17784",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.57": {
+      "codigo": "CD16.57",
+      "titulo": "Camisetas de Time Tailandesas - BOTAFOGO  LT06.11  - Tamanho: M - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

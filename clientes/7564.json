@@ -1,0 +1,107 @@
+{
+  "codigo": "7564",
+  "nome": "GUSTAVO OLIVEIRA",
+  "email": "gustavogatos14@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(55) 99683-4721",
+  "cidade": "Tupanciretã",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 206.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "9440",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 14:12:16",
+      "data_hora_confirmacao": "2024-04-04 14:43:35",
+      "data_hora_confirmacao_pagamento": "2024-04-04 14:43:30",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 17.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.85,
+      "desconto": 0,
+      "cidade": "Tupanciretã",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11054",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-30 15:35:21",
+      "data_hora_confirmacao": "2024-04-30 21:57:24",
+      "data_hora_confirmacao_pagamento": "2024-04-30 21:55:17",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 18.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.11,
+      "desconto": 0,
+      "cidade": "Tupanciretã",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13868",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-17 08:36:18",
+      "data_hora_confirmacao": "2024-06-17 11:49:41",
+      "data_hora_confirmacao_pagamento": "2024-06-17 11:49:35",
+      "valor_total_produtos": 76.98,
+      "valor_frete": 21.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 98.1,
+      "desconto": 0,
+      "cidade": "Tupanciretã",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20211": {
+      "codigo": "20211",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ACOSTAMENTO - Cor: KIT Preto-Vermelho-Branco - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    },
+    "21516": {
+      "codigo": "21516",
+      "titulo": "Camisetas Suedine Ultra - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11GG": {
+      "codigo": "CD39.11GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.7GG": {
+      "codigo": "CD15.7GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: OFFWHITE - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "codigo": "2832",
+  "nome": "SAULO SOUZA BARBOSA",
+  "email": "saulofederal.cg@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(83) 9363-1488",
+  "cidade": "Campina Grande",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 803.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301412",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 17:46:57",
+      "data_hora_confirmacao": "2023-10-06 18:03:24",
+      "data_hora_confirmacao_pagamento": "2023-10-06 18:03:33",
+      "valor_total_produtos": 450,
+      "valor_frete": 43.7,
+      "frete": "PAC",
+      "valor_total_pedido": 493.7,
+      "desconto": 0,
+      "cidade": "Campina Grande",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3253",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 11:03:00",
+      "data_hora_confirmacao": "2023-11-17 11:17:08",
+      "data_hora_confirmacao_pagamento": "2023-11-17 11:17:19",
+      "valor_total_produtos": 188.99,
+      "valor_frete": 18.6,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 207.59,
+      "desconto": 0,
+      "cidade": "Campina Grande",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3276",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 13:45:03",
+      "data_hora_confirmacao": "2023-11-17 17:04:17",
+      "data_hora_confirmacao_pagamento": "2023-11-17 17:12:30",
+      "valor_total_produtos": 85,
+      "valor_frete": 17,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 102,
+      "desconto": 0,
+      "cidade": "Campina Grande",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.55GG": {
+      "codigo": "CD01.55GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "CD01.55M": {
+      "codigo": "CD01.55M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "CD01.55G": {
+      "codigo": "CD01.55G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: G - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "4"
+    },
+    "CD01.46G Al-hilal": {
+      "codigo": "CD01.46G Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43M": {
+      "codigo": "CD01.43M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD44.1": {
+      "codigo": "CD44.1",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - INTER MIAMI - Tamanho: M - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Times Infantil",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD48": {
+      "codigo": "CD48",
+      "titulo": "PRATA ESCAMA 2MM   70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "PRATAS",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Preto - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 5
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

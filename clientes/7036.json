@@ -1,0 +1,69 @@
+{
+  "codigo": "7036",
+  "nome": "MOACIR ALVES DA SILVA JUNIOR",
+  "email": "moacirwestnk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/03/2024",
+  "whatsapp": "(13) 99689-8852",
+  "cidade": "Pedro de Toledo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 223.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "8642",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-18 19:14:42",
+      "data_hora_confirmacao": "2024-03-19 12:23:15",
+      "data_hora_confirmacao_pagamento": "2024-03-19 12:23:10",
+      "valor_total_produtos": 200.76,
+      "valor_frete": 22.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 223.56,
+      "desconto": 0,
+      "cidade": "Jaraguá do Sul",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.121G": {
+      "codigo": "CD02.121G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  C - Cor: Verde Militar - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.127G": {
+      "codigo": "CD02.127G",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Bege - Marca: MCD - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": 2
+    },
+    "CD02.123G": {
+      "codigo": "CD02.123G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.04G": {
+      "codigo": "CD39.04G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

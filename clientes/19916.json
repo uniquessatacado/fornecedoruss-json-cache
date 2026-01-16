@@ -1,0 +1,61 @@
+{
+  "codigo": "19916",
+  "nome": "JULIANO DE CONTO",
+  "email": "juliano_conto@whirlpool.com",
+  "sexo": "0",
+  "data_cadastro": "15/05/2025",
+  "whatsapp": "(19) 99315-5900",
+  "cidade": "Rio Claro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 45.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "29785",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-15 16:07:09",
+      "data_hora_confirmacao": "2025-05-15 16:17:38",
+      "data_hora_confirmacao_pagamento": "2025-05-15 16:17:38",
+      "valor_total_produtos": 33.36,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 45.57,
+      "desconto": 0,
+      "cidade": "Rio Claro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "48202": {
+      "codigo": "48202",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN LT56A (C975) - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "48250": {
+      "codigo": "48250",
+      "titulo": "Cuecas Peruanas - Boss LT56A (C983) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48262": {
+      "codigo": "48262",
+      "titulo": "Cuecas Peruanas - Boss LT56A (C985) - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

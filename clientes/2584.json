@@ -1,0 +1,80 @@
+{
+  "codigo": "2584",
+  "nome": "VINICIUS POLIDO",
+  "email": "viniciuspedrosopolido@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(11) 91723-6096",
+  "cidade": "Cajamar",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 93.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300449",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 12:03:53",
+      "data_hora_confirmacao": "2023-09-22 14:50:47",
+      "data_hora_confirmacao_pagamento": "2023-09-22 14:51:01",
+      "valor_total_produtos": 60.5,
+      "valor_frete": 13.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.94,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300743",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 10:55:02",
+      "data_hora_confirmacao": "2023-09-26 10:58:18",
+      "data_hora_confirmacao_pagamento": "2023-09-26 10:58:26",
+      "valor_total_produtos": 20,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 20,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.19GG - Calvin Klein": {
+      "codigo": "CD24.19GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD02.20GG": {
+      "codigo": "CD02.20GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Azul - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

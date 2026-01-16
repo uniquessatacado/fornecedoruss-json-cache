@@ -1,0 +1,528 @@
+{
+  "codigo": "8031",
+  "nome": "ALEXANDRO RAMOS DA SILVA",
+  "email": "alexandroramos174@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/04/2024",
+  "whatsapp": "(69) 99316-5397",
+  "cidade": "Cacoal",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 10,
+  "valor_total_comprado": 2505.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "10016",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 20:39:29",
+      "data_hora_confirmacao": "2024-04-16 17:14:46",
+      "data_hora_confirmacao_pagamento": "2024-04-15 11:19:17",
+      "valor_total_produtos": 101.93,
+      "valor_frete": 26.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.42,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10100",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-16 11:49:21",
+      "data_hora_confirmacao": "2024-04-16 11:49:21",
+      "data_hora_confirmacao_pagamento": "2024-04-16 12:04:17",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 9.99,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11916",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-16 00:46:45",
+      "data_hora_confirmacao": "2024-05-16 18:34:13",
+      "data_hora_confirmacao_pagamento": "2024-05-16 18:34:05",
+      "valor_total_produtos": 284.95,
+      "valor_frete": 49.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 334.07,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12099",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 16:31:27",
+      "data_hora_confirmacao": "2024-05-20 16:31:27",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 28.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 28.99,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16193",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-16 23:54:39",
+      "data_hora_confirmacao": "2024-07-17 18:58:55",
+      "data_hora_confirmacao_pagamento": "2024-07-17 18:58:46",
+      "valor_total_produtos": 117.98,
+      "valor_frete": 36.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.81,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17094",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-26 14:44:50",
+      "data_hora_confirmacao": "2024-07-27 12:49:41",
+      "data_hora_confirmacao_pagamento": "2024-07-27 12:46:00",
+      "valor_total_produtos": 278.97,
+      "valor_frete": 38.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 317.58,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17313",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-30 01:34:26",
+      "data_hora_confirmacao": "2024-07-31 18:57:49",
+      "data_hora_confirmacao_pagamento": "2024-07-31 18:57:42",
+      "valor_total_produtos": 429.9,
+      "valor_frete": 56.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 486.42,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18146",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-08 20:21:57",
+      "data_hora_confirmacao": "2024-08-13 11:42:07",
+      "data_hora_confirmacao_pagamento": "2024-08-13 11:41:57",
+      "valor_total_produtos": 175.96,
+      "valor_frete": 34.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 210.71,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25629",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 00:36:38",
+      "data_hora_confirmacao": "2024-12-04 00:38:24",
+      "data_hora_confirmacao_pagamento": "2024-12-04 00:38:24",
+      "valor_total_produtos": 271.97,
+      "valor_frete": 54.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 326.92,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29237",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-14 12:54:52",
+      "data_hora_confirmacao": "2025-04-14 12:58:59",
+      "data_hora_confirmacao_pagamento": "2025-04-14 12:58:59",
+      "valor_total_produtos": 429.44,
+      "valor_frete": 78.31,
+      "frete": "LOGGI",
+      "valor_total_pedido": 507.75,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17987": {
+      "codigo": "17987",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "18521": {
+      "codigo": "18521",
+      "titulo": "Camiseta 40.1 Ultra Premium - Vans - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "18532": {
+      "codigo": "18532",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "18537": {
+      "codigo": "18537",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Vans - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "18544": {
+      "codigo": "18544",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Puma - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21190": {
+      "codigo": "21190",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR REAL MADRID - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22983": {
+      "codigo": "22983",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "22985": {
+      "codigo": "22985",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "24181": {
+      "codigo": "24181",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24421": {
+      "codigo": "24421",
+      "titulo": "Sapatenis - Polo Ralph Lauren  - Cor: BEGE - Tamanho: 39 - Serve 38 e 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Sapatênis ",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "24509": {
+      "codigo": "24509",
+      "titulo": "Sapatenis - LACOSTE - Cor: PRETA - Tamanho: 39 - Serve 38 e 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Sapatênis ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "24957": {
+      "codigo": "24957",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR OLYPIQUE LYONNAIS - (envio direto da fabrica)  - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25386": {
+      "codigo": "25386",
+      "titulo": "Cuecas Peruanas - DOLCE & GABBANA  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "25392": {
+      "codigo": "25392",
+      "titulo": "Cuecas Peruanas - DOLCE & GABBANA  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "25460": {
+      "codigo": "25460",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25618": {
+      "codigo": "25618",
+      "titulo": "Calça Jeans Luxo Importada - ARMANI - Cor: JEANS - Tamanho: 40",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "25645": {
+      "codigo": "25645",
+      "titulo": "Calça Jeans Luxo Importada - DIESEL - Cor: PRETA - Tamanho: 40",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25651": {
+      "codigo": "25651",
+      "titulo": "Calça Jeans Luxo Importada - CALVIN KLEIN - Cor: JEANS - Tamanho: 40",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "26770": {
+      "codigo": "26770",
+      "titulo": "Camiseta Algodão Stretch Americano - LOUIS VUITTON arte em bordado carmuça - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "26777": {
+      "codigo": "26777",
+      "titulo": "Camiseta Algodão Stretch Americano - BURBERRY arte em bordado carmuça - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "26787": {
+      "codigo": "26787",
+      "titulo": "Camiseta Algodão Stretch Americano - GUCCI arte em bordado carmuça - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "26832": {
+      "codigo": "26832",
+      "titulo": "Camiseta Algodão Stretch Americano - HUGO BOSS arte em bordado  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36108": {
+      "codigo": "36108",
+      "titulo": "Tênis Air Travis Scott - - Cor: OFFWHITE - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36120": {
+      "codigo": "36120",
+      "titulo": "Tênis Air Travis Scott  - Cor: MARROM ESCURO - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36147": {
+      "codigo": "36147",
+      "titulo": "Tênis Air force 1 React - Cor: BRANCA - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46006": {
+      "codigo": "46006",
+      "titulo": "Cueca Peruana LT36A (C777) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "46267": {
+      "codigo": "46267",
+      "titulo": "Bermuda Microfibra Ultra LT38A (C812) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "46383": {
+      "codigo": "46383",
+      "titulo": "Bermuda Microfibra Ultra NIKE LT40A (C818) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46401": {
+      "codigo": "46401",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS LT40A (C819) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "46466": {
+      "codigo": "46466",
+      "titulo": "Cueca Tommy Hilfiger Premium Peruana - Linha Classic White LT40A (C823) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "46472": {
+      "codigo": "46472",
+      "titulo": "Cueca Tommy Hilfiger Premium Peruana - Linha Eclipse Black LT40A (C823) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "46532": {
+      "codigo": "46532",
+      "titulo": "Cueca Abercrombie Premium Peruana - Linha Urban Grey LT40A (C825) - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE",
+      "quantidade": "1"
+    },
+    "46660": {
+      "codigo": "46660",
+      "titulo": "Tênis Nike Air Force 1 Off-White Inspirado - Solado Alto e Cadarço Premium - Cor: OFFWHITE - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46720": {
+      "codigo": "46720",
+      "titulo": "Tênis Estilo Air Jordan 1 Low Fragment x Travis Scott - Azul Royal com Swoosh Invertido - Cor: AZUL - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46732": {
+      "codigo": "46732",
+      "titulo": "Tênis Estilo Air Jordan 1 Low Travis Scott Chicago - Swoosh Invertido Vermelho - Cor: VERMELHA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 8
+    },
+    "PRF01": {
+      "codigo": "PRF01",
+      "titulo": "PULSEIRA FEMININA    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "SW1.2": {
+      "codigo": "SW1.2",
+      "titulo": "Relogio SmartWatch  S9 PRO - Cor: LARANJA ESCURO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "INATIVA SMARTWHATCH 1 PULSEIRA",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    }
+  }
+}

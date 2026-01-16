@@ -1,0 +1,88 @@
+{
+  "codigo": "8063",
+  "nome": "DANIELE SILVA DE SOUZA",
+  "email": "danieleoak@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "14/04/2024",
+  "whatsapp": "(21) 98388-8916",
+  "cidade": "Embu das Artes",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 199.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "10057",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-14 21:53:44",
+      "data_hora_confirmacao": "2024-04-15 11:41:28",
+      "data_hora_confirmacao_pagamento": "2024-04-15 11:41:24",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 12.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 74.8,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10990",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 20:48:56",
+      "data_hora_confirmacao": "2024-04-30 21:22:58",
+      "data_hora_confirmacao_pagamento": "2024-04-30 21:22:50",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 14.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.71,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17829": {
+      "codigo": "17829",
+      "titulo": "Chinelo Kenner Rakka Ultra Force vietnã   - COR CHINELO: PRETO/LARANJA/BRANCO - MODELO CHINELO: KENNER ULTRA FORCE - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17837": {
+      "codigo": "17837",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD02.144G": {
+      "codigo": "CD02.144G",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: BRANCA - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.145G": {
+      "codigo": "CD02.145G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  - Cor: VERMELHA - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    }
+  }
+}

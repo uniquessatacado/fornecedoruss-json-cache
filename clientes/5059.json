@@ -1,0 +1,72 @@
+{
+  "codigo": "5059",
+  "nome": "JOÃO FELIPE PEREIRA DOS SANTOS",
+  "email": "Joaofelps05@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/12/2023",
+  "whatsapp": "(19) 99210-7918",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 69.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "5855",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-26 12:59:00",
+      "data_hora_confirmacao": "2023-12-26 17:48:04",
+      "data_hora_confirmacao_pagamento": "2023-12-26 17:48:12",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5902",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-27 15:10:43",
+      "data_hora_confirmacao": "2023-12-27 15:10:43",
+      "data_hora_confirmacao_pagamento": "2023-12-28 16:04:56",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.57": {
+      "codigo": "CD17.57",
+      "titulo": "Bermuda Microfibra Ultra - NIKE    - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.56": {
+      "codigo": "CD17.56",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

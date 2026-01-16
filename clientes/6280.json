@@ -1,0 +1,61 @@
+{
+  "codigo": "6280",
+  "nome": "JUAN PABLO LOBO PINHEIRO",
+  "email": "juan.m.agrelu@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(12) 93500-0297",
+  "cidade": "Cruzeiro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "7395",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 01:11:58",
+      "data_hora_confirmacao": "2024-02-21 09:45:07",
+      "data_hora_confirmacao_pagamento": "2024-02-21 09:45:00",
+      "valor_total_produtos": 75,
+      "valor_frete": 13.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.41,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.86": {
+      "codigo": "CD01.86",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11   - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.72": {
+      "codigo": "CD01.72",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  LT27.10  - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

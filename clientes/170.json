@@ -1,0 +1,184 @@
+{
+  "codigo": "170",
+  "nome": "ED CARLOS RODRIGUES",
+  "email": "ed.c.1234.ecbr@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(74) 98147-4851",
+  "cidade": "Senhor do Bonfim",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 700.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "3654",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 14:53:40",
+      "data_hora_confirmacao": "2023-11-27 11:50:26",
+      "data_hora_confirmacao_pagamento": "2023-11-27 11:50:35",
+      "valor_total_produtos": 168.5,
+      "valor_frete": 28.24,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 196.74,
+      "desconto": 0,
+      "cidade": "Senhor do Bonfim",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27847",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-27 23:26:20",
+      "data_hora_confirmacao": "2025-01-27 23:29:19",
+      "data_hora_confirmacao_pagamento": "2025-01-27 23:29:19",
+      "valor_total_produtos": 458.4,
+      "valor_frete": 45.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 503.47,
+      "desconto": 0,
+      "cidade": "Senhor do Bonfim",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35951": {
+      "codigo": "35951",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37819": {
+      "codigo": "37819",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA  (C63) - Cor: PRETO MARINHO VERDE  - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "COLCCI",
+      "quantidade": "1"
+    },
+    "39675": {
+      "codigo": "39675",
+      "titulo": "CAMISETA TECIDO  ELASFIT (C112) LT6A - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39678": {
+      "codigo": "39678",
+      "titulo": "CAMISETA TECIDO  ELASFIT (C112) LT6A - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39903": {
+      "codigo": "39903",
+      "titulo": "Camiseta Suedine ultra -(C218) ARTE EM DTF LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40307": {
+      "codigo": "40307",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40510": {
+      "codigo": "40510",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40517": {
+      "codigo": "40517",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40888": {
+      "codigo": "40888",
+      "titulo": "Bermuda Microfibra Ultra (C249)   - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40896": {
+      "codigo": "40896",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40902": {
+      "codigo": "40902",
+      "titulo": "Bermuda Microfibra Ultra (C252)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40937": {
+      "codigo": "40937",
+      "titulo": "Bermuda Microfibra Ultra (C251) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra Rajada Gramatura 150g  - NIKE   LT25.11  - Cor: Verde - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.43": {
+      "codigo": "CD24.43",
+      "titulo": "Cuecas Peruanas - Tommy Hilfiger LT25.11  - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 5
+    },
+    "CD13.1M": {
+      "codigo": "CD13.1M",
+      "titulo": "Camiseta standard Fit 1:1 - Nike - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

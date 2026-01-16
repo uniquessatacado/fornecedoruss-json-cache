@@ -1,0 +1,115 @@
+{
+  "codigo": "10161",
+  "nome": "GUILHERME FELIPE CAMPOS",
+  "email": "gui_fc@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(21) 98085-6210",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 482.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "12878",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-31 10:14:21",
+      "data_hora_confirmacao": "2024-05-31 10:42:50",
+      "data_hora_confirmacao_pagamento": "2024-05-31 10:42:38",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 16.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 107.41,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13955",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-18 14:49:12",
+      "data_hora_confirmacao": "2024-06-18 18:15:02",
+      "data_hora_confirmacao_pagamento": "2024-06-18 18:14:54",
+      "valor_total_produtos": 239.98,
+      "valor_frete": 19.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 259.21,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27434",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-06 22:21:33",
+      "data_hora_confirmacao": "2025-01-06 22:22:49",
+      "data_hora_confirmacao_pagamento": "2025-01-06 22:22:49",
+      "valor_total_produtos": 99.99,
+      "valor_frete": 15.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.71,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18654": {
+      "codigo": "18654",
+      "titulo": "Camiseta Suedine Nike Arte em Bordada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21797": {
+      "codigo": "21797",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: BEGE - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21805": {
+      "codigo": "21805",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: PRETA - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "31008": {
+      "codigo": "31008",
+      "titulo": "Calça Jeans Luxo Importada - TOMMY HILFIGER  - Cor: CINZA - Tamanho: 38",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.06M": {
+      "codigo": "CD50.06M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL BASICA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

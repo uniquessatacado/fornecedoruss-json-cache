@@ -1,0 +1,96 @@
+{
+  "codigo": "13401",
+  "nome": "MARIA EDUARDA DO NASCIMENTO SANTOS",
+  "email": "dudarolmes123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/07/2024",
+  "whatsapp": "(81) 98120-7060",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 173.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "17782",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-03 12:30:03",
+      "data_hora_confirmacao": "2024-08-05 10:52:17",
+      "data_hora_confirmacao_pagamento": "2024-08-05 10:52:10",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 14.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.2,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23421",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-28 12:54:02",
+      "data_hora_confirmacao": "2024-10-28 13:34:53",
+      "data_hora_confirmacao_pagamento": "2024-10-28 13:34:44",
+      "valor_total_produtos": 96.96,
+      "valor_frete": 17.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.91,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26228": {
+      "codigo": "26228",
+      "titulo": "Camiseta Egípcia Luxo - ARMANI  - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "28381": {
+      "codigo": "28381",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29752": {
+      "codigo": "29752",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31842": {
+      "codigo": "31842",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32343": {
+      "codigo": "32343",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

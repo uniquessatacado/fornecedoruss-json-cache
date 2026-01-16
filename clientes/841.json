@@ -1,0 +1,61 @@
+{
+  "codigo": "841",
+  "nome": "FELIPE AMARAL DA SILVA",
+  "email": "amaraldasilvafelipe@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(47) 99242-8142",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "2436",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-30 01:01:47",
+      "data_hora_confirmacao": "2023-10-31 13:50:33",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:50:42",
+      "valor_total_produtos": 85,
+      "valor_frete": 30.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 115.1,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD44.1": {
+      "codigo": "CD44.1",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - INTER MIAMI - Tamanho: M - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Times Infantil",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD44.2": {
+      "codigo": "CD44.2",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - AL HILAL  LT26.10 - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Times Infantil",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD01.60GG": {
+      "codigo": "CD01.60GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

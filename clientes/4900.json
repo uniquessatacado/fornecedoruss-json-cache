@@ -1,0 +1,72 @@
+{
+  "codigo": "4900",
+  "nome": "VICTOR FERNANDES",
+  "email": "fernandes_victor4@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(19) 98979-1057",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 61.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "5357",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 17:56:05",
+      "data_hora_confirmacao": "2023-12-20 18:00:08",
+      "data_hora_confirmacao_pagamento": "2023-12-21 15:09:07",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5363",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 18:35:02",
+      "data_hora_confirmacao": "2023-12-20 18:35:02",
+      "data_hora_confirmacao_pagamento": "2023-12-20 18:37:52",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.72": {
+      "codigo": "CD02.72",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Marrom - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "5911",
+  "nome": "MARCUS DENIS DE OLIVEIRA CUNHA",
+  "email": "marcusoliver81@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/01/2024",
+  "whatsapp": "(95) 9915-80014",
+  "cidade": "Boa Vista",
+  "estado": "RR",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 187.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "7010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-30 16:53:35",
+      "data_hora_confirmacao": "2024-01-30 17:04:02",
+      "data_hora_confirmacao_pagamento": "2024-01-30 17:04:15",
+      "valor_total_produtos": 124.97,
+      "valor_frete": 62.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 187.92,
+      "desconto": 0,
+      "cidade": "Boa Vista",
+      "estado": "RR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.20": {
+      "codigo": "CD40.20",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  OAKLEY - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.91": {
+      "codigo": "CD02.91",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Vermelha - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD27.11": {
+      "codigo": "CD27.11",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10  - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

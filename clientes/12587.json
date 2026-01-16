@@ -1,0 +1,61 @@
+{
+  "codigo": "12587",
+  "nome": "WELLINGTON ELIAS DOS SANTOS",
+  "email": "ws2940420@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/07/2024",
+  "whatsapp": "(11) 9985-52630",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "16277",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 18:20:57",
+      "data_hora_confirmacao": "2024-07-18 09:32:36",
+      "data_hora_confirmacao_pagamento": "2024-07-18 09:32:28",
+      "valor_total_produtos": 76.97,
+      "valor_frete": 13.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.46,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24121": {
+      "codigo": "24121",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24872": {
+      "codigo": "24872",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24875": {
+      "codigo": "24875",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

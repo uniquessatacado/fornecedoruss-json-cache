@@ -1,0 +1,53 @@
+{
+  "codigo": "16062",
+  "nome": "LUZIMAR JOSÉ RODRIGUES",
+  "email": "cfleletrico2@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "27/09/2024",
+  "whatsapp": "(62) 99904-0333",
+  "cidade": "Nova Crixás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "21910",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-27 20:00:01",
+      "data_hora_confirmacao": "2024-09-28 13:48:57",
+      "data_hora_confirmacao_pagamento": "2024-09-28 13:48:51",
+      "valor_total_produtos": 89.98,
+      "valor_frete": 33.78,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 123.76,
+      "desconto": 0,
+      "cidade": "Nova Crixás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31383": {
+      "codigo": "31383",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31535": {
+      "codigo": "31535",
+      "titulo": "Chinelo Kenner Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    }
+  }
+}

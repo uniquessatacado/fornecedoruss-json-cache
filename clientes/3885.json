@@ -1,0 +1,115 @@
+{
+  "codigo": "3885",
+  "nome": "CLEDEILSON SOUZA",
+  "email": "cledeilson.souza@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "06/11/2023",
+  "whatsapp": "(63) 9993-53639",
+  "cidade": "Palmas",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 503.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "2675",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 16:53:02",
+      "data_hora_confirmacao": "2023-11-06 16:55:00",
+      "data_hora_confirmacao_pagamento": "2023-11-06 16:55:20",
+      "valor_total_produtos": 95,
+      "valor_frete": 19.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.37,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 13:16:08",
+      "data_hora_confirmacao": "2023-12-06 13:31:20",
+      "data_hora_confirmacao_pagamento": "2023-12-06 13:31:30",
+      "valor_total_produtos": 180,
+      "valor_frete": 20.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 200.23,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30845",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-07-21 16:45:19",
+      "data_hora_confirmacao": "2025-07-21 16:46:18",
+      "data_hora_confirmacao_pagamento": "2025-07-21 16:46:18",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 188.91,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51031": {
+      "codigo": "51031",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FLAMENGO 25/26 - Tamanho: G2 - Times : Flamengo - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.4GG": {
+      "codigo": "CD01.4GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: GG - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD56.1": {
+      "codigo": "CD56.1",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - PALMEIRAS  LT14 - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD56.2": {
+      "codigo": "CD56.2",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - PALMEIRAS  LT14.11 - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "PUMA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "4003",
+  "nome": "IAGO BERNARDES DE MOURA",
+  "email": "dusbvzinho@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(21) 96882-3227",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "3022",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 14:14:05",
+      "data_hora_confirmacao": "2023-11-10 14:19:26",
+      "data_hora_confirmacao_pagamento": "2023-11-10 14:19:39",
+      "valor_total_produtos": 60,
+      "valor_frete": 14.33,
+      "frete": "JADLOG",
+      "valor_total_pedido": 74.33,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4082",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 11:38:20",
+      "data_hora_confirmacao": "2023-12-06 11:42:42",
+      "data_hora_confirmacao_pagamento": "2023-12-06 11:42:51",
+      "valor_total_produtos": 130,
+      "valor_frete": 17.42,
+      "frete": "JADLOG",
+      "valor_total_pedido": 147.42,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD44.2": {
+      "codigo": "CD44.2",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - AL HILAL  LT26.10 - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Times Infantil",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD44.1": {
+      "codigo": "CD44.1",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - INTER MIAMI - Tamanho: G - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Times Infantil",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD16.54": {
+      "codigo": "CD16.54",
+      "titulo": "Camisetas de Time Tailandesas - VASCO   LT06.11 - Tamanho: P - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

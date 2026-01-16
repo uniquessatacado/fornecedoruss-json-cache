@@ -1,0 +1,120 @@
+{
+  "codigo": "3619",
+  "nome": "NATHAN DE OLIVEIRA SANTOS",
+  "email": "nathan_mafuh@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(19) 99738-1235",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 191.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301995",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-19 17:24:23",
+      "data_hora_confirmacao": "2023-10-19 17:27:21",
+      "data_hora_confirmacao_pagamento": "2023-10-19 17:29:50",
+      "valor_total_produtos": 88.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 88.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301998",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-19 17:40:44",
+      "data_hora_confirmacao": "2023-10-19 17:43:02",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 103,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 103,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.3G": {
+      "codigo": "CD29.3G",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Cinza Claro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Vinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.25G - Nike": {
+      "codigo": "CD24.25G - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.2G": {
+      "codigo": "CD40.2G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10  - Cor: Branco com Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.1G": {
+      "codigo": "CD40.1G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.8G": {
+      "codigo": "CD41.8G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT19.10   (Clone) - Cor: Preto com Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

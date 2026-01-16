@@ -1,0 +1,53 @@
+{
+  "codigo": "17064",
+  "nome": "CARLOS ROBERTO SILVA",
+  "email": "carlos11silva@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "31/10/2024",
+  "whatsapp": "(48) 9962-30190",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 128.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "23628",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 11:52:07",
+      "data_hora_confirmacao": "2024-11-01 13:15:26",
+      "data_hora_confirmacao_pagamento": "2024-11-01 13:15:20",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 18.1,
+      "frete": "JADLOG",
+      "valor_total_pedido": 128.08,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33245": {
+      "codigo": "33245",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33257": {
+      "codigo": "33257",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

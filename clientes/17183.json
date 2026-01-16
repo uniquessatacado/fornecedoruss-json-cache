@@ -1,0 +1,61 @@
+{
+  "codigo": "17183",
+  "nome": "RONALDO SANTOS RIBEIRO",
+  "email": "rndoribeiro6@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/11/2024",
+  "whatsapp": "(11) 97659-4034",
+  "cidade": "Santana de Parnaíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 168.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "23781",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 19:35:17",
+      "data_hora_confirmacao": "2024-11-05 19:37:27",
+      "data_hora_confirmacao_pagamento": "2024-11-05 19:37:27",
+      "valor_total_produtos": 151.97,
+      "valor_frete": 16.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 168.76,
+      "desconto": 0,
+      "cidade": "Santana de Parnaíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30597": {
+      "codigo": "30597",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "31035": {
+      "codigo": "31035",
+      "titulo": "Calça Jeans Luxo Importada - DIESEL - Cor: JEANS - Tamanho: 40",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "33379": {
+      "codigo": "33379",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte BORDADO - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

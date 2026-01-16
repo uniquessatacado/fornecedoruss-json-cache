@@ -1,0 +1,45 @@
+{
+  "codigo": "2383",
+  "nome": "EDSON JUNIOR GOMES DA SILVA",
+  "email": "edsonjuniorgomes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(28) 99948-3088",
+  "cidade": "Cachoeiro de Itapemirim",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300253",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-20 09:56:18",
+      "data_hora_confirmacao": "2023-09-20 12:53:13",
+      "data_hora_confirmacao_pagamento": "2023-09-26 12:24:31",
+      "valor_total_produtos": 30,
+      "valor_frete": 22.9,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 52.9,
+      "desconto": 0,
+      "cidade": "Cachoeiro de Itapemirim",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.19GG": {
+      "codigo": "CD01.19GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

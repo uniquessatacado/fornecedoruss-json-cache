@@ -1,0 +1,77 @@
+{
+  "codigo": "15603",
+  "nome": "FERNANDO SOUZA SILVA",
+  "email": "feer_souzaa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/09/2024",
+  "whatsapp": "(15) 9984-14568",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 147.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "21127",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-14 14:23:15",
+      "data_hora_confirmacao": "2024-09-16 17:31:51",
+      "data_hora_confirmacao_pagamento": "2024-09-16 17:31:44",
+      "valor_total_produtos": 131.95,
+      "valor_frete": 16.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 147.96,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22916": {
+      "codigo": "22916",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO LONGO - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29717": {
+      "codigo": "29717",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29736": {
+      "codigo": "29736",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30319": {
+      "codigo": "30319",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

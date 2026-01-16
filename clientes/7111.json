@@ -1,0 +1,45 @@
+{
+  "codigo": "7111",
+  "nome": "WESLEY SILVA SOUZA",
+  "email": "wesley.silvas@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/03/2024",
+  "whatsapp": "(11) 97404-7734",
+  "cidade": "Mauá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "8790",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-21 10:32:40",
+      "data_hora_confirmacao": "2024-03-22 09:42:41",
+      "data_hora_confirmacao_pagamento": "2024-03-22 09:42:30",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 11.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.1,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.12G": {
+      "codigo": "CD24.12G",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    }
+  }
+}

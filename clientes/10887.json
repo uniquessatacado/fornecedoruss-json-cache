@@ -1,0 +1,77 @@
+{
+  "codigo": "10887",
+  "nome": "MAURICIO ANDRADE",
+  "email": "mauricioandrade.pg@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(13) 9740-62038",
+  "cidade": "Praia Grande",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 165.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "13654",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 13:31:41",
+      "data_hora_confirmacao": "2024-06-15 19:29:33",
+      "data_hora_confirmacao_pagamento": "2024-06-15 19:29:27",
+      "valor_total_produtos": 149.35,
+      "valor_frete": 16.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 165.59,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21608": {
+      "codigo": "21608",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21611": {
+      "codigo": "21611",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21615": {
+      "codigo": "21615",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21636": {
+      "codigo": "21636",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21640": {
+      "codigo": "21640",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

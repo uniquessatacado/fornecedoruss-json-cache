@@ -1,0 +1,45 @@
+{
+  "codigo": "4622",
+  "nome": "RODRIGO PESSOA RODRIGUES",
+  "email": "rodrigoart7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(11) 98733-3192",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 43.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "4381",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 10:32:20",
+      "data_hora_confirmacao": "2023-12-11 10:33:44",
+      "data_hora_confirmacao_pagamento": "2023-12-11 10:34:11",
+      "valor_total_produtos": 34,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Cinza - Marca: Versace - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 4
+    }
+  }
+}

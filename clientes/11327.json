@@ -1,0 +1,53 @@
+{
+  "codigo": "11327",
+  "nome": "FABIO SORRILHA FONSECA",
+  "email": "fabiosorrilha@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/06/2024",
+  "whatsapp": "(11) 99958-9330",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "14320",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-21 16:59:37",
+      "data_hora_confirmacao": "2024-06-22 12:25:50",
+      "data_hora_confirmacao_pagamento": "2024-06-22 12:25:44",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 12.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.36,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22376": {
+      "codigo": "22376",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22385": {
+      "codigo": "22385",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

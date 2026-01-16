@@ -1,0 +1,45 @@
+{
+  "codigo": "609",
+  "nome": "LUCAS SILVA",
+  "email": "srlucass22@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "26/03/2023",
+  "whatsapp": "(21) 99048-8802",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "4449",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 18:56:37",
+      "data_hora_confirmacao": "2023-12-11 23:23:15",
+      "data_hora_confirmacao_pagamento": "2023-12-11 23:23:25",
+      "valor_total_produtos": 65,
+      "valor_frete": 17.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.53,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.51": {
+      "codigo": "CD16.51",
+      "titulo": "Camisetas de Time Tailandesas - BARCELONA   LT06.11    - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

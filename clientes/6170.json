@@ -1,0 +1,80 @@
+{
+  "codigo": "6170",
+  "nome": "ERICK MILANEZI",
+  "email": "erickmilanezi298@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/02/2024",
+  "whatsapp": "(51) 9958-02366",
+  "cidade": "Tramandaí",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 171.14999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "7273",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-15 19:10:13",
+      "data_hora_confirmacao": "2024-02-16 10:21:07",
+      "data_hora_confirmacao_pagamento": "2024-02-16 10:21:00",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 15.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.16,
+      "desconto": 0,
+      "cidade": "Tramandaí",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9692",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 19:16:28",
+      "data_hora_confirmacao": "2024-04-09 10:09:14",
+      "data_hora_confirmacao_pagamento": "2024-04-09 10:09:09",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.99,
+      "desconto": 0,
+      "cidade": "Tramandaí",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  (Bordada) - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD03.19": {
+      "codigo": "CD03.19",
+      "titulo": "Óculos OAKLEY JULIET -   - ARMAÇÃO: PRATA+DOURADA- 24K - COR DA LENTE: DOURADA - GOLD - Kit Borracha: BRANCA",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

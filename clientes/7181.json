@@ -1,0 +1,45 @@
+{
+  "codigo": "7181",
+  "nome": "ALESSANDRO COTTA",
+  "email": "vendas.cotta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/03/2024",
+  "whatsapp": "(11) 97393-3648",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "8907",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-25 17:25:33",
+      "data_hora_confirmacao": "2024-03-26 10:09:16",
+      "data_hora_confirmacao_pagamento": "2024-03-26 10:09:11",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 8.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.97,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "RL01.03": {
+      "codigo": "RL01.03",
+      "titulo": "Relógio G Shock- Resistente a agua.  - Cor: GS- PRETO-AZUL-PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

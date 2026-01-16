@@ -1,0 +1,61 @@
+{
+  "codigo": "8607",
+  "nome": "WERLLY EDUARDO",
+  "email": "werllyeduardo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(98) 98808-8799",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "10667",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 20:31:17",
+      "data_hora_confirmacao": "2024-04-27 11:17:00",
+      "data_hora_confirmacao_pagamento": "2024-04-27 11:16:55",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 27.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.86,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23G": {
+      "codigo": "CD24.23G",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD24.20G": {
+      "codigo": "CD24.20G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.22G": {
+      "codigo": "CD24.22G",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

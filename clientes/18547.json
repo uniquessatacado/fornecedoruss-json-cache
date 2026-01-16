@@ -1,0 +1,53 @@
+{
+  "codigo": "18547",
+  "nome": "WAGNER TORRES",
+  "email": "mcwaguinho@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2024",
+  "whatsapp": "(21) 97862-8388",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 122.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "26880",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 11:27:01",
+      "data_hora_confirmacao": "2024-12-20 11:28:06",
+      "data_hora_confirmacao_pagamento": "2024-12-20 11:28:06",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 39.05,
+      "frete": "SEDEX",
+      "valor_total_pedido": 122.39,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38342": {
+      "codigo": "38342",
+      "titulo": "Bermuda Microfibra Ultra (C124) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38778": {
+      "codigo": "38778",
+      "titulo": "Bermuda Microfibra Hiper (C135) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "1298",
+  "nome": "LILIAN GARCIA",
+  "email": "li.commenale@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "18/08/2023",
+  "whatsapp": "(11) 97624-2915",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 216.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "5600",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 11:44:42",
+      "data_hora_confirmacao": "2023-12-22 11:53:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 216.94,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 216.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.78": {
+      "codigo": "CD02.78",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI  LT19.12 - Cor: Bege - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD69": {
+      "codigo": "CD69",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.70": {
+      "codigo": "CD02.70",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12    - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.38": {
+      "codigo": "CD39.38",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT19.12   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Azul Bebê - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

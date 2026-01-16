@@ -1,0 +1,45 @@
+{
+  "codigo": "20473",
+  "nome": "GUSTAVO DA SILVA NEGRELLI",
+  "email": "gunegrelli@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "03/09/2025",
+  "whatsapp": "(19) 97496-7229",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 48.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "31535",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-03 12:33:25",
+      "data_hora_confirmacao": "2025-09-03 12:33:25",
+      "data_hora_confirmacao_pagamento": "2025-09-03 12:33:25",
+      "valor_total_produtos": 48.75,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 48.75,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53105": {
+      "codigo": "53105",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

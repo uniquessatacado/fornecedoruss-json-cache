@@ -1,0 +1,80 @@
+{
+  "codigo": "3857",
+  "nome": "LUCAS SOUZA",
+  "email": "lucca.sfritz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2023",
+  "whatsapp": "(17) 98110-7330",
+  "cidade": "Barretos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 118.86999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "2568",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-01 12:38:05",
+      "data_hora_confirmacao": "2023-11-01 12:48:58",
+      "data_hora_confirmacao_pagamento": "2023-11-01 16:10:54",
+      "valor_total_produtos": 17,
+      "valor_frete": 12.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 29.88,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7015",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-30 19:32:58",
+      "data_hora_confirmacao": "2024-01-31 09:31:30",
+      "data_hora_confirmacao_pagamento": "2024-01-31 09:31:47",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 19.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 88.99,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.36M - BROOKSFIELD": {
+      "codigo": "CD24.36M - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Azul Marinho - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

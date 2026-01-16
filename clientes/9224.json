@@ -1,0 +1,69 @@
+{
+  "codigo": "9224",
+  "nome": "VAILSON DA SILVA ALMEIDA",
+  "email": "vailson.almeida2012@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "09/05/2024",
+  "whatsapp": "(74) 9997-42934",
+  "cidade": "Filadélfia",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 184.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "11582",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 09:01:49",
+      "data_hora_confirmacao": "2024-05-10 09:44:38",
+      "data_hora_confirmacao_pagamento": "2024-05-10 09:43:30",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 40.19,
+      "frete": "PAC",
+      "valor_total_pedido": 184.15,
+      "desconto": 0,
+      "cidade": "Filadélfia",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17842": {
+      "codigo": "17842",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "18182": {
+      "codigo": "18182",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.128G": {
+      "codigo": "CD02.128G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

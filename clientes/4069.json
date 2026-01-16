@@ -1,0 +1,112 @@
+{
+  "codigo": "4069",
+  "nome": "DANIEL PIETSCHER RAMOS",
+  "email": "DRAMOS236@GMAIL.COM",
+  "sexo": "0",
+  "data_cadastro": "14/11/2023",
+  "whatsapp": "(11) 95413-5896",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 484.53999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "3141",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-14 19:49:46",
+      "data_hora_confirmacao": "2023-11-21 21:22:21",
+      "data_hora_confirmacao_pagamento": "2023-11-21 21:22:38",
+      "valor_total_produtos": 146,
+      "valor_frete": 12.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 158.54,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3209",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-16 15:12:03",
+      "data_hora_confirmacao": "2023-11-21 21:23:00",
+      "data_hora_confirmacao_pagamento": "2023-11-21 21:23:12",
+      "valor_total_produtos": 326,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 326,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.35GG": {
+      "codigo": "CD17.35GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.5GG": {
+      "codigo": "CD40.5GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ARMANI LT30.10 - Cor: OffWhite - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD46.3": {
+      "codigo": "CD46.3",
+      "titulo": "Camiseta Genuína Cotton Soft - DIOR  LT30.10  - Cor: OffWhite - Marca: Dior - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD57.2": {
+      "codigo": "CD57.2",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11  - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD57.1": {
+      "codigo": "CD57.1",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11 - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": 3
+    },
+    "CD02.46": {
+      "codigo": "CD02.46",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11   - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

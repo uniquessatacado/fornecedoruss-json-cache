@@ -1,0 +1,61 @@
+{
+  "codigo": "4664",
+  "nome": "RIAN VICTOR DA SILVA",
+  "email": "Rianv1584@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2023",
+  "whatsapp": "(19) 99554-0950",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 149.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "4512",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-12 15:11:15",
+      "data_hora_confirmacao": "2023-12-12 22:59:38",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:59:48",
+      "valor_total_produtos": 139.04,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 149.04,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 15,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD41.18": {
+      "codigo": "CD41.18",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE SB   LT11.12  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32.42Penny": {
+      "codigo": "CD32.42Penny",
+      "titulo": "Óculos  Penny - Verde c/Azul  LT20.10  - Cor da Armação: Prata - Cor da Lente: Verde c/azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

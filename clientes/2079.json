@@ -1,0 +1,131 @@
+{
+  "codigo": "2079",
+  "nome": "LUCAS FERMINO",
+  "email": "lucas3110.lo@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(11) 93240-0780",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 267.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "5582",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 09:40:13",
+      "data_hora_confirmacao": "2023-12-22 11:24:26",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 137.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 137.95,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5610",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 12:30:25",
+      "data_hora_confirmacao": "2023-12-22 13:06:57",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 94.93,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 94.93,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5613",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 12:34:24",
+      "data_hora_confirmacao": "2023-12-22 13:07:08",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 8
+    },
+    "CD67.14": {
+      "codigo": "CD67.14",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD   LT12.12  - Cor: Preto - Tamanho: 46",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD16.42": {
+      "codigo": "CD16.42",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT31.10   - Tamanho: G - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.49": {
+      "codigo": "CD24.49",
+      "titulo": "Cuecas Peruanas - GUCCI  LT13.12 - Cor: Branca - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "CD39.41": {
+      "codigo": "CD39.41",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

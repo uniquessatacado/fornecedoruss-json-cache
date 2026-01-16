@@ -1,0 +1,53 @@
+{
+  "codigo": "3480",
+  "nome": "JEFFERSON SILVA RAMOS",
+  "email": "jefferson.ramos10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/10/2023",
+  "whatsapp": "(11) 98061-0629",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301690",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-12 02:00:31",
+      "data_hora_confirmacao": "2023-10-13 10:01:59",
+      "data_hora_confirmacao_pagamento": "2023-11-17 17:29:44",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.48M": {
+      "codigo": "CD01.48M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: M - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.42M": {
+      "codigo": "CD01.42M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "9356",
+  "nome": "STELLA FERNANDES",
+  "email": "fernandesferreiradefariastella@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/05/2024",
+  "whatsapp": "(19) 99475-0662",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 117,
+  "pedidos": [
+    {
+      "codigo_pedido": "11769",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-13 10:48:23",
+      "data_hora_confirmacao": "2024-05-13 15:08:21",
+      "data_hora_confirmacao_pagamento": "2024-05-13 15:08:11",
+      "valor_total_produtos": 117,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 117,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "PA102": {
+      "codigo": "PA102",
+      "titulo": "PULSEIRA DE LUXO 18K    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "PA101": {
+      "codigo": "PA101",
+      "titulo": "PULSEIRA DE LUXO 18K    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

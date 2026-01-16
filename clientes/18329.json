@@ -1,0 +1,61 @@
+{
+  "codigo": "18329",
+  "nome": "MAURICIO DE SOUSA CHAVES",
+  "email": "mauriciodesousachaves@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2024",
+  "whatsapp": "(19) 98711-4639",
+  "cidade": "Monte Mor",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 170.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "26299",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-12 23:55:57",
+      "data_hora_confirmacao": "2024-12-13 00:00:25",
+      "data_hora_confirmacao_pagamento": "2024-12-13 00:00:25",
+      "valor_total_produtos": 153.97,
+      "valor_frete": 16.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 170.79,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37050": {
+      "codigo": "37050",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37364": {
+      "codigo": "37364",
+      "titulo": "Relógio Linha PREMIUM  (C51) - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "Relogio Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "37558": {
+      "codigo": "37558",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA (C31) Arte termo Gel - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

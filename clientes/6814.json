@@ -1,0 +1,96 @@
+{
+  "codigo": "6814",
+  "nome": "PEDRO VINÍCIUS HENRIQUE",
+  "email": "pviniciush67@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/03/2024",
+  "whatsapp": "(16) 99766-5338",
+  "cidade": "São Carlos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "8231",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 20:53:50",
+      "data_hora_confirmacao": "2024-03-12 10:35:34",
+      "data_hora_confirmacao_pagamento": "2024-03-12 10:35:28",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.69,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9683",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 15:59:49",
+      "data_hora_confirmacao": "2024-04-08 17:05:23",
+      "data_hora_confirmacao_pagamento": "2024-04-08 17:05:18",
+      "valor_total_produtos": 182.76,
+      "valor_frete": 16.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 199.55,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.4M": {
+      "codigo": "CD04.4M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.140M": {
+      "codigo": "CD02.140M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: OFFWHITE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11M": {
+      "codigo": "CD39.11M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD43.03": {
+      "codigo": "CD43.03",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.16M": {
+      "codigo": "CD4.16M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

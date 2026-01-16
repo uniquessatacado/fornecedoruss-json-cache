@@ -1,0 +1,72 @@
+{
+  "codigo": "17130",
+  "nome": "GUSTAVO HENRIQUE",
+  "email": "gustavohenrie07@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/11/2024",
+  "whatsapp": "(19) 99306-3409",
+  "cidade": "Limeira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 112.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "23705",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-02 17:05:15",
+      "data_hora_confirmacao": "2024-11-04 09:37:45",
+      "data_hora_confirmacao_pagamento": "2024-11-04 09:37:39",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.76,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28162",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-14 21:36:25",
+      "data_hora_confirmacao": "2025-02-14 21:37:25",
+      "data_hora_confirmacao_pagamento": "2025-02-14 21:37:25",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 11.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.11,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32293": {
+      "codigo": "32293",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em PELÚCIA - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "41984": {
+      "codigo": "41984",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C546) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

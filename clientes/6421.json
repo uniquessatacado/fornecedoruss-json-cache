@@ -1,0 +1,53 @@
+{
+  "codigo": "6421",
+  "nome": "CAIO FELIPE SANTANA MINGARELLI",
+  "email": "caiofmingarelli@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(19) 98607-5314",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 156.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "7685",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 09:21:21",
+      "data_hora_confirmacao": "2024-02-27 09:58:13",
+      "data_hora_confirmacao_pagamento": "2024-02-27 09:58:08",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 12.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 156.48,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD04.5M": {
+      "codigo": "CD04.5M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

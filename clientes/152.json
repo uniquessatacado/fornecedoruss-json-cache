@@ -1,0 +1,45 @@
+{
+  "codigo": "152",
+  "nome": "WELLINGTON CARVALHO",
+  "email": "wehsc11@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/03/2023",
+  "whatsapp": "(11) 97972-5988",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "14943",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 16:28:47",
+      "data_hora_confirmacao": "2024-07-02 18:25:20",
+      "data_hora_confirmacao_pagamento": "2024-07-02 18:25:13",
+      "valor_total_produtos": 89.99,
+      "valor_frete": 10.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.5,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23227": {
+      "codigo": "23227",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: GG - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

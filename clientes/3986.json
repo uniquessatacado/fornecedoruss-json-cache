@@ -1,0 +1,45 @@
+{
+  "codigo": "3986",
+  "nome": "LEONILDO MATHEUS",
+  "email": "leomethius@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/11/2023",
+  "whatsapp": "(18) 9810-59727",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "2975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 18:45:18",
+      "data_hora_confirmacao": "2023-11-09 19:46:38",
+      "data_hora_confirmacao_pagamento": "2023-11-09 19:46:50",
+      "valor_total_produtos": 49.9,
+      "valor_frete": 12.8,
+      "frete": "JADLOG",
+      "valor_total_pedido": 62.7,
+      "desconto": 0,
+      "cidade": "Presidente Prudente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.33P": {
+      "codigo": "CD08.33P",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Tommy - Cor: OffWhite - Marca: Tommy - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

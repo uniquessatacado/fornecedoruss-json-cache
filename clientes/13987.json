@@ -1,0 +1,104 @@
+{
+  "codigo": "13987",
+  "nome": "IVAN MORALEZ COSTA",
+  "email": "ivan.moralezcosta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(11) 93800-1268",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "18517",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 10:53:05",
+      "data_hora_confirmacao": "2024-08-14 09:23:11",
+      "data_hora_confirmacao_pagamento": "2024-08-14 09:23:05",
+      "valor_total_produtos": 132.97,
+      "valor_frete": 13.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.18,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26324",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-13 09:43:12",
+      "data_hora_confirmacao": "2024-12-13 09:44:24",
+      "data_hora_confirmacao_pagamento": "2024-12-13 09:44:24",
+      "valor_total_produtos": 59.97,
+      "valor_frete": 15.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27305": {
+      "codigo": "27305",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - LOUIS VUITTON arte em bordado madeira - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "27338": {
+      "codigo": "27338",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIOR arte em bordado madeira - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "27435": {
+      "codigo": "27435",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte emborrachada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "37246": {
+      "codigo": "37246",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C04) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37488": {
+      "codigo": "37488",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C07) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "37533": {
+      "codigo": "37533",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C06) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    }
+  }
+}

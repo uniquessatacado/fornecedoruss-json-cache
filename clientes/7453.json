@@ -1,0 +1,85 @@
+{
+  "codigo": "7453",
+  "nome": "MATHEUS NUNES",
+  "email": "matheusnunesy312@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(19) 98611-7055",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 364.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "9250",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-02 17:34:50",
+      "data_hora_confirmacao": "2024-04-02 17:40:52",
+      "data_hora_confirmacao_pagamento": "2024-04-02 17:40:46",
+      "valor_total_produtos": 364.87,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 364.87,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.10G": {
+      "codigo": "CD4.10G",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.14G": {
+      "codigo": "CD24.14G",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Branca - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 3
+    },
+    "CD02.131G": {
+      "codigo": "CD02.131G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.129G": {
+      "codigo": "CD02.129G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD04.3G": {
+      "codigo": "CD04.3G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

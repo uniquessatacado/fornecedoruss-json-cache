@@ -1,0 +1,88 @@
+{
+  "codigo": "3769",
+  "nome": "ANDRE FILIPE DA SILVA GOMES",
+  "email": "andreg254@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2023",
+  "whatsapp": "(21) 98772-1782",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 247.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "2341",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 20:35:24",
+      "data_hora_confirmacao": "2023-10-27 00:03:52",
+      "data_hora_confirmacao_pagamento": "2023-10-27 00:04:05",
+      "valor_total_produtos": 91,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.62,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29724",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-10 09:39:15",
+      "data_hora_confirmacao": "2025-05-10 09:40:16",
+      "data_hora_confirmacao_pagamento": "2025-05-10 09:40:16",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 16.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 141.25,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41245": {
+      "codigo": "41245",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C371)- Flamengo LT14A  - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "46636": {
+      "codigo": "46636",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT41A (C835) FLAMENGO - PRONTA ENTREGA - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.36GG": {
+      "codigo": "CD02.36GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE LT18.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.39GG": {
+      "codigo": "CD02.39GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10   - Cor: Vermelha - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

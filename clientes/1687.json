@@ -1,0 +1,104 @@
+{
+  "codigo": "1687",
+  "nome": "GABRIEL DE FARIA",
+  "email": "gabrieldefaria195@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(19) 98148-2755",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 361.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "21029",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-12 20:26:56",
+      "data_hora_confirmacao": "2024-09-13 11:47:45",
+      "data_hora_confirmacao_pagamento": "2024-09-13 11:47:35",
+      "valor_total_produtos": 141.99,
+      "valor_frete": 12.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.43,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28902",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-23 11:20:34",
+      "data_hora_confirmacao": "2025-03-23 11:21:12",
+      "data_hora_confirmacao_pagamento": "2025-03-23 11:21:12",
+      "valor_total_produtos": 192.3,
+      "valor_frete": 15.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 207.56,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25554": {
+      "codigo": "25554",
+      "titulo": "SMARTWATCH HW9 ULTRA MAX  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH HW9 ULTRA MAX ",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    },
+    "40916": {
+      "codigo": "40916",
+      "titulo": "Bermuda Microfibra Ultra (C252) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "43051": {
+      "codigo": "43051",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43108": {
+      "codigo": "43108",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666)  - Cor: PRETO C/ CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45201": {
+      "codigo": "45201",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C741) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45215": {
+      "codigo": "45215",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C741) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "17594",
+  "nome": "GABRIEL VINÍCIUS",
+  "email": "gv3967144@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/11/2024",
+  "whatsapp": "(11) 97167-3205",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 115.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "24656",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-18 22:03:59",
+      "data_hora_confirmacao": "2024-11-18 22:06:18",
+      "data_hora_confirmacao_pagamento": "2024-11-18 22:06:18",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 95.89,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24657",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-18 22:09:33",
+      "data_hora_confirmacao": "2024-11-18 22:11:17",
+      "data_hora_confirmacao_pagamento": "2024-11-18 22:11:17",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 19.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20792": {
+      "codigo": "20792",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica)  - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23438": {
+      "codigo": "23438",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23447": {
+      "codigo": "23447",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "3511",
+  "nome": "FELIPE RIBEIRO",
+  "email": "lipexpacsieg@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/10/2023",
+  "whatsapp": "(21) 97296-2448",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 44.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302185",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-24 08:01:17",
+      "data_hora_confirmacao": "2023-10-24 11:07:39",
+      "data_hora_confirmacao_pagamento": "2023-10-24 11:07:49",
+      "valor_total_produtos": 30,
+      "valor_frete": 14.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 44.65,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.35M": {
+      "codigo": "CD01.35M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: M - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "19876",
+  "nome": "TIAGO XIMENES",
+  "email": "tiagoximenes73@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2025",
+  "whatsapp": "(19) 97136-1697",
+  "cidade": "Barretos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 326.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "29686",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-07 22:20:19",
+      "data_hora_confirmacao": "2025-05-07 22:22:40",
+      "data_hora_confirmacao_pagamento": "2025-05-07 22:22:40",
+      "valor_total_produtos": 291.68,
+      "valor_frete": 34.53,
+      "frete": "SEDEX",
+      "valor_total_pedido": 326.21,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "46709": {
+      "codigo": "46709",
+      "titulo": "Tênis Estilo Air Force 1 Preto com Solado Branco - Cadarço Grosso Premium - Cor: GS- PRETO-BRANCO - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47294": {
+      "codigo": "47294",
+      "titulo": "Bermuda Nike Microfibra Ultra | Speed Line LT43A (C845) - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47350": {
+      "codigo": "47350",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | Fino acabamento e leveza LT44A (C855) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47720": {
+      "codigo": "47720",
+      "titulo": "Camiseta 40.1 ARMANI | Conforto Essencial LT51A (C902) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48484": {
+      "codigo": "48484",
+      "titulo": "Bermuda Nike Microfibra Ultra | Motion Line LT59A (C1024) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "4101",
+  "nome": "MARCOS VINICIUS DOS SANTOS MATEUS",
+  "email": "marcosviniciusmontecristo@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "16/11/2023",
+  "whatsapp": "(24) 9924-87847",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 357.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "3409",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-21 12:32:25",
+      "data_hora_confirmacao": "2023-11-22 10:27:21",
+      "data_hora_confirmacao_pagamento": "2023-11-22 10:27:32",
+      "valor_total_produtos": 158.5,
+      "valor_frete": 20.58,
+      "frete": "JADLOG",
+      "valor_total_pedido": 179.08,
+      "desconto": 0,
+      "cidade": "Vespasiano",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7285",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-16 14:33:02",
+      "data_hora_confirmacao": "2024-02-16 14:36:53",
+      "data_hora_confirmacao_pagamento": "2024-02-16 14:36:47",
+      "valor_total_produtos": 165.95,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 178.72,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD41.23": {
+      "codigo": "CD41.23",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.18": {
+      "codigo": "CD40.18",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

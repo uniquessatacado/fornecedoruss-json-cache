@@ -1,0 +1,69 @@
+{
+  "codigo": "6199",
+  "nome": "BRUNO BORGES PEDROSO",
+  "email": "bruno_bpedroso@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/02/2024",
+  "whatsapp": "(12) 9915-63265",
+  "cidade": "Pindamonhangaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 249.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "7298",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-16 18:14:41",
+      "data_hora_confirmacao": "2024-02-17 09:26:15",
+      "data_hora_confirmacao_pagamento": "2024-02-17 09:26:09",
+      "valor_total_produtos": 224.93,
+      "valor_frete": 24.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 249.91,
+      "desconto": 0,
+      "cidade": "Pindamonhangaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.96": {
+      "codigo": "CD02.96",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI - Cor: Marrom - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": 3
+    },
+    "CD02.93": {
+      "codigo": "CD02.93",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD40.20": {
+      "codigo": "CD40.20",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  OAKLEY - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

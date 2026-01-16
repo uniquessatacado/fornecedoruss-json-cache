@@ -1,0 +1,96 @@
+{
+  "codigo": "3756",
+  "nome": "WANDERSON PIMENTEL",
+  "email": "Wanderson.galego98@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/10/2023",
+  "whatsapp": "(61) 9921-61543",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 315.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "2376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 16:45:37",
+      "data_hora_confirmacao": "2023-10-31 14:00:41",
+      "data_hora_confirmacao_pagamento": "2023-10-31 14:00:50",
+      "valor_total_produtos": 83,
+      "valor_frete": 14.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.32,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3646",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 11:39:34",
+      "data_hora_confirmacao": "2023-11-27 10:12:44",
+      "data_hora_confirmacao_pagamento": "2023-11-27 10:12:53",
+      "valor_total_produtos": 202,
+      "valor_frete": 16.43,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 218.43,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD17.47": {
+      "codigo": "CD17.47",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra Rajada Gramatura 150g  - NIKE   LT25.11  - Cor: Verde - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

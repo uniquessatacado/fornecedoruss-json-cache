@@ -1,0 +1,61 @@
+{
+  "codigo": "20534",
+  "nome": "HIGOR RODRIGUES",
+  "email": "higorhotel@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2025",
+  "whatsapp": "(64) 98128-7210",
+  "cidade": "Bom Jesus de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 216.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "31744",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-19 11:22:39",
+      "data_hora_confirmacao": "2025-09-19 11:30:03",
+      "data_hora_confirmacao_pagamento": "2025-09-19 11:30:03",
+      "valor_total_produtos": 187.5,
+      "valor_frete": 28.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 216.1,
+      "desconto": 0,
+      "cidade": "Bom Jesus de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "54308": {
+      "codigo": "54308",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT053) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54310": {
+      "codigo": "54310",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - ARTE EM DTF (LT053) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54328": {
+      "codigo": "54328",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - ARTE EM DTF (LT053) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

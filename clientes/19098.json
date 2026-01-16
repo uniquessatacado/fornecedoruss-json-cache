@@ -1,0 +1,53 @@
+{
+  "codigo": "19098",
+  "nome": "GENIVALDO TELES DOS SANTOS",
+  "email": "nene_gordo10@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/01/2025",
+  "whatsapp": "(13) 98161-6747",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 98.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "27828",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-26 17:23:43",
+      "data_hora_confirmacao": "2025-01-26 17:27:00",
+      "data_hora_confirmacao_pagamento": "2025-01-26 17:27:00",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 14.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 98.14,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40511": {
+      "codigo": "40511",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40518": {
+      "codigo": "40518",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

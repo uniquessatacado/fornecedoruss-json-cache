@@ -1,0 +1,174 @@
+{
+  "codigo": "8532",
+  "nome": "MARCELO ALVES DE ASSIS",
+  "email": "maassis78@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(21) 98169-8005",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 399.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "10661",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 20:07:43",
+      "data_hora_confirmacao": "2024-04-27 10:41:02",
+      "data_hora_confirmacao_pagamento": "2024-04-27 10:40:50",
+      "valor_total_produtos": 80.94,
+      "valor_frete": 16.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.42,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10733",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-26 05:55:13",
+      "data_hora_confirmacao": "2024-04-27 09:50:49",
+      "data_hora_confirmacao_pagamento": "2024-04-27 09:50:43",
+      "valor_total_produtos": 148.96,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 148.96,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12980",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 17:23:25",
+      "data_hora_confirmacao": "2024-06-03 18:40:35",
+      "data_hora_confirmacao_pagamento": "2024-06-03 18:40:26",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 17.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.46,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13504",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-11 13:44:39",
+      "data_hora_confirmacao": "2024-06-11 17:45:24",
+      "data_hora_confirmacao_pagamento": "2024-06-11 17:45:12",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 63.98,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20135": {
+      "codigo": "20135",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20138": {
+      "codigo": "20138",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20463": {
+      "codigo": "20463",
+      "titulo": "Camiseta Egípcia Luxo ARMANI arte emborrachada - Cor: VERDE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD24.16GG": {
+      "codigo": "CD24.16GG",
+      "titulo": "Cuecas Peruanas - CALVIN KLEN - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "CD02.147GG": {
+      "codigo": "CD02.147GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: AZUL MARINHO - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.23GG": {
+      "codigo": "CD24.23GG",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD50.12GG": {
+      "codigo": "CD50.12GG",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.10GG": {
+      "codigo": "CD50.10GG",
+      "titulo": "CAMISETA GENUINA COTTON SOFT TURCO - TOMMY HILFIGER - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD70.1GG": {
+      "codigo": "CD70.1GG",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.128GG": {
+      "codigo": "CD02.128GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

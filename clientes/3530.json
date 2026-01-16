@@ -1,0 +1,96 @@
+{
+  "codigo": "3530",
+  "nome": "JOÃO GUILHERME PALANICKI",
+  "email": "joaoguilhermepalanicki.04@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/10/2023",
+  "whatsapp": "(42) 99103-1609",
+  "cidade": "Guarapuava",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 219.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301768",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-16 14:25:47",
+      "data_hora_confirmacao": "2023-10-16 14:41:21",
+      "data_hora_confirmacao_pagamento": "2023-10-16 14:41:29",
+      "valor_total_produtos": 60,
+      "valor_frete": 15.29,
+      "frete": "JADLOG",
+      "valor_total_pedido": 75.29,
+      "desconto": 0,
+      "cidade": "Guarapuava",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17858",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-05 10:54:47",
+      "data_hora_confirmacao": "2024-08-05 11:23:21",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:23:11",
+      "valor_total_produtos": 122.98,
+      "valor_frete": 21.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 144.21,
+      "desconto": 0,
+      "cidade": "Guarapuava",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "830": {
+      "codigo": "830",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "26393": {
+      "codigo": "26393",
+      "titulo": "Camiseta Pima Luxo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26494": {
+      "codigo": "26494",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.24G": {
+      "codigo": "CD02.24G",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: Preto - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.22G": {
+      "codigo": "CD02.22G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike  - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

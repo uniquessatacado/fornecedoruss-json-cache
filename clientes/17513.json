@@ -1,0 +1,61 @@
+{
+  "codigo": "17513",
+  "nome": "JOSÉ ROBERTO SANTOS",
+  "email": "joserobertosantos914@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/11/2024",
+  "whatsapp": "(11) 9668-02450",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "24489",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-15 17:58:13",
+      "data_hora_confirmacao": "2024-11-15 17:59:43",
+      "data_hora_confirmacao_pagamento": "2024-11-15 17:59:43",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 42.74,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25419": {
+      "codigo": "25419",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25422": {
+      "codigo": "25422",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25431": {
+      "codigo": "25431",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    }
+  }
+}

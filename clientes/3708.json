@@ -1,0 +1,53 @@
+{
+  "codigo": "3708",
+  "nome": "GABRIEL HUDSON SANTANA",
+  "email": "gahudson02@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/10/2023",
+  "whatsapp": "(19) 98962-5835",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 60,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302176",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-23 20:35:50",
+      "data_hora_confirmacao": "2023-10-24 13:39:46",
+      "data_hora_confirmacao_pagamento": "2023-10-24 13:39:59",
+      "valor_total_produtos": 50,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 60,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.33G - Dolce&Gabbana": {
+      "codigo": "CD24.33G - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Azul Marinho - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    },
+    "CD17.35M": {
+      "codigo": "CD17.35M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

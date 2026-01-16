@@ -1,0 +1,166 @@
+{
+  "codigo": "2128",
+  "nome": "MATHEUS GARCIA",
+  "email": "matheusp.garcia@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/09/2023",
+  "whatsapp": "(19) 98892-1475",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 296.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "3541",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 23:40:45",
+      "data_hora_confirmacao": "2023-11-24 09:09:03",
+      "data_hora_confirmacao_pagamento": "2023-11-24 09:09:14",
+      "valor_total_produtos": 82.5,
+      "valor_frete": 11.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 93.6,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3755",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-28 16:28:48",
+      "data_hora_confirmacao": "2023-11-28 18:50:56",
+      "data_hora_confirmacao_pagamento": "2023-11-28 18:51:07",
+      "valor_total_produtos": 66,
+      "valor_frete": 10.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.91,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4158",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 20:51:50",
+      "data_hora_confirmacao": "2023-12-06 20:55:39",
+      "data_hora_confirmacao_pagamento": "2023-12-06 20:55:49",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.78,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22386",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-07 00:09:03",
+      "data_hora_confirmacao": "2024-10-08 12:35:09",
+      "data_hora_confirmacao_pagamento": "2024-10-08 12:35:02",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 11.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.66,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29383": {
+      "codigo": "29383",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "30639": {
+      "codigo": "30639",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31405": {
+      "codigo": "31405",
+      "titulo": "Cuecas Peruanas - EMPÓRIO ARMANI - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "31503": {
+      "codigo": "31503",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD66.11": {
+      "codigo": "CD66.11",
+      "titulo": "CAMISETA PERUANA LUXO - HUGO BOSS  LT23.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD66.9": {
+      "codigo": "CD66.9",
+      "titulo": "CAMISETA PERUANA LUXO - PRADA   LT23.10  - Cor: OffWhite - Marca: Prada - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD16.53": {
+      "codigo": "CD16.53",
+      "titulo": "Camisetas de Time Tailandesas - SÃO PAULO   LT06.11  - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

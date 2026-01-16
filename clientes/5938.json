@@ -1,0 +1,69 @@
+{
+  "codigo": "5938",
+  "nome": "DAVID DOS SANTOS PAIXAO",
+  "email": "grizx1908@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/01/2024",
+  "whatsapp": "(91) 98871-8215",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 269.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "7005",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-30 16:12:27",
+      "data_hora_confirmacao": "2024-01-30 16:23:47",
+      "data_hora_confirmacao_pagamento": "2024-01-30 16:24:26",
+      "valor_total_produtos": 244.93,
+      "valor_frete": 24.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 269.3,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD41.24": {
+      "codigo": "CD41.24",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.19": {
+      "codigo": "CD40.19",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

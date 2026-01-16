@@ -1,0 +1,72 @@
+{
+  "codigo": "3752",
+  "nome": "VICTOR MAFRA",
+  "email": "victormafra11@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2023",
+  "whatsapp": "(67) 99917-2660",
+  "cidade": "Rio Verde de Mato Grosso",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 120.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "14053",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 14:40:12",
+      "data_hora_confirmacao": "2024-06-19 16:40:34",
+      "data_hora_confirmacao_pagamento": "2024-06-19 16:40:28",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 26.21,
+      "frete": "PAC",
+      "valor_total_pedido": 58.2,
+      "desconto": 0,
+      "cidade": "Rio Verde de Mato Grosso",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14618",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 14:07:18",
+      "data_hora_confirmacao": "2024-06-27 18:21:21",
+      "data_hora_confirmacao_pagamento": "2024-06-27 18:21:16",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 26.21,
+      "frete": "PAC",
+      "valor_total_pedido": 62.2,
+      "desconto": 0,
+      "cidade": "Rio Verde de Mato Grosso",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22041": {
+      "codigo": "22041",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ARAMIS arte em bordado  - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ARAMIS",
+      "quantidade": "1"
+    },
+    "22843": {
+      "codigo": "22843",
+      "titulo": "Camiseta Genuina 40.1 LUXO - HUGO BOSS arte em patch emborrachado  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

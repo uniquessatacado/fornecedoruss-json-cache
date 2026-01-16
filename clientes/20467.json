@@ -1,0 +1,80 @@
+{
+  "codigo": "20467",
+  "nome": "ADRIANO DE OLIVEIRA LOPES",
+  "email": "adrianolopes.es@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2025",
+  "whatsapp": "(27) 99605-4136",
+  "cidade": "Aracruz",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 362.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "31533",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-03 12:09:41",
+      "data_hora_confirmacao": "2025-09-03 12:11:51",
+      "data_hora_confirmacao_pagamento": "2025-09-03 12:11:51",
+      "valor_total_produtos": 93.74,
+      "valor_frete": 68.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 162.45,
+      "desconto": 0,
+      "cidade": "Aracruz",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31534",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-09-03 12:09:41",
+      "data_hora_confirmacao": "2025-09-03 12:20:07",
+      "data_hora_confirmacao_pagamento": "2025-09-03 12:20:07",
+      "valor_total_produtos": 140.62,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 200.42,
+      "desconto": 0,
+      "cidade": "Aracruz",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51031": {
+      "codigo": "51031",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FLAMENGO 25/26 - Tamanho: G2 - Times : Flamengo - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53386": {
+      "codigo": "53386",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53402": {
+      "codigo": "53402",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

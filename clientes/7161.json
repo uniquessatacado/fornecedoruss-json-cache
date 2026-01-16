@@ -1,0 +1,69 @@
+{
+  "codigo": "7161",
+  "nome": "TIAGO ROCHA POMPEU",
+  "email": "tiago_pompeu@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/03/2024",
+  "whatsapp": "(11) 96483-5776",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "8881",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-24 17:20:54",
+      "data_hora_confirmacao": "2024-03-25 11:05:28",
+      "data_hora_confirmacao_pagamento": "2024-03-25 11:05:24",
+      "valor_total_produtos": 118.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 118.96,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.133M": {
+      "codigo": "CD02.133M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.122M": {
+      "codigo": "CD02.122M",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Marrom - Marca: Rip Curl - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": "1"
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - HIGH (Clone) - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Cinza Escuro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

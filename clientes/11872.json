@@ -1,0 +1,85 @@
+{
+  "codigo": "11872",
+  "nome": "ADEMIR JUNIOR",
+  "email": "juniorx003@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/07/2024",
+  "whatsapp": "(66) 99999-9746",
+  "cidade": "Rondonópolis",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "15052",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 16:07:45",
+      "data_hora_confirmacao": "2024-07-03 17:39:55",
+      "data_hora_confirmacao_pagamento": "2024-07-03 17:39:48",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 27.41,
+      "frete": "PAC",
+      "valor_total_pedido": 87.35,
+      "desconto": 0,
+      "cidade": "Rondonópolis",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23008": {
+      "codigo": "23008",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23013": {
+      "codigo": "23013",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23053": {
+      "codigo": "23053",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23410": {
+      "codigo": "23410",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23436": {
+      "codigo": "23436",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23464": {
+      "codigo": "23464",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

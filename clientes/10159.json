@@ -1,0 +1,61 @@
+{
+  "codigo": "10159",
+  "nome": "THIAGO JEFFERSON DA SILVA",
+  "email": "thiagopoty20@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(84) 99166-4220",
+  "cidade": "Currais Novos",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 153.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "12877",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-31 08:26:02",
+      "data_hora_confirmacao": "2024-05-31 13:27:42",
+      "data_hora_confirmacao_pagamento": "2024-05-31 13:27:35",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 45.1,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 153.07,
+      "desconto": 0,
+      "cidade": "Currais Novos",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20097": {
+      "codigo": "20097",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20104": {
+      "codigo": "20104",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20109": {
+      "codigo": "20109",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

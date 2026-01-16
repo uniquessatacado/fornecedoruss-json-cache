@@ -1,0 +1,53 @@
+{
+  "codigo": "8944",
+  "nome": "DIEGO XAVIER",
+  "email": "dax4722@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(24) 99824-4823",
+  "cidade": "Barra do Piraí",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "11187",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 21:41:38",
+      "data_hora_confirmacao": "2024-05-03 19:39:35",
+      "data_hora_confirmacao_pagamento": "2024-05-03 19:39:27",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 18.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.8,
+      "desconto": 0,
+      "cidade": "Barra do Piraí",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17998": {
+      "codigo": "17998",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT- PRETA - BRANCA - CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD5.01M": {
+      "codigo": "CD5.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "8219",
+  "nome": "AILSON JUNIOR",
+  "email": "ajlubill@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(21) 96408-2998",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 256.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "10204",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 02:09:22",
+      "data_hora_confirmacao": "2024-04-18 10:21:00",
+      "data_hora_confirmacao_pagamento": "2024-04-18 10:20:56",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 16.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.24,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20391",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 09:38:26",
+      "data_hora_confirmacao": "2024-09-05 11:26:30",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:26:24",
+      "valor_total_produtos": 150.94,
+      "valor_frete": 16.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.84,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25455": {
+      "codigo": "25455",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28526": {
+      "codigo": "28526",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "29319": {
+      "codigo": "29319",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29351": {
+      "codigo": "29351",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29357": {
+      "codigo": "29357",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29732": {
+      "codigo": "29732",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

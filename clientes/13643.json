@@ -1,0 +1,77 @@
+{
+  "codigo": "13643",
+  "nome": "SANDRO LOPES CONSTANTINO",
+  "email": "sconstantinolopes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(11) 95412-9133",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "17981",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 21:55:38",
+      "data_hora_confirmacao": "2024-08-07 10:56:06",
+      "data_hora_confirmacao_pagamento": "2024-08-07 10:55:59",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 11.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 61.61,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24638": {
+      "codigo": "24638",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24641": {
+      "codigo": "24641",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24647": {
+      "codigo": "24647",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26548": {
+      "codigo": "26548",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26551": {
+      "codigo": "26551",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

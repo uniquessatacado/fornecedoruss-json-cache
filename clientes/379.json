@@ -1,0 +1,80 @@
+{
+  "codigo": "379",
+  "nome": "RAFAEL WILIAN PIRES",
+  "email": "lojasrpmultibrand@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "14/03/2023",
+  "whatsapp": "(16) 9944-80690",
+  "cidade": "Guariba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 175.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "4671",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 14:03:09",
+      "data_hora_confirmacao": "2023-12-13 14:12:42",
+      "data_hora_confirmacao_pagamento": "2023-12-13 14:12:55",
+      "valor_total_produtos": 77.88,
+      "valor_frete": 18.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 96.33,
+      "desconto": 0,
+      "cidade": "Guariba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6462",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 14:33:33",
+      "data_hora_confirmacao": "2024-01-10 15:03:23",
+      "data_hora_confirmacao_pagamento": "2024-01-10 15:03:33",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 16.56,
+      "frete": "PAC",
+      "valor_total_pedido": 79.55,
+      "desconto": 0,
+      "cidade": "Guariba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.15Juliet": {
+      "codigo": "CD32.15Juliet",
+      "titulo": "Óculos  Juliet - Dourada 24k - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD61.27": {
+      "codigo": "CD61.27",
+      "titulo": "Óculos  Juliet - PRETO  - Cor da Armação: Preto - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

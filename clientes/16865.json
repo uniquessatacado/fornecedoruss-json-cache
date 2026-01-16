@@ -1,0 +1,61 @@
+{
+  "codigo": "16865",
+  "nome": "ALEXANDRE TOMÁZ",
+  "email": "xandaospeedkiller@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/10/2024",
+  "whatsapp": "(15) 99696-2254",
+  "cidade": "Ribeira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 237.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "23327",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-24 22:45:23",
+      "data_hora_confirmacao": "2024-10-28 11:27:14",
+      "data_hora_confirmacao_pagamento": "2024-10-28 11:27:08",
+      "valor_total_produtos": 219.24,
+      "valor_frete": 18.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 237.39,
+      "desconto": 0,
+      "cidade": "Ribeira",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "32345": {
+      "codigo": "32345",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32515": {
+      "codigo": "32515",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32872": {
+      "codigo": "32872",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

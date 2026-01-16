@@ -1,0 +1,72 @@
+{
+  "codigo": "2317",
+  "nome": "EDMAR DE SOUSA OLIVEIRA",
+  "email": "oedmar17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(21) 99008-4282",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 103.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "4504",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 13:56:41",
+      "data_hora_confirmacao": "2023-12-12 23:00:34",
+      "data_hora_confirmacao_pagamento": "2023-12-12 23:00:43",
+      "valor_total_produtos": 25,
+      "valor_frete": 13.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 38.51,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5978",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-28 22:53:34",
+      "data_hora_confirmacao": "2023-12-28 23:33:19",
+      "data_hora_confirmacao_pagamento": "2023-12-28 23:33:35",
+      "valor_total_produtos": 50,
+      "valor_frete": 14.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.65,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.106": {
+      "codigo": "CD01.106",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO  LT08.12   - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.100": {
+      "codigo": "CD01.100",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO  LT04.12  - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    }
+  }
+}

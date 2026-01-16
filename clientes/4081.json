@@ -1,0 +1,45 @@
+{
+  "codigo": "4081",
+  "nome": "MARINALDO MARTINS VIEIRA",
+  "email": "marinaldomv97@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/11/2023",
+  "whatsapp": "(21) 98282-7466",
+  "cidade": "São João de Meriti",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "3168",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-15 12:15:15",
+      "data_hora_confirmacao": "2023-11-16 17:50:30",
+      "data_hora_confirmacao_pagamento": "2023-11-16 09:22:44",
+      "valor_total_produtos": 65,
+      "valor_frete": 15.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.53,
+      "desconto": 0,
+      "cidade": "São João de Meriti",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

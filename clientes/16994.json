@@ -1,0 +1,45 @@
+{
+  "codigo": "16994",
+  "nome": "BRUNO BERNARDINO DA SILVA",
+  "email": "bpircing@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/10/2024",
+  "whatsapp": "(21) 96418-0381",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 49.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "23489",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-29 19:27:19",
+      "data_hora_confirmacao": "2024-10-31 11:28:34",
+      "data_hora_confirmacao_pagamento": "2024-10-31 11:28:29",
+      "valor_total_produtos": 33.99,
+      "valor_frete": 15.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.38,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30332": {
+      "codigo": "30332",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

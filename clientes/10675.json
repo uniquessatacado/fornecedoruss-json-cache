@@ -1,0 +1,53 @@
+{
+  "codigo": "10675",
+  "nome": "DANILO FERNANDO CELESTINO DA SILVA",
+  "email": "Danilaofcelestino@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 97684-9296",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 263.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "23062",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-19 19:56:19",
+      "data_hora_confirmacao": "2024-10-21 11:33:40",
+      "data_hora_confirmacao_pagamento": "2024-10-21 11:33:32",
+      "valor_total_produtos": 189.98,
+      "valor_frete": 13.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 263.44,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21251": {
+      "codigo": "21251",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

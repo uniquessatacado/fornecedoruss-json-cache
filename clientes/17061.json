@@ -1,0 +1,61 @@
+{
+  "codigo": "17061",
+  "nome": "MARCIO VINÍCIUS KAPISCH DA SILVA",
+  "email": "marciokapisch@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/10/2024",
+  "whatsapp": "(22) 99247-0147",
+  "cidade": "Nova Friburgo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "23603",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-31 20:40:10",
+      "data_hora_confirmacao": "2024-11-04 09:56:29",
+      "data_hora_confirmacao_pagamento": "2024-11-04 09:56:22",
+      "valor_total_produtos": 111.97,
+      "valor_frete": 21.96,
+      "frete": "JADLOG",
+      "valor_total_pedido": 133.93,
+      "desconto": 0,
+      "cidade": "Nova Friburgo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26377": {
+      "codigo": "26377",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33225": {
+      "codigo": "33225",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33244": {
+      "codigo": "33244",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

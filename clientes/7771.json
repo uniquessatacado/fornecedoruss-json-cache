@@ -1,0 +1,88 @@
+{
+  "codigo": "7771",
+  "nome": "ROGERIO SEBASTIAO SALVADOR VALERIO",
+  "email": "rogeriovalerio04@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(11) 94779-7594",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 147.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "9711",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 00:43:59",
+      "data_hora_confirmacao": "2024-04-09 10:15:09",
+      "data_hora_confirmacao_pagamento": "2024-04-09 10:15:05",
+      "valor_total_produtos": 111.97,
+      "valor_frete": 16.06,
+      "frete": "SEDEX",
+      "valor_total_pedido": 128.03,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9826",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-10 15:55:30",
+      "data_hora_confirmacao": "2024-04-10 15:55:30",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 18.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 18.99,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.10GG": {
+      "codigo": "CD25.10GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LOUIS VUITTON - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD25.04GG": {
+      "codigo": "CD25.04GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA PRADA - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD4.11G": {
+      "codigo": "CD4.11G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "MD43.21 - MD 2": {
+      "codigo": "MD43.21 - MD 2",
+      "titulo": "Boné Super Premium - NY - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "4044",
+  "nome": "DALIA MONIWA",
+  "email": "daliamoniwa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/11/2023",
+  "whatsapp": "(19) 98125-9555",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 738.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "3078",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-12 16:10:59",
+      "data_hora_confirmacao": "2023-11-13 11:48:41",
+      "data_hora_confirmacao_pagamento": "2023-11-13 11:48:51",
+      "valor_total_produtos": 738.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 738.9,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.39GG": {
+      "codigo": "CD02.39GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10   - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Mostarda - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": 3
+    },
+    "CD08.40": {
+      "codigo": "CD08.40",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD08.42": {
+      "codigo": "CD08.42",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.36": {
+      "codigo": "CD08.36",
+      "titulo": "Camiseta Genuína Cotton Tanguis - TOMMY  LT28.10  - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

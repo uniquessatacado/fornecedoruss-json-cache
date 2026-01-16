@@ -1,0 +1,77 @@
+{
+  "codigo": "3960",
+  "nome": "WILLIAN DA SILVA MORAES",
+  "email": "willianmoraes2021@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(44) 99843-6097",
+  "cidade": "Nova Olímpia",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 249.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "2902",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 18:03:32",
+      "data_hora_confirmacao": "2023-11-09 12:21:47",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:21:58",
+      "valor_total_produtos": 225.2,
+      "valor_frete": 24.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 249.93,
+      "desconto": 0,
+      "cidade": "Nova Olímpia",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "5"
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Verde",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD08.34G": {
+      "codigo": "CD08.34G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  DOLCE GABBANA  LT28.10 - Cor: OffWhite - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD08.35": {
+      "codigo": "CD08.35",
+      "titulo": "Camiseta Genuína Cotton Tanguis - TOMMY  LT28.10 - Cor: Preto - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD08.42": {
+      "codigo": "CD08.42",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

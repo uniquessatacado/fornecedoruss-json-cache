@@ -1,0 +1,112 @@
+{
+  "codigo": "19606",
+  "nome": "ANDRÉ LUIZ GANDINI",
+  "email": "andreluizgandini@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/03/2025",
+  "whatsapp": "(17) 99184-0830",
+  "cidade": "Bebedouro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 296.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "28943",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-25 10:56:07",
+      "data_hora_confirmacao": "2025-03-25 10:58:37",
+      "data_hora_confirmacao_pagamento": "2025-03-25 10:58:37",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.48,
+      "desconto": 0,
+      "cidade": "Bebedouro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31746",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-19 12:19:12",
+      "data_hora_confirmacao": "2025-09-19 12:20:52",
+      "data_hora_confirmacao_pagamento": "2025-09-19 12:20:52",
+      "valor_total_produtos": 224.55,
+      "valor_frete": 18.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 242.82,
+      "desconto": 0,
+      "cidade": "Bebedouro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45200": {
+      "codigo": "45200",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C741) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53163": {
+      "codigo": "53163",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53171": {
+      "codigo": "53171",
+      "titulo": "Camiseta Drifit ULTRA Nike (LT039) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54330": {
+      "codigo": "54330",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT054) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54378": {
+      "codigo": "54378",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT054) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "54392": {
+      "codigo": "54392",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT054) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54394": {
+      "codigo": "54394",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT054) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

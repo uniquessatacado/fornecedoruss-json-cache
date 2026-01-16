@@ -1,0 +1,72 @@
+{
+  "codigo": "20289",
+  "nome": "DAVID ARAUJO",
+  "email": "caveira02exu@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "31/07/2025",
+  "whatsapp": "(11) 1198-80066",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 102.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "31050",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-31 12:48:49",
+      "data_hora_confirmacao": "2025-07-31 12:50:07",
+      "data_hora_confirmacao_pagamento": "2025-07-31 12:50:07",
+      "valor_total_produtos": 50.63,
+      "valor_frete": 13.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.3,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "31394",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-24 10:20:50",
+      "data_hora_confirmacao": "2025-08-24 10:30:06",
+      "data_hora_confirmacao_pagamento": "2025-08-24 10:30:06",
+      "valor_total_produtos": 25.65,
+      "valor_frete": 12.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 37.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "50598": {
+      "codigo": "50598",
+      "titulo": "Calça ULTRA DRIFIT Nike - Cor: PRETO C/ BRANCO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA ULTRA DRIFIT ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53129": {
+      "codigo": "53129",
+      "titulo": "Camiseta Drifit ULTRA Nike (LT039) - Cor: BRANCO/PRETO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

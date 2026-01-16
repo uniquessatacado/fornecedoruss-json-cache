@@ -1,0 +1,53 @@
+{
+  "codigo": "16388",
+  "nome": "ANDRÉ LUIZ DA SILVA",
+  "email": "andreluizsilva2021@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "08/10/2024",
+  "whatsapp": "(31) 99315-3811",
+  "cidade": "Contagem",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 213.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "23054",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-19 14:58:18",
+      "data_hora_confirmacao": "2024-10-21 11:20:18",
+      "data_hora_confirmacao_pagamento": "2024-10-21 11:20:11",
+      "valor_total_produtos": 135.98,
+      "valor_frete": 17.85,
+      "frete": "JADLOG",
+      "valor_total_pedido": 213.63,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32682": {
+      "codigo": "32682",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: P - Times : Psg - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32690": {
+      "codigo": "32690",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: G - Times : Psg - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

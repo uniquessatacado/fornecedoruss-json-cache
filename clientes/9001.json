@@ -1,0 +1,112 @@
+{
+  "codigo": "9001",
+  "nome": "CARLOS YVANHOE BRAGA MOURA",
+  "email": "carlosbragacgb@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(66) 99600-6787",
+  "cidade": "Barra do Garças",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 349.96000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "11392",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-06 15:37:02",
+      "data_hora_confirmacao": "2024-05-06 17:41:12",
+      "data_hora_confirmacao_pagamento": "2024-05-06 17:41:05",
+      "valor_total_produtos": 114.97,
+      "valor_frete": 45.55,
+      "frete": "JADLOG",
+      "valor_total_pedido": 160.52,
+      "desconto": 0,
+      "cidade": "Barra do Garças",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 01:23:00",
+      "data_hora_confirmacao": "2024-12-06 01:30:12",
+      "data_hora_confirmacao_pagamento": "2024-12-06 01:30:12",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 41.48,
+      "frete": "PAC",
+      "valor_total_pedido": 189.44,
+      "desconto": 0,
+      "cidade": "Barra do Garças",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18033": {
+      "codigo": "18033",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: VERDE CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18052": {
+      "codigo": "18052",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36374": {
+      "codigo": "36374",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36398": {
+      "codigo": "36398",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36401": {
+      "codigo": "36401",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36456": {
+      "codigo": "36456",
+      "titulo": "Bermuda Microfibra Ultra     - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.9M": {
+      "codigo": "CD4.9M",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

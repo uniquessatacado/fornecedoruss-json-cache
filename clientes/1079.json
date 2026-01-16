@@ -1,0 +1,77 @@
+{
+  "codigo": "1079",
+  "nome": "LELIO CANTERO",
+  "email": "leliocantero@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/08/2023",
+  "whatsapp": "(45) 99958-4793",
+  "cidade": "Foz do Iguaçu",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 184.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "7083",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 15:15:50",
+      "data_hora_confirmacao": "2024-02-07 10:52:45",
+      "data_hora_confirmacao_pagamento": "2024-02-07 10:52:38",
+      "valor_total_produtos": 144.95,
+      "valor_frete": 39.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 184.34,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.8": {
+      "codigo": "CD29.8",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.23": {
+      "codigo": "CD40.23",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.22": {
+      "codigo": "CD40.22",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  PUMA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD40.15": {
+      "codigo": "CD40.15",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

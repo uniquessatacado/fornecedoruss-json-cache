@@ -1,0 +1,72 @@
+{
+  "codigo": "7944",
+  "nome": "DOUGLAS JUCA DE SOUSA",
+  "email": "djsdf1992@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/04/2024",
+  "whatsapp": "(61) 98423-3354",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 159.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "9901",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-11 13:40:32",
+      "data_hora_confirmacao": "2024-04-11 16:26:58",
+      "data_hora_confirmacao_pagamento": "2024-04-11 16:26:54",
+      "valor_total_produtos": 75.96,
+      "valor_frete": 15.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.51,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21898",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-27 16:39:04",
+      "data_hora_confirmacao": "2024-09-28 09:52:31",
+      "data_hora_confirmacao_pagamento": "2024-09-28 09:52:25",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 15.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 68.17,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31537": {
+      "codigo": "31537",
+      "titulo": "Chinelo Kenner Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD57.10G": {
+      "codigo": "CD57.10G",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

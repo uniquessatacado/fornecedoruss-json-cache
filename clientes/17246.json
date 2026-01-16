@@ -1,0 +1,72 @@
+{
+  "codigo": "17246",
+  "nome": "GENALDO RIBEIRO",
+  "email": "genaldoribeiro02@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(19) 98206-1544",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 125.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "24748",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-19 21:18:15",
+      "data_hora_confirmacao": "2024-11-19 21:20:16",
+      "data_hora_confirmacao_pagamento": "2024-11-19 21:20:16",
+      "valor_total_produtos": 51.99,
+      "valor_frete": 12.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.78,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27302",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-27 19:40:37",
+      "data_hora_confirmacao": "2024-12-27 19:41:36",
+      "data_hora_confirmacao_pagamento": "2024-12-27 19:41:36",
+      "valor_total_produtos": 48.33,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.1,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22607": {
+      "codigo": "22607",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - HUGO BOSS - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38852": {
+      "codigo": "38852",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

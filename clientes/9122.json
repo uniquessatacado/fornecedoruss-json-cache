@@ -1,0 +1,142 @@
+{
+  "codigo": "9122",
+  "nome": "DANILO CESAR",
+  "email": "danilo23brooks@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/05/2024",
+  "whatsapp": "(11) 95101-2471",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 276.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "11705",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-11 04:20:16",
+      "data_hora_confirmacao": "2024-05-11 12:04:32",
+      "data_hora_confirmacao_pagamento": "2024-05-11 12:03:53",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 11.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.02,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12138",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 21:30:47",
+      "data_hora_confirmacao": "2024-05-21 11:53:31",
+      "data_hora_confirmacao_pagamento": "2024-05-21 11:53:23",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.91,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25503",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 22:44:26",
+      "data_hora_confirmacao": "2024-12-01 23:00:07",
+      "data_hora_confirmacao_pagamento": "2024-12-01 23:00:07",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-15 18:46:28",
+      "data_hora_confirmacao": "2025-07-15 19:12:51",
+      "data_hora_confirmacao_pagamento": "2025-07-15 19:12:51",
+      "valor_total_produtos": 76.67,
+      "valor_frete": 12.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.32,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18357": {
+      "codigo": "18357",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18646": {
+      "codigo": "18646",
+      "titulo": "Camiseta Suedine Nike Arte em Bordada  - Cor: ROXO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35665": {
+      "codigo": "35665",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35853": {
+      "codigo": "35853",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "50578": {
+      "codigo": "50578",
+      "titulo": "Camiseta Elasfit ULTRA DRY Nike - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50599": {
+      "codigo": "50599",
+      "titulo": "Calça ULTRA DRIFIT Nike - Cor: PRETO C/ BRANCO - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA ULTRA DRIFIT ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "codigo": "710",
+  "nome": "MARIO SCHRAMM",
+  "email": "marinhomobile@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(11) 94463-3534",
+  "cidade": "Itupeva",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 520.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301990",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-19 16:41:00",
+      "data_hora_confirmacao": "2023-10-19 17:19:41",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12029",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-17 23:06:25",
+      "data_hora_confirmacao": "2024-05-18 09:32:12",
+      "data_hora_confirmacao_pagamento": "2024-05-18 09:32:06",
+      "valor_total_produtos": 116.97,
+      "valor_frete": 15.98,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 132.95,
+      "desconto": 0,
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13679",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 15:46:25",
+      "data_hora_confirmacao": "2024-06-14 15:59:05",
+      "data_hora_confirmacao_pagamento": "2024-06-14 15:58:52",
+      "valor_total_produtos": 128.6,
+      "valor_frete": 16.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.16,
+      "desconto": 0,
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14147",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-19 23:00:29",
+      "data_hora_confirmacao": "2024-06-21 12:51:07",
+      "data_hora_confirmacao_pagamento": "2024-06-21 16:30:08",
+      "valor_total_produtos": 87.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 87.96,
+      "desconto": 0,
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19392",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 22:39:17",
+      "data_hora_confirmacao": "2024-08-23 11:31:53",
+      "data_hora_confirmacao_pagamento": "2024-08-23 11:31:47",
+      "valor_total_produtos": 103.96,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.58,
+      "desconto": 0,
+      "cidade": "Itupeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18628": {
+      "codigo": "18628",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18653": {
+      "codigo": "18653",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18657": {
+      "codigo": "18657",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21515": {
+      "codigo": "21515",
+      "titulo": "Camisetas Suedine Ultra - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21650": {
+      "codigo": "21650",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21652": {
+      "codigo": "21652",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21655": {
+      "codigo": "21655",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22291": {
+      "codigo": "22291",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22294": {
+      "codigo": "22294",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22297": {
+      "codigo": "22297",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22300": {
+      "codigo": "22300",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "27533": {
+      "codigo": "27533",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em termogel - Cor: MOSTARDA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27804": {
+      "codigo": "27804",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - ARAMIS arte em termogel - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ARAMIS",
+      "quantidade": "1"
+    },
+    "28522": {
+      "codigo": "28522",
+      "titulo": "Boné Super Premium - NEW ERA NEW YORK  - Cor: VERDE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28575": {
+      "codigo": "28575",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: CINZA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.2G": {
+      "codigo": "CD40.2G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10  - Cor: Preto com OffWhite - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

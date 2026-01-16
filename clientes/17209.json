@@ -1,0 +1,53 @@
+{
+  "codigo": "17209",
+  "nome": "PABLO ROBERTO TOFFANELLO",
+  "email": "pablotoffa4@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2024",
+  "whatsapp": "(19) 97408-8279",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 91.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "23809",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 11:49:06",
+      "data_hora_confirmacao": "2024-11-06 13:06:43",
+      "data_hora_confirmacao_pagamento": "2024-11-06 13:06:43",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 17.78,
+      "frete": "JADLOG",
+      "valor_total_pedido": 91.76,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33221": {
+      "codigo": "33221",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33224": {
+      "codigo": "33224",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

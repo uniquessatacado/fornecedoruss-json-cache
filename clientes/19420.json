@@ -1,0 +1,77 @@
+{
+  "codigo": "19420",
+  "nome": "MIGUEL THYLIA ROUSSENQ",
+  "email": "miguel.roussenq@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/02/2025",
+  "whatsapp": "(21) 96936-6035",
+  "cidade": "Belford Roxo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "28452",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-28 09:45:05",
+      "data_hora_confirmacao": "2025-02-28 09:47:20",
+      "data_hora_confirmacao_pagamento": "2025-02-28 09:47:20",
+      "valor_total_produtos": 122.5,
+      "valor_frete": 18.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 141.45,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41137": {
+      "codigo": "41137",
+      "titulo": "Bermuda Ultra Dry LT16A (C311) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Ultra Dry",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41169": {
+      "codigo": "41169",
+      "titulo": "Bermuda Ultra Dry LT16A  (C315) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Ultra Dry",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41296": {
+      "codigo": "41296",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42409": {
+      "codigo": "42409",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42416": {
+      "codigo": "42416",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

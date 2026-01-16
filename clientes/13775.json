@@ -1,0 +1,69 @@
+{
+  "codigo": "13775",
+  "nome": "FABIO GOMES BERTHOLDO",
+  "email": "fabio_bertholdo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/08/2024",
+  "whatsapp": "(11) 96418-8899",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "19703",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 09:06:50",
+      "data_hora_confirmacao": "2024-08-27 11:32:24",
+      "data_hora_confirmacao_pagamento": "2024-08-27 11:32:18",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 12.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.29,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23076": {
+      "codigo": "23076",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "23079": {
+      "codigo": "23079",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "2"
+    },
+    "25419": {
+      "codigo": "25419",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "2"
+    },
+    "25422": {
+      "codigo": "25422",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "2"
+    }
+  }
+}

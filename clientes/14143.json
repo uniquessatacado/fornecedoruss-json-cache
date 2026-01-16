@@ -1,0 +1,123 @@
+{
+  "codigo": "14143",
+  "nome": "JOÃO VICTOR RIBEIRO DA SILVA",
+  "email": "joaoviictor2406@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(81) 99150-2886",
+  "cidade": "Araçoiaba",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 361.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "22000",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-29 17:13:45",
+      "data_hora_confirmacao": "2024-09-30 16:01:31",
+      "data_hora_confirmacao_pagamento": "2024-09-30 16:01:22",
+      "valor_total_produtos": 86.98,
+      "valor_frete": 35.65,
+      "frete": "PAC",
+      "valor_total_pedido": 122.63,
+      "desconto": 0,
+      "cidade": "Araçoiaba",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25718",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 19:45:45",
+      "data_hora_confirmacao": "2024-12-04 19:47:37",
+      "data_hora_confirmacao_pagamento": "2024-12-04 19:47:37",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 33.28,
+      "frete": "PAC",
+      "valor_total_pedido": 117.26,
+      "desconto": 0,
+      "cidade": "Araçoiaba",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31117",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-04 10:47:07",
+      "data_hora_confirmacao": "2025-08-04 10:47:52",
+      "data_hora_confirmacao_pagamento": "2025-08-04 10:47:52",
+      "valor_total_produtos": 93.74,
+      "valor_frete": 27.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.42,
+      "desconto": 0,
+      "cidade": "Araçoiaba",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30548": {
+      "codigo": "30548",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31185": {
+      "codigo": "31185",
+      "titulo": "Camiseta Tecido Cashmere Importada - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36289": {
+      "codigo": "36289",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-VRM-DSL) (MD2-OFF-DSL) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36342": {
+      "codigo": "36342",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado ( MD5-OFF-DSL)  ( MD8-PRT-DSL)   - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "51787": {
+      "codigo": "51787",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL Termogel alto relevo (NLT001) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "51938": {
+      "codigo": "51938",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

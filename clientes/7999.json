@@ -1,0 +1,53 @@
+{
+  "codigo": "7999",
+  "nome": "SIDERLEI  NEPOMUCENA DUARTE",
+  "email": "siderleyduarte@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/04/2024",
+  "whatsapp": "(62) 98525-6950",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 177.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "9965",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 14:50:38",
+      "data_hora_confirmacao": "2024-04-12 16:01:40",
+      "data_hora_confirmacao_pagamento": "2024-04-12 16:01:35",
+      "valor_total_produtos": 154.95,
+      "valor_frete": 22.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 177.07,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.144G": {
+      "codigo": "CD02.144G",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: BRANCA - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": 4
+    },
+    "CD02.143G": {
+      "codigo": "CD02.143G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

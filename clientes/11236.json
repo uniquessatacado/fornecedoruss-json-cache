@@ -1,0 +1,53 @@
+{
+  "codigo": "11236",
+  "nome": "ALEXANDRO SOUZA",
+  "email": "Xandy87souza@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(11) 9764-78332",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 146.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "28445",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-02-27 21:26:09",
+      "data_hora_confirmacao": "2025-02-27 21:26:09",
+      "data_hora_confirmacao_pagamento": "2025-02-27 21:26:09",
+      "valor_total_produtos": 132.99,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.04,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21126": {
+      "codigo": "21126",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33093": {
+      "codigo": "33093",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

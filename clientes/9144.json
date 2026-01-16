@@ -1,0 +1,69 @@
+{
+  "codigo": "9144",
+  "nome": "ANDERSON CARLOS FERREIRA",
+  "email": "arthas10acf@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2024",
+  "whatsapp": "(11) 96354-1465",
+  "cidade": "Mogi Guaçu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 183.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "11491",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-08 01:35:57",
+      "data_hora_confirmacao": "2024-05-08 16:31:50",
+      "data_hora_confirmacao_pagamento": "2024-05-08 16:30:32",
+      "valor_total_produtos": 167.96,
+      "valor_frete": 15.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 183.16,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17870": {
+      "codigo": "17870",
+      "titulo": "Camiseta 40.1 Ultra - LACOSTE   - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD12.02G": {
+      "codigo": "CD12.02G",
+      "titulo": "Polo Piquet Duplo Peruana - Emporio Armani - Cor: PRETA - Marca: Armani - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD12.03M": {
+      "codigo": "CD12.03M",
+      "titulo": "Polo Piquet Duplo Peruana - Hugo Boss  - Cor: PRETA - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.4G": {
+      "codigo": "CD15.4G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - HUGO BOSS - Cor: BRANCA - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "codigo": "7911",
+  "nome": "LETÍCIA GABRIELE",
+  "email": "leehgabriele07@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/04/2024",
+  "whatsapp": "(11) 98592-7134",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 226.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "9857",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 19:50:58",
+      "data_hora_confirmacao": "2024-04-12 09:42:34",
+      "data_hora_confirmacao_pagamento": "2024-04-12 09:42:29",
+      "valor_total_produtos": 116.7,
+      "valor_frete": 12.85,
+      "frete": "SEDEX",
+      "valor_total_pedido": 129.55,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26304",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-13 01:45:04",
+      "data_hora_confirmacao": "2024-12-13 19:20:08",
+      "data_hora_confirmacao_pagamento": "2024-12-13 19:20:08",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 13.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 60.29,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26604",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-16 17:14:30",
+      "data_hora_confirmacao": "2024-12-16 17:15:50",
+      "data_hora_confirmacao_pagamento": "2024-12-16 17:15:50",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37123": {
+      "codigo": "37123",
+      "titulo": "Bermuda Microfibra Ultra  (B01) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37422": {
+      "codigo": "37422",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C14) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD39.13GG": {
+      "codigo": "CD39.13GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA)  - Cor: MARROM ESCURO - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.13G": {
+      "codigo": "CD39.13G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA)  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

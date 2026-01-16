@@ -1,0 +1,53 @@
+{
+  "codigo": "18094",
+  "nome": "VICTOR DIOGO PINHEIRO AMARAL",
+  "email": "victor.diogoamaral@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/12/2024",
+  "whatsapp": "(88) 99999-9679",
+  "cidade": "Juazeiro do Norte",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 162.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "25699",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 17:03:12",
+      "data_hora_confirmacao": "2024-12-04 17:07:01",
+      "data_hora_confirmacao_pagamento": "2024-12-04 17:07:01",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 78.76,
+      "frete": "SEDEX",
+      "valor_total_pedido": 162.74,
+      "desconto": 0,
+      "cidade": "Juazeiro do Norte",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36240": {
+      "codigo": "36240",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD2-LV) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "36274": {
+      "codigo": "36274",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-NK) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "4843",
+  "nome": "MÁRCIO JOSE BEVILACQUA",
+  "email": "marciojbevilacqua@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(19) 99672-0121",
+  "cidade": "Valinhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 120.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "5142",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 20:37:52",
+      "data_hora_confirmacao": "2023-12-20 08:06:09",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:06:23",
+      "valor_total_produtos": 35.96,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.56,
+      "desconto": 0,
+      "cidade": "Valinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16540",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-20 15:52:07",
+      "data_hora_confirmacao": "2024-07-22 13:18:04",
+      "data_hora_confirmacao_pagamento": "2024-07-22 13:17:59",
+      "valor_total_produtos": 60.98,
+      "valor_frete": 14.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.08,
+      "desconto": 0,
+      "cidade": "Valinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21461": {
+      "codigo": "21461",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22924": {
+      "codigo": "22924",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA LACOSTE - CANO LONGO - Marca: Lacoste - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 4
+    }
+  }
+}

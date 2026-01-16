@@ -1,0 +1,104 @@
+{
+  "codigo": "14081",
+  "nome": "GUILHERME FONTAINHA",
+  "email": "guilhermefontainha@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/08/2024",
+  "whatsapp": "(79) 99800-4579",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 228.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "19184",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-20 19:00:20",
+      "data_hora_confirmacao": "2024-08-21 09:40:30",
+      "data_hora_confirmacao_pagamento": "2024-08-21 09:40:25",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.98,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22258",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-04 13:11:11",
+      "data_hora_confirmacao": "2024-10-07 17:03:22",
+      "data_hora_confirmacao_pagamento": "2024-10-07 17:03:07",
+      "valor_total_produtos": 120.96,
+      "valor_frete": 15.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.76,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28297": {
+      "codigo": "28297",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28319": {
+      "codigo": "28319",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29400": {
+      "codigo": "29400",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "31719": {
+      "codigo": "31719",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31757": {
+      "codigo": "31757",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31763": {
+      "codigo": "31763",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

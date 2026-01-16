@@ -1,0 +1,53 @@
+{
+  "codigo": "8151",
+  "nome": "ISAC DA FONSCA MOREIRA",
+  "email": "isac270398@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/04/2024",
+  "whatsapp": "(33) 98428-2815",
+  "cidade": "Manhuaçu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 285.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "10940",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 14:12:25",
+      "data_hora_confirmacao": "2024-04-30 20:05:31",
+      "data_hora_confirmacao_pagamento": "2024-04-30 20:05:16",
+      "valor_total_produtos": 259.95,
+      "valor_frete": 25.53,
+      "frete": "JADLOG",
+      "valor_total_pedido": 285.48,
+      "desconto": 0,
+      "cidade": "Manhuaçu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD50.06M": {
+      "codigo": "CD50.06M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL BASICA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.09M": {
+      "codigo": "CD50.09M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

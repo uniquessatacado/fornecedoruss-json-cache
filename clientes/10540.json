@@ -1,0 +1,53 @@
+{
+  "codigo": "10540",
+  "nome": "MATEUS HENRIQUE PEREIRA DO CARMO",
+  "email": "teus.carmo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(16) 99768-7646",
+  "cidade": "Matão",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 201.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "13195",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 10:24:47",
+      "data_hora_confirmacao": "2024-06-06 10:40:26",
+      "data_hora_confirmacao_pagamento": "2024-06-06 10:40:13",
+      "valor_total_produtos": 179.98,
+      "valor_frete": 21.92,
+      "frete": "SEDEX",
+      "valor_total_pedido": 201.9,
+      "desconto": 0,
+      "cidade": "Matão",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19898": {
+      "codigo": "19898",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FRANÇA PRONTA ENTREGA)   - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19899": {
+      "codigo": "19899",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FRANÇA PRONTA ENTREGA)   - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

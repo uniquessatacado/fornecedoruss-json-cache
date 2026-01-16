@@ -1,0 +1,45 @@
+{
+  "codigo": "20512",
+  "nome": "HENRIQUE MONTEIRO GOULART",
+  "email": "henriquemonteiro01@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "14/09/2025",
+  "whatsapp": "(11) 95586-0301",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65,
+  "pedidos": [
+    {
+      "codigo_pedido": "31662",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-14 00:16:11",
+      "data_hora_confirmacao": "2025-09-14 00:18:16",
+      "data_hora_confirmacao_pagamento": "2025-09-14 00:18:16",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53807": {
+      "codigo": "53807",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - BORDADA (LT046) - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

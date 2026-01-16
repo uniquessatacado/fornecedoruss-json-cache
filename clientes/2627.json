@@ -1,0 +1,53 @@
+{
+  "codigo": "2627",
+  "nome": "GUILHERME DE MELLO",
+  "email": "gui.demello91@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(54) 99653-5404",
+  "cidade": "Balneário Piçarras",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300555",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 11:53:44",
+      "data_hora_confirmacao": "2023-09-26 17:35:17",
+      "data_hora_confirmacao_pagamento": "2023-09-26 17:35:25",
+      "valor_total_produtos": 68,
+      "valor_frete": 24.36,
+      "frete": "PAC",
+      "valor_total_pedido": 92.36,
+      "desconto": 0,
+      "cidade": "Balneário Piçarras",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.15GG": {
+      "codigo": "CD07.15GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci  - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: OffWhite - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

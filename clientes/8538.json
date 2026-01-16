@@ -1,0 +1,61 @@
+{
+  "codigo": "8538",
+  "nome": "UERLI DIAS",
+  "email": "uerlidyas23@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(71) 9974-11608",
+  "cidade": "Mata de São João",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 185.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "22845",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-15 16:34:35",
+      "data_hora_confirmacao": "2024-10-15 16:58:56",
+      "data_hora_confirmacao_pagamento": "2024-10-15 16:58:49",
+      "valor_total_produtos": 149.97,
+      "valor_frete": 36,
+      "frete": "PAC",
+      "valor_total_pedido": 185.97,
+      "desconto": 0,
+      "cidade": "Mata de São João",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29183": {
+      "codigo": "29183",
+      "titulo": "KIT CUECA PREMIUM NA CAIXA DE MADEIRA - EMPORIO ARMANI - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "32517": {
+      "codigo": "32517",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32526": {
+      "codigo": "32526",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

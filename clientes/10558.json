@@ -1,0 +1,88 @@
+{
+  "codigo": "10558",
+  "nome": "EDINHO DE OLIVEIRA",
+  "email": "edinho.vilma@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(27) 9972-86588",
+  "cidade": "Guarapari",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 230.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "13226",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 15:39:28",
+      "data_hora_confirmacao": "2024-06-07 17:20:48",
+      "data_hora_confirmacao_pagamento": "2024-06-07 17:20:41",
+      "valor_total_produtos": 97.48,
+      "valor_frete": 19.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 116.49,
+      "desconto": 0,
+      "cidade": "Guarapari",
+      "estado": "ES",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "15791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 14:06:37",
+      "data_hora_confirmacao": "2024-07-15 13:09:27",
+      "data_hora_confirmacao_pagamento": "2024-07-15 13:09:15",
+      "valor_total_produtos": 95.18,
+      "valor_frete": 18.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.73,
+      "desconto": 0,
+      "cidade": "Guarapari",
+      "estado": "ES",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "18584": {
+      "codigo": "18584",
+      "titulo": "Camiseta Suedine Nike Arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "20109": {
+      "codigo": "20109",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23164": {
+      "codigo": "23164",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23708": {
+      "codigo": "23708",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ADIDAS arte em bordado - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

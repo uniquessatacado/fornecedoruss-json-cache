@@ -1,0 +1,77 @@
+{
+  "codigo": "4237",
+  "nome": "FARLEY GONÇALVES DOS SANTOS",
+  "email": "faemonique@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(11) 94713-6488",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 179.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "3691",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 15:00:20",
+      "data_hora_confirmacao": "2023-11-27 16:58:44",
+      "data_hora_confirmacao_pagamento": "2023-11-27 16:58:54",
+      "valor_total_produtos": 166.9,
+      "valor_frete": 12.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 179.68,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.47": {
+      "codigo": "CD17.47",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Verde - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.35": {
+      "codigo": "CD08.35",
+      "titulo": "Camiseta Genuína Cotton Tanguis - TOMMY  LT28.10 - Cor: OffWhite - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "2"
+    }
+  }
+}

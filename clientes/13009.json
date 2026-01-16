@@ -1,0 +1,61 @@
+{
+  "codigo": "13009",
+  "nome": "MATEUS SILVA",
+  "email": "bezerramateus164@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(16) 99235-9691",
+  "cidade": "Serrana",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 166.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "16880",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 13:03:52",
+      "data_hora_confirmacao": "2024-07-24 18:51:20",
+      "data_hora_confirmacao_pagamento": "2024-07-24 18:51:11",
+      "valor_total_produtos": 185.37,
+      "valor_frete": 17.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 166.22,
+      "desconto": 37.07,
+      "cidade": "Serrana",
+      "estado": "SP",
+      "percentual_comissao": 45,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "24145": {
+      "codigo": "24145",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25077": {
+      "codigo": "25077",
+      "titulo": "Bermuda Sarja Luxo Importada - DIESEL - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA SARJA LUXO IMPORTADA",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25305": {
+      "codigo": "25305",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

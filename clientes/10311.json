@@ -1,0 +1,53 @@
+{
+  "codigo": "10311",
+  "nome": "RONNY CAUE ANTUNES COSTA",
+  "email": "ronny.caue@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2024",
+  "whatsapp": "(11) 98104-9021",
+  "cidade": "Carapicuíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "12985",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 18:59:20",
+      "data_hora_confirmacao": "2024-06-03 09:58:20",
+      "data_hora_confirmacao_pagamento": "2024-06-03 09:58:10",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 14.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.32,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20212": {
+      "codigo": "20212",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ADIDAS - Cor: Kit Preto-Cinza-Marinho - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD50.13G": {
+      "codigo": "CD50.13G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

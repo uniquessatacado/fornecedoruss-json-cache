@@ -1,0 +1,69 @@
+{
+  "codigo": "10251",
+  "nome": "EDIELSON LIMA",
+  "email": "edielson.02@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "01/06/2024",
+  "whatsapp": "(21) 93300-4729",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 167.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "12940",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-01 11:42:41",
+      "data_hora_confirmacao": "2024-06-01 12:55:57",
+      "data_hora_confirmacao_pagamento": "2024-06-01 12:55:50",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 19.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.06,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17987": {
+      "codigo": "17987",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "20097": {
+      "codigo": "20097",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20104": {
+      "codigo": "20104",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20226": {
+      "codigo": "20226",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA BOSS - Cor: Kit Preto-Cinza-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

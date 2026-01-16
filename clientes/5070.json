@@ -1,0 +1,45 @@
+{
+  "codigo": "5070",
+  "nome": "GUILHERME HENRIQUE",
+  "email": "guilherme.adm312@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/12/2023",
+  "whatsapp": "(14) 98802-0143",
+  "cidade": "Pederneiras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "5922",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-28 12:33:14",
+      "data_hora_confirmacao": "2023-12-28 13:22:08",
+      "data_hora_confirmacao_pagamento": "2023-12-28 13:22:21",
+      "valor_total_produtos": 52.68,
+      "valor_frete": 11.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.32,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD2.81": {
+      "codigo": "CD2.81",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

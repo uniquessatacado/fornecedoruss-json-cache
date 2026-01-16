@@ -1,0 +1,72 @@
+{
+  "codigo": "13608",
+  "nome": "FÁBIO RIAN FIGUEIRO SAMPAIO",
+  "email": "fabiosampaiorian@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(12) 99172-4875",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 93.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "17906",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 07:42:14",
+      "data_hora_confirmacao": "2024-08-06 09:36:57",
+      "data_hora_confirmacao_pagamento": "2024-08-06 09:36:49",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 13.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 57.4,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18137",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-08 18:35:35",
+      "data_hora_confirmacao": "2024-08-08 18:35:35",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25842": {
+      "codigo": "25842",
+      "titulo": "Bermuda Microfibra HIPER - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26418": {
+      "codigo": "26418",
+      "titulo": "Camiseta Suedine Oversized 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

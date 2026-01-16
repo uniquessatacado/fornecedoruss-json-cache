@@ -1,0 +1,139 @@
+{
+  "codigo": "1127",
+  "nome": "GILMAR JÚNIOR",
+  "email": "gilmarfsj09@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "11/08/2023",
+  "whatsapp": "(19) 98733-6261",
+  "cidade": "Monte Mor",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 265.09000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300469",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 12:39:39",
+      "data_hora_confirmacao": "2023-09-22 12:48:06",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 113,
+      "valor_frete": 15.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 128.09,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301618",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-11 12:07:47",
+      "data_hora_confirmacao": "2023-10-11 12:21:06",
+      "data_hora_confirmacao_pagamento": "2023-10-11 13:04:02",
+      "valor_total_produtos": 66,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 66,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301625",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-11 12:39:58",
+      "data_hora_confirmacao": "2023-10-11 13:26:42",
+      "data_hora_confirmacao_pagamento": "2023-10-11 13:27:12",
+      "valor_total_produtos": 71,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 71,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.3GG": {
+      "codigo": "CD17.3GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.24G": {
+      "codigo": "CD02.24G",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: OffWhite - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.7G": {
+      "codigo": "CD02.7G",
+      "titulo": "Camiseta High 40.1 Ultra Premium  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD17.34GG": {
+      "codigo": "CD17.34GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.33GG": {
+      "codigo": "CD17.33GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.11G2": {
+      "codigo": "CD02.11G2",
+      "titulo": "Camiseta Nike 40.1 Ultra Premium  - Cor: Bege - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.32GG": {
+      "codigo": "CD17.32GG",
+      "titulo": "Bermuda Microfibra Ultra - Adidas - Cor: Azul Bebê - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

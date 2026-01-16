@@ -1,0 +1,53 @@
+{
+  "codigo": "13687",
+  "nome": "HUGO JUNIO",
+  "email": "hugojunior1111@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/08/2024",
+  "whatsapp": "(31) 97213-9788",
+  "cidade": "Ribeirão das Neves",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "18063",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-07 18:02:17",
+      "data_hora_confirmacao": "2024-08-07 18:56:06",
+      "data_hora_confirmacao_pagamento": "2024-08-07 18:56:00",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 17.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.39,
+      "desconto": 0,
+      "cidade": "Ribeirão das Neves",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26603": {
+      "codigo": "26603",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26615": {
+      "codigo": "26615",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "11389",
+  "nome": "VALDIR DIAS JUNIOR",
+  "email": "jrdiasvaldir@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/06/2024",
+  "whatsapp": "(11) 99999-2121",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "14391",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-23 10:58:08",
+      "data_hora_confirmacao": "2024-06-24 13:48:56",
+      "data_hora_confirmacao_pagamento": "2024-06-24 13:48:49",
+      "valor_total_produtos": 37.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.91,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19753": {
+      "codigo": "19753",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

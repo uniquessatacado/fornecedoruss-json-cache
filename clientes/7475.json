@@ -1,0 +1,96 @@
+{
+  "codigo": "7475",
+  "nome": "VENÂNCIO CARDOSO",
+  "email": "venanciocardoso_22@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(19) 99817-7222",
+  "cidade": "Santa Rosa de Viterbo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 286.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "9282",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 22:09:56",
+      "data_hora_confirmacao": "2024-04-03 12:12:13",
+      "data_hora_confirmacao_pagamento": "2024-04-03 12:12:08",
+      "valor_total_produtos": 75.96,
+      "valor_frete": 14.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.63,
+      "desconto": 0,
+      "cidade": "Santa Rosa de Viterbo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14550",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-26 12:54:45",
+      "data_hora_confirmacao": "2024-07-01 12:28:23",
+      "data_hora_confirmacao_pagamento": "2024-07-01 12:28:17",
+      "valor_total_produtos": 155.98,
+      "valor_frete": 14.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 195.76,
+      "desconto": 0,
+      "cidade": "Santa Rosa de Viterbo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21191": {
+      "codigo": "21191",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21409": {
+      "codigo": "21409",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD32.1M": {
+      "codigo": "CD32.1M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD32.1G": {
+      "codigo": "CD32.1G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

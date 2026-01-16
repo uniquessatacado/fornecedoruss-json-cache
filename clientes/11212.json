@@ -1,0 +1,69 @@
+{
+  "codigo": "11212",
+  "nome": "VITOR FERREIRA FERNANDES",
+  "email": "vitorfernandes3054@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(31) 99351-6748",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.52,
+  "pedidos": [
+    {
+      "codigo_pedido": "14138",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 21:47:00",
+      "data_hora_confirmacao": "2024-06-20 19:51:25",
+      "data_hora_confirmacao_pagamento": "2024-06-20 19:51:19",
+      "valor_total_produtos": 111.96,
+      "valor_frete": 17.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.52,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21427": {
+      "codigo": "21427",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22081": {
+      "codigo": "22081",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ADIDAS arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22294": {
+      "codigo": "22294",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22301": {
+      "codigo": "22301",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

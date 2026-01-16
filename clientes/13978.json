@@ -1,0 +1,99 @@
+{
+  "codigo": "13978",
+  "nome": "VALDECIR CAPELARI",
+  "email": "valdecircapelari@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(18) 9680-6467",
+  "cidade": "Birigui",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 250.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "18506",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 08:38:21",
+      "data_hora_confirmacao": "2024-08-13 11:11:12",
+      "data_hora_confirmacao_pagamento": "2024-08-13 11:10:57",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 12.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.9,
+      "desconto": 0,
+      "cidade": "Birigui",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26495",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-15 09:56:05",
+      "data_hora_confirmacao": "2024-12-15 09:57:24",
+      "data_hora_confirmacao_pagamento": "2024-12-15 09:57:24",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 12.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.9,
+      "desconto": 0,
+      "cidade": "Birigui",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30614",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-10 22:03:35",
+      "data_hora_confirmacao": "2025-07-10 22:05:54",
+      "data_hora_confirmacao_pagamento": "2025-07-10 22:05:54",
+      "valor_total_produtos": 118.67,
+      "valor_frete": 14.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.4,
+      "desconto": 0,
+      "cidade": "Birigui",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27328": {
+      "codigo": "27328",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - PRADA arte em patch emborrachado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "37705": {
+      "codigo": "37705",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C17) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "50471": {
+      "codigo": "50471",
+      "titulo": "Calça Jeans Luxo Importada - Tommy (LT004.1) - Cor: JEANS - Tamanho: 42",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "19457",
+  "nome": "MATHEUS ISIDIO DOS SANTOS ARAUJO",
+  "email": "matheus.isdio@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/03/2025",
+  "whatsapp": "(11) 9186-84130",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 218.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "28532",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-03 11:11:16",
+      "data_hora_confirmacao": "2025-03-03 15:59:16",
+      "data_hora_confirmacao_pagamento": "2025-03-03 15:59:16",
+      "valor_total_produtos": 203.05,
+      "valor_frete": 15.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 218.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41913": {
+      "codigo": "41913",
+      "titulo": "Camiseta Suedine Oversized LT23A  (C537) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE PREMIUM OVERSIZED ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42319": {
+      "codigo": "42319",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C631)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42396": {
+      "codigo": "42396",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42410": {
+      "codigo": "42410",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42438": {
+      "codigo": "42438",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42445": {
+      "codigo": "42445",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

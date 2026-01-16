@@ -1,0 +1,139 @@
+{
+  "codigo": "13456",
+  "nome": "JAIME FARIA PEREIRA JUNIOR",
+  "email": "2025jaimejunior@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "01/08/2024",
+  "whatsapp": "(21) 9692-89200",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 314.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "17620",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 21:29:46",
+      "data_hora_confirmacao": "2024-08-02 16:18:55",
+      "data_hora_confirmacao_pagamento": "2024-08-02 16:18:42",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 15.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.27,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18699",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 16:57:25",
+      "data_hora_confirmacao": "2024-08-16 09:10:40",
+      "data_hora_confirmacao_pagamento": "2024-08-16 09:10:30",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 16.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.79,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18748",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 08:41:54",
+      "data_hora_confirmacao": "2024-08-16 09:11:53",
+      "data_hora_confirmacao_pagamento": "2024-08-16 09:11:45",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 16.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.79,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26023": {
+      "codigo": "26023",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "26027": {
+      "codigo": "26027",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27598": {
+      "codigo": "27598",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte patch emborrachado - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27651": {
+      "codigo": "27651",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27668": {
+      "codigo": "27668",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27736": {
+      "codigo": "27736",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em termo gel - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27776": {
+      "codigo": "27776",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - RESERVA arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "27833": {
+      "codigo": "27833",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "8291",
+  "nome": "IZIDORO DE OLIVEIRA",
+  "email": "izidoro6571@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/04/2024",
+  "whatsapp": "(17) 99184-8324",
+  "cidade": "Bebedouro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "10303",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 09:44:17",
+      "data_hora_confirmacao": "2024-04-19 14:46:09",
+      "data_hora_confirmacao_pagamento": "2024-04-19 14:46:04",
+      "valor_total_produtos": 121.93,
+      "valor_frete": 19.93,
+      "frete": "JADLOG",
+      "valor_total_pedido": 141.86,
+      "desconto": 0,
+      "cidade": "Bebedouro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.18": {
+      "codigo": "CD4.18",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO ESCRITA INTERNA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.19G": {
+      "codigo": "CD4.19G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.21G": {
+      "codigo": "CD24.21G",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    }
+  }
+}

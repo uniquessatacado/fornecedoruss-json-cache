@@ -1,0 +1,77 @@
+{
+  "codigo": "20125",
+  "nome": "DANIEL FERREIRA PEREIRA",
+  "email": "daniel_f.pereira@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "22/06/2025",
+  "whatsapp": "(19) 99179-4660",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "30355",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-22 18:45:27",
+      "data_hora_confirmacao": "2025-06-22 18:49:52",
+      "data_hora_confirmacao_pagamento": "2025-06-22 18:49:52",
+      "valor_total_produtos": 73.32,
+      "valor_frete": 14.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.59,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48764": {
+      "codigo": "48764",
+      "titulo": "Cuecas Peruanas - Tommy LT62A (C1072)  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "48774": {
+      "codigo": "48774",
+      "titulo": "Cuecas Peruanas - Tommy LT62A (C1074) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "48785": {
+      "codigo": "48785",
+      "titulo": "Cuecas Peruanas - Calvin Klein LT62A (C1076) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "48797": {
+      "codigo": "48797",
+      "titulo": "Cuecas Peruanas - Calvin Klein LT62A (C1078) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "49185": {
+      "codigo": "49185",
+      "titulo": "Camiseta Elasfit ULTRA DRY Nike | LT67A (C1140) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

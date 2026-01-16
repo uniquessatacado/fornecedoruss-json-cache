@@ -1,0 +1,112 @@
+{
+  "codigo": "8855",
+  "nome": "MARCELO AVELINO DE OLIVEIRA",
+  "email": "19marceloenzo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/05/2024",
+  "whatsapp": "(27) 99576-2980",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 402.20000000000005,
+  "pedidos": [
+    {
+      "codigo_pedido": "11072",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-01 06:10:12",
+      "data_hora_confirmacao": "2024-05-02 16:59:44",
+      "data_hora_confirmacao_pagamento": "2024-05-02 16:58:48",
+      "valor_total_produtos": 160.97,
+      "valor_frete": 46.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 207.36,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11073",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 06:37:35",
+      "data_hora_confirmacao": "2024-05-02 17:00:00",
+      "data_hora_confirmacao_pagamento": "2024-05-02 17:01:21",
+      "valor_total_produtos": 154.95,
+      "valor_frete": 39.89,
+      "frete": "SEDEX",
+      "valor_total_pedido": 194.84,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17800": {
+      "codigo": "17800",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17801": {
+      "codigo": "17801",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17841": {
+      "codigo": "17841",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD02.130GG": {
+      "codigo": "CD02.130GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.131GG": {
+      "codigo": "CD02.131GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.150G": {
+      "codigo": "CD02.150G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER    - Cor: VERMELHA - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.150GG": {
+      "codigo": "CD02.150GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER    - Cor: PRETA - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

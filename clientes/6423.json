@@ -1,0 +1,69 @@
+{
+  "codigo": "6423",
+  "nome": "JEFERSON HENRIQUE SOUZA DA SILVA",
+  "email": "jefersongabee@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(51) 99397-1315",
+  "cidade": "Alvorada",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 209.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "7683",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 09:09:26",
+      "data_hora_confirmacao": "2024-02-27 10:18:02",
+      "data_hora_confirmacao_pagamento": "2024-02-27 10:17:55",
+      "valor_total_produtos": 189.81,
+      "valor_frete": 19.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 209.31,
+      "desconto": 0,
+      "cidade": "Alvorada",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.01M": {
+      "codigo": "CD24.01M",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "10"
+    },
+    "CD24.01G": {
+      "codigo": "CD24.01G",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "CD24.01GG": {
+      "codigo": "CD24.01GG",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "CD24.02GG": {
+      "codigo": "CD24.02GG",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "13543",
+  "nome": "WESLEY DA SILVA GARCIA",
+  "email": "Wesley.cellular@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/08/2024",
+  "whatsapp": "(16) 99633-3903",
+  "cidade": "Araraquara",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "17819",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-03 19:31:26",
+      "data_hora_confirmacao": "2024-08-05 11:55:36",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:55:27",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 15.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.19,
+      "desconto": 0,
+      "cidade": "Araraquara",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25959": {
+      "codigo": "25959",
+      "titulo": "Tênis vans KNU linha premium - Cor: PRETA - Tamanho: 42",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "Vans",
+      "quantidade": "1"
+    }
+  }
+}

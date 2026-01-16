@@ -1,0 +1,88 @@
+{
+  "codigo": "3906",
+  "nome": "DUÍLIO FERREIRA",
+  "email": "dwsforever@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(82) 99684-5615",
+  "cidade": "Arapiraca",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 266.58000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "2945",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 13:11:58",
+      "data_hora_confirmacao": "2023-11-09 13:26:23",
+      "data_hora_confirmacao_pagamento": "2023-11-09 13:26:35",
+      "valor_total_produtos": 108,
+      "valor_frete": 24,
+      "frete": "JADLOG",
+      "valor_total_pedido": 132,
+      "desconto": 0,
+      "cidade": "Arapiraca",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7493",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 11:59:59",
+      "data_hora_confirmacao": "2024-02-22 12:37:02",
+      "data_hora_confirmacao_pagamento": "2024-02-22 12:36:57",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 26.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.58,
+      "desconto": 0,
+      "cidade": "Arapiraca",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.40": {
+      "codigo": "CD17.40",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT03.11 - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Cinza Escuro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.2M": {
+      "codigo": "CD04.2M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

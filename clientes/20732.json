@@ -1,0 +1,61 @@
+{
+  "codigo": "20732",
+  "nome": "LEONINA DOS SANTOS BENEDICTO",
+  "email": "ninalalavitor@gamail.com",
+  "sexo": "0",
+  "data_cadastro": "09/12/2025",
+  "whatsapp": "(12) 99709-2544",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 242.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "32395",
+      "situacao_pedido": "PEDIDO SEPARADO",
+      "data_hora_pedido": "2025-12-09 18:49:46",
+      "data_hora_confirmacao": "2025-12-09 18:51:16",
+      "data_hora_confirmacao_pagamento": "2025-12-09 18:51:16",
+      "valor_total_produtos": 221.25,
+      "valor_frete": 21.18,
+      "frete": "SEDEX",
+      "valor_total_pedido": 242.43,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53990": {
+      "codigo": "53990",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - TOMMY (LT049) - Cor: PRETO CHUMBO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "54895": {
+      "codigo": "54895",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54896": {
+      "codigo": "54896",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

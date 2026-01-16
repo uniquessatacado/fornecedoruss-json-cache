@@ -1,0 +1,61 @@
+{
+  "codigo": "4246",
+  "nome": "BRUNO NUNES",
+  "email": "brunaodimas@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "25/11/2023",
+  "whatsapp": "(19) 99283-4711",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 101,
+  "pedidos": [
+    {
+      "codigo_pedido": "3594",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-25 07:48:58",
+      "data_hora_confirmacao": "2023-11-25 09:34:15",
+      "data_hora_confirmacao_pagamento": "2023-11-25 12:19:07",
+      "valor_total_produtos": 101,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 101,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.17": {
+      "codigo": "CD39.17",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11 - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.14": {
+      "codigo": "CD39.14",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

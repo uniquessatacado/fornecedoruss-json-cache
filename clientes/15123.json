@@ -1,0 +1,45 @@
+{
+  "codigo": "15123",
+  "nome": "DANIELE VAZ BRANDÃO",
+  "email": "bdaniele1@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(11) 98982-1349",
+  "cidade": "Suzano",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 24.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "20306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 23:33:18",
+      "data_hora_confirmacao": "2024-09-04 10:23:03",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:22:53",
+      "valor_total_produtos": 12.99,
+      "valor_frete": 11.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 24.43,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 10,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

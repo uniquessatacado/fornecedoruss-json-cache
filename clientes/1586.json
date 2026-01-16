@@ -1,0 +1,112 @@
+{
+  "codigo": "1586",
+  "nome": "MARLON BERRA",
+  "email": "marlonstefanoberra@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "22/08/2023",
+  "whatsapp": "(45) 99935-2556",
+  "cidade": "Irati",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 277.71000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "16227",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 13:01:58",
+      "data_hora_confirmacao": "2024-07-17 19:12:38",
+      "data_hora_confirmacao_pagamento": "2024-07-17 19:12:29",
+      "valor_total_produtos": 116.97,
+      "valor_frete": 28.71,
+      "frete": "PAC",
+      "valor_total_pedido": 145.68,
+      "desconto": 0,
+      "cidade": "Irati",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17837",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-04 11:49:14",
+      "data_hora_confirmacao": "2024-08-05 11:10:32",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:10:21",
+      "valor_total_produtos": 95.96,
+      "valor_frete": 36.07,
+      "frete": "PAC",
+      "valor_total_pedido": 132.03,
+      "desconto": 0,
+      "cidade": "Irati",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24809": {
+      "codigo": "24809",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24812": {
+      "codigo": "24812",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24815": {
+      "codigo": "24815",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25706": {
+      "codigo": "25706",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26339": {
+      "codigo": "26339",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26364": {
+      "codigo": "26364",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26376": {
+      "codigo": "26376",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

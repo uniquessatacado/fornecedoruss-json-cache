@@ -1,0 +1,294 @@
+{
+  "codigo": "1482",
+  "nome": "TIAGO PANTOJA",
+  "email": "11tiaguinhopantoja@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(21) 99992-4727",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1215.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "2788",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 13:53:51",
+      "data_hora_confirmacao": "2023-11-07 13:59:18",
+      "data_hora_confirmacao_pagamento": "2023-11-07 13:59:32",
+      "valor_total_produtos": 383.8,
+      "valor_frete": 45.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 429.19,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2879",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-08 14:56:18",
+      "data_hora_confirmacao": "2023-11-08 15:17:18",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 24,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 24,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3235",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-16 19:28:32",
+      "data_hora_confirmacao": "2023-11-17 09:40:19",
+      "data_hora_confirmacao_pagamento": "2023-11-17 09:40:31",
+      "valor_total_produtos": 584.7,
+      "valor_frete": 53.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 638.38,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 15:48:07",
+      "data_hora_confirmacao": "2023-12-14 16:05:07",
+      "data_hora_confirmacao_pagamento": "2023-12-14 16:05:20",
+      "valor_total_produtos": 95.98,
+      "valor_frete": 27.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 123.91,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.37": {
+      "codigo": "CD08.37",
+      "titulo": "Camiseta Genuína Cotton Tanguis - PRADA   LT28.10  - Cor: Preto - Marca: Prada - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD08.41": {
+      "codigo": "CD08.41",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD43.19": {
+      "codigo": "CD43.19",
+      "titulo": "Boné Premium - ARMANI  LT24.10   - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 2
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 3
+    },
+    "CD24.36GG - BROOKSFIELD": {
+      "codigo": "CD24.36GG - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Azul Marinho - Marca: Brooksfield - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": 4
+    },
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.34GG - NIKE": {
+      "codigo": "CD24.34GG - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.44": {
+      "codigo": "CD02.44",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.21GG": {
+      "codigo": "CD07.21GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Louis Vuitton - Cor: Azul Turquesa - Marca: Louis Vitton - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD46.1": {
+      "codigo": "CD46.1",
+      "titulo": "Camiseta Genuína Cotton Soft - LOUIS VUITTON  LT30.10 - Cor: OffWhite - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD46.2": {
+      "codigo": "CD46.2",
+      "titulo": "Camiseta Genuína Cotton Soft - MOSCHINO  LT30.10  - Cor: OffWhite - Marca: Moschinno - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD08.34G": {
+      "codigo": "CD08.34G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  DOLCE GABBANA  LT28.10 - Cor: OffWhite - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD08.40": {
+      "codigo": "CD08.40",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.36": {
+      "codigo": "CD08.36",
+      "titulo": "Camiseta Genuína Cotton Tanguis - TOMMY  LT28.10  - Cor: Preto - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: OffWhite - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.8": {
+      "codigo": "CD12.8",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT16.11 - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD27.17": {
+      "codigo": "CD27.17",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD24.49": {
+      "codigo": "CD24.49",
+      "titulo": "Cuecas Peruanas - GUCCI  LT13.12 - Cor: Branca - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD62.15": {
+      "codigo": "CD62.15",
+      "titulo": "Óculos  Romeu 2 - VERMELHO C/LARANJA LT13.12  - Cor da Armação: Preto - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Vermelha - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

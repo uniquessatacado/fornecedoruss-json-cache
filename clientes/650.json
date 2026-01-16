@@ -1,0 +1,93 @@
+{
+  "codigo": "650",
+  "nome": "JADSON NAZÁRIO CORRÊA",
+  "email": "jadson.correa@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(48) 98843-2830",
+  "cidade": "Armazém",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 181.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "19387",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 20:53:48",
+      "data_hora_confirmacao": "2024-08-24 11:13:27",
+      "data_hora_confirmacao_pagamento": "2024-08-24 11:13:21",
+      "valor_total_produtos": 156.93,
+      "valor_frete": 24.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 181.74,
+      "desconto": 0,
+      "cidade": "Armazém",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20261": {
+      "codigo": "20261",
+      "titulo": "Boné Super Premium - NY NEW ERA - Cor: VERDE MILITAR",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "23938": {
+      "codigo": "23938",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte em bordado - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "28503": {
+      "codigo": "28503",
+      "titulo": "Boné Super Premium - LACOSTE bordado - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28516": {
+      "codigo": "28516",
+      "titulo": "Boné Super Premium - NEW ERA bordado - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28526": {
+      "codigo": "28526",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "28527": {
+      "codigo": "28527",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "28528": {
+      "codigo": "28528",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: CINZA ESCURO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "8800",
+  "nome": "OUTFIT VALIOSO",
+  "email": "outiftvalioso.store@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(16) 98172-0600",
+  "cidade": "Monte Alto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "10987",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 20:37:07",
+      "data_hora_confirmacao": "2024-04-30 12:03:50",
+      "data_hora_confirmacao_pagamento": "2024-04-30 12:03:41",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 17.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.43,
+      "desconto": 0,
+      "cidade": "Monte Alto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17826": {
+      "codigo": "17826",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17842": {
+      "codigo": "17842",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    }
+  }
+}

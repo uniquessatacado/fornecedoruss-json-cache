@@ -1,0 +1,61 @@
+{
+  "codigo": "3608",
+  "nome": "LUIZ FERNANDO",
+  "email": "lfernandorosa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(19) 99114-0004",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 158,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301982",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-19 15:06:05",
+      "data_hora_confirmacao": "2023-10-19 15:06:42",
+      "data_hora_confirmacao_pagamento": "2023-10-19 15:23:37",
+      "valor_total_produtos": 148,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 158,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.36GG": {
+      "codigo": "CD02.36GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE LT18.10 - Cor: Azul Marinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.3G": {
+      "codigo": "CD29.3G",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD10.10GG": {
+      "codigo": "CD10.10GG",
+      "titulo": "Camiseta Egipicia Luxo - ARMANI   LT18.10 - Cor: Azul Marinho - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": 2
+    }
+  }
+}

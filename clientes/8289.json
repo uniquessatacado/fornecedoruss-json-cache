@@ -1,0 +1,112 @@
+{
+  "codigo": "8289",
+  "nome": "TIAGO RANIERE SILVA",
+  "email": "tiagoranisil@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/04/2024",
+  "whatsapp": "(35) 99219-2645",
+  "cidade": "Lavras",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 282.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "10294",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 08:25:51",
+      "data_hora_confirmacao": "2024-04-19 13:31:07",
+      "data_hora_confirmacao_pagamento": "2024-04-19 13:31:02",
+      "valor_total_produtos": 168.93,
+      "valor_frete": 21.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 190.78,
+      "desconto": 0,
+      "cidade": "Lavras",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20191",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 22:06:59",
+      "data_hora_confirmacao": "2024-09-03 12:03:41",
+      "data_hora_confirmacao_pagamento": "2024-09-03 12:03:35",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 17.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.47,
+      "desconto": 0,
+      "cidade": "Lavras",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27198": {
+      "codigo": "27198",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29320": {
+      "codigo": "29320",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.17GG": {
+      "codigo": "CD24.17GG",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": 2
+    },
+    "CD24.17G": {
+      "codigo": "CD24.17G",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD4.21GG": {
+      "codigo": "CD4.21GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.139GG": {
+      "codigo": "CD02.139GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.19GG": {
+      "codigo": "CD4.19GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

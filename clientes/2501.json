@@ -1,0 +1,88 @@
+{
+  "codigo": "2501",
+  "nome": "ALUISIO FERREIRA DE FRANÇA",
+  "email": "aluisio19rei@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(21) 9649-18202",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 115.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301171",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 16:53:15",
+      "data_hora_confirmacao": "2023-10-03 22:58:56",
+      "data_hora_confirmacao_pagamento": "2023-10-03 22:59:33",
+      "valor_total_produtos": 67,
+      "valor_frete": 15.99,
+      "frete": "JADLOG",
+      "valor_total_pedido": 82.99,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301387",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-06 14:18:10",
+      "data_hora_confirmacao": "2023-10-06 14:28:09",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.25M": {
+      "codigo": "CD17.25M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.19G - Calvin Klein": {
+      "codigo": "CD24.19G - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD17.30G": {
+      "codigo": "CD17.30G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

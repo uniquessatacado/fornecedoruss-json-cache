@@ -1,0 +1,96 @@
+{
+  "codigo": "20182",
+  "nome": "FERNANDO MARTINS CORREA",
+  "email": "martinsfernando@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "06/07/2025",
+  "whatsapp": "(19) 99182-1021",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 205.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "30531",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-06 19:10:09",
+      "data_hora_confirmacao": "2025-07-06 19:11:33",
+      "data_hora_confirmacao_pagamento": "2025-07-06 19:11:33",
+      "valor_total_produtos": 125,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30844",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-21 15:24:13",
+      "data_hora_confirmacao": "2025-07-21 15:24:13",
+      "data_hora_confirmacao_pagamento": "2025-07-21 15:24:13",
+      "valor_total_produtos": 80.01,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 80.01,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47959": {
+      "codigo": "47959",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | Fino acabamento e leveza LT44A (C931) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48036": {
+      "codigo": "48036",
+      "titulo": "Camiseta Pima Armani Essencial LT51A (C942) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49301": {
+      "codigo": "49301",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1155) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "50583": {
+      "codigo": "50583",
+      "titulo": "Camiseta Elasfit ULTRA DRY Nike - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "50589": {
+      "codigo": "50589",
+      "titulo": "Camiseta Elasfit ULTRA DRY Nike - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

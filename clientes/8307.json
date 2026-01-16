@@ -1,0 +1,123 @@
+{
+  "codigo": "8307",
+  "nome": "MARIA HELENA DE SOUZA",
+  "email": "malenasouza2020@hotmail.com",
+  "sexo": "2",
+  "data_cadastro": "19/04/2024",
+  "whatsapp": "(13) 99180-6738",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 380.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "10324",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 16:39:30",
+      "data_hora_confirmacao": "2024-04-19 18:22:48",
+      "data_hora_confirmacao_pagamento": "2024-04-19 18:22:44",
+      "valor_total_produtos": 81.95,
+      "valor_frete": 12.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 94.31,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12124",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 18:37:15",
+      "data_hora_confirmacao": "2024-05-20 18:58:21",
+      "data_hora_confirmacao_pagamento": "2024-05-20 18:58:15",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 14.17,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 95.15,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17215",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-28 12:29:25",
+      "data_hora_confirmacao": "2024-07-29 17:35:39",
+      "data_hora_confirmacao_pagamento": "2024-07-29 17:35:34",
+      "valor_total_produtos": 174.99,
+      "valor_frete": 16.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 191.52,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18008": {
+      "codigo": "18008",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA GUCCI - Cor: Kit Preto-Branco - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "18854": {
+      "codigo": "18854",
+      "titulo": "Camiseta Genuina Egípcia Luxo ARMANI arte em patch emborrachado  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "25561": {
+      "codigo": "25561",
+      "titulo": "SMARTWATCH S58 MAX APROVA D\\'ÁGUA  - Cor: AZUL MARINHO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH S58 MAX",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    },
+    "CD24.20G": {
+      "codigo": "CD24.20G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD15.5G": {
+      "codigo": "CD15.5G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - ARMANI - Cor: CINZA - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD57.10GG": {
+      "codigo": "CD57.10GG",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

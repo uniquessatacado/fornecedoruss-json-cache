@@ -1,0 +1,69 @@
+{
+  "codigo": "1551",
+  "nome": "GABRIEL QUINTANILHA",
+  "email": "gabrielquintanilhaga13@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(62) 9913-33393",
+  "cidade": "Senador Canedo",
+  "estado": "GO",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 356.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "7909",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-02 11:21:28",
+      "data_hora_confirmacao": "2024-03-02 11:28:37",
+      "data_hora_confirmacao_pagamento": "2024-03-02 11:28:25",
+      "valor_total_produtos": 325.7,
+      "valor_frete": 30.46,
+      "frete": "SEDEX",
+      "valor_total_pedido": 356.16,
+      "desconto": 0,
+      "cidade": "Senador Canedo",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA05": {
+      "codigo": "PA05",
+      "titulo": "PULSEIRA DE PRATA ESCAMA  4MM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA31": {
+      "codigo": "PA31",
+      "titulo": "PULSEIRA 3mm",
+      "categoria_principal": "PRATAS",
+      "categoria": "PULSEIRAS DE PRATA",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA62": {
+      "codigo": "PA62",
+      "titulo": "CORRENTE ESCAMA 3,5MM 70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    },
+    "PA12": {
+      "codigo": "PA12",
+      "titulo": "CORRENTE DE PRATA  VERNEZIANA   1MM 60CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    }
+  }
+}

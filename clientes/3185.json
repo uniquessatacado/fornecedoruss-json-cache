@@ -1,0 +1,576 @@
+{
+  "codigo": "3185",
+  "nome": "BRUNO DO NASCIMENTO SOARES",
+  "email": "bruno.nsoares111342@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(11) 97468-8620",
+  "cidade": "Suzano",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 10,
+  "valor_total_comprado": 2093.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301137",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-02 19:47:15",
+      "data_hora_confirmacao": "2023-10-03 11:16:44",
+      "data_hora_confirmacao_pagamento": "2023-10-03 11:16:53",
+      "valor_total_produtos": 203,
+      "valor_frete": 13.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 216.03,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302088",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 18:57:20",
+      "data_hora_confirmacao": "2023-10-21 09:25:33",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:25:43",
+      "valor_total_produtos": 186,
+      "valor_frete": 16.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 202.01,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3656",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 14:58:39",
+      "data_hora_confirmacao": "2023-11-27 12:43:56",
+      "data_hora_confirmacao_pagamento": "2023-11-27 12:44:06",
+      "valor_total_produtos": 248,
+      "valor_frete": 19.31,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 267.31,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3741",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-28 12:59:16",
+      "data_hora_confirmacao": "2023-11-28 13:02:36",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17196",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-27 18:14:52",
+      "data_hora_confirmacao": "2024-07-29 18:07:44",
+      "data_hora_confirmacao_pagamento": "2024-07-29 18:07:38",
+      "valor_total_produtos": 224.94,
+      "valor_frete": 23.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 248.67,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21150",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-15 14:50:06",
+      "data_hora_confirmacao": "2024-09-16 11:27:25",
+      "data_hora_confirmacao_pagamento": "2024-09-16 11:27:19",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 24.46,
+      "frete": "JADLOG",
+      "valor_total_pedido": 120.35,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21151",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-15 14:50:06",
+      "data_hora_confirmacao": "2024-09-16 11:27:45",
+      "data_hora_confirmacao_pagamento": "2024-09-16 11:27:38",
+      "valor_total_produtos": 167.96,
+      "valor_frete": 19.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 187.56,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21977",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-28 16:35:03",
+      "data_hora_confirmacao": "2024-09-30 16:37:03",
+      "data_hora_confirmacao_pagamento": "2024-09-30 16:36:59",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.03,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25266",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 21:44:17",
+      "data_hora_confirmacao": "2024-11-28 21:50:23",
+      "data_hora_confirmacao_pagamento": "2024-11-28 21:50:23",
+      "valor_total_produtos": 224.95,
+      "valor_frete": 16.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 241.92,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29805",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-16 12:49:47",
+      "data_hora_confirmacao": "2025-05-16 13:00:08",
+      "data_hora_confirmacao_pagamento": "2025-05-16 13:00:08",
+      "valor_total_produtos": 400.91,
+      "valor_frete": 26.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 427.24,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20667": {
+      "codigo": "20667",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20744": {
+      "codigo": "20744",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21204": {
+      "codigo": "21204",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25011": {
+      "codigo": "25011",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - OLYMPIQUE LYONNAIS  - Tamanho: G - Times : OLYMPIQUE LYONNAIS  - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25232": {
+      "codigo": "25232",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25255": {
+      "codigo": "25255",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25275": {
+      "codigo": "25275",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25298": {
+      "codigo": "25298",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25301": {
+      "codigo": "25301",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25503": {
+      "codigo": "25503",
+      "titulo": "Óculos OAKLEY JULIET - PENNY - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: BLACK - Kit Borracha: PRETA - MODELO: PENNY",
+      "categoria_principal": "OCULOS",
+      "categoria": "PENNY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "28104": {
+      "codigo": "28104",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29017": {
+      "codigo": "29017",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29224": {
+      "codigo": "29224",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29246": {
+      "codigo": "29246",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34177": {
+      "codigo": "34177",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34698": {
+      "codigo": "34698",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM   - Cor: ROXO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35243": {
+      "codigo": "35243",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35267": {
+      "codigo": "35267",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47249": {
+      "codigo": "47249",
+      "titulo": "Bermuda Nike Microfibra Ultra | Impacto Urbano LT42A (C836) - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47984": {
+      "codigo": "47984",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT50A (C936) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47990": {
+      "codigo": "47990",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - BALENCIAGA Arte em DTF LT50A (C938) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "47996": {
+      "codigo": "47996",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C940) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48357": {
+      "codigo": "48357",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED | Nike Arte em DTF LT58A (C1002) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48375": {
+      "codigo": "48375",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED | Nike Arte em DTF LT58A (C1005) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48381": {
+      "codigo": "48381",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT58A (C1006) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "48423": {
+      "codigo": "48423",
+      "titulo": "Camiseta Suedine 1:1 Ultra Diesel | ARTE EM DTF LT58A (C1014) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48484": {
+      "codigo": "48484",
+      "titulo": "Bermuda Nike Microfibra Ultra | Motion Line LT59A (C1024) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48490": {
+      "codigo": "48490",
+      "titulo": "Bermuda Nike Microfibra Ultra | Motion Line LT59A (C1025) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.9G": {
+      "codigo": "CD08.9G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Preto - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD02.28G": {
+      "codigo": "CD02.28G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Silk Premium) - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.23M - Burberry": {
+      "codigo": "CD24.23M - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD24.4M -  Boss": {
+      "codigo": "CD24.4M -  Boss",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.13M - Lacoste": {
+      "codigo": "CD24.13M - Lacoste",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Azul - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD06.8G": {
+      "codigo": "CD06.8G",
+      "titulo": "Camiseta Egipicia Pima Luxo - Boss  - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Pima Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.18G": {
+      "codigo": "CD08.18G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.38G1": {
+      "codigo": "CD02.38G1",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI  LT18.10   - Cor: Branca - Marca: Gucci - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD02.36G": {
+      "codigo": "CD02.36G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE LT18.10 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.10G": {
+      "codigo": "CD39.10G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.33GG - Dolce&Gabbana": {
+      "codigo": "CD24.33GG - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.33G - Dolce&Gabbana": {
+      "codigo": "CD24.33G - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD39.28": {
+      "codigo": "CD39.28",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.22": {
+      "codigo": "CD39.22",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT22.11    - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.17": {
+      "codigo": "CD39.17",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11 - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.23": {
+      "codigo": "CD39.23",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

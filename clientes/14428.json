@@ -1,0 +1,61 @@
+{
+  "codigo": "14428",
+  "nome": "JULIO CESAR DE OLIVEIRA",
+  "email": "autoeletrico_jc@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/08/2024",
+  "whatsapp": "(11) 2659-6026",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "19273",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-21 17:32:40",
+      "data_hora_confirmacao": "2024-08-21 17:39:40",
+      "data_hora_confirmacao_pagamento": "2024-08-21 17:39:30",
+      "valor_total_produtos": 106.97,
+      "valor_frete": 14.65,
+      "frete": "SEDEX",
+      "valor_total_pedido": 121.62,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24120": {
+      "codigo": "24120",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27129": {
+      "codigo": "27129",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28299": {
+      "codigo": "28299",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

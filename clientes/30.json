@@ -1,0 +1,80 @@
+{
+  "codigo": "30",
+  "nome": "RAFAEL MARTINS",
+  "email": "rafel7@outlook.com.br",
+  "sexo": "1",
+  "data_cadastro": "04/03/2023",
+  "whatsapp": "(13) 9917-56325",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 145.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "2383",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 19:35:54",
+      "data_hora_confirmacao": "2023-10-31 14:02:39",
+      "data_hora_confirmacao_pagamento": "2023-10-31 14:02:49",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 10.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.36,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2922",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 23:29:10",
+      "data_hora_confirmacao": "2023-11-09 13:25:44",
+      "data_hora_confirmacao_pagamento": "2023-11-09 13:25:55",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.78,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.34GG - NIKE": {
+      "codigo": "CD24.34GG - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD16.34": {
+      "codigo": "CD16.34",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10  - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

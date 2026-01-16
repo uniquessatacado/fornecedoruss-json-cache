@@ -1,0 +1,72 @@
+{
+  "codigo": "16497",
+  "nome": "ROSELI MACHADO",
+  "email": "deoliveirawelissonpedro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/10/2024",
+  "whatsapp": "(19) 9494-5017",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 56.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "22721",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-12 13:32:15",
+      "data_hora_confirmacao": "2024-10-14 09:47:00",
+      "data_hora_confirmacao_pagamento": "2024-10-14 09:46:48",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 24.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28289",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-02-20 17:17:13",
+      "data_hora_confirmacao": "2025-02-20 17:19:27",
+      "data_hora_confirmacao_pagamento": "2025-02-20 17:19:27",
+      "valor_total_produtos": 21.67,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 31.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32305": {
+      "codigo": "32305",
+      "titulo": "Camiseta 30.1 Penteada - NIKE SEM ARTE (LISA) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41298": {
+      "codigo": "41298",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

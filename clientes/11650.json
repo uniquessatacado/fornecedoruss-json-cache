@@ -1,0 +1,80 @@
+{
+  "codigo": "11650",
+  "nome": "AMERICO MACHADO DEUS",
+  "email": "americomachado10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/06/2024",
+  "whatsapp": "(51) 99770-6662",
+  "cidade": "Viamão",
+  "estado": "RS",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 93.92999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "14675",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-28 11:22:21",
+      "data_hora_confirmacao": "2024-06-29 13:55:32",
+      "data_hora_confirmacao_pagamento": "2024-06-29 13:55:26",
+      "valor_total_produtos": 45.18,
+      "valor_frete": 23.76,
+      "frete": "PAC",
+      "valor_total_pedido": 68.94,
+      "desconto": 0,
+      "cidade": "Viamão",
+      "estado": "RS",
+      "percentual_comissao": 5,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "15218",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-05 13:40:45",
+      "data_hora_confirmacao": "2024-07-05 13:40:45",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 24.99,
+      "valor_frete": 0,
+      "frete": "LOGGI",
+      "valor_total_pedido": 24.99,
+      "desconto": 0,
+      "cidade": "Viamão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21453": {
+      "codigo": "21453",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21475": {
+      "codigo": "21475",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - LACOSTE - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

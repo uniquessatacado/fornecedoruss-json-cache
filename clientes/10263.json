@@ -1,0 +1,61 @@
+{
+  "codigo": "10263",
+  "nome": "EDUARDO GUTSTEIN",
+  "email": "gutsteineduardo42@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/06/2024",
+  "whatsapp": "(42) 99942-7923",
+  "cidade": "Palmeira",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "21822",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-26 16:12:18",
+      "data_hora_confirmacao": "2024-09-26 16:19:58",
+      "data_hora_confirmacao_pagamento": "2024-09-26 16:19:52",
+      "valor_total_produtos": 91.97,
+      "valor_frete": 17.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.45,
+      "desconto": 0,
+      "cidade": "Palmeira",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29757": {
+      "codigo": "29757",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30095": {
+      "codigo": "30095",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "31363": {
+      "codigo": "31363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

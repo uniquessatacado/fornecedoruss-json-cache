@@ -1,0 +1,53 @@
+{
+  "codigo": "17109",
+  "nome": "SAMUEL ADRIAN",
+  "email": "sammueladrian123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/11/2024",
+  "whatsapp": "(38) 99907-3944",
+  "cidade": "Pirapora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "24362",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-13 18:46:16",
+      "data_hora_confirmacao": "2024-11-13 18:47:55",
+      "data_hora_confirmacao_pagamento": "2024-11-13 18:47:55",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 17.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.45,
+      "desconto": 0,
+      "cidade": "Buritizeiro",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34154": {
+      "codigo": "34154",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34160": {
+      "codigo": "34160",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

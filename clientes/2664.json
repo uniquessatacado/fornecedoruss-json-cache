@@ -1,0 +1,53 @@
+{
+  "codigo": "2664",
+  "nome": "EDNALDO ROBERTO CORDEIRO",
+  "email": "ednaldo.cordeiro13@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(11) 96769-8686",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300523",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 23:07:34",
+      "data_hora_confirmacao": "2023-09-22 23:57:09",
+      "data_hora_confirmacao_pagamento": "2023-09-22 23:56:29",
+      "valor_total_produtos": 98,
+      "valor_frete": 13.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 111.96,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.11GG": {
+      "codigo": "CD08.11GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Balmain (Chenille e Bordado) - Cor: Preto - Marca: Balmain - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "CD08.8G": {
+      "codigo": "CD08.8G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Preto - Marca: Dior - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "14124",
+  "nome": "CARLOS ALBERTO PONTES JUNIOR",
+  "email": "carlos.seeven@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(11) 99392-8008",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "18804",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 12:58:37",
+      "data_hora_confirmacao": "2024-08-15 14:13:49",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:13:42",
+      "valor_total_produtos": 99.95,
+      "valor_frete": 15.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.37,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26326": {
+      "codigo": "26326",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AREIA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "26328": {
+      "codigo": "26328",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26332": {
+      "codigo": "26332",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26334": {
+      "codigo": "26334",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

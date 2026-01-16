@@ -1,0 +1,96 @@
+{
+  "codigo": "12165",
+  "nome": "MATHEUS KUTIANSKI",
+  "email": "mtskut@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/07/2024",
+  "whatsapp": "(48) 99690-1601",
+  "cidade": "Laguna",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "15458",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-09 11:39:10",
+      "data_hora_confirmacao": "2024-07-12 11:43:04",
+      "data_hora_confirmacao_pagamento": "2024-07-12 11:42:58",
+      "valor_total_produtos": 157.96,
+      "valor_frete": 31.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 189.07,
+      "desconto": 0,
+      "cidade": "Laguna",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15831",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 18:25:27",
+      "data_hora_confirmacao": "2024-07-12 18:25:27",
+      "data_hora_confirmacao_pagamento": "2024-07-12 18:25:50",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 31.99,
+      "desconto": 0,
+      "cidade": "Laguna",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22964": {
+      "codigo": "22964",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23540": {
+      "codigo": "23540",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23640": {
+      "codigo": "23640",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - BALENCIAGA arte em aplique bordado - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "23683": {
+      "codigo": "23683",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - JOHN JOHN arte em gel  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "23816": {
+      "codigo": "23816",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em relevo - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "20752",
+  "nome": "MATEUS SOUZA",
+  "email": "mtszsouza7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/12/2025",
+  "whatsapp": "(11) 93254-4262",
+  "cidade": "Francisco Morato",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 218.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "32431",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2025-12-17 18:26:40",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 93.44,
+      "valor_frete": 15.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.36,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32432",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2025-12-17 18:34:23",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 93.44,
+      "valor_frete": 15.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.36,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "51392": {
+      "codigo": "51392",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "51396": {
+      "codigo": "51396",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

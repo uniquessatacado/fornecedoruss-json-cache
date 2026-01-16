@@ -1,0 +1,96 @@
+{
+  "codigo": "5001",
+  "nome": "IGOR RIBEIRO",
+  "email": "Igorgabrielisrael878@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(19) 99547-2220",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 159.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "5665",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 18:57:39",
+      "data_hora_confirmacao": "2023-12-22 19:01:33",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 87.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 87.98,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5669",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 19:17:35",
+      "data_hora_confirmacao": "2023-12-22 19:19:52",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 71.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.98,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.77": {
+      "codigo": "CD02.77",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   LT19.12  - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.72": {
+      "codigo": "CD02.72",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD2.81": {
+      "codigo": "CD2.81",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Azul Bebê - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

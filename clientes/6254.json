@@ -1,0 +1,104 @@
+{
+  "codigo": "6254",
+  "nome": "ADEMAR RODRIGUES DE SOUSA JÚNIOR",
+  "email": "jrfilho.rodrigues@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/02/2024",
+  "whatsapp": "(98) 99229-6150",
+  "cidade": "Morros",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 296.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "7569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-23 16:27:29",
+      "data_hora_confirmacao": "2024-02-23 16:55:17",
+      "data_hora_confirmacao_pagamento": "2024-02-23 16:55:11",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 31.67,
+      "frete": "PAC",
+      "valor_total_pedido": 124.64,
+      "desconto": 0,
+      "cidade": "Morros",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9595",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-06 17:30:54",
+      "data_hora_confirmacao": "2024-04-08 09:24:19",
+      "data_hora_confirmacao_pagamento": "2024-04-08 09:24:15",
+      "valor_total_produtos": 135.95,
+      "valor_frete": 36.37,
+      "frete": "PAC",
+      "valor_total_pedido": 172.32,
+      "desconto": 0,
+      "cidade": "Morros",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.111GG": {
+      "codigo": "CD02.111GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   - Cor: Rosa - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Marrom - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.131G": {
+      "codigo": "CD02.131G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.130G": {
+      "codigo": "CD02.130G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD4.16GG": {
+      "codigo": "CD4.16GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

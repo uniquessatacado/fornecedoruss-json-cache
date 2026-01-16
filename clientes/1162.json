@@ -1,0 +1,85 @@
+{
+  "codigo": "1162",
+  "nome": "RODOLFO ASSOLINI",
+  "email": "assolini.dolfo@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "13/08/2023",
+  "whatsapp": "(11) 94110-0422",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 293.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300629",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-24 20:47:07",
+      "data_hora_confirmacao": "2023-09-24 23:26:46",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:26:38",
+      "valor_total_produtos": 273,
+      "valor_frete": 20.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 293.8,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.2G": {
+      "codigo": "CD08.2G",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD07.21G": {
+      "codigo": "CD07.21G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Louis Vuitton - Cor: Azul Turquesa - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD08.15G": {
+      "codigo": "CD08.15G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD07.8M": {
+      "codigo": "CD07.8M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.24M": {
+      "codigo": "CD08.24M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Burberry (Arte Embossing com detalhe brilhante Aviamentos originais) - Cor: Azul Marinho - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD08.6M": {
+      "codigo": "CD08.6M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Tommy - Cor: Azul Marinho - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

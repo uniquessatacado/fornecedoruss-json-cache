@@ -1,0 +1,96 @@
+{
+  "codigo": "4875",
+  "nome": "LUÍS SANTOS",
+  "email": "luiselivelton999@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(51) 99661-6957",
+  "cidade": "Montenegro",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 227.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "5250",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 06:26:45",
+      "data_hora_confirmacao": "2023-12-20 07:38:45",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:38:55",
+      "valor_total_produtos": 102.97,
+      "valor_frete": 16.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.5,
+      "desconto": 0,
+      "cidade": "Montenegro",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7402",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 06:33:53",
+      "data_hora_confirmacao": "2024-02-21 09:47:16",
+      "data_hora_confirmacao_pagamento": "2024-02-21 09:47:10",
+      "valor_total_produtos": 91.98,
+      "valor_frete": 15.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 107.89,
+      "desconto": 0,
+      "cidade": "Montenegro",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.77": {
+      "codigo": "CD02.77",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   LT19.12  - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.76": {
+      "codigo": "CD02.76",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   LT19.12   - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.46GG Al-hilal": {
+      "codigo": "CD01.46GG Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: GG - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Cinza - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

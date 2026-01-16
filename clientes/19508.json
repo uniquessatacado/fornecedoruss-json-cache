@@ -1,0 +1,69 @@
+{
+  "codigo": "19508",
+  "nome": "LUCAS CASTRO",
+  "email": "paulolucas12.ls@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/03/2025",
+  "whatsapp": "(92) 9939-07093",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 409.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "28649",
+      "situacao_pedido": "PEDIDO EM TRANSITO DA FABRICA PARA NOSSO ESTOQUE",
+      "data_hora_pedido": "2025-03-11 16:11:42",
+      "data_hora_confirmacao": "2025-03-11 16:20:06",
+      "data_hora_confirmacao_pagamento": "2025-03-11 16:20:06",
+      "valor_total_produtos": 304.5,
+      "valor_frete": 105.16,
+      "frete": "SEDEX",
+      "valor_total_pedido": 409.66,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20744": {
+      "codigo": "20744",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21219": {
+      "codigo": "21219",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21220": {
+      "codigo": "21220",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "21406": {
+      "codigo": "21406",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

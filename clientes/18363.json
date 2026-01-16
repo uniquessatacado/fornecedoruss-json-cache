@@ -1,0 +1,53 @@
+{
+  "codigo": "18363",
+  "nome": "MARCELO BATISTA DE MORAES",
+  "email": "marcelo_de_moraes@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/12/2024",
+  "whatsapp": "(71) 99989-6238",
+  "cidade": "Conceição do Jacuípe",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "26722",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-18 18:37:07",
+      "data_hora_confirmacao": "2024-12-18 18:39:17",
+      "data_hora_confirmacao_pagamento": "2024-12-18 18:39:17",
+      "valor_total_produtos": 93.98,
+      "valor_frete": 24.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.44,
+      "desconto": 0,
+      "cidade": "Conceição do Jacuípe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37268": {
+      "codigo": "37268",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C09) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37441": {
+      "codigo": "37441",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

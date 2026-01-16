@@ -1,0 +1,107 @@
+{
+  "codigo": "13023",
+  "nome": "THIAGO FRANCISCO DOS SANTOS",
+  "email": "thiagofcosantos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(19) 99247-9492",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 125.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "16897",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-24 15:38:31",
+      "data_hora_confirmacao": "2024-07-24 18:19:42",
+      "data_hora_confirmacao_pagamento": "2024-07-24 18:19:36",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 64.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20090",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-01 13:22:04",
+      "data_hora_confirmacao": "2024-09-02 10:00:29",
+      "data_hora_confirmacao_pagamento": "2024-09-02 10:00:04",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26660",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-17 14:26:47",
+      "data_hora_confirmacao": "2024-12-17 14:30:09",
+      "data_hora_confirmacao_pagamento": "2024-12-17 14:30:09",
+      "valor_total_produtos": 23.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 23.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25041": {
+      "codigo": "25041",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25  - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29499": {
+      "codigo": "29499",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  - Tamanho: G - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "37857": {
+      "codigo": "37857",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37935": {
+      "codigo": "37935",
+      "titulo": "MEIAS PERUANAS (C67) - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

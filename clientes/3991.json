@@ -1,0 +1,72 @@
+{
+  "codigo": "3991",
+  "nome": "GABRIEL DA SILVA",
+  "email": "gabrielsilva071j@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/11/2023",
+  "whatsapp": "(61) 9936-81282",
+  "cidade": "Valparaíso de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 70.49000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2988",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 21:38:10",
+      "data_hora_confirmacao": "2023-11-09 21:59:43",
+      "data_hora_confirmacao_pagamento": "2023-11-09 21:59:56",
+      "valor_total_produtos": 34,
+      "valor_frete": 19.49,
+      "frete": "PAC",
+      "valor_total_pedido": 53.49,
+      "desconto": 0,
+      "cidade": "Valparaíso de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3055",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-11 11:35:23",
+      "data_hora_confirmacao": "2023-11-11 11:35:57",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 17,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 17,
+      "desconto": 0,
+      "cidade": "Valparaíso de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "2"
+    }
+  }
+}

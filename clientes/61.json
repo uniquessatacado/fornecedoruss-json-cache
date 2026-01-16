@@ -1,0 +1,69 @@
+{
+  "codigo": "61",
+  "nome": "HASLAM CARVALHO SANTOS DE JESUS",
+  "email": "carvalhohaslan@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "06/03/2023",
+  "whatsapp": "(28) 99986-3858",
+  "cidade": "Cachoeiro de Itapemirim",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "20832",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 22:57:32",
+      "data_hora_confirmacao": "2024-09-12 13:11:27",
+      "data_hora_confirmacao_pagamento": "2024-09-12 13:11:21",
+      "valor_total_produtos": 105.96,
+      "valor_frete": 27.69,
+      "frete": "JADLOG",
+      "valor_total_pedido": 133.65,
+      "desconto": 0,
+      "cidade": "Cachoeiro de Itapemirim",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29634": {
+      "codigo": "29634",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30372": {
+      "codigo": "30372",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: AREIA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30375": {
+      "codigo": "30375",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30384": {
+      "codigo": "30384",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "7350",
+  "nome": "AGNALDO FILHO",
+  "email": "agnaldon12s@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/03/2024",
+  "whatsapp": "(62) 9370-7931",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "9129",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-30 14:16:47",
+      "data_hora_confirmacao": "2024-03-31 23:28:57",
+      "data_hora_confirmacao_pagamento": "2024-03-31 23:23:52",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 18.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.21,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.133M": {
+      "codigo": "CD02.133M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.127M": {
+      "codigo": "CD02.127M",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Preto - Marca: MCD - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

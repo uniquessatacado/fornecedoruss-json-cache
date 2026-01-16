@@ -1,0 +1,80 @@
+{
+  "codigo": "18432",
+  "nome": "RAUI LUCAS GONCALVES RIBEIRO",
+  "email": "rauilukas23@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2024",
+  "whatsapp": "(19) 97125-3615",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 152.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "26598",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-12-16 16:44:45",
+      "data_hora_confirmacao": "2024-12-16 16:47:03",
+      "data_hora_confirmacao_pagamento": "2024-12-16 16:47:03",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 93.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28578",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-03-07 10:31:43",
+      "data_hora_confirmacao": "2025-03-07 10:33:23",
+      "data_hora_confirmacao_pagamento": "2025-03-07 10:33:23",
+      "valor_total_produtos": 48.33,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 58.33,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37539": {
+      "codigo": "37539",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C10) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "37634": {
+      "codigo": "37634",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C40) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "40538": {
+      "codigo": "40538",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

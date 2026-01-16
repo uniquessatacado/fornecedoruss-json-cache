@@ -1,0 +1,88 @@
+{
+  "codigo": "17237",
+  "nome": "KEVIN SOUZA FERREIRA MELO",
+  "email": "sousakevin3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(19) 99854-1411",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 201.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "23888",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-07 08:36:17",
+      "data_hora_confirmacao": "2024-11-07 08:39:49",
+      "data_hora_confirmacao_pagamento": "2024-11-07 08:39:49",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 109.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24258",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-12 10:11:22",
+      "data_hora_confirmacao": "2024-11-12 13:11:42",
+      "data_hora_confirmacao_pagamento": "2024-11-13 13:56:01",
+      "valor_total_produtos": 91.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 91.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33243": {
+      "codigo": "33243",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33246": {
+      "codigo": "33246",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33252": {
+      "codigo": "33252",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33892": {
+      "codigo": "33892",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS cargo - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

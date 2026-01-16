@@ -1,0 +1,69 @@
+{
+  "codigo": "13932",
+  "nome": "ANDERSON KUCHARSKI",
+  "email": "usuario_96@live.com",
+  "sexo": "0",
+  "data_cadastro": "12/08/2024",
+  "whatsapp": "(51) 98040-3184",
+  "cidade": "Dom Feliciano",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 59.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "18440",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 15:59:32",
+      "data_hora_confirmacao": "2024-08-13 09:30:21",
+      "data_hora_confirmacao_pagamento": "2024-08-13 09:30:06",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 19.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.34,
+      "desconto": 0,
+      "cidade": "Dom Feliciano",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24646": {
+      "codigo": "24646",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27220": {
+      "codigo": "27220",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27223": {
+      "codigo": "27223",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27229": {
+      "codigo": "27229",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

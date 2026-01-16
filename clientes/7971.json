@@ -1,0 +1,53 @@
+{
+  "codigo": "7971",
+  "nome": "SABINA GABRIELE DIAS",
+  "email": "sabinadias@live.com",
+  "sexo": "0",
+  "data_cadastro": "11/04/2024",
+  "whatsapp": "(19) 99131-1020",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "9933",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-11 23:11:28",
+      "data_hora_confirmacao": "2024-04-12 10:24:02",
+      "data_hora_confirmacao_pagamento": "2024-04-12 10:23:57",
+      "valor_total_produtos": 105.6,
+      "valor_frete": 13.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.88,
+      "desconto": 42.24,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 60,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "PA99": {
+      "codigo": "PA99",
+      "titulo": "PULSEIRA DE LUXO 18K    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "PRF01": {
+      "codigo": "PRF01",
+      "titulo": "PULSEIRA FEMININA   ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "10957",
+  "nome": "UMBERTO GOMES CARNEIRO FILHO",
+  "email": "umberto.filho@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/06/2024",
+  "whatsapp": "(81) 99293-8713",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 108.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "13754",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 08:54:10",
+      "data_hora_confirmacao": "2024-06-15 09:24:04",
+      "data_hora_confirmacao_pagamento": "2024-06-15 09:23:58",
+      "valor_total_produtos": 89.61,
+      "valor_frete": 19.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.98,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21612": {
+      "codigo": "21612",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21670": {
+      "codigo": "21670",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21705": {
+      "codigo": "21705",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "4487",
+  "nome": "MARCELO GUEDES MACIEL BARBOSA",
+  "email": "marcelomeciel1234@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "06/12/2023",
+  "whatsapp": "(38) 9882-15736",
+  "cidade": "Montes Claros",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 38.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "17216",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-28 13:52:33",
+      "data_hora_confirmacao": "2024-07-29 10:17:52",
+      "data_hora_confirmacao_pagamento": "2024-07-29 10:17:36",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 18.83,
+      "frete": "JADLOG",
+      "valor_total_pedido": 38.81,
+      "desconto": 0,
+      "cidade": "Montes Claros",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25452": {
+      "codigo": "25452",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    }
+  }
+}

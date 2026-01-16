@@ -1,0 +1,72 @@
+{
+  "codigo": "19401",
+  "nome": "DAVID PETERSON DOS SANTOS KUHL",
+  "email": "davidpeterson_1@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/02/2025",
+  "whatsapp": "(11) 98446-0339",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 123.61000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "28353",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-02-25 18:53:47",
+      "data_hora_confirmacao": "2025-02-25 18:53:47",
+      "data_hora_confirmacao_pagamento": "2025-02-25 18:53:47",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 12.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 78.65,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-25 18:53:48",
+      "data_hora_confirmacao": "2025-02-25 18:53:48",
+      "data_hora_confirmacao_pagamento": "2025-02-25 18:53:48",
+      "valor_total_produtos": 31.25,
+      "valor_frete": 13.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 44.96,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20759": {
+      "codigo": "20759",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "40509": {
+      "codigo": "40509",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

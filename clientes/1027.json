@@ -1,0 +1,107 @@
+{
+  "codigo": "1027",
+  "nome": "RAPHAEL LARA",
+  "email": "phaellara@yahoo.com.br",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(19) 9919-09341",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 133.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "13985",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-18 22:10:12",
+      "data_hora_confirmacao": "2024-06-19 17:01:35",
+      "data_hora_confirmacao_pagamento": "2024-06-19 17:14:38",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14050",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-19 14:02:35",
+      "data_hora_confirmacao": "2024-06-19 17:02:01",
+      "data_hora_confirmacao_pagamento": "2024-06-19 17:14:51",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 31.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18800",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-15 12:23:24",
+      "data_hora_confirmacao": "2024-08-15 14:31:25",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:31:19",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 63.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21979": {
+      "codigo": "21979",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "22054": {
+      "codigo": "22054",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte emborrachada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27753": {
+      "codigo": "27753",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em termo gel - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27762": {
+      "codigo": "27762",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em relevo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

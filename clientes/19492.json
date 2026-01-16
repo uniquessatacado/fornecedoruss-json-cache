@@ -1,0 +1,53 @@
+{
+  "codigo": "19492",
+  "nome": "ADRIANO ROGÉRIO DE OLIVEIRA",
+  "email": "adrianooliveiracg@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2025",
+  "whatsapp": "(19) 99306-3944",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 122.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "28599",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-08 10:38:35",
+      "data_hora_confirmacao": "2025-03-08 10:40:07",
+      "data_hora_confirmacao_pagamento": "2025-03-08 10:40:07",
+      "valor_total_produtos": 106.66,
+      "valor_frete": 16.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 122.81,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41743": {
+      "codigo": "41743",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C496) - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "41816": {
+      "codigo": "41816",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C520) - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

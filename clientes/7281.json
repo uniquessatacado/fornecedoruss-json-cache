@@ -1,0 +1,61 @@
+{
+  "codigo": "7281",
+  "nome": "WILIAM MARQUES",
+  "email": "wermarques34@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/03/2024",
+  "whatsapp": "(31) 9824-85339",
+  "cidade": "Vespasiano",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "9573",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 23:28:25",
+      "data_hora_confirmacao": "2024-04-06 11:36:30",
+      "data_hora_confirmacao_pagamento": "2024-04-06 11:36:26",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 19.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.24,
+      "desconto": 0,
+      "cidade": "Vespasiano",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.119M": {
+      "codigo": "CD02.119M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKISILVER - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD4.13M": {
+      "codigo": "CD4.13M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

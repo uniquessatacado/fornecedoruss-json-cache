@@ -1,0 +1,61 @@
+{
+  "codigo": "10714",
+  "nome": "JEFTER PRADO FREITAS",
+  "email": "jefter01@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/06/2024",
+  "whatsapp": "(11) 98872-8020",
+  "cidade": "Franco da Rocha",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 135.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "13403",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-08 20:42:53",
+      "data_hora_confirmacao": "2024-06-10 13:45:00",
+      "data_hora_confirmacao_pagamento": "2024-06-10 13:44:54",
+      "valor_total_produtos": 120.97,
+      "valor_frete": 14.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 135.79,
+      "desconto": 0,
+      "cidade": "Franco da Rocha",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19472": {
+      "codigo": "19472",
+      "titulo": "Camiseta Suedine Ultra NIKE arte bordada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19475": {
+      "codigo": "19475",
+      "titulo": "Camiseta Suedine Ultra NIKE arte bordada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20662": {
+      "codigo": "20662",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: BRANCA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

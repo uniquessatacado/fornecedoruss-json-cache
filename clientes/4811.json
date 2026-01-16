@@ -1,0 +1,53 @@
+{
+  "codigo": "4811",
+  "nome": "GUILHERME AUGUSTO JULIÃO JACÓ",
+  "email": "guihjaco@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/12/2023",
+  "whatsapp": "(85) 99259-0160",
+  "cidade": "Barreira",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 201.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "5388",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 23:00:06",
+      "data_hora_confirmacao": "2023-12-21 16:13:36",
+      "data_hora_confirmacao_pagamento": "2023-12-21 16:13:50",
+      "valor_total_produtos": 151.96,
+      "valor_frete": 49.93,
+      "frete": "PAC",
+      "valor_total_pedido": 201.89,
+      "desconto": 0,
+      "cidade": "Barreira",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD69.3": {
+      "codigo": "CD69.3",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD69.1": {
+      "codigo": "CD69.1",
+      "titulo": "CAMISETA EGIPICIA COTTON - LACOSTE  LT20.12 - Cor: OffWhite - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

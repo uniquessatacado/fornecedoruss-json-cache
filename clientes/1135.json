@@ -1,0 +1,61 @@
+{
+  "codigo": "1135",
+  "nome": "PAULO ROBERTO",
+  "email": "prcc1979@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "11/08/2023",
+  "whatsapp": "(19) 98804-6574",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302261",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-25 16:18:22",
+      "data_hora_confirmacao": "2023-10-25 16:36:13",
+      "data_hora_confirmacao_pagamento": "2023-10-26 18:00:52",
+      "valor_total_produtos": 83.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 83.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD13.3GG": {
+      "codigo": "CD13.3GG",
+      "titulo": "Camiseta standard Fit 1:1 - OAKLEY  LT18.10 - Cor: Vermelho Mescla - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.33GG - Dolce&Gabbana": {
+      "codigo": "CD24.33GG - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Azul Marinho - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    }
+  }
+}

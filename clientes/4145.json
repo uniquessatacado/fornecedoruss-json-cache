@@ -1,0 +1,88 @@
+{
+  "codigo": "4145",
+  "nome": "JOSÉ CARLOS NASCIMENTO SILVA",
+  "email": "josepintorcontato@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/11/2023",
+  "whatsapp": "(19) 98118-5172",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 234.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "3373",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-19 18:43:39",
+      "data_hora_confirmacao": "2023-11-21 09:33:19",
+      "data_hora_confirmacao_pagamento": "2023-11-21 10:46:42",
+      "valor_total_produtos": 158.7,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 158.7,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5401",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 23:34:18",
+      "data_hora_confirmacao": "2023-12-21 15:55:50",
+      "data_hora_confirmacao_pagamento": "2023-12-21 15:55:58",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 75.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.40": {
+      "codigo": "CD08.40",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD69.4": {
+      "codigo": "CD69.4",
+      "titulo": "CAMISETA EGIPICIA COTTON - GUCCI  LT20.12   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.11": {
+      "codigo": "CD69.11",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

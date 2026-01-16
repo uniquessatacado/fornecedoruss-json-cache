@@ -1,0 +1,53 @@
+{
+  "codigo": "9931",
+  "nome": "AROLDO OLIVEIRA CAMPOS",
+  "email": "aroldocampos30@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/05/2024",
+  "whatsapp": "(69) 8404-1858",
+  "cidade": "Nova Brasilândia D\\'Oeste",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 117.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "12613",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-26 09:52:58",
+      "data_hora_confirmacao": "2024-05-27 13:15:10",
+      "data_hora_confirmacao_pagamento": "2024-05-27 13:14:59",
+      "valor_total_produtos": 82.98,
+      "valor_frete": 34.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.66,
+      "desconto": 0,
+      "cidade": "Nova Brasilândia D\\'Oeste",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19857": {
+      "codigo": "19857",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.02M": {
+      "codigo": "CD12.02M",
+      "titulo": "Polo Piquet Duplo Peruana - Emporio Armani - Cor: OFFWHITE - Marca: Armani - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

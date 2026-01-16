@@ -1,0 +1,45 @@
+{
+  "codigo": "3404",
+  "nome": "EVERTON DE MORAIS ROCHA",
+  "email": "toon.mrrocha@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/10/2023",
+  "whatsapp": "(11) 9133-43431",
+  "cidade": "Jandira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 39.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "4397",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 14:12:48",
+      "data_hora_confirmacao": "2023-12-11 22:46:47",
+      "data_hora_confirmacao_pagamento": "2023-12-11 22:46:56",
+      "valor_total_produtos": 30,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.6,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.53": {
+      "codigo": "CD02.53",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

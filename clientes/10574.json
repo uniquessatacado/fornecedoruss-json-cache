@@ -1,0 +1,88 @@
+{
+  "codigo": "10574",
+  "nome": "GABRIEL VALADARES",
+  "email": "gabriel.valadares17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(11) 99555-3758",
+  "cidade": "Vargem Grande Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 215.28000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "14249",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 20:19:25",
+      "data_hora_confirmacao": "2024-06-21 18:57:08",
+      "data_hora_confirmacao_pagamento": "2024-06-21 18:57:03",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.92,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19127",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-20 11:36:54",
+      "data_hora_confirmacao": "2024-08-23 15:41:09",
+      "data_hora_confirmacao_pagamento": "2024-08-23 15:40:58",
+      "valor_total_produtos": 164.97,
+      "valor_frete": 15.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 180.36,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21500": {
+      "codigo": "21500",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28009": {
+      "codigo": "28009",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28012": {
+      "codigo": "28012",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28015": {
+      "codigo": "28015",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

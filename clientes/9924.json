@@ -1,0 +1,80 @@
+{
+  "codigo": "9924",
+  "nome": "IZAQUE LEANDRO TAVARES DUARTE",
+  "email": "izaquetavares29@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/05/2024",
+  "whatsapp": "(11) 95220-8408",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 155.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "12610",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-25 22:52:36",
+      "data_hora_confirmacao": "2024-05-29 13:04:08",
+      "data_hora_confirmacao_pagamento": "2024-05-29 13:03:56",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18367",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 10:09:45",
+      "data_hora_confirmacao": "2024-08-13 16:17:37",
+      "data_hora_confirmacao_pagamento": "2024-08-13 16:17:18",
+      "valor_total_produtos": 95.58,
+      "valor_frete": 13.61,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.19,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22942": {
+      "codigo": "22942",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25548": {
+      "codigo": "25548",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25 (PRONTA ENTREGA) - Tamanho: P - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD4.19M": {
+      "codigo": "CD4.19M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

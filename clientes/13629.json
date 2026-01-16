@@ -1,0 +1,53 @@
+{
+  "codigo": "13629",
+  "nome": "MARCOS PEREIRA DA SILVA",
+  "email": "padaria_mais_sabor@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(35) 99170-4020",
+  "cidade": "Poços de Caldas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 204.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "17951",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 16:14:34",
+      "data_hora_confirmacao": "2024-08-07 12:37:20",
+      "data_hora_confirmacao_pagamento": "2024-08-07 12:37:15",
+      "valor_total_produtos": 178.98,
+      "valor_frete": 25.12,
+      "frete": "JADLOG",
+      "valor_total_pedido": 204.1,
+      "desconto": 0,
+      "cidade": "Poços de Caldas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21800": {
+      "codigo": "21800",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: BRANCA - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "25942": {
+      "codigo": "25942",
+      "titulo": "Tênis ADIDAS ULTRA BOOST - Cor: BRANCA - Tamanho: 38",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

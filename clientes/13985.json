@@ -1,0 +1,88 @@
+{
+  "codigo": "13985",
+  "nome": "ANTONIO R NASCIMENTO NETO",
+  "email": "antonionascimento2001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(19) 99171-6566",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 123.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "18516",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-13 10:48:32",
+      "data_hora_confirmacao": "2024-08-13 15:35:04",
+      "data_hora_confirmacao_pagamento": "2024-08-13 15:34:56",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 49.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22970",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-18 00:18:58",
+      "data_hora_confirmacao": "2024-10-18 10:52:19",
+      "data_hora_confirmacao_pagamento": "2024-10-25 14:22:16",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "5683": {
+      "codigo": "5683",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23249": {
+      "codigo": "23249",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS - Tamanho: P - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32342": {
+      "codigo": "32342",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32542": {
+      "codigo": "32542",
+      "titulo": "Bermuda Microfibra Ultra - NIKE (CARGO)  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

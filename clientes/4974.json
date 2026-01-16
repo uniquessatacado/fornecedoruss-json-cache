@@ -1,0 +1,45 @@
+{
+  "codigo": "4974",
+  "nome": "RAFAEL DORIVAL PROFITO",
+  "email": "profitorafa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(11) 98710-4879",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 72.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "5591",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 11:02:34",
+      "data_hora_confirmacao": "2023-12-26 12:18:06",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:18:16",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 10.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.86,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

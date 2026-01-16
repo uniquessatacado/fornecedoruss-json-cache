@@ -1,0 +1,53 @@
+{
+  "codigo": "9181",
+  "nome": "RODRIGO ROGER LOPES",
+  "email": "Rodrigo.Rogerlop@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2024",
+  "whatsapp": "(31) 99352-1159",
+  "cidade": "Ribeirão das Neves",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 146.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "11481",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-07 20:53:36",
+      "data_hora_confirmacao": "2024-05-08 16:18:05",
+      "data_hora_confirmacao_pagamento": "2024-05-08 16:17:37",
+      "valor_total_produtos": 122.98,
+      "valor_frete": 23.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.62,
+      "desconto": 0,
+      "cidade": "Ribeirão das Neves",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17768": {
+      "codigo": "17768",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18000": {
+      "codigo": "18000",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA PRADA - Cor: KIT- PRETA - BRANCA - CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

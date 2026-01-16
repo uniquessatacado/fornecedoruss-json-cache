@@ -1,0 +1,131 @@
+{
+  "codigo": "10726",
+  "nome": "MATHEUS MODENA RIBEIRO",
+  "email": "thaliacss2021@hotinail.com",
+  "sexo": "0",
+  "data_cadastro": "09/06/2024",
+  "whatsapp": "(19) 99157-0727",
+  "cidade": "Aguaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 565.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "13417",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-09 12:07:55",
+      "data_hora_confirmacao": "2024-06-13 11:19:52",
+      "data_hora_confirmacao_pagamento": "2024-06-13 11:19:42",
+      "valor_total_produtos": 155.96,
+      "valor_frete": 16.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 172.75,
+      "desconto": 0,
+      "cidade": "Aguaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14500",
+      "situacao_pedido": "PEDIDO SEPARADO COM ERRO",
+      "data_hora_pedido": "2024-06-25 12:11:38",
+      "data_hora_confirmacao": "2024-06-26 16:27:15",
+      "data_hora_confirmacao_pagamento": "2024-06-26 16:27:09",
+      "valor_total_produtos": 248.97,
+      "valor_frete": 25.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 324.88,
+      "desconto": 0,
+      "cidade": "Aguaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14501",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-25 12:11:38",
+      "data_hora_confirmacao": "2024-06-26 16:27:24",
+      "data_hora_confirmacao_pagamento": "2024-06-26 16:27:09",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 14.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.59,
+      "desconto": 0,
+      "cidade": "Aguaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18074": {
+      "codigo": "18074",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20099": {
+      "codigo": "20099",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20910": {
+      "codigo": "20910",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BORUSSIA - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21191": {
+      "codigo": "21191",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21235": {
+      "codigo": "21235",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

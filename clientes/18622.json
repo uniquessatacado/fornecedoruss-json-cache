@@ -1,0 +1,53 @@
+{
+  "codigo": "18622",
+  "nome": "SILVANA TEREZINHA VIEIRA",
+  "email": "silvana-terezinha@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2024",
+  "whatsapp": "(19) 97412-5703",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "27094",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-22 18:22:30",
+      "data_hora_confirmacao": "2024-12-22 18:30:11",
+      "data_hora_confirmacao_pagamento": "2024-12-22 18:30:11",
+      "valor_total_produtos": 96.76,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 96.76,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38414": {
+      "codigo": "38414",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: VERDE MUSGO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38822": {
+      "codigo": "38822",
+      "titulo": "Camiseta Suedine ultra -(C141) - Cor: VERDE MUSGO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "2718",
+  "nome": "CAIO CÉSAR DOS SANTOS",
+  "email": "caiocesarsantos71@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(11) 94918-2669",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 292.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300585",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 15:16:30",
+      "data_hora_confirmacao": "2023-09-24 23:36:32",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:36:42",
+      "valor_total_produtos": 158,
+      "valor_frete": 15.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 173.7,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3187",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-16 11:01:33",
+      "data_hora_confirmacao": "2023-11-16 11:08:35",
+      "data_hora_confirmacao_pagamento": "2023-11-16 11:24:43",
+      "valor_total_produtos": 118.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 118.9,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.23GG": {
+      "codigo": "CD02.23GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: OffWhite - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD02.17GG": {
+      "codigo": "CD02.17GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Silkada) - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD08.28G": {
+      "codigo": "CD08.28G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte emborrachada e Aviamentos originais) - Cor: Azul Marinho - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.10G": {
+      "codigo": "CD08.10G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Branca - Marca: Dior - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Azul Marinho - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD27.17": {
+      "codigo": "CD27.17",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Verde",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

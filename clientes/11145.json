@@ -1,0 +1,80 @@
+{
+  "codigo": "11145",
+  "nome": "FABIO CARDOSO SANTOS CARLOS",
+  "email": "fabiocardosoajo@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(21) 9796-61894",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 205.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "23794",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 03:04:33",
+      "data_hora_confirmacao": "2024-11-07 11:09:20",
+      "data_hora_confirmacao_pagamento": "2024-11-07 11:01:42",
+      "valor_total_produtos": 67.99,
+      "valor_frete": 16.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.02,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23795",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 03:04:33",
+      "data_hora_confirmacao": "2024-11-07 12:40:39",
+      "data_hora_confirmacao_pagamento": "2024-11-07 12:40:10",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 17.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.61,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32682": {
+      "codigo": "32682",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: P - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33221": {
+      "codigo": "33221",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33224": {
+      "codigo": "33224",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

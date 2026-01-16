@@ -1,0 +1,77 @@
+{
+  "codigo": "16803",
+  "nome": "RODRIGO DE OLIVEIRA CHAGAS",
+  "email": "rodrigooliveirachagas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/10/2024",
+  "whatsapp": "(11) 95068-1328",
+  "cidade": "Vargem Grande Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 105.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "23191",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-22 17:46:46",
+      "data_hora_confirmacao": "2024-10-23 16:49:18",
+      "data_hora_confirmacao_pagamento": "2024-10-23 16:49:11",
+      "valor_total_produtos": 89.91,
+      "valor_frete": 15.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 105.81,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28372": {
+      "codigo": "28372",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "28381": {
+      "codigo": "28381",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "29378": {
+      "codigo": "29378",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "32761": {
+      "codigo": "32761",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "32764": {
+      "codigo": "32764",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "13405",
+  "nome": "WELLINGTON MELO",
+  "email": "wellingtomelo@hotmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "31/07/2024",
+  "whatsapp": "(11) 95721-1253",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "17500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 23:05:08",
+      "data_hora_confirmacao": "2024-08-01 17:53:28",
+      "data_hora_confirmacao_pagamento": "2024-08-01 17:53:22",
+      "valor_total_produtos": 74.97,
+      "valor_frete": 14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.97,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24490": {
+      "codigo": "24490",
+      "titulo": "Chinelo Kenner Rakka L7 - COR CHINELO: BRANCO - MODELO CHINELO: KENNER RAKKA L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "25456": {
+      "codigo": "25456",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25461": {
+      "codigo": "25461",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

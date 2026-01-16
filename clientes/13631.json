@@ -1,0 +1,419 @@
+{
+  "codigo": "13631",
+  "nome": "LUIS FERNANDO DIAS ALKMIM",
+  "email": "luisfernandoboc08@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(38) 9991-62304",
+  "cidade": "Bocaiúva",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1233.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "17955",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-06 16:19:05",
+      "data_hora_confirmacao": "2024-08-07 10:29:57",
+      "data_hora_confirmacao_pagamento": "2024-08-07 10:29:49",
+      "valor_total_produtos": 321.78,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 321.78,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18969",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-17 13:15:02",
+      "data_hora_confirmacao": "2024-08-17 13:57:02",
+      "data_hora_confirmacao_pagamento": "2024-08-17 13:57:13",
+      "valor_total_produtos": 644.82,
+      "valor_frete": 51.06,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 695.88,
+      "desconto": 0,
+      "cidade": "Bocaiúva",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32389",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-12-05 21:16:11",
+      "data_hora_confirmacao": "2025-12-05 21:17:53",
+      "data_hora_confirmacao_pagamento": "2025-12-05 21:17:53",
+      "valor_total_produtos": 197,
+      "valor_frete": 18.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 215.55,
+      "desconto": 0,
+      "cidade": "Bocaiúva",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24634": {
+      "codigo": "24634",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24637": {
+      "codigo": "24637",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24640": {
+      "codigo": "24640",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "24646": {
+      "codigo": "24646",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "26120": {
+      "codigo": "26120",
+      "titulo": "Camiseta Egípcia Luxo - GUCCI arte em Bordado estilo serragem - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "26174": {
+      "codigo": "26174",
+      "titulo": "Camiseta Egípcia Luxo - HUGO BOSS arte em bordado camurça - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26237": {
+      "codigo": "26237",
+      "titulo": "Camiseta Egípcia Luxo - ARMANI arte em bordado refletivo - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "26513": {
+      "codigo": "26513",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "26516": {
+      "codigo": "26516",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26519": {
+      "codigo": "26519",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "26525": {
+      "codigo": "26525",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26544": {
+      "codigo": "26544",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26550": {
+      "codigo": "26550",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26553": {
+      "codigo": "26553",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26556": {
+      "codigo": "26556",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26575": {
+      "codigo": "26575",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "26581": {
+      "codigo": "26581",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "26587": {
+      "codigo": "26587",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "26700": {
+      "codigo": "26700",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26823": {
+      "codigo": "26823",
+      "titulo": "Camiseta Algodão Stretch Americano - HUGO BOSS arte em bordado - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27345": {
+      "codigo": "27345",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIESEL arte em patch emborrachado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27380": {
+      "codigo": "27380",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - HUGO BOSS arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27398": {
+      "codigo": "27398",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - ARMANI arte em aplique - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27460": {
+      "codigo": "27460",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em relevo  - Cor: MOSTARDA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27485": {
+      "codigo": "27485",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27520": {
+      "codigo": "27520",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27533": {
+      "codigo": "27533",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em termogel - Cor: MOSTARDA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27559": {
+      "codigo": "27559",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte patch emborrachado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "27588": {
+      "codigo": "27588",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte bordada - Cor: VERDE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27596": {
+      "codigo": "27596",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte patch emborrachado - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27622": {
+      "codigo": "27622",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte bordada - Cor: AREIA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27791": {
+      "codigo": "27791",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - RESERVA arte bordada - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "27822": {
+      "codigo": "27822",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em termogel - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "27867": {
+      "codigo": "27867",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: AREIA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27872": {
+      "codigo": "27872",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27885": {
+      "codigo": "27885",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em aplique - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42728": {
+      "codigo": "42728",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "51170": {
+      "codigo": "51170",
+      "titulo": "Camiseta Malha Egípcia Soft Boss- couro + bordado LT010 - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51850": {
+      "codigo": "51850",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "53997": {
+      "codigo": "53997",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "55223": {
+      "codigo": "55223",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55768": {
+      "codigo": "55768",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55851": {
+      "codigo": "55851",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "codigo": "3066",
+  "nome": "RODRIGO SOARES",
+  "email": "digao_ns@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(19) 9825-19234",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 6,
+  "valor_total_comprado": 1042.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301331",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 17:04:25",
+      "data_hora_confirmacao": "2023-10-05 17:48:47",
+      "data_hora_confirmacao_pagamento": "2023-10-05 17:48:55",
+      "valor_total_produtos": 130,
+      "valor_frete": 11.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 141.25,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301951",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 11:47:43",
+      "data_hora_confirmacao": "2023-10-19 15:05:56",
+      "data_hora_confirmacao_pagamento": "2023-10-19 15:06:03",
+      "valor_total_produtos": 145,
+      "valor_frete": 14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3719",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 21:31:48",
+      "data_hora_confirmacao": "2023-11-28 10:27:48",
+      "data_hora_confirmacao_pagamento": "2023-11-28 10:28:26",
+      "valor_total_produtos": 419.3,
+      "valor_frete": 14.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 434.11,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3757",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-28 17:03:05",
+      "data_hora_confirmacao": "2023-11-28 17:14:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 59.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 59.9,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11802",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 02:24:02",
+      "data_hora_confirmacao": "2024-05-14 16:18:48",
+      "data_hora_confirmacao_pagamento": "2024-05-14 16:18:43",
+      "valor_total_produtos": 122.97,
+      "valor_frete": 16.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.11,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17623",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 22:02:30",
+      "data_hora_confirmacao": "2024-08-02 10:05:12",
+      "data_hora_confirmacao_pagamento": "2024-08-02 10:05:00",
+      "valor_total_produtos": 94.96,
+      "valor_frete": 14.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.17,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17794": {
+      "codigo": "17794",
+      "titulo": "Chinelo Kenner Rakka vietnã - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "18360": {
+      "codigo": "18360",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18410": {
+      "codigo": "18410",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25423": {
+      "codigo": "25423",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25448": {
+      "codigo": "25448",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25460": {
+      "codigo": "25460",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25955": {
+      "codigo": "25955",
+      "titulo": "Tênis vans KNU linha premium - Cor: PRETA - Tamanho: 38",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD36": {
+      "codigo": "CD36",
+      "titulo": "TRITURADOR ELETRICO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Vinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.24GG": {
+      "codigo": "CD07.24GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - GUCCI - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD10.10G": {
+      "codigo": "CD10.10G",
+      "titulo": "Camiseta Egipicia Luxo - ARMANI   LT18.10 - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD39.10G": {
+      "codigo": "CD39.10G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD10.9GG": {
+      "codigo": "CD10.9GG",
+      "titulo": "Camiseta Egipicia Luxo - Armani - Cor: OffWhite - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD62.6": {
+      "codigo": "CD62.6",
+      "titulo": "Óculos  Romeu 2 - VERMELHO C/LARANJA   LT27.11 - Cor da Armação: Prata - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.20Penny": {
+      "codigo": "CD32.20Penny",
+      "titulo": "Óculos  Penny - Vermelho c/Laranja - Cor da Armação: Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.7": {
+      "codigo": "CD59.7",
+      "titulo": "Óculos  Penny - VERDE  LT27.11  - Cor da Armação: Chumbo - Cor da Lente: Verde - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.9": {
+      "codigo": "CD61.9",
+      "titulo": "Óculos  Juliet - ROXA  LT27.11  - Cor da Armação: Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.11": {
+      "codigo": "CD61.11",
+      "titulo": "Óculos  Juliet - DOURADO 24K  LT27.11    - Cor da Armação: Prata c/Chumbo - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD60.4": {
+      "codigo": "CD60.4",
+      "titulo": "Óculos  Double X - DOURADO 24K    LT17.11  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD60.3": {
+      "codigo": "CD60.3",
+      "titulo": "Óculos  Double X - VERMELHO C/LARANJA   LT17.11  - Cor da Armação: Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.7": {
+      "codigo": "CD61.7",
+      "titulo": "Óculos  Juliet - VERMELHO C/LARANJA  LT27.11 - Cor da Armação: Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

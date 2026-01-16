@@ -1,0 +1,45 @@
+{
+  "codigo": "8594",
+  "nome": "MAURILIO OLIVEIRA BARBOSA",
+  "email": "maurilio.barbosa@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(19) 98892-4247",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 32.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "10646",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-24 16:27:02",
+      "data_hora_confirmacao": "2024-04-25 17:27:56",
+      "data_hora_confirmacao_pagamento": "2024-04-25 17:57:35",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 32.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD15.8M": {
+      "codigo": "CD15.8M",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY  - Cor: PRETA - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

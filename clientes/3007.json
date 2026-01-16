@@ -1,0 +1,45 @@
+{
+  "codigo": "3007",
+  "nome": "HAYURY CAMARGO TAVARES",
+  "email": "hayzinnapns@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(19) 99730-7006",
+  "cidade": "Rio Claro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 28.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301822",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 16:02:15",
+      "data_hora_confirmacao": "2023-10-17 16:17:38",
+      "data_hora_confirmacao_pagamento": "2023-10-17 16:17:30",
+      "valor_total_produtos": 20,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 28.73,
+      "desconto": 0,
+      "cidade": "Rio Claro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

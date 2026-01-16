@@ -1,0 +1,45 @@
+{
+  "codigo": "3223",
+  "nome": "JONES HENRIQUE SANTANA",
+  "email": "joneshsantana1985@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(19) 99207-4701",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301198",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 20:22:30",
+      "data_hora_confirmacao": "2023-10-03 22:47:03",
+      "data_hora_confirmacao_pagamento": "2023-10-03 22:47:17",
+      "valor_total_produtos": 102,
+      "valor_frete": 13.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.25,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.26G - Boss": {
+      "codigo": "CD24.26G - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 12
+    }
+  }
+}

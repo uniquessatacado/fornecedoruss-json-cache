@@ -1,0 +1,123 @@
+{
+  "codigo": "13454",
+  "nome": "DOUGLAS CARDOSO REIS",
+  "email": "douglasreis.contato@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/08/2024",
+  "whatsapp": "(11) 99736-4680",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 279.84000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "17618",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 21:05:18",
+      "data_hora_confirmacao": "2024-08-02 10:04:16",
+      "data_hora_confirmacao_pagamento": "2024-08-02 10:04:10",
+      "valor_total_produtos": 87.98,
+      "valor_frete": 13.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 101.49,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18668",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-14 12:58:27",
+      "data_hora_confirmacao": "2024-08-14 19:27:49",
+      "data_hora_confirmacao_pagamento": "2024-08-14 19:27:43",
+      "valor_total_produtos": 85.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 85.98,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19460",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-23 20:37:12",
+      "data_hora_confirmacao": "2024-08-24 13:46:41",
+      "data_hora_confirmacao_pagamento": "2024-08-24 13:46:36",
+      "valor_total_produtos": 78.98,
+      "valor_frete": 13.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.37,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23381": {
+      "codigo": "23381",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26123": {
+      "codigo": "26123",
+      "titulo": "Camiseta Egípcia Luxo - GUCCI arte em Bordado estilo serragem - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "26195": {
+      "codigo": "26195",
+      "titulo": "Camiseta Egípcia Luxo - HUGO BOSS arte em bordado e couro - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27129": {
+      "codigo": "27129",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28733": {
+      "codigo": "28733",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte emborrachada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "10304",
+  "nome": "FERNANDO CÉSAR LOPES DE OLIVEIRA",
+  "email": "fclo1981@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2024",
+  "whatsapp": "(11) 94356-3980",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 386.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "12984",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 18:16:45",
+      "data_hora_confirmacao": "2024-06-03 10:44:12",
+      "data_hora_confirmacao_pagamento": "2024-06-03 10:44:04",
+      "valor_total_produtos": 359.96,
+      "valor_frete": 26.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 386.67,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19599": {
+      "codigo": "19599",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO PRONTA ENTREGA)    - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19615": {
+      "codigo": "19615",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO PRONTA ENTREGA)  - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "19659": {
+      "codigo": "19659",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FRANÇA PRONTA ENTREGA)    - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

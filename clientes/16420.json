@@ -1,0 +1,72 @@
+{
+  "codigo": "16420",
+  "nome": "LUCIANO ALVES FERREIRA DA ROCHA",
+  "email": "lutiano.1979@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2024",
+  "whatsapp": "(11) 99451-2520",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 95.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "22589",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-09 17:16:27",
+      "data_hora_confirmacao": "2024-10-10 18:04:04",
+      "data_hora_confirmacao_pagamento": "2024-10-10 18:03:59",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22937",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-17 10:39:22",
+      "data_hora_confirmacao": "2024-10-17 11:57:36",
+      "data_hora_confirmacao_pagamento": "2024-10-17 11:57:28",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31745": {
+      "codigo": "31745",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32338": {
+      "codigo": "32338",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

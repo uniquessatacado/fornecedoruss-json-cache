@@ -1,0 +1,61 @@
+{
+  "codigo": "10152",
+  "nome": "MATILDE DE LIMA GOMES",
+  "email": "matildelg.22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/05/2024",
+  "whatsapp": "(41) 99949-3065",
+  "cidade": "Araucária",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "12872",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-30 22:28:01",
+      "data_hora_confirmacao": "2024-05-31 13:26:32",
+      "data_hora_confirmacao_pagamento": "2024-05-31 13:26:22",
+      "valor_total_produtos": 97.97,
+      "valor_frete": 17.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.94,
+      "desconto": 0,
+      "cidade": "Araucária",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19123": {
+      "codigo": "19123",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em bordado  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19861": {
+      "codigo": "19861",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19867": {
+      "codigo": "19867",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

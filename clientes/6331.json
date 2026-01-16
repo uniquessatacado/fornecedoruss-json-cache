@@ -1,0 +1,45 @@
+{
+  "codigo": "6331",
+  "nome": "CARLOS ALEXANDRE",
+  "email": "cfernandessilva2010@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/02/2024",
+  "whatsapp": "(12) 98826-3842",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 40.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "7502",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 12:32:25",
+      "data_hora_confirmacao": "2024-02-22 13:09:45",
+      "data_hora_confirmacao_pagamento": "2024-02-22 13:09:38",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.103G": {
+      "codigo": "CD02.103G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

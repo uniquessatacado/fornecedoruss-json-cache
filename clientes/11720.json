@@ -1,0 +1,61 @@
+{
+  "codigo": "11720",
+  "nome": "JOSÉ DE RIBAMAR",
+  "email": "ribamar827652@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/06/2024",
+  "whatsapp": "(31) 99621-2864",
+  "cidade": "Esmeraldas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "14798",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-29 14:33:22",
+      "data_hora_confirmacao": "2024-07-01 13:14:13",
+      "data_hora_confirmacao_pagamento": "2024-07-01 13:14:07",
+      "valor_total_produtos": 109.97,
+      "valor_frete": 19.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.04,
+      "desconto": 0,
+      "cidade": "Esmeraldas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20213": {
+      "codigo": "20213",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ADIDAS - Cor: Kit Preto-Vermelho-Cinza - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22842": {
+      "codigo": "22842",
+      "titulo": "Camiseta Genuina 40.1 LUXO - HUGO BOSS arte em patch emborrachado  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23178": {
+      "codigo": "23178",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

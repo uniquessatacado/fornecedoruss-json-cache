@@ -1,0 +1,53 @@
+{
+  "codigo": "12796",
+  "nome": "MATHEUS ARRUDA",
+  "email": "matheusmonte2007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/07/2024",
+  "whatsapp": "(88) 99498-8215",
+  "cidade": "Juazeiro do Norte",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 98.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "18739",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 23:09:45",
+      "data_hora_confirmacao": "2024-08-15 14:21:28",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:21:22",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 26.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 98.31,
+      "desconto": 0,
+      "cidade": "Juazeiro do Norte",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21427": {
+      "codigo": "21427",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25033": {
+      "codigo": "25033",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SÃO PAULO - Tamanho: G - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

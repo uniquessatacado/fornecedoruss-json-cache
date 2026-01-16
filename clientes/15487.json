@@ -1,0 +1,96 @@
+{
+  "codigo": "15487",
+  "nome": "JOÃO OTÁVIO",
+  "email": "palmeiras.jo1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(67) 99831-7428",
+  "cidade": "Corumbá",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 159.20000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "21095",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-14 01:37:45",
+      "data_hora_confirmacao": "2024-09-14 09:59:30",
+      "data_hora_confirmacao_pagamento": "2024-09-14 09:59:07",
+      "valor_total_produtos": 114.96,
+      "valor_frete": 18.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 133.21,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21098",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-14 04:35:55",
+      "data_hora_confirmacao": "2024-09-14 10:12:04",
+      "data_hora_confirmacao_pagamento": "2024-09-14 10:11:48",
+      "valor_total_produtos": 25.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 25.99,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "27653": {
+      "codigo": "27653",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28927": {
+      "codigo": "28927",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30379": {
+      "codigo": "30379",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30382": {
+      "codigo": "30382",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

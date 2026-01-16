@@ -1,0 +1,104 @@
+{
+  "codigo": "1199",
+  "nome": "RAMON MARTINS",
+  "email": "ramonmartiins100@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "15/08/2023",
+  "whatsapp": "(74) 8134-8000",
+  "cidade": "Juazeiro",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 391.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "5573",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 08:33:55",
+      "data_hora_confirmacao": "2023-12-22 18:06:02",
+      "data_hora_confirmacao_pagamento": "2023-12-22 18:06:12",
+      "valor_total_produtos": 296.92,
+      "valor_frete": 63.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 360.37,
+      "desconto": 0,
+      "cidade": "Juazeiro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5723",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-23 14:22:10",
+      "data_hora_confirmacao": "2023-12-26 14:20:05",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Juazeiro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.4": {
+      "codigo": "CD69.4",
+      "titulo": "CAMISETA EGIPICIA COTTON - GUCCI  LT20.12   - Cor: Branca - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD69.3": {
+      "codigo": "CD69.3",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.2": {
+      "codigo": "CD69.2",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD69": {
+      "codigo": "CD69",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

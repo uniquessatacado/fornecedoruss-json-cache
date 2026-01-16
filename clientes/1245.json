@@ -1,0 +1,131 @@
+{
+  "codigo": "1245",
+  "nome": "HENRIQUE DIAS",
+  "email": "henriquediasarruda@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(66) 99983-9064",
+  "cidade": "Sorriso",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 398.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300718",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 21:22:33",
+      "data_hora_confirmacao": "2023-09-26 16:32:27",
+      "data_hora_confirmacao_pagamento": "2023-09-26 16:32:34",
+      "valor_total_produtos": 212,
+      "valor_frete": 47.69,
+      "frete": "PAC",
+      "valor_total_pedido": 259.69,
+      "desconto": 0,
+      "cidade": "Sorriso",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301128",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-02 18:26:33",
+      "data_hora_confirmacao": "2023-10-02 18:50:32",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 99,
+      "desconto": 0,
+      "cidade": "Sorriso",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301131",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-02 18:45:16",
+      "data_hora_confirmacao": "2023-10-02 18:51:56",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 40,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 40,
+      "desconto": 0,
+      "cidade": "Sorriso",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.25G": {
+      "codigo": "CD17.25G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.15G": {
+      "codigo": "CD17.15G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.25GG": {
+      "codigo": "CD17.25GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.1G": {
+      "codigo": "CD17.1G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD26.6G": {
+      "codigo": "CD26.6G",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Claro - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

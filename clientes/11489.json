@@ -1,0 +1,80 @@
+{
+  "codigo": "11489",
+  "nome": "EMILIN TAISSA",
+  "email": "emilitaissa@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/06/2024",
+  "whatsapp": "(11) 9160-72127",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 173.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "14478",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-24 23:35:46",
+      "data_hora_confirmacao": "2024-06-25 09:46:19",
+      "data_hora_confirmacao_pagamento": "2024-06-25 09:46:14",
+      "valor_total_produtos": 74.98,
+      "valor_frete": 23.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 98.61,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14479",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENTREGUE AO CLIENTE",
+      "data_hora_pedido": "2024-06-24 23:35:46",
+      "data_hora_confirmacao": "2024-06-25 09:51:12",
+      "data_hora_confirmacao_pagamento": "2024-06-25 09:46:14",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 11.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.8,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20954": {
+      "codigo": "20954",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21422": {
+      "codigo": "21422",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21762": {
+      "codigo": "21762",
+      "titulo": "Camiseta Suedine Ultra - NIKE arte em bordado  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "codigo": "4631",
+  "nome": "MICAEL SILVA FERREIRA",
+  "email": "micaelsferreira01@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(19) 9934-79735",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 462.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "4405",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-11 16:15:28",
+      "data_hora_confirmacao": "2023-12-11 17:44:13",
+      "data_hora_confirmacao_pagamento": "2023-12-11 17:44:21",
+      "valor_total_produtos": 174,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 184,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4450",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-11 19:02:56",
+      "data_hora_confirmacao": "2023-12-11 23:04:49",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 58,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 58,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25642",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-04 11:33:58",
+      "data_hora_confirmacao": "2024-12-04 11:34:46",
+      "data_hora_confirmacao_pagamento": "2024-12-04 11:34:46",
+      "valor_total_produtos": 118.95,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 128.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31681",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-09-16 16:08:22",
+      "data_hora_confirmacao": "2025-09-16 16:10:00",
+      "data_hora_confirmacao_pagamento": "2025-09-16 16:10:00",
+      "valor_total_produtos": 81.25,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 91.25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35405": {
+      "codigo": "35405",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "35452": {
+      "codigo": "35452",
+      "titulo": "Cuecas Peruanas - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35502": {
+      "codigo": "35502",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35517": {
+      "codigo": "35517",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35602": {
+      "codigo": "35602",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51414": {
+      "codigo": "51414",
+      "titulo": "Blusa de Moletom 3 Cabos BOSS (LT014) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD67.5": {
+      "codigo": "CD67.5",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - ONBONGO  LT06.12  - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "ONBONGO",
+      "quantidade": "1"
+    },
+    "CD67.9": {
+      "codigo": "CD67.9",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - HANG LOOSE  LT07.12  - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD67.10": {
+      "codigo": "CD67.10",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT07.12   - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD02.59": {
+      "codigo": "CD02.59",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT07.12 - Cor: Branca - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.55": {
+      "codigo": "CD02.55",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12    - Cor: Vermelha - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.53": {
+      "codigo": "CD02.53",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.7": {
+      "codigo": "CD67.7",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT06.12  - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD02.57": {
+      "codigo": "CD02.57",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE  LT07.12 - Cor: Vermelha - Marca: Hang Loose - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    }
+  }
+}

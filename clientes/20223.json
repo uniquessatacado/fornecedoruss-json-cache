@@ -1,0 +1,69 @@
+{
+  "codigo": "20223",
+  "nome": "ROSANA PEREIRA CAMPOS",
+  "email": "pereiracamposrosana282@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2025",
+  "whatsapp": "(19) 98836-4384",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "30728",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-15 20:22:03",
+      "data_hora_confirmacao": "2025-07-15 20:23:30",
+      "data_hora_confirmacao_pagamento": "2025-07-15 20:23:30",
+      "valor_total_produtos": 135.42,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 145.42,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47671": {
+      "codigo": "47671",
+      "titulo": "Camiseta 40.1 HUGO BOSS | Conforto Essencial LT51A (C899)  - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "47700": {
+      "codigo": "47700",
+      "titulo": "Camiseta 40.1 DIESEL | Conforto Essencial LT51A (C901)  - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49767": {
+      "codigo": "49767",
+      "titulo": " Camiseta 40.1 Armani | LT68A (C1221) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "50265": {
+      "codigo": "50265",
+      "titulo": "Bermuda Adidas Microfibra Ultra (LT003.3) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

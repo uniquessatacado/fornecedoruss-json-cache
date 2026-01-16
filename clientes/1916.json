@@ -1,0 +1,64 @@
+{
+  "codigo": "1916",
+  "nome": "MARCELO COSTA",
+  "email": "costagamamarcelo@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "29/08/2023",
+  "whatsapp": "(63) 99954-6600",
+  "cidade": "Gurupi",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 81.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300173",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-18 22:42:27",
+      "data_hora_confirmacao": "2023-09-19 12:25:54",
+      "data_hora_confirmacao_pagamento": "2023-09-19 12:25:05",
+      "valor_total_produtos": 17,
+      "valor_frete": 27.78,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 44.78,
+      "desconto": 0,
+      "cidade": "Gurupi",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300363",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 13:37:32",
+      "data_hora_confirmacao": "2023-09-21 14:02:23",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 8.5,
+      "valor_frete": 27.78,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 36.28,
+      "desconto": 0,
+      "cidade": "Gurupi",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.17M - Calvin Klein": {
+      "codigo": "CD24.17M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    }
+  }
+}

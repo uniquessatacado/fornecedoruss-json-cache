@@ -1,0 +1,53 @@
+{
+  "codigo": "3558",
+  "nome": "REGINALDO JOSE MARIANO",
+  "email": "reginaldojm1977@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(62) 9856-43554",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "18385",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 14:41:01",
+      "data_hora_confirmacao": "2024-08-12 11:20:02",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:19:57",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 20,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.98,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26067": {
+      "codigo": "26067",
+      "titulo": "Camiseta Genuina 40.1 LUXO - ARMAI arte em termogel - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "26417": {
+      "codigo": "26417",
+      "titulo": "Camiseta Suedine Oversized 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

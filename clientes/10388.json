@@ -1,0 +1,77 @@
+{
+  "codigo": "10388",
+  "nome": "ANA TOFOLLI",
+  "email": "paulavbsa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/06/2024",
+  "whatsapp": "(19) 98179-5885",
+  "cidade": "Valinhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 160.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "21712",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-24 22:47:18",
+      "data_hora_confirmacao": "2024-09-25 09:42:58",
+      "data_hora_confirmacao_pagamento": "2024-09-25 09:42:51",
+      "valor_total_produtos": 141.95,
+      "valor_frete": 18.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 160.28,
+      "desconto": 0,
+      "cidade": "Valinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30031": {
+      "codigo": "30031",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30114": {
+      "codigo": "30114",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO VERMELHO BRANCO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "30303": {
+      "codigo": "30303",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30518": {
+      "codigo": "30518",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

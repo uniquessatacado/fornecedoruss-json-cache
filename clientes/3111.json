@@ -1,0 +1,45 @@
+{
+  "codigo": "3111",
+  "nome": "ROBERTO MICAEL DE CARVALHO SILVA",
+  "email": "micaelcarvalho69@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(75) 99712-4470",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 39.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301046",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-30 14:33:57",
+      "data_hora_confirmacao": "2023-10-02 10:53:19",
+      "data_hora_confirmacao_pagamento": "2023-10-06 17:11:11",
+      "valor_total_produtos": 30,
+      "valor_frete": 9.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.04,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.49G": {
+      "codigo": "CD01.49G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

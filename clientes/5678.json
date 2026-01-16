@@ -1,0 +1,150 @@
+{
+  "codigo": "5678",
+  "nome": "JOÃO PAULO SOUZA GALVÃO",
+  "email": "joaopaulogalvao015@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/01/2024",
+  "whatsapp": "(19) 97169-0375",
+  "cidade": "Vinhedo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 289.83000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "6830",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-25 09:23:10",
+      "data_hora_confirmacao": "2024-01-25 11:24:50",
+      "data_hora_confirmacao_pagamento": "2024-01-25 11:25:08",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "Vinhedo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12103",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 16:58:48",
+      "data_hora_confirmacao": "2024-05-20 18:50:08",
+      "data_hora_confirmacao_pagamento": "2024-05-20 18:49:58",
+      "valor_total_produtos": 102.97,
+      "valor_frete": 15.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.95,
+      "desconto": 0,
+      "cidade": "Vinhedo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12110",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 17:33:48",
+      "data_hora_confirmacao": "2024-05-20 18:37:53",
+      "data_hora_confirmacao_pagamento": "2024-05-20 18:37:45",
+      "valor_total_produtos": 42.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 42.99,
+      "desconto": 0,
+      "cidade": "Vinhedo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24678",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-19 11:26:00",
+      "data_hora_confirmacao": "2024-11-19 11:27:46",
+      "data_hora_confirmacao_pagamento": "2024-11-19 11:27:46",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 13.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.3,
+      "desconto": 0,
+      "cidade": "Vinhedo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18625": {
+      "codigo": "18625",
+      "titulo": "Camiseta Suedine Nike Arte em Bordada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18676": {
+      "codigo": "18676",
+      "titulo": "Camiseta Suedine Premium DOLCE GABBANA arte em Silk  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Suedine Premium",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "18697": {
+      "codigo": "18697",
+      "titulo": "Camiseta Suedine Premium NIKE arte em Silk - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Suedine Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18853": {
+      "codigo": "18853",
+      "titulo": "Camiseta Genuina Egípcia Luxo ARMANI arte em patch emborrachado  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "34160": {
+      "codigo": "34160",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34871": {
+      "codigo": "34871",
+      "titulo": "CAMISETA NIKE MALHA CHINESA PREMIUM  - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.92": {
+      "codigo": "CD02.92",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

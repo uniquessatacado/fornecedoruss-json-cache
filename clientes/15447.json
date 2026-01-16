@@ -1,0 +1,53 @@
+{
+  "codigo": "15447",
+  "nome": "FÁBIO LOPES PEREZ",
+  "email": "fabiolperez78@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(11) 97646-4861",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 131.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "20767",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 09:57:15",
+      "data_hora_confirmacao": "2024-09-10 10:09:28",
+      "data_hora_confirmacao_pagamento": "2024-09-10 10:09:20",
+      "valor_total_produtos": 116.97,
+      "valor_frete": 14.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29189": {
+      "codigo": "29189",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "29351": {
+      "codigo": "29351",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

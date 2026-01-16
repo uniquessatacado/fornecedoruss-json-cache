@@ -1,0 +1,61 @@
+{
+  "codigo": "20778",
+  "nome": "JONATHAN RIBEIRO CRISTOVAO",
+  "email": "jonathan689ribeiro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/01/2026",
+  "whatsapp": "(11) 98821-6523",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 103.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "32465",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-03 09:23:25",
+      "data_hora_confirmacao": "2026-01-03 09:24:50",
+      "data_hora_confirmacao_pagamento": "2026-01-03 09:24:50",
+      "valor_total_produtos": 90.54,
+      "valor_frete": 12.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.53,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55136": {
+      "codigo": "55136",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "55244": {
+      "codigo": "55244",
+      "titulo": "Cueca Peruana Tommy Hilfiger (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "3"
+    },
+    "55872": {
+      "codigo": "55872",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    }
+  }
+}

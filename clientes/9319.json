@@ -1,0 +1,53 @@
+{
+  "codigo": "9319",
+  "nome": "MAURO FAVORETO",
+  "email": "mauro.favoreto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/05/2024",
+  "whatsapp": "(11) 98307-2603",
+  "cidade": "Itanhaém",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "11741",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-12 01:58:24",
+      "data_hora_confirmacao": "2024-05-13 15:02:40",
+      "data_hora_confirmacao_pagamento": "2024-05-13 15:02:33",
+      "valor_total_produtos": 59.98,
+      "valor_frete": 15.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.04,
+      "desconto": 0,
+      "cidade": "Itanhaém",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17999": {
+      "codigo": "17999",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA PRADA - Cor: KIT - PRETA - CINZA - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "18242": {
+      "codigo": "18242",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: PRETA - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

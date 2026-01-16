@@ -1,0 +1,53 @@
+{
+  "codigo": "2897",
+  "nome": "WEVERTON LUIZ RANGEL",
+  "email": "wevertonluizrangel33@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 96126-2252",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300753",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 12:42:34",
+      "data_hora_confirmacao": "2023-09-26 15:49:43",
+      "data_hora_confirmacao_pagamento": "2023-09-26 15:49:25",
+      "valor_total_produtos": 77,
+      "valor_frete": 13.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 90.67,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.8GG": {
+      "codigo": "CD02.8GG",
+      "titulo": "Camiseta Nike 40.1 Ultra Premium - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Vinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "codigo": "10798",
+  "nome": "KATHLENN FERNANDA DO NASCIMENTO",
+  "email": "kettyperez281@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/06/2024",
+  "whatsapp": "(19) 19995-3460",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 251.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "13517",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-11 17:29:45",
+      "data_hora_confirmacao": "2024-06-12 10:02:24",
+      "data_hora_confirmacao_pagamento": "2024-06-12 10:02:17",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13529",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-11 22:10:04",
+      "data_hora_confirmacao": "2024-06-12 10:14:27",
+      "data_hora_confirmacao_pagamento": "2024-06-12 10:14:16",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30271",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-12 16:41:21",
+      "data_hora_confirmacao": "2025-06-12 16:41:21",
+      "data_hora_confirmacao_pagamento": "2025-06-12 16:41:21",
+      "valor_total_produtos": 170.01,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 180.01,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19050": {
+      "codigo": "19050",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19262": {
+      "codigo": "19262",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS recorte  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "47294": {
+      "codigo": "47294",
+      "titulo": "Bermuda Nike Microfibra Ultra | Speed Line LT43A (C845) - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48517": {
+      "codigo": "48517",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT60A (C1033) - Cor: PRETO BRANCO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "48955": {
+      "codigo": "48955",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona Retrô Ronaldinho #10 | LT64A (C1104) - Tamanho: P - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48967": {
+      "codigo": "48967",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Manchester United | LT65A (C1105) - Tamanho: G - Times : Manchester United - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "20043",
+  "nome": "JOAO PELEGRIN",
+  "email": "pl34@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2025",
+  "whatsapp": "(19) 98735-6796",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100,
+  "pedidos": [
+    {
+      "codigo_pedido": "30090",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-02 15:59:20",
+      "data_hora_confirmacao": "2025-06-02 15:59:20",
+      "data_hora_confirmacao_pagamento": "2025-06-02 15:59:20",
+      "valor_total_produtos": 100,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 100,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47724": {
+      "codigo": "47724",
+      "titulo": "Camiseta Malha Egípcia Soft Prada | Fino acabamento e leveza LT44A (C921) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "47876": {
+      "codigo": "47876",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C924) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

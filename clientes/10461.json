@@ -1,0 +1,88 @@
+{
+  "codigo": "10461",
+  "nome": "EDSON MUNIZ BARBOSA",
+  "email": "edsonmunizz@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(11) 93213-2125",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 200.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "13130",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 17:35:20",
+      "data_hora_confirmacao": "2024-06-07 10:12:07",
+      "data_hora_confirmacao_pagamento": "2024-06-07 10:11:59",
+      "valor_total_produtos": 95.96,
+      "valor_frete": 14.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.54,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13296",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 14:12:05",
+      "data_hora_confirmacao": "2024-06-10 16:55:28",
+      "data_hora_confirmacao_pagamento": "2024-06-10 16:55:18",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 14.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.35,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19525": {
+      "codigo": "19525",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/FAIXA VERMELHA - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "20232": {
+      "codigo": "20232",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT Preto-Vermelho-Branco - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "20235": {
+      "codigo": "20235",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VERSACE - Cor: KIT Preto-Vermelho-Branco - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "20236": {
+      "codigo": "20236",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VERSACE - Cor: Kit Preto-Vermelho-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": 2
+    }
+  }
+}

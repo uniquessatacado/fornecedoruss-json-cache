@@ -1,0 +1,77 @@
+{
+  "codigo": "11377",
+  "nome": "ALESSANDRO BAAMONDE",
+  "email": "abaamonde@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "22/06/2024",
+  "whatsapp": "(11) 94787-4262",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 258.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "14382",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-22 20:29:44",
+      "data_hora_confirmacao": "2024-06-24 09:27:12",
+      "data_hora_confirmacao_pagamento": "2024-06-24 09:27:05",
+      "valor_total_produtos": 220.95,
+      "valor_frete": 37.55,
+      "frete": "PAC",
+      "valor_total_pedido": 258.5,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18798": {
+      "codigo": "18798",
+      "titulo": "Camiseta Genuina Egípcia Luxo - HUGO BOSS arte em bordado refletivo  - Cor: AZUL - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19564": {
+      "codigo": "19564",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "19565": {
+      "codigo": "19565",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "21804": {
+      "codigo": "21804",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: PRETA - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "22515": {
+      "codigo": "22515",
+      "titulo": "Ccamiseta GENUINA COTTON SOFT TURCO - ARMANI - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

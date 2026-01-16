@@ -1,0 +1,131 @@
+{
+  "codigo": "11849",
+  "nome": "ALEC GUBEREV",
+  "email": "alekguberev@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(11) 99373-3236",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 386.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "15005",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 22:55:38",
+      "data_hora_confirmacao": "2024-07-03 12:25:44",
+      "data_hora_confirmacao_pagamento": "2024-07-03 12:25:38",
+      "valor_total_produtos": 81.96,
+      "valor_frete": 22.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 104.82,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25837",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 17:35:25",
+      "data_hora_confirmacao": "2024-12-06 17:36:12",
+      "data_hora_confirmacao_pagamento": "2024-12-06 17:36:12",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 25.61,
+      "frete": "SEDEX",
+      "valor_total_pedido": 99.59,
+      "desconto": 0,
+      "cidade": "Peruíbe",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31317",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-08-15 17:39:39",
+      "data_hora_confirmacao": "2025-08-15 17:40:05",
+      "data_hora_confirmacao_pagamento": "2025-08-15 17:40:05",
+      "valor_total_produtos": 118.12,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 182.02,
+      "desconto": 0,
+      "cidade": "Peruíbe",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23048": {
+      "codigo": "23048",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23077": {
+      "codigo": "23077",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "36376": {
+      "codigo": "36376",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36418": {
+      "codigo": "36418",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50949": {
+      "codigo": "50949",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS 24/25 - Tamanho: GG - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - LACOSTE - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

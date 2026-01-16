@@ -1,0 +1,53 @@
+{
+  "codigo": "18067",
+  "nome": "ANDRE DA ROSA",
+  "email": "andreoliveradarosa17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/12/2024",
+  "whatsapp": "(55) 9811-5928",
+  "cidade": "Santana do Livramento",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 201.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "25624",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 22:09:05",
+      "data_hora_confirmacao": "2024-12-03 22:14:29",
+      "data_hora_confirmacao_pagamento": "2024-12-03 22:14:29",
+      "valor_total_produtos": 159.98,
+      "valor_frete": 41.05,
+      "frete": "PAC",
+      "valor_total_pedido": 201.03,
+      "desconto": 0,
+      "cidade": "Santana do Livramento",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36133": {
+      "codigo": "36133",
+      "titulo": "Tênis Air force 1 - Cor: PRETA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36146": {
+      "codigo": "36146",
+      "titulo": "Tênis Air force 1 React - Cor: BRANCA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "2954",
+  "nome": "FELIX ZAGOTTO DE OLIVEIRA",
+  "email": "felix.zagotto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/09/2023",
+  "whatsapp": "(11) 95979-9333",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 183.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300814",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-27 23:41:33",
+      "data_hora_confirmacao": "2023-10-02 12:34:02",
+      "data_hora_confirmacao_pagamento": "2023-10-02 12:34:12",
+      "valor_total_produtos": 168,
+      "valor_frete": 15.84,
+      "frete": "SEDEX",
+      "valor_total_pedido": 183.84,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.26G": {
+      "codigo": "CD17.26G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD33.4M": {
+      "codigo": "CD33.4M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Branca - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.1M": {
+      "codigo": "CD08.1M",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Lacoste - Cor: OffWhite - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

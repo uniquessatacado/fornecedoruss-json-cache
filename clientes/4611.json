@@ -1,0 +1,45 @@
+{
+  "codigo": "4611",
+  "nome": "MICHAEL ELISEU DA SILVA",
+  "email": "michael.eliseu@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/12/2023",
+  "whatsapp": "(19) 99160-9048",
+  "cidade": "Americana",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 74.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "4369",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-10 13:41:52",
+      "data_hora_confirmacao": "2023-12-11 10:38:03",
+      "data_hora_confirmacao_pagamento": "2023-12-11 10:38:11",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.78,
+      "desconto": 0,
+      "cidade": "Americana",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.33": {
+      "codigo": "CD16.33",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10 - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "1061",
+  "nome": "KELLISON COELHO",
+  "email": "kellisoncoelhoff@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(85) 98143-1021",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 148.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300431",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 10:15:47",
+      "data_hora_confirmacao": "2023-09-26 12:43:18",
+      "data_hora_confirmacao_pagamento": "2023-09-26 12:43:08",
+      "valor_total_produtos": 119.8,
+      "valor_frete": 28.89,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 148.69,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.10Juliet": {
+      "codigo": "CD32.10Juliet",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada   - Cor da Armação: Preto c/Marrom - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.7Penny": {
+      "codigo": "CD32.7Penny",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada   - Cor da Armação: Chumbo - Cor da Lente: Roxo c/Vermelho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

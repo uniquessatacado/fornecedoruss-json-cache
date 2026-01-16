@@ -1,0 +1,53 @@
+{
+  "codigo": "1723",
+  "nome": "JEANE SILVEIRA",
+  "email": "silveira_jm@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "24/08/2023",
+  "whatsapp": "(61) 9864-62430",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 81.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300029",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-14 02:11:45",
+      "data_hora_confirmacao": "2023-09-14 07:00:39",
+      "data_hora_confirmacao_pagamento": "2023-09-14 07:00:55",
+      "valor_total_produtos": 60,
+      "valor_frete": 21.97,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 81.97,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.31P": {
+      "codigo": "CD01.31P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Argentina - Tamanho: P - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.44P": {
+      "codigo": "CD01.44P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: P - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

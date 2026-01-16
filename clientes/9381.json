@@ -1,0 +1,72 @@
+{
+  "codigo": "9381",
+  "nome": "EDUARDO HENRIQUE DE CASTRO PADUA",
+  "email": "duducastro16032004@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/05/2024",
+  "whatsapp": "(17) 9920-77267",
+  "cidade": "Barretos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 74.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "11815",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 13:24:27",
+      "data_hora_confirmacao": "2024-05-14 15:18:16",
+      "data_hora_confirmacao_pagamento": "2024-05-14 15:18:22",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.92,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15403",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 20:53:48",
+      "data_hora_confirmacao": "2024-07-09 09:22:52",
+      "data_hora_confirmacao_pagamento": "2024-07-09 09:22:45",
+      "valor_total_produtos": 23.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 33.92,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18409": {
+      "codigo": "18409",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

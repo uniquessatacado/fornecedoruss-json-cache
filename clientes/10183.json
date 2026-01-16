@@ -1,0 +1,53 @@
+{
+  "codigo": "10183",
+  "nome": "KATIA APARECIDA DA SILVA",
+  "email": "gabrielffernandes2121@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(19) 99439-7625",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "12901",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-31 16:48:09",
+      "data_hora_confirmacao": "2024-05-31 16:48:48",
+      "data_hora_confirmacao_pagamento": "2024-05-31 17:45:53",
+      "valor_total_produtos": 110.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 110.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17723": {
+      "codigo": "17723",
+      "titulo": "MOLETOM 3 CABOS  CANGURU ARMANI  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

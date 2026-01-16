@@ -1,0 +1,53 @@
+{
+  "codigo": "8728",
+  "nome": "EVERTON ALVES RIBEIRO",
+  "email": "everton.helfstein22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/04/2024",
+  "whatsapp": "(11) 96399-9893",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 72.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "10879",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-27 18:50:57",
+      "data_hora_confirmacao": "2024-04-30 10:45:26",
+      "data_hora_confirmacao_pagamento": "2024-04-30 10:45:19",
+      "valor_total_produtos": 59.98,
+      "valor_frete": 12.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.36,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.145M": {
+      "codigo": "CD02.145M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  - Cor: BEGE - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

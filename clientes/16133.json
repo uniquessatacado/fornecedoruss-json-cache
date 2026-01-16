@@ -1,0 +1,107 @@
+{
+  "codigo": "16133",
+  "nome": "WESLEY DE NORONHA LIMA",
+  "email": "wesleynoronhalima@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2024",
+  "whatsapp": "(11) 98675-6048",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 242.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "22079",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 17:28:05",
+      "data_hora_confirmacao": "2024-10-01 17:34:47",
+      "data_hora_confirmacao_pagamento": "2024-10-01 17:34:41",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 10.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 30.77,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23468",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENVIADO PARA O CLIENTE",
+      "data_hora_pedido": "2024-10-29 14:35:21",
+      "data_hora_confirmacao": "2024-10-31 12:24:33",
+      "data_hora_confirmacao_pagamento": "2024-10-31 12:23:24",
+      "valor_total_produtos": 94.99,
+      "valor_frete": 16.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 111.3,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28878",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-03-21 12:55:24",
+      "data_hora_confirmacao": "2025-03-21 12:56:54",
+      "data_hora_confirmacao_pagamento": "2025-03-21 12:56:54",
+      "valor_total_produtos": 100,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 100,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21393": {
+      "codigo": "21393",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28341": {
+      "codigo": "28341",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28350": {
+      "codigo": "28350",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "45310": {
+      "codigo": "45310",
+      "titulo": "Camisa de time Corinthians Tailandesa 1.1 JOGADOR SÃO PAULO 25/26 (ENVIO DIRETO DA FABRICA) - Tamanho: G - Times : São Paulo - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

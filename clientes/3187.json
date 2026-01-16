@@ -1,0 +1,112 @@
+{
+  "codigo": "3187",
+  "nome": "WESLEY RODRIGUES SOUZA",
+  "email": "wesleysouzasr@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(19) 99323-1882",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 284.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301140",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-02 20:32:45",
+      "data_hora_confirmacao": "2023-10-03 11:14:45",
+      "data_hora_confirmacao_pagamento": "2023-10-03 11:14:56",
+      "valor_total_produtos": 40,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 50,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301447",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-07 11:58:46",
+      "data_hora_confirmacao": "2023-10-07 12:00:10",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:36:23",
+      "valor_total_produtos": 234.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 234.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD26.6G": {
+      "codigo": "CD26.6G",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Escuro - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD08.15M": {
+      "codigo": "CD08.15M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.5M": {
+      "codigo": "CD12.5M",
+      "titulo": "Polo Piquet Duplo Ultra - Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD26.5GG": {
+      "codigo": "CD26.5GG",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Cinza Claro - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.5G": {
+      "codigo": "CD12.5G",
+      "titulo": "Polo Piquet Duplo Ultra - Boss - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.32G": {
+      "codigo": "CD08.32G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Hugo Boss - Cor: Branco e Verde - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

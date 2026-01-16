@@ -1,0 +1,53 @@
+{
+  "codigo": "4505",
+  "nome": "RAPHAEL BELINI CABRAL",
+  "email": "raphaelbelinicabral@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/12/2023",
+  "whatsapp": "(19) 98745-5944",
+  "cidade": "Limeira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 63.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "4159",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 20:55:19",
+      "data_hora_confirmacao": "2023-12-07 23:28:17",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:28:27",
+      "valor_total_produtos": 53,
+      "valor_frete": 10.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 63.78,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD57.2": {
+      "codigo": "CD57.2",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11  - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.60GG": {
+      "codigo": "CD01.60GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

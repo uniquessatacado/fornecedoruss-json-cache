@@ -1,0 +1,104 @@
+{
+  "codigo": "20646",
+  "nome": "DOUGLAS LUIS ARRUDA",
+  "email": "dodoarruda@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/11/2025",
+  "whatsapp": "(11) 9771-11439",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 160.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "32211",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-11-02 10:44:00",
+      "data_hora_confirmacao": "2025-11-02 10:45:54",
+      "data_hora_confirmacao_pagamento": "2025-11-02 10:45:54",
+      "valor_total_produtos": 80.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 110.4,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32212",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-11-02 10:44:00",
+      "data_hora_confirmacao": "2025-11-02 10:50:08",
+      "data_hora_confirmacao_pagamento": "2025-11-02 10:50:08",
+      "valor_total_produtos": 50.3,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50.3,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53683": {
+      "codigo": "53683",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO III 25/26 - Tamanho: G1 - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55804": {
+      "codigo": "55804",
+      "titulo": "Cueca Peruana - Nike (LT058) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55810": {
+      "codigo": "55810",
+      "titulo": "Cueca Peruana - Nike (LT058) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55834": {
+      "codigo": "55834",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55846": {
+      "codigo": "55846",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55864": {
+      "codigo": "55864",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

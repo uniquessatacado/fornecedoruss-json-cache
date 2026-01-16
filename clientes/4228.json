@@ -1,0 +1,80 @@
+{
+  "codigo": "4228",
+  "nome": "FABIO FEITOSA DE LIMA",
+  "email": "claudeteoliveira30@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(11) 9731-32131",
+  "cidade": "Itu",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 160.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "5713",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 12:52:20",
+      "data_hora_confirmacao": "2023-12-23 12:53:25",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6513",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-12 07:56:13",
+      "data_hora_confirmacao": "2024-01-12 14:15:18",
+      "data_hora_confirmacao_pagamento": "2024-01-12 14:25:47",
+      "valor_total_produtos": 125.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125.98,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD61.25": {
+      "codigo": "CD61.25",
+      "titulo": "Óculos  Juliet - AZUL - Cor da Armação: Preto - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.23": {
+      "codigo": "CD61.23",
+      "titulo": "Óculos  Juliet - PRETA - Cor da Armação: Prata c/Chumbo - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

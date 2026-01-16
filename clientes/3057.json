@@ -1,0 +1,61 @@
+{
+  "codigo": "3057",
+  "nome": "JOSEFA QUIARINE",
+  "email": "kiarinyoliveiradantas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(75) 99882-9059",
+  "cidade": "Entre Rios",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 95.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "21399",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 16:08:46",
+      "data_hora_confirmacao": "2024-09-20 17:39:48",
+      "data_hora_confirmacao_pagamento": "2024-09-20 17:39:42",
+      "valor_total_produtos": 64.97,
+      "valor_frete": 30.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 95.02,
+      "desconto": 0,
+      "cidade": "Entre Rios",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29758": {
+      "codigo": "29758",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29815": {
+      "codigo": "29815",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29842": {
+      "codigo": "29842",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

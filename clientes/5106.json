@@ -1,0 +1,45 @@
+{
+  "codigo": "5106",
+  "nome": "ALEXANDRE ROSA RAMOS",
+  "email": "alrosar@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "30/12/2023",
+  "whatsapp": "(16) 98230-5319",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "6049",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-30 13:04:25",
+      "data_hora_confirmacao": "2024-01-02 10:19:28",
+      "data_hora_confirmacao_pagamento": "2024-01-02 10:19:39",
+      "valor_total_produtos": 37,
+      "valor_frete": 18.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.14,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

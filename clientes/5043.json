@@ -1,0 +1,72 @@
+{
+  "codigo": "5043",
+  "nome": "THIAGO VIANA",
+  "email": "thiagoviiana.bklyn@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/12/2023",
+  "whatsapp": "(19) 99149-4922",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 125.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "5808",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-24 09:18:01",
+      "data_hora_confirmacao": "2023-12-24 12:34:45",
+      "data_hora_confirmacao_pagamento": "2023-12-26 11:52:55",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7588",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-24 14:28:00",
+      "data_hora_confirmacao": "2024-02-26 09:40:49",
+      "data_hora_confirmacao_pagamento": "2024-03-09 09:47:52",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD61.21": {
+      "codigo": "CD61.21",
+      "titulo": "Óculos  Juliet - DOURADO 24K   - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "JU02": {
+      "codigo": "JU02",
+      "titulo": "Óculos  Juliet - Dourada 24K - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

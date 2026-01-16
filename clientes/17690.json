@@ -1,0 +1,69 @@
+{
+  "codigo": "17690",
+  "nome": "FRANK COELHO",
+  "email": "fk_contabilidade@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/11/2024",
+  "whatsapp": "(94) 99122-3346",
+  "cidade": "Xinguara",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 215.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "24899",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-21 11:51:44",
+      "data_hora_confirmacao": "2024-11-21 11:53:40",
+      "data_hora_confirmacao_pagamento": "2024-11-21 11:53:40",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 67.5,
+      "frete": "PAC",
+      "valor_total_pedido": 215.46,
+      "desconto": 0,
+      "cidade": "Xinguara",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28957": {
+      "codigo": "28957",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28960": {
+      "codigo": "28960",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33894": {
+      "codigo": "33894",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS cargo - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35116": {
+      "codigo": "35116",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

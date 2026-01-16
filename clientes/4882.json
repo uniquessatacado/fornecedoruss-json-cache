@@ -1,0 +1,88 @@
+{
+  "codigo": "4882",
+  "nome": "LETÍCIA ROSA",
+  "email": "leticiazanete2016@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(19) 99460-8813",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 174.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "5286",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 12:14:24",
+      "data_hora_confirmacao": "2023-12-20 12:17:09",
+      "data_hora_confirmacao_pagamento": "2023-12-20 13:55:04",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 61.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5694",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 10:30:24",
+      "data_hora_confirmacao": "2023-12-23 10:59:53",
+      "data_hora_confirmacao_pagamento": "2023-12-26 10:30:35",
+      "valor_total_produtos": 112.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 112.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.70": {
+      "codigo": "CD02.70",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12    - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD63.7": {
+      "codigo": "CD63.7",
+      "titulo": "Óculos Oakley Mandrake - PRETO   LT21.12  - Cor da Armação: Preto - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD27.11": {
+      "codigo": "CD27.11",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10  - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD69.3": {
+      "codigo": "CD69.3",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

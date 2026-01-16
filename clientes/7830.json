@@ -1,0 +1,104 @@
+{
+  "codigo": "7830",
+  "nome": "EDINO ALVES DE NOVAIS",
+  "email": "nenonovaes00@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(19) 97170-6929",
+  "cidade": "Amparo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 450.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "9773",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 19:17:20",
+      "data_hora_confirmacao": "2024-04-10 09:27:58",
+      "data_hora_confirmacao_pagamento": "2024-04-10 09:27:53",
+      "valor_total_produtos": 299.88,
+      "valor_frete": 20.11,
+      "frete": "SEDEX",
+      "valor_total_pedido": 319.99,
+      "desconto": 0,
+      "cidade": "Amparo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 18:38:43",
+      "data_hora_confirmacao": "2024-04-20 11:20:01",
+      "data_hora_confirmacao_pagamento": "2024-04-20 11:19:52",
+      "valor_total_produtos": 117.93,
+      "valor_frete": 12.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 130.79,
+      "desconto": 0,
+      "cidade": "Amparo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.1G": {
+      "codigo": "CD32.1G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD02.129G": {
+      "codigo": "CD02.129G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 3
+    },
+    "CD02.124G": {
+      "codigo": "CD02.124G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Laranja - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.140G": {
+      "codigo": "CD02.140G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: OFFWHITE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD23.1G": {
+      "codigo": "CD23.1G",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.19M": {
+      "codigo": "CD24.19M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    }
+  }
+}

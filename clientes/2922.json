@@ -1,0 +1,53 @@
+{
+  "codigo": "2922",
+  "nome": "PABLO DA SILVA CARNEIRO",
+  "email": "pablosilva9353@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(21) 97470-9377",
+  "cidade": "Maricá",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 134.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "6538",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-13 22:12:49",
+      "data_hora_confirmacao": "2024-01-16 13:36:05",
+      "data_hora_confirmacao_pagamento": "2024-01-16 13:36:31",
+      "valor_total_produtos": 117.94,
+      "valor_frete": 17.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.95,
+      "desconto": 0,
+      "cidade": "Maricá",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Cinza - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 4
+    },
+    "CD39.59": {
+      "codigo": "CD39.59",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

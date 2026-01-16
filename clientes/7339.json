@@ -1,0 +1,115 @@
+{
+  "codigo": "7339",
+  "nome": "ALEX JÚNIOR DA SILVA FARIA",
+  "email": "alexjuniordasilvafariajunior@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/03/2024",
+  "whatsapp": "(11) 93366-5178",
+  "cidade": "Cajamar",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 209.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "9117",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-30 10:28:08",
+      "data_hora_confirmacao": "2024-03-30 11:23:15",
+      "data_hora_confirmacao_pagamento": "2024-03-30 11:23:03",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 10.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 49.53,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10031",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-13 10:47:39",
+      "data_hora_confirmacao": "2024-04-13 10:47:39",
+      "data_hora_confirmacao_pagamento": "2024-04-13 10:51:57",
+      "valor_total_produtos": 109.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 109.97,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10803",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 12:18:11",
+      "data_hora_confirmacao": "2024-04-26 16:31:54",
+      "data_hora_confirmacao_pagamento": "2024-04-26 16:06:59",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 49.89,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.09M": {
+      "codigo": "CD39.09M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.138M": {
+      "codigo": "CD02.138M",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: VERMELHA - Marca: Puma - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD24.23G": {
+      "codigo": "CD24.23G",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    }
+  }
+}

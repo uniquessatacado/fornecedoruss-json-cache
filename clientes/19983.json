@@ -1,0 +1,72 @@
+{
+  "codigo": "19983",
+  "nome": "LUCAS MAXWELL DA SILVA",
+  "email": "lsmaxwell26@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/05/2025",
+  "whatsapp": "(19) 9918-40436",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 88.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "29941",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-23 17:26:29",
+      "data_hora_confirmacao": "2025-05-23 17:26:29",
+      "data_hora_confirmacao_pagamento": "2025-05-23 17:26:29",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 46.67,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29942",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-23 17:40:21",
+      "data_hora_confirmacao": "2025-05-23 17:40:21",
+      "data_hora_confirmacao_pagamento": "2025-05-23 17:40:21",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 41.67,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48388": {
+      "codigo": "48388",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT58A (C1007) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "48807": {
+      "codigo": "48807",
+      "titulo": "Bermuda Nike Microfibra Ultra | LT63A (C1079) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

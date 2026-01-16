@@ -1,0 +1,80 @@
+{
+  "codigo": "5839",
+  "nome": "ÉRIK CRESTANI BUENO",
+  "email": "erikcbueno@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/01/2024",
+  "whatsapp": "(48) 98503-0613",
+  "cidade": "Biguaçu",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 147.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "8137",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 17:15:29",
+      "data_hora_confirmacao": "2024-03-09 10:07:18",
+      "data_hora_confirmacao_pagamento": "2024-03-09 10:07:12",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 16.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.61,
+      "desconto": 0,
+      "cidade": "Biguaçu",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16882",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 13:24:39",
+      "data_hora_confirmacao": "2024-07-24 17:49:22",
+      "data_hora_confirmacao_pagamento": "2024-07-24 17:49:14",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 19.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.33,
+      "desconto": 0,
+      "cidade": "Biguaçu",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25302": {
+      "codigo": "25302",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25336": {
+      "codigo": "25336",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS arte em silk - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD31M": {
+      "codigo": "CD31M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

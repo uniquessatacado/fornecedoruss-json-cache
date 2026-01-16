@@ -1,0 +1,334 @@
+{
+  "codigo": "12187",
+  "nome": "CHRISTIAN HENRIQUE",
+  "email": "christianalves533@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/07/2024",
+  "whatsapp": "(31) 98364-5916",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1353.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "18360",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-10 23:40:03",
+      "data_hora_confirmacao": "2024-08-12 15:00:53",
+      "data_hora_confirmacao_pagamento": "2024-08-12 15:00:48",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 13.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.95,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19381",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 19:29:33",
+      "data_hora_confirmacao": "2024-08-23 10:14:20",
+      "data_hora_confirmacao_pagamento": "2024-08-23 10:14:11",
+      "valor_total_produtos": 896.78,
+      "valor_frete": 47.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 944.16,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19726",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-27 13:01:13",
+      "data_hora_confirmacao": "2024-08-27 13:01:13",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 38.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.99,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22584",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-09 16:45:23",
+      "data_hora_confirmacao": "2024-10-10 13:07:47",
+      "data_hora_confirmacao_pagamento": "2024-10-10 13:07:39",
+      "valor_total_produtos": 295.92,
+      "valor_frete": 20.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 316.52,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18359": {
+      "codigo": "18359",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22223": {
+      "codigo": "22223",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26413": {
+      "codigo": "26413",
+      "titulo": "Camiseta Suedine Oversized 1:1 ULTRA - NIKE arte em DTF - Cor: VERDE AGUA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26419": {
+      "codigo": "26419",
+      "titulo": "Camiseta Suedine Oversized 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26684": {
+      "codigo": "26684",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26685": {
+      "codigo": "26685",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26729": {
+      "codigo": "26729",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em BORDADO - Cor: CREME - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26756": {
+      "codigo": "26756",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26759": {
+      "codigo": "26759",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27167": {
+      "codigo": "27167",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28043": {
+      "codigo": "28043",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28046": {
+      "codigo": "28046",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28047": {
+      "codigo": "28047",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "28049": {
+      "codigo": "28049",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28095": {
+      "codigo": "28095",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28102": {
+      "codigo": "28102",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "28106": {
+      "codigo": "28106",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28136": {
+      "codigo": "28136",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28161": {
+      "codigo": "28161",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28164": {
+      "codigo": "28164",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28165": {
+      "codigo": "28165",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28298": {
+      "codigo": "28298",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31665": {
+      "codigo": "31665",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31763": {
+      "codigo": "31763",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32315": {
+      "codigo": "32315",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32322": {
+      "codigo": "32322",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX  - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32335": {
+      "codigo": "32335",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32361": {
+      "codigo": "32361",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32363": {
+      "codigo": "32363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32365": {
+      "codigo": "32365",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

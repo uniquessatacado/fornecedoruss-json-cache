@@ -1,0 +1,72 @@
+{
+  "codigo": "645",
+  "nome": "ANTONIO FERREIRA",
+  "email": "tonyferreirasilva2@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(55) 21974-8122",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 98.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301675",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 19:39:08",
+      "data_hora_confirmacao": "2023-10-13 14:14:07",
+      "data_hora_confirmacao_pagamento": "2023-10-13 14:14:15",
+      "valor_total_produtos": 65.5,
+      "valor_frete": 13.03,
+      "frete": "JADLOG",
+      "valor_total_pedido": 78.53,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301824",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-17 16:13:26",
+      "data_hora_confirmacao": "2023-10-17 17:07:20",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 20,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 20,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.27GG - Boss": {
+      "codigo": "CD24.27GG - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "12161",
+  "nome": "PATRICK BELLINAZZI",
+  "email": "ptkbellinazzi@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/07/2024",
+  "whatsapp": "(11) 99164-3094",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 156.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "15445",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-09 11:04:51",
+      "data_hora_confirmacao": "2024-07-09 11:39:24",
+      "data_hora_confirmacao_pagamento": "2024-07-09 11:39:18",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.81,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19199",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-20 21:40:18",
+      "data_hora_confirmacao": "2024-08-21 11:59:45",
+      "data_hora_confirmacao_pagamento": "2024-08-21 11:59:34",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 12.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 78.31,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22074": {
+      "codigo": "22074",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ADIDAS arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22895": {
+      "codigo": "22895",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA NIKE- CANO CURTO  - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23749": {
+      "codigo": "23749",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28267": {
+      "codigo": "28267",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

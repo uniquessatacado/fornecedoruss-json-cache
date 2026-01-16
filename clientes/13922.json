@@ -1,0 +1,219 @@
+{
+  "codigo": "13922",
+  "nome": "IVAN GOMES MUNIZ",
+  "email": "atendimento.espacocasa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/08/2024",
+  "whatsapp": "(19) 99151-1543",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 274.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "18428",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 14:32:19",
+      "data_hora_confirmacao": "2024-08-13 10:19:33",
+      "data_hora_confirmacao_pagamento": "2024-08-13 10:19:26",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 13.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.09,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22553",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-09 11:32:51",
+      "data_hora_confirmacao": "2024-10-09 11:57:53",
+      "data_hora_confirmacao_pagamento": "2024-10-09 11:57:47",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31164",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-08-06 20:26:32",
+      "data_hora_confirmacao": "2025-08-06 20:40:07",
+      "data_hora_confirmacao_pagamento": "2025-08-06 20:40:07",
+      "valor_total_produtos": 117.17,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 127.17,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24636": {
+      "codigo": "24636",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24642": {
+      "codigo": "24642",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24645": {
+      "codigo": "24645",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27247": {
+      "codigo": "27247",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27250": {
+      "codigo": "27250",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27253": {
+      "codigo": "27253",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "32363": {
+      "codigo": "32363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32370": {
+      "codigo": "32370",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50299": {
+      "codigo": "50299",
+      "titulo": "Cueca Peruana - Calvin Klein (LT003.4) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "50347": {
+      "codigo": "50347",
+      "titulo": "Cueca Peruana - Lacoste (LT003.4) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "50365": {
+      "codigo": "50365",
+      "titulo": "Cueca Peruana - Lacoste (LT003.4) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "52132": {
+      "codigo": "52132",
+      "titulo": "Cueca Peruana Lacoste (LT017) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "52156": {
+      "codigo": "52156",
+      "titulo": "Cueca Peruana Burberry (LT017) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "52511": {
+      "codigo": "52511",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52517": {
+      "codigo": "52517",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52545": {
+      "codigo": "52545",
+      "titulo": "Cueca Peruana Tommy (LT031) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "52578": {
+      "codigo": "52578",
+      "titulo": "Cueca Peruana Quiksilver (LT031) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "53007": {
+      "codigo": "53007",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT034) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

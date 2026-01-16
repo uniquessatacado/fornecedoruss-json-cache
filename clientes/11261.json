@@ -1,0 +1,96 @@
+{
+  "codigo": "11261",
+  "nome": "RAFAEL NETO",
+  "email": "ra_uliano@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(11) 96341-3679",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 165.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "14214",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 15:52:05",
+      "data_hora_confirmacao": "2024-06-21 11:47:37",
+      "data_hora_confirmacao_pagamento": "2024-06-21 11:47:30",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 13.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.24,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14457",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-24 16:54:28",
+      "data_hora_confirmacao": "2024-06-24 16:54:42",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 43.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 43.98,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21447": {
+      "codigo": "21447",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22359": {
+      "codigo": "22359",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22385": {
+      "codigo": "22385",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE   - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

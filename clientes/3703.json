@@ -1,0 +1,53 @@
+{
+  "codigo": "3703",
+  "nome": "LUÍS ROGERIO VIEIRA DE OLIVEIRA",
+  "email": "orogerio942@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/10/2023",
+  "whatsapp": "(11) 9534-88185",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "4729",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 20:35:14",
+      "data_hora_confirmacao": "2023-12-13 23:28:40",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:29:02",
+      "valor_total_produtos": 110,
+      "valor_frete": 11.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.32,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA11": {
+      "codigo": "PA11",
+      "titulo": "CORRENTE DE PRATA  ESCAMA  2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD63.6": {
+      "codigo": "CD63.6",
+      "titulo": "Óculos Oakley Mandrake - AMARELO C/VERDE   LT13.12 - Cor da Armação: Preto - Cor da Lente: Amarelo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

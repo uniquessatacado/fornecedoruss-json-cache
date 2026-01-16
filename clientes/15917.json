@@ -1,0 +1,80 @@
+{
+  "codigo": "15917",
+  "nome": "RODRIGO LOPES",
+  "email": "rallopes@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2024",
+  "whatsapp": "(21) 98812-5956",
+  "cidade": "Guapimirim",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 205.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "30941",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-26 09:22:52",
+      "data_hora_confirmacao": "2025-07-26 09:24:43",
+      "data_hora_confirmacao_pagamento": "2025-07-26 09:24:43",
+      "valor_total_produtos": 97.5,
+      "valor_frete": 18.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 116.1,
+      "desconto": 0,
+      "cidade": "Guapimirim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31826",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-24 19:25:40",
+      "data_hora_confirmacao": "2025-09-24 19:26:37",
+      "data_hora_confirmacao_pagamento": "2025-09-24 19:26:37",
+      "valor_total_produtos": 75,
+      "valor_frete": 14.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.34,
+      "desconto": 0,
+      "cidade": "Guapimirim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51629": {
+      "codigo": "51629",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike AIR - ARTE EM DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51659": {
+      "codigo": "51659",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54564": {
+      "codigo": "54564",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

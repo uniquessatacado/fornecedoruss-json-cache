@@ -1,0 +1,80 @@
+{
+  "codigo": "1512",
+  "nome": "ALEXANDRE OLIVEIRA",
+  "email": "alexandreazevedodeoliveira83@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(21) 98466-2102",
+  "cidade": "Itaboraí",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 121.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301765",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-16 13:24:19",
+      "data_hora_confirmacao": "2023-10-16 13:49:32",
+      "data_hora_confirmacao_pagamento": "2023-10-16 13:49:22",
+      "valor_total_produtos": 66,
+      "valor_frete": 15.99,
+      "frete": "JADLOG",
+      "valor_total_pedido": 81.99,
+      "desconto": 0,
+      "cidade": "Itaboraí",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14598",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 11:57:43",
+      "data_hora_confirmacao": "2024-07-01 12:28:53",
+      "data_hora_confirmacao_pagamento": "2024-07-01 12:28:46",
+      "valor_total_produtos": 25,
+      "valor_frete": 14.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 39.22,
+      "desconto": 0,
+      "cidade": "Itaboraí",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.47GG": {
+      "codigo": "CD01.47GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD26.5GG": {
+      "codigo": "CD26.5GG",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

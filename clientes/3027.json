@@ -1,0 +1,96 @@
+{
+  "codigo": "3027",
+  "nome": "PHILIPE SANTANA PEREIRA",
+  "email": "santanaphilipe22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(73) 99837-8860",
+  "cidade": "Presidente Tancredo Neves",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 196.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300903",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 03:06:24",
+      "data_hora_confirmacao": "2023-10-04 13:53:24",
+      "data_hora_confirmacao_pagamento": "2023-10-04 13:53:38",
+      "valor_total_produtos": 126,
+      "valor_frete": 37.71,
+      "frete": "PAC",
+      "valor_total_pedido": 163.71,
+      "desconto": 0,
+      "cidade": "Presidente Tancredo Neves",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301218",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-04 00:31:49",
+      "data_hora_confirmacao": "2023-10-04 10:22:16",
+      "data_hora_confirmacao_pagamento": "2023-10-04 14:26:33",
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Presidente Tancredo Neves",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD26.4P": {
+      "codigo": "CD26.4P",
+      "titulo": "Regatas Drifit - Adidas - Cor: Branca - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD17.29M": {
+      "codigo": "CD17.29M",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.19P": {
+      "codigo": "CD01.19P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.29GG": {
+      "codigo": "CD17.29GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.31M": {
+      "codigo": "CD17.31M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "19052",
+  "nome": "LUCAS CONCEICAO",
+  "email": "lucasconceiao@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/01/2025",
+  "whatsapp": "(47) 99683-9502",
+  "cidade": "Balneário Camboriú",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 163.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "27748",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-20 19:41:12",
+      "data_hora_confirmacao": "2025-01-20 19:42:09",
+      "data_hora_confirmacao_pagamento": "2025-01-20 19:42:09",
+      "valor_total_produtos": 144.99,
+      "valor_frete": 18.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.79,
+      "desconto": 0,
+      "cidade": "Balneário Camboriú",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38505": {
+      "codigo": "38505",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39820": {
+      "codigo": "39820",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA  LT4A - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40316": {
+      "codigo": "40316",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

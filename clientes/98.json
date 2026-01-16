@@ -1,0 +1,372 @@
+{
+  "codigo": "98",
+  "nome": "MAIK SANTOS",
+  "email": "maaik_sc@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/03/2023",
+  "whatsapp": "(11) 9869-24535",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 6,
+  "valor_total_comprado": 1848.9799999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "3356",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-18 18:08:44",
+      "data_hora_confirmacao": "2023-11-21 10:49:58",
+      "data_hora_confirmacao_pagamento": "2023-11-21 10:50:10",
+      "valor_total_produtos": 545,
+      "valor_frete": 22.72,
+      "frete": "SEDEX",
+      "valor_total_pedido": 567.72,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3676",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 22:22:37",
+      "data_hora_confirmacao": "2023-11-26 23:47:33",
+      "data_hora_confirmacao_pagamento": "2023-11-26 23:47:47",
+      "valor_total_produtos": 350,
+      "valor_frete": 20.57,
+      "frete": "SEDEX",
+      "valor_total_pedido": 370.57,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3749",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-28 14:01:53",
+      "data_hora_confirmacao": "2023-11-28 14:07:23",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3823",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-29 17:11:20",
+      "data_hora_confirmacao": "2023-11-29 18:33:29",
+      "data_hora_confirmacao_pagamento": "2023-11-29 18:33:39",
+      "valor_total_produtos": 350,
+      "valor_frete": 19.28,
+      "frete": "SEDEX",
+      "valor_total_pedido": 369.28,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4258",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 09:02:57",
+      "data_hora_confirmacao": "2023-12-08 15:05:21",
+      "data_hora_confirmacao_pagamento": "2023-12-08 15:05:29",
+      "valor_total_produtos": 207,
+      "valor_frete": 16.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 223.08,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15489",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-09 17:43:40",
+      "data_hora_confirmacao": "2024-07-15 11:03:52",
+      "data_hora_confirmacao_pagamento": "2024-07-15 11:03:42",
+      "valor_total_produtos": 259.8,
+      "valor_frete": 23.53,
+      "frete": "JADLOG",
+      "valor_total_pedido": 283.33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18115": {
+      "codigo": "18115",
+      "titulo": "FONTE + CABO IPHONE - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "2"
+    },
+    "18122": {
+      "codigo": "18122",
+      "titulo": "FONTE USB-C + CABO IPHONE PADRÃO  - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "2"
+    },
+    "23290": {
+      "codigo": "23290",
+      "titulo": "FONTE + CABO TIPO C - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "2"
+    },
+    "23495": {
+      "codigo": "23495",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "23496": {
+      "codigo": "23496",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23497": {
+      "codigo": "23497",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "23498": {
+      "codigo": "23498",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23499": {
+      "codigo": "23499",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23500": {
+      "codigo": "23500",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23504": {
+      "codigo": "23504",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23505": {
+      "codigo": "23505",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23506": {
+      "codigo": "23506",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23508": {
+      "codigo": "23508",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD13.4": {
+      "codigo": "CD13.4",
+      "titulo": "Camiseta Standard Fit Importada - ADIDAS   LT16.11  - Cor: Preto Mescla - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "CD39.20": {
+      "codigo": "CD39.20",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11    - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.23": {
+      "codigo": "CD39.23",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD39.28": {
+      "codigo": "CD39.28",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11    - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.25": {
+      "codigo": "CD39.25",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.19": {
+      "codigo": "CD39.19",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD13.6": {
+      "codigo": "CD13.6",
+      "titulo": "Camiseta standard Fit 1:1 - NIKE LT29.11 - Cor: Vermelho Mescla - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": 10
+    },
+    "CD01.64": {
+      "codigo": "CD01.64",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: G - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: G - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.70": {
+      "codigo": "CD01.70",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  LT27.10    - Tamanho: GG - Times : Borussia Dortmund",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.50": {
+      "codigo": "CD02.50",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT29.11  - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD39.32": {
+      "codigo": "CD39.32",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

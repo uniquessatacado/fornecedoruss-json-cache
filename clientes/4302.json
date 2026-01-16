@@ -1,0 +1,53 @@
+{
+  "codigo": "4302",
+  "nome": "THIAGO BAZEM TELES",
+  "email": "bazemthiago@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(13) 9961-02492",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "14222",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 17:06:10",
+      "data_hora_confirmacao": "2024-06-21 12:45:43",
+      "data_hora_confirmacao_pagamento": "2024-06-21 12:45:36",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 11.06,
+      "frete": "SEDEX",
+      "valor_total_pedido": 141.04,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21771": {
+      "codigo": "21771",
+      "titulo": "Óculos OAKLEY - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: VERMELHO RUBY - Kit Borracha: PRETA - MODELO: DOUBLE X",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "21781": {
+      "codigo": "21781",
+      "titulo": "Óculos OAKLEY - ARMAÇÃO: CARBON - BLACK - COR DA LENTE: VERMELHO RUBY - Kit Borracha: PRETA - MODELO: ROMEO 2",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

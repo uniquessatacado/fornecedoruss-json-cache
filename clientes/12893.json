@@ -1,0 +1,53 @@
+{
+  "codigo": "12893",
+  "nome": "MARCOS BRASIL CHAVES",
+  "email": "1980mbrasil@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/07/2024",
+  "whatsapp": "(61) 9841-78149",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 163.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "16692",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 00:52:26",
+      "data_hora_confirmacao": "2024-07-23 12:12:26",
+      "data_hora_confirmacao_pagamento": "2024-07-23 12:11:27",
+      "valor_total_produtos": 130.98,
+      "valor_frete": 33.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 163.99,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24148": {
+      "codigo": "24148",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25132": {
+      "codigo": "25132",
+      "titulo": "Calça Sarja Luxo Importada - LACOSTE - Cor: JEANS - Tamanho: 42",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

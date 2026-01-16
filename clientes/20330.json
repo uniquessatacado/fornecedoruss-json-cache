@@ -1,0 +1,45 @@
+{
+  "codigo": "20330",
+  "nome": "ARTHUR GUILHERME",
+  "email": "arthurguilherme725@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/08/2025",
+  "whatsapp": "(11) 9806-30621",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 142.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "31179",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-08-07 13:16:49",
+      "data_hora_confirmacao": "2025-08-07 13:18:00",
+      "data_hora_confirmacao_pagamento": "2025-08-07 13:18:00",
+      "valor_total_produtos": 78.75,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 142.65,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "49827": {
+      "codigo": "49827",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS  - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

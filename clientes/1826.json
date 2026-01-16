@@ -1,0 +1,53 @@
+{
+  "codigo": "1826",
+  "nome": "YGOR GABRIEL",
+  "email": "ygorfake21@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(83) 99690-1658",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 197.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "9210",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-01 20:40:48",
+      "data_hora_confirmacao": "2024-04-02 11:08:36",
+      "data_hora_confirmacao_pagamento": "2024-04-02 11:08:32",
+      "valor_total_produtos": 178,
+      "valor_frete": 19.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 197.62,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA85": {
+      "codigo": "PA85",
+      "titulo": "CORRENTE BANHADA OURO 18K   ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Banhados a ouro 18k",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "PA92": {
+      "codigo": "PA92",
+      "titulo": "CORRENTE BANHADA OURO 18K    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Banhados a ouro 18k",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "10062",
+  "nome": "RINALDO DA SILVA BARROS",
+  "email": "rinaldobarros26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(19) 98203-4706",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "12749",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-28 12:23:37",
+      "data_hora_confirmacao": "2024-05-28 15:16:35",
+      "data_hora_confirmacao_pagamento": "2024-05-28 15:16:27",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 15.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.06,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19613": {
+      "codigo": "19613",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA)  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

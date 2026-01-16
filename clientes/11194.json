@@ -1,0 +1,53 @@
+{
+  "codigo": "11194",
+  "nome": "RONALDO COSTA LIMA GRAÇA",
+  "email": "rndcosta@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(21) 99820-3089",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "14101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 19:07:44",
+      "data_hora_confirmacao": "2024-06-24 09:51:20",
+      "data_hora_confirmacao_pagamento": "2024-06-24 09:51:13",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 16.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.5,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22188": {
+      "codigo": "22188",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22269": {
+      "codigo": "22269",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

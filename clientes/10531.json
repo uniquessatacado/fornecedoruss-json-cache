@@ -1,0 +1,61 @@
+{
+  "codigo": "10531",
+  "nome": "VINÍCIUS NUNES CANASSA SOARES",
+  "email": "viniciusncs12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(11) 96468-9173",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "14912",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 08:02:21",
+      "data_hora_confirmacao": "2024-07-02 17:02:07",
+      "data_hora_confirmacao_pagamento": "2024-07-02 17:02:01",
+      "valor_total_produtos": 81.97,
+      "valor_frete": 15.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.02,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22294": {
+      "codigo": "22294",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22297": {
+      "codigo": "22297",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22527": {
+      "codigo": "22527",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "11182",
+  "nome": "RONALDO OLIVEIRA DE ARAUJO",
+  "email": "ronaldoliveiradearaujo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(31) 98231-6400",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 226.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "14084",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 17:50:33",
+      "data_hora_confirmacao": "2024-06-20 18:26:53",
+      "data_hora_confirmacao_pagamento": "2024-06-20 18:26:45",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 16.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.22,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14698",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-28 15:38:54",
+      "data_hora_confirmacao": "2024-06-28 17:58:57",
+      "data_hora_confirmacao_pagamento": "2024-06-28 17:58:48",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 32.58,
+      "frete": "SEDEX",
+      "valor_total_pedido": 132.48,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22264": {
+      "codigo": "22264",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22273": {
+      "codigo": "22273",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23011": {
+      "codigo": "23011",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23039": {
+      "codigo": "23039",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "23042": {
+      "codigo": "23042",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "23045": {
+      "codigo": "23045",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23048": {
+      "codigo": "23048",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "23051": {
+      "codigo": "23051",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

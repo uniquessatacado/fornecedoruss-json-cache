@@ -1,0 +1,107 @@
+{
+  "codigo": "4647",
+  "nome": "JEFFERSON LOPES",
+  "email": "jefferson3155@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(19) 9826-43159",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 133.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "4792",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 16:46:35",
+      "data_hora_confirmacao": "2023-12-16 07:46:57",
+      "data_hora_confirmacao_pagamento": "2023-12-16 07:47:06",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4914",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-16 11:20:05",
+      "data_hora_confirmacao": "2023-12-16 12:17:44",
+      "data_hora_confirmacao_pagamento": "2023-12-16 12:17:58",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 61.98,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5279",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-20 11:35:12",
+      "data_hora_confirmacao": "2023-12-20 17:47:12",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.63": {
+      "codigo": "CD02.63",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT13.12  - Cor: Amarela - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.62": {
+      "codigo": "CD02.62",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT13.12  - Cor: Branca - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.67": {
+      "codigo": "CD02.67",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12    - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Marrom - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

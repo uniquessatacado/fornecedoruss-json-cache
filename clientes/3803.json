@@ -1,0 +1,104 @@
+{
+  "codigo": "3803",
+  "nome": "LUIS ARTUR LIMA DE 6",
+  "email": "artursaj@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/10/2023",
+  "whatsapp": "(75) 98207-0506",
+  "cidade": "Santo Antônio de Jesus",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 339.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "2521",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-31 17:25:10",
+      "data_hora_confirmacao": "2023-11-03 13:12:34",
+      "data_hora_confirmacao_pagamento": "2023-11-03 13:12:28",
+      "valor_total_produtos": 237,
+      "valor_frete": 36.54,
+      "frete": "PAC",
+      "valor_total_pedido": 273.54,
+      "desconto": 0,
+      "cidade": "Santo Antônio de Jesus",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2760",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-07 10:03:55",
+      "data_hora_confirmacao": "2023-11-07 10:08:52",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 66,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 66,
+      "desconto": 0,
+      "cidade": "Santo Antônio de Jesus",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.11": {
+      "codigo": "CD40.11",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT31.10  - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD40.12": {
+      "codigo": "CD40.12",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT31.10   - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38G": {
+      "codigo": "CD17.38G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.39G": {
+      "codigo": "CD17.39G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD17.37G": {
+      "codigo": "CD17.37G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Verde - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

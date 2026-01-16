@@ -1,0 +1,61 @@
+{
+  "codigo": "6156",
+  "nome": "KAUE FELIPE CORREA",
+  "email": "kauecorrea02@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/02/2024",
+  "whatsapp": "(47) 99622-4236",
+  "cidade": "Itapema",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 128.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "7260",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-15 17:07:36",
+      "data_hora_confirmacao": "2024-02-15 17:37:06",
+      "data_hora_confirmacao_pagamento": "2024-02-15 17:36:59",
+      "valor_total_produtos": 110.95,
+      "valor_frete": 17.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.67,
+      "desconto": 0,
+      "cidade": "Itapema",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.8": {
+      "codigo": "CD29.8",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD02.97": {
+      "codigo": "CD02.97",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "11537",
+  "nome": "EDER MARQUES LOBATO",
+  "email": "lobatoeder@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/06/2024",
+  "whatsapp": "(11) 97130-1568",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 122.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "18786",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 11:24:37",
+      "data_hora_confirmacao": "2024-08-17 12:48:10",
+      "data_hora_confirmacao_pagamento": "2024-08-17 12:48:04",
+      "valor_total_produtos": 106.97,
+      "valor_frete": 15.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 122.7,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22940": {
+      "codigo": "22940",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO BOSS - CANO LONGO - Marca: Hugo Boss - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26629": {
+      "codigo": "26629",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA HUGO BOSS - Cor: KIT - PRETO MARINHO CINZA CL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27680": {
+      "codigo": "27680",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

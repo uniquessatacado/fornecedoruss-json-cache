@@ -1,0 +1,77 @@
+{
+  "codigo": "5262",
+  "nome": "AMAURI DA SILVA FIALHO",
+  "email": "amauryfialho123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(11) 93010-9160",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "19673",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 20:14:23",
+      "data_hora_confirmacao": "2024-08-29 12:39:33",
+      "data_hora_confirmacao_pagamento": "2024-08-29 12:39:25",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 11.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 61.61,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19554": {
+      "codigo": "19554",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/BLACK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23075": {
+      "codigo": "23075",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "23078": {
+      "codigo": "23078",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "24705": {
+      "codigo": "24705",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "28339": {
+      "codigo": "28339",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

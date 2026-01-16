@@ -1,0 +1,139 @@
+{
+  "codigo": "2492",
+  "nome": "CICERO DORENILDO VICENTE ALCANTARA",
+  "email": "cicerodorenildo10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(88) 99755-7953",
+  "cidade": "Sobral",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 348.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300367",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 14:00:02",
+      "data_hora_confirmacao": "2023-09-21 14:11:20",
+      "data_hora_confirmacao_pagamento": "2023-09-21 14:11:05",
+      "valor_total_produtos": 140,
+      "valor_frete": 33.88,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 173.88,
+      "desconto": 0,
+      "cidade": "Sobral",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300584",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 14:57:55",
+      "data_hora_confirmacao": "2023-09-25 09:52:38",
+      "data_hora_confirmacao_pagamento": "2023-09-25 09:52:46",
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Sobral",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300967",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 15:14:32",
+      "data_hora_confirmacao": "2023-10-02 10:59:21",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:59:31",
+      "valor_total_produtos": 124,
+      "valor_frete": 20.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 144.51,
+      "desconto": 0,
+      "cidade": "Sobral",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.2M": {
+      "codigo": "CD01.2M",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.33P": {
+      "codigo": "CD16.33P",
+      "titulo": "Camisetas de Time Nacional - Flamengo - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.31M": {
+      "codigo": "CD01.31M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Argentina - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.19P": {
+      "codigo": "CD01.19P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.19G": {
+      "codigo": "CD01.19G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD32.10Descanso": {
+      "codigo": "CD32.10Descanso",
+      "titulo": "Óculos Oakley - Lente de Descanso  - Cor da Armação: Prata - Cor da Lente: Lente de Descanso - Kit Borracha: Azul - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD08.8P": {
+      "codigo": "CD08.8P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Preto - Marca: Dior - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    }
+  }
+}

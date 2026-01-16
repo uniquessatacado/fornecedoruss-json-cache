@@ -1,0 +1,45 @@
+{
+  "codigo": "10640",
+  "nome": "ALEXANDRE PEREIRA DA FONSECA",
+  "email": "alero37.dafonseca@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 95636-0541",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 54.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "13323",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 17:17:37",
+      "data_hora_confirmacao": "2024-06-08 09:45:29",
+      "data_hora_confirmacao_pagamento": "2024-06-08 09:45:22",
+      "valor_total_produtos": 44.18,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.11,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

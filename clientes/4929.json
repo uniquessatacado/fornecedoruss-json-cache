@@ -1,0 +1,88 @@
+{
+  "codigo": "4929",
+  "nome": "JOSE MARIO DE CARVALHO",
+  "email": "carvalhojosemario@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "21/12/2023",
+  "whatsapp": "(19) 99794-7170",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 136.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "5445",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-21 10:24:00",
+      "data_hora_confirmacao": "2023-12-22 02:08:06",
+      "data_hora_confirmacao_pagamento": "2023-12-26 10:18:34",
+      "valor_total_produtos": 96.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 96.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7238",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-14 16:20:28",
+      "data_hora_confirmacao": "2024-02-14 16:25:26",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 39.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.74": {
+      "codigo": "CD02.74",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   LT18.12  - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto C/ Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.72": {
+      "codigo": "CD02.72",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

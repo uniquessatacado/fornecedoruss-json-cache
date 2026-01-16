@@ -1,0 +1,107 @@
+{
+  "codigo": "3839",
+  "nome": "RODRIGO THEODORO REIS JUNIOR",
+  "email": "junior.987623829@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/10/2023",
+  "whatsapp": "(21) 98747-6917",
+  "cidade": "Niterói",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 386.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "3877",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-01 14:54:43",
+      "data_hora_confirmacao": "2023-12-02 12:20:52",
+      "data_hora_confirmacao_pagamento": "2023-12-02 12:21:00",
+      "valor_total_produtos": 95,
+      "valor_frete": 18.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.03,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20372",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 20:50:15",
+      "data_hora_confirmacao": "2024-09-05 10:14:41",
+      "data_hora_confirmacao_pagamento": "2024-09-05 10:14:34",
+      "valor_total_produtos": 141.99,
+      "valor_frete": 17.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 159.58,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20373",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 20:50:15",
+      "data_hora_confirmacao": "2024-09-05 10:14:16",
+      "data_hora_confirmacao_pagamento": "2024-09-05 10:14:11",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 20.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.86,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21928": {
+      "codigo": "21928",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO Feminina - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25554": {
+      "codigo": "25554",
+      "titulo": "SMARTWATCH HW9 ULTRA MAX  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH HW9 ULTRA MAX ",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.52M": {
+      "codigo": "CD01.52M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Argentina - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "13620",
+  "nome": "RENATA DE FREITAS FERNANDES",
+  "email": "renatafernandes37@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(19) 99981-5947",
+  "cidade": "Americana",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 93.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "17929",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 12:44:22",
+      "data_hora_confirmacao": "2024-08-06 12:57:34",
+      "data_hora_confirmacao_pagamento": "2024-08-06 12:57:42",
+      "valor_total_produtos": 78.97,
+      "valor_frete": 14.3,
+      "frete": "SEDEX",
+      "valor_total_pedido": 93.27,
+      "desconto": 0,
+      "cidade": "Americana",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25257": {
+      "codigo": "25257",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26326": {
+      "codigo": "26326",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AREIA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26338": {
+      "codigo": "26338",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

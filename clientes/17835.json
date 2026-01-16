@@ -1,0 +1,69 @@
+{
+  "codigo": "17835",
+  "nome": "ALEX SANTOS SILVA",
+  "email": "Lexmark929@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/11/2024",
+  "whatsapp": "(31) 9845-32506",
+  "cidade": "Ibirité",
+  "estado": "MG",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 213.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "25100",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-26 15:57:54",
+      "data_hora_confirmacao": "2024-11-26 16:00:06",
+      "data_hora_confirmacao_pagamento": "2024-11-26 16:00:06",
+      "valor_total_produtos": 171.96,
+      "valor_frete": 41.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 213.83,
+      "desconto": 0,
+      "cidade": "Ibirité",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20623": {
+      "codigo": "20623",
+      "titulo": "Relógio CASIO G-SHOCK  - Cor: VERMELHA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20626": {
+      "codigo": "20626",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: AZUL TIFFANY ",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20712": {
+      "codigo": "20712",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: BRANCA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20713": {
+      "codigo": "20713",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

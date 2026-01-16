@@ -1,0 +1,104 @@
+{
+  "codigo": "7367",
+  "nome": "JOÃO CARLOS",
+  "email": "joaocarlosrd21@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/03/2024",
+  "whatsapp": "(31) 98540-4271",
+  "cidade": "Itabirito",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 314.34000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "9153",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-31 00:08:19",
+      "data_hora_confirmacao": "2024-03-31 23:34:00",
+      "data_hora_confirmacao_pagamento": "2024-03-31 23:34:12",
+      "valor_total_produtos": 141.87,
+      "valor_frete": 31.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 173.65,
+      "desconto": 0,
+      "cidade": "Itabirito",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10155",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 10:00:23",
+      "data_hora_confirmacao": "2024-04-17 15:31:17",
+      "data_hora_confirmacao_pagamento": "2024-04-17 15:31:11",
+      "valor_total_produtos": 107.98,
+      "valor_frete": 32.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 140.69,
+      "desconto": 0,
+      "cidade": "Itabirito",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.13M": {
+      "codigo": "CD4.13M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza Claro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10M": {
+      "codigo": "CD39.10M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.127M": {
+      "codigo": "CD02.127M",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Preto - Marca: MCD - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD4.10M": {
+      "codigo": "CD4.10M",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "KT1.2M": {
+      "codigo": "KT1.2M",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

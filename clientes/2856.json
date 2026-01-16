@@ -1,0 +1,112 @@
+{
+  "codigo": "2856",
+  "nome": "EVERTON JESUS",
+  "email": "everton.silvajesus@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(11) 99373-3980",
+  "cidade": "Praia Grande",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 264.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300715",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 20:48:30",
+      "data_hora_confirmacao": "2023-09-26 16:42:43",
+      "data_hora_confirmacao_pagamento": "2023-09-26 16:42:37",
+      "valor_total_produtos": 116,
+      "valor_frete": 15.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 131.13,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301065",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-30 20:43:13",
+      "data_hora_confirmacao": "2023-10-02 10:26:28",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 133.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 133.5,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.1GG": {
+      "codigo": "CD12.1GG",
+      "titulo": "Polo Piquet Duplo - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.14GG": {
+      "codigo": "CD02.14GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD19.1GG": {
+      "codigo": "CD19.1GG",
+      "titulo": "Bermuda Moletom Premium - Boss - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Moletom Premium ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.26GG": {
+      "codigo": "CD02.26GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD04.7G2": {
+      "codigo": "CD04.7G2",
+      "titulo": "Camiseta Nike Egípcia Cotton Luxo - Cor: Preto - Marca: Nike - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.9GG": {
+      "codigo": "CD08.9GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Azul Marinho - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD24.22GG - Calvin Klein": {
+      "codigo": "CD24.22GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

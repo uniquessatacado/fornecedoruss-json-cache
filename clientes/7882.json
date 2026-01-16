@@ -1,0 +1,144 @@
+{
+  "codigo": "7882",
+  "nome": "DANIEL CHAVES",
+  "email": "dani-el.chaves@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/04/2024",
+  "whatsapp": "(53) 99706-6177",
+  "cidade": "Jaguarão",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 803.9200000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "9806",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 12:10:03",
+      "data_hora_confirmacao": "2024-04-10 12:23:04",
+      "data_hora_confirmacao_pagamento": "2024-04-10 12:22:59",
+      "valor_total_produtos": 296.95,
+      "valor_frete": 36.37,
+      "frete": "PAC",
+      "valor_total_pedido": 333.32,
+      "desconto": 0,
+      "cidade": "Jaguarão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10573",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-23 17:58:40",
+      "data_hora_confirmacao": "2024-04-25 09:19:32",
+      "data_hora_confirmacao_pagamento": "2024-04-25 09:19:25",
+      "valor_total_produtos": 409.82,
+      "valor_frete": 60.78,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 470.6,
+      "desconto": 0,
+      "cidade": "Jaguarão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.60G": {
+      "codigo": "CD01.60G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.29M": {
+      "codigo": "CD16.29M",
+      "titulo": "Camisetas de Time Tailandesas - Gremio - Tamanho: M - Times : Gremio",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.60GG": {
+      "codigo": "CD01.60GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "ML1.3M": {
+      "codigo": "ML1.3M",
+      "titulo": "MOLETOM 3 CABOS PUMA - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "ML1.4G": {
+      "codigo": "ML1.4G",
+      "titulo": "MOLETOM 3 CABOS ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "ML1.6GG": {
+      "codigo": "ML1.6GG",
+      "titulo": "MOLETOM 3 CABOS QUIKSILVER  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD16.32P": {
+      "codigo": "CD16.32P",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD23.1G": {
+      "codigo": "CD23.1G",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

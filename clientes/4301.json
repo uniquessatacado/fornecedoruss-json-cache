@@ -1,0 +1,69 @@
+{
+  "codigo": "4301",
+  "nome": "CARLOS AUGUSTO",
+  "email": "dirineu549@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(33) 99174-4632",
+  "cidade": "Governador Valadares",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 221.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "3681",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 10:12:47",
+      "data_hora_confirmacao": "2023-11-30 09:37:24",
+      "data_hora_confirmacao_pagamento": "2023-11-30 09:37:33",
+      "valor_total_produtos": 201,
+      "valor_frete": 20.37,
+      "frete": "JADLOG",
+      "valor_total_pedido": 221.37,
+      "desconto": 0,
+      "cidade": "Governador Valadares",
+      "estado": "MG",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.47": {
+      "codigo": "CD17.47",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD65.1": {
+      "codigo": "CD65.1",
+      "titulo": "Camiseta 30.1 com Elastano - HUGO BOSS  LT23.11 - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.25": {
+      "codigo": "CD39.25",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "11678",
+  "nome": "MAYCON MIGUEL",
+  "email": "miguelmaycon077@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "28/06/2024",
+  "whatsapp": "(81) 9979-89704",
+  "cidade": "Surubim",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "15143",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 17:08:18",
+      "data_hora_confirmacao": "2024-07-04 18:35:20",
+      "data_hora_confirmacao_pagamento": "2024-07-04 18:35:14",
+      "valor_total_produtos": 99.95,
+      "valor_frete": 55.79,
+      "frete": "PAC",
+      "valor_total_pedido": 155.74,
+      "desconto": 0,
+      "cidade": "Surubim",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23464": {
+      "codigo": "23464",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23476": {
+      "codigo": "23476",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23532": {
+      "codigo": "23532",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23538": {
+      "codigo": "23538",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23563": {
+      "codigo": "23563",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

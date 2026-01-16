@@ -1,0 +1,123 @@
+{
+  "codigo": "3311",
+  "nome": "VALDIR OLIVEIRA DOS SANTOS",
+  "email": "valdirvo9433361@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "06/10/2023",
+  "whatsapp": "(11) 9809-84478",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 221.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "2839",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 04:33:53",
+      "data_hora_confirmacao": "2023-11-08 14:10:51",
+      "data_hora_confirmacao_pagamento": "2023-11-08 14:11:28",
+      "valor_total_produtos": 52,
+      "valor_frete": 11.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.15,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9007",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 14:22:21",
+      "data_hora_confirmacao": "2024-03-28 09:42:33",
+      "data_hora_confirmacao_pagamento": "2024-03-28 09:42:29",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 8.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.93,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11250",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 14:41:49",
+      "data_hora_confirmacao": "2024-05-03 17:54:19",
+      "data_hora_confirmacao_pagamento": "2024-05-03 17:54:12",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 12.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.06,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18048": {
+      "codigo": "18048",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18070": {
+      "codigo": "18070",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.19": {
+      "codigo": "CD39.19",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Branca - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

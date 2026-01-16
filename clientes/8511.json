@@ -1,0 +1,120 @@
+{
+  "codigo": "8511",
+  "nome": "MARLIO SANTOS PENA",
+  "email": "marliosantosbr@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(73) 8867-0102",
+  "cidade": "Porto Seguro",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 444.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "10560",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-23 14:29:24",
+      "data_hora_confirmacao": "2024-04-23 15:15:22",
+      "data_hora_confirmacao_pagamento": "2024-04-23 15:15:16",
+      "valor_total_produtos": 217.95,
+      "valor_frete": 28.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 246.88,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23114",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-21 14:12:23",
+      "data_hora_confirmacao": "2024-10-21 15:20:12",
+      "data_hora_confirmacao_pagamento": "2024-10-21 15:20:02",
+      "valor_total_produtos": 169.95,
+      "valor_frete": 27.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 197.7,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30568": {
+      "codigo": "30568",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30620": {
+      "codigo": "30620",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31259": {
+      "codigo": "31259",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: PRETO VERDE CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32514": {
+      "codigo": "32514",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32517": {
+      "codigo": "32517",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.23G": {
+      "codigo": "CD4.23G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - BASICA - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.22": {
+      "codigo": "CD4.22",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "KT1.2G": {
+      "codigo": "KT1.2G",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

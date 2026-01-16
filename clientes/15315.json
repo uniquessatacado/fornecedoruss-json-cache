@@ -1,0 +1,53 @@
+{
+  "codigo": "15315",
+  "nome": "CLEBER DA SILVA BRITO",
+  "email": "cleberbrto84@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/09/2024",
+  "whatsapp": "(19) 98713-8016",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "20592",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-07 19:07:25",
+      "data_hora_confirmacao": "2024-09-09 12:53:36",
+      "data_hora_confirmacao_pagamento": "2024-09-09 12:53:30",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.03,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23600": {
+      "codigo": "23600",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: M - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23601": {
+      "codigo": "23601",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: G - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

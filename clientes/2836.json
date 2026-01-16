@@ -1,0 +1,131 @@
+{
+  "codigo": "2836",
+  "nome": "GUSTAVO HONÓRIO DA ROCHA",
+  "email": "ghroocha@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(64) 99246-9029",
+  "cidade": "Itumbiara",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 378.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300686",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 14:32:19",
+      "data_hora_confirmacao": "2023-09-25 14:36:04",
+      "data_hora_confirmacao_pagamento": "2023-09-25 14:35:57",
+      "valor_total_produtos": 99,
+      "valor_frete": 55.57,
+      "frete": "SEDEX",
+      "valor_total_pedido": 154.57,
+      "desconto": 0,
+      "cidade": "Itumbiara",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301174",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-03 17:18:21",
+      "data_hora_confirmacao": "2023-10-03 22:58:16",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 49,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 49,
+      "desconto": 0,
+      "cidade": "Itumbiara",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-16 21:50:17",
+      "data_hora_confirmacao": "2023-10-16 22:01:38",
+      "data_hora_confirmacao_pagamento": "2023-10-16 22:02:12",
+      "valor_total_produtos": 132.9,
+      "valor_frete": 42.29,
+      "frete": "SEDEX",
+      "valor_total_pedido": 175.19,
+      "desconto": 0,
+      "cidade": "Itumbiara",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.20M": {
+      "codigo": "CD08.20M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Aplique Lantejoula e Bordada) - Cor: Azul Marinho - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.2P": {
+      "codigo": "CD08.2P",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss  - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.28P": {
+      "codigo": "CD08.28P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte emborrachada e Aviamentos originais) - Cor: Azul Marinho - Marca: Diesel - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.20P": {
+      "codigo": "CD08.20P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Aplique Lantejoula e Bordada) - Cor: Azul Marinho - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.32P": {
+      "codigo": "CD08.32P",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Hugo Boss - Cor: Preto com Verde - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    }
+  }
+}

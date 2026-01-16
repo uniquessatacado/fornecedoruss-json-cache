@@ -1,0 +1,77 @@
+{
+  "codigo": "20308",
+  "nome": "JOSE HELIO MACHADO DE SOUZA",
+  "email": "j.helion@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/08/2025",
+  "whatsapp": "(11) 98070-7768",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 236.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "31105",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-03 14:57:54",
+      "data_hora_confirmacao": "2025-08-03 15:00:48",
+      "data_hora_confirmacao_pagamento": "2025-08-03 15:00:48",
+      "valor_total_produtos": 218.54,
+      "valor_frete": 17.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 236.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50323": {
+      "codigo": "50323",
+      "titulo": "Cueca Peruana - Nike (LT003.4) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50329": {
+      "codigo": "50329",
+      "titulo": "Cueca Peruana - Nike (LT003.4)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52520": {
+      "codigo": "52520",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "7"
+    },
+    "52523": {
+      "codigo": "52523",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "4"
+    },
+    "52524": {
+      "codigo": "52524",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "8"
+    }
+  }
+}

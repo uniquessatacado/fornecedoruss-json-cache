@@ -1,0 +1,53 @@
+{
+  "codigo": "4718",
+  "nome": "PIERRE GONZALEZ",
+  "email": "pierreadvogado27@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(21) 98873-5411",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 85.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "4725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 20:21:16",
+      "data_hora_confirmacao": "2023-12-13 23:29:21",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:29:32",
+      "valor_total_produtos": 70.79,
+      "valor_frete": 14.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.67,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.12": {
+      "codigo": "CD67.12",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - NIKE   LT12.12 - Cor: Branca - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.66": {
+      "codigo": "CD02.66",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12     - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

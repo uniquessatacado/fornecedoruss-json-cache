@@ -1,0 +1,61 @@
+{
+  "codigo": "2059",
+  "nome": "LEANDRO DUARTE",
+  "email": "leandro.d.costa@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(82) 99306-4131",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 125.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "3604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-25 14:41:56",
+      "data_hora_confirmacao": "2023-11-25 14:43:01",
+      "data_hora_confirmacao_pagamento": "2023-11-25 14:43:13",
+      "valor_total_produtos": 108.9,
+      "valor_frete": 16.91,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 125.81,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD65.4": {
+      "codigo": "CD65.4",
+      "titulo": "Camiseta 30.1 com Elastano - DIESEL  LT23.11    - Cor: Marrom - Marca: Diesel - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD65.1": {
+      "codigo": "CD65.1",
+      "titulo": "Camiseta 30.1 com Elastano - HUGO BOSS  LT23.11 - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

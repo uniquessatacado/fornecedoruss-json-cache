@@ -1,0 +1,104 @@
+{
+  "codigo": "1719",
+  "nome": "FELIPPE RAPHAEL CAMARGO DE GODOY",
+  "email": "felippe.godoy@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "24/08/2023",
+  "whatsapp": "(19) 9941-03480",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 223.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "4752",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 01:03:35",
+      "data_hora_confirmacao": "2023-12-14 01:07:47",
+      "data_hora_confirmacao_pagamento": "2023-12-14 01:08:10",
+      "valor_total_produtos": 146.92,
+      "valor_frete": 15.43,
+      "frete": "SEDEX",
+      "valor_total_pedido": 162.35,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8530",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-15 12:39:05",
+      "data_hora_confirmacao": "2024-03-15 14:46:15",
+      "data_hora_confirmacao_pagamento": "2024-03-15 14:46:10",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 10.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 60.77,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.99": {
+      "codigo": "CD01.99",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT04.12 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.111": {
+      "codigo": "CD01.111",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID  LT08.12   - Tamanho: G - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Cinza - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 8
+    },
+    "CD01.96": {
+      "codigo": "CD01.96",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID   LT04.12 - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.08GG": {
+      "codigo": "CD24.08GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.09GG": {
+      "codigo": "CD24.09GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

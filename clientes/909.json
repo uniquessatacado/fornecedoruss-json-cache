@@ -1,0 +1,53 @@
+{
+  "codigo": "909",
+  "nome": "KEVIN LIMA",
+  "email": "kevinpietrobom12@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/08/2023",
+  "whatsapp": "(19) 99966-5149",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130,
+  "pedidos": [
+    {
+      "codigo_pedido": "31981",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-10-06 11:39:37",
+      "data_hora_confirmacao": "2025-10-06 11:39:37",
+      "data_hora_confirmacao_pagamento": "2025-10-06 11:39:37",
+      "valor_total_produtos": 130,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 130,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53323": {
+      "codigo": "53323",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT044) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54823": {
+      "codigo": "54823",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT055) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

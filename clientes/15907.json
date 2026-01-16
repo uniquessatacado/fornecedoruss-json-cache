@@ -1,0 +1,72 @@
+{
+  "codigo": "15907",
+  "nome": "MARCOS AURÉLIO",
+  "email": "cap-marcos@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2024",
+  "whatsapp": "(19) 98417-9509",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 102.97999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "21607",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-23 13:00:14",
+      "data_hora_confirmacao": "2024-09-23 14:53:22",
+      "data_hora_confirmacao_pagamento": "2024-09-23 14:53:12",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21608",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-23 13:00:14",
+      "data_hora_confirmacao": "2024-09-23 14:54:00",
+      "data_hora_confirmacao_pagamento": "2024-09-23 14:53:45",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20943": {
+      "codigo": "20943",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PSG - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "27198": {
+      "codigo": "27198",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

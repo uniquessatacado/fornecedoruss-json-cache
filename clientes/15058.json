@@ -1,0 +1,88 @@
+{
+  "codigo": "15058",
+  "nome": "CRISTIANO CARDOSO",
+  "email": "srsardinha07@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(11) 98046-3790",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 300.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "21276",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-18 11:57:32",
+      "data_hora_confirmacao": "2024-09-18 15:03:06",
+      "data_hora_confirmacao_pagamento": "2024-09-18 15:02:58",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 15.92,
+      "frete": "SEDEX",
+      "valor_total_pedido": 207.7,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21277",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-18 11:57:32",
+      "data_hora_confirmacao": "2024-09-18 15:03:49",
+      "data_hora_confirmacao_pagamento": "2024-09-18 15:03:37",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 18.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.53,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20773": {
+      "codigo": "20773",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20776": {
+      "codigo": "20776",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29476": {
+      "codigo": "29476",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SANTOS  - Tamanho: GG - Times : Santos - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29482": {
+      "codigo": "29482",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SANTOS - Tamanho: P - Times : Santos - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

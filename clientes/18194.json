@@ -1,0 +1,69 @@
+{
+  "codigo": "18194",
+  "nome": "RODRIGO DOS SANTOS SILVA",
+  "email": "rodrigo@wrcont.com.br",
+  "sexo": "0",
+  "data_cadastro": "08/12/2024",
+  "whatsapp": "(19) 98124-3754",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 157.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "25982",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-08 10:57:35",
+      "data_hora_confirmacao": "2024-12-08 11:00:15",
+      "data_hora_confirmacao_pagamento": "2024-12-08 11:00:15",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 157.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35353": {
+      "codigo": "35353",
+      "titulo": "Bermuda Microfibra Ultra - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35356": {
+      "codigo": "35356",
+      "titulo": "Bermuda Microfibra Ultra - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36403": {
+      "codigo": "36403",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36406": {
+      "codigo": "36406",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

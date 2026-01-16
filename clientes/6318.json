@@ -1,0 +1,72 @@
+{
+  "codigo": "6318",
+  "nome": "GUSTAVO ROBERTO PEREIRA",
+  "email": "gustaavoroberto220@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(19) 99436-7074",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 195.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "7473",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 23:23:20",
+      "data_hora_confirmacao": "2024-02-22 10:18:39",
+      "data_hora_confirmacao_pagamento": "2024-02-22 10:18:31",
+      "valor_total_produtos": 122.36,
+      "valor_frete": 11.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 133.9,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "7513",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-02-22 13:34:36",
+      "data_hora_confirmacao": "2024-02-22 13:56:27",
+      "data_hora_confirmacao_pagamento": "2024-02-22 13:56:21",
+      "valor_total_produtos": 61.18,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 61.18,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.2GG": {
+      "codigo": "CD04.2GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.1GG": {
+      "codigo": "CD04.1GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

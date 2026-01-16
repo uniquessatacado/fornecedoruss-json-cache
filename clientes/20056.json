@@ -1,0 +1,53 @@
+{
+  "codigo": "20056",
+  "nome": "SILVANA BATISTA DA SILVEIRA",
+  "email": "sil34@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2025",
+  "whatsapp": "(19) 99940-7418",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 71.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "30147",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-06 13:17:04",
+      "data_hora_confirmacao": "2025-06-06 13:17:04",
+      "data_hora_confirmacao_pagamento": "2025-06-06 13:17:04",
+      "valor_total_produtos": 71.07,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.07,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45700": {
+      "codigo": "45700",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47470": {
+      "codigo": "47470",
+      "titulo": "Camiseta Suedine ultra Gucci - ARTE EM DTF LT45A (C872)    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

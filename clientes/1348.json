@@ -1,0 +1,53 @@
+{
+  "codigo": "1348",
+  "nome": "CARLOS ALBERTO",
+  "email": "carlos.tdb31@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "19/08/2023",
+  "whatsapp": "(67) 9633-3431",
+  "cidade": "Antônio João",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 179.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "4236",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-07 20:48:49",
+      "data_hora_confirmacao": "2023-12-07 22:54:11",
+      "data_hora_confirmacao_pagamento": "2023-12-07 22:54:21",
+      "valor_total_produtos": 155,
+      "valor_frete": 24.46,
+      "frete": "PAC",
+      "valor_total_pedido": 179.46,
+      "desconto": 0,
+      "cidade": "Antônio João",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.38": {
+      "codigo": "CD16.38",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT31.10   - Tamanho: GG - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD56.5": {
+      "codigo": "CD56.5",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - CORINTHIANS  LT14.11 - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

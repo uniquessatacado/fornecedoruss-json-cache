@@ -1,0 +1,85 @@
+{
+  "codigo": "3514",
+  "nome": "DAVID LEAL",
+  "email": "eaigamba@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/10/2023",
+  "whatsapp": "(18) 98197-9396",
+  "cidade": "Birigüi",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 163.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "8032",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-06 19:26:26",
+      "data_hora_confirmacao": "2024-03-07 12:13:16",
+      "data_hora_confirmacao_pagamento": "2024-03-07 12:13:08",
+      "valor_total_produtos": 147.93,
+      "valor_frete": 15.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.65,
+      "desconto": 0,
+      "cidade": "Birigüi",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.07M": {
+      "codigo": "CD24.07M",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.01M": {
+      "codigo": "CD24.01M",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.08M": {
+      "codigo": "CD24.08M",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Azul - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD04.3G": {
+      "codigo": "CD04.3G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.8G": {
+      "codigo": "CD04.8G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

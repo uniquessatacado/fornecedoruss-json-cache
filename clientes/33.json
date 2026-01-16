@@ -1,0 +1,150 @@
+{
+  "codigo": "33",
+  "nome": "FERNANDO DOS SANTOS BARBOSA",
+  "email": "fersantosbarbosa88@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/03/2023",
+  "whatsapp": "(14) 9970-54226",
+  "cidade": "Marília",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 4,
+  "valor_total_comprado": 866.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "3327",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-18 04:12:57",
+      "data_hora_confirmacao": "2023-11-18 13:59:24",
+      "data_hora_confirmacao_pagamento": "2023-11-18 13:59:34",
+      "valor_total_produtos": 90,
+      "valor_frete": 12.8,
+      "frete": "JADLOG",
+      "valor_total_pedido": 102.8,
+      "desconto": 0,
+      "cidade": "Marília",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13423",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-09 17:59:10",
+      "data_hora_confirmacao": "2024-06-10 13:18:55",
+      "data_hora_confirmacao_pagamento": "2024-06-10 13:18:49",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 10.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 103.53,
+      "desconto": 0,
+      "cidade": "Marília",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20584",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-07 13:18:04",
+      "data_hora_confirmacao": "2024-09-10 14:34:08",
+      "data_hora_confirmacao_pagamento": "2024-09-10 14:33:59",
+      "valor_total_produtos": 474.95,
+      "valor_frete": 22.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 497.51,
+      "desconto": 0,
+      "cidade": "Marília",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27638",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-15 12:43:38",
+      "data_hora_confirmacao": "2025-01-15 12:46:50",
+      "data_hora_confirmacao_pagamento": "2025-01-15 12:46:50",
+      "valor_total_produtos": 144.99,
+      "valor_frete": 17.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 162.33,
+      "desconto": 0,
+      "cidade": "Marília",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20691": {
+      "codigo": "20691",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "20694": {
+      "codigo": "20694",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "39840": {
+      "codigo": "39840",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA LT4A - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39985": {
+      "codigo": "39985",
+      "titulo": "Camiseta Suedine ultra -(C221) ARTE EM DTF LT4A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40208": {
+      "codigo": "40208",
+      "titulo": "Camiseta Suedine ultra -(C237) ARTE EM DTF LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD56.3": {
+      "codigo": "CD56.3",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - CORINTHIANS  LT14.11 - Tamanho: GG - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

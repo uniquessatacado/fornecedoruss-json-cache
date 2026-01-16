@@ -1,0 +1,128 @@
+{
+  "codigo": "2838",
+  "nome": "MARCO AURELIO NUNES",
+  "email": "marco.frioja@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(21) 9917-91173",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 223.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300691",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 15:05:47",
+      "data_hora_confirmacao": "2023-09-25 16:27:08",
+      "data_hora_confirmacao_pagamento": "2023-09-25 16:08:57",
+      "valor_total_produtos": 106,
+      "valor_frete": 37.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 143.71,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301087",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-01 17:33:56",
+      "data_hora_confirmacao": "2023-10-02 10:24:33",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 80,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 80,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.5GG": {
+      "codigo": "CD14.5GG",
+      "titulo": "Camiseta DRIFIT ultra - Adidas - Cor: Vinho - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD11.2M": {
+      "codigo": "CD11.2M",
+      "titulo": "Camiseta 30.1 com Elastano  - Nike - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.1M - Boss": {
+      "codigo": "CD24.1M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.1G - Boss": {
+      "codigo": "CD24.1G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.15G": {
+      "codigo": "CD17.15G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD01.46G Al-hilal": {
+      "codigo": "CD01.46G Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.27M": {
+      "codigo": "CD17.27M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Verde - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.23G - Burberry": {
+      "codigo": "CD24.23G - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

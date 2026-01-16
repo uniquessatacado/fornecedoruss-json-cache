@@ -1,0 +1,53 @@
+{
+  "codigo": "9500",
+  "nome": "RODOLFO PAIVA TOLEDO",
+  "email": "rodolfo.paiva40@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(17) 99167-3727",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "18509",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 09:00:30",
+      "data_hora_confirmacao": "2024-08-13 11:20:17",
+      "data_hora_confirmacao_pagamento": "2024-08-13 11:20:04",
+      "valor_total_produtos": 93.98,
+      "valor_frete": 17.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 111.53,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27359": {
+      "codigo": "27359",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIESEL arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27381": {
+      "codigo": "27381",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - HUGO BOSS arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

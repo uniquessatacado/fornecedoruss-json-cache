@@ -1,0 +1,61 @@
+{
+  "codigo": "3233",
+  "nome": "DANILLO GUEDES",
+  "email": "danilloguedes93@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(34) 99167-0943",
+  "cidade": "Santa Vitória",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301415",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 18:20:25",
+      "data_hora_confirmacao": "2023-10-09 10:42:51",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:43:04",
+      "valor_total_produtos": 92.5,
+      "valor_frete": 22.86,
+      "frete": "PAC",
+      "valor_total_pedido": 115.36,
+      "desconto": 0,
+      "cidade": "Santa Vitória",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.25M - Nike": {
+      "codigo": "CD24.25M - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.30G": {
+      "codigo": "CD17.30G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

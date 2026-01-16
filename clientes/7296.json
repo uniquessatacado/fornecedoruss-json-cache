@@ -1,0 +1,69 @@
+{
+  "codigo": "7296",
+  "nome": "FRANCISCO GEOVANE FONTENELE DE OLIVEIRA",
+  "email": "geovane31eletricista@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/03/2024",
+  "whatsapp": "(85) 99711-7038",
+  "cidade": "Granja",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 206.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "9072",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-28 16:06:40",
+      "data_hora_confirmacao": "2024-03-28 17:26:42",
+      "data_hora_confirmacao_pagamento": "2024-03-28 17:26:36",
+      "valor_total_produtos": 152.86,
+      "valor_frete": 54.1,
+      "frete": "PAC",
+      "valor_total_pedido": 206.96,
+      "desconto": 0,
+      "cidade": "Granja",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Marrom",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 4": {
+      "codigo": "CD43.22 - MD 4",
+      "titulo": "Boné Super Premium - HIGH - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD4.11GG": {
+      "codigo": "CD4.11GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD39.09GG": {
+      "codigo": "CD39.09GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Vinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

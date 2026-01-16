@@ -1,0 +1,139 @@
+{
+  "codigo": "7917",
+  "nome": "EDILSON MESQUITA SANTANA",
+  "email": "edilsonmesquita285@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/04/2024",
+  "whatsapp": "(13) 9742-10191",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 213.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "9929",
+      "situacao_pedido": "PEDIDO SEPARADO COM ERRO",
+      "data_hora_pedido": "2024-04-11 20:47:48",
+      "data_hora_confirmacao": "2024-04-12 10:01:04",
+      "data_hora_confirmacao_pagamento": "2024-04-12 10:00:58",
+      "valor_total_produtos": 37.98,
+      "valor_frete": 9.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.95,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9931",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-11 21:12:46",
+      "data_hora_confirmacao": "2024-04-12 10:00:41",
+      "data_hora_confirmacao_pagamento": "2024-04-12 10:00:37",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10387",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 21:59:06",
+      "data_hora_confirmacao": "2024-04-22 10:17:59",
+      "data_hora_confirmacao_pagamento": "2024-04-22 10:17:54",
+      "valor_total_produtos": 121.92,
+      "valor_frete": 12.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 134.83,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD57.10G": {
+      "codigo": "CD57.10G",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.143M": {
+      "codigo": "CD02.143M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.19G": {
+      "codigo": "CD24.19G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.18G": {
+      "codigo": "CD24.18G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD02.149M": {
+      "codigo": "CD02.149M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE      - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.129G": {
+      "codigo": "CD02.129G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.20M": {
+      "codigo": "CD24.20M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.20G": {
+      "codigo": "CD24.20G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

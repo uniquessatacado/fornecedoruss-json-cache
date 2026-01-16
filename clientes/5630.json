@@ -1,0 +1,104 @@
+{
+  "codigo": "5630",
+  "nome": "EDENILTON DO NASCIMENTO SANTOS",
+  "email": "edeniltonnascimento14@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(11) 9980-52095",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 234.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "6816",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-24 21:24:05",
+      "data_hora_confirmacao": "2024-01-25 10:53:40",
+      "data_hora_confirmacao_pagamento": "2024-01-25 10:53:53",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 10.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 79.94,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30608",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-10 17:44:32",
+      "data_hora_confirmacao": "2025-07-10 17:47:58",
+      "data_hora_confirmacao_pagamento": "2025-07-10 17:48:05",
+      "valor_total_produtos": 135,
+      "valor_frete": 20.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 155.05,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38356": {
+      "codigo": "38356",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41014": {
+      "codigo": "41014",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C282) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "41060": {
+      "codigo": "41060",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C286) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41077": {
+      "codigo": "41077",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C308) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD02.92": {
+      "codigo": "CD02.92",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "2746",
+  "nome": "BRENO RUFINO",
+  "email": "brenoferreirarufino@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(81) 98177-1818",
+  "cidade": "Jaboatão dos Guararapes",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 180.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300601",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 23:05:18",
+      "data_hora_confirmacao": "2023-09-24 23:31:19",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:31:27",
+      "valor_total_produtos": 147,
+      "valor_frete": 33.5,
+      "frete": "PAC",
+      "valor_total_pedido": 180.5,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.23G": {
+      "codigo": "CD08.23G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Arte Embossing com detalhe brilhante Aviamentos originais) - Cor: Azul Marinho - Marca: Dior - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD08.16G": {
+      "codigo": "CD08.16G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Arte Plastificada e Bordada em Linha Madeira) - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.25G": {
+      "codigo": "CD08.25G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Arte aplique emborrachado costurado a nylon e Aviamentos originais) - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

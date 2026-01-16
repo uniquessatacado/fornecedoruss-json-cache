@@ -1,0 +1,53 @@
+{
+  "codigo": "8373",
+  "nome": "ANA JÚLIA ARAÚJO ARANTES",
+  "email": "anajuliaarantrz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/04/2024",
+  "whatsapp": "(11) 94965-9109",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 151.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "10424",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 10:01:17",
+      "data_hora_confirmacao": "2024-04-22 10:57:58",
+      "data_hora_confirmacao_pagamento": "2024-04-22 10:57:53",
+      "valor_total_produtos": 137.98,
+      "valor_frete": 13.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 151.71,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "ML1.3G": {
+      "codigo": "ML1.3G",
+      "titulo": "MOLETOM 3 CABOS PUMA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD22.3GG": {
+      "codigo": "CD22.3GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "3135",
+  "nome": "BRENO LUIZ DOS SANTOS",
+  "email": "brenot2000@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(31) 9999-05686",
+  "cidade": "Nova Lima",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 85.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301069",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-30 22:13:13",
+      "data_hora_confirmacao": "2023-10-02 10:49:15",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:49:25",
+      "valor_total_produtos": 72,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.83,
+      "desconto": 0,
+      "cidade": "Nova Lima",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD20.2G": {
+      "codigo": "CD20.2G",
+      "titulo": "Suéter Premium - Boss - Cor: Marrom - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "INATIVA SUÉTER  ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

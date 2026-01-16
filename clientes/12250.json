@@ -1,0 +1,45 @@
+{
+  "codigo": "12250",
+  "nome": "CARLOS LAMARKY",
+  "email": "Carloslamarkytexeira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(11) 96180-3727",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "15744",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 10:47:53",
+      "data_hora_confirmacao": "2024-07-12 17:24:48",
+      "data_hora_confirmacao_pagamento": "2024-07-12 17:24:41",
+      "valor_total_produtos": 42.49,
+      "valor_frete": 12.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.34,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16943": {
+      "codigo": "16943",
+      "titulo": "CONJUNTO FEMINO ADIDAS - Cor: LILAS - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

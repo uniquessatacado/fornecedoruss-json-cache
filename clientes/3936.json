@@ -1,0 +1,53 @@
+{
+  "codigo": "3936",
+  "nome": "LUCAS HENRIQUE",
+  "email": "lukashenrique3233@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(11) 98679-3133",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 78.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "2831",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 00:54:26",
+      "data_hora_confirmacao": "2023-11-08 00:57:08",
+      "data_hora_confirmacao_pagamento": "2023-11-08 00:57:19",
+      "valor_total_produtos": 68,
+      "valor_frete": 10.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 78.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.17": {
+      "codigo": "CD39.17",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.26G": {
+      "codigo": "CD17.26G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

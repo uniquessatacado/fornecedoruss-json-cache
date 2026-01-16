@@ -1,0 +1,61 @@
+{
+  "codigo": "11115",
+  "nome": "ALEX SANDRO BORGES RODRIGUES",
+  "email": "leck2011@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/06/2024",
+  "whatsapp": "(31) 98757-0655",
+  "cidade": "Mariana",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "13979",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-18 19:37:53",
+      "data_hora_confirmacao": "2024-06-19 09:55:20",
+      "data_hora_confirmacao_pagamento": "2024-06-19 09:55:03",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 19.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.12,
+      "desconto": 0,
+      "cidade": "Mariana",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21877": {
+      "codigo": "21877",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21965": {
+      "codigo": "21965",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21973": {
+      "codigo": "21973",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    }
+  }
+}

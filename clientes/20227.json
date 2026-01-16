@@ -1,0 +1,77 @@
+{
+  "codigo": "20227",
+  "nome": "JONATHAN LIMA FERREIRA",
+  "email": "jonathanlimaferreira6@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "16/07/2025",
+  "whatsapp": "(11) 9178-66735",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 174.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "31167",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-07 06:26:37",
+      "data_hora_confirmacao": "2025-08-07 06:27:53",
+      "data_hora_confirmacao_pagamento": "2025-08-07 06:27:53",
+      "valor_total_produtos": 152.37,
+      "valor_frete": 22.06,
+      "frete": "SEDEX",
+      "valor_total_pedido": 174.43,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47534": {
+      "codigo": "47534",
+      "titulo": "Camiseta 40.1 Infantil | Conforto e Estilo LT46A (C884) - Tamanho Infantil: 14",
+      "categoria_principal": "Camiseta Infantil",
+      "categoria": "40.1 Infantil",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "50607": {
+      "codigo": "50607",
+      "titulo": "Camiseta Drifit ULTRA DRY Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50613": {
+      "codigo": "50613",
+      "titulo": "Camiseta Drifit ULTRA DRY Nike - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51889": {
+      "codigo": "51889",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "52027": {
+      "codigo": "52027",
+      "titulo": "Camiseta 40.1 Infantil Lacoste (LT012) - Tamanho Infantil: 16",
+      "categoria_principal": "Camiseta Infantil",
+      "categoria": "40.1 Infantil",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "codigo": "414",
+  "nome": "JOHNY FELIPE",
+  "email": "johnysilvaa.15@icloud.com",
+  "sexo": "3",
+  "data_cadastro": "15/03/2023",
+  "whatsapp": "(31) 9936-96628",
+  "cidade": "Santana do Paraíso",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 11,
+  "valor_total_comprado": 2811.0000000000005,
+  "pedidos": [
+    {
+      "codigo_pedido": "2941",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 12:17:21",
+      "data_hora_confirmacao": "2023-11-09 12:33:44",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:33:53",
+      "valor_total_produtos": 234,
+      "valor_frete": 21.49,
+      "frete": "JADLOG",
+      "valor_total_pedido": 255.49,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3794",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-29 12:51:33",
+      "data_hora_confirmacao": "2023-11-29 14:07:52",
+      "data_hora_confirmacao_pagamento": "2023-11-29 14:08:25",
+      "valor_total_produtos": 285,
+      "valor_frete": 22.12,
+      "frete": "JADLOG",
+      "valor_total_pedido": 307.12,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4308",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 18:46:20",
+      "data_hora_confirmacao": "2023-12-08 20:50:28",
+      "data_hora_confirmacao_pagamento": "2023-12-08 20:50:38",
+      "valor_total_produtos": 102.4,
+      "valor_frete": 19.58,
+      "frete": "JADLOG",
+      "valor_total_pedido": 121.98,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4351",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-09 13:49:22",
+      "data_hora_confirmacao": "2023-12-11 09:34:18",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 59.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 59.9,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15726",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 23:35:14",
+      "data_hora_confirmacao": "2024-07-12 18:55:32",
+      "data_hora_confirmacao_pagamento": "2024-07-12 18:55:24",
+      "valor_total_produtos": 336.91,
+      "valor_frete": 29.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 366.49,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16002",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 09:51:31",
+      "data_hora_confirmacao": "2024-07-15 10:43:57",
+      "data_hora_confirmacao_pagamento": "2024-07-15 10:43:51",
+      "valor_total_produtos": 190.95,
+      "valor_frete": 23.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 214.93,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24324",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-13 11:13:52",
+      "data_hora_confirmacao": "2024-11-13 12:59:59",
+      "data_hora_confirmacao_pagamento": "2024-11-13 12:59:59",
+      "valor_total_produtos": 266.93,
+      "valor_frete": 26.1,
+      "frete": "JADLOG",
+      "valor_total_pedido": 293.03,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29836",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-19 05:29:05",
+      "data_hora_confirmacao": "2025-05-19 05:31:21",
+      "data_hora_confirmacao_pagamento": "2025-05-19 05:31:21",
+      "valor_total_produtos": 440.33,
+      "valor_frete": 33.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 474.11,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29854",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-20 12:43:51",
+      "data_hora_confirmacao": "2025-05-20 12:50:06",
+      "data_hora_confirmacao_pagamento": "2025-05-20 12:50:06",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 20.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.51,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32411",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-12-12 20:52:28",
+      "data_hora_confirmacao": "2025-12-12 20:52:28",
+      "data_hora_confirmacao_pagamento": "2025-12-12 20:52:28",
+      "valor_total_produtos": 230.73,
+      "valor_frete": 32.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 262.81,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32412",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-12-12 20:52:28",
+      "data_hora_confirmacao": "2025-12-12 20:52:28",
+      "data_hora_confirmacao_pagamento": "2025-12-12 20:52:28",
+      "valor_total_produtos": 219.93,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 309.63,
+      "desconto": 0,
+      "cidade": "Santana do Paraíso",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18394": {
+      "codigo": "18394",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22826": {
+      "codigo": "22826",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23437": {
+      "codigo": "23437",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23441": {
+      "codigo": "23441",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23533": {
+      "codigo": "23533",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23580": {
+      "codigo": "23580",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23583": {
+      "codigo": "23583",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24121": {
+      "codigo": "24121",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24123": {
+      "codigo": "24123",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24135": {
+      "codigo": "24135",
+      "titulo": "Calça Microfibra Ultra - NIKE AIR - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24213": {
+      "codigo": "24213",
+      "titulo": "BLUSA MOLETOM 3 CABOS ULTRA - GUCCI - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "24268": {
+      "codigo": "24268",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24270": {
+      "codigo": "24270",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24482": {
+      "codigo": "24482",
+      "titulo": "Chinelo NIKE ASUNA 2.0 - COR CHINELO: BEGE - MODELO CHINELO: NIKE ASUNA 2.0 - TAMANHO CHINELO: 42/43",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29428": {
+      "codigo": "29428",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33371": {
+      "codigo": "33371",
+      "titulo": "Camiseta Algodão Soft Americano - DOLCE GABBANA arte COMPOSTA - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33650": {
+      "codigo": "33650",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33758": {
+      "codigo": "33758",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - INTER MILAN - Tamanho: M - Times : Inter de Milão - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "34070": {
+      "codigo": "34070",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34095": {
+      "codigo": "34095",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34114": {
+      "codigo": "34114",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42200": {
+      "codigo": "42200",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C599) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "43131": {
+      "codigo": "43131",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C667)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "45186": {
+      "codigo": "45186",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C740)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "47157": {
+      "codigo": "47157",
+      "titulo": "Camiseta Suedine Bart com bolso | Atitude no Básico - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47169": {
+      "codigo": "47169",
+      "titulo": "Camiseta Suedine Bart com bolso | Neutra com Estilo - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47190": {
+      "codigo": "47190",
+      "titulo": "Camiseta Just Do It Suedine | Vibe Street Fresh bolso  - Cor: AZUL TURQUEZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47248": {
+      "codigo": "47248",
+      "titulo": "Bermuda Nike Microfibra Ultra | Impacto Urbano LT42A (C836) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47301": {
+      "codigo": "47301",
+      "titulo": "Bermuda Nike Microfibra Ultra | Speed Line LT43A (C846) - Cor: PRETO VERMELHO BRANCO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47908": {
+      "codigo": "47908",
+      "titulo": "Camisa Polo Armani - Estampa Termogel em Alto Relevo - Cor: OFFWHITE - Marca: Armani - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48165": {
+      "codigo": "48165",
+      "titulo": "Bermuda Nike Microfibra Ultra | Dry Move LT55A (C968) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48348": {
+      "codigo": "48348",
+      "titulo": "Moletom 3 Cabos Premium Diesel | Alta Gramatura LT57A (C1001) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48545": {
+      "codigo": "48545",
+      "titulo": "Bermuda Armani Microfibra Ultra | LT60A (C1037) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48596": {
+      "codigo": "48596",
+      "titulo": "Bermuda Adidas Microfibra Ultra | LT61A (C1044) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "51159": {
+      "codigo": "51159",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CHELSEA II 25/26 - Tamanho: M - Times : Chelsea - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "51818": {
+      "codigo": "51818",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL Bordado (NLT001) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "52063": {
+      "codigo": "52063",
+      "titulo": "Camiseta Pima Premium Armani (LT011) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53103": {
+      "codigo": "53103",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53584": {
+      "codigo": "53584",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR GALATASARAY (BLACK EDITION) 25/26 - Tamanho: M - Times : Galatasaray - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55309": {
+      "codigo": "55309",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55332": {
+      "codigo": "55332",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55496": {
+      "codigo": "55496",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.17": {
+      "codigo": "CD39.17",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11 - Cor: OffWhite - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD16.49": {
+      "codigo": "CD16.49",
+      "titulo": "Camisetas de Time Tailandesas - CRUZEIRO  LT06.11  - Tamanho: M - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra Rajada Gramatura 150g  - NIKE   LT25.11  - Cor: Verde - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Azul Marinho - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 5
+    },
+    "CD62.2": {
+      "codigo": "CD62.2",
+      "titulo": "Óculos  Romeu 2 - AZUL MARINHO   LT18.11  - Cor da Armação: Chumbo - Cor da Lente: Azul Marinho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD62.13": {
+      "codigo": "CD62.13",
+      "titulo": "Óculos  Romeu 2 - VERDE C/AZUL  LT07.12 - Cor da Armação: Prata - Cor da Lente: Verde c/azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

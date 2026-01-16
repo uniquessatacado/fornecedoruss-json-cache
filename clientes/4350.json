@@ -1,0 +1,45 @@
+{
+  "codigo": "4350",
+  "nome": "IVAN PADULA",
+  "email": "ivanpadula96@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2023",
+  "whatsapp": "(11) 97207-3429",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "3770",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-28 22:21:22",
+      "data_hora_confirmacao": "2023-11-29 09:10:43",
+      "data_hora_confirmacao_pagamento": "2023-11-30 13:51:51",
+      "valor_total_produtos": 69.3,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 69.3,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 110,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.47": {
+      "codigo": "CD17.47",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "3070",
+  "nome": "WILSON JOSÉ DE OLIVEIRA JÚNIOR",
+  "email": "wilsonoliver11@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(61) 99317-0468",
+  "cidade": "Valparaíso de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 134.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "32370",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-12-01 14:47:19",
+      "data_hora_confirmacao": "2025-12-01 14:49:31",
+      "data_hora_confirmacao_pagamento": "2025-12-01 14:49:31",
+      "valor_total_produtos": 112.12,
+      "valor_frete": 22.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.32,
+      "desconto": 0,
+      "cidade": "Valparaíso de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53515": {
+      "codigo": "53515",
+      "titulo": "Cueca Peruana Lacoste (LT043) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55016": {
+      "codigo": "55016",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT056) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55022": {
+      "codigo": "55022",
+      "titulo": "Bermuda Microfibra Ultra Lacoste - Cor: VERDE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55226": {
+      "codigo": "55226",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55800": {
+      "codigo": "55800",
+      "titulo": "Cueca Peruana - Nike (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55836": {
+      "codigo": "55836",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

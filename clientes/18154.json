@@ -1,0 +1,128 @@
+{
+  "codigo": "18154",
+  "nome": "PAULO CESAR DE CASTRO",
+  "email": "pecerico@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/12/2024",
+  "whatsapp": "(83) 9888-21354",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 336.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "25884",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 05:16:55",
+      "data_hora_confirmacao": "2024-12-07 05:19:18",
+      "data_hora_confirmacao_pagamento": "2024-12-07 05:19:18",
+      "valor_total_produtos": 91.96,
+      "valor_frete": 42.75,
+      "frete": "PAC",
+      "valor_total_pedido": 134.71,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28487",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-01 12:11:14",
+      "data_hora_confirmacao": "2025-03-01 12:13:12",
+      "data_hora_confirmacao_pagamento": "2025-03-01 12:13:12",
+      "valor_total_produtos": 154.22,
+      "valor_frete": 47.81,
+      "frete": "PAC",
+      "valor_total_pedido": 202.03,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33729": {
+      "codigo": "33729",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36210": {
+      "codigo": "36210",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD2-BS) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36557": {
+      "codigo": "36557",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada   - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36577": {
+      "codigo": "36577",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada    - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "40916": {
+      "codigo": "40916",
+      "titulo": "Bermuda Microfibra Ultra (C252) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42157": {
+      "codigo": "42157",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C576) - Cor: PRETO MARINHO VERDE  - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42347": {
+      "codigo": "42347",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C632) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42424": {
+      "codigo": "42424",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42470": {
+      "codigo": "42470",
+      "titulo": "Regata Ultra Dry LT28A (C634)   - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

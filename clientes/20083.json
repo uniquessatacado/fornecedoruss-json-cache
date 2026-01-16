@@ -1,0 +1,61 @@
+{
+  "codigo": "20083",
+  "nome": "PEDRO HENRIQUE",
+  "email": "phrb777@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/06/2025",
+  "whatsapp": "(55) 98401-0777",
+  "cidade": "Itajaí",
+  "estado": "SC",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "30264",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-12 11:16:48",
+      "data_hora_confirmacao": "2025-06-12 11:16:48",
+      "data_hora_confirmacao_pagamento": "2025-06-12 11:16:48",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 20.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.36,
+      "desconto": 0,
+      "cidade": "Itajaí",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48960": {
+      "codigo": "48960",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona Retrô Ronaldinho #10 | LT64A (C1104) - Tamanho: G - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48967": {
+      "codigo": "48967",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Manchester United | LT65A (C1105) - Tamanho: G - Times : Manchester United - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48979": {
+      "codigo": "48979",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT65A (C1107) - Tamanho: G - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

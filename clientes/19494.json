@@ -1,0 +1,61 @@
+{
+  "codigo": "19494",
+  "nome": "PEDRO HENRIQUE TONELOTTI",
+  "email": "pepe.htonelotti@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2025",
+  "whatsapp": "(19) 99986-3313",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 192.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "28603",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-08 11:50:41",
+      "data_hora_confirmacao": "2025-03-08 11:51:46",
+      "data_hora_confirmacao_pagamento": "2025-03-08 11:51:46",
+      "valor_total_produtos": 175.2,
+      "valor_frete": 17.49,
+      "frete": "LOGGI",
+      "valor_total_pedido": 192.69,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38224": {
+      "codigo": "38224",
+      "titulo": "MEIAS PERUANAS SOQUETES (C111) - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "39569": {
+      "codigo": "39569",
+      "titulo": "Bermuda Microfibra Ultra (C208) LT8A - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "42437": {
+      "codigo": "42437",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "3"
+    }
+  }
+}

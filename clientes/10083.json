@@ -1,0 +1,88 @@
+{
+  "codigo": "10083",
+  "nome": "VITOR MANOEL SILVA XAVIER",
+  "email": "hyrocheferraz2021@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(86) 9890-75835",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 117.96000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "13267",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-07 09:30:43",
+      "data_hora_confirmacao": "2024-06-07 09:42:05",
+      "data_hora_confirmacao_pagamento": "2024-06-07 09:41:54",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 89.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13370",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-08 07:51:22",
+      "data_hora_confirmacao": "2024-06-08 09:17:16",
+      "data_hora_confirmacao_pagamento": "2024-06-08 09:17:09",
+      "valor_total_produtos": 27.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 27.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18109": {
+      "codigo": "18109",
+      "titulo": "CAIXA DE SOM BLUETOOTH   - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "CAIXAS DE SOM",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18140": {
+      "codigo": "18140",
+      "titulo": "CABOS RAPIDO TIPO C,MICRO,IPHONE - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18153": {
+      "codigo": "18153",
+      "titulo": "FONTE CARREGADOR 30W USB-C - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "20222": {
+      "codigo": "20222",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: Kit Preto-Vermelho-Cinza - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

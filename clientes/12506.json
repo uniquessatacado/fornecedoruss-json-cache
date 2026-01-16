@@ -1,0 +1,72 @@
+{
+  "codigo": "12506",
+  "nome": "THIAGO ALMEIDA DO ROSARIO",
+  "email": "thiagoalmeidadorosario1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/07/2024",
+  "whatsapp": "(11) 9453-98518",
+  "cidade": "Taboão da Serra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 93,
+  "pedidos": [
+    {
+      "codigo_pedido": "16127",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-16 11:11:06",
+      "data_hora_confirmacao": "2024-07-16 12:07:10",
+      "data_hora_confirmacao_pagamento": "2024-07-16 12:06:59",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17030",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-25 21:31:54",
+      "data_hora_confirmacao": "2024-07-26 12:30:07",
+      "data_hora_confirmacao_pagamento": "2024-07-26 12:29:53",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 11.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.08,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25301": {
+      "codigo": "25301",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

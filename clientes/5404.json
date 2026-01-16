@@ -1,0 +1,53 @@
+{
+  "codigo": "5404",
+  "nome": "LUIS HENRIQUE",
+  "email": "lhpsilvaa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/01/2024",
+  "whatsapp": "(11) 97249-6043",
+  "cidade": "Embu das Artes",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "6619",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-17 19:48:20",
+      "data_hora_confirmacao": "2024-01-18 11:15:45",
+      "data_hora_confirmacao_pagamento": "2024-01-18 11:16:04",
+      "valor_total_produtos": 72.98,
+      "valor_frete": 10.99,
+      "frete": "SEDEX",
+      "valor_total_pedido": 83.97,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.62": {
+      "codigo": "CD17.62",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO   LT04.01  - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.56": {
+      "codigo": "CD39.56",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "codigo": "9717",
+  "nome": "DIEGO LEMOS DA COSTA",
+  "email": "diegolemosdacosta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(21) 96408-8354",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 310.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "12513",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-24 08:23:38",
+      "data_hora_confirmacao": "2024-05-28 10:53:05",
+      "data_hora_confirmacao_pagamento": "2024-05-28 10:52:55",
+      "valor_total_produtos": 242.9,
+      "valor_frete": 29.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 272.4,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12961",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-01 18:49:41",
+      "data_hora_confirmacao": "2024-06-01 18:49:41",
+      "data_hora_confirmacao_pagamento": "2024-06-03 13:02:25",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17987": {
+      "codigo": "17987",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "18335": {
+      "codigo": "18335",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19162": {
+      "codigo": "19162",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em bordado - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19496": {
+      "codigo": "19496",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19540": {
+      "codigo": "19540",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/MD3 - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19541": {
+      "codigo": "19541",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/MD3 - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19545": {
+      "codigo": "19545",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/BLACK - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19863": {
+      "codigo": "19863",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19887": {
+      "codigo": "19887",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19890": {
+      "codigo": "19890",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD25.09M": {
+      "codigo": "CD25.09M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

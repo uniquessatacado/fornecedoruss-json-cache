@@ -1,0 +1,61 @@
+{
+  "codigo": "11948",
+  "nome": "EDSON FELIPE DE SOUZA",
+  "email": "edson.felipe22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(12) 98112-8462",
+  "cidade": "Cruzeiro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 125.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "15649",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 13:23:58",
+      "data_hora_confirmacao": "2024-07-15 11:27:07",
+      "data_hora_confirmacao_pagamento": "2024-07-15 11:27:01",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 23.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 125.1,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23793": {
+      "codigo": "23793",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em termogel - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23797": {
+      "codigo": "23797",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em termogel - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23960": {
+      "codigo": "23960",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

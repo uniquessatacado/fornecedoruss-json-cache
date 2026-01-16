@@ -1,0 +1,61 @@
+{
+  "codigo": "4559",
+  "nome": "NICKOLAS EICHY CAVAGLIERI FRIZANI",
+  "email": "nickolasfrizani@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2023",
+  "whatsapp": "(19) 99141-6900",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90,
+  "pedidos": [
+    {
+      "codigo_pedido": "4287",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-08 14:26:53",
+      "data_hora_confirmacao": "2023-12-08 14:28:33",
+      "data_hora_confirmacao_pagamento": "2023-12-08 15:05:12",
+      "valor_total_produtos": 90,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 90,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.97": {
+      "codigo": "CD01.97",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -PSG   LT04.12  - Tamanho: M - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD40.5GG": {
+      "codigo": "CD40.5GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ARMANI LT30.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Branca - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

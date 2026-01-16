@@ -1,0 +1,123 @@
+{
+  "codigo": "17262",
+  "nome": "JOSE RICARDO DA SILVA",
+  "email": "ricardoefabiola2019@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(11) 95799-2984",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 229.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "25245",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 18:45:40",
+      "data_hora_confirmacao": "2024-11-28 18:50:23",
+      "data_hora_confirmacao_pagamento": "2024-11-28 18:50:23",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26170",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 22:47:24",
+      "data_hora_confirmacao": "2024-12-11 22:48:16",
+      "data_hora_confirmacao_pagamento": "2024-12-11 22:48:16",
+      "valor_total_produtos": 47.98,
+      "valor_frete": 11.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.64,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26417",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-14 08:43:08",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-12-14 08:43:48",
+      "valor_total_produtos": 70.98,
+      "valor_frete": 12.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.52,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35603": {
+      "codigo": "35603",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "35657": {
+      "codigo": "35657",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35932": {
+      "codigo": "35932",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "36947": {
+      "codigo": "36947",
+      "titulo": "camiseta fio 30.1 soft penteada   - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36952": {
+      "codigo": "36952",
+      "titulo": "camiseta fio 30.1 soft penteada    - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37635": {
+      "codigo": "37635",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C40) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "6671",
+  "nome": "SANDRO LUIS DOS SANTOS",
+  "email": "sandroluis2019@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/03/2024",
+  "whatsapp": "(19) 9972-21067",
+  "cidade": "Jaguariúna",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 250.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "8070",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-07 16:53:03",
+      "data_hora_confirmacao": "2024-03-07 17:46:17",
+      "data_hora_confirmacao_pagamento": "2024-03-07 17:46:11",
+      "valor_total_produtos": 126.94,
+      "valor_frete": 12.56,
+      "frete": "SEDEX",
+      "valor_total_pedido": 139.5,
+      "desconto": 0,
+      "cidade": "Jaguariúna",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11642",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 15:31:23",
+      "data_hora_confirmacao": "2024-05-11 13:15:29",
+      "data_hora_confirmacao_pagamento": "2024-05-11 13:15:21",
+      "valor_total_produtos": 97.97,
+      "valor_frete": 13.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 111.41,
+      "desconto": 0,
+      "cidade": "Jaguariúna",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18407": {
+      "codigo": "18407",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18411": {
+      "codigo": "18411",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD68.02": {
+      "codigo": "CD68.02",
+      "titulo": "Bermuda Microfibra Hiper - HUGO BOSS - Cor: Verde Militar - Tamanho: G1",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.120GG": {
+      "codigo": "CD02.120GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE - Cor: Cinza - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD02.108GG": {
+      "codigo": "CD02.108GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Cinza - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.08GG": {
+      "codigo": "CD24.08GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Vermelha - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD4.22G": {
+      "codigo": "CD4.22G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

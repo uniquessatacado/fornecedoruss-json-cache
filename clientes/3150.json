@@ -1,0 +1,61 @@
+{
+  "codigo": "3150",
+  "nome": "GABRIEL ARMANI JASKE",
+  "email": "gabrieljaske@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2023",
+  "whatsapp": "(27) 99936-5073",
+  "cidade": "Laranja da Terra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301089",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-01 18:00:44",
+      "data_hora_confirmacao": "2023-10-10 15:30:40",
+      "data_hora_confirmacao_pagamento": "2023-10-10 15:30:59",
+      "valor_total_produtos": 115,
+      "valor_frete": 17.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.25,
+      "desconto": 0,
+      "cidade": "Laranja da Terra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.7G": {
+      "codigo": "CD08.7G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste (DTF em Alta Definição) - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD17.11M": {
+      "codigo": "CD17.11M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.28M": {
+      "codigo": "CD17.28M",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

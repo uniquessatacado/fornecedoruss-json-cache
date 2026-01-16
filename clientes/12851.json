@@ -1,0 +1,45 @@
+{
+  "codigo": "12851",
+  "nome": "MARIA EDUARDA",
+  "email": "meps140603@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/07/2024",
+  "whatsapp": "(11) 91111-3739",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 30.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "16593",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-22 09:38:21",
+      "data_hora_confirmacao": "2024-07-22 10:26:22",
+      "data_hora_confirmacao_pagamento": "2024-07-22 10:26:16",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 11.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 30.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22836": {
+      "codigo": "22836",
+      "titulo": "Boné Super Premium - NIKE - Cor: VERMELHA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

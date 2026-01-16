@@ -1,0 +1,61 @@
+{
+  "codigo": "10576",
+  "nome": "THIAGO FÉLIX DE MENDONÇA",
+  "email": "thiagofellix53@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(19) 99323-2966",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "13249",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-06 21:48:00",
+      "data_hora_confirmacao": "2024-06-07 18:36:57",
+      "data_hora_confirmacao_pagamento": "2024-06-07 18:36:49",
+      "valor_total_produtos": 74.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 84.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15160": {
+      "codigo": "15160",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20488": {
+      "codigo": "20488",
+      "titulo": "CAMISETAS 30.1 PREMIUM - LACOSTE - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA 30.1 PREMIUM ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

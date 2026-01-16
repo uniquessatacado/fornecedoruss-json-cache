@@ -1,0 +1,53 @@
+{
+  "codigo": "6476",
+  "nome": "MAYCON TORRES",
+  "email": "mayconttorres@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/02/2024",
+  "whatsapp": "(21) 98366-9517",
+  "cidade": "Itaboraí",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "7791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 18:58:25",
+      "data_hora_confirmacao": "2024-02-29 09:34:19",
+      "data_hora_confirmacao_pagamento": "2024-02-29 09:34:11",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 28.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.79,
+      "desconto": 0,
+      "cidade": "Itaboraí",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.5M": {
+      "codigo": "CD04.5M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

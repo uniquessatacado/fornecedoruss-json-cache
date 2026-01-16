@@ -1,0 +1,69 @@
+{
+  "codigo": "3828",
+  "nome": "JOAO HENRIQUE SCOTA",
+  "email": "joaoscota@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/10/2023",
+  "whatsapp": "(11) 97130-0456",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 144.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "2499",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-31 15:48:41",
+      "data_hora_confirmacao": "2023-10-31 16:05:35",
+      "data_hora_confirmacao_pagamento": "2023-10-31 16:05:45",
+      "valor_total_produtos": 132,
+      "valor_frete": 12.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 144.41,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.43GG": {
+      "codigo": "CD02.43GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.39GG": {
+      "codigo": "CD02.39GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10   - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD40.11": {
+      "codigo": "CD40.11",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT31.10  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD40.7GG": {
+      "codigo": "CD40.7GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

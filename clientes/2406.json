@@ -1,0 +1,69 @@
+{
+  "codigo": "2406",
+  "nome": "WASHINGTON  SANTOS DE OLIVEIRA",
+  "email": "Washingtonsantosoliveira52@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(17) 99979-2120",
+  "cidade": "Guaíra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300280",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 15:45:28",
+      "data_hora_confirmacao": "2023-09-20 15:58:26",
+      "data_hora_confirmacao_pagamento": "2023-09-20 15:58:09",
+      "valor_total_produtos": 104,
+      "valor_frete": 26.61,
+      "frete": "SEDEX",
+      "valor_total_pedido": 130.61,
+      "desconto": 0,
+      "cidade": "Guaíra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.20GG": {
+      "codigo": "CD02.20GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Azul - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.14GG": {
+      "codigo": "CD02.14GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Marrom Escuro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

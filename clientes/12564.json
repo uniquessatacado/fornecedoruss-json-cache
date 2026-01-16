@@ -1,0 +1,53 @@
+{
+  "codigo": "12564",
+  "nome": "PEDRO IVO DE CARVALHO",
+  "email": "ivodecarvalho21@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/07/2024",
+  "whatsapp": "(21) 99454-2882",
+  "cidade": "Itaboraí",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 170.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "17391",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 07:07:17",
+      "data_hora_confirmacao": "2024-07-31 12:42:54",
+      "data_hora_confirmacao_pagamento": "2024-07-31 12:42:48",
+      "valor_total_produtos": 154.98,
+      "valor_frete": 15.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 170.92,
+      "desconto": 0,
+      "cidade": "Itaboraí",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19623": {
+      "codigo": "19623",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO MANCHESTER UNITED PRONTA ENTREGA)     - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19675": {
+      "codigo": "19675",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA)      - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

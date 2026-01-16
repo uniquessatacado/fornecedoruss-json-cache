@@ -1,0 +1,53 @@
+{
+  "codigo": "9293",
+  "nome": "DERICK RODRIGO NASCIMENTO SILVA",
+  "email": "derickrodrigo10@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(31) 99111-6546",
+  "cidade": "Sabará",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 74.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "11686",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 20:09:17",
+      "data_hora_confirmacao": "2024-05-11 09:33:45",
+      "data_hora_confirmacao_pagamento": "2024-05-11 09:33:39",
+      "valor_total_produtos": 57.98,
+      "valor_frete": 16.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 74.96,
+      "desconto": 0,
+      "cidade": "Sabará",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18244": {
+      "codigo": "18244",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: PRETA - Marca: Adidas - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18375": {
+      "codigo": "18375",
+      "titulo": "Bermuda Microfibra Ultra -ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

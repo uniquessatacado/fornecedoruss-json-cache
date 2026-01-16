@@ -1,0 +1,77 @@
+{
+  "codigo": "13415",
+  "nome": "TARSIS PRATES",
+  "email": "tarsiseduardo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/08/2024",
+  "whatsapp": "(19) 99737-9982",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 228.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "17516",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-08-01 09:18:03",
+      "data_hora_confirmacao": "2024-08-01 16:15:47",
+      "data_hora_confirmacao_pagamento": "2024-08-01 16:15:39",
+      "valor_total_produtos": 218.95,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 228.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23383": {
+      "codigo": "23383",
+      "titulo": "CARREGADOR VEICULAR ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "25646": {
+      "codigo": "25646",
+      "titulo": "Calça Jeans Luxo Importada - DIESEL - Cor: PRETA - Tamanho: 42",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25723": {
+      "codigo": "25723",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25729": {
+      "codigo": "25729",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25774": {
+      "codigo": "25774",
+      "titulo": "Bermuda Microfibra HIPER - NIKE AIR - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

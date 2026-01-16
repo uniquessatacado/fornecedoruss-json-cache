@@ -1,0 +1,53 @@
+{
+  "codigo": "20733",
+  "nome": "ALAN AZEVEDO DA SILVA",
+  "email": "alan.azevedo2006@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/12/2025",
+  "whatsapp": "(11) 98236-5787",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "32401",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-12-10 17:52:26",
+      "data_hora_confirmacao": "2025-12-10 18:10:05",
+      "data_hora_confirmacao_pagamento": "2025-12-10 18:10:05",
+      "valor_total_produtos": 112.5,
+      "valor_frete": 15.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 127.59,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48004": {
+      "codigo": "48004",
+      "titulo": "Camiseta Pima Hugo Boss Essencial LT51A (C942) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55020": {
+      "codigo": "55020",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT056) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "653",
+  "nome": "GUILHERME ZAMBONINI",
+  "email": "guilhermezambonini@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(19) 99537-6761",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 133.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "7560",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-23 14:04:49",
+      "data_hora_confirmacao": "2024-02-23 14:06:21",
+      "data_hora_confirmacao_pagamento": "2024-02-23 14:07:16",
+      "valor_total_produtos": 97.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 97.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7561",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-23 15:06:08",
+      "data_hora_confirmacao": "2024-02-23 15:06:27",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.105GG": {
+      "codigo": "CD02.105GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Bege - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD04.2GG": {
+      "codigo": "CD04.2GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

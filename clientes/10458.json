@@ -1,0 +1,93 @@
+{
+  "codigo": "10458",
+  "nome": "IVAN MAURÍCIO DAMACENO",
+  "email": "ivan.mau2005@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(18) 99141-7876",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 344.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "13132",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 17:40:36",
+      "data_hora_confirmacao": "2024-06-06 12:17:26",
+      "data_hora_confirmacao_pagamento": "2024-06-06 12:17:19",
+      "valor_total_produtos": 319.94,
+      "valor_frete": 24.53,
+      "frete": "JADLOG",
+      "valor_total_pedido": 344.47,
+      "desconto": 0,
+      "cidade": "Presidente Prudente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18697": {
+      "codigo": "18697",
+      "titulo": "Camiseta Suedine Premium NIKE arte em Silk - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Suedine Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19779": {
+      "codigo": "19779",
+      "titulo": "Boné Super Premium - NY NEW ERA - Cor: OFFWHITE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "20216": {
+      "codigo": "20216",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA NIKE - Cor: Kit Preto-Vermelho-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20281": {
+      "codigo": "20281",
+      "titulo": "Calças Microfibra Premium - NIKE arte em bordado - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20365": {
+      "codigo": "20365",
+      "titulo": "SUÉTER PERUANO - DOLCE GABBANA  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "INATIVA SUÉTER  ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "CD56.3": {
+      "codigo": "CD56.3",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - CORINTHIANS  LT14.11 - Tamanho: G1 - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

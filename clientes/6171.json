@@ -1,0 +1,96 @@
+{
+  "codigo": "6171",
+  "nome": "FELIPE NEVES",
+  "email": "fanaugusto.bmt@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/02/2024",
+  "whatsapp": "(11) 94706-4432",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 186.22000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "7902",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-01 18:13:31",
+      "data_hora_confirmacao": "2024-03-02 09:47:26",
+      "data_hora_confirmacao_pagamento": "2024-03-02 09:47:18",
+      "valor_total_produtos": 127.96,
+      "valor_frete": 12.34,
+      "frete": "SEDEX",
+      "valor_total_pedido": 140.3,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13995",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-18 22:33:47",
+      "data_hora_confirmacao": "2024-06-20 18:04:00",
+      "data_hora_confirmacao_pagamento": "2024-06-20 18:03:53",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21422": {
+      "codigo": "21422",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD68.01": {
+      "codigo": "CD68.01",
+      "titulo": "Bermuda Microfibra Hiper - NIKE REFLETIVA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.113M": {
+      "codigo": "CD02.113M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.03M": {
+      "codigo": "CD39.03M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

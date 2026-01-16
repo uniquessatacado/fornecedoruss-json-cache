@@ -1,0 +1,45 @@
+{
+  "codigo": "3657",
+  "nome": "MIGUEL SAMPAIO",
+  "email": "miguelsampaio010189@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/10/2023",
+  "whatsapp": "(11) 95874-7802",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302091",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 21:34:36",
+      "data_hora_confirmacao": "2023-10-23 17:58:35",
+      "data_hora_confirmacao_pagamento": "2023-10-23 17:58:25",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 9.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 69.61,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.3Juliet": {
+      "codigo": "CD32.3Juliet",
+      "titulo": "Óculos  Juliet - Verde c/Azul - Cor da Armação: Prata c/Chumbo - Cor da Lente: Verde c/azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

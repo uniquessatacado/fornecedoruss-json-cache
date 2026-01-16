@@ -1,0 +1,96 @@
+{
+  "codigo": "12870",
+  "nome": "CLAUDIO LUIS QUEIROZ",
+  "email": "queirozclaudio65@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/07/2024",
+  "whatsapp": "(11) 9894-10500",
+  "cidade": "Jacutinga",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 207.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "16638",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-22 17:27:53",
+      "data_hora_confirmacao": "2024-07-22 17:34:59",
+      "data_hora_confirmacao_pagamento": "2024-07-22 17:34:29",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 16.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 104.49,
+      "desconto": 0,
+      "cidade": "Jacutinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22700",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-11 17:36:29",
+      "data_hora_confirmacao": "2024-10-14 11:25:49",
+      "data_hora_confirmacao_pagamento": "2024-10-14 11:24:08",
+      "valor_total_produtos": 85.96,
+      "valor_frete": 17.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.12,
+      "desconto": 0,
+      "cidade": "Jacutinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18113": {
+      "codigo": "18113",
+      "titulo": "CAIXA DE SOM BLUETOOTH MINI - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "CAIXAS DE SOM",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "21265": {
+      "codigo": "21265",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29406": {
+      "codigo": "29406",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "29660": {
+      "codigo": "29660",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "31244": {
+      "codigo": "31244",
+      "titulo": "Camiseta Tecido Cashmere Importada - VERSACE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

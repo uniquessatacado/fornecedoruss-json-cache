@@ -1,0 +1,104 @@
+{
+  "codigo": "4435",
+  "nome": "ARMANDO RODRIGO DE CAMARGO",
+  "email": "armandorodrigocamargo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/12/2023",
+  "whatsapp": "(47) 9978-85284",
+  "cidade": "Navegantes",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 338.46000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "4345",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-09 12:18:43",
+      "data_hora_confirmacao": "2023-12-09 12:24:47",
+      "data_hora_confirmacao_pagamento": "2023-12-09 12:24:59",
+      "valor_total_produtos": 149.5,
+      "valor_frete": 30.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 180.31,
+      "desconto": 0,
+      "cidade": "Navegantes",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11033",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-30 06:59:06",
+      "data_hora_confirmacao": "2024-04-30 21:20:20",
+      "data_hora_confirmacao_pagamento": "2024-04-30 21:20:10",
+      "valor_total_produtos": 136.97,
+      "valor_frete": 21.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 158.15,
+      "desconto": 0,
+      "cidade": "Navegantes",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17767": {
+      "codigo": "17767",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.109": {
+      "codigo": "CD01.109",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO  LT08.12  - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

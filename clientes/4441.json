@@ -1,0 +1,112 @@
+{
+  "codigo": "4441",
+  "nome": "RENAN RAGA DE MELO",
+  "email": "renan.raga@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "05/12/2023",
+  "whatsapp": "(11) 98786-3723",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 188.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "4012",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 15:02:41",
+      "data_hora_confirmacao": "2023-12-06 10:51:45",
+      "data_hora_confirmacao_pagamento": "2023-12-06 10:51:54",
+      "valor_total_produtos": 132.5,
+      "valor_frete": 15.27,
+      "frete": "SEDEX",
+      "valor_total_pedido": 147.77,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21361",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 12:33:18",
+      "data_hora_confirmacao": "2024-09-20 11:03:09",
+      "data_hora_confirmacao_pagamento": "2024-09-20 11:02:55",
+      "valor_total_produtos": 29.98,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 40.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30033": {
+      "codigo": "30033",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30574": {
+      "codigo": "30574",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD66.3": {
+      "codigo": "CD66.3",
+      "titulo": "CAMISETA PERUANA LUXO - BALMAIN  LT23.10  - Cor: Azul Marinho - Marca: Balmain - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    },
+    "CD39.31": {
+      "codigo": "CD39.31",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.33": {
+      "codigo": "CD39.33",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

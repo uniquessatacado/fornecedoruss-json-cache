@@ -1,0 +1,80 @@
+{
+  "codigo": "12253",
+  "nome": "ALEXANDRA SILVEIRA MELO",
+  "email": "alexandramelo055@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(51) 99585-4530",
+  "cidade": "São Leopoldo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "16400",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 11:59:55",
+      "data_hora_confirmacao": "2024-07-19 16:36:16",
+      "data_hora_confirmacao_pagamento": "2024-07-19 16:36:10",
+      "valor_total_produtos": 82.98,
+      "valor_frete": 24.46,
+      "frete": "JADLOG",
+      "valor_total_pedido": 107.44,
+      "desconto": 0,
+      "cidade": "São Leopoldo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20325",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 11:50:41",
+      "data_hora_confirmacao": "2024-09-04 12:44:56",
+      "data_hora_confirmacao_pagamento": "2024-09-04 12:44:50",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 21.7,
+      "frete": "JADLOG",
+      "valor_total_pedido": 58.69,
+      "desconto": 0,
+      "cidade": "São Leopoldo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24121": {
+      "codigo": "24121",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24182": {
+      "codigo": "24182",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29636": {
+      "codigo": "29636",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

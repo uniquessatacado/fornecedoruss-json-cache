@@ -1,0 +1,158 @@
+{
+  "codigo": "13751",
+  "nome": "MICHAEL MENEZES FIGUEIREDO",
+  "email": "michaelmenezes199@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/08/2024",
+  "whatsapp": "(21) 9838-35863",
+  "cidade": "Belford Roxo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 468.65000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "18318",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-10 11:03:57",
+      "data_hora_confirmacao": "2024-08-12 10:56:39",
+      "data_hora_confirmacao_pagamento": "2024-08-12 10:56:31",
+      "valor_total_produtos": 174.63,
+      "valor_frete": 21.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 195.68,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18418",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-12 12:52:41",
+      "data_hora_confirmacao": "2024-08-12 12:52:41",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 43.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 43.99,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19011",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-18 10:05:20",
+      "data_hora_confirmacao": "2024-08-20 09:50:42",
+      "data_hora_confirmacao_pagamento": "2024-08-20 09:50:36",
+      "valor_total_produtos": 174.96,
+      "valor_frete": 18.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 192.99,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19251",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-21 14:32:04",
+      "data_hora_confirmacao": "2024-08-21 14:32:04",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22780": {
+      "codigo": "22780",
+      "titulo": "Óculos OAKLEY - ARMAÇÃO: CARBON - BLACK - COR DA LENTE: NEON BLUE - Kit Borracha: AZUL - MODELO: PENNY",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "24234": {
+      "codigo": "24234",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25536": {
+      "codigo": "25536",
+      "titulo": "Óculos OAKLEY JULIET - ARMAÇÃO: TIO 2 PRATA+CHUMBO - COR DA LENTE: RED - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "25682": {
+      "codigo": "25682",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "26709": {
+      "codigo": "26709",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27146": {
+      "codigo": "27146",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27196": {
+      "codigo": "27196",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21M": {
+      "codigo": "CD4.21M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "13624",
+  "nome": "DANILO LIMA DE OLIVEIRA",
+  "email": "danilo2706@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "06/08/2024",
+  "whatsapp": "(11) 94764-6421",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 244.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "17944",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 14:47:54",
+      "data_hora_confirmacao": "2024-08-06 16:55:35",
+      "data_hora_confirmacao_pagamento": "2024-08-06 16:55:28",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 11.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.9,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18384",
+      "situacao_pedido": "PEDIDO SOLICITADO DA FÁBRICA",
+      "data_hora_pedido": "2024-08-11 14:38:35",
+      "data_hora_confirmacao": "2024-08-12 18:10:39",
+      "data_hora_confirmacao_pagamento": "2024-08-12 14:56:41",
+      "valor_total_produtos": 102.99,
+      "valor_frete": 12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.99,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21238": {
+      "codigo": "21238",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21393": {
+      "codigo": "21393",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

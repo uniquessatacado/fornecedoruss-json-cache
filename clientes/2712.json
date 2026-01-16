@@ -1,0 +1,449 @@
+{
+  "codigo": "2712",
+  "nome": "MAURÍCIO RODRIGUES DE OLIVEIRA",
+  "email": "mauriciooliveiragarf@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(91) 9830-36031",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 1772.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300579",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 13:50:43",
+      "data_hora_confirmacao": "2023-09-26 19:52:42",
+      "data_hora_confirmacao_pagamento": "2023-09-26 19:52:23",
+      "valor_total_produtos": 317,
+      "valor_frete": 38.96,
+      "frete": "PAC",
+      "valor_total_pedido": 355.96,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300845",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 16:16:39",
+      "data_hora_confirmacao": "2023-09-28 16:18:42",
+      "data_hora_confirmacao_pagamento": "2023-09-28 16:18:50",
+      "valor_total_produtos": 34,
+      "valor_frete": 29.85,
+      "frete": "PAC",
+      "valor_total_pedido": 63.85,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300848",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 17:05:44",
+      "data_hora_confirmacao": "2023-09-29 13:42:43",
+      "data_hora_confirmacao_pagamento": "2023-09-29 13:42:51",
+      "valor_total_produtos": 450,
+      "valor_frete": 52.88,
+      "frete": "PAC",
+      "valor_total_pedido": 502.88,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25551",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 13:12:05",
+      "data_hora_confirmacao": "2024-12-03 13:31:45",
+      "data_hora_confirmacao_pagamento": "2024-12-03 13:31:45",
+      "valor_total_produtos": 318.92,
+      "valor_frete": 42.44,
+      "frete": "PAC",
+      "valor_total_pedido": 361.36,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31600",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-08 14:05:31",
+      "data_hora_confirmacao": "2025-09-08 15:45:17",
+      "data_hora_confirmacao_pagamento": "2025-09-08 15:45:27",
+      "valor_total_produtos": 441.62,
+      "valor_frete": 46.97,
+      "frete": "PAC",
+      "valor_total_pedido": 488.59,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35233": {
+      "codigo": "35233",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35260": {
+      "codigo": "35260",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35267": {
+      "codigo": "35267",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35288": {
+      "codigo": "35288",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35333": {
+      "codigo": "35333",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35338": {
+      "codigo": "35338",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35381": {
+      "codigo": "35381",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "53168": {
+      "codigo": "53168",
+      "titulo": "Camiseta Drifit ULTRA Nike (LT039) - Cor: BRANCO/PRETO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53249": {
+      "codigo": "53249",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53287": {
+      "codigo": "53287",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53307": {
+      "codigo": "53307",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53379": {
+      "codigo": "53379",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53417": {
+      "codigo": "53417",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53783": {
+      "codigo": "53783",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT046) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53834": {
+      "codigo": "53834",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT046) - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53858": {
+      "codigo": "53858",
+      "titulo": "Camiseta Suedine 1:1 Ultra PUMA - ARTE EM DTF (LT046) - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "53923": {
+      "codigo": "53923",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53929": {
+      "codigo": "53929",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53953": {
+      "codigo": "53953",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53971": {
+      "codigo": "53971",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.17G": {
+      "codigo": "CD07.17G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci   - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.15G": {
+      "codigo": "CD07.15G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci  - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.12G": {
+      "codigo": "CD07.12G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD07.9G": {
+      "codigo": "CD07.9G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD07.20G": {
+      "codigo": "CD07.20G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Boss  - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.18G": {
+      "codigo": "CD08.18G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.26G": {
+      "codigo": "CD08.26G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Moschino (Arte holográfica camaleão e pelo Diamante) - Cor: Cinza - Marca: Moschinno - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD07.8G": {
+      "codigo": "CD07.8G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD13.3G": {
+      "codigo": "CD13.3G",
+      "titulo": "Camiseta standard Fit 1:1 - Nike  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.46P": {
+      "codigo": "CD01.46P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: P - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.46M Al-hilal": {
+      "codigo": "CD01.46M Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.35M": {
+      "codigo": "CD01.35M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: M - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.14P": {
+      "codigo": "CD01.14P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Boca Jr - Tamanho: P - Times : Boca Jr",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.48P": {
+      "codigo": "CD01.48P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: P - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.48M": {
+      "codigo": "CD01.48M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: M - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.32M": {
+      "codigo": "CD01.32M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PSG - Tamanho: M - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.49P": {
+      "codigo": "CD01.49P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: P - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.33M": {
+      "codigo": "CD16.33M",
+      "titulo": "Camisetas de Time Nacional - Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.37M": {
+      "codigo": "CD01.37M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Psg - Tamanho: M - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.37P": {
+      "codigo": "CD01.37P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Psg - Tamanho: P - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.32M": {
+      "codigo": "CD16.32M",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD6.01G": {
+      "codigo": "CD6.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "codigo": "17903",
+  "nome": "ROGERIO PINTO DE MORAES",
+  "email": "rogerio.tjsp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2024",
+  "whatsapp": "(11) 99908-0141",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 100.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "29987",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-27 10:10:12",
+      "data_hora_confirmacao": "2025-05-27 10:13:51",
+      "data_hora_confirmacao_pagamento": "2025-05-27 10:13:51",
+      "valor_total_produtos": 29.4,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 29.4,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30410",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-26 12:04:00",
+      "data_hora_confirmacao": "2025-06-26 12:10:07",
+      "data_hora_confirmacao_pagamento": "2025-06-26 12:10:07",
+      "valor_total_produtos": 28.12,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 28.12,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30880",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-23 11:15:16",
+      "data_hora_confirmacao": "2025-07-23 11:16:58",
+      "data_hora_confirmacao_pagamento": "2025-07-23 11:16:58",
+      "valor_total_produtos": 43.34,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 43.34,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45755": {
+      "codigo": "45755",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C771) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47504": {
+      "codigo": "47504",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C882)     - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "50691": {
+      "codigo": "50691",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

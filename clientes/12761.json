@@ -1,0 +1,45 @@
+{
+  "codigo": "12761",
+  "nome": "JOÃO LUIZ",
+  "email": "jotalsilva123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(32) 99902-0449",
+  "cidade": "Ubá",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "16507",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 23:25:02",
+      "data_hora_confirmacao": "2024-07-20 10:01:05",
+      "data_hora_confirmacao_pagamento": "2024-07-20 10:00:17",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 16.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.9,
+      "desconto": 0,
+      "cidade": "Ubá",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24810": {
+      "codigo": "24810",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

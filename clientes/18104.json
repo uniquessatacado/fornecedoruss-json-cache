@@ -1,0 +1,80 @@
+{
+  "codigo": "18104",
+  "nome": "DIEGO SOARES DOS SANTOS",
+  "email": "soaresdossantosd04@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/12/2024",
+  "whatsapp": "(11) 94203-5773",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 120.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "25727",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-04 22:25:01",
+      "data_hora_confirmacao": "2024-12-04 22:29:08",
+      "data_hora_confirmacao_pagamento": "2024-12-04 22:29:08",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 83.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26373",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-13 16:27:49",
+      "data_hora_confirmacao": "2024-12-13 16:31:58",
+      "data_hora_confirmacao_pagamento": "2024-12-13 16:31:58",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36285": {
+      "codigo": "36285",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-VRM-DSL) (MD2-OFF-DSL) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36306": {
+      "codigo": "36306",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD7-AZ-DSL) (MD4-OFF-DSL) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37617": {
+      "codigo": "37617",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE TERMO GEL (C38) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "3437",
+  "nome": "CLEITON ALVES DA COSTA",
+  "email": "Cleitonalvesdacosta3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(11) 96413-1075",
+  "cidade": "Francisco Morato",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 99.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301603",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 11:01:50",
+      "data_hora_confirmacao": "2023-10-11 11:46:12",
+      "data_hora_confirmacao_pagamento": "2023-10-11 11:46:20",
+      "valor_total_produtos": 89.9,
+      "valor_frete": 9.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 99.04,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.23Double X": {
+      "codigo": "CD32.23Double X",
+      "titulo": "Óculos  Double X - Preta - Cor da Armação: Prata - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.25GG": {
+      "codigo": "CD02.25GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Ambar - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    }
+  }
+}

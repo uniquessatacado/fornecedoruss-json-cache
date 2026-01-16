@@ -1,0 +1,705 @@
+{
+  "codigo": "42",
+  "nome": "JOSÉ AUGUSTO CARDOSO",
+  "email": "augusto.cardoso01@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/03/2023",
+  "whatsapp": "(21) 9702-23690",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 13,
+  "valor_total_comprado": 2303.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300094",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-16 16:26:35",
+      "data_hora_confirmacao": "2023-09-16 16:30:08",
+      "data_hora_confirmacao_pagamento": "2023-09-16 16:29:59",
+      "valor_total_produtos": 524,
+      "valor_frete": 38.73,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 562.73,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300143",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-18 14:17:08",
+      "data_hora_confirmacao": "2023-09-18 14:50:39",
+      "data_hora_confirmacao_pagamento": "2023-09-18 14:50:11",
+      "valor_total_produtos": 27,
+      "valor_frete": 18.93,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 45.93,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301720",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-13 15:45:11",
+      "data_hora_confirmacao": "2023-10-13 15:47:26",
+      "data_hora_confirmacao_pagamento": "2023-10-13 15:47:36",
+      "valor_total_produtos": 68.5,
+      "valor_frete": 13.03,
+      "frete": "JADLOG",
+      "valor_total_pedido": 81.53,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2525",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-31 17:51:00",
+      "data_hora_confirmacao": "2023-11-01 11:42:18",
+      "data_hora_confirmacao_pagamento": "2023-11-01 11:42:30",
+      "valor_total_produtos": 315,
+      "valor_frete": 20.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 335.5,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3421",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-21 18:33:44",
+      "data_hora_confirmacao": "2023-11-23 18:48:14",
+      "data_hora_confirmacao_pagamento": "2023-11-23 18:48:27",
+      "valor_total_produtos": 171,
+      "valor_frete": 17.85,
+      "frete": "JADLOG",
+      "valor_total_pedido": 188.85,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19351",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 14:45:32",
+      "data_hora_confirmacao": "2024-08-23 11:31:03",
+      "data_hora_confirmacao_pagamento": "2024-08-23 11:30:57",
+      "valor_total_produtos": 85.96,
+      "valor_frete": 15.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 101.47,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19984",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-30 18:02:22",
+      "data_hora_confirmacao": "2024-08-31 12:10:39",
+      "data_hora_confirmacao_pagamento": "2024-08-31 12:10:31",
+      "valor_total_produtos": 374.9,
+      "valor_frete": 27.98,
+      "frete": "JADLOG",
+      "valor_total_pedido": 402.88,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20044",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-31 12:01:17",
+      "data_hora_confirmacao": "2024-09-02 11:54:25",
+      "data_hora_confirmacao_pagamento": "2024-09-02 11:54:19",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 31.99,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23629",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 11:57:01",
+      "data_hora_confirmacao": "2024-11-01 16:20:30",
+      "data_hora_confirmacao_pagamento": "2024-11-01 16:20:24",
+      "valor_total_produtos": 120.16,
+      "valor_frete": 17.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 137.79,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25580",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 16:04:39",
+      "data_hora_confirmacao": "2024-12-03 18:18:09",
+      "data_hora_confirmacao_pagamento": "2024-12-03 18:18:09",
+      "valor_total_produtos": 99.98,
+      "valor_frete": 15.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.16,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28623",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-10 16:17:31",
+      "data_hora_confirmacao": "2025-03-10 16:20:09",
+      "data_hora_confirmacao_pagamento": "2025-03-10 16:20:09",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 15.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 98.36,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28918",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-03-24 13:25:45",
+      "data_hora_confirmacao": "2025-03-24 13:27:12",
+      "data_hora_confirmacao_pagamento": "2025-03-24 13:27:12",
+      "valor_total_produtos": 88.33,
+      "valor_frete": 13.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.27,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30038",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-28 22:47:57",
+      "data_hora_confirmacao": "2025-05-28 22:49:54",
+      "data_hora_confirmacao_pagamento": "2025-05-28 22:49:54",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.13,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25708": {
+      "codigo": "25708",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "27154": {
+      "codigo": "27154",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27744": {
+      "codigo": "27744",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte bordada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "28346": {
+      "codigo": "28346",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28474": {
+      "codigo": "28474",
+      "titulo": "Boné Super Premium - CALVIN KLEIN termogel - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "28495": {
+      "codigo": "28495",
+      "titulo": "Boné Super Premium - LACOSTE bordado - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28653": {
+      "codigo": "28653",
+      "titulo": "Boné Super Premium - QUIKSILVER bordado - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "28796": {
+      "codigo": "28796",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte em bordado - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29418": {
+      "codigo": "29418",
+      "titulo": "Camisa de Time REGATA (Qualidade Nacional Premium) - FLAMENGO - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "29419": {
+      "codigo": "29419",
+      "titulo": "Camisa de Time REGATA (Qualidade Nacional Premium) - FLAMENGO - Tamanho: P - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29424": {
+      "codigo": "29424",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "29445": {
+      "codigo": "29445",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID - Tamanho: G - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29446": {
+      "codigo": "29446",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID - Tamanho: GG - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29454": {
+      "codigo": "29454",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30690": {
+      "codigo": "30690",
+      "titulo": "Chinelo NIKE AIR MAX CIRRO  - COR CHINELO: AZUL MARINHO/CINZA - Marca: Nike - MODELO CHINELO: AIR MAX CIRRO - TAMANHO CHINELO: 44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31425": {
+      "codigo": "31425",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "32766": {
+      "codigo": "32766",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35991": {
+      "codigo": "35991",
+      "titulo": "Camiseta malha chines autentica importada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "36038": {
+      "codigo": "36038",
+      "titulo": "Camiseta malha chines autentica importada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    },
+    "41222": {
+      "codigo": "41222",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C356)- Flamengo LT14A - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "41245": {
+      "codigo": "41245",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C371)- Flamengo LT14A  - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "42959": {
+      "codigo": "42959",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 25/26 TORCEDOR - (envio direto da fabrica) - Tamanho: G2 - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48945": {
+      "codigo": "48945",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48953": {
+      "codigo": "48953",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1103) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.44G": {
+      "codigo": "CD01.44G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: G - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.44GG": {
+      "codigo": "CD01.44GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: GG - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD10.2G": {
+      "codigo": "CD10.2G",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD15.4G": {
+      "codigo": "CD15.4G",
+      "titulo": "Camiseta Peruana com Elastano - Armani - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.16G": {
+      "codigo": "CD02.16G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD10.1G": {
+      "codigo": "CD10.1G",
+      "titulo": "Camiseta Egípcia Ultra Luxo - Armani - Cor: Branca - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD15.3M": {
+      "codigo": "CD15.3M",
+      "titulo": "Camiseta Peruana com Elastano - Balmain - Cor: Vermelha - Marca: Balmain - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "CD19.1GG": {
+      "codigo": "CD19.1GG",
+      "titulo": "Bermuda Moletom Premium - Boss - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Moletom Premium ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD16.1": {
+      "codigo": "CD16.1",
+      "titulo": "Camisetas de Time Tailandesas - Brasil - Tamanho: 2XL - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD25.2": {
+      "codigo": "CD25.2",
+      "titulo": "SHOULDER BAG - Adidas - Cor: Preto e Azul - Marca: Adidas",
+      "categoria_principal": "BOLSAS BAG",
+      "categoria": "BOLSAS BAG",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD02.14G": {
+      "codigo": "CD02.14G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.15G": {
+      "codigo": "CD02.15G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Boss (Termogel) - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD06.1G1": {
+      "codigo": "CD06.1G1",
+      "titulo": "Camiseta Egipicia Pima Luxo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Pima Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD15.5GG": {
+      "codigo": "CD15.5GG",
+      "titulo": "Camiseta Peruana com Elastano -  - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD01.49G": {
+      "codigo": "CD01.49G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.29GG - TOMMY": {
+      "codigo": "CD24.29GG - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Azul Marinho - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.40": {
+      "codigo": "CD16.40",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10    - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: M - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.52M": {
+      "codigo": "CD01.52M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Argentina - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.69": {
+      "codigo": "CD01.69",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ALEMANHA  LT27.10    - Tamanho: G - Times : Alemanha",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD27.11": {
+      "codigo": "CD27.11",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10  - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD01.83": {
+      "codigo": "CD01.83",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ARGENTINA   LT10.11  - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.77": {
+      "codigo": "CD01.77",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11  - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.48G": {
+      "codigo": "CD01.48G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: G - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD43.19": {
+      "codigo": "CD43.19",
+      "titulo": "Boné Premium - ARMANI  LT24.10   - Cor: Azul",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "9081",
+  "nome": "FABIO PEREZ FERREIRA",
+  "email": "fabioperezferreira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/05/2024",
+  "whatsapp": "(17) 98815-9358",
+  "cidade": "Bebedouro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "11366",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-05 19:56:34",
+      "data_hora_confirmacao": "2024-05-06 15:18:18",
+      "data_hora_confirmacao_pagamento": "2024-05-06 15:18:08",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 20.43,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.41,
+      "desconto": 0,
+      "cidade": "Bebedouro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18048": {
+      "codigo": "18048",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

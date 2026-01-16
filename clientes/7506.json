@@ -1,0 +1,53 @@
+{
+  "codigo": "7506",
+  "nome": "EMELY SILVA",
+  "email": "emelys1704@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(19) 98317-0767",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "9327",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 12:52:40",
+      "data_hora_confirmacao": "2024-04-03 15:25:46",
+      "data_hora_confirmacao_pagamento": "2024-04-03 15:25:41",
+      "valor_total_produtos": 107.48,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 107.48,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.133g": {
+      "codigo": "CD02.133g",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

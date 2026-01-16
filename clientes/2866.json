@@ -1,0 +1,88 @@
+{
+  "codigo": "2866",
+  "nome": "FABRÍCIO CEMIN",
+  "email": "fabricemin@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(54) 99665-0348",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 183.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300728",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 22:46:16",
+      "data_hora_confirmacao": "2023-09-26 22:52:56",
+      "data_hora_confirmacao_pagamento": "2023-09-26 22:53:08",
+      "valor_total_produtos": 116.5,
+      "valor_frete": 24.68,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 141.18,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300951",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 13:35:11",
+      "data_hora_confirmacao": "2023-09-29 14:28:14",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 42.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 42.5,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.3P": {
+      "codigo": "CD07.3P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci ( Bordado com a linha madeira) - Cor: OffWhite - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.2P": {
+      "codigo": "CD33.2P",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    }
+  }
+}

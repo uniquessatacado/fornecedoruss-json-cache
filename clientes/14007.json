@@ -1,0 +1,69 @@
+{
+  "codigo": "14007",
+  "nome": "GILBERTO EPIFANIO",
+  "email": "gil123epifanio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(17) 99682-6395",
+  "cidade": "Colômbia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 185.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "20444",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 19:25:25",
+      "data_hora_confirmacao": "2024-09-09 11:48:46",
+      "data_hora_confirmacao_pagamento": "2024-09-09 11:48:38",
+      "valor_total_produtos": 158.96,
+      "valor_frete": 26.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 185.89,
+      "desconto": 0,
+      "cidade": "Colômbia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26637": {
+      "codigo": "26637",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO VERMELHO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29114": {
+      "codigo": "29114",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29133": {
+      "codigo": "29133",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: CHUMBO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29143": {
+      "codigo": "29143",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

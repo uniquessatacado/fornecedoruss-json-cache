@@ -1,0 +1,80 @@
+{
+  "codigo": "3263",
+  "nome": "GUSTAVO MORAIS DE ALMEIDA",
+  "email": "gustavomorais3110@homail.com",
+  "sexo": "0",
+  "data_cadastro": "04/10/2023",
+  "whatsapp": "(19) 99224-2294",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 204,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301274",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-04 18:57:31",
+      "data_hora_confirmacao": "2023-10-04 22:33:56",
+      "data_hora_confirmacao_pagamento": "2023-10-05 18:13:36",
+      "valor_total_produtos": 99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301850",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-17 19:16:19",
+      "data_hora_confirmacao": "2023-10-17 19:18:41",
+      "data_hora_confirmacao_pagamento": "2023-10-20 16:59:22",
+      "valor_total_produtos": 105,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 105,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.30G": {
+      "codigo": "CD17.30G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.12M": {
+      "codigo": "CD39.12M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.12G": {
+      "codigo": "CD39.12G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

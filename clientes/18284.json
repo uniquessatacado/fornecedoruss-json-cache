@@ -1,0 +1,61 @@
+{
+  "codigo": "18284",
+  "nome": "DIEGO HENRIQUE DIAS DE SOUZA",
+  "email": "dhds15111992@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2024",
+  "whatsapp": "(21) 97143-0759",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "30776",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-16 18:16:58",
+      "data_hora_confirmacao": "2025-07-16 18:18:46",
+      "data_hora_confirmacao_pagamento": "2025-07-16 18:18:46",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 16.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 141.57,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50762": {
+      "codigo": "50762",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50783": {
+      "codigo": "50783",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50883": {
+      "codigo": "50883",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

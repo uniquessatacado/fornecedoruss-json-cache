@@ -1,0 +1,69 @@
+{
+  "codigo": "17080",
+  "nome": "ERICK RIBEIRO BRITO",
+  "email": "britoerick796@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2024",
+  "whatsapp": "(99) 98497-2703",
+  "cidade": "São Raimundo das Mangabeiras",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "23636",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 12:59:29",
+      "data_hora_confirmacao": "2024-11-01 16:16:22",
+      "data_hora_confirmacao_pagamento": "2024-11-01 16:15:51",
+      "valor_total_produtos": 64.96,
+      "valor_frete": 56.46,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 121.42,
+      "desconto": 0,
+      "cidade": "São Raimundo das Mangabeiras",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26366": {
+      "codigo": "26366",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28382": {
+      "codigo": "28382",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30595": {
+      "codigo": "30595",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "31791": {
+      "codigo": "31791",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

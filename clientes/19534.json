@@ -1,0 +1,69 @@
+{
+  "codigo": "19534",
+  "nome": "PEDRO HENRIQUE",
+  "email": "pedrokingff14@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2025",
+  "whatsapp": "(31) 98449-8774",
+  "cidade": "Conselheiro Lafaiete",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "28690",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-13 10:17:14",
+      "data_hora_confirmacao": "2025-03-13 10:19:11",
+      "data_hora_confirmacao_pagamento": "2025-03-13 10:19:11",
+      "valor_total_produtos": 75.81,
+      "valor_frete": 16.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.71,
+      "desconto": 0,
+      "cidade": "Conselheiro Lafaiete",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42488": {
+      "codigo": "42488",
+      "titulo": "Cueca Peruana LT29A (C636) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42625": {
+      "codigo": "42625",
+      "titulo": "Cueca Peruana LT29A (C641) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "42639": {
+      "codigo": "42639",
+      "titulo": "Cueca Peruana LT29A (C641) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "43400": {
+      "codigo": "43400",
+      "titulo": "Cueca Peruana LT32A (C671) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

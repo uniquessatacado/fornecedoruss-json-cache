@@ -1,0 +1,53 @@
+{
+  "codigo": "9398",
+  "nome": "ROSINERIO GOMES DA SILVA",
+  "email": "neriogomes1@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/05/2024",
+  "whatsapp": "(83) 8863-9200",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "11832",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 20:46:27",
+      "data_hora_confirmacao": "2024-05-15 09:49:29",
+      "data_hora_confirmacao_pagamento": "2024-05-15 09:49:18",
+      "valor_total_produtos": 57.98,
+      "valor_frete": 21.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.03,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18532": {
+      "codigo": "18532",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "18538": {
+      "codigo": "18538",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "4243",
+  "nome": "EVERTON TADEU SILVA VIEIRA",
+  "email": "evertonvieira899@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(11) 91441-9026",
+  "cidade": "São Roque",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 58.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "3589",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-24 21:02:38",
+      "data_hora_confirmacao": "2023-11-25 16:27:28",
+      "data_hora_confirmacao_pagamento": "2023-11-25 16:28:59",
+      "valor_total_produtos": 48,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 58.74,
+      "desconto": 0,
+      "cidade": "São Roque",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD64.2": {
+      "codigo": "CD64.2",
+      "titulo": "CAMISETAS 30.1 LUXO - QUIKSILVER  LT22.11 - Cor: Cinza - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD65.1": {
+      "codigo": "CD65.1",
+      "titulo": "Camiseta 30.1 com Elastano - HUGO BOSS  LT23.11 - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

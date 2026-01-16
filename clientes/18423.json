@@ -1,0 +1,77 @@
+{
+  "codigo": "18423",
+  "nome": "RAFAEL MENDES",
+  "email": "jump.rafael@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2024",
+  "whatsapp": "(11) 96351-3190",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 134.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "26565",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 11:30:51",
+      "data_hora_confirmacao": "2024-12-16 11:34:46",
+      "data_hora_confirmacao_pagamento": "2024-12-16 11:34:46",
+      "valor_total_produtos": 113.9,
+      "valor_frete": 20.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 134.05,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37857": {
+      "codigo": "37857",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "37858": {
+      "codigo": "37858",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "37905": {
+      "codigo": "37905",
+      "titulo": "MEIAS PERUANAS (C72) - Marca: High - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "HIGH",
+      "quantidade": "2"
+    },
+    "37910": {
+      "codigo": "37910",
+      "titulo": "MEIAS PERUANAS (C71) - Marca: Vans - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "Vans",
+      "quantidade": "2"
+    },
+    "37921": {
+      "codigo": "37921",
+      "titulo": "MEIAS PERUANAS (C74) - Marca: Hugo Boss - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

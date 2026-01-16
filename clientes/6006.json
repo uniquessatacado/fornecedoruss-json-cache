@@ -1,0 +1,45 @@
+{
+  "codigo": "6006",
+  "nome": "ROGÉRIO RIBEIRO",
+  "email": "rogerio.5100@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(17) 99709-5100",
+  "cidade": "Bebedouro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 58.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "7088",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 15:38:31",
+      "data_hora_confirmacao": "2024-02-05 14:38:24",
+      "data_hora_confirmacao_pagamento": "2024-02-05 14:37:10",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 18.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 58.12,
+      "desconto": 0,
+      "cidade": "Bebedouro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

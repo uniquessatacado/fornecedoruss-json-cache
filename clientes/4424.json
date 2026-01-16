@@ -1,0 +1,112 @@
+{
+  "codigo": "4424",
+  "nome": "RENAN DE SOUZA DO SACRAMENTO",
+  "email": "sxuza@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/12/2023",
+  "whatsapp": "(22) 99883-7754",
+  "cidade": "Rio das Ostras",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 252.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "3966",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 15:10:00",
+      "data_hora_confirmacao": "2023-12-05 12:50:50",
+      "data_hora_confirmacao_pagamento": "2023-12-05 12:50:59",
+      "valor_total_produtos": 71,
+      "valor_frete": 17.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.78,
+      "desconto": 0,
+      "cidade": "Rio das Ostras",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4428",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 17:50:59",
+      "data_hora_confirmacao": "2023-12-11 17:55:38",
+      "data_hora_confirmacao_pagamento": "2023-12-11 17:55:46",
+      "valor_total_produtos": 142,
+      "valor_frete": 21.25,
+      "frete": "JADLOG",
+      "valor_total_pedido": 163.25,
+      "desconto": 0,
+      "cidade": "Rio das Ostras",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Preto - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD66.8": {
+      "codigo": "CD66.8",
+      "titulo": "CAMISETA PERUANA LUXO - PRADA   LT23.10 - Cor: Azul Marinho - Marca: Prada - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD01.106": {
+      "codigo": "CD01.106",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO  LT08.12   - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.59": {
+      "codigo": "CD16.59",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT08.11   - Tamanho: G - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

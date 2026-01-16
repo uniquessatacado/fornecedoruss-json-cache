@@ -1,0 +1,77 @@
+{
+  "codigo": "19447",
+  "nome": "FABIO JUNIO MONTINI",
+  "email": "fabiomontine@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "01/03/2025",
+  "whatsapp": "(33) 9846-12152",
+  "cidade": "Alpercata",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 245.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "28500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-01 15:12:59",
+      "data_hora_confirmacao": "2025-03-01 15:17:57",
+      "data_hora_confirmacao_pagamento": "2025-03-01 15:17:57",
+      "valor_total_produtos": 223.03,
+      "valor_frete": 22.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 245.73,
+      "desconto": 0,
+      "cidade": "Alpercata",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40539": {
+      "codigo": "40539",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41747": {
+      "codigo": "41747",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C512) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41866": {
+      "codigo": "41866",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C527) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41905": {
+      "codigo": "41905",
+      "titulo": "Camiseta Suedine Oversized  LT23A (C535) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE PREMIUM OVERSIZED ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42446": {
+      "codigo": "42446",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

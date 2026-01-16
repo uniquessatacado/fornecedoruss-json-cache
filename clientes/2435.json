@@ -1,0 +1,235 @@
+{
+  "codigo": "2435",
+  "nome": "JHONATA DA SILVA E SILVA",
+  "email": "Jhonathan_bsb@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(94) 94991-1511",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 751.5799999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300393",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 16:57:41",
+      "data_hora_confirmacao": "2023-09-21 23:37:25",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:37:19",
+      "valor_total_produtos": 188.5,
+      "valor_frete": 68.4,
+      "frete": "PAC",
+      "valor_total_pedido": 256.9,
+      "desconto": 0,
+      "cidade": "Santana do Araguaia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2416",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-28 16:35:08",
+      "data_hora_confirmacao": "2023-10-31 13:53:40",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:53:50",
+      "valor_total_produtos": 231,
+      "valor_frete": 33.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 264.69,
+      "desconto": 0,
+      "cidade": "Santana do Araguaia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3468",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-22 19:02:57",
+      "data_hora_confirmacao": "2023-11-23 09:39:24",
+      "data_hora_confirmacao_pagamento": "2023-11-23 09:39:36",
+      "valor_total_produtos": 189,
+      "valor_frete": 40.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 229.99,
+      "desconto": 0,
+      "cidade": "Santana do Araguaia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.35M": {
+      "codigo": "CD01.35M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: M - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.44M": {
+      "codigo": "CD01.44M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: M - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD10.2M": {
+      "codigo": "CD10.2M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Vermelha - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD10.8G": {
+      "codigo": "CD10.8G",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.2M - Nike": {
+      "codigo": "CD24.2M - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.6M - Lacoste": {
+      "codigo": "CD24.6M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.10M - Lacoste": {
+      "codigo": "CD24.10M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.20M - Gucci": {
+      "codigo": "CD24.20M - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD01.56G": {
+      "codigo": "CD01.56G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami  LT19.10 - Tamanho: G - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD39.9M": {
+      "codigo": "CD39.9M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD09.1M": {
+      "codigo": "CD09.1M",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.37M": {
+      "codigo": "CD17.37M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD64.6": {
+      "codigo": "CD64.6",
+      "titulo": "CAMISETAS 30.1 LUXO - NIKE   LT22.11    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD58.1": {
+      "codigo": "CD58.1",
+      "titulo": "REGATA STANDARD FIT - NIKE  LT16.11 - Cor: Preto Mescla - Marca: Nike - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS STANDARD FIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

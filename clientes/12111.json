@@ -1,0 +1,45 @@
+{
+  "codigo": "12111",
+  "nome": "EDIVALDO DE OLIVEIRA ROSA",
+  "email": "edivaldorosa365@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/07/2024",
+  "whatsapp": "(15) 99822-9995",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 98.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "15360",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 14:16:07",
+      "data_hora_confirmacao": "2024-07-10 12:41:51",
+      "data_hora_confirmacao_pagamento": "2024-07-10 12:41:44",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 10.12,
+      "frete": "SEDEX",
+      "valor_total_pedido": 98.11,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21125": {
+      "codigo": "21125",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "codigo": "1052",
+  "nome": "LEANDRO MONTEIRO DE DEUS",
+  "email": "Le_tathi@yahoo.com.br",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(11) 97247-0151",
+  "cidade": "Mogi das Cruzes",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 9,
+  "valor_total_comprado": 2230.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300027",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-13 23:45:48",
+      "data_hora_confirmacao": "2023-09-14 01:40:19",
+      "data_hora_confirmacao_pagamento": "2023-09-14 01:40:52",
+      "valor_total_produtos": 240,
+      "valor_frete": 21.99,
+      "frete": "SEDEX",
+      "valor_total_pedido": 261.99,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300688",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 14:37:07",
+      "data_hora_confirmacao": "2023-09-25 15:00:48",
+      "data_hora_confirmacao_pagamento": "2023-09-25 15:00:43",
+      "valor_total_produtos": 230,
+      "valor_frete": 20.22,
+      "frete": "SEDEX",
+      "valor_total_pedido": 250.22,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301007",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 19:32:41",
+      "data_hora_confirmacao": "2023-10-03 14:02:27",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 60,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 60,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301242",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-04 13:58:28",
+      "data_hora_confirmacao": "2023-10-09 16:51:27",
+      "data_hora_confirmacao_pagamento": "2023-10-09 16:51:35",
+      "valor_total_produtos": 60,
+      "valor_frete": 10.16,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.16,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301433",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-07 07:02:08",
+      "data_hora_confirmacao": "2023-10-09 16:51:06",
+      "data_hora_confirmacao_pagamento": "2023-10-09 16:51:18",
+      "valor_total_produtos": 145,
+      "valor_frete": 11.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 156.39,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302006",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 18:33:17",
+      "data_hora_confirmacao": "2023-10-23 11:28:06",
+      "data_hora_confirmacao_pagamento": "2023-10-23 11:27:57",
+      "valor_total_produtos": 150,
+      "valor_frete": 14.05,
+      "frete": "SEDEX",
+      "valor_total_pedido": 164.05,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2643",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 14:36:13",
+      "data_hora_confirmacao": "2023-11-06 16:07:23",
+      "data_hora_confirmacao_pagamento": "2023-11-06 16:07:34",
+      "valor_total_produtos": 905,
+      "valor_frete": 26.66,
+      "frete": "SEDEX",
+      "valor_total_pedido": 931.66,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2951",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 14:54:10",
+      "data_hora_confirmacao": "2023-11-09 16:09:31",
+      "data_hora_confirmacao_pagamento": "2023-11-09 16:09:41",
+      "valor_total_produtos": 246,
+      "valor_frete": 16.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 262.52,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15582",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 18:31:35",
+      "data_hora_confirmacao": "2024-07-12 13:12:03",
+      "data_hora_confirmacao_pagamento": "2024-07-12 13:11:58",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 10.12,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.11,
+      "desconto": 0,
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23601": {
+      "codigo": "23601",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: G - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.3G": {
+      "codigo": "CD01.3G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.3GG": {
+      "codigo": "CD01.3GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.43GG": {
+      "codigo": "CD01.43GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.11GG": {
+      "codigo": "CD01.11GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Santos - Tamanho: GG - Times : Santos",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.1GG": {
+      "codigo": "CD01.1GG",
+      "titulo": "Camisa de time (qualidade premium) Palmeiras - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.24G": {
+      "codigo": "CD16.24G",
+      "titulo": "Camisetas de Time Tailandesas - Escocia - Tamanho: G - Times : Escocia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.11G": {
+      "codigo": "CD16.11G",
+      "titulo": "Camisetas de Time Tailandesas - Palmeiras - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.1P": {
+      "codigo": "CD01.1P",
+      "titulo": "Camisa de time (qualidade premium) Palmeiras - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.20P": {
+      "codigo": "CD01.20P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: P - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.20G": {
+      "codigo": "CD01.20G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.20GG": {
+      "codigo": "CD01.20GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.1G": {
+      "codigo": "CD01.1G",
+      "titulo": "Camisa de time (qualidade premium) Palmeiras - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.51G": {
+      "codigo": "CD01.51G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter de Milão - Tamanho: G - Times : Inter de Milão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.54GG": {
+      "codigo": "CD01.54GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Boca Jr - Tamanho: GG - Times : Boca Jr",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.11M": {
+      "codigo": "CD01.11M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Santos - Tamanho: M - Times : Santos",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.55G": {
+      "codigo": "CD01.55G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: G - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.55M": {
+      "codigo": "CD01.55M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.33M": {
+      "codigo": "CD16.33M",
+      "titulo": "Camisetas de Time Tailandesas - Palmeiras Feminina - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.58P": {
+      "codigo": "CD01.58P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo  LT19.10 - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.56G": {
+      "codigo": "CD01.56G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami  LT19.10 - Tamanho: G - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.57G": {
+      "codigo": "CD01.57G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras LT19.10 - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.47G": {
+      "codigo": "CD01.47G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.35G": {
+      "codigo": "CD01.35G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.47": {
+      "codigo": "CD16.47",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT03.11    - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 5
+    },
+    "CD16.38": {
+      "codigo": "CD16.38",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT31.10   - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 7
+    },
+    "CD01.62": {
+      "codigo": "CD01.62",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.61": {
+      "codigo": "CD01.61",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    },
+    "CD16.44": {
+      "codigo": "CD16.44",
+      "titulo": "Camisetas de Time Tailandesas - INTER MIAMI  LT03.11 - Tamanho: GG - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.33": {
+      "codigo": "CD16.33",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10 - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.46": {
+      "codigo": "CD16.46",
+      "titulo": "Camisetas de Time Tailandesas - GREMIO  LT03.11   - Tamanho: GG - Times : Gremio",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 6
+    }
+  }
+}

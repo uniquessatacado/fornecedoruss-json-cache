@@ -1,0 +1,53 @@
+{
+  "codigo": "10633",
+  "nome": "ALEXANDRE JÚNIOR OLIVEIRA",
+  "email": "alexandrejunior8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(19) 99150-7302",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "13314",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-07 16:39:07",
+      "data_hora_confirmacao": "2024-06-10 15:32:34",
+      "data_hora_confirmacao_pagamento": "2024-06-10 15:32:28",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 100.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20102": {
+      "codigo": "20102",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20397": {
+      "codigo": "20397",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

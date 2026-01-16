@@ -1,0 +1,77 @@
+{
+  "codigo": "19236",
+  "nome": "BRUNO HUDSON GASPARINI",
+  "email": "brunogasparinnii@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/02/2025",
+  "whatsapp": "(19) 98961-0306",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 186.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "28064",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-02-11 17:56:01",
+      "data_hora_confirmacao": "2025-02-11 17:57:33",
+      "data_hora_confirmacao_pagamento": "2025-02-11 17:57:33",
+      "valor_total_produtos": 186.12,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 186.12,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38505": {
+      "codigo": "38505",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39544": {
+      "codigo": "39544",
+      "titulo": "Bermuda Microfibra Ultra ZIPER (C207) LT8A - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39978": {
+      "codigo": "39978",
+      "titulo": "Camiseta Suedine ultra -(C220) ARTE EM DTF LT4A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41170": {
+      "codigo": "41170",
+      "titulo": "Bermuda Ultra Dry LT16A  (C315) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Ultra Dry",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41290": {
+      "codigo": "41290",
+      "titulo": "Camiseta Ultra Dry (C271) - Cor: PRETO/BRANCO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "20148",
+  "nome": "DARLIVAN LIMA DE MOURA",
+  "email": "darlivanmoura0@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/06/2025",
+  "whatsapp": "(11) 99279-6508",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 99.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "30411",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-26 13:10:13",
+      "data_hora_confirmacao": "2025-06-26 13:20:09",
+      "data_hora_confirmacao_pagamento": "2025-06-26 13:20:09",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 15.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 99.14,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48530": {
+      "codigo": "48530",
+      "titulo": "Bermuda Armani Microfibra Ultra | LT60A (C1035) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48976": {
+      "codigo": "48976",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT65A (C1107) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

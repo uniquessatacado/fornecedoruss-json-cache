@@ -1,0 +1,69 @@
+{
+  "codigo": "12505",
+  "nome": "GONÇALO JUNIOR LIMA ANDRADE",
+  "email": "goncalo.jrlima@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/07/2024",
+  "whatsapp": "(16) 99278-9715",
+  "cidade": "São Carlos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 193.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "16120",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-16 09:49:37",
+      "data_hora_confirmacao": "2024-07-16 16:23:45",
+      "data_hora_confirmacao_pagamento": "2024-07-16 16:23:40",
+      "valor_total_produtos": 173.96,
+      "valor_frete": 19.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 193.13,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22964": {
+      "codigo": "22964",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23109": {
+      "codigo": "23109",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24149": {
+      "codigo": "24149",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24166": {
+      "codigo": "24166",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

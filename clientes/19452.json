@@ -1,0 +1,77 @@
+{
+  "codigo": "19452",
+  "nome": "PAULO VINICIUS",
+  "email": "paulovds.13@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/03/2025",
+  "whatsapp": "(11) 98731-3100",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "28514",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-02 09:38:20",
+      "data_hora_confirmacao": "2025-03-02 09:40:52",
+      "data_hora_confirmacao_pagamento": "2025-03-02 09:40:52",
+      "valor_total_produtos": 50,
+      "valor_frete": 12.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.14,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40735": {
+      "codigo": "40735",
+      "titulo": "Cuecas Peruanas (C262)    - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42569": {
+      "codigo": "42569",
+      "titulo": "Cueca Peruana LT29A (C639) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42583": {
+      "codigo": "42583",
+      "titulo": "Cueca Peruana LT29A (C639) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42632": {
+      "codigo": "42632",
+      "titulo": "Cueca Peruana LT29A (C641) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42646": {
+      "codigo": "42646",
+      "titulo": "Cueca Peruana LT29A (C641) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

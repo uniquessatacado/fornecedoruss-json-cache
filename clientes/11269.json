@@ -1,0 +1,72 @@
+{
+  "codigo": "11269",
+  "nome": "DOUGLAS PRADO CANTUARIO",
+  "email": "dougvitin@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(11) 9642-56250",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 142.82999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "14227",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 17:54:19",
+      "data_hora_confirmacao": "2024-06-21 12:41:05",
+      "data_hora_confirmacao_pagamento": "2024-06-21 12:40:59",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.14,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 08:55:10",
+      "data_hora_confirmacao": "2024-08-28 11:40:44",
+      "data_hora_confirmacao_pagamento": "2024-08-28 11:40:51",
+      "valor_total_produtos": 56.69,
+      "valor_frete": 11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.69,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 35,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "21790": {
+      "codigo": "21790",
+      "titulo": "Óculos OAKLEY - ARMAÇÃO: TIO 2 PRATA+CHUMBO - COR DA LENTE: GREEN JADE - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "28812": {
+      "codigo": "28812",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

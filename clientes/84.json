@@ -1,0 +1,163 @@
+{
+  "codigo": "84",
+  "nome": "GUILHERME MAGNANI",
+  "email": "guilhermemagnani1245@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/03/2023",
+  "whatsapp": "(19) 99600-2960",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 400.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "4186",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-07 11:08:41",
+      "data_hora_confirmacao": "2023-12-07 23:23:35",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:23:46",
+      "valor_total_produtos": 105,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 115,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7878",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-01 09:30:35",
+      "data_hora_confirmacao": "2024-03-01 10:56:47",
+      "data_hora_confirmacao_pagamento": "2024-03-01 10:56:30",
+      "valor_total_produtos": 140.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 140.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22245",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-04 10:24:31",
+      "data_hora_confirmacao": "2024-10-04 17:17:26",
+      "data_hora_confirmacao_pagamento": "2024-10-04 17:17:07",
+      "valor_total_produtos": 134.96,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 144.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24117": {
+      "codigo": "24117",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29498": {
+      "codigo": "29498",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  - Tamanho: M - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30768": {
+      "codigo": "30768",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31876": {
+      "codigo": "31876",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.31": {
+      "codigo": "CD39.31",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.32": {
+      "codigo": "CD39.32",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.30": {
+      "codigo": "CD39.30",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.22": {
+      "codigo": "CD40.22",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  PUMA - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD39.02M": {
+      "codigo": "CD39.02M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.115M": {
+      "codigo": "CD02.115M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

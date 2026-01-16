@@ -1,0 +1,53 @@
+{
+  "codigo": "6436",
+  "nome": "VICTOR EMANOEL",
+  "email": "vitor_r6@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(19) 98987-4398",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "7713",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 12:10:38",
+      "data_hora_confirmacao": "2024-02-27 12:37:08",
+      "data_hora_confirmacao_pagamento": "2024-02-27 12:37:03",
+      "valor_total_produtos": 66.98,
+      "valor_frete": 12.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.84,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.2G": {
+      "codigo": "CD04.2G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.110G": {
+      "codigo": "CD02.110G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

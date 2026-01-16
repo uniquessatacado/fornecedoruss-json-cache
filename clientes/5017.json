@@ -1,0 +1,93 @@
+{
+  "codigo": "5017",
+  "nome": "AMANDA CARDOSO",
+  "email": "cardosoamanda109@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(19) 99312-7677",
+  "cidade": "Monte Mor",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 207.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "5692",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 10:22:07",
+      "data_hora_confirmacao": "2023-12-23 10:23:05",
+      "data_hora_confirmacao_pagamento": "2023-12-23 10:22:42",
+      "valor_total_produtos": 207.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 207.96,
+      "desconto": 0,
+      "cidade": "Monte Mor",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.79": {
+      "codigo": "CD01.79",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11   - Tamanho: M - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43P": {
+      "codigo": "CD01.43P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: P - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto com Vermelho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

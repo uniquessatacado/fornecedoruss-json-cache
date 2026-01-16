@@ -1,0 +1,77 @@
+{
+  "codigo": "13127",
+  "nome": "GUSTAVO YURI DO NASCIMENTO",
+  "email": "gustavoyuri293@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/07/2024",
+  "whatsapp": "(11) 94327-5451",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 233.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "17382",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-30 18:27:04",
+      "data_hora_confirmacao": "2024-07-31 19:19:43",
+      "data_hora_confirmacao_pagamento": "2024-07-31 19:19:35",
+      "valor_total_produtos": 182.95,
+      "valor_frete": 50.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 233.45,
+      "desconto": 0,
+      "cidade": "Acaraú",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24300": {
+      "codigo": "24300",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24589": {
+      "codigo": "24589",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24919": {
+      "codigo": "24919",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno arte em silk - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24922": {
+      "codigo": "24922",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno arte em silk - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25304": {
+      "codigo": "25304",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

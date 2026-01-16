@@ -1,0 +1,516 @@
+{
+  "codigo": "5165",
+  "nome": "BRUNO MENDES DE OLIVEIRA",
+  "email": "brunomendes1323@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/01/2024",
+  "whatsapp": "(81) 9949-97725",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 6,
+  "valor_total_comprado": 2490.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "6555",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-15 06:41:21",
+      "data_hora_confirmacao": "2024-01-16 13:44:36",
+      "data_hora_confirmacao_pagamento": "2024-01-16 13:44:46",
+      "valor_total_produtos": 455.88,
+      "valor_frete": 40.9,
+      "frete": "PAC",
+      "valor_total_pedido": 496.78,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8482",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-14 17:09:38",
+      "data_hora_confirmacao": "2024-03-14 17:15:53",
+      "data_hora_confirmacao_pagamento": "2024-03-14 17:15:44",
+      "valor_total_produtos": 383.94,
+      "valor_frete": 42.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 426.71,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8734",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 11:03:25",
+      "data_hora_confirmacao": "2024-03-20 13:11:39",
+      "data_hora_confirmacao_pagamento": "2024-03-20 13:11:30",
+      "valor_total_produtos": 339.66,
+      "valor_frete": 38.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 378.27,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10761",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 07:52:46",
+      "data_hora_confirmacao": "2024-04-29 16:16:37",
+      "data_hora_confirmacao_pagamento": "2024-04-29 16:16:27",
+      "valor_total_produtos": 614.87,
+      "valor_frete": 52.49,
+      "frete": "PAC",
+      "valor_total_pedido": 667.36,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11139",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-05-02 14:15:30",
+      "data_hora_confirmacao": "2024-05-02 14:15:30",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 51.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 51.99,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15769",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 13:03:57",
+      "data_hora_confirmacao": "2024-07-12 14:20:09",
+      "data_hora_confirmacao_pagamento": "2024-07-12 14:20:00",
+      "valor_total_produtos": 428.89,
+      "valor_frete": 40.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 469.79,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18355": {
+      "codigo": "18355",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24267": {
+      "codigo": "24267",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24270": {
+      "codigo": "24270",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24273": {
+      "codigo": "24273",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24275": {
+      "codigo": "24275",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24314": {
+      "codigo": "24314",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24323": {
+      "codigo": "24323",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24324": {
+      "codigo": "24324",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24326": {
+      "codigo": "24326",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24327": {
+      "codigo": "24327",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24328": {
+      "codigo": "24328",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.35": {
+      "codigo": "CD39.35",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.54": {
+      "codigo": "CD39.54",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.58": {
+      "codigo": "CD39.58",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD39.49": {
+      "codigo": "CD39.49",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  JORDAN (BORDADA)  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.51": {
+      "codigo": "CD39.51",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) LT04.12    - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.52": {
+      "codigo": "CD39.52",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.01M": {
+      "codigo": "CD39.01M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.04G": {
+      "codigo": "CD39.04G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD39.04M": {
+      "codigo": "CD39.04M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.05M": {
+      "codigo": "CD39.05M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.06M": {
+      "codigo": "CD39.06M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.02G": {
+      "codigo": "CD39.02G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.10m": {
+      "codigo": "CD24.10m",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD24.10g": {
+      "codigo": "CD24.10g",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD24.10G": {
+      "codigo": "CD24.10G",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.10GG": {
+      "codigo": "CD24.10GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.10M": {
+      "codigo": "CD24.10M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.11M": {
+      "codigo": "CD24.11M",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Azul Marinho - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 6
+    },
+    "CD24.11G": {
+      "codigo": "CD24.11G",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Preto - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    },
+    "CD24.11GG": {
+      "codigo": "CD24.11GG",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Cinza - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.12G": {
+      "codigo": "CD24.12G",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 6
+    },
+    "CD24.12M": {
+      "codigo": "CD24.12M",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 6
+    },
+    "CD24.12GG": {
+      "codigo": "CD24.12GG",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Cinza - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.13P": {
+      "codigo": "CD50.13P",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN NEW YORK - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.11P": {
+      "codigo": "CD50.11P",
+      "titulo": "CAMISETA GENUINA COTTON SOFT TURCO - DIESEL - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.10M": {
+      "codigo": "CD50.10M",
+      "titulo": "CAMISETA GENUINA COTTON SOFT TURCO - TOMMY HILFIGER - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD50.10P": {
+      "codigo": "CD50.10P",
+      "titulo": "CAMISETA GENUINA COTTON SOFT TURCO - TOMMY HILFIGER - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD50.08M": {
+      "codigo": "CD50.08M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.08G": {
+      "codigo": "CD50.08G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.03G": {
+      "codigo": "CD50.03G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.03M": {
+      "codigo": "CD50.03M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD50.04M": {
+      "codigo": "CD50.04M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD50.04G": {
+      "codigo": "CD50.04G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD50.02G": {
+      "codigo": "CD50.02G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - PRADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD50.01GG": {
+      "codigo": "CD50.01GG",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - EMPORIO ARMANI - Cor: PRETA - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD50.12GG": {
+      "codigo": "CD50.12GG",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.05M": {
+      "codigo": "CD50.05M",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS BASICO - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "18421",
+  "nome": "YAN MANSUR DUARTE",
+  "email": "yan.mansur@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2024",
+  "whatsapp": "(24) 97401-9573",
+  "cidade": "Volta Redonda",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "26558",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 10:55:04",
+      "data_hora_confirmacao": "2024-12-16 10:59:12",
+      "data_hora_confirmacao_pagamento": "2024-12-16 10:59:12",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 15.09,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.07,
+      "desconto": 0,
+      "cidade": "Volta Redonda",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37054": {
+      "codigo": "37054",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37662": {
+      "codigo": "37662",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

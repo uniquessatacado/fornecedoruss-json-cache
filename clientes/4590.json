@@ -1,0 +1,107 @@
+{
+  "codigo": "4590",
+  "nome": "MIGUEL FRADIQUE",
+  "email": "mbfradique@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/12/2023",
+  "whatsapp": "(21) 99650-6058",
+  "cidade": "Seropédica",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 269.08000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "4402",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 15:54:34",
+      "data_hora_confirmacao": "2023-12-11 17:44:46",
+      "data_hora_confirmacao_pagamento": "2023-12-11 17:44:55",
+      "valor_total_produtos": 87.5,
+      "valor_frete": 17.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.14,
+      "desconto": 0,
+      "cidade": "Seropédica",
+      "estado": "RJ",
+      "percentual_comissao": 25,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4588",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 22:21:44",
+      "data_hora_confirmacao": "2023-12-12 23:21:18",
+      "data_hora_confirmacao_pagamento": "2023-12-12 23:21:27",
+      "valor_total_produtos": 29.67,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 29.67,
+      "desconto": 0,
+      "cidade": "Seropédica",
+      "estado": "RJ",
+      "percentual_comissao": 29,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4634",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 10:06:31",
+      "data_hora_confirmacao": "2023-12-13 13:06:07",
+      "data_hora_confirmacao_pagamento": "2023-12-13 13:06:19",
+      "valor_total_produtos": 116,
+      "valor_frete": 18.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.27,
+      "desconto": 0,
+      "cidade": "Seropédica",
+      "estado": "RJ",
+      "percentual_comissao": 29,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA HIPER CARGO - NIKE SB    LT11.12 - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.14": {
+      "codigo": "CD40.14",
+      "titulo": "BERMUDA MICROFIBRA HIPER - HUGO BOSS  LT11.12 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD57.3 ": {
+      "codigo": "CD57.3 ",
+      "titulo": "REGATAS DRIFIT ULTRA -  LACOSTE  12.12   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "10"
+    }
+  }
+}

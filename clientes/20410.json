@@ -1,0 +1,88 @@
+{
+  "codigo": "20410",
+  "nome": "JONATHAN ROBERTO FRITZKE",
+  "email": "jonathanfritzke123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/08/2025",
+  "whatsapp": "(47) 99784-0285",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 288.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "31367",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-08-21 14:09:46",
+      "data_hora_confirmacao": "2025-08-21 14:11:07",
+      "data_hora_confirmacao_pagamento": "2025-08-21 14:11:07",
+      "valor_total_produtos": 128.1,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 221.9,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31368",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-21 14:09:46",
+      "data_hora_confirmacao": "2025-08-21 14:20:05",
+      "data_hora_confirmacao_pagamento": "2025-08-21 14:20:05",
+      "valor_total_produtos": 42.15,
+      "valor_frete": 24.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.38,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "51034": {
+      "codigo": "51034",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO II 25/26 - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "52554": {
+      "codigo": "52554",
+      "titulo": "Cueca Peruana Tommy (LT031) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "3"
+    },
+    "53052": {
+      "codigo": "53052",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

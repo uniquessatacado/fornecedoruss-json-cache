@@ -1,0 +1,80 @@
+{
+  "codigo": "7133",
+  "nome": "ANDRÉ FERNANDES ROCHA SALES",
+  "email": "andrefernandes.sales@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/03/2024",
+  "whatsapp": "(11) 9849-20698",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 191.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "18350",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-10 16:45:06",
+      "data_hora_confirmacao": "2024-08-12 11:06:42",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:06:35",
+      "valor_total_produtos": 139.96,
+      "valor_frete": 12.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.69,
+      "desconto": 41.99,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 75,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "18399",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 20:41:03",
+      "data_hora_confirmacao": "2024-08-12 11:26:52",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:26:45",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 11.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 75,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "23193": {
+      "codigo": "23193",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "26442": {
+      "codigo": "26442",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26759": {
+      "codigo": "26759",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

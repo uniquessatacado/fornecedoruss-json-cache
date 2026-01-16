@@ -1,0 +1,93 @@
+{
+  "codigo": "14100",
+  "nome": "THIAGO DA SILVA MEDEIROS",
+  "email": "thiago_medeiros1995@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(22) 98146-9926",
+  "cidade": "Santo Antônio de Pádua",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 90.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "18745",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 07:52:38",
+      "data_hora_confirmacao": "2024-08-15 14:25:03",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:24:55",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 20.78,
+      "frete": "JADLOG",
+      "valor_total_pedido": 90.71,
+      "desconto": 0,
+      "cidade": "Santo Antônio de Pádua",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25420": {
+      "codigo": "25420",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25429": {
+      "codigo": "25429",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "27222": {
+      "codigo": "27222",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27225": {
+      "codigo": "27225",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27228": {
+      "codigo": "27228",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27261": {
+      "codigo": "27261",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27291": {
+      "codigo": "27291",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

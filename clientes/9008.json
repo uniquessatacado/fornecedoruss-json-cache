@@ -1,0 +1,85 @@
+{
+  "codigo": "9008",
+  "nome": "HUELITON NASCIMENTO",
+  "email": "huelitonnascimento251@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(48) 9888-03358",
+  "cidade": "Tijucas",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 250.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "11286",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-03 20:20:52",
+      "data_hora_confirmacao": "2024-05-07 16:10:30",
+      "data_hora_confirmacao_pagamento": "2024-05-07 16:10:22",
+      "valor_total_produtos": 226.94,
+      "valor_frete": 23.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 250.67,
+      "desconto": 0,
+      "cidade": "Tijucas",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18026": {
+      "codigo": "18026",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18033": {
+      "codigo": "18033",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: VERDE CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18051": {
+      "codigo": "18051",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD5.01G": {
+      "codigo": "CD5.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD5.01M": {
+      "codigo": "CD5.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "codigo": "5105",
+  "nome": "PEDRO HENRIQUE",
+  "email": "pedrinho153357@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/12/2023",
+  "whatsapp": "(11) 99536-9315",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 233.95999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "6041",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-30 10:52:44",
+      "data_hora_confirmacao": "2023-12-30 10:53:21",
+      "data_hora_confirmacao_pagamento": "2023-12-30 11:05:19",
+      "valor_total_produtos": 66,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 66,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6043",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-30 11:03:26",
+      "data_hora_confirmacao": "2023-12-30 11:04:02",
+      "data_hora_confirmacao_pagamento": "2023-12-30 11:07:53",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6543",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-14 13:14:32",
+      "data_hora_confirmacao": "2024-01-16 13:31:25",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 62.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.99,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20904",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-11 16:20:05",
+      "data_hora_confirmacao": "2024-09-11 16:20:41",
+      "data_hora_confirmacao_pagamento": "2024-09-11 16:28:18",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28268": {
+      "codigo": "28268",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30427": {
+      "codigo": "30427",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD17.26G": {
+      "codigo": "CD17.26G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.69": {
+      "codigo": "CD02.69",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12   - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD59.21": {
+      "codigo": "CD59.21",
+      "titulo": "Óculos  Penny - AZUL - Cor da Armação: Prata - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

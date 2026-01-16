@@ -1,0 +1,96 @@
+{
+  "codigo": "3624",
+  "nome": "LEONARDO DE SOUZA MORAES",
+  "email": "leo22careca@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(21) 9647-49072",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 159.17000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302011",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 18:51:07",
+      "data_hora_confirmacao": "2023-10-20 09:24:23",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:24:42",
+      "valor_total_produtos": 78.5,
+      "valor_frete": 15.74,
+      "frete": "JADLOG",
+      "valor_total_pedido": 94.24,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7963",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-04 22:32:34",
+      "data_hora_confirmacao": "2024-03-05 10:37:42",
+      "data_hora_confirmacao_pagamento": "2024-03-05 10:37:31",
+      "valor_total_produtos": 49,
+      "valor_frete": 15.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.93,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.58P": {
+      "codigo": "CD01.58P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo  LT19.10 - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.25G - Nike": {
+      "codigo": "CD24.25G - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "PRF01": {
+      "codigo": "PRF01",
+      "titulo": "PULSEIRA FEMININA ",
+      "categoria_principal": "PRATAS",
+      "categoria": "PULSEIRAS DE PRATA",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

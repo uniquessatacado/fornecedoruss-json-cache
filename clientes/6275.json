@@ -1,0 +1,112 @@
+{
+  "codigo": "6275",
+  "nome": "PAULO SÉRGIO DA SILVA JÚNIOR",
+  "email": "juninho_jf422@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/02/2024",
+  "whatsapp": "(32) 98832-3918",
+  "cidade": "Juiz de Fora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 325.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "7812",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 01:01:35",
+      "data_hora_confirmacao": "2024-03-01 10:34:47",
+      "data_hora_confirmacao_pagamento": "2024-03-01 10:34:39",
+      "valor_total_produtos": 162.95,
+      "valor_frete": 21.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 184.46,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15126",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 16:07:50",
+      "data_hora_confirmacao": "2024-07-09 10:49:01",
+      "data_hora_confirmacao_pagamento": "2024-07-09 10:48:54",
+      "valor_total_produtos": 120.95,
+      "valor_frete": 20.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 141.22,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18125": {
+      "codigo": "18125",
+      "titulo": "FONTE CARREGADOR DUAS USB 3.1a - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18129": {
+      "codigo": "18129",
+      "titulo": "FONE DE OUVIDO SEM FIO BLUETOOTH MARCADOR BATERIA ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18146": {
+      "codigo": "18146",
+      "titulo": "MOUSE OPITICO COM FIO 1200DPi UBS - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MOUSE",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "23382": {
+      "codigo": "23382",
+      "titulo": "FONE STEREO WIRELESS JBL ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "CD02.107G": {
+      "codigo": "CD02.107G",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Marrom - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD15.1G": {
+      "codigo": "CD15.1G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Hugo boss M1 - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

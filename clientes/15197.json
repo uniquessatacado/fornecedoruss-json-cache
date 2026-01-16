@@ -1,0 +1,88 @@
+{
+  "codigo": "15197",
+  "nome": "VANUSA SANTANA DE OLIVEIRA",
+  "email": "santananusa4@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/09/2024",
+  "whatsapp": "(11) 98706-4921",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 182.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "20414",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 13:30:34",
+      "data_hora_confirmacao": "2024-09-05 16:37:01",
+      "data_hora_confirmacao_pagamento": "2024-09-05 16:36:55",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 14.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.99,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21065",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-13 14:36:08",
+      "data_hora_confirmacao": "2024-09-14 11:10:46",
+      "data_hora_confirmacao_pagamento": "2024-09-14 11:10:41",
+      "valor_total_produtos": 81.98,
+      "valor_frete": 12.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.64,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28893": {
+      "codigo": "28893",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29169": {
+      "codigo": "29169",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO MARINHO VERDE  - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29177": {
+      "codigo": "29177",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "29195": {
+      "codigo": "29195",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO VERDE CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

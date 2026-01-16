@@ -1,0 +1,53 @@
+{
+  "codigo": "3679",
+  "nome": "DEIVISON ANTUNES",
+  "email": "deivissoncoutinho17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2023",
+  "whatsapp": "(19) 99718-3929",
+  "cidade": "Louveira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 144.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302133",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 14:47:15",
+      "data_hora_confirmacao": "2023-10-23 09:54:04",
+      "data_hora_confirmacao_pagamento": "2023-10-23 09:54:14",
+      "valor_total_produtos": 132,
+      "valor_frete": 12.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 144.41,
+      "desconto": 0,
+      "cidade": "Louveira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35M": {
+      "codigo": "CD17.35M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

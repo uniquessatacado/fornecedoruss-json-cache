@@ -1,0 +1,176 @@
+{
+  "codigo": "6070",
+  "nome": "FABIO FERREIRA MELO",
+  "email": "fabio.f.melo69@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/02/2024",
+  "whatsapp": "(98) 98554-1550",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 566.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "7157",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-06 11:18:44",
+      "data_hora_confirmacao": "2024-02-06 15:14:38",
+      "data_hora_confirmacao_pagamento": "2024-02-06 15:14:31",
+      "valor_total_produtos": 219.93,
+      "valor_frete": 27.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 247.88,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12402",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-22 20:34:41",
+      "data_hora_confirmacao": "2024-05-23 19:11:00",
+      "data_hora_confirmacao_pagamento": "2024-05-23 19:10:52",
+      "valor_total_produtos": 283.92,
+      "valor_frete": 34.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 318.33,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15161": {
+      "codigo": "15161",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18338": {
+      "codigo": "18338",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18361": {
+      "codigo": "18361",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19319": {
+      "codigo": "19319",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19372": {
+      "codigo": "19372",
+      "titulo": "Bermuda Microfibra Ultra NIKE com fitilho  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.23": {
+      "codigo": "CD40.23",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.20": {
+      "codigo": "CD40.20",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  OAKLEY - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD40.21": {
+      "codigo": "CD40.21",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  QUIKSILVER - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.87": {
+      "codigo": "CD02.87",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Vermelha - Marca: Hurley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22GG": {
+      "codigo": "CD4.22GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD5.01GG": {
+      "codigo": "CD5.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.9GG": {
+      "codigo": "CD4.9GG",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

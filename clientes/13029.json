@@ -1,0 +1,53 @@
+{
+  "codigo": "13029",
+  "nome": "ADRIANO CARDOSO DA SILVA",
+  "email": "adrilouco25@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(11) 99630-2331",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "26361",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-13 14:40:51",
+      "data_hora_confirmacao": "2024-12-13 14:45:39",
+      "data_hora_confirmacao_pagamento": "2024-12-13 14:45:39",
+      "valor_total_produtos": 79.48,
+      "valor_frete": 14.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 94.22,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36030": {
+      "codigo": "36030",
+      "titulo": "Camiseta malha chines autentica importada - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    },
+    "37667": {
+      "codigo": "37667",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: VERDE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

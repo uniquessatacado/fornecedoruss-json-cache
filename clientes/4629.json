@@ -1,0 +1,80 @@
+{
+  "codigo": "4629",
+  "nome": "RICARDO MARTINS DIAS",
+  "email": "ricribeirodias@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(21) 99466-9290",
+  "cidade": "Seropédica",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 155.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "4403",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 15:58:09",
+      "data_hora_confirmacao": "2023-12-11 17:44:30",
+      "data_hora_confirmacao_pagamento": "2023-12-11 17:44:39",
+      "valor_total_produtos": 43.75,
+      "valor_frete": 15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.75,
+      "desconto": 0,
+      "cidade": "Seropédica",
+      "estado": "RJ",
+      "percentual_comissao": 25,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "7578",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-23 21:19:04",
+      "data_hora_confirmacao": "2024-02-24 08:21:21",
+      "data_hora_confirmacao_pagamento": "2024-02-24 08:21:40",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 16.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.78,
+      "desconto": 0,
+      "cidade": "Seropédica",
+      "estado": "RJ",
+      "percentual_comissao": 29.05,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA HIPER CARGO - NIKE SB    LT11.12 - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.102G": {
+      "codigo": "CD02.102G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.104G": {
+      "codigo": "CD02.104G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

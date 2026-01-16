@@ -1,0 +1,104 @@
+{
+  "codigo": "17887",
+  "nome": "RAPHAEL BERBEL",
+  "email": "raphael@berbel.com.br",
+  "sexo": "0",
+  "data_cadastro": "28/11/2024",
+  "whatsapp": "(11) 99284-9329",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 437.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "25220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 14:38:50",
+      "data_hora_confirmacao": "2024-11-28 14:40:12",
+      "data_hora_confirmacao_pagamento": "2024-11-28 14:40:12",
+      "valor_total_produtos": 321.96,
+      "valor_frete": 19.22,
+      "frete": "SEDEX",
+      "valor_total_pedido": 341.18,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28821",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-19 10:50:27",
+      "data_hora_confirmacao": "2025-03-19 11:34:33",
+      "data_hora_confirmacao_pagamento": "2025-03-19 11:34:54",
+      "valor_total_produtos": 81.66,
+      "valor_frete": 14.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 96.43,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20745": {
+      "codigo": "20745",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21207": {
+      "codigo": "21207",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "36007": {
+      "codigo": "36007",
+      "titulo": "Camiseta malha chines autentica importada - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    },
+    "36055": {
+      "codigo": "36055",
+      "titulo": "Camiseta malha chines autentica importada - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    }
+  }
+}

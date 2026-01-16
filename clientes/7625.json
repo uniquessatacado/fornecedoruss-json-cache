@@ -1,0 +1,53 @@
+{
+  "codigo": "7625",
+  "nome": "NATANYEL DE OLIVEIRA ARAUJO",
+  "email": "natanyelproaudio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(86) 99916-2008",
+  "cidade": "Teresina",
+  "estado": "PI",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "9531",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 14:48:02",
+      "data_hora_confirmacao": "2024-04-05 15:10:54",
+      "data_hora_confirmacao_pagamento": "2024-04-05 15:10:47",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 25.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.01,
+      "desconto": 0,
+      "cidade": "Teresina",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.11G": {
+      "codigo": "CD4.11G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Cinza Escuro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD4.17G": {
+      "codigo": "CD4.17G",
+      "titulo": "Bermuda SPANDEX ULTRA - Cor: VERDE CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

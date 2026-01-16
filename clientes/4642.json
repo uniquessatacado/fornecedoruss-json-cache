@@ -1,0 +1,93 @@
+{
+  "codigo": "4642",
+  "nome": "KENNEDY CLEITON COUTINHO LEITE",
+  "email": "kenccouti@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(13) 9740-71362",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 286.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "24545",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-16 13:42:19",
+      "data_hora_confirmacao": "2024-11-16 14:45:44",
+      "data_hora_confirmacao_pagamento": "2024-11-16 14:45:44",
+      "valor_total_produtos": 261.93,
+      "valor_frete": 24.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 286.44,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31276": {
+      "codigo": "31276",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32636": {
+      "codigo": "32636",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "32698": {
+      "codigo": "32698",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL - Cor: PRETO BRANCO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "34090": {
+      "codigo": "34090",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34112": {
+      "codigo": "34112",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34505": {
+      "codigo": "34505",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34653": {
+      "codigo": "34653",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

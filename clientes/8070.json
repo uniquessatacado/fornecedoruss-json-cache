@@ -1,0 +1,61 @@
+{
+  "codigo": "8070",
+  "nome": "EDNAN MARTINS",
+  "email": "ednan1995@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/04/2024",
+  "whatsapp": "(11) 96265-1523",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "10060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-15 08:20:44",
+      "data_hora_confirmacao": "2024-04-16 09:41:40",
+      "data_hora_confirmacao_pagamento": "2024-04-16 09:41:36",
+      "valor_total_produtos": 50.97,
+      "valor_frete": 11.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 62.11,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.14G": {
+      "codigo": "CD24.14G",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD02.130G": {
+      "codigo": "CD02.130G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

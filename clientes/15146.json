@@ -1,0 +1,638 @@
+{
+  "codigo": "15146",
+  "nome": "MARCOS VINICIUS SANTOS DA SILVA",
+  "email": "marcosviniciusw115@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/09/2024",
+  "whatsapp": "(61) 9966-41782",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 3520.6000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "23242",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 14:21:49",
+      "data_hora_confirmacao": "2024-10-23 17:49:43",
+      "data_hora_confirmacao_pagamento": "2024-10-23 17:49:31",
+      "valor_total_produtos": 921.66,
+      "valor_frete": 48.75,
+      "frete": "JADLOG",
+      "valor_total_pedido": 970.41,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24683",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-19 12:25:24",
+      "data_hora_confirmacao": "2024-11-19 13:19:55",
+      "data_hora_confirmacao_pagamento": "2024-11-19 12:26:06",
+      "valor_total_produtos": 607.74,
+      "valor_frete": 58.81,
+      "frete": "JADLOG",
+      "valor_total_pedido": 666.55,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25063",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-25 14:51:55",
+      "data_hora_confirmacao": "2024-11-25 14:51:55",
+      "data_hora_confirmacao_pagamento": "2024-11-25 14:51:55",
+      "valor_total_produtos": 254.79,
+      "valor_frete": 39.84,
+      "frete": "PAC",
+      "valor_total_pedido": 294.63,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27852",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-28 09:36:47",
+      "data_hora_confirmacao": "2025-01-28 09:37:33",
+      "data_hora_confirmacao_pagamento": "2025-01-28 09:37:33",
+      "valor_total_produtos": 1492.44,
+      "valor_frete": 96.57,
+      "frete": "PAC",
+      "valor_total_pedido": 1589.01,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25419": {
+      "codigo": "25419",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "2"
+    },
+    "26631": {
+      "codigo": "26631",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "27287": {
+      "codigo": "27287",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28372": {
+      "codigo": "28372",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28381": {
+      "codigo": "28381",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28428": {
+      "codigo": "28428",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "29172": {
+      "codigo": "29172",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "29187": {
+      "codigo": "29187",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29678": {
+      "codigo": "29678",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "29680": {
+      "codigo": "29680",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "29683": {
+      "codigo": "29683",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "30117": {
+      "codigo": "30117",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "30575": {
+      "codigo": "30575",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "30577": {
+      "codigo": "30577",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "30595": {
+      "codigo": "30595",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "30596": {
+      "codigo": "30596",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "30635": {
+      "codigo": "30635",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "30636": {
+      "codigo": "30636",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "30825": {
+      "codigo": "30825",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "31252": {
+      "codigo": "31252",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "31455": {
+      "codigo": "31455",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "31456": {
+      "codigo": "31456",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "31758": {
+      "codigo": "31758",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "32344": {
+      "codigo": "32344",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "32592": {
+      "codigo": "32592",
+      "titulo": "Bermuda Microfibra Ultra - NIKE bordado MADEIRA  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32635": {
+      "codigo": "32635",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "32637": {
+      "codigo": "32637",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "32657": {
+      "codigo": "32657",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "32669": {
+      "codigo": "32669",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "32670": {
+      "codigo": "32670",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "32677": {
+      "codigo": "32677",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "32679": {
+      "codigo": "32679",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "2"
+    },
+    "32843": {
+      "codigo": "32843",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32844": {
+      "codigo": "32844",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32866": {
+      "codigo": "32866",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32867": {
+      "codigo": "32867",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32870": {
+      "codigo": "32870",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32872": {
+      "codigo": "32872",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32873": {
+      "codigo": "32873",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "33702": {
+      "codigo": "33702",
+      "titulo": "Cuecas Peruanas - EMPORIO ARMANI - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "3"
+    },
+    "33732": {
+      "codigo": "33732",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "4"
+    },
+    "33831": {
+      "codigo": "33831",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "34029": {
+      "codigo": "34029",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "10"
+    },
+    "34030": {
+      "codigo": "34030",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "3"
+    },
+    "34077": {
+      "codigo": "34077",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34093": {
+      "codigo": "34093",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39544": {
+      "codigo": "39544",
+      "titulo": "Bermuda Microfibra Ultra ZIPER (C207) LT8A - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "5"
+    },
+    "40510": {
+      "codigo": "40510",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "4"
+    },
+    "40511": {
+      "codigo": "40511",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "5"
+    },
+    "40524": {
+      "codigo": "40524",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "40525": {
+      "codigo": "40525",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "3"
+    },
+    "40624": {
+      "codigo": "40624",
+      "titulo": "Cuecas Peruanas (C261)   - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "40631": {
+      "codigo": "40631",
+      "titulo": "Cuecas Peruanas (C261)  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "40639": {
+      "codigo": "40639",
+      "titulo": "Cuecas Peruanas (C265)  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "2"
+    },
+    "40667": {
+      "codigo": "40667",
+      "titulo": "Cuecas Peruanas (C265)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "3"
+    },
+    "40674": {
+      "codigo": "40674",
+      "titulo": "Cuecas Peruanas (C260)   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "40695": {
+      "codigo": "40695",
+      "titulo": "Cuecas Peruanas (C260)   - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40881": {
+      "codigo": "40881",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "40882": {
+      "codigo": "40882",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40895": {
+      "codigo": "40895",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "40896": {
+      "codigo": "40896",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "4"
+    },
+    "40902": {
+      "codigo": "40902",
+      "titulo": "Bermuda Microfibra Ultra (C252)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "40903": {
+      "codigo": "40903",
+      "titulo": "Bermuda Microfibra Ultra (C252)   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "3"
+    },
+    "40917": {
+      "codigo": "40917",
+      "titulo": "Bermuda Microfibra Ultra (C252) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "40972": {
+      "codigo": "40972",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C276) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "40987": {
+      "codigo": "40987",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C270) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "40992": {
+      "codigo": "40992",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C273) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "40995": {
+      "codigo": "40995",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C279) - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    }
+  }
+}

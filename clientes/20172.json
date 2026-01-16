@@ -1,0 +1,53 @@
+{
+  "codigo": "20172",
+  "nome": "LEANDRO SETEMBRINO MONARI DE SOUZA",
+  "email": "leandromonari@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "05/07/2025",
+  "whatsapp": "(47) 9916-11899",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 113.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "31198",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-08 04:42:58",
+      "data_hora_confirmacao": "2025-08-08 04:50:04",
+      "data_hora_confirmacao_pagamento": "2025-08-08 04:50:04",
+      "valor_total_produtos": 93.74,
+      "valor_frete": 20,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.74,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51842": {
+      "codigo": "51842",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL Bordado (NLT001) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "52304": {
+      "codigo": "52304",
+      "titulo": "Calça Microfibra Ultra Armani (LT029) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

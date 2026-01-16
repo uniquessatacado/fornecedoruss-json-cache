@@ -1,0 +1,72 @@
+{
+  "codigo": "7461",
+  "nome": "FRANCISCO UCHOA PEREIRA",
+  "email": "uchoapv@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(12) 98178-3778",
+  "cidade": "Jacareí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 140.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "9264",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 19:50:50",
+      "data_hora_confirmacao": "2024-04-03 11:54:54",
+      "data_hora_confirmacao_pagamento": "2024-04-03 11:54:50",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.5,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.49,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14942",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 16:27:31",
+      "data_hora_confirmacao": "2024-07-03 09:19:51",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:19:45",
+      "valor_total_produtos": 89.99,
+      "valor_frete": 10.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.5,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23301": {
+      "codigo": "23301",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: G - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

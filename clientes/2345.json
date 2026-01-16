@@ -1,0 +1,72 @@
+{
+  "codigo": "2345",
+  "nome": "THIAGO HENRIQUE DOS SANTOS",
+  "email": "henrique40rk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(17) 98140-8438",
+  "cidade": "Barretos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 104.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300224",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 19:37:32",
+      "data_hora_confirmacao": "2023-09-25 00:24:24",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:24:19",
+      "valor_total_produtos": 30,
+      "valor_frete": 22.17,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.17,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300225",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 19:40:25",
+      "data_hora_confirmacao": "2023-09-21 23:14:49",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:14:57",
+      "valor_total_produtos": 30,
+      "valor_frete": 22.17,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.17,
+      "desconto": 0,
+      "cidade": "Barretos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43P": {
+      "codigo": "CD01.43P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: P - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43M": {
+      "codigo": "CD01.43M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

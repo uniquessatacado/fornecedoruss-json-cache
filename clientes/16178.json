@@ -1,0 +1,53 @@
+{
+  "codigo": "16178",
+  "nome": "JOSÉ PEREIRA BRANDÃO",
+  "email": "brandmcz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2024",
+  "whatsapp": "(82) 99967-8662",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 91.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "22171",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-02 22:36:01",
+      "data_hora_confirmacao": "2024-10-03 09:45:09",
+      "data_hora_confirmacao_pagamento": "2024-10-03 09:45:01",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 17.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.83,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31382": {
+      "codigo": "31382",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31665": {
+      "codigo": "31665",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

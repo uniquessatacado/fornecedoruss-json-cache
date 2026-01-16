@@ -1,0 +1,80 @@
+{
+  "codigo": "10696",
+  "nome": "CARLOS GRANADO",
+  "email": "Carlos.granado@outlook.com.br",
+  "sexo": "0",
+  "data_cadastro": "08/06/2024",
+  "whatsapp": "(19) 99198-5899",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 176.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "13380",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-08 10:31:19",
+      "data_hora_confirmacao": "2024-06-08 10:35:50",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 84.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 84.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19619",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-26 11:30:41",
+      "data_hora_confirmacao": "2024-08-26 13:22:12",
+      "data_hora_confirmacao_pagamento": "2024-08-26 13:22:04",
+      "valor_total_produtos": 91.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 91.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17778": {
+      "codigo": "17778",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28007": {
+      "codigo": "28007",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28320": {
+      "codigo": "28320",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

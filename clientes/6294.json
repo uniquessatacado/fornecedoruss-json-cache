@@ -1,0 +1,96 @@
+{
+  "codigo": "6294",
+  "nome": "ANDRÉ FERREIRA DE JESUS",
+  "email": "andresp10@hotmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(19) 98423-0908",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 118.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "7426",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 12:57:32",
+      "data_hora_confirmacao": "2024-02-21 13:07:00",
+      "data_hora_confirmacao_pagamento": "2024-02-21 13:06:53",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 10.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.89,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18107",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-08 07:50:58",
+      "data_hora_confirmacao": "2024-08-08 12:31:33",
+      "data_hora_confirmacao_pagamento": "2024-08-08 12:31:26",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 41.61,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24639": {
+      "codigo": "24639",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24645": {
+      "codigo": "24645",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26586": {
+      "codigo": "26586",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD40.23": {
+      "codigo": "CD40.23",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.105M": {
+      "codigo": "CD02.105M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

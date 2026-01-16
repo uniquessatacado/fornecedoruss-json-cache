@@ -1,0 +1,187 @@
+{
+  "codigo": "7599",
+  "nome": "LARISSA CAMARGO",
+  "email": "larissacamargo2912@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(17) 99652-5663",
+  "cidade": "Santa Fé do Sul",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 821.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "9491",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 21:42:36",
+      "data_hora_confirmacao": "2024-04-05 14:19:58",
+      "data_hora_confirmacao_pagamento": "2024-04-05 14:19:53",
+      "valor_total_produtos": 199.74,
+      "valor_frete": 18.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 217.92,
+      "desconto": 0,
+      "cidade": "Santa Fé do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10432",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 11:04:20",
+      "data_hora_confirmacao": "2024-04-22 12:33:33",
+      "data_hora_confirmacao_pagamento": "2024-04-22 12:33:28",
+      "valor_total_produtos": 299.94,
+      "valor_frete": 28.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 328.14,
+      "desconto": 0,
+      "cidade": "Santa Fé do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11212",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-03 08:05:05",
+      "data_hora_confirmacao": "2024-05-03 17:35:10",
+      "data_hora_confirmacao_pagamento": "2024-05-03 17:35:00",
+      "valor_total_produtos": 253.92,
+      "valor_frete": 21.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 275.17,
+      "desconto": 0,
+      "cidade": "Santa Fé do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17919": {
+      "codigo": "17919",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17921": {
+      "codigo": "17921",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "17924": {
+      "codigo": "17924",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17939": {
+      "codigo": "17939",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17940": {
+      "codigo": "17940",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17944": {
+      "codigo": "17944",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.12G": {
+      "codigo": "CD4.12G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.12M": {
+      "codigo": "CD4.12M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD4.11G": {
+      "codigo": "CD4.11G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CF1.1M": {
+      "codigo": "CF1.1M",
+      "titulo": "CONJUNTO FEMINO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CF1.1G": {
+      "codigo": "CF1.1G",
+      "titulo": "CONJUNTO FEMINO  - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "CF1.1GG": {
+      "codigo": "CF1.1GG",
+      "titulo": "CONJUNTO FEMINO  - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.149M": {
+      "codigo": "CD02.149M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE      - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

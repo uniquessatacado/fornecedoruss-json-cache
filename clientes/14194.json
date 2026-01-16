@@ -1,0 +1,77 @@
+{
+  "codigo": "14194",
+  "nome": "RICARDO PEREIRA TEIXEIRA",
+  "email": "ricardopereiratx1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/08/2024",
+  "whatsapp": "(11) 95731-8238",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 128.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "18909",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-16 11:48:07",
+      "data_hora_confirmacao": "2024-08-19 17:01:49",
+      "data_hora_confirmacao_pagamento": "2024-08-19 17:01:38",
+      "valor_total_produtos": 115.95,
+      "valor_frete": 12.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.41,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22886": {
+      "codigo": "22886",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO LONGO  - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24165": {
+      "codigo": "24165",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24638": {
+      "codigo": "24638",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24641": {
+      "codigo": "24641",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24644": {
+      "codigo": "24644",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

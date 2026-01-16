@@ -1,0 +1,53 @@
+{
+  "codigo": "20241",
+  "nome": "CLAUDINEIA FERREIRA DE ANDRADE",
+  "email": "klau.idt@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2025",
+  "whatsapp": "(19) 99407-1038",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "30835",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-19 10:53:31",
+      "data_hora_confirmacao": "2025-07-19 10:54:57",
+      "data_hora_confirmacao_pagamento": "2025-07-19 10:54:57",
+      "valor_total_produtos": 69.79,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 69.79,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48944": {
+      "codigo": "48944",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "50280": {
+      "codigo": "50280",
+      "titulo": "Bermuda Mizuno Microfibra Ultra (LT003.3) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

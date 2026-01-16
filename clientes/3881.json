@@ -1,0 +1,192 @@
+{
+  "codigo": "3881",
+  "nome": "FRANCISCO SOLON DE ARAÚJO NETO",
+  "email": "fcosolon@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2023",
+  "whatsapp": "(88) 98843-0968",
+  "cidade": "Acaraú",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 1441.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "4728",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 20:29:23",
+      "data_hora_confirmacao": "2023-12-14 11:12:44",
+      "data_hora_confirmacao_pagamento": "2023-12-14 11:12:56",
+      "valor_total_produtos": 543.89,
+      "valor_frete": 124.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 668.04,
+      "desconto": 0,
+      "cidade": "Acaraú",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11540",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-09 18:14:01",
+      "data_hora_confirmacao": "2024-05-13 15:22:00",
+      "data_hora_confirmacao_pagamento": "2024-05-13 15:21:49",
+      "valor_total_produtos": 685.86,
+      "valor_frete": 87.11,
+      "frete": "PAC",
+      "valor_total_pedido": 772.97,
+      "desconto": 0,
+      "cidade": "Acaraú",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18102": {
+      "codigo": "18102",
+      "titulo": "SMARTWATCH CU9 ULTRA - Cor: LARANJA CLARO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": "SMARTWHATCH",
+      "quantidade": "2"
+    },
+    "CD16.43": {
+      "codigo": "CD16.43",
+      "titulo": "Camisetas de Time Tailandesas - FORTALEZA   LT31.10   - Tamanho: M - Times : Fortaleza",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD02.63": {
+      "codigo": "CD02.63",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT13.12  - Cor: Amarela - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 3
+    },
+    "CD45.1": {
+      "codigo": "CD45.1",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS FEMININA  LT27.10 - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME FEMININA  LT",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD02.62": {
+      "codigo": "CD02.62",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT13.12  - Cor: Branca - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD01.2M": {
+      "codigo": "CD01.2M",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.61": {
+      "codigo": "CD02.61",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT13.12  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.10M": {
+      "codigo": "CD4.10M",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD5.01M": {
+      "codigo": "CD5.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD5.01G": {
+      "codigo": "CD5.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD5.01GG": {
+      "codigo": "CD5.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CF1.1P": {
+      "codigo": "CF1.1P",
+      "titulo": "CONJUNTO FEMINO  - Cor: VERDE AGUA - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CF1.1": {
+      "codigo": "CF1.1",
+      "titulo": "CONJUNTO FEMINO  - Cor: LILAS - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CF1.2P": {
+      "codigo": "CF1.2P",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: VINHO - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

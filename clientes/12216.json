@@ -1,0 +1,104 @@
+{
+  "codigo": "12216",
+  "nome": "ANA KATIA NUNES FERREIRA",
+  "email": "anakatianunes54@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/07/2024",
+  "whatsapp": "(11) 9826-48443",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 207.58999999999997,
+  "pedidos": [
+    {
+      "codigo_pedido": "15757",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 12:35:18",
+      "data_hora_confirmacao": "2024-07-12 14:17:10",
+      "data_hora_confirmacao_pagamento": "2024-07-12 14:16:53",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 13.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.74,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15854",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 20:06:49",
+      "data_hora_confirmacao": "2024-07-13 09:51:08",
+      "data_hora_confirmacao_pagamento": "2024-07-13 09:50:42",
+      "valor_total_produtos": 78.97,
+      "valor_frete": 12.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.85,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20261": {
+      "codigo": "20261",
+      "titulo": "Boné Super Premium - NY NEW ERA - Cor: VERDE MILITAR",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "23815": {
+      "codigo": "23815",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em relevo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23837": {
+      "codigo": "23837",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "24022": {
+      "codigo": "24022",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "24386": {
+      "codigo": "24386",
+      "titulo": "CAMISETA SOFT EGÍPCIA - ARMANI arte em termo gel - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Soft Egípcia ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "24406": {
+      "codigo": "24406",
+      "titulo": "CAMISETA SOFT EGÍPCIA - DIESEL arte em termogel relevo - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Soft Egípcia ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

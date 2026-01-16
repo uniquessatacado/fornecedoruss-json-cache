@@ -1,0 +1,61 @@
+{
+  "codigo": "8937",
+  "nome": "DANILO GUIMARÃES CARVALHO",
+  "email": "daniloguimaraes48@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(35) 99194-4926",
+  "cidade": "Itajubá",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "11171",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 21:01:27",
+      "data_hora_confirmacao": "2024-05-06 15:46:57",
+      "data_hora_confirmacao_pagamento": "2024-05-06 15:46:48",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 18.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.87,
+      "desconto": 0,
+      "cidade": "Itajubá",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17917": {
+      "codigo": "17917",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.7M": {
+      "codigo": "CD15.7M",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: PRETA - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD50.12M": {
+      "codigo": "CD50.12M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

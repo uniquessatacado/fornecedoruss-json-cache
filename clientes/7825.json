@@ -1,0 +1,69 @@
+{
+  "codigo": "7825",
+  "nome": "ALEXANDER FIGUEIREDO",
+  "email": "aleke_6@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(15) 99128-1833",
+  "cidade": "Boituva",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 163.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "9838",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 17:16:33",
+      "data_hora_confirmacao": "2024-04-10 17:47:59",
+      "data_hora_confirmacao_pagamento": "2024-04-10 17:47:54",
+      "valor_total_produtos": 149.78,
+      "valor_frete": 13.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 163.09,
+      "desconto": 0,
+      "cidade": "Boituva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.15G": {
+      "codigo": "CD4.15G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.16G": {
+      "codigo": "CD4.16G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.70G": {
+      "codigo": "CD39.70G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: AZUL BEBE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.71G": {
+      "codigo": "CD39.71G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

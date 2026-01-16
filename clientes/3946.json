@@ -1,0 +1,45 @@
+{
+  "codigo": "3946",
+  "nome": "RAFAEL FINIMUNDI",
+  "email": "rafael_finimundi@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(54) 9994-64962",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "2850",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 10:50:55",
+      "data_hora_confirmacao": "2023-11-08 10:56:27",
+      "data_hora_confirmacao_pagamento": "2023-11-08 10:56:36",
+      "valor_total_produtos": 25,
+      "valor_frete": 17.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.46,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.32M": {
+      "codigo": "CD16.32M",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

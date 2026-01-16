@@ -1,0 +1,61 @@
+{
+  "codigo": "1785",
+  "nome": "GIOVANE CARLOS",
+  "email": "marcosfavaron98@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "26/08/2023",
+  "whatsapp": "(19) 97419-0698",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 265,
+  "pedidos": [
+    {
+      "codigo_pedido": "6885",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-27 10:17:58",
+      "data_hora_confirmacao": "2024-01-27 10:18:26",
+      "data_hora_confirmacao_pagamento": "2024-01-27 10:24:54",
+      "valor_total_produtos": 265,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 265,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.42M": {
+      "codigo": "CD01.42M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    }
+  }
+}

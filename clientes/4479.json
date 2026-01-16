@@ -1,0 +1,88 @@
+{
+  "codigo": "4479",
+  "nome": "MATHEUS LIMA DO AMARAL",
+  "email": "matheusamarallima8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/12/2023",
+  "whatsapp": "(19) 99681-6957",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245,
+  "pedidos": [
+    {
+      "codigo_pedido": "4087",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-06 11:57:37",
+      "data_hora_confirmacao": "2023-12-06 12:06:48",
+      "data_hora_confirmacao_pagamento": "2023-12-06 12:07:03",
+      "valor_total_produtos": 131.25,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 131.25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 75,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4314",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-08 20:26:52",
+      "data_hora_confirmacao": "2023-12-08 20:45:34",
+      "data_hora_confirmacao_pagamento": "2023-12-08 20:45:44",
+      "valor_total_produtos": 113.75,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 113.75,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 75,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.70": {
+      "codigo": "CD01.70",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  LT27.10    - Tamanho: GG - Times : Borussia Dortmund",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.94": {
+      "codigo": "CD01.94",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BOCA JR   LT13.11  - Tamanho: GG - Times : Boca Jr",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.90": {
+      "codigo": "CD01.90",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11  - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

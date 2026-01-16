@@ -1,0 +1,69 @@
+{
+  "codigo": "18376",
+  "nome": "ALYSSON HENRIQUE DA SILVA",
+  "email": "alyssonh916@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "14/12/2024",
+  "whatsapp": "(11) 9438-93252",
+  "cidade": "Pinhalzinho",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "26479",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-14 22:24:45",
+      "data_hora_confirmacao": "2024-12-14 22:28:11",
+      "data_hora_confirmacao_pagamento": "2024-12-14 22:28:11",
+      "valor_total_produtos": 98.16,
+      "valor_frete": 28.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 127.04,
+      "desconto": 0,
+      "cidade": "Pinhalzinho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34025": {
+      "codigo": "34025",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35205": {
+      "codigo": "35205",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36758": {
+      "codigo": "36758",
+      "titulo": "Camiseta semi pima       - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta semi pima ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37634": {
+      "codigo": "37634",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C40) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

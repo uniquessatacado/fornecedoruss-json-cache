@@ -1,0 +1,77 @@
+{
+  "codigo": "5306",
+  "nome": "DAVID ALVES FERREIRA LIRA",
+  "email": "david_alvesferreira@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/01/2024",
+  "whatsapp": "(13) 99648-6032",
+  "cidade": "Bertioga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 336.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "6489",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-11 00:16:44",
+      "data_hora_confirmacao": "2024-01-13 11:29:34",
+      "data_hora_confirmacao_pagamento": "2024-01-13 11:29:47",
+      "valor_total_produtos": 314.95,
+      "valor_frete": 21.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 336.65,
+      "desconto": 0,
+      "cidade": "Bertioga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD61.8": {
+      "codigo": "CD61.8",
+      "titulo": "Óculos  Juliet - VERMELHO C/LARANJA  LT27.11  - Cor da Armação: Prata c/Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD60.1": {
+      "codigo": "CD60.1",
+      "titulo": "Óculos  Double X - AZUL MARINHO  LT17.11 - Cor da Armação: Prata - Cor da Lente: Azul Marinho - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.25": {
+      "codigo": "CD61.25",
+      "titulo": "Óculos  Juliet - AZUL - Cor da Armação: Preto - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.23": {
+      "codigo": "CD61.23",
+      "titulo": "Óculos  Juliet - PRETA - Cor da Armação: Prata c/Chumbo - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.26": {
+      "codigo": "CD61.26",
+      "titulo": "Óculos  Juliet - VERMELHO C/ROXO - Cor da Armação: Preto - Cor da Lente: Vermelho com Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

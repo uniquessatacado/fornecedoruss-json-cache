@@ -1,0 +1,88 @@
+{
+  "codigo": "5517",
+  "nome": "ALLAN CARLOS DENK",
+  "email": "allancdenk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(47) 99102-1448",
+  "cidade": "Rio do Sul",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 257.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "6765",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-24 11:57:17",
+      "data_hora_confirmacao": "2024-01-24 12:43:34",
+      "data_hora_confirmacao_pagamento": "2024-01-24 12:43:50",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 20.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.64,
+      "desconto": 0,
+      "cidade": "Rio do Sul",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8244",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 22:49:18",
+      "data_hora_confirmacao": "2024-03-12 10:51:08",
+      "data_hora_confirmacao_pagamento": "2024-03-12 10:51:03",
+      "valor_total_produtos": 140.8,
+      "valor_frete": 19.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 160.5,
+      "desconto": 0,
+      "cidade": "Rio do Sul",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.61": {
+      "codigo": "CD39.61",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD41.34": {
+      "codigo": "CD41.34",
+      "titulo": "BERMUDA MICROFIBRA HIPER - HUGO BOSS - Cor: Verde - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "PA62": {
+      "codigo": "PA62",
+      "titulo": "CORRENTE ESCAMA 3,5MM 70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA05": {
+      "codigo": "PA05",
+      "titulo": "PULSEIRA DE PRATA ESCAMA  4MM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

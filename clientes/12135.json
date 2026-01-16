@@ -1,0 +1,72 @@
+{
+  "codigo": "12135",
+  "nome": "GUILHERME COSTA DE ABREU",
+  "email": "g.costa.ti@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/07/2024",
+  "whatsapp": "(11) 95219-7331",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 209.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "15412",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 22:56:18",
+      "data_hora_confirmacao": "2024-07-09 09:25:11",
+      "data_hora_confirmacao_pagamento": "2024-07-09 09:25:06",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16210",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 11:56:27",
+      "data_hora_confirmacao": "2024-07-18 09:46:14",
+      "data_hora_confirmacao_pagamento": "2024-07-18 09:46:08",
+      "valor_total_produtos": 128.99,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 144.61,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22964": {
+      "codigo": "22964",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24236": {
+      "codigo": "24236",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

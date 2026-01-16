@@ -1,0 +1,123 @@
+{
+  "codigo": "18718",
+  "nome": "GABRIEL LIMA RIBEIRO RODRIGUES",
+  "email": "gabriel.filhhoo@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/12/2024",
+  "whatsapp": "(19) 9949-95583",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 282.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "27319",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-28 11:48:35",
+      "data_hora_confirmacao": "2024-12-28 11:48:35",
+      "data_hora_confirmacao_pagamento": "2024-12-28 11:48:35",
+      "valor_total_produtos": 125.01,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125.01,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27636",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-01-15 11:34:29",
+      "data_hora_confirmacao": "2025-01-15 11:40:15",
+      "data_hora_confirmacao_pagamento": "2025-01-15 11:40:15",
+      "valor_total_produtos": 45,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 45,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32468",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-08 12:16:00",
+      "data_hora_confirmacao": "2026-01-08 12:17:45",
+      "data_hora_confirmacao_pagamento": "2026-01-08 12:17:45",
+      "valor_total_produtos": 102.5,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 112.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30099": {
+      "codigo": "30099",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA  - Cor: PRETO BRANCO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "38343": {
+      "codigo": "38343",
+      "titulo": "Bermuda Microfibra Ultra (C124) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39114": {
+      "codigo": "39114",
+      "titulo": "Bermuda Microfibra Ultra (C153) - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39182": {
+      "codigo": "39182",
+      "titulo": "Bermuda Microfibra Ultra (C154) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42127": {
+      "codigo": "42127",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "COLCCI",
+      "quantidade": "1"
+    },
+    "55223": {
+      "codigo": "55223",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    }
+  }
+}

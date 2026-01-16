@@ -1,0 +1,45 @@
+{
+  "codigo": "2798",
+  "nome": "NICOLAU MATHIAS",
+  "email": "nicolaumathias@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(42) 98846-4266",
+  "cidade": "Ponta Grossa",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300643",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 00:09:03",
+      "data_hora_confirmacao": "2023-09-25 00:32:43",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:32:35",
+      "valor_total_produtos": 49,
+      "valor_frete": 33.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 82.88,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.5P": {
+      "codigo": "CD08.5P",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Diesel - Cor: Cinza - Marca: Diesel - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

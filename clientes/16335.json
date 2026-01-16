@@ -1,0 +1,865 @@
+{
+  "codigo": "16335",
+  "nome": "IAGO MONTEITO RODRIGUES",
+  "email": "iagomr1308@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/10/2024",
+  "whatsapp": "(11) 94731-7280",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 3690.6999999999994,
+  "pedidos": [
+    {
+      "codigo_pedido": "22540",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-08 22:24:52",
+      "data_hora_confirmacao": "2024-10-09 11:40:37",
+      "data_hora_confirmacao_pagamento": "2024-10-09 11:40:24",
+      "valor_total_produtos": 456.89,
+      "valor_frete": 27.79,
+      "frete": "JADLOG",
+      "valor_total_pedido": 484.68,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28089",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-12 12:47:06",
+      "data_hora_confirmacao": "2025-02-12 12:48:02",
+      "data_hora_confirmacao_pagamento": "2025-02-12 12:48:02",
+      "valor_total_produtos": 53.33,
+      "valor_frete": 16.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.74,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28826",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-19 11:51:14",
+      "data_hora_confirmacao": "2025-03-19 11:55:58",
+      "data_hora_confirmacao_pagamento": "2025-03-19 11:55:58",
+      "valor_total_produtos": 980.7,
+      "valor_frete": 60.31,
+      "frete": "LOGGI",
+      "valor_total_pedido": 1041.01,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30785",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-16 23:23:22",
+      "data_hora_confirmacao": "2025-07-16 23:55:06",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 1355.55,
+      "valor_frete": 102.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 1458.09,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32375",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-12-01 21:48:25",
+      "data_hora_confirmacao": "2025-12-01 22:10:04",
+      "data_hora_confirmacao_pagamento": "2025-12-01 22:10:04",
+      "valor_total_produtos": 561.85,
+      "valor_frete": 75.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 637.18,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30311": {
+      "codigo": "30311",
+      "titulo": " Camiseta Algodão Soft Americano - ARMANI arte composta - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "32160": {
+      "codigo": "32160",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte BORDADA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "32177": {
+      "codigo": "32177",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte COMPOSTA - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32196": {
+      "codigo": "32196",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte COMPOSTA - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32206": {
+      "codigo": "32206",
+      "titulo": "Camiseta Algodão Soft Americano - ARMANI arte COMPOSTA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "32215": {
+      "codigo": "32215",
+      "titulo": "Camiseta Algodão Soft Americano - ARMANI arte BORDADA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "32233": {
+      "codigo": "32233",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte BORDADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "32259": {
+      "codigo": "32259",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em PELÚCIA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32269": {
+      "codigo": "32269",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte COMPOSTA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32277": {
+      "codigo": "32277",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte EMBORRACHADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32294": {
+      "codigo": "32294",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em PELÚCIA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "39236": {
+      "codigo": "39236",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C159) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39646": {
+      "codigo": "39646",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C211) LT7A - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40259": {
+      "codigo": "40259",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41008": {
+      "codigo": "41008",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "41014": {
+      "codigo": "41014",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C282) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "41043": {
+      "codigo": "41043",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C570) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "41296": {
+      "codigo": "41296",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41663": {
+      "codigo": "41663",
+      "titulo": "Camiseta Tecido Cashmere Importada  LT22A  (C475) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "41753": {
+      "codigo": "41753",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C513) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41786": {
+      "codigo": "41786",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C499) - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "41809": {
+      "codigo": "41809",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C519) - Cor: VINHO MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41839": {
+      "codigo": "41839",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C523) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41845": {
+      "codigo": "41845",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C524) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41852": {
+      "codigo": "41852",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C525) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41853": {
+      "codigo": "41853",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C525) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41854": {
+      "codigo": "41854",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C525) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41860": {
+      "codigo": "41860",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C526) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41977": {
+      "codigo": "41977",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado  LT24A  (C540) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "42081": {
+      "codigo": "42081",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado  LT24A  (C542) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42103": {
+      "codigo": "42103",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C583) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    },
+    "42106": {
+      "codigo": "42106",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C582) - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    },
+    "42115": {
+      "codigo": "42115",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C558) - Cor: PRETO VERMELHO BRANCO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "42139": {
+      "codigo": "42139",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "42194": {
+      "codigo": "42194",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "42423": {
+      "codigo": "42423",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42665": {
+      "codigo": "42665",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C555) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42673": {
+      "codigo": "42673",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C619) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42676": {
+      "codigo": "42676",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C619)  - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "43015": {
+      "codigo": "43015",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C664)  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43131": {
+      "codigo": "43131",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C667)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "43138": {
+      "codigo": "43138",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C667)   - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "43214": {
+      "codigo": "43214",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C668) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "43221": {
+      "codigo": "43221",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C668)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44795": {
+      "codigo": "44795",
+      "titulo": "Camiseta Suedine ultra (C737) ARTE EM DTF LT34A  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44816": {
+      "codigo": "44816",
+      "titulo": "Camiseta Suedine ultra (C736) ARTE EM DTF LT34A   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44826": {
+      "codigo": "44826",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT34A (C736)  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44835": {
+      "codigo": "44835",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT34A (C738) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "44923": {
+      "codigo": "44923",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT34A (C739) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47350": {
+      "codigo": "47350",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | Fino acabamento e leveza LT44A (C855) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47384": {
+      "codigo": "47384",
+      "titulo": "Camiseta Malha Egípcia Soft Louis Vuitton | Fino acabamento e leveza LT44A (C859) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47437": {
+      "codigo": "47437",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | Fino acabamento e leveza LT44A (C865) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47667": {
+      "codigo": "47667",
+      "titulo": "Camiseta 40.1 HUGO BOSS | Conforto Essencial LT51A (C897) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48004": {
+      "codigo": "48004",
+      "titulo": "Camiseta Pima Hugo Boss Essencial LT51A (C942) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48944": {
+      "codigo": "48944",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48951": {
+      "codigo": "48951",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1103) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48976": {
+      "codigo": "48976",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT65A (C1107) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "49277": {
+      "codigo": "49277",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1152) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49547": {
+      "codigo": "49547",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | LT68A (C1186) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49655": {
+      "codigo": "49655",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1201) - Cor: OFFWHITE - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49671": {
+      "codigo": "49671",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1205) - Cor: VERMELHA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49689": {
+      "codigo": "49689",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1209) - Cor: PRETA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49791": {
+      "codigo": "49791",
+      "titulo": " Camiseta 40.1 Lacoste | LT68A (C1224) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "49879": {
+      "codigo": "49879",
+      "titulo": "Boné ultra Premium TOMMY (LT001.2) - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "49996": {
+      "codigo": "49996",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50005": {
+      "codigo": "50005",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1)  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50023": {
+      "codigo": "50023",
+      "titulo": "Regata Machão Suedine 1:1 Nike Air - ARTE EM DTF (LT003.1) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50238": {
+      "codigo": "50238",
+      "titulo": "Bermuda Nike Microfibra Ultra (LT003.3) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50263": {
+      "codigo": "50263",
+      "titulo": "Bermuda Adidas Microfibra Ultra (LT003.3) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50640": {
+      "codigo": "50640",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50652": {
+      "codigo": "50652",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50655": {
+      "codigo": "50655",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50664": {
+      "codigo": "50664",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50735": {
+      "codigo": "50735",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "50744": {
+      "codigo": "50744",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "50747": {
+      "codigo": "50747",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "50756": {
+      "codigo": "50756",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50759": {
+      "codigo": "50759",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50801": {
+      "codigo": "50801",
+      "titulo": "Bermuda Jordan Microfibra Ultra - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "50807": {
+      "codigo": "50807",
+      "titulo": "Bermuda Jordan Microfibra Ultra - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "50813": {
+      "codigo": "50813",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50841": {
+      "codigo": "50841",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51433": {
+      "codigo": "51433",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON Aba de couro (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "51451": {
+      "codigo": "51451",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: CINZA CLARO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53031": {
+      "codigo": "53031",
+      "titulo": "Camiseta Malha Chinesa Louis Vuitton (LT036) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "53038": {
+      "codigo": "53038",
+      "titulo": "Camiseta Malha Chinesa Louis Vuitton (LT036) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "53997": {
+      "codigo": "53997",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "54052": {
+      "codigo": "54052",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON (LT049) - Cor: PRETO MARINHO VERDE  - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "54742": {
+      "codigo": "54742",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54758": {
+      "codigo": "54758",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54778": {
+      "codigo": "54778",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "55408": {
+      "codigo": "55408",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - Logo Bordado (LT061) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55467": {
+      "codigo": "55467",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT061) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

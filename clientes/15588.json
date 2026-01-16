@@ -1,0 +1,77 @@
+{
+  "codigo": "15588",
+  "nome": "FÁBIO GIMENES",
+  "email": "gimenesfabio2010@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/09/2024",
+  "whatsapp": "(44) 99708-8068",
+  "cidade": "Tuneiras do Oeste",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 196.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "21004",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-12 16:14:09",
+      "data_hora_confirmacao": "2024-09-12 17:15:09",
+      "data_hora_confirmacao_pagamento": "2024-09-12 17:15:01",
+      "valor_total_produtos": 167.89,
+      "valor_frete": 29.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 196.97,
+      "desconto": 0,
+      "cidade": "Tuneiras do Oeste",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25459": {
+      "codigo": "25459",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "4"
+    },
+    "26640": {
+      "codigo": "26640",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26650": {
+      "codigo": "26650",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ABERCOMBRIE & FITCH - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "28346": {
+      "codigo": "28346",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28380": {
+      "codigo": "28380",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "4"
+    }
+  }
+}

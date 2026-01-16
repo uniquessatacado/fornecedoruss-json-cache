@@ -1,0 +1,45 @@
+{
+  "codigo": "3880",
+  "nome": "RENATO FRANCISCO VIEIRA DA COSTA",
+  "email": "renatinho.cat@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2023",
+  "whatsapp": "(19) 99114-3007",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 25,
+  "pedidos": [
+    {
+      "codigo_pedido": "2657",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-06 15:25:05",
+      "data_hora_confirmacao": "2023-11-06 15:39:39",
+      "data_hora_confirmacao_pagamento": "2023-11-06 15:39:50",
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD45.1": {
+      "codigo": "CD45.1",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS FEMININA  LT27.10 - Tamanho: GG - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME FEMININA  LT",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

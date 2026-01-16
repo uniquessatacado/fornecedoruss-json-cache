@@ -1,0 +1,96 @@
+{
+  "codigo": "18727",
+  "nome": "TULIO CÉSAR ALVES BEZERRA",
+  "email": "tuliocesar.alves@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/12/2024",
+  "whatsapp": "(81) 99848-3757",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 282.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "27315",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-28 08:26:05",
+      "data_hora_confirmacao": "2024-12-28 08:47:18",
+      "data_hora_confirmacao_pagamento": "2024-12-28 08:47:18",
+      "valor_total_produtos": 95,
+      "valor_frete": 17.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.93,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27993",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-06 18:34:56",
+      "data_hora_confirmacao": "2025-02-06 18:40:09",
+      "data_hora_confirmacao_pagamento": "2025-02-06 18:40:09",
+      "valor_total_produtos": 151.34,
+      "valor_frete": 18.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 169.84,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36486": {
+      "codigo": "36486",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "40909": {
+      "codigo": "40909",
+      "titulo": "Bermuda Microfibra Ultra (C252)   - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40951": {
+      "codigo": "40951",
+      "titulo": "Bermuda Microfibra Ultra (C250)  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41394": {
+      "codigo": "41394",
+      "titulo": "Boné Super Premium LT20A (C423) - Cor: BEGE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "41403": {
+      "codigo": "41403",
+      "titulo": "Boné Super Premium LT20A (C426) - Cor: VERDE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

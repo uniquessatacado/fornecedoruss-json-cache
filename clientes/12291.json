@@ -1,0 +1,96 @@
+{
+  "codigo": "12291",
+  "nome": "JULIO CESAR DE MOURA RODRIGUES",
+  "email": "cesarrodriguesi9moveis@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(51) 9939-33521",
+  "cidade": "Novo Hamburgo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 290.34000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "15711",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 21:34:58",
+      "data_hora_confirmacao": "2024-07-12 14:07:46",
+      "data_hora_confirmacao_pagamento": "2024-07-12 14:07:41",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 25.58,
+      "frete": "JADLOG",
+      "valor_total_pedido": 139.55,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19112",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-19 22:34:58",
+      "data_hora_confirmacao": "2024-08-20 12:27:41",
+      "data_hora_confirmacao_pagamento": "2024-08-20 12:27:34",
+      "valor_total_produtos": 126.88,
+      "valor_frete": 23.91,
+      "frete": "JADLOG",
+      "valor_total_pedido": 150.79,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23873": {
+      "codigo": "23873",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE & GABBANA arte em borracha  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "23892": {
+      "codigo": "23892",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em bordado - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "24000": {
+      "codigo": "24000",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em relevo - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "26274": {
+      "codigo": "26274",
+      "titulo": "MOLETOM 3 CABOS CANGURU - HUGO BOSS - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27407": {
+      "codigo": "27407",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - ARMANI arte em bordado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

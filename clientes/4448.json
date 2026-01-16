@@ -1,0 +1,77 @@
+{
+  "codigo": "4448",
+  "nome": "KLEBSON PEDRO DA SILVA",
+  "email": "juninho.ps145@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "05/12/2023",
+  "whatsapp": "(11) 99538-9782",
+  "cidade": "São Pedro do Turvo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 321.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "4032",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 15:54:46",
+      "data_hora_confirmacao": "2023-12-06 09:56:49",
+      "data_hora_confirmacao_pagamento": "2023-12-06 09:56:59",
+      "valor_total_produtos": 299.5,
+      "valor_frete": 21.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 321.05,
+      "desconto": 0,
+      "cidade": "São Pedro do Turvo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD61.12": {
+      "codigo": "CD61.12",
+      "titulo": "Óculos  Juliet - AZUL MARINHO  LT05.12  - Cor da Armação: Chumbo - Cor da Lente: Azul Marinho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.14": {
+      "codigo": "CD61.14",
+      "titulo": "Óculos  Juliet - LARANJA  LT05.12   - Cor da Armação: Chumbo - Cor da Lente: Amarelo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.13": {
+      "codigo": "CD61.13",
+      "titulo": "Óculos  Juliet - VERMELHO C/ROXO  LT05.12   - Cor da Armação: Prata - Cor da Lente: Vermelho com Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.2": {
+      "codigo": "CD59.2",
+      "titulo": "Óculos  Penny - DOURADA 24K  LT17.11  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD62.12": {
+      "codigo": "CD62.12",
+      "titulo": "Óculos  Romeu 2 - ROXO  LT05.12 - Cor da Armação: Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

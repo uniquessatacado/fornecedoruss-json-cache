@@ -1,0 +1,69 @@
+{
+  "codigo": "7525",
+  "nome": "UILLAN SANDOCLAR DE JESUS MENEZES",
+  "email": "Williamsandoclar190@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(79) 99909-8418",
+  "cidade": "Simão Dias",
+  "estado": "SE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 184.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "9359",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 19:33:39",
+      "data_hora_confirmacao": "2024-04-04 16:55:27",
+      "data_hora_confirmacao_pagamento": "2024-04-04 16:55:23",
+      "valor_total_produtos": 156.93,
+      "valor_frete": 27.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 184.19,
+      "desconto": 0,
+      "cidade": "Simão Dias",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.1G": {
+      "codigo": "CD32.1G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD4.17M": {
+      "codigo": "CD4.17M",
+      "titulo": "Bermuda SPANDEX ULTRA - Cor: VERDE CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

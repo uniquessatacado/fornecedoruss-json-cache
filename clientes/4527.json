@@ -1,0 +1,53 @@
+{
+  "codigo": "4527",
+  "nome": "ERICK FELIPE DA CUNHA LIMA",
+  "email": "erickfelipecunha22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/12/2023",
+  "whatsapp": "(19) 99348-7901",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 17,
+  "pedidos": [
+    {
+      "codigo_pedido": "4216",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-07 15:56:36",
+      "data_hora_confirmacao": "2023-12-07 16:12:31",
+      "data_hora_confirmacao_pagamento": "2023-12-07 17:14:48",
+      "valor_total_produtos": 17,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 17,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Preto - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

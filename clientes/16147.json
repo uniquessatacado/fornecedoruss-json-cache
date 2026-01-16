@@ -1,0 +1,45 @@
+{
+  "codigo": "16147",
+  "nome": "CAMILA MITE",
+  "email": "mitecamila1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2024",
+  "whatsapp": "(11) 96336-8891",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 20.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "22114",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 23:54:55",
+      "data_hora_confirmacao": "2024-10-02 12:41:04",
+      "data_hora_confirmacao_pagamento": "2024-10-02 12:40:54",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 20.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29733": {
+      "codigo": "29733",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

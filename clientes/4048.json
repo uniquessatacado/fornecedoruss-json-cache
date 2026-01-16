@@ -1,0 +1,72 @@
+{
+  "codigo": "4048",
+  "nome": "EVERTON RENATO COUTO PAREDES",
+  "email": "evertonparedes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/11/2023",
+  "whatsapp": "(19) 99592-5126",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 75,
+  "pedidos": [
+    {
+      "codigo_pedido": "3084",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-13 10:32:30",
+      "data_hora_confirmacao": "2023-11-14 07:58:25",
+      "data_hora_confirmacao_pagamento": "2023-11-14 11:33:56",
+      "valor_total_produtos": 50,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10503",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-22 11:37:19",
+      "data_hora_confirmacao": "2024-04-22 15:28:12",
+      "data_hora_confirmacao_pagamento": "2024-04-24 11:50:38",
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.61": {
+      "codigo": "CD01.61",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.112": {
+      "codigo": "CD01.112",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

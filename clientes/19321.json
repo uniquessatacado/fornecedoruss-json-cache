@@ -1,0 +1,96 @@
+{
+  "codigo": "19321",
+  "nome": "RONALDO PANTOJA BORGES",
+  "email": "ronaldoborges2703@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/02/2025",
+  "whatsapp": "(91) 99209-9966",
+  "cidade": "Colombo",
+  "estado": "PR",
+  "loja_drop": "0",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 64.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "28274",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-20 12:46:35",
+      "data_hora_confirmacao": "2025-02-20 12:48:59",
+      "data_hora_confirmacao_pagamento": "2025-02-20 12:48:59",
+      "valor_total_produtos": 40,
+      "valor_frete": 14.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.33,
+      "desconto": 0,
+      "cidade": "Colombo",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28581",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-07 12:36:22",
+      "data_hora_confirmacao": "2025-03-07 12:36:22",
+      "data_hora_confirmacao_pagamento": "2025-03-07 12:36:39",
+      "valor_total_produtos": 10,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 10,
+      "desconto": 0,
+      "cidade": "Colombo",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40672": {
+      "codigo": "40672",
+      "titulo": "Cuecas Peruanas (C260)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40679": {
+      "codigo": "40679",
+      "titulo": "Cuecas Peruanas (C260)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40828": {
+      "codigo": "40828",
+      "titulo": "Cuecas Peruanas (C264)    - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40853": {
+      "codigo": "40853",
+      "titulo": "Cuecas Peruanas (C266)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42502": {
+      "codigo": "42502",
+      "titulo": "Cueca Peruana LT29A (C636)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

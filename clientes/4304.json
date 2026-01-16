@@ -1,0 +1,61 @@
+{
+  "codigo": "4304",
+  "nome": "SANDRA CRISTINA BARBOSA",
+  "email": "sandracristina3009@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(19) 99346-1162",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 229.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "3687",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-27 12:09:48",
+      "data_hora_confirmacao": "2023-11-27 14:01:29",
+      "data_hora_confirmacao_pagamento": "2023-11-27 14:19:36",
+      "valor_total_produtos": 229.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 229.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.43": {
+      "codigo": "CD24.43",
+      "titulo": "Cuecas Peruanas - Tommy Hilfiger LT25.11  - Cor: Preto - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 5
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 21
+    },
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Cinza - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

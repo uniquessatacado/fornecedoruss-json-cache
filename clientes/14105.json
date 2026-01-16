@@ -1,0 +1,69 @@
+{
+  "codigo": "14105",
+  "nome": "LUIS GUILHERME RODRIGUES SILVA",
+  "email": "gui.lrs@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(16) 99255-4662",
+  "cidade": "Igarapava",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 146.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "18760",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 09:50:53",
+      "data_hora_confirmacao": "2024-08-15 14:25:37",
+      "data_hora_confirmacao_pagamento": "2024-08-15 14:25:30",
+      "valor_total_produtos": 127.96,
+      "valor_frete": 18.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.79,
+      "desconto": 0,
+      "cidade": "Igarapava",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27700": {
+      "codigo": "27700",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - BROOKSFIELD arte em bordado - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "27704": {
+      "codigo": "27704",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - BROOKSFIELD arte em bordado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "27930": {
+      "codigo": "27930",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - LEVIS arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "LEVIS",
+      "quantidade": "1"
+    },
+    "27939": {
+      "codigo": "27939",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - LEVIS arte bordada - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "LEVIS",
+      "quantidade": "1"
+    }
+  }
+}

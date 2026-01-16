@@ -1,0 +1,69 @@
+{
+  "codigo": "2992",
+  "nome": "MATHEUS HENRIQUE OZORIO AGOSTINHO",
+  "email": "henrique.matheus28@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(38) 99892-0277",
+  "cidade": "Pirapora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 158.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300858",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 18:03:49",
+      "data_hora_confirmacao": "2023-10-04 11:15:34",
+      "data_hora_confirmacao_pagamento": "2023-10-04 11:15:24",
+      "valor_total_produtos": 127,
+      "valor_frete": 31.53,
+      "frete": "PAC",
+      "valor_total_pedido": 158.53,
+      "desconto": 0,
+      "cidade": "Pirapora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.27GG": {
+      "codigo": "CD17.27GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.13GG": {
+      "codigo": "CD01.13GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Atletico MG - Tamanho: GG - Times : Atlético MG",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD07.14GG": {
+      "codigo": "CD07.14GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD02.30GG": {
+      "codigo": "CD02.30GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley (Arte em Termo Gel) - Cor: Branca - Marca: Hurley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    }
+  }
+}

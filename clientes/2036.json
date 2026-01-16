@@ -1,0 +1,168 @@
+{
+  "codigo": "2036",
+  "nome": "FABIO FARIAS",
+  "email": "fabiofjra@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "01/09/2023",
+  "whatsapp": "(21) 98612-7731",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 475.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302182",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-23 22:55:48",
+      "data_hora_confirmacao": "2023-10-25 14:09:33",
+      "data_hora_confirmacao_pagamento": "2023-10-25 14:16:49",
+      "valor_total_produtos": 383,
+      "valor_frete": 26.17,
+      "frete": "JADLOG",
+      "valor_total_pedido": 409.17,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-26 12:11:29",
+      "data_hora_confirmacao": "2023-10-26 12:24:53",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 66,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 66,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.42P": {
+      "codigo": "CD01.42P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.42M": {
+      "codigo": "CD01.42M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.30GG": {
+      "codigo": "CD17.30GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.8GG": {
+      "codigo": "CD41.8GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - ADIDAS  LT19.10    - Cor: Preto com Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD41.5GG": {
+      "codigo": "CD41.5GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - Mizuno LT19.10  - Cor: Preto com Vermelho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD41.1GG": {
+      "codigo": "CD41.1GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - LACOSTE  LT19.10   - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD41.2GG": {
+      "codigo": "CD41.2GG",
+      "titulo": "BERMUDA MICROFIBRA HIPER - MIZUNO  LT19.10   - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "MIZUNO",
+      "quantidade": 2
+    },
+    "CD26.5G": {
+      "codigo": "CD26.5G",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.5M": {
+      "codigo": "CD26.5M",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.1P": {
+      "codigo": "CD26.1P",
+      "titulo": "Regatas Drifit - Mizuno - Cor: Branca - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD27.19": {
+      "codigo": "CD27.19",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD17.39GG": {
+      "codigo": "CD17.39GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10    - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.38GG": {
+      "codigo": "CD17.38GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

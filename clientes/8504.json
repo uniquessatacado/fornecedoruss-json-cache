@@ -1,0 +1,99 @@
+{
+  "codigo": "8504",
+  "nome": "ELIABE MARQUES DA SILVA",
+  "email": "eliabems17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(19) 99814-2089",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 221.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "10549",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-23 11:18:31",
+      "data_hora_confirmacao": "2024-04-23 12:29:03",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 109.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 109.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10994",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-29 20:58:49",
+      "data_hora_confirmacao": "2024-05-02 12:54:01",
+      "data_hora_confirmacao_pagamento": "2024-05-02 15:49:45",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 54.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31551",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-05 09:29:54",
+      "data_hora_confirmacao": "2025-09-05 16:26:25",
+      "data_hora_confirmacao_pagamento": "2025-09-05 17:45:43",
+      "valor_total_produtos": 56.25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 56.25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17825": {
+      "codigo": "17825",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "51171": {
+      "codigo": "51171",
+      "titulo": "Camiseta Malha Egípcia Soft Boss- couro + bordado LT010 - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "KT1.2G": {
+      "codigo": "KT1.2G",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

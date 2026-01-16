@@ -1,0 +1,85 @@
+{
+  "codigo": "8259",
+  "nome": "ARTHUR V DA SILVA",
+  "email": "arthurvivas@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(21) 9642-25548",
+  "cidade": "Guapimirim",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 171.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "10915",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-28 21:24:27",
+      "data_hora_confirmacao": "2024-04-30 19:34:53",
+      "data_hora_confirmacao_pagamento": "2024-04-30 19:34:39",
+      "valor_total_produtos": 152.92,
+      "valor_frete": 18.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 171.54,
+      "desconto": 0,
+      "cidade": "Guapimirim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23M": {
+      "codigo": "CD24.23M",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD4.19M": {
+      "codigo": "CD4.19M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD7.01GG": {
+      "codigo": "CD7.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.21GG": {
+      "codigo": "CD24.21GG",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.22GG": {
+      "codigo": "CD24.22GG",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.144GG": {
+      "codigo": "CD02.144GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: VERMELHA - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

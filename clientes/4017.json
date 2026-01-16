@@ -1,0 +1,64 @@
+{
+  "codigo": "4017",
+  "nome": "RAPHAEL RICARDO GOMES",
+  "email": "raphaelricardo41930@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(13) 99618-8608",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 116.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "3023",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 14:25:47",
+      "data_hora_confirmacao": "2023-11-10 14:36:20",
+      "data_hora_confirmacao_pagamento": "2023-11-10 14:36:30",
+      "valor_total_produtos": 70,
+      "valor_frete": 11.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 81.7,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3099",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-13 16:27:59",
+      "data_hora_confirmacao": "2023-11-13 16:35:59",
+      "data_hora_confirmacao_pagamento": "2023-11-13 16:36:24",
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.18": {
+      "codigo": "CD39.18",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11  - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

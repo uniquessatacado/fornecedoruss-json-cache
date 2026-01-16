@@ -1,0 +1,96 @@
+{
+  "codigo": "7711",
+  "nome": "MARCUS WELB TRINDADE MARQUES",
+  "email": "m.welb@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(21) 96576-2006",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 358.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "9639",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 21:29:41",
+      "data_hora_confirmacao": "2024-04-08 16:44:13",
+      "data_hora_confirmacao_pagamento": "2024-04-08 16:44:09",
+      "valor_total_produtos": 224.84,
+      "valor_frete": 23.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 248.17,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9813",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 13:25:04",
+      "data_hora_confirmacao": "2024-04-11 13:30:49",
+      "data_hora_confirmacao_pagamento": "2024-04-11 13:30:43",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 17.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.54,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.141M": {
+      "codigo": "CD02.141M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: PRETA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.140M": {
+      "codigo": "CD02.140M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.10M": {
+      "codigo": "CD39.10M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.129M": {
+      "codigo": "CD02.129M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.139M": {
+      "codigo": "CD02.139M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

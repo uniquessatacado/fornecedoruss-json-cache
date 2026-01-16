@@ -1,0 +1,45 @@
+{
+  "codigo": "14550",
+  "nome": "ALEXANDRE LIMA SANTOS",
+  "email": "soalegria91@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/08/2024",
+  "whatsapp": "(33) 98402-4220",
+  "cidade": "Medina",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 57.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "19519",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-24 18:41:39",
+      "data_hora_confirmacao": "2024-08-26 11:06:42",
+      "data_hora_confirmacao_pagamento": "2024-08-26 11:06:35",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.78,
+      "desconto": 0,
+      "cidade": "Medina",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28751": {
+      "codigo": "28751",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

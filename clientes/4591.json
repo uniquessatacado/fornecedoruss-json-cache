@@ -1,0 +1,69 @@
+{
+  "codigo": "4591",
+  "nome": "VALDECIR GALVAO",
+  "email": "branco_geo@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "09/12/2023",
+  "whatsapp": "(86) 98186-5868",
+  "cidade": "Parnaíba",
+  "estado": "PI",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 158.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "4334",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-09 10:16:13",
+      "data_hora_confirmacao": "2023-12-09 10:27:57",
+      "data_hora_confirmacao_pagamento": "2023-12-09 10:28:08",
+      "valor_total_produtos": 125.3,
+      "valor_frete": 32.87,
+      "frete": "LOGGI",
+      "valor_total_pedido": 158.17,
+      "desconto": 0,
+      "cidade": "Parnaíba",
+      "estado": "PI",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.53": {
+      "codigo": "CD02.53",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

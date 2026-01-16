@@ -1,0 +1,112 @@
+{
+  "codigo": "1910",
+  "nome": "MICHEL SANTOS FERREIRA",
+  "email": "eumichelsp30@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "29/08/2023",
+  "whatsapp": "(15) 9811-98130",
+  "cidade": "Campina do Monte Alegre",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 262.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300036",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-14 11:59:24",
+      "data_hora_confirmacao": "2023-09-14 12:46:33",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 180,
+      "valor_frete": 30.28,
+      "frete": "SEDEX",
+      "valor_total_pedido": 210.28,
+      "desconto": 0,
+      "cidade": "Campina do Monte Alegre",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300041",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-14 17:11:54",
+      "data_hora_confirmacao": "2023-09-15 09:19:49",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 22.17,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.17,
+      "desconto": 0,
+      "cidade": "Campina do Monte Alegre",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43GG": {
+      "codigo": "CD01.43GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.3GG": {
+      "codigo": "CD01.3GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.44GG": {
+      "codigo": "CD01.44GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: GG - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.27M": {
+      "codigo": "CD01.27M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo - Tamanho: M - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.5G": {
+      "codigo": "CD02.5G",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD01.34G": {
+      "codigo": "CD01.34G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Roma - Tamanho: G - Times : Roma",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

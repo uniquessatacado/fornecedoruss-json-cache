@@ -1,0 +1,96 @@
+{
+  "codigo": "11756",
+  "nome": "CARLOS ALEXANDRE",
+  "email": "xande_ananias@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "30/06/2024",
+  "whatsapp": "(11) 97072-1744",
+  "cidade": "Itatiba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 168.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "14835",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-30 17:55:34",
+      "data_hora_confirmacao": "2024-07-01 13:01:18",
+      "data_hora_confirmacao_pagamento": "2024-07-01 13:01:10",
+      "valor_total_produtos": 88.46,
+      "valor_frete": 20.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.14,
+      "desconto": 0,
+      "cidade": "Itatiba",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "14838",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-30 18:03:57",
+      "data_hora_confirmacao": "2024-07-01 13:00:22",
+      "data_hora_confirmacao_pagamento": "2024-07-01 13:00:11",
+      "valor_total_produtos": 49.47,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.4,
+      "desconto": 0,
+      "cidade": "Itatiba",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "18141": {
+      "codigo": "18141",
+      "titulo": "FONE COM FIO ZERO RUIDO (ENTRADA PADRÃO) - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "3"
+    },
+    "22895": {
+      "codigo": "22895",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA NIKE- CANO CURTO  - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23013": {
+      "codigo": "23013",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23016": {
+      "codigo": "23016",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23019": {
+      "codigo": "23019",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

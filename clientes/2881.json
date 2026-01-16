@@ -1,0 +1,96 @@
+{
+  "codigo": "2881",
+  "nome": "RYAN RODRIGUES",
+  "email": "ryannrodriguess@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 95315-5619",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 90.24000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300738",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 07:54:01",
+      "data_hora_confirmacao": "2023-09-26 11:34:08",
+      "data_hora_confirmacao_pagamento": "2023-09-26 11:34:18",
+      "valor_total_produtos": 42.5,
+      "valor_frete": 13.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.7,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300977",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 15:58:58",
+      "data_hora_confirmacao": "2023-10-04 18:10:33",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 25.5,
+      "valor_frete": 9.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.54,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.1GG - Boss": {
+      "codigo": "CD24.1GG - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.10G - Lacoste": {
+      "codigo": "CD24.10G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.13GG - Lacoste": {
+      "codigo": "CD24.13GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    }
+  }
+}

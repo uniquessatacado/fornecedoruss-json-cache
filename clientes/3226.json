@@ -1,0 +1,45 @@
+{
+  "codigo": "3226",
+  "nome": "ANDERSON CARVALHO",
+  "email": "andersontrp97@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(13) 98216-0226",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302099",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 22:53:50",
+      "data_hora_confirmacao": "2023-10-21 09:23:07",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:23:28",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 9.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 69.61,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.36Juliet": {
+      "codigo": "CD32.36Juliet",
+      "titulo": "Óculos  Juliet - Vermelho c/Roxo   LT20.10   - Cor da Armação: Chumbo - Cor da Lente: Vermelho com Roxo - Kit Borracha: Vermelha - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

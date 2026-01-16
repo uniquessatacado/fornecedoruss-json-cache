@@ -1,0 +1,104 @@
+{
+  "codigo": "8692",
+  "nome": "VINICIUS SILVA",
+  "email": "viniciussilvaabs23@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(74) 99189-6640",
+  "cidade": "Campo Formoso",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 298.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "10802",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 12:16:30",
+      "data_hora_confirmacao": "2024-04-26 16:07:31",
+      "data_hora_confirmacao_pagamento": "2024-04-26 16:07:26",
+      "valor_total_produtos": 105.27,
+      "valor_frete": 25.31,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 130.58,
+      "desconto": 0,
+      "cidade": "Campo Formoso",
+      "estado": "BA",
+      "percentual_comissao": 65,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "15992",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-14 22:26:03",
+      "data_hora_confirmacao": "2024-07-15 10:45:00",
+      "data_hora_confirmacao_pagamento": "2024-07-15 10:44:54",
+      "valor_total_produtos": 126.97,
+      "valor_frete": 40.46,
+      "frete": "PAC",
+      "valor_total_pedido": 167.43,
+      "desconto": 0,
+      "cidade": "Campo Formoso",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23681": {
+      "codigo": "23681",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - JOHN JOHN arte em gel  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "24205": {
+      "codigo": "24205",
+      "titulo": "BLUSA MOLETOM 3 CABOS ULTRA - VERSACE - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "24395": {
+      "codigo": "24395",
+      "titulo": "CAMISETA SOFT EGÍPCIA - DOLCE E GABBANA arte em bordado madeira - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Soft Egípcia ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "CD01.4": {
+      "codigo": "CD01.4",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD50.14M": {
+      "codigo": "CD50.14M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - JORDAN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD5.01M": {
+      "codigo": "CD5.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

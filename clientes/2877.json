@@ -1,0 +1,45 @@
+{
+  "codigo": "2877",
+  "nome": "MIIKE MOURA",
+  "email": "jamerson45mk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 95904-3075",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 44.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300735",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 01:08:43",
+      "data_hora_confirmacao": "2023-09-26 11:37:57",
+      "data_hora_confirmacao_pagamento": "2023-09-26 11:37:51",
+      "valor_total_produtos": 33,
+      "valor_frete": 11.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 44.68,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.2G": {
+      "codigo": "CD17.2G",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

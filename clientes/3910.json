@@ -1,0 +1,88 @@
+{
+  "codigo": "3910",
+  "nome": "LEANDRO PIMENTEL GUERSON",
+  "email": "leandropimentelguerson@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(32) 99801-1402",
+  "cidade": "Leopoldina",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 281.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "2752",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 09:03:28",
+      "data_hora_confirmacao": "2023-11-07 11:16:08",
+      "data_hora_confirmacao_pagamento": "2023-11-07 11:16:20",
+      "valor_total_produtos": 175,
+      "valor_frete": 18.92,
+      "frete": "JADLOG",
+      "valor_total_pedido": 193.92,
+      "desconto": 0,
+      "cidade": "Leopoldina",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6162",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 16:13:53",
+      "data_hora_confirmacao": "2024-01-04 18:03:40",
+      "data_hora_confirmacao_pagamento": "2024-01-04 18:03:49",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 17.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.44,
+      "desconto": 0,
+      "cidade": "Leopoldina",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.6M": {
+      "codigo": "CD40.6M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD40.6GG": {
+      "codigo": "CD40.6GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.6G": {
+      "codigo": "CD40.6G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.63": {
+      "codigo": "CD17.63",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT04.01   - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "9901",
+  "nome": "ISAIAS DE SOUZA SOBROSA",
+  "email": "Isaias.sobrosa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/05/2024",
+  "whatsapp": "(27) 99999-5998",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 337.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "12586",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-25 10:36:07",
+      "data_hora_confirmacao": "2024-05-27 09:45:01",
+      "data_hora_confirmacao_pagamento": "2024-05-27 09:44:52",
+      "valor_total_produtos": 161.15,
+      "valor_frete": 33.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 194.59,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "13213",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 13:22:07",
+      "data_hora_confirmacao": "2024-06-06 14:30:59",
+      "data_hora_confirmacao_pagamento": "2024-06-06 14:30:12",
+      "valor_total_produtos": 111.78,
+      "valor_frete": 31.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 143.3,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "16931": {
+      "codigo": "16931",
+      "titulo": "CONJUNTO FEMINO ADIDAS - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19073": {
+      "codigo": "19073",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em ferro - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19163": {
+      "codigo": "19163",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em bordado - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19753": {
+      "codigo": "19753",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19754": {
+      "codigo": "19754",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19858": {
+      "codigo": "19858",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

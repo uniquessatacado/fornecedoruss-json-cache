@@ -1,0 +1,107 @@
+{
+  "codigo": "15042",
+  "nome": "WESLEY SOUZA ALVES",
+  "email": "wsouzaalves712@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(11) 9598-96324",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 181.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "20185",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 20:57:04",
+      "data_hora_confirmacao": "2024-09-03 11:49:59",
+      "data_hora_confirmacao_pagamento": "2024-09-03 11:49:53",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 13.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.43,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20186",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 20:57:04",
+      "data_hora_confirmacao": "2024-09-03 11:50:42",
+      "data_hora_confirmacao_pagamento": "2024-09-03 11:50:37",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 30.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20368",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENVIADO PARA O CLIENTE",
+      "data_hora_pedido": "2024-09-04 20:13:43",
+      "data_hora_confirmacao": "2024-09-05 11:10:26",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:10:17",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 11.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 74.05,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20669": {
+      "codigo": "20669",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21206": {
+      "codigo": "21206",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25450": {
+      "codigo": "25450",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

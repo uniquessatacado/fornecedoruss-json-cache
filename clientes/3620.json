@@ -1,0 +1,123 @@
+{
+  "codigo": "3620",
+  "nome": "CARLOS ALBERTO MOREIRA DA SILVA",
+  "email": "betodavidb10@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(85) 98612-5356",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 304.20000000000005,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302001",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 18:06:04",
+      "data_hora_confirmacao": "2023-10-20 09:27:01",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:27:10",
+      "valor_total_produtos": 70,
+      "valor_frete": 23.87,
+      "frete": "PAC",
+      "valor_total_pedido": 93.87,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25719",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 19:55:37",
+      "data_hora_confirmacao": "2024-12-04 20:00:29",
+      "data_hora_confirmacao_pagamento": "2024-12-04 20:00:29",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 15.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.15,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26914",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 15:35:12",
+      "data_hora_confirmacao": "2024-12-20 15:40:17",
+      "data_hora_confirmacao_pagamento": "2024-12-20 15:40:17",
+      "valor_total_produtos": 90,
+      "valor_frete": 21.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 111.18,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29124": {
+      "codigo": "29124",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "31270": {
+      "codigo": "31270",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36192": {
+      "codigo": "36192",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD4-BS) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36343": {
+      "codigo": "36343",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado ( MD5-OFF-DSL)  ( MD8-PRT-DSL)   - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD39.12P": {
+      "codigo": "CD39.12P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Cinza - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.9P": {
+      "codigo": "CD39.9P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

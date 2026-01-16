@@ -1,0 +1,72 @@
+{
+  "codigo": "12422",
+  "nome": "FRANCISCO LUCAS NOBREGA FERREIRA",
+  "email": "lucas.ferreira.20@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(88) 9333-3687",
+  "cidade": "Camocim",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 219.45999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "15999",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 08:07:04",
+      "data_hora_confirmacao": "2024-07-16 18:02:18",
+      "data_hora_confirmacao_pagamento": "2024-07-16 18:02:12",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 36.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.29,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16000",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 08:07:04",
+      "data_hora_confirmacao": "2024-07-16 18:01:23",
+      "data_hora_confirmacao_pagamento": "2024-07-16 18:01:14",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 40.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.17,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21913": {
+      "codigo": "21913",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24497": {
+      "codigo": "24497",
+      "titulo": "Chinelo Kenner Rakka Mono - COR CHINELO: MARROM - MODELO CHINELO: KENNER RAKKA MONO - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    }
+  }
+}

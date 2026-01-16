@@ -1,0 +1,99 @@
+{
+  "codigo": "14863",
+  "nome": "GUILHERME BALBINO",
+  "email": "guillhermebalbino@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/08/2024",
+  "whatsapp": "(19) 98762-6250",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 121.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "19912",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-29 20:06:52",
+      "data_hora_confirmacao": "2024-08-30 15:44:05",
+      "data_hora_confirmacao_pagamento": "2024-08-30 15:43:15",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.99,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20392",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-05 10:20:47",
+      "data_hora_confirmacao": "2024-09-05 11:28:29",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:28:22",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.99,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28679",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-03-12 16:43:10",
+      "data_hora_confirmacao": "2025-03-12 16:50:08",
+      "data_hora_confirmacao_pagamento": "2025-03-12 16:50:08",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 41.67,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29270": {
+      "codigo": "29270",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29279": {
+      "codigo": "29279",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43088": {
+      "codigo": "43088",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

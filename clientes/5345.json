@@ -1,0 +1,53 @@
+{
+  "codigo": "5345",
+  "nome": "VINÍCIUS HENRIQUE DA SILVA",
+  "email": "viniciusxlh2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/01/2024",
+  "whatsapp": "(19) 99593-7526",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "6525",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-13 10:49:38",
+      "data_hora_confirmacao": "2024-01-16 13:03:37",
+      "data_hora_confirmacao_pagamento": "2024-01-16 13:03:49",
+      "valor_total_produtos": 51.97,
+      "valor_frete": 10.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 62.74,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

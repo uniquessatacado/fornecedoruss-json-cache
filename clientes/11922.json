@@ -1,0 +1,61 @@
+{
+  "codigo": "11922",
+  "nome": "ADRIANO DUARTE DA SILVA",
+  "email": "duarte31082004@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(11) 9636-83101",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "15222",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-05 13:59:18",
+      "data_hora_confirmacao": "2024-07-05 15:03:03",
+      "data_hora_confirmacao_pagamento": "2024-07-05 15:02:57",
+      "valor_total_produtos": 93.97,
+      "valor_frete": 13.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 107.58,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23538": {
+      "codigo": "23538",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23554": {
+      "codigo": "23554",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23557": {
+      "codigo": "23557",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

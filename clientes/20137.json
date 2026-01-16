@@ -1,0 +1,53 @@
+{
+  "codigo": "20137",
+  "nome": "DANIEL SILVA",
+  "email": "dpsteiloch@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "24/06/2025",
+  "whatsapp": "(11) 98246-6646",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 112.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "30377",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-24 23:27:14",
+      "data_hora_confirmacao": "2025-06-24 23:29:00",
+      "data_hora_confirmacao_pagamento": "2025-06-24 23:29:00",
+      "valor_total_produtos": 100,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.77,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "49677": {
+      "codigo": "49677",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1206) - Cor: VERMELHA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49693": {
+      "codigo": "49693",
+      "titulo": "Camiseta 40.1 Plus Size Diesel | LT68A (C1210)  - Cor: PRETA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

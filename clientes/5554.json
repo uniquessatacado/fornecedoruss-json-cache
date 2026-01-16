@@ -1,0 +1,123 @@
+{
+  "codigo": "5554",
+  "nome": "BRUNO PORTUGAL",
+  "email": "Brunportugal@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(16) 99384-0058",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 193.57999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "8564",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-15 21:20:19",
+      "data_hora_confirmacao": "2024-03-16 13:15:18",
+      "data_hora_confirmacao_pagamento": "2024-03-16 13:15:13",
+      "valor_total_produtos": 41.98,
+      "valor_frete": 12.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.52,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9987",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 17:16:44",
+      "data_hora_confirmacao": "2024-04-13 12:46:49",
+      "data_hora_confirmacao_pagamento": "2024-04-13 12:46:43",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 14.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.02,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20393",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 10:22:30",
+      "data_hora_confirmacao": "2024-09-05 11:59:37",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:59:29",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 13.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.04,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29746": {
+      "codigo": "29746",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29758": {
+      "codigo": "29758",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.20": {
+      "codigo": "CD43.20",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD43.09 MD-5": {
+      "codigo": "CD43.09 MD-5",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.145G": {
+      "codigo": "CD02.145G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  - Cor: PRETA - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.142G": {
+      "codigo": "CD02.142G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: PRETA - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

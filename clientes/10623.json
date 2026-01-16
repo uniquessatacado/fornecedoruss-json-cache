@@ -1,0 +1,61 @@
+{
+  "codigo": "10623",
+  "nome": "RODRIGO POLTRONIERI",
+  "email": "janadodo@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(19) 9912-59902",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "13301",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-07 14:39:31",
+      "data_hora_confirmacao": "2024-06-07 18:34:18",
+      "data_hora_confirmacao_pagamento": "2024-06-07 18:34:10",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 107.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20179": {
+      "codigo": "20179",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20184": {
+      "codigo": "20184",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20190": {
+      "codigo": "20190",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: VERDE LIMA  - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

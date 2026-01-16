@@ -1,0 +1,61 @@
+{
+  "codigo": "9739",
+  "nome": "HASLLEY ALVES ASSIS",
+  "email": "haslleyalve90@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(98) 9918-46311",
+  "cidade": "Paço do Lumiar",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "12262",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 23:14:48",
+      "data_hora_confirmacao": "2024-05-22 10:17:21",
+      "data_hora_confirmacao_pagamento": "2024-05-22 10:17:14",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 36.26,
+      "frete": "JADLOG",
+      "valor_total_pedido": 132.23,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18944": {
+      "codigo": "18944",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte em ferro  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "19035": {
+      "codigo": "19035",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

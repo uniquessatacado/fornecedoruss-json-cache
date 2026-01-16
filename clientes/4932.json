@@ -1,0 +1,77 @@
+{
+  "codigo": "4932",
+  "nome": "HENRIQUE DE MOURA GALDINO",
+  "email": "Mourah072@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/12/2023",
+  "whatsapp": "(19) 99231-2507",
+  "cidade": "Elias Fausto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 242.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "5450",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-21 10:56:27",
+      "data_hora_confirmacao": "2023-12-21 11:00:19",
+      "data_hora_confirmacao_pagamento": "2023-12-21 11:12:14",
+      "valor_total_produtos": 242.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 242.95,
+      "desconto": 0,
+      "cidade": "Elias Fausto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD69.1": {
+      "codigo": "CD69.1",
+      "titulo": "CAMISETA EGIPICIA COTTON - LACOSTE  LT20.12 - Cor: OffWhite - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.41": {
+      "codigo": "CD39.41",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.5": {
+      "codigo": "CD69.5",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD62.5": {
+      "codigo": "CD62.5",
+      "titulo": "Óculos  Romeu 2 - DOURADO 24K   LT18.11  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

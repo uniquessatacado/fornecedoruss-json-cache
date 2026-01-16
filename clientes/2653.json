@@ -1,0 +1,61 @@
+{
+  "codigo": "2653",
+  "nome": "ANDREILSON DE OLIVEIRA ROCHA",
+  "email": "andreoliveira0211@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(11) 97401-1650",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300517",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 22:22:26",
+      "data_hora_confirmacao": "2023-09-24 23:55:43",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:55:52",
+      "valor_total_produtos": 140,
+      "valor_frete": 15.46,
+      "frete": "SEDEX",
+      "valor_total_pedido": 155.46,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.3M": {
+      "codigo": "CD07.3M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci ( Bordado com a linha madeira) - Cor: OffWhite - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.2M": {
+      "codigo": "CD33.2M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.26M": {
+      "codigo": "CD08.26M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Moschino (Arte holográfica camaleão e pelo Diamante) - Cor: Cinza - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Moschino",
+      "quantidade": "1"
+    }
+  }
+}

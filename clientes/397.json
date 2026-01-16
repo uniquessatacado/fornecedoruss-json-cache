@@ -1,0 +1,45 @@
+{
+  "codigo": "397",
+  "nome": "GUSTAVO BARBOSA",
+  "email": "gustavoyuribarbosa04@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "14/03/2023",
+  "whatsapp": "(11) 95865-6125",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 153.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "17940",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 13:49:53",
+      "data_hora_confirmacao": "2024-08-07 12:34:21",
+      "data_hora_confirmacao_pagamento": "2024-08-07 12:34:16",
+      "valor_total_produtos": 141.99,
+      "valor_frete": 11.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 153.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25554": {
+      "codigo": "25554",
+      "titulo": "SMARTWATCH HW9 ULTRA MAX  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH HW9 ULTRA MAX ",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    }
+  }
+}

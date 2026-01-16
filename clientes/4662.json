@@ -1,0 +1,198 @@
+{
+  "codigo": "4662",
+  "nome": "BRENO BISPO DA SILVA",
+  "email": "bispobreno045@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "12/12/2023",
+  "whatsapp": "(16) 9941-83133",
+  "cidade": "Ibaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1153.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "4623",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 08:31:34",
+      "data_hora_confirmacao": "2023-12-13 13:13:51",
+      "data_hora_confirmacao_pagamento": "2023-12-13 13:14:03",
+      "valor_total_produtos": 559.84,
+      "valor_frete": 30.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 590.63,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8274",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 11:37:39",
+      "data_hora_confirmacao": "2024-03-12 14:21:12",
+      "data_hora_confirmacao_pagamento": "2024-03-12 14:21:07",
+      "valor_total_produtos": 339.87,
+      "valor_frete": 29.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 369.55,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8400",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-13 13:39:06",
+      "data_hora_confirmacao": "2024-03-13 13:48:09",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:48:05",
+      "valor_total_produtos": 19.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 19.9,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31308",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-15 09:57:29",
+      "data_hora_confirmacao": "2025-08-15 09:58:27",
+      "data_hora_confirmacao_pagamento": "2025-08-15 09:58:27",
+      "valor_total_produtos": 151.86,
+      "valor_frete": 22.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 173.89,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42673": {
+      "codigo": "42673",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42710": {
+      "codigo": "42710",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42713": {
+      "codigo": "42713",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 10
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD31GG": {
+      "codigo": "CD31GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD31G": {
+      "codigo": "CD31G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD32GG": {
+      "codigo": "CD32GG",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD04.8GG": {
+      "codigo": "CD04.8GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD04.7GG": {
+      "codigo": "CD04.7GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD32M": {
+      "codigo": "CD32M",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD30": {
+      "codigo": "CD30",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

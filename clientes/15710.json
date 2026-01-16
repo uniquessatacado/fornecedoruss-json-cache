@@ -1,0 +1,115 @@
+{
+  "codigo": "15710",
+  "nome": "MATHEUS FARIAS DOS SANTOS",
+  "email": "mateusfarias47@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/09/2024",
+  "whatsapp": "(21) 96842-2349",
+  "cidade": "São João de Meriti",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 323.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "21209",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-16 18:18:04",
+      "data_hora_confirmacao": "2024-09-17 10:10:52",
+      "data_hora_confirmacao_pagamento": "2024-09-17 10:10:47",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 13.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 68.44,
+      "desconto": 0,
+      "cidade": "São João de Meriti",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-24 17:37:00",
+      "data_hora_confirmacao": "2024-09-25 09:37:55",
+      "data_hora_confirmacao_pagamento": "2024-09-25 09:37:49",
+      "valor_total_produtos": 165.97,
+      "valor_frete": 20.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 186.45,
+      "desconto": 0,
+      "cidade": "São João de Meriti",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22896",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-16 11:36:52",
+      "data_hora_confirmacao": "2024-10-16 12:46:36",
+      "data_hora_confirmacao_pagamento": "2024-10-16 12:46:26",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 13.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 68.76,
+      "desconto": 0,
+      "cidade": "São João de Meriti",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26605": {
+      "codigo": "26605",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27890": {
+      "codigo": "27890",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em aplique - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30680": {
+      "codigo": "30680",
+      "titulo": "Chinelo NIKE AIR MAX CIRRO  - COR CHINELO: VERMELHO/PRETO - Marca: Nike - MODELO CHINELO: AIR MAX CIRRO - TAMANHO CHINELO: 41",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30761": {
+      "codigo": "30761",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32516": {
+      "codigo": "32516",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

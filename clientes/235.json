@@ -1,0 +1,80 @@
+{
+  "codigo": "235",
+  "nome": "LUIZ FERNANDO MENDES",
+  "email": "luizfernando1858@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(34) 99159-5650",
+  "cidade": "Monte Carmelo",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 298.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "3029",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 15:58:49",
+      "data_hora_confirmacao": "2023-11-10 16:40:08",
+      "data_hora_confirmacao_pagamento": "2023-11-10 16:40:18",
+      "valor_total_produtos": 195,
+      "valor_frete": 22.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 217.77,
+      "desconto": 0,
+      "cidade": "Monte Carmelo",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5281",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 11:40:39",
+      "data_hora_confirmacao": "2023-12-20 17:27:16",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:27:47",
+      "valor_total_produtos": 65,
+      "valor_frete": 15.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.36,
+      "desconto": 0,
+      "cidade": "Monte Carmelo",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.40": {
+      "codigo": "CD16.40",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10    - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD16.49": {
+      "codigo": "CD16.49",
+      "titulo": "Camisetas de Time Tailandesas - CRUZEIRO  LT06.11  - Tamanho: G - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

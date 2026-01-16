@@ -1,0 +1,53 @@
+{
+  "codigo": "18030",
+  "nome": "LAURA GABRIELA FERRO",
+  "email": "lauragabriela070@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/12/2024",
+  "whatsapp": "(19) 99998-9137",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 245.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "25523",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-02 18:31:13",
+      "data_hora_confirmacao": "2024-12-02 18:40:08",
+      "data_hora_confirmacao_pagamento": "2024-12-02 18:40:08",
+      "valor_total_produtos": 170.98,
+      "valor_frete": 14.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 245.15,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20695": {
+      "codigo": "20695",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20747": {
+      "codigo": "20747",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

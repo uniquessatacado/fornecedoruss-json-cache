@@ -1,0 +1,96 @@
+{
+  "codigo": "2889",
+  "nome": "SIDNEI CHIOVETTO DE CARVALHO",
+  "email": "SCHIOVETTO@GMAIL.COM",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 97542-3330",
+  "cidade": "Bom Jesus dos Perdões",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 226,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300994",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 18:13:29",
+      "data_hora_confirmacao": "2023-09-29 18:23:25",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:42:20",
+      "valor_total_produtos": 196,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 196,
+      "desconto": 0,
+      "cidade": "Bom Jesus dos Perdões",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301079",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-01 10:05:31",
+      "data_hora_confirmacao": "2023-10-02 10:25:34",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:42:28",
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Bom Jesus dos Perdões",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.28M": {
+      "codigo": "CD17.28M",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.4M": {
+      "codigo": "CD04.4M",
+      "titulo": "Camiseta Louis Vitton Egípcia Cotton Luxo - Cor: OffWhite - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "CD26.6M": {
+      "codigo": "CD26.6M",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Bebê - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Claro - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.43P": {
+      "codigo": "CD01.43P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: P - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

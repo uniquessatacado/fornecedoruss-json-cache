@@ -1,0 +1,77 @@
+{
+  "codigo": "3764",
+  "nome": "ANA FLAVIA OLIVEIRA DE ARAUJO",
+  "email": "anaflavia99@live.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2023",
+  "whatsapp": "(19) 99409-1146",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 231.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "2327",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 17:10:04",
+      "data_hora_confirmacao": "2023-10-26 17:21:51",
+      "data_hora_confirmacao_pagamento": "2023-10-26 17:22:05",
+      "valor_total_produtos": 215,
+      "valor_frete": 16.17,
+      "frete": "SEDEX",
+      "valor_total_pedido": 231.17,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.43M": {
+      "codigo": "CD02.43M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.30P": {
+      "codigo": "CD07.30P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Hugo Boss - Cor: Azul Royal - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.10P": {
+      "codigo": "CD39.10P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.26M": {
+      "codigo": "CD07.26M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD17.37M": {
+      "codigo": "CD17.37M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

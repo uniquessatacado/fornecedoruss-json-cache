@@ -1,0 +1,69 @@
+{
+  "codigo": "1599",
+  "nome": "TATIANE CRUZ",
+  "email": "tatianecruz22@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "22/08/2023",
+  "whatsapp": "(41) 9885-15015",
+  "cidade": "Pinhais",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 242.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "21315",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-18 21:09:46",
+      "data_hora_confirmacao": "2024-09-20 13:00:45",
+      "data_hora_confirmacao_pagamento": "2024-09-20 13:00:37",
+      "valor_total_produtos": 221.15,
+      "valor_frete": 21.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 242.2,
+      "desconto": 0,
+      "cidade": "Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 1,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "25130": {
+      "codigo": "25130",
+      "titulo": "Calça Jeans Luxo Importada - LACOSTE - Cor: JEANS - Tamanho: 38",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28848": {
+      "codigo": "28848",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte em bordado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30312": {
+      "codigo": "30312",
+      "titulo": " Camiseta Algodão Soft Americano - ARMANI arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "30426": {
+      "codigo": "30426",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

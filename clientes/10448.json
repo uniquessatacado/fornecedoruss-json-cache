@@ -1,0 +1,85 @@
+{
+  "codigo": "10448",
+  "nome": "JEFERSON DOS SANTOS",
+  "email": "dejotta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(45) 99952-5228",
+  "cidade": "Toledo",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 233.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "15630",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 11:45:25",
+      "data_hora_confirmacao": "2024-07-11 13:09:26",
+      "data_hora_confirmacao_pagamento": "2024-07-11 13:09:20",
+      "valor_total_produtos": 205.94,
+      "valor_frete": 27.38,
+      "frete": "JADLOG",
+      "valor_total_pedido": 233.32,
+      "desconto": 0,
+      "cidade": "Toledo",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22824": {
+      "codigo": "22824",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22895": {
+      "codigo": "22895",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA NIKE- CANO CURTO  - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22898": {
+      "codigo": "22898",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO CURTO - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22916": {
+      "codigo": "22916",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO LONGO - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23906": {
+      "codigo": "23906",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em bordado - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "23960": {
+      "codigo": "23960",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

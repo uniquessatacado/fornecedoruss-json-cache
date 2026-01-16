@@ -1,0 +1,61 @@
+{
+  "codigo": "6153",
+  "nome": "GUSTAVO ALBUQUERQUE",
+  "email": "gustavo3s@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "15/02/2024",
+  "whatsapp": "(69) 99250-1935",
+  "cidade": "Ariquemes",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 258.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "7256",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-15 16:23:29",
+      "data_hora_confirmacao": "2024-02-15 16:42:41",
+      "data_hora_confirmacao_pagamento": "2024-02-15 16:42:28",
+      "valor_total_produtos": 215.94,
+      "valor_frete": 42.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 258.75,
+      "desconto": 0,
+      "cidade": "Ariquemes",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.15": {
+      "codigo": "CD40.15",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  ADIDAS - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

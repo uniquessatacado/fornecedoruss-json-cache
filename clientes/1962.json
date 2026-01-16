@@ -1,0 +1,112 @@
+{
+  "codigo": "1962",
+  "nome": "MAURO SANTOS",
+  "email": "mauroodebretch@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "30/08/2023",
+  "whatsapp": "(71) 99661-1007",
+  "cidade": "Araçatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 413.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "6569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-16 13:03:40",
+      "data_hora_confirmacao": "2024-01-16 13:19:15",
+      "data_hora_confirmacao_pagamento": "2024-01-16 13:19:30",
+      "valor_total_produtos": 337.85,
+      "valor_frete": 28.35,
+      "frete": "SEDEX",
+      "valor_total_pedido": 366.2,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6578",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-16 16:08:50",
+      "data_hora_confirmacao": "2024-01-16 16:10:21",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 46.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 46.98,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.58": {
+      "codigo": "CD39.58",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD39.56": {
+      "codigo": "CD39.56",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.53": {
+      "codigo": "CD39.53",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Azul Marinho - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 4
+    },
+    "CD24.56": {
+      "codigo": "CD24.56",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Cinza - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD39.57": {
+      "codigo": "CD39.57",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

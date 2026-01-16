@@ -1,0 +1,120 @@
+{
+  "codigo": "16646",
+  "nome": "NIVALDO DE JESUS SANTANA",
+  "email": "nino.santana112@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/10/2024",
+  "whatsapp": "(19) 99842-6137",
+  "cidade": "Araras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 288.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "23012",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-18 19:05:22",
+      "data_hora_confirmacao": "2024-10-21 17:00:20",
+      "data_hora_confirmacao_pagamento": "2024-10-21 16:59:57",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 13.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.04,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24512",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-15 21:32:40",
+      "data_hora_confirmacao": "2024-11-16 12:13:19",
+      "data_hora_confirmacao_pagamento": "2024-11-16 12:13:19",
+      "valor_total_produtos": 203.94,
+      "valor_frete": 21.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 225.39,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31795": {
+      "codigo": "31795",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31799": {
+      "codigo": "31799",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34514": {
+      "codigo": "34514",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM - Cor: VERDE MUSGO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34518": {
+      "codigo": "34518",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34631": {
+      "codigo": "34631",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "34761": {
+      "codigo": "34761",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM     - Cor: VERDE MUSGO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "34767": {
+      "codigo": "34767",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM     - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "34783": {
+      "codigo": "34783",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM      - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "4525",
+  "nome": "GABRIEL MICHEL FERREIRA DA SILVA",
+  "email": "gabrielrotrapack@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/12/2023",
+  "whatsapp": "(19) 98968-9891",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 239.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "4207",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-07 14:58:27",
+      "data_hora_confirmacao": "2023-12-07 23:56:54",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:57:05",
+      "valor_total_produtos": 133.45,
+      "valor_frete": 12.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 145.86,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "20587",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-07 15:49:36",
+      "data_hora_confirmacao": "2024-09-09 09:49:33",
+      "data_hora_confirmacao_pagamento": "2024-09-09 09:49:24",
+      "valor_total_produtos": 93.58,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 93.58,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 80,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "30205": {
+      "codigo": "30205",
+      "titulo": "Óculos OAKLEY JULIET - LUPA DO VILÃO - ARMAÇÃO: CARBON - BLACK - COR DA LENTE: NEON BLUE - Kit Borracha: PRETA - MODELO: LUPA DO VILÃO ",
+      "categoria_principal": "OCULOS",
+      "categoria": "LUPA DO VILÃO",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Vermelha - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.30": {
+      "codigo": "CD39.30",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

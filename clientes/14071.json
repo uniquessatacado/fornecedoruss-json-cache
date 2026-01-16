@@ -1,0 +1,69 @@
+{
+  "codigo": "14071",
+  "nome": "MARCELO SILVA CARBONARO",
+  "email": "marcelocarbonaro@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/08/2024",
+  "whatsapp": "(11) 97358-8001",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 181.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "18687",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 15:24:52",
+      "data_hora_confirmacao": "2024-08-14 19:31:33",
+      "data_hora_confirmacao_pagamento": "2024-08-14 19:31:27",
+      "valor_total_produtos": 164.96,
+      "valor_frete": 16.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 181.3,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27355": {
+      "codigo": "27355",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIESEL arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27408": {
+      "codigo": "27408",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - ARMANI arte em bordado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27417": {
+      "codigo": "27417",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte emborrachada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "27597": {
+      "codigo": "27597",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte patch emborrachado - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

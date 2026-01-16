@@ -1,0 +1,45 @@
+{
+  "codigo": "2135",
+  "nome": "ANDERSON FERNANDES",
+  "email": "andersonf141996@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "05/09/2023",
+  "whatsapp": "(81) 99979-5322",
+  "cidade": "Paulista",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 126.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "8940",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-26 20:25:17",
+      "data_hora_confirmacao": "2024-03-28 09:36:45",
+      "data_hora_confirmacao_pagamento": "2024-03-28 09:36:41",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 19.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.99,
+      "desconto": 0,
+      "cidade": "Paulista",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.11GG": {
+      "codigo": "CD4.11GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    }
+  }
+}

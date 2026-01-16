@@ -1,0 +1,45 @@
+{
+  "codigo": "3112",
+  "nome": "JORGE FERNANDO ESCOBAR",
+  "email": "jjescobar12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(11) 9912-17294",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 48.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301972",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 14:05:28",
+      "data_hora_confirmacao": "2023-10-19 14:43:13",
+      "data_hora_confirmacao_pagamento": "2023-10-19 14:43:34",
+      "valor_total_produtos": 40,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

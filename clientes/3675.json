@@ -1,0 +1,99 @@
+{
+  "codigo": "3675",
+  "nome": "RENAN ALVES DE OLIVEIRA",
+  "email": "paulpogba06utd@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2023",
+  "whatsapp": "(11) 96304-8014",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 173.42000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302129",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 13:14:42",
+      "data_hora_confirmacao": "2023-10-23 09:56:32",
+      "data_hora_confirmacao_pagamento": "2023-10-23 09:56:39",
+      "valor_total_produtos": 30,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.6,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5853",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-26 12:15:00",
+      "data_hora_confirmacao": "2023-12-26 12:22:25",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:22:34",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 9.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.74,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10304",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 09:57:17",
+      "data_hora_confirmacao": "2024-04-19 12:37:44",
+      "data_hora_confirmacao_pagamento": "2024-04-19 12:37:39",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 11.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.08,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.35G": {
+      "codigo": "CD01.35G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD59.15": {
+      "codigo": "CD59.15",
+      "titulo": "Óculos  Penny - AZUL C/ROXO   - Cor da Armação: Preto - Cor da Lente: Azul c/Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.16M": {
+      "codigo": "CD24.16M",
+      "titulo": "Cuecas Peruanas - CALVIN KLEN - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    }
+  }
+}

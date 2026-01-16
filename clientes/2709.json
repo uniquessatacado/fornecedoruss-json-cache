@@ -1,0 +1,190 @@
+{
+  "codigo": "2709",
+  "nome": "ANA PAULA RODRIGUES REGINALDO",
+  "email": "paularodriguescg@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(21) 96438-2612",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 521.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301732",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-13 21:14:42",
+      "data_hora_confirmacao": "2023-10-16 11:47:46",
+      "data_hora_confirmacao_pagamento": "2023-10-16 11:47:37",
+      "valor_total_produtos": 51,
+      "valor_frete": 13.59,
+      "frete": "JADLOG",
+      "valor_total_pedido": 64.59,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3775",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-29 02:59:33",
+      "data_hora_confirmacao": "2023-11-29 12:31:00",
+      "data_hora_confirmacao_pagamento": "2023-11-29 12:31:09",
+      "valor_total_produtos": 109,
+      "valor_frete": 19.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.88,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4075",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 11:22:03",
+      "data_hora_confirmacao": "2023-12-06 11:28:49",
+      "data_hora_confirmacao_pagamento": "2023-12-06 11:28:58",
+      "valor_total_produtos": 102,
+      "valor_frete": 21.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.86,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4263",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 10:05:22",
+      "data_hora_confirmacao": "2023-12-08 21:08:17",
+      "data_hora_confirmacao_pagamento": "2023-12-08 21:08:26",
+      "valor_total_produtos": 177,
+      "valor_frete": 27.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 204.16,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.27GG - Boss": {
+      "codigo": "CD24.27GG - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Cinza - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.31GG - CALVIN KLEIN": {
+      "codigo": "CD24.31GG - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra Rajada Gramatura 150g  - NIKE   LT25.11  - Cor: Cinza Claro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD13.4": {
+      "codigo": "CD13.4",
+      "titulo": "Camiseta Standard Fit Importada - ADIDAS   LT16.11  - Cor: Preto Mescla - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 12
+    },
+    "CD02.54": {
+      "codigo": "CD02.54",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12   - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD67.8": {
+      "codigo": "CD67.8",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - HURLEY  LT07.12  - Tamanho: 48",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Azul Marinho - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    }
+  }
+}

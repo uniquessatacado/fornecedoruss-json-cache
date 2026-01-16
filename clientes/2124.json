@@ -1,0 +1,69 @@
+{
+  "codigo": "2124",
+  "nome": "WILLIAM DE SOUZA VIEIRA",
+  "email": "wsv2001wsvwilliam@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/09/2023",
+  "whatsapp": "(19) 98203-8120",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "7338",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-20 08:44:51",
+      "data_hora_confirmacao": "2024-02-20 09:11:29",
+      "data_hora_confirmacao_pagamento": "2024-02-20 09:11:45",
+      "valor_total_produtos": 104.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 104.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.112": {
+      "codigo": "CD01.112",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD01.42P": {
+      "codigo": "CD01.42P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Palmeiras Manga Longa - Tamanho: P - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

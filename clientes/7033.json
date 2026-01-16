@@ -1,0 +1,104 @@
+{
+  "codigo": "7033",
+  "nome": "RICARDO ALEXANDRE JORGE",
+  "email": "ricardo.raj@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/03/2024",
+  "whatsapp": "(13) 98860-0377",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 275.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "8685",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 19:40:15",
+      "data_hora_confirmacao": "2024-03-20 14:36:17",
+      "data_hora_confirmacao_pagamento": "2024-03-20 14:36:10",
+      "valor_total_produtos": 27.98,
+      "valor_frete": 10.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 38.01,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "9592",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-06 14:52:03",
+      "data_hora_confirmacao": "2024-04-08 10:48:49",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:48:43",
+      "valor_total_produtos": 219.74,
+      "valor_frete": 17.3,
+      "frete": "SEDEX",
+      "valor_total_pedido": 237.04,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.11M": {
+      "codigo": "CD24.11M",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.10g": {
+      "codigo": "CD24.10g",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.139G": {
+      "codigo": "CD02.139G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32.1G": {
+      "codigo": "CD32.1G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD25.11G": {
+      "codigo": "CD25.11G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ADIDAS - Cor: KIT - PRETA - CINZA - MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

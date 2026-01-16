@@ -1,0 +1,53 @@
+{
+  "codigo": "13234",
+  "nome": "NÁGILA SOUZA",
+  "email": "nagilasouza105@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/07/2024",
+  "whatsapp": "(11) 95467-5735",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 51.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "17977",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 19:57:06",
+      "data_hora_confirmacao": "2024-08-07 10:53:39",
+      "data_hora_confirmacao_pagamento": "2024-08-07 10:53:33",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 11.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.14,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26549": {
+      "codigo": "26549",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "26555": {
+      "codigo": "26555",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

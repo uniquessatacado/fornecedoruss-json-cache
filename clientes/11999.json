@@ -1,0 +1,53 @@
+{
+  "codigo": "11999",
+  "nome": "DAVID EDSON",
+  "email": "davidvilaed87@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/07/2024",
+  "whatsapp": "(11) 9300-85032",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "17835",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-04 10:34:59",
+      "data_hora_confirmacao": "2024-08-05 11:06:38",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:06:29",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 12.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.51,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25995": {
+      "codigo": "25995",
+      "titulo": "Chinelo Premium ADIDAS - COR CHINELO: PRETO - Marca: Adidas - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 40/41",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26123": {
+      "codigo": "26123",
+      "titulo": "Camiseta Egípcia Luxo - GUCCI arte em Bordado estilo serragem - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

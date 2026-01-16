@@ -1,0 +1,53 @@
+{
+  "codigo": "4987",
+  "nome": "HENRIQUE FELIPE CASAGRANDE",
+  "email": "henriquefelipecasagrande94415@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(19) 98763-5572",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "6003",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-29 12:45:48",
+      "data_hora_confirmacao": "2023-12-29 17:22:36",
+      "data_hora_confirmacao_pagamento": "2023-12-29 17:29:20",
+      "valor_total_produtos": 47.6,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 47.6,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

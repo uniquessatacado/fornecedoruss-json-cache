@@ -1,0 +1,104 @@
+{
+  "codigo": "6896",
+  "nome": "ANDERSON SILVA",
+  "email": "andynaah1993@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(11) 99874-3118",
+  "cidade": "Várzea Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 304.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "8373",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 00:24:09",
+      "data_hora_confirmacao": "2024-03-13 14:42:28",
+      "data_hora_confirmacao_pagamento": "2024-03-13 14:42:23",
+      "valor_total_produtos": 167.77,
+      "valor_frete": 16.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 184.48,
+      "desconto": 0,
+      "cidade": "Várzea Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8688",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 20:30:36",
+      "data_hora_confirmacao": "2024-03-20 13:01:25",
+      "data_hora_confirmacao_pagamento": "2024-03-20 13:01:03",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 11.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 119.87,
+      "desconto": 0,
+      "cidade": "Várzea Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.04M": {
+      "codigo": "CD39.04M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.118M": {
+      "codigo": "CD02.118M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.119M": {
+      "codigo": "CD02.119M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKISILVER - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.120M": {
+      "codigo": "CD02.120M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE - Cor: Preto - Marca: Hang Loose - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD39.05M": {
+      "codigo": "CD39.05M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Cinza Escuro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

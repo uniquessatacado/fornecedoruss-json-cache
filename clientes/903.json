@@ -1,0 +1,123 @@
+{
+  "codigo": "903",
+  "nome": "JORGE GUIMARÃES JUNIOR",
+  "email": "jorgeguimaraesjunior@yahoo.com.br",
+  "sexo": "3",
+  "data_cadastro": "06/08/2023",
+  "whatsapp": "(24) 9982-71241",
+  "cidade": "Angra dos Reis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 811.6600000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301309",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 13:11:59",
+      "data_hora_confirmacao": "2023-10-10 13:42:24",
+      "data_hora_confirmacao_pagamento": "2023-10-10 13:42:16",
+      "valor_total_produtos": 134,
+      "valor_frete": 15.91,
+      "frete": "JADLOG",
+      "valor_total_pedido": 149.91,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301526",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-10 13:40:36",
+      "data_hora_confirmacao": "2023-10-10 14:00:59",
+      "data_hora_confirmacao_pagamento": "2023-10-10 14:00:49",
+      "valor_total_produtos": 120,
+      "valor_frete": 15.16,
+      "frete": "JADLOG",
+      "valor_total_pedido": 135.16,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7053",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-01 18:31:05",
+      "data_hora_confirmacao": "2024-02-06 10:15:15",
+      "data_hora_confirmacao_pagamento": "2024-02-06 10:15:06",
+      "valor_total_produtos": 489.77,
+      "valor_frete": 36.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 526.59,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD26.5GG": {
+      "codigo": "CD26.5GG",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 16
+    },
+    "CD29.8": {
+      "codigo": "CD29.8",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

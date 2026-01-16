@@ -1,0 +1,53 @@
+{
+  "codigo": "9166",
+  "nome": "DIEGO MOTA",
+  "email": "motagustavo3198@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2024",
+  "whatsapp": "(13) 99170-0842",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "11457",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-07 13:17:33",
+      "data_hora_confirmacao": "2024-05-07 17:46:13",
+      "data_hora_confirmacao_pagamento": "2024-05-07 17:45:57",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.91,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD7.01G": {
+      "codigo": "CD7.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.21GG": {
+      "codigo": "CD24.21GG",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

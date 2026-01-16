@@ -1,0 +1,53 @@
+{
+  "codigo": "18130",
+  "nome": "PABLO CAMPOS RODRIGUES",
+  "email": "pablocrodrigues08@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/12/2024",
+  "whatsapp": "(11) 98456-8878",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 160.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "29467",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-27 22:38:34",
+      "data_hora_confirmacao": "2025-04-28 09:27:37",
+      "data_hora_confirmacao_pagamento": "2025-04-28 09:27:17",
+      "valor_total_produtos": 145,
+      "valor_frete": 15.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 160.68,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47404": {
+      "codigo": "47404",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C861) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47470": {
+      "codigo": "47470",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C872)    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

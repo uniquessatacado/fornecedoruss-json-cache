@@ -1,0 +1,400 @@
+{
+  "codigo": "3385",
+  "nome": "JOAO CESAR DE SOUZA RODRIGUES",
+  "email": "joaocesar715@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(62) 98214-0116",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 2677.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301501",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-09 18:56:12",
+      "data_hora_confirmacao": "2023-10-09 18:59:15",
+      "data_hora_confirmacao_pagamento": "2023-10-09 18:59:25",
+      "valor_total_produtos": 1392.5,
+      "valor_frete": 54.3,
+      "frete": "PAC",
+      "valor_total_pedido": 1446.8,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2321",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 15:50:10",
+      "data_hora_confirmacao": "2023-10-26 16:07:25",
+      "data_hora_confirmacao_pagamento": "2023-10-26 16:07:37",
+      "valor_total_produtos": 1149,
+      "valor_frete": 81.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 1230.87,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD37.2": {
+      "codigo": "CD37.2",
+      "titulo": "FONE DE OUVIDO - TWS i12 - Cor: Branca",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "10"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": 6
+    },
+    "CD28": {
+      "codigo": "CD28",
+      "titulo": "Caixinha Cueca - Cor: Preto",
+      "categoria_principal": "CUECAS",
+      "categoria": "CUECAS excluir",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "10"
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Branca - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": 4
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Cinza - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD24.25M - Nike": {
+      "codigo": "CD24.25M - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.23G - Burberry": {
+      "codigo": "CD24.23G - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 6
+    },
+    "CD24.8M - Lacoste": {
+      "codigo": "CD24.8M - Lacoste",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.20M - Gucci": {
+      "codigo": "CD24.20M - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 3
+    },
+    "CD08.15M": {
+      "codigo": "CD08.15M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.15G": {
+      "codigo": "CD08.15G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD10.9M": {
+      "codigo": "CD10.9M",
+      "titulo": "Camiseta Egipicia Luxo - Armani - Cor: Vermelha - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD10.9GG": {
+      "codigo": "CD10.9GG",
+      "titulo": "Camiseta Egipicia Luxo - Armani - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD10.9G": {
+      "codigo": "CD10.9G",
+      "titulo": "Camiseta Egipicia Luxo - Armani - Cor: OffWhite - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD10.8M": {
+      "codigo": "CD10.8M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.26M": {
+      "codigo": "CD07.26M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD07.26G": {
+      "codigo": "CD07.26G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD07.26GG": {
+      "codigo": "CD07.26GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD07.22M": {
+      "codigo": "CD07.22M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.22G": {
+      "codigo": "CD07.22G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.2M": {
+      "codigo": "CD33.2M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD33.2G": {
+      "codigo": "CD33.2G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD33.1M": {
+      "codigo": "CD33.1M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci - Cor: Branca - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.1G": {
+      "codigo": "CD33.1G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci - Cor: Branca - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.1GG": {
+      "codigo": "CD33.1GG",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci - Cor: Branca - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.1P": {
+      "codigo": "CD33.1P",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci - Cor: Branca - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.35G - HUGO BOSS": {
+      "codigo": "CD24.35G - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 17
+    },
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 16
+    },
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 11
+    },
+    "CD24.34G - NIKE": {
+      "codigo": "CD24.34G - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 11
+    },
+    "CD24.34GG - NIKE": {
+      "codigo": "CD24.34GG - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD27.20": {
+      "codigo": "CD27.20",
+      "titulo": "Boné Super Premium - LOUIS VUITTON LT23.10 - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "Louis Vuitton",
+      "quantidade": 4
+    },
+    "CD27.13": {
+      "codigo": "CD27.13",
+      "titulo": "Boné Super Premium - LOUIS VUITTON LT23.10   - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "Louis Vuitton",
+      "quantidade": 2
+    },
+    "CD27.21": {
+      "codigo": "CD27.21",
+      "titulo": "Boné Super Premium - POLO RALPH LT23.10 - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 4
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 6
+    },
+    "CD27.17": {
+      "codigo": "CD27.17",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 4
+    },
+    "CD27.12": {
+      "codigo": "CD27.12",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD43.18": {
+      "codigo": "CD43.18",
+      "titulo": "Boné Premium - ARMANI  LT24.10    - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD27.9": {
+      "codigo": "CD27.9",
+      "titulo": "Boné Super Premium - LOUIS VUITTON - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD27.15": {
+      "codigo": "CD27.15",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Marrom",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

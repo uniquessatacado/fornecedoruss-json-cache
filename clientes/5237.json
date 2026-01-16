@@ -1,0 +1,53 @@
+{
+  "codigo": "5237",
+  "nome": "HERICLIS CRUZ",
+  "email": "Hericlis_cruz@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(11) 93943-0814",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 74.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "6315",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 17:38:16",
+      "data_hora_confirmacao": "2024-01-10 13:18:16",
+      "data_hora_confirmacao_pagamento": "2024-01-10 13:18:25",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 11.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.62,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.64": {
+      "codigo": "CD01.64",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: GG - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD39.53": {
+      "codigo": "CD39.53",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "16831",
+  "nome": "ANDREY VINICIUS CHIANDOTTI",
+  "email": "chiandotti@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/10/2024",
+  "whatsapp": "(11) 98965-0745",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 212.07999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "23220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 12:33:15",
+      "data_hora_confirmacao": "2024-10-23 17:44:36",
+      "data_hora_confirmacao_pagamento": "2024-10-23 17:44:27",
+      "valor_total_produtos": 88.98,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 101.75,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23221",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 12:33:15",
+      "data_hora_confirmacao": "2024-10-23 17:44:52",
+      "data_hora_confirmacao_pagamento": "2024-10-23 17:44:46",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 14.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20672": {
+      "codigo": "20672",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G3 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30208": {
+      "codigo": "30208",
+      "titulo": "culos OAKLEY JULIET - LUPA DO VILÃO - ARMAÇÃO: CARBON - BLACK - COR DA LENTE: RED - Kit Borracha: PRETA - MODELO: LUPA DO VILÃO ",
+      "categoria_principal": "OCULOS",
+      "categoria": "LUPA DO VILÃO",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "32539": {
+      "codigo": "32539",
+      "titulo": "Bermuda Microfibra Ultra - NIKE (CARGO)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

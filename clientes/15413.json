@@ -1,0 +1,96 @@
+{
+  "codigo": "15413",
+  "nome": "SAVIO DE CASTRO FERNANDES",
+  "email": "saviocastro2@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "09/09/2024",
+  "whatsapp": "(71) 99230-8971",
+  "cidade": "Camaçari",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 227.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "20725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-09 19:20:21",
+      "data_hora_confirmacao": "2024-09-10 09:49:39",
+      "data_hora_confirmacao_pagamento": "2024-09-10 09:49:32",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 26.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.74,
+      "desconto": 0,
+      "cidade": "Camaçari",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29492",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-28 20:22:46",
+      "data_hora_confirmacao": "2025-04-28 20:24:16",
+      "data_hora_confirmacao_pagamento": "2025-04-28 20:24:16",
+      "valor_total_produtos": 109.24,
+      "valor_frete": 27.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.7,
+      "desconto": 0,
+      "cidade": "Camaçari",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27678": {
+      "codigo": "27678",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29270": {
+      "codigo": "29270",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45825": {
+      "codigo": "45825",
+      "titulo": "Camiseta Suedine ultra ARTE BORDADA LT36A (C775) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "47175": {
+      "codigo": "47175",
+      "titulo": "Camiseta Just Do It Suedine | Leveza e atitude na medida - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47181": {
+      "codigo": "47181",
+      "titulo": "Camiseta Just Do It Suedine | Minimalismo com peso . bolso  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

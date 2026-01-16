@@ -1,0 +1,96 @@
+{
+  "codigo": "4264",
+  "nome": "EDUARDO BANDEIRA MONTEIRO",
+  "email": "edubamont@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/11/2023",
+  "whatsapp": "(91) 9803-28355",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 256.53000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "4540",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 18:31:35",
+      "data_hora_confirmacao": "2023-12-12 22:33:49",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:33:59",
+      "valor_total_produtos": 80,
+      "valor_frete": 19.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.92,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20093",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-01 15:27:04",
+      "data_hora_confirmacao": "2024-09-02 10:01:58",
+      "data_hora_confirmacao_pagamento": "2024-09-02 10:01:47",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 36.64,
+      "frete": "PAC",
+      "valor_total_pedido": 156.61,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29200": {
+      "codigo": "29200",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "29265": {
+      "codigo": "29265",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29275": {
+      "codigo": "29275",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD67.12": {
+      "codigo": "CD67.12",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - NIKE   LT12.12 - Cor: Branca - Tamanho: 48",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

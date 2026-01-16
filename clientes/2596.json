@@ -1,0 +1,937 @@
+{
+  "codigo": "2596",
+  "nome": "ALICE LUAR DE SOUZA FONSECA",
+  "email": "aliceluar_sf@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(22) 99774-0484",
+  "cidade": "Cantagalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 13,
+  "valor_total_comprado": 3625.6399999999994,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300756",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 13:31:31",
+      "data_hora_confirmacao": "2023-09-26 21:34:58",
+      "data_hora_confirmacao_pagamento": "2023-09-26 21:35:09",
+      "valor_total_produtos": 274,
+      "valor_frete": 39.18,
+      "frete": "PAC",
+      "valor_total_pedido": 313.18,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300965",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 14:53:24",
+      "data_hora_confirmacao": "2023-09-29 15:07:26",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 60,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 60,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2695",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 18:07:46",
+      "data_hora_confirmacao": "2023-11-06 23:02:43",
+      "data_hora_confirmacao_pagamento": "2023-11-06 23:02:57",
+      "valor_total_produtos": 192,
+      "valor_frete": 30.8,
+      "frete": "PAC",
+      "valor_total_pedido": 222.8,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7248",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-15 14:18:40",
+      "data_hora_confirmacao": "2024-02-15 14:22:44",
+      "data_hora_confirmacao_pagamento": "2024-02-15 14:22:35",
+      "valor_total_produtos": 277.91,
+      "valor_frete": 21.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 299.39,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8776",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 21:13:36",
+      "data_hora_confirmacao": "2024-03-21 10:51:38",
+      "data_hora_confirmacao_pagamento": "2024-03-21 10:51:31",
+      "valor_total_produtos": 244.96,
+      "valor_frete": 18.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 263.9,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11017",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 22:55:47",
+      "data_hora_confirmacao": "2024-04-30 16:59:23",
+      "data_hora_confirmacao_pagamento": "2024-04-30 16:59:35",
+      "valor_total_produtos": 267.92,
+      "valor_frete": 28.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 296.06,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12355",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-22 13:40:50",
+      "data_hora_confirmacao": "2024-05-22 20:15:24",
+      "data_hora_confirmacao_pagamento": "2024-05-22 20:15:13",
+      "valor_total_produtos": 103.98,
+      "valor_frete": 17.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.76,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16661",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-22 19:19:03",
+      "data_hora_confirmacao": "2024-07-23 16:40:27",
+      "data_hora_confirmacao_pagamento": "2024-07-23 16:40:20",
+      "valor_total_produtos": 231.93,
+      "valor_frete": 23.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 255.36,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19605",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 01:51:25",
+      "data_hora_confirmacao": "2024-08-27 12:26:41",
+      "data_hora_confirmacao_pagamento": "2024-08-27 12:26:24",
+      "valor_total_produtos": 449.87,
+      "valor_frete": 32.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 482.73,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 17:50:52",
+      "data_hora_confirmacao": "2024-12-03 18:00:11",
+      "data_hora_confirmacao_pagamento": "2024-12-03 18:00:11",
+      "valor_total_produtos": 249.93,
+      "valor_frete": 21.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 271.91,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26086",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-10 15:35:58",
+      "data_hora_confirmacao": "2024-12-10 15:35:58",
+      "data_hora_confirmacao_pagamento": "2024-12-10 15:35:58",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 24.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 104.06,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26087",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2024-12-10 15:35:59",
+      "data_hora_confirmacao": "2025-08-07 11:13:59",
+      "data_hora_confirmacao_pagamento": "2024-12-10 15:35:59",
+      "valor_total_produtos": 134,
+      "valor_frete": 26.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 220.18,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28020",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-08 02:56:35",
+      "data_hora_confirmacao": "2025-02-08 03:00:07",
+      "data_hora_confirmacao_pagamento": "2025-02-08 03:00:07",
+      "valor_total_produtos": 663.26,
+      "valor_frete": 51.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 714.31,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17608": {
+      "codigo": "17608",
+      "titulo": "MOLETOM 3 CABOS  NIKE ZIPER - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "INATIVA MOLETOM 3 CABOS ZIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17842": {
+      "codigo": "17842",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "19456": {
+      "codigo": "19456",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF   - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19613": {
+      "codigo": "19613",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA)  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19843": {
+      "codigo": "19843",
+      "titulo": "Boné Super Premium - NIKE   - Cor: VERDE ESCURO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23188": {
+      "codigo": "23188",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24149": {
+      "codigo": "24149",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24922": {
+      "codigo": "24922",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno arte em silk - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25088": {
+      "codigo": "25088",
+      "titulo": "Bermuda Linho Luxo Importada - POLO RALPH LAUREN  - Cor: CINZA MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA LINHO LUXO IMPORTADA",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "26679": {
+      "codigo": "26679",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em DTF - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "27771": {
+      "codigo": "27771",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - RESERVA arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "27788": {
+      "codigo": "27788",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - RESERVA arte bordada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "27823": {
+      "codigo": "27823",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em termogel - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "27904": {
+      "codigo": "27904",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NEW ERA arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28044": {
+      "codigo": "28044",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28521": {
+      "codigo": "28521",
+      "titulo": "Boné Super Premium - NEW ERA NEW YORK  - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28613": {
+      "codigo": "28613",
+      "titulo": "Boné Super Premium - OAKLEY - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "28639": {
+      "codigo": "28639",
+      "titulo": "Boné Super Premium - QUIKSILVER  - Cor: CINZA ESCURO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "28750": {
+      "codigo": "28750",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28858": {
+      "codigo": "28858",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte composta - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28867": {
+      "codigo": "28867",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28876": {
+      "codigo": "28876",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33091": {
+      "codigo": "33091",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "34157": {
+      "codigo": "34157",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35353": {
+      "codigo": "35353",
+      "titulo": "Bermuda Microfibra Ultra - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35502": {
+      "codigo": "35502",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35520": {
+      "codigo": "35520",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35620": {
+      "codigo": "35620",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35633": {
+      "codigo": "35633",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35664": {
+      "codigo": "35664",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35940": {
+      "codigo": "35940",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "38202": {
+      "codigo": "38202",
+      "titulo": "MEIAS PERUANAS (C110) - Marca: Quiksilver - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "38203": {
+      "codigo": "38203",
+      "titulo": "MEIAS PERUANAS (C110) - Marca: Quiksilver - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "38207": {
+      "codigo": "38207",
+      "titulo": "MEIAS PERUANAS (C110) - Marca: Quiksilver - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "38228": {
+      "codigo": "38228",
+      "titulo": "MEIAS PERUANAS SOQUETES (C112) - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38229": {
+      "codigo": "38229",
+      "titulo": "MEIAS PERUANAS SOQUETES (C112) - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38857": {
+      "codigo": "38857",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38881": {
+      "codigo": "38881",
+      "titulo": "Camiseta Suedine ultra -(C143) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39618": {
+      "codigo": "39618",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C210) LT7A - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39621": {
+      "codigo": "39621",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C210) LT7A - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39637": {
+      "codigo": "39637",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C211) LT7A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39741": {
+      "codigo": "39741",
+      "titulo": "Camiseta Suedine ultra -(C214) LT4A - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39748": {
+      "codigo": "39748",
+      "titulo": "Camiseta Suedine ultra -(C214)  LT4A - Cor: VERDE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39790": {
+      "codigo": "39790",
+      "titulo": "Camiseta Suedine ultra -(C215)  DTF LT4A - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39834": {
+      "codigo": "39834",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA LT4A - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39890": {
+      "codigo": "39890",
+      "titulo": "Camiseta Suedine ultra -(C218) ARTE EM DTF  LT4A - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40012": {
+      "codigo": "40012",
+      "titulo": "Camiseta Suedine ultra -(C222) ARTE BORDADA LT4A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40109": {
+      "codigo": "40109",
+      "titulo": "Camiseta fio 30.1 Super Premium (C219) ARTE EM SILK  - FRENTE E COSTAS LT1A - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Super Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "40244": {
+      "codigo": "40244",
+      "titulo": "Camiseta Suedine ultra -(C239) ARTE EM DTF LT3A  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40300": {
+      "codigo": "40300",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40314": {
+      "codigo": "40314",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40392": {
+      "codigo": "40392",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A   - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40538": {
+      "codigo": "40538",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40959": {
+      "codigo": "40959",
+      "titulo": "Bermuda Microfibra Ultra (C250) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.24G": {
+      "codigo": "CD02.24G",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: OffWhite - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.16G": {
+      "codigo": "CD02.16G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: Vermelha - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD02.18G": {
+      "codigo": "CD02.18G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Vans (Silkada) - Cor: Marrom - Marca: Vans - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Vans",
+      "quantidade": 2
+    },
+    "CD16.33GG": {
+      "codigo": "CD16.33GG",
+      "titulo": "Camisetas de Time Nacional - Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.9GG": {
+      "codigo": "CD08.9GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Preto - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD02.30G": {
+      "codigo": "CD02.30G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley (Arte em Termo Gel) - Cor: Ambar - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.28G": {
+      "codigo": "CD02.28G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Silk Premium) - Cor: Azul Bebê - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Amarela - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD17.38GG": {
+      "codigo": "CD17.38GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.42": {
+      "codigo": "CD17.42",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT03.11  - Cor: Laranja - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.97": {
+      "codigo": "CD02.97",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.87": {
+      "codigo": "CD02.87",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Vermelha - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD02.93": {
+      "codigo": "CD02.93",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Cinza - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.95": {
+      "codigo": "CD02.95",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.94": {
+      "codigo": "CD02.94",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD41.24": {
+      "codigo": "CD41.24",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD54": {
+      "codigo": "CD54",
+      "titulo": "Pulseira Cartier 2mm  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA90": {
+      "codigo": "PA90",
+      "titulo": "CORRENTE BANHADA OURO 18K  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Banhados a ouro 18k",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD02.121G": {
+      "codigo": "CD02.121G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  C - Cor: Salmão - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.119G": {
+      "codigo": "CD02.119G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKISILVER - Cor: Rosa - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Rosa",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "RL01.01": {
+      "codigo": "RL01.01",
+      "titulo": "Relógio GS-Chock- Resistente a agua. - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "CD40.1G": {
+      "codigo": "CD40.1G",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CM1.1GG": {
+      "codigo": "CM1.1GG",
+      "titulo": "CAMISETA MANGA LONGA 40.1 ULTRA - Cor: PRETA - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MANGA LONGA 40.1 ULTRA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.23GG": {
+      "codigo": "CD24.23GG",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD24.19GG": {
+      "codigo": "CD24.19GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Rosa",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

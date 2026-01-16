@@ -1,0 +1,72 @@
+{
+  "codigo": "10943",
+  "nome": "LUCIANO SANTOS DE OLIVEIRA",
+  "email": "luccianosanttos@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(21) 9956-31977",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 132.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "13735",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 21:38:44",
+      "data_hora_confirmacao": "2024-06-15 09:21:57",
+      "data_hora_confirmacao_pagamento": "2024-06-15 09:21:45",
+      "valor_total_produtos": 85.98,
+      "valor_frete": 17.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.06,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13960",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-18 15:14:39",
+      "data_hora_confirmacao": "2024-06-18 15:30:02",
+      "data_hora_confirmacao_pagamento": "2024-06-18 15:26:43",
+      "valor_total_produtos": 29.87,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 29.87,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21646": {
+      "codigo": "21646",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "21736": {
+      "codigo": "21736",
+      "titulo": "Conjuntos Femininos  - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

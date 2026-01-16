@@ -1,0 +1,651 @@
+{
+  "codigo": "255",
+  "nome": "HILQUIAS DA SILVA",
+  "email": "hilquiasdias23@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(62) 9948-50428",
+  "cidade": "Alexânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 11,
+  "valor_total_comprado": 2492.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301016",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 20:36:14",
+      "data_hora_confirmacao": "2023-09-30 11:04:15",
+      "data_hora_confirmacao_pagamento": "2023-09-30 11:04:24",
+      "valor_total_produtos": 204,
+      "valor_frete": 28.42,
+      "frete": "PAC",
+      "valor_total_pedido": 232.42,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301829",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 17:19:54",
+      "data_hora_confirmacao": "2023-10-17 17:34:53",
+      "data_hora_confirmacao_pagamento": "2023-10-17 17:35:01",
+      "valor_total_produtos": 366.5,
+      "valor_frete": 33.78,
+      "frete": "PAC",
+      "valor_total_pedido": 400.28,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5661",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 18:30:31",
+      "data_hora_confirmacao": "2023-12-22 18:38:46",
+      "data_hora_confirmacao_pagamento": "2023-12-22 18:38:56",
+      "valor_total_produtos": 570.77,
+      "valor_frete": 80.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 650.81,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5908",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-27 19:42:34",
+      "data_hora_confirmacao": "2023-12-28 10:57:37",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8300",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 15:25:09",
+      "data_hora_confirmacao": "2024-03-12 17:29:22",
+      "data_hora_confirmacao_pagamento": "2024-03-12 17:29:17",
+      "valor_total_produtos": 124.96,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 124.96,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8302",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 15:36:33",
+      "data_hora_confirmacao": "2024-03-12 17:34:47",
+      "data_hora_confirmacao_pagamento": "2024-03-12 17:34:42",
+      "valor_total_produtos": 59.98,
+      "valor_frete": 19.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.66,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12754",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-28 13:52:39",
+      "data_hora_confirmacao": "2024-05-28 19:15:30",
+      "data_hora_confirmacao_pagamento": "2024-05-28 19:15:20",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 18.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.32,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12810",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-29 10:49:41",
+      "data_hora_confirmacao": "2024-05-29 18:33:47",
+      "data_hora_confirmacao_pagamento": "2024-05-29 18:33:39",
+      "valor_total_produtos": 105.98,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 105.98,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14508",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-25 15:06:24",
+      "data_hora_confirmacao": "2024-06-25 16:08:10",
+      "data_hora_confirmacao_pagamento": "2024-06-25 16:08:04",
+      "valor_total_produtos": 141.97,
+      "valor_frete": 50.34,
+      "frete": "SEDEX",
+      "valor_total_pedido": 192.31,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15058",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 17:49:25",
+      "data_hora_confirmacao": "2024-07-04 10:11:11",
+      "data_hora_confirmacao_pagamento": "2024-07-04 10:11:05",
+      "valor_total_produtos": 373.91,
+      "valor_frete": 37.43,
+      "frete": "PAC",
+      "valor_total_pedido": 411.34,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15918",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 13:12:46",
+      "data_hora_confirmacao": "2024-07-15 15:43:05",
+      "data_hora_confirmacao_pagamento": "2024-07-15 15:42:59",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 29.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 173.3,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16923": {
+      "codigo": "16923",
+      "titulo": "Camiseta Manga Longa 40.1 Ultra Premium - QUIKSILVER - Cor: VERMELHA - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MANGA LONGA 40.1 ULTRA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "18545": {
+      "codigo": "18545",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA - CANO CURTO E CANO LONGO - - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "20044": {
+      "codigo": "20044",
+      "titulo": "Óculos OAKLEY JULIET - ARMAÇÃO: PRETA-BLACK - COR DA LENTE: AZUL BB - ICE THUG - Kit Borracha: PRETA",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "22783": {
+      "codigo": "22783",
+      "titulo": "Óculos OAKLEY  - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: SLATE - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "23138": {
+      "codigo": "23138",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR arte em bordado  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23181": {
+      "codigo": "23181",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23185": {
+      "codigo": "23185",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23187": {
+      "codigo": "23187",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23200": {
+      "codigo": "23200",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID - Tamanho: GG - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23219": {
+      "codigo": "23219",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  - Tamanho: G - Times : Borussia Dortmund - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23240": {
+      "codigo": "23240",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ESPANHA - Tamanho: G - Times : ESPANHA  - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23300": {
+      "codigo": "23300",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: M - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23345": {
+      "codigo": "23345",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23932": {
+      "codigo": "23932",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte em bordado - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "23965": {
+      "codigo": "23965",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23987": {
+      "codigo": "23987",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em relevo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24396": {
+      "codigo": "24396",
+      "titulo": "CAMISETA SOFT EGÍPCIA - DOLCE E GABBANA arte em bordado madeira - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Soft Egípcia ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.23G - Burberry": {
+      "codigo": "CD24.23G - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Azul Marinho - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 4
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": 4
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD17.29G": {
+      "codigo": "CD17.29G",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Claro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.47M": {
+      "codigo": "CD01.47M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo - Tamanho: M - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.47G": {
+      "codigo": "CD01.47G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD24.26G - Boss": {
+      "codigo": "CD24.26G - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.27M - Boss": {
+      "codigo": "CD24.27M - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.26GG - Boss": {
+      "codigo": "CD24.26GG - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.23GG - Burberry": {
+      "codigo": "CD24.23GG - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Azul Marinho - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 3
+    },
+    "CD24.25GG - Nike": {
+      "codigo": "CD24.25GG - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.4G": {
+      "codigo": "CD29.4G",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": 2
+    },
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.39": {
+      "codigo": "CD39.39",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT19.12   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.65": {
+      "codigo": "CD02.65",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT13.12    - Cor: Marrom - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD69.8": {
+      "codigo": "CD69.8",
+      "titulo": "CAMISETA EGIPICIA COTTON - LOUIS VUITTON  LT20.12 - Cor: OffWhite - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Louis Vuitton",
+      "quantidade": 2
+    },
+    "CD14.11": {
+      "codigo": "CD14.11",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT11.12 - Cor: Mostarda - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD60.9": {
+      "codigo": "CD60.9",
+      "titulo": "Óculos  Double X - VERMELHO C/ROXO  LT13.12  - Cor da Armação: Chumbo - Cor da Lente: Vermelho com Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.16Juliet": {
+      "codigo": "CD32.16Juliet",
+      "titulo": "Óculos  Juliet - Roxa Transparente - Cor da Armação: Chumbo - Cor da Lente: Roxo Transparente - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD16.59": {
+      "codigo": "CD16.59",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT08.11   - Tamanho: GG - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD69.5": {
+      "codigo": "CD69.5",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.117GG": {
+      "codigo": "CD02.117GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  ( - Cor: Verde - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.108GG": {
+      "codigo": "CD02.108GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Azul Bebê - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "UY.13": {
+      "codigo": "UY.13",
+      "titulo": "COLAR FEMININO   ",
+      "categoria_principal": "PRATAS FEMININAS",
+      "categoria": "PRATAS FEMININAS USE.YOU",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "UY.09": {
+      "codigo": "UY.09",
+      "titulo": "PULSEIRA FEMININ",
+      "categoria_principal": "PRATAS FEMININAS",
+      "categoria": "PRATAS FEMININAS USE.YOU",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD02.118M": {
+      "codigo": "CD02.118M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.1GG": {
+      "codigo": "CD22.1GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

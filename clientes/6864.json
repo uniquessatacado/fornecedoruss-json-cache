@@ -1,0 +1,88 @@
+{
+  "codigo": "6864",
+  "nome": "VINICIUS ROSSATO",
+  "email": "srjvbrgd@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "12/03/2024",
+  "whatsapp": "(44) 9997-89882",
+  "cidade": "Guaíra",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 162.04000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "8296",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 14:52:30",
+      "data_hora_confirmacao": "2024-03-12 17:39:26",
+      "data_hora_confirmacao_pagamento": "2024-03-12 17:39:15",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 12.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 22.89,
+      "desconto": 0,
+      "cidade": "Terra Roxa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19665",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 19:02:42",
+      "data_hora_confirmacao": "2024-08-27 10:58:58",
+      "data_hora_confirmacao_pagamento": "2024-08-27 10:58:51",
+      "valor_total_produtos": 117.97,
+      "valor_frete": 21.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.15,
+      "desconto": 0,
+      "cidade": "Terra Roxa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26679": {
+      "codigo": "26679",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em DTF - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "27606": {
+      "codigo": "27606",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em termogel - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28822": {
+      "codigo": "28822",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte em bordado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.09GG": {
+      "codigo": "CD24.09GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

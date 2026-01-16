@@ -1,0 +1,61 @@
+{
+  "codigo": "14202",
+  "nome": "ERIKE FERNANDO PEREIRA DE BARROS",
+  "email": "erikefernando95@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/08/2024",
+  "whatsapp": "(11) 11997-8655",
+  "cidade": "Mairinque",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "18937",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-16 16:28:31",
+      "data_hora_confirmacao": "2024-08-17 14:03:42",
+      "data_hora_confirmacao_pagamento": "2024-08-17 14:03:31",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 12.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.88,
+      "desconto": 0,
+      "cidade": "Mairinque",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27216": {
+      "codigo": "27216",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27219": {
+      "codigo": "27219",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27225": {
+      "codigo": "27225",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

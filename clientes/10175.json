@@ -1,0 +1,53 @@
+{
+  "codigo": "10175",
+  "nome": "KAIQUE LIMA DA SILVA",
+  "email": "kiqlimaa17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(11) 96026-7293",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "13113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 15:59:30",
+      "data_hora_confirmacao": "2024-06-05 18:18:12",
+      "data_hora_confirmacao_pagamento": "2024-06-05 18:18:05",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 13.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.4,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20398": {
+      "codigo": "20398",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

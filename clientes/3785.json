@@ -1,0 +1,88 @@
+{
+  "codigo": "3785",
+  "nome": "CAIO THADEU",
+  "email": "caiothadeusouza03@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/10/2023",
+  "whatsapp": "(35) 99144-7513",
+  "cidade": "Lavras",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 157.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "2374",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 16:34:45",
+      "data_hora_confirmacao": "2023-10-31 13:59:59",
+      "data_hora_confirmacao_pagamento": "2023-10-31 14:00:08",
+      "valor_total_produtos": 51,
+      "valor_frete": 16.82,
+      "frete": "JADLOG",
+      "valor_total_pedido": 67.82,
+      "desconto": 0,
+      "cidade": "Lavras",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5270",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 10:53:38",
+      "data_hora_confirmacao": "2023-12-20 17:40:24",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:40:33",
+      "valor_total_produtos": 71.92,
+      "valor_frete": 18.19,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.11,
+      "desconto": 0,
+      "cidade": "Lavras",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.36GG - BROOKSFIELD": {
+      "codigo": "CD24.36GG - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Cinza - Marca: Brooksfield - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": 4
+    },
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    }
+  }
+}

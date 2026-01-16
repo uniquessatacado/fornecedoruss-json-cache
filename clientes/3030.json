@@ -1,0 +1,45 @@
+{
+  "codigo": "3030",
+  "nome": "THIAGO LUCHON FELICIANO",
+  "email": "thiagoluchon@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(11) 98633-4308",
+  "cidade": "São Caetano do Sul",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 41.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300907",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 07:54:27",
+      "data_hora_confirmacao": "2023-10-02 11:07:44",
+      "data_hora_confirmacao_pagamento": "2023-10-02 11:07:52",
+      "valor_total_produtos": 30,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 41.64,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

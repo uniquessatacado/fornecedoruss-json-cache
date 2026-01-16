@@ -1,0 +1,53 @@
+{
+  "codigo": "18155",
+  "nome": "CARLOS ALEXANDRE APARECIDO UZELIN",
+  "email": "carlosmarrom4@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/12/2024",
+  "whatsapp": "(18) 9974-30881",
+  "cidade": "Araçatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 128.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "25888",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 07:23:53",
+      "data_hora_confirmacao": "2024-12-07 07:26:35",
+      "data_hora_confirmacao_pagamento": "2024-12-07 07:26:35",
+      "valor_total_produtos": 114.38,
+      "valor_frete": 13.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.01,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "35555": {
+      "codigo": "35555",
+      "titulo": "Oculos OAKLEY JULIET - ARMAÇÃO: PLASMA - PRATA - COR DA LENTE: BLACK - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "36346": {
+      "codigo": "36346",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado ( MD5-OFF-DSL)  ( MD8-PRT-DSL)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

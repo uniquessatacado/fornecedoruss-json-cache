@@ -1,0 +1,53 @@
+{
+  "codigo": "4384",
+  "nome": "ANDRE LUIZ DE OLIVEIRA",
+  "email": "sdluiz19945@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/11/2023",
+  "whatsapp": "(12) 98844-4954",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "3863",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-30 12:48:23",
+      "data_hora_confirmacao": "2023-11-30 13:49:27",
+      "data_hora_confirmacao_pagamento": "2023-11-30 13:49:17",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 10.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.36,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Branca - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 4
+    }
+  }
+}

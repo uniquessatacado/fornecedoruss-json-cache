@@ -1,0 +1,77 @@
+{
+  "codigo": "13263",
+  "nome": "PAULO SÉRGIO RUAS",
+  "email": "paulo.sesse@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/07/2024",
+  "whatsapp": "(11) 97228-2983",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 188.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "26279",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-12 20:31:24",
+      "data_hora_confirmacao": "2024-12-12 20:35:04",
+      "data_hora_confirmacao_pagamento": "2024-12-12 20:35:04",
+      "valor_total_produtos": 188.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 188.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36457": {
+      "codigo": "36457",
+      "titulo": "Bermuda Microfibra Ultra     - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37016": {
+      "codigo": "37016",
+      "titulo": "camiseta fio 30.1 soft penteada  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "37128": {
+      "codigo": "37128",
+      "titulo": "Bermuda Microfibra Ultra  (B01) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37274": {
+      "codigo": "37274",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C09) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37342": {
+      "codigo": "37342",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C15) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

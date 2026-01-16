@@ -1,0 +1,53 @@
+{
+  "codigo": "18349",
+  "nome": "PAULO JOSE ALVARENGA DA SILVA",
+  "email": "alvarengapj@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "13/12/2024",
+  "whatsapp": "(21) 9790-95188",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 147.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "26376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-13 18:49:09",
+      "data_hora_confirmacao": "2024-12-13 18:53:31",
+      "data_hora_confirmacao_pagamento": "2024-12-13 18:53:31",
+      "valor_total_produtos": 131.58,
+      "valor_frete": 15.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 147.09,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "37441": {
+      "codigo": "37441",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37443": {
+      "codigo": "37443",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

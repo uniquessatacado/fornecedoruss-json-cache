@@ -1,0 +1,72 @@
+{
+  "codigo": "13282",
+  "nome": "MARCEL MOREIRA COELHO",
+  "email": "wfcoelho82@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/07/2024",
+  "whatsapp": "(34) 98858-1400",
+  "cidade": "Uberlândia",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 95.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "17256",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-29 15:24:42",
+      "data_hora_confirmacao": "2024-07-29 17:13:48",
+      "data_hora_confirmacao_pagamento": "2024-07-29 17:13:42",
+      "valor_total_produtos": 46.79,
+      "valor_frete": 15.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.05,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "22635",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-10 12:05:34",
+      "data_hora_confirmacao": "2024-10-10 15:33:05",
+      "data_hora_confirmacao_pagamento": "2024-10-10 15:32:57",
+      "valor_total_produtos": 18.19,
+      "valor_frete": 15.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 33.45,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "25307": {
+      "codigo": "25307",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32407": {
+      "codigo": "32407",
+      "titulo": "Cuecas Premium - ADIDAS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "CUECAS PREMIUM ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "915",
+  "nome": "WILLIAM PEDRO",
+  "email": "madruga1402@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/08/2023",
+  "whatsapp": "(19) 98605-0123",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 161.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "27029",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-21 13:45:12",
+      "data_hora_confirmacao": "2024-12-21 13:47:33",
+      "data_hora_confirmacao_pagamento": "2024-12-21 13:47:33",
+      "valor_total_produtos": 40,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 40,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27030",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-21 13:45:12",
+      "data_hora_confirmacao": "2024-12-21 13:50:28",
+      "data_hora_confirmacao_pagamento": "2024-12-21 13:50:28",
+      "valor_total_produtos": 121.8,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 121.8,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22455": {
+      "codigo": "22455",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INTER MILAN - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24108": {
+      "codigo": "24108",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PORTUGAL - (envio direto da fabrica)  - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "38038": {
+      "codigo": "38038",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38041": {
+      "codigo": "38041",
+      "titulo": "Cuecas Peruanas (C99) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38094": {
+      "codigo": "38094",
+      "titulo": "Cuecas Peruanas (C101) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "38103": {
+      "codigo": "38103",
+      "titulo": "Cuecas Peruanas (C101) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    }
+  }
+}

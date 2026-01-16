@@ -1,0 +1,99 @@
+{
+  "codigo": "9900",
+  "nome": "SILVIO ANDRÉ MELO BARRETO",
+  "email": "barretosilviop@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/05/2024",
+  "whatsapp": "(24) 9927-52405",
+  "cidade": "Angra dos Reis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 160.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "13027",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 15:14:47",
+      "data_hora_confirmacao": "2024-06-03 15:14:47",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 34.99,
+      "valor_frete": 13.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 48.98,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13028",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 15:29:23",
+      "data_hora_confirmacao": "2024-06-03 15:29:23",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23875",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 22:04:44",
+      "data_hora_confirmacao": "2024-11-06 22:11:17",
+      "data_hora_confirmacao_pagamento": "2024-11-06 22:11:17",
+      "valor_total_produtos": 67.99,
+      "valor_frete": 18.38,
+      "frete": "JADLOG",
+      "valor_total_pedido": 86.37,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32962": {
+      "codigo": "32962",
+      "titulo": "Camisa de time Tailandesa 1.1 BOTAFOGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: G - Times : Botafogo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.57": {
+      "codigo": "CD16.57",
+      "titulo": "Camisetas de Time Tailandesas - BOTAFOGO  LT06.11  - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.47P": {
+      "codigo": "CD01.47P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10 - Tamanho: P - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

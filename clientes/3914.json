@@ -1,0 +1,85 @@
+{
+  "codigo": "3914",
+  "nome": "ANDRÉ SOUSA",
+  "email": "andre_cspk@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(99) 99208-0468",
+  "cidade": "Açailândia",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 313.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "28122",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-13 12:48:25",
+      "data_hora_confirmacao": "2025-02-13 12:50:45",
+      "data_hora_confirmacao_pagamento": "2025-02-13 12:50:45",
+      "valor_total_produtos": 264.06,
+      "valor_frete": 49.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 313.45,
+      "desconto": 0,
+      "cidade": "Açailândia",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35430": {
+      "codigo": "35430",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38074": {
+      "codigo": "38074",
+      "titulo": "Cuecas Peruanas (C100) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "40984": {
+      "codigo": "40984",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C269) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41220": {
+      "codigo": "41220",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C356)- Flamengo LT14A - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "4"
+    },
+    "41243": {
+      "codigo": "41243",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C371)- Flamengo LT14A  - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

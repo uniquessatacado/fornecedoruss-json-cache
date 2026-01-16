@@ -1,0 +1,88 @@
+{
+  "codigo": "13295",
+  "nome": "LUCAS ANTONIO SCHUNCK",
+  "email": "lucas.schunck@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/07/2024",
+  "whatsapp": "(51) 99547-1577",
+  "cidade": "São Leopoldo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 278.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "17306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-29 23:40:56",
+      "data_hora_confirmacao": "2024-07-30 09:29:10",
+      "data_hora_confirmacao_pagamento": "2024-07-30 09:29:03",
+      "valor_total_produtos": 139.18,
+      "valor_frete": 26.04,
+      "frete": "JADLOG",
+      "valor_total_pedido": 165.22,
+      "desconto": 0,
+      "cidade": "São Leopoldo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26642",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-17 10:43:05",
+      "data_hora_confirmacao": "2024-12-17 10:44:56",
+      "data_hora_confirmacao_pagamento": "2024-12-17 10:44:56",
+      "valor_total_produtos": 98.98,
+      "valor_frete": 14.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.09,
+      "desconto": 0,
+      "cidade": "São Leopoldo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24192": {
+      "codigo": "24192",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - GUCCI - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "25334": {
+      "codigo": "25334",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS arte em silk - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36438": {
+      "codigo": "36438",
+      "titulo": "Bermuda Microfibra Ultra    - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37969": {
+      "codigo": "37969",
+      "titulo": "Oculos  - RADAR (C86) - ARMAÇÃO: WHITE - COR DA LENTE: RED - Kit Borracha: BRANCA - MODELO: RADAR",
+      "categoria_principal": "OCULOS",
+      "categoria": "RADAR",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

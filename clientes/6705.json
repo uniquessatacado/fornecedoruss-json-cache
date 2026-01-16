@@ -1,0 +1,72 @@
+{
+  "codigo": "6705",
+  "nome": "MARCUS VINICIUS DE JESUS OLIVEIRA",
+  "email": "contatoviniciusmarcus@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2024",
+  "whatsapp": "(67) 98142-9033",
+  "cidade": "Campo Grande",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 85.03999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "8129",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 13:55:07",
+      "data_hora_confirmacao": "2024-03-09 10:06:32",
+      "data_hora_confirmacao_pagamento": "2024-03-09 10:06:27",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 13.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.05,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8212",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-11 17:49:04",
+      "data_hora_confirmacao": "2024-03-12 09:52:22",
+      "data_hora_confirmacao_pagamento": "2024-03-12 09:52:15",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD68.01": {
+      "codigo": "CD68.01",
+      "titulo": "Bermuda Microfibra Hiper - NIKE REFLETIVA - Cor: Verde Militar - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD68.02": {
+      "codigo": "CD68.02",
+      "titulo": "Bermuda Microfibra Hiper - HUGO BOSS - Cor: Verde Militar - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

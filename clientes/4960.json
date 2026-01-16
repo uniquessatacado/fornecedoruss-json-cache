@@ -1,0 +1,45 @@
+{
+  "codigo": "4960",
+  "nome": "MATHEUS LUIZ DE LIMA",
+  "email": "matheus1109luiz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/12/2023",
+  "whatsapp": "(19) 98250-8625",
+  "cidade": "Hortolândia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "5519",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-21 23:10:12",
+      "data_hora_confirmacao": "2023-12-22 02:25:46",
+      "data_hora_confirmacao_pagamento": "2023-12-22 02:26:08",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 11.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.23,
+      "desconto": 0,
+      "cidade": "Hortolândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.71": {
+      "codigo": "CD02.71",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12    - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

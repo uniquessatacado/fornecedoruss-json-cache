@@ -1,0 +1,88 @@
+{
+  "codigo": "8582",
+  "nome": "GUILHERME ANTONIO DOS SANTOS",
+  "email": "artistaguilhermesantos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(63) 99993-9283",
+  "cidade": "Palmas",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 228.32000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "10631",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 11:57:26",
+      "data_hora_confirmacao": "2024-04-25 18:04:13",
+      "data_hora_confirmacao_pagamento": "2024-04-25 18:04:03",
+      "valor_total_produtos": 161.92,
+      "valor_frete": 23.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 185.33,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10633",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-24 12:11:10",
+      "data_hora_confirmacao": "2024-04-26 19:04:46",
+      "data_hora_confirmacao_pagamento": "2024-04-26 19:04:38",
+      "valor_total_produtos": 42.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 42.99,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.1G": {
+      "codigo": "CD40.1G",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - Cor: VERDE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.23M": {
+      "codigo": "CD24.23M",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 5
+    },
+    "CD40.2G": {
+      "codigo": "CD40.2G",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  LOGO GOLA - Cor: MARROM - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

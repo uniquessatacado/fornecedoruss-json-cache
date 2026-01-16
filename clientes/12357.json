@@ -1,0 +1,80 @@
+{
+  "codigo": "12357",
+  "nome": "LUIZ CARLOS DOS SANTOS DE FARIAS",
+  "email": "tenfarias2009@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/07/2024",
+  "whatsapp": "(61) 98408-9957",
+  "cidade": "Novo Gama",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 272.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "15932",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 14:08:19",
+      "data_hora_confirmacao": "2024-07-15 18:20:45",
+      "data_hora_confirmacao_pagamento": "2024-07-15 18:20:38",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 26.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.12,
+      "desconto": 0,
+      "cidade": "Novo Gama",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15950",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 20:43:52",
+      "data_hora_confirmacao": "2024-07-15 19:54:22",
+      "data_hora_confirmacao_pagamento": "2024-07-15 19:54:16",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 26.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.12,
+      "desconto": 0,
+      "cidade": "Novo Gama",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17827": {
+      "codigo": "17827",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "24491": {
+      "codigo": "24491",
+      "titulo": "Chinelo Kenner Rakka L7 - COR CHINELO: BRANCO - MODELO CHINELO: KENNER RAKKA L7 - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "24500": {
+      "codigo": "24500",
+      "titulo": "Chinelo Kenner Rakka Mono - COR CHINELO: MARROM - MODELO CHINELO: KENNER RAKKA MONO - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": 2
+    }
+  }
+}

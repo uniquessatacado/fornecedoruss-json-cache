@@ -1,0 +1,72 @@
+{
+  "codigo": "5914",
+  "nome": "WALLISON JUNIOR VIEIRA",
+  "email": "wallisonj3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/01/2024",
+  "whatsapp": "(66) 99976-6333",
+  "cidade": "Sinop",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 138.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "6990",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-29 21:09:52",
+      "data_hora_confirmacao": "2024-01-31 10:05:41",
+      "data_hora_confirmacao_pagamento": "2024-01-31 10:05:52",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 25.81,
+      "frete": "PAC",
+      "valor_total_pedido": 97.79,
+      "desconto": 0,
+      "cidade": "Sinop",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7158",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-02-06 12:40:02",
+      "data_hora_confirmacao": "2024-02-06 12:43:56",
+      "data_hora_confirmacao_pagamento": "2024-02-06 12:43:48",
+      "valor_total_produtos": 40.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 40.99,
+      "desconto": 0,
+      "cidade": "Sinop",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.59": {
+      "codigo": "CD39.59",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

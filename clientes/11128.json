@@ -1,0 +1,61 @@
+{
+  "codigo": "11128",
+  "nome": "GILSON SOARES LIMA",
+  "email": "soareslimagilson2018@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/06/2024",
+  "whatsapp": "(61) 99688-9948",
+  "cidade": "Cidade Ocidental",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 143.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "15768",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 13:03:21",
+      "data_hora_confirmacao": "2024-07-13 11:42:15",
+      "data_hora_confirmacao_pagamento": "2024-07-13 11:42:09",
+      "valor_total_produtos": 118.97,
+      "valor_frete": 24.43,
+      "frete": "PAC",
+      "valor_total_pedido": 143.4,
+      "desconto": 0,
+      "cidade": "Cidade Ocidental",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23635": {
+      "codigo": "23635",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - BALENCIAGA arte em aplique bordado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "23776": {
+      "codigo": "23776",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte emborrachada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23882": {
+      "codigo": "23882",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

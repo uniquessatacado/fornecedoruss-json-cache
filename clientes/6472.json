@@ -1,0 +1,80 @@
+{
+  "codigo": "6472",
+  "nome": "FRANCISCO FERNANDES BEZERRA DA CRUZ",
+  "email": "francisco.fernandes.0701@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/02/2024",
+  "whatsapp": "(35) 99188-0886",
+  "cidade": "Extrema",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 226.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "7786",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 16:32:07",
+      "data_hora_confirmacao": "2024-02-28 17:37:55",
+      "data_hora_confirmacao_pagamento": "2024-02-28 17:37:03",
+      "valor_total_produtos": 177.98,
+      "valor_frete": 12.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 190.12,
+      "desconto": 0,
+      "cidade": "Extrema",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7910",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-02 11:23:06",
+      "data_hora_confirmacao": "2024-03-02 11:24:02",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Extrema",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.2M": {
+      "codigo": "CD04.2M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD55": {
+      "codigo": "CD55",
+      "titulo": " Cartier 2mm  70cm ",
+      "categoria_principal": "PRATAS",
+      "categoria": "PRATAS",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    }
+  }
+}

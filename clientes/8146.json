@@ -1,0 +1,61 @@
+{
+  "codigo": "8146",
+  "nome": "ALDEMIR ROSENDO",
+  "email": "aldemirrosendoko@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/04/2024",
+  "whatsapp": "(16) 99324-7296",
+  "cidade": "São Simão",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "10159",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 11:00:48",
+      "data_hora_confirmacao": "2024-04-17 17:03:06",
+      "data_hora_confirmacao_pagamento": "2024-04-17 17:03:01",
+      "valor_total_produtos": 117.97,
+      "valor_frete": 14.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.64,
+      "desconto": 0,
+      "cidade": "São Simão",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.9GG": {
+      "codigo": "CD4.9GG",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22GG": {
+      "codigo": "CD4.22GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "RL01.01": {
+      "codigo": "RL01.01",
+      "titulo": "Relógio G Shock- Resistente a agua - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "10412",
+  "nome": "FABIO COLLADO",
+  "email": "fabiocollado93@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(13) 99765-9582",
+  "cidade": "Bertioga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 43.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "13270",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 09:40:09",
+      "data_hora_confirmacao": "2024-06-10 15:26:04",
+      "data_hora_confirmacao_pagamento": "2024-06-10 15:25:37",
+      "valor_total_produtos": 31.98,
+      "valor_frete": 11.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 43.67,
+      "desconto": 0,
+      "cidade": "Bertioga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18215": {
+      "codigo": "18215",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - NIKE  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19502": {
+      "codigo": "19502",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "4550",
+  "nome": "FRANCISCO ALVES",
+  "email": "franciscoalves0202@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2023",
+  "whatsapp": "(11) 98191-2330",
+  "cidade": "Mauá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 141.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "4269",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 11:51:43",
+      "data_hora_confirmacao": "2023-12-08 12:04:08",
+      "data_hora_confirmacao_pagamento": "2023-12-08 12:04:29",
+      "valor_total_produtos": 67,
+      "valor_frete": 10.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 77.95,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8786",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-21 09:32:33",
+      "data_hora_confirmacao": "2024-03-21 11:02:11",
+      "data_hora_confirmacao_pagamento": "2024-03-21 11:02:04",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 10.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 63.07,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Branca - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: OffWhite - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "RL01.08": {
+      "codigo": "RL01.08",
+      "titulo": "Relógio GS-Chock- Resistente a agua.  - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

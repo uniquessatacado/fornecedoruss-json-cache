@@ -1,0 +1,61 @@
+{
+  "codigo": "3270",
+  "nome": "MAIKE NASCIMENTO",
+  "email": "maikedonascimento@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/10/2023",
+  "whatsapp": "(21) 96662-9105",
+  "cidade": "Duque de Caxias",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301283",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-04 22:24:06",
+      "data_hora_confirmacao": "2023-10-04 22:30:35",
+      "data_hora_confirmacao_pagamento": "2023-10-04 22:30:47",
+      "valor_total_produtos": 100,
+      "valor_frete": 27.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 127.81,
+      "desconto": 0,
+      "cidade": "Duque de Caxias",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.31M": {
+      "codigo": "CD17.31M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.25M - Nike": {
+      "codigo": "CD24.25M - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.16M - Nike": {
+      "codigo": "CD24.16M - Nike",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

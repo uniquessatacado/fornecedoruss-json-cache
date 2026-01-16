@@ -1,0 +1,88 @@
+{
+  "codigo": "17248",
+  "nome": "LÁZARO FELIPE FERREIRA",
+  "email": "lazarofelipe225@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(31) 97581-0475",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 213.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "23897",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-07 09:46:58",
+      "data_hora_confirmacao": "2024-11-08 16:24:16",
+      "data_hora_confirmacao_pagamento": "2024-11-08 16:24:01",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 18.43,
+      "frete": "JADLOG",
+      "valor_total_pedido": 58.42,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27939",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-03 14:16:32",
+      "data_hora_confirmacao": "2025-02-03 14:20:08",
+      "data_hora_confirmacao_pagamento": "2025-02-03 14:20:08",
+      "valor_total_produtos": 135,
+      "valor_frete": 19.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.72,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31276": {
+      "codigo": "31276",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "41051": {
+      "codigo": "41051",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C288) - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41063": {
+      "codigo": "41063",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C290)  - Cor: MARINHO VERDE CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "41095": {
+      "codigo": "41095",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C301) - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

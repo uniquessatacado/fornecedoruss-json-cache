@@ -1,0 +1,109 @@
+{
+  "codigo": "3352",
+  "nome": "CARLA SILVA",
+  "email": "carlacsilva19@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/10/2023",
+  "whatsapp": "(61) 98550-0033",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 314.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301451",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-07 14:22:04",
+      "data_hora_confirmacao": "2023-10-09 10:34:27",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:34:41",
+      "valor_total_produtos": 291,
+      "valor_frete": 23.25,
+      "frete": "PAC",
+      "valor_total_pedido": 314.25,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.24M": {
+      "codigo": "CD17.24M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.31M": {
+      "codigo": "CD17.31M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD17.19M": {
+      "codigo": "CD17.19M",
+      "titulo": "Bermuda Microfibra Ultra - Boss  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.2P": {
+      "codigo": "CD26.2P",
+      "titulo": "Regatas Drifit - Nike - Cor: Vermelha - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.3P": {
+      "codigo": "CD26.3P",
+      "titulo": "Regatas Drifit - Puma - Cor: Amarela - Tamanho: P",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD26.5G": {
+      "codigo": "CD26.5G",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "1825",
+  "nome": "ROBERTO SANTOS",
+  "email": "robertsantoslindo10@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(21) 97257-7633",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 541.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "3377",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-19 21:37:39",
+      "data_hora_confirmacao": "2023-11-23 14:36:57",
+      "data_hora_confirmacao_pagamento": "2023-11-23 14:37:14",
+      "valor_total_produtos": 455,
+      "valor_frete": 21.25,
+      "frete": "JADLOG",
+      "valor_total_pedido": 476.25,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3551",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-24 09:59:39",
+      "data_hora_confirmacao": "2023-11-24 10:24:22",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.42": {
+      "codigo": "CD16.42",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT31.10   - Tamanho: G1 - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD16.60": {
+      "codigo": "CD16.60",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.63": {
+      "codigo": "CD16.63",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT14.11    - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: G1 - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.48": {
+      "codigo": "CD16.48",
+      "titulo": "Camisetas de Time Tailandesas - MAN CITY  LT06.11   - Tamanho: G1 - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.61": {
+      "codigo": "CD16.61",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G1 - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

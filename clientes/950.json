@@ -1,0 +1,502 @@
+{
+  "codigo": "950",
+  "nome": "VAGNER BRITO",
+  "email": "britovagnersan@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/08/2023",
+  "whatsapp": "(48) 98864-4931",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 4034.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "7793",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 19:36:29",
+      "data_hora_confirmacao": "2024-02-28 21:44:27",
+      "data_hora_confirmacao_pagamento": "2024-02-28 21:44:43",
+      "valor_total_produtos": 3062.3,
+      "valor_frete": 125.76,
+      "frete": "JADLOG",
+      "valor_total_pedido": 3188.06,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7826",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 09:12:58",
+      "data_hora_confirmacao": "2024-02-29 12:54:09",
+      "data_hora_confirmacao_pagamento": "2024-02-29 12:53:56",
+      "valor_total_produtos": 489.88,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 489.88,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7840",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 13:40:21",
+      "data_hora_confirmacao": "2024-02-29 13:45:06",
+      "data_hora_confirmacao_pagamento": "2024-02-29 13:45:00",
+      "valor_total_produtos": 261.92,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 261.92,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7885",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-01 12:05:58",
+      "data_hora_confirmacao": "2024-03-01 12:08:11",
+      "data_hora_confirmacao_pagamento": "2024-03-01 12:07:56",
+      "valor_total_produtos": 94.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 94.99,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.3G": {
+      "codigo": "CD04.3G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD04.3M": {
+      "codigo": "CD04.3M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD04.4M": {
+      "codigo": "CD04.4M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD04.4G": {
+      "codigo": "CD04.4G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 8
+    },
+    "CD04.4GG": {
+      "codigo": "CD04.4GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD40.22": {
+      "codigo": "CD40.22",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  PUMA - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD40.19": {
+      "codigo": "CD40.19",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.1GG": {
+      "codigo": "CD04.1GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.04GG": {
+      "codigo": "CD24.04GG",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Cinza - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 7
+    },
+    "CD24.04M": {
+      "codigo": "CD24.04M",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Vermelha - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 12
+    },
+    "CD24.04G": {
+      "codigo": "CD24.04G",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Branca - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.25G": {
+      "codigo": "CD01.25G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10 - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.25GG": {
+      "codigo": "CD01.25GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10 - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.60G": {
+      "codigo": "CD01.60G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.60GG": {
+      "codigo": "CD01.60GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.30M": {
+      "codigo": "CD16.30M",
+      "titulo": "Camisetas de Time Tailandesas - Liverpool - Tamanho: M - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.30G": {
+      "codigo": "CD16.30G",
+      "titulo": "Camisetas de Time Tailandesas - Liverpool - Tamanho: G - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.31G": {
+      "codigo": "CD16.31G",
+      "titulo": "Camisetas de Time Tailandesas - Juventus - Tamanho: G - Times : Juventus",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.31GG": {
+      "codigo": "CD16.31GG",
+      "titulo": "Camisetas de Time Tailandesas - Juventus - Tamanho: GG - Times : Juventus",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.29G": {
+      "codigo": "CD16.29G",
+      "titulo": "Camisetas de Time Tailandesas - Gremio - Tamanho: G - Times : Gremio",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD16.68": {
+      "codigo": "CD16.68",
+      "titulo": "Camisetas de Time Tailandesas - BRASIL  - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD02.111G": {
+      "codigo": "CD02.111G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   - Cor: Rosa - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD02.103GG": {
+      "codigo": "CD02.103GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD02.103M": {
+      "codigo": "CD02.103M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.109GG": {
+      "codigo": "CD02.109GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD02.109G": {
+      "codigo": "CD02.109G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.106GG": {
+      "codigo": "CD02.106GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01GG": {
+      "codigo": "CD14.01GG",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.03G": {
+      "codigo": "CD39.03G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.02G": {
+      "codigo": "CD39.02G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.02GG": {
+      "codigo": "CD39.02GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Preto - Marca: Mizuno - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": 9
+    },
+    "CD13.2G3": {
+      "codigo": "CD13.2G3",
+      "titulo": "Camiseta PRADA PLUS SIZE Egipcia G1 G2 G3  - Cor: Bege - Marca: Prada - Tamanho: G3",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "PRADA",
+      "quantidade": 2
+    },
+    "CD13.2G1": {
+      "codigo": "CD13.2G1",
+      "titulo": "Camiseta PRADA PLUS SIZE Egipcia G1 G2 G3  - Cor: Bege - Marca: Prada - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD13.2G2": {
+      "codigo": "CD13.2G2",
+      "titulo": "Camiseta PRADA PLUS SIZE Egipcia G1 G2 G3  - Cor: Vermelha - Marca: Prada - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD13.1G1": {
+      "codigo": "CD13.1G1",
+      "titulo": "Camiseta PLUS SIZE Egipcia G1 G2 G3  - Cor: Preto - Marca: Armani - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD13.1G3": {
+      "codigo": "CD13.1G3",
+      "titulo": "Camiseta PLUS SIZE Egipcia G1 G2 G3  - Cor: Vermelha - Marca: Armani - Tamanho: G3",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD15.3GG": {
+      "codigo": "CD15.3GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Bruberry - Cor: Preto - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD02.117G": {
+      "codigo": "CD02.117G",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS  - Cor: Preto - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.117GG": {
+      "codigo": "CD02.117GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS  - Cor: Preto - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "CD02.100GG": {
+      "codigo": "CD02.100GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Azul - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.114GG": {
+      "codigo": "CD02.114GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.114G": {
+      "codigo": "CD02.114G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.3G": {
+      "codigo": "CD15.3G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Bruberry - Cor: Preto - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": 2
+    },
+    "CD04.3GG": {
+      "codigo": "CD04.3GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.3M": {
+      "codigo": "CD15.3M",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Bruberry - Cor: OffWhite - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD02.32G": {
+      "codigo": "CD02.32G",
+      "titulo": "Camiseta 40.1 Ultra Premium -Nike - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

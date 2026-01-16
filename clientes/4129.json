@@ -1,0 +1,112 @@
+{
+  "codigo": "4129",
+  "nome": "FRANCISCO MARCOS DE MORAIS JÚNIOR",
+  "email": "marcosjnior@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "18/11/2023",
+  "whatsapp": "(84) 99951-7428",
+  "cidade": "Lucrécia",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 728.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "3500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 13:11:22",
+      "data_hora_confirmacao": "2023-11-23 13:12:47",
+      "data_hora_confirmacao_pagamento": "2023-11-23 13:48:29",
+      "valor_total_produtos": 99,
+      "valor_frete": 21.33,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 120.33,
+      "desconto": 0,
+      "cidade": "Lucrécia",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8696",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 20:44:44",
+      "data_hora_confirmacao": "2024-03-20 10:07:09",
+      "data_hora_confirmacao_pagamento": "2024-03-20 10:07:04",
+      "valor_total_produtos": 473.9,
+      "valor_frete": 134.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 608.5,
+      "desconto": 0,
+      "cidade": "Lucrécia",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.44": {
+      "codigo": "CD17.44",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11    - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "KT1.1M": {
+      "codigo": "KT1.1M",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "KT1.1G": {
+      "codigo": "KT1.1G",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: Branca - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.7M": {
+      "codigo": "CD04.7M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.8M": {
+      "codigo": "CD04.8M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

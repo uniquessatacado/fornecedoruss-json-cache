@@ -1,0 +1,53 @@
+{
+  "codigo": "1464",
+  "nome": "ROGÉRIO TEIXEIRA",
+  "email": "rogerioteixeira1694@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(41) 98741-4054",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "20097",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-01 17:10:17",
+      "data_hora_confirmacao": "2024-09-02 17:09:27",
+      "data_hora_confirmacao_pagamento": "2024-09-02 17:09:18",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 16.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.81,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29134": {
+      "codigo": "29134",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29141": {
+      "codigo": "29141",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

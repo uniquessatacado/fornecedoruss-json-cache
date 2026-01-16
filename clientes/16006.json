@@ -1,0 +1,72 @@
+{
+  "codigo": "16006",
+  "nome": "SAMUEL OLIVEIRA DE JESUS",
+  "email": "samus9763@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/09/2024",
+  "whatsapp": "(75) 9970-77493",
+  "cidade": "Jaguaripe",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 77.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "22005",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-29 22:19:33",
+      "data_hora_confirmacao": "2024-09-30 09:53:31",
+      "data_hora_confirmacao_pagamento": "2024-09-30 09:53:21",
+      "valor_total_produtos": 19.99,
+      "valor_frete": 16.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 36.22,
+      "desconto": 0,
+      "cidade": "Jaguaripe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22227",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-03 20:22:41",
+      "data_hora_confirmacao": "2024-10-04 13:18:31",
+      "data_hora_confirmacao_pagamento": "2024-10-04 13:18:23",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 16.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 41.22,
+      "desconto": 0,
+      "cidade": "Jaguaripe",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29811": {
+      "codigo": "29811",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31866": {
+      "codigo": "31866",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

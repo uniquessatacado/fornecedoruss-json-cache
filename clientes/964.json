@@ -1,0 +1,77 @@
+{
+  "codigo": "964",
+  "nome": "LUCAS DOURADO BARBOSA",
+  "email": "kjklamorim@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(99) 98816-3650",
+  "cidade": "Balsas",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 176.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "12812",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-29 11:00:57",
+      "data_hora_confirmacao": "2024-05-30 10:03:19",
+      "data_hora_confirmacao_pagamento": "2024-05-30 10:03:11",
+      "valor_total_produtos": 141.96,
+      "valor_frete": 34.27,
+      "frete": "JADLOG",
+      "valor_total_pedido": 176.23,
+      "desconto": 0,
+      "cidade": "Balsas",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19377": {
+      "codigo": "19377",
+      "titulo": "Bermuda Microfibra Ultra NIKE com fitilho  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19419": {
+      "codigo": "19419",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19557": {
+      "codigo": "19557",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "19571": {
+      "codigo": "19571",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "PA105": {
+      "codigo": "PA105",
+      "titulo": "PULSEIRA DE LUXO 18K      ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

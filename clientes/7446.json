@@ -1,0 +1,53 @@
+{
+  "codigo": "7446",
+  "nome": "ALBERTO MURY",
+  "email": "betomury@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(51) 99121-4044",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 152.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "9281",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 22:07:25",
+      "data_hora_confirmacao": "2024-04-03 10:45:54",
+      "data_hora_confirmacao_pagamento": "2024-04-03 10:45:45",
+      "valor_total_produtos": 129.95,
+      "valor_frete": 22.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 152.83,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD51.1GG": {
+      "codigo": "CD51.1GG",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto e Branco - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD51.1M": {
+      "codigo": "CD51.1M",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto e Branco - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

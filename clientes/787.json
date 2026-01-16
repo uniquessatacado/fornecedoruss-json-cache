@@ -1,0 +1,112 @@
+{
+  "codigo": "787",
+  "nome": "RICARDO SILVA",
+  "email": "ric25silva@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(19) 99965-5428",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 226,
+  "pedidos": [
+    {
+      "codigo_pedido": "4443",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-11 18:48:57",
+      "data_hora_confirmacao": "2023-12-11 22:42:18",
+      "data_hora_confirmacao_pagamento": "2023-12-11 22:42:28",
+      "valor_total_produtos": 142,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 142,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4766",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-14 08:29:18",
+      "data_hora_confirmacao": "2023-12-14 09:13:14",
+      "data_hora_confirmacao_pagamento": "2023-12-14 10:41:03",
+      "valor_total_produtos": 84,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 84,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.6M": {
+      "codigo": "CD12.6M",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT25.10 - Cor: Marrom - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD67.8": {
+      "codigo": "CD67.8",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - HURLEY  LT07.12  - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD67.9": {
+      "codigo": "CD67.9",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - HANG LOOSE  LT07.12  - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: OffWhite - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD67.18": {
+      "codigo": "CD67.18",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.16": {
+      "codigo": "CD67.16",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.15": {
+      "codigo": "CD67.15",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Preto - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

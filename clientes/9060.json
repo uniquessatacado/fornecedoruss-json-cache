@@ -1,0 +1,72 @@
+{
+  "codigo": "9060",
+  "nome": "ANDERSON DE ASSUNÇÃO MEDEIROS",
+  "email": "andersondeassuncao@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/05/2024",
+  "whatsapp": "(47) 99995-5612",
+  "cidade": "Gaspar",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 82.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "11346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-04 21:36:07",
+      "data_hora_confirmacao": "2024-05-09 15:43:33",
+      "data_hora_confirmacao_pagamento": "2024-05-09 15:43:25",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 20.43,
+      "frete": "JADLOG",
+      "valor_total_pedido": 30.42,
+      "desconto": 0,
+      "cidade": "Gaspar",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11813",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 12:54:09",
+      "data_hora_confirmacao": "2024-05-14 12:54:09",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 51.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 51.99,
+      "desconto": 0,
+      "cidade": "Gaspar",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.18M": {
+      "codigo": "CD24.18M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.03M": {
+      "codigo": "CD12.03M",
+      "titulo": "Polo Piquet Duplo Peruana - Hugo Boss  - Cor: PRETA - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

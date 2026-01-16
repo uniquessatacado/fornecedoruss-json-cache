@@ -1,0 +1,147 @@
+{
+  "codigo": "19970",
+  "nome": "JULIO CESAR DE LIMA",
+  "email": "cesar.lima2251@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/05/2025",
+  "whatsapp": "(11) 98883-2110",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 363.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "29930",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-23 09:54:20",
+      "data_hora_confirmacao": "2025-05-23 09:54:20",
+      "data_hora_confirmacao_pagamento": "2025-05-23 09:54:20",
+      "valor_total_produtos": 50,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31834",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-25 10:45:57",
+      "data_hora_confirmacao": "2025-09-25 13:26:25",
+      "data_hora_confirmacao_pagamento": "2025-09-25 13:40:03",
+      "valor_total_produtos": 241.47,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 241.47,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31838",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-25 13:28:32",
+      "data_hora_confirmacao": "2025-09-25 13:28:32",
+      "data_hora_confirmacao_pagamento": "2025-09-25 13:39:08",
+      "valor_total_produtos": 71.88,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.88,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48608": {
+      "codigo": "48608",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED | Nike Bordado - LT62A (C1046) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54564": {
+      "codigo": "54564",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54570": {
+      "codigo": "54570",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54576": {
+      "codigo": "54576",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54597": {
+      "codigo": "54597",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54605": {
+      "codigo": "54605",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54637": {
+      "codigo": "54637",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - Logo Bordado (LT055) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54907": {
+      "codigo": "54907",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54919": {
+      "codigo": "54919",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

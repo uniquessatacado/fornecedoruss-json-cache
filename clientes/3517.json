@@ -1,0 +1,96 @@
+{
+  "codigo": "3517",
+  "nome": "EVANDRO ROCHA CAMPOS",
+  "email": "evandro.rocha.campos10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/10/2023",
+  "whatsapp": "(27) 99716-9794",
+  "cidade": "Cariacica",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 251.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301743",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-14 10:31:07",
+      "data_hora_confirmacao": "2023-10-16 11:35:12",
+      "data_hora_confirmacao_pagamento": "2023-10-16 11:35:21",
+      "valor_total_produtos": 120,
+      "valor_frete": 19.68,
+      "frete": "PAC",
+      "valor_total_pedido": 139.68,
+      "desconto": 0,
+      "cidade": "Cariacica",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23318",
+      "situacao_pedido": "LIBERADO NA ALFANDEGA EM TRANSITO PARA NOSSO ESTOQUE !",
+      "data_hora_pedido": "2024-10-24 18:51:56",
+      "data_hora_confirmacao": "2024-10-25 12:17:42",
+      "data_hora_confirmacao_pagamento": "2024-10-25 12:17:36",
+      "valor_total_produtos": 67.99,
+      "valor_frete": 14.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 111.9,
+      "desconto": 0,
+      "cidade": "Cariacica",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32691": {
+      "codigo": "32691",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD29.3G": {
+      "codigo": "CD29.3G",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD01.19G": {
+      "codigo": "CD01.19G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.20G": {
+      "codigo": "CD02.20G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.5G": {
+      "codigo": "CD26.5G",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "codigo": "2427",
+  "nome": "DANIEL LIMA",
+  "email": "lemoncestore@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(34) 99212-1090",
+  "cidade": "Uberaba",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 281.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300304",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-20 19:37:00",
+      "data_hora_confirmacao": "2023-09-21 23:26:45",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:26:53",
+      "valor_total_produtos": 66,
+      "valor_frete": 19.72,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 85.72,
+      "desconto": 0,
+      "cidade": "Uberaba",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8180",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-10 12:45:18",
+      "data_hora_confirmacao": "2024-03-11 09:29:54",
+      "data_hora_confirmacao_pagamento": "2024-03-11 09:29:49",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 19.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.13,
+      "desconto": 0,
+      "cidade": "Uberaba",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8278",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-12 11:59:58",
+      "data_hora_confirmacao": "2024-03-12 12:01:59",
+      "data_hora_confirmacao_pagamento": "2024-03-12 12:01:55",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 32.99,
+      "desconto": 0,
+      "cidade": "Uberaba",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.25M": {
+      "codigo": "CD17.25M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.02M": {
+      "codigo": "CD39.02M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD15.2M": {
+      "codigo": "CD15.2M",
+      "titulo": "Camiseta Egípcia Cotton Luxo BORDADA M2- Hugo Boss - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    }
+  }
+}

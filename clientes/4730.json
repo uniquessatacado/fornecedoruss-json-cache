@@ -1,0 +1,88 @@
+{
+  "codigo": "4730",
+  "nome": "PAULO SÉRGIO DA SILVA PIMENTEL",
+  "email": "paulopssp2@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/12/2023",
+  "whatsapp": "(14) 9811-93545",
+  "cidade": "Bauru",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 185.98000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "4761",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 07:03:17",
+      "data_hora_confirmacao": "2023-12-14 10:47:03",
+      "data_hora_confirmacao_pagamento": "2023-12-14 10:47:15",
+      "valor_total_produtos": 154.91,
+      "valor_frete": 22.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 176.99,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4796",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-14 17:36:03",
+      "data_hora_confirmacao": "2023-12-14 17:40:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 8.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 8.99,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD24.50": {
+      "codigo": "CD24.50",
+      "titulo": "Cuecas Peruanas - DOLCE GABANNA  LT13.12 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 4
+    },
+    "CD02.67": {
+      "codigo": "CD02.67",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

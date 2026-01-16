@@ -1,0 +1,96 @@
+{
+  "codigo": "16481",
+  "nome": "WEBERTON PHILIP VIEIRA",
+  "email": "webertonpvieira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2024",
+  "whatsapp": "(19) 99237-4242",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 235.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "22689",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-11 12:10:33",
+      "data_hora_confirmacao": "2024-10-11 12:14:10",
+      "data_hora_confirmacao_pagamento": "2024-10-14 15:33:03",
+      "valor_total_produtos": 83.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 83.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23524",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-30 11:27:47",
+      "data_hora_confirmacao": "2024-10-30 11:35:57",
+      "data_hora_confirmacao_pagamento": "2024-10-30 11:35:50",
+      "valor_total_produtos": 151.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 151.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21128": {
+      "codigo": "21128",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G2 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30077": {
+      "codigo": "30077",
+      "titulo": "Camisa de time Tailandesa 1.1BARCELONA 20/21 TORCEDOR- (envio direto da fabrica)   - Tamanho: G2 - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "31701": {
+      "codigo": "31701",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32323": {
+      "codigo": "32323",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX  - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

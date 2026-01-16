@@ -1,0 +1,88 @@
+{
+  "codigo": "17081",
+  "nome": "MARINA FALLEIROS DA SILVA",
+  "email": "falleirosmarina@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2024",
+  "whatsapp": "(43) 99649-7904",
+  "cidade": "Ivaiporã",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 149.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "23641",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 14:27:46",
+      "data_hora_confirmacao": "2024-11-01 16:08:05",
+      "data_hora_confirmacao_pagamento": "2024-11-01 16:07:58",
+      "valor_total_produtos": 104.56,
+      "valor_frete": 17.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.09,
+      "desconto": 31.37,
+      "cidade": "Ivaiporã",
+      "estado": "PR",
+      "percentual_comissao": 80,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "25998",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-08 16:52:27",
+      "data_hora_confirmacao": "2024-12-08 16:54:31",
+      "data_hora_confirmacao_pagamento": "2024-12-08 16:54:31",
+      "valor_total_produtos": 42.98,
+      "valor_frete": 15.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.9,
+      "desconto": 0,
+      "cidade": "Ivaiporã",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "26376": {
+      "codigo": "26376",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33224": {
+      "codigo": "33224",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35427": {
+      "codigo": "35427",
+      "titulo": "Cuecas Peruanas - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36775": {
+      "codigo": "36775",
+      "titulo": "Polo piquet simples - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo piquet simples",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

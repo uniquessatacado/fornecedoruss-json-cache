@@ -1,0 +1,61 @@
+{
+  "codigo": "13208",
+  "nome": "MATEUS HENRIQUE",
+  "email": "mateus.henrique23061533@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/07/2024",
+  "whatsapp": "(19) 99353-7337",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "17165",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-27 10:37:05",
+      "data_hora_confirmacao": "2024-07-27 10:38:14",
+      "data_hora_confirmacao_pagamento": "2024-07-27 10:38:01",
+      "valor_total_produtos": 55.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 55.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25334": {
+      "codigo": "25334",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS arte em silk - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25356": {
+      "codigo": "25356",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25396": {
+      "codigo": "25396",
+      "titulo": "Cuecas Peruanas - DOLCE & GABBANA  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    }
+  }
+}

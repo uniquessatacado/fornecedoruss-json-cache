@@ -1,0 +1,80 @@
+{
+  "codigo": "9959",
+  "nome": "JUNIOR VIANA FROIS",
+  "email": "juhninho01@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/05/2024",
+  "whatsapp": "(11) 99862-8357",
+  "cidade": "Carapicuíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 118.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "12634",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-26 19:34:37",
+      "data_hora_confirmacao": "2024-05-27 10:03:43",
+      "data_hora_confirmacao_pagamento": "2024-05-27 10:03:29",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13837",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 20:55:34",
+      "data_hora_confirmacao": "2024-06-17 11:45:32",
+      "data_hora_confirmacao_pagamento": "2024-06-17 11:45:25",
+      "valor_total_produtos": 59.74,
+      "valor_frete": 12.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.48,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15159": {
+      "codigo": "15159",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21611": {
+      "codigo": "21611",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21683": {
+      "codigo": "21683",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

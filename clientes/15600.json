@@ -1,0 +1,107 @@
+{
+  "codigo": "15600",
+  "nome": "ARTUR AMORIM ALVES",
+  "email": "arturamorimalvesaaa@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "12/09/2024",
+  "whatsapp": "(33) 99876-3280",
+  "cidade": "Teófilo Otoni",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 157.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "22285",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-04 17:55:42",
+      "data_hora_confirmacao": "2024-10-05 09:57:34",
+      "data_hora_confirmacao_pagamento": "2024-10-05 09:57:24",
+      "valor_total_produtos": 22.99,
+      "valor_frete": 19.35,
+      "frete": "JADLOG",
+      "valor_total_pedido": 42.34,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25751",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-05 11:28:27",
+      "data_hora_confirmacao": "2024-12-05 11:29:24",
+      "data_hora_confirmacao_pagamento": "2024-12-05 11:29:24",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.78,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26295",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-12 23:05:59",
+      "data_hora_confirmacao": "2024-12-12 23:11:12",
+      "data_hora_confirmacao_pagamento": "2024-12-12 23:11:12",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 17.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.14,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31329": {
+      "codigo": "31329",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36288": {
+      "codigo": "36288",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-VRM-DSL) (MD2-OFF-DSL) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37239": {
+      "codigo": "37239",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C04) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37531": {
+      "codigo": "37531",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C06) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    }
+  }
+}

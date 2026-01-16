@@ -1,0 +1,77 @@
+{
+  "codigo": "15895",
+  "nome": "PAULO JOSE NEVES FERREIRA",
+  "email": "paulo-vitor12@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2024",
+  "whatsapp": "(75) 98121-9735",
+  "cidade": "Alagoinhas",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 236.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "22091",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 19:58:20",
+      "data_hora_confirmacao": "2024-10-02 09:35:20",
+      "data_hora_confirmacao_pagamento": "2024-10-02 09:35:13",
+      "valor_total_produtos": 196.95,
+      "valor_frete": 39.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 236.07,
+      "desconto": 0,
+      "cidade": "Alagoinhas",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29114": {
+      "codigo": "29114",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30737": {
+      "codigo": "30737",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30846": {
+      "codigo": "30846",
+      "titulo": "Bermuda Microfibra Ultra - NIKE FACÃO  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31255": {
+      "codigo": "31255",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "31263": {
+      "codigo": "31263",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO VERMELHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

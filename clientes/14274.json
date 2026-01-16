@@ -1,0 +1,80 @@
+{
+  "codigo": "14274",
+  "nome": "ANDREA COSTA TAVARES DA SILVA",
+  "email": "andreacosta2@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "18/08/2024",
+  "whatsapp": "(11) 97333-6363",
+  "cidade": "Itu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 84.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "19040",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-19 09:31:24",
+      "data_hora_confirmacao": "2024-08-20 13:02:19",
+      "data_hora_confirmacao_pagamento": "2024-08-20 13:01:39",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.99,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21221",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-16 22:05:46",
+      "data_hora_confirmacao": "2024-09-17 10:54:03",
+      "data_hora_confirmacao_pagamento": "2024-09-17 10:53:57",
+      "valor_total_produtos": 44.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 44.98,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28051": {
+      "codigo": "28051",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28476": {
+      "codigo": "28476",
+      "titulo": "Boné Super Premium - CALVIN KLEIN termogel - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29789": {
+      "codigo": "29789",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

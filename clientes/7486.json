@@ -1,0 +1,61 @@
+{
+  "codigo": "7486",
+  "nome": "WILTON JUNIOR LEMOS MENEZES",
+  "email": "gu1_souz4@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(51) 98692-9937",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 273.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "10611",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 07:02:25",
+      "data_hora_confirmacao": "2024-04-24 17:35:01",
+      "data_hora_confirmacao_pagamento": "2024-04-24 17:34:52",
+      "valor_total_produtos": 240.94,
+      "valor_frete": 32.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 273.02,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.3M": {
+      "codigo": "CD40.3M",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  LOGO GOLA  - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.2M": {
+      "codigo": "CD40.2M",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  LOGO GOLA - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

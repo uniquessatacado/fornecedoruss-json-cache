@@ -1,0 +1,53 @@
+{
+  "codigo": "4139",
+  "nome": "PEDRO HENRIQUE",
+  "email": "Ph074735@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/11/2023",
+  "whatsapp": "(33) 99112-3604",
+  "cidade": "Pavão",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "3361",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-18 22:01:34",
+      "data_hora_confirmacao": "2023-11-21 10:49:25",
+      "data_hora_confirmacao_pagamento": "2023-11-21 10:49:37",
+      "valor_total_produtos": 46,
+      "valor_frete": 23.3,
+      "frete": "PAC",
+      "valor_total_pedido": 69.3,
+      "desconto": 0,
+      "cidade": "Pavão",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Azul Bebê - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.92": {
+      "codigo": "CD01.92",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11   - Tamanho: M - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

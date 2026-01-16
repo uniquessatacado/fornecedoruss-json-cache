@@ -1,0 +1,61 @@
+{
+  "codigo": "837",
+  "nome": "JACKSON SILVA",
+  "email": "jackdonbranco@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(81) 99345-8762",
+  "cidade": "Caruaru",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 285.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "24274",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-12 12:46:01",
+      "data_hora_confirmacao": "2024-11-12 12:50:08",
+      "data_hora_confirmacao_pagamento": "2024-11-12 12:50:08",
+      "valor_total_produtos": 228.97,
+      "valor_frete": 26.21,
+      "frete": "JADLOG",
+      "valor_total_pedido": 285.08,
+      "desconto": 0,
+      "cidade": "Caruaru",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20667": {
+      "codigo": "20667",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32963": {
+      "codigo": "32963",
+      "titulo": "Camisa de time Tailandesa 1.1 BOTAFOGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: GG - Times : Botafogo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "10548",
+  "nome": "ALEXANDRE AUGUSTO DE MOURA",
+  "email": "djaneale@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(11) 99778-5446",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 151.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "13205",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 11:55:18",
+      "data_hora_confirmacao": "2024-06-06 14:27:42",
+      "data_hora_confirmacao_pagamento": "2024-06-06 14:27:35",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 21.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 151.21,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19642": {
+      "codigo": "19642",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19726": {
+      "codigo": "19726",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

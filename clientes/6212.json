@@ -1,0 +1,136 @@
+{
+  "codigo": "6212",
+  "nome": "CAIO RIBEIRO",
+  "email": "caio_ribeirosk8@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/02/2024",
+  "whatsapp": "(16) 99342-3219",
+  "cidade": "Guará",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 320.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "7306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-17 12:12:16",
+      "data_hora_confirmacao": "2024-02-17 12:22:47",
+      "data_hora_confirmacao_pagamento": "2024-02-17 12:22:40",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 13.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.06,
+      "desconto": 0,
+      "cidade": "Guará",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14142",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 22:19:40",
+      "data_hora_confirmacao": "2024-06-20 18:31:02",
+      "data_hora_confirmacao_pagamento": "2024-06-20 18:30:55",
+      "valor_total_produtos": 211.91,
+      "valor_frete": 26.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 238.87,
+      "desconto": 0,
+      "cidade": "Guará",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19557": {
+      "codigo": "19557",
+      "titulo": "Cuecas Peruanas - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "21422": {
+      "codigo": "21422",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21426": {
+      "codigo": "21426",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21551": {
+      "codigo": "21551",
+      "titulo": "Cuecas Peruanas - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "21552": {
+      "codigo": "21552",
+      "titulo": "Cuecas Peruanas - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "22222": {
+      "codigo": "22222",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22238": {
+      "codigo": "22238",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22300": {
+      "codigo": "22300",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.96": {
+      "codigo": "CD02.96",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI - Cor: Marrom - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

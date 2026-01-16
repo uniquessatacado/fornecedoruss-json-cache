@@ -1,0 +1,104 @@
+{
+  "codigo": "3286",
+  "nome": "JONATHAN NATHAN ALVES DA SILVA",
+  "email": "jonathannathanalvesdasilva007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2023",
+  "whatsapp": "(31) 97351-6279",
+  "cidade": "Cachoeira da Prata",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 96.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "2985",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 20:51:43",
+      "data_hora_confirmacao": "2023-11-09 21:02:23",
+      "data_hora_confirmacao_pagamento": "2023-11-09 21:02:33",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 28.24,
+      "frete": "PAC",
+      "valor_total_pedido": 87.74,
+      "desconto": 0,
+      "cidade": "Primavera do Leste",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3052",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-11 11:15:40",
+      "data_hora_confirmacao": "2023-11-11 11:23:11",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 8.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 8.5,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.38": {
+      "codigo": "CD24.38",
+      "titulo": "Cuecas Peruanas - POLO RALPH  LT08.11    - Cor: Azul Marinho - Marca: Polo Ralph - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 2
+    },
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Vermelha - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD24.36M - BROOKSFIELD": {
+      "codigo": "CD24.36M - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Cinza - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "774",
+  "nome": "SAMUEL FELLES",
+  "email": "sfelles543@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(51) 98047-0488",
+  "cidade": "Novo Hamburgo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.84000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300925",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 09:12:57",
+      "data_hora_confirmacao": "2023-10-02 11:03:23",
+      "data_hora_confirmacao_pagamento": "2023-10-02 11:03:33",
+      "valor_total_produtos": 93.5,
+      "valor_frete": 39.61,
+      "frete": "SEDEX",
+      "valor_total_pedido": 133.11,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 12:44:26",
+      "data_hora_confirmacao": "2023-12-19 13:10:01",
+      "data_hora_confirmacao_pagamento": "2023-12-19 13:09:56",
+      "valor_total_produtos": 96.97,
+      "valor_frete": 15.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.73,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.21M - Boss": {
+      "codigo": "CD24.21M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 10
+    },
+    "CD24.21M- Boss": {
+      "codigo": "CD24.21M- Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.64": {
+      "codigo": "CD02.64",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT13.12   - Cor: OffWhite - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD17.52": {
+      "codigo": "CD17.52",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.75": {
+      "codigo": "CD02.75",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   LT18.12  - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "7622",
+  "nome": "FRANCISCO SANTOS",
+  "email": "ffernando_edg@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(11) 9817-95470",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 170.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "9528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 13:18:26",
+      "data_hora_confirmacao": "2024-04-05 15:41:58",
+      "data_hora_confirmacao_pagamento": "2024-04-05 15:41:48",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 9.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.94,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12925",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-01 00:00:16",
+      "data_hora_confirmacao": "2024-06-01 10:34:08",
+      "data_hora_confirmacao_pagamento": "2024-06-01 10:34:00",
+      "valor_total_produtos": 117.91,
+      "valor_frete": 13,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 130.91,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19557": {
+      "codigo": "19557",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "19564": {
+      "codigo": "19564",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "19565": {
+      "codigo": "19565",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "19570": {
+      "codigo": "19570",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "20228": {
+      "codigo": "20228",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA BOSS - Cor: Kit Preto-Branco-Marinho - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.13G": {
+      "codigo": "CD24.13G",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

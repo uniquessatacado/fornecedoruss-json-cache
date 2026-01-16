@@ -1,0 +1,99 @@
+{
+  "codigo": "3727",
+  "nome": "EXPEDITA LARISSA",
+  "email": "expedita_pires@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/10/2023",
+  "whatsapp": "(11) 94390-9840",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 136.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302209",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-24 20:58:02",
+      "data_hora_confirmacao": "2023-10-25 10:46:17",
+      "data_hora_confirmacao_pagamento": "2023-10-25 10:46:26",
+      "valor_total_produtos": 57,
+      "valor_frete": 10.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 67.81,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2270",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-25 18:52:08",
+      "data_hora_confirmacao": "2023-10-26 09:15:38",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 39,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 39,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2290",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-26 09:36:45",
+      "data_hora_confirmacao": "2023-10-26 10:07:55",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.7": {
+      "codigo": "CD43.7",
+      "titulo": "Boné Premium - LACOSTE  LT24.10  - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.38G1": {
+      "codigo": "CD02.38G1",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI  LT18.10   - Cor: Preto - Marca: Gucci - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD02.40G": {
+      "codigo": "CD02.40G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10  - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

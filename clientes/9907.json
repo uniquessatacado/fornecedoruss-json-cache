@@ -1,0 +1,80 @@
+{
+  "codigo": "9907",
+  "nome": "GUSTAVO MARTINELI",
+  "email": "martineligustavo5@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/05/2024",
+  "whatsapp": "(19) 99754-2962",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 82.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "17972",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 19:05:26",
+      "data_hora_confirmacao": "2024-08-07 10:37:12",
+      "data_hora_confirmacao_pagamento": "2024-08-07 10:37:03",
+      "valor_total_produtos": 10.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 22.63,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30112",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-03 23:12:49",
+      "data_hora_confirmacao": "2025-06-03 23:20:07",
+      "data_hora_confirmacao_pagamento": "2025-06-03 23:20:07",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 13.65,
+      "frete": "SEDEX",
+      "valor_total_pedido": 60.32,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18128": {
+      "codigo": "18128",
+      "titulo": "FONE DE OUVIDO COM FIO AURICULAR (ENTRADA PADRÃO)",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18139": {
+      "codigo": "18139",
+      "titulo": "CABO LIGHTNING (IPHONE)  - Cor: VERDE AGUA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "47497": {
+      "codigo": "47497",
+      "titulo": "Camiseta Suedine Ultra 1:1 Louis Vuitton - ARTE EM DTF | LT45A (C880)     - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

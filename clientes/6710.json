@@ -1,0 +1,53 @@
+{
+  "codigo": "6710",
+  "nome": "JAILSON SILVARES DOS SANTOS",
+  "email": "silvaresjailson@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2024",
+  "whatsapp": "(27) 99998-2363",
+  "cidade": "Três Lagoas",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 142.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "8142",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 18:20:14",
+      "data_hora_confirmacao": "2024-03-11 13:31:54",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 119.94,
+      "valor_frete": 22.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 142.44,
+      "desconto": 0,
+      "cidade": "Três Lagoas",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD31M": {
+      "codigo": "CD31M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD31GG": {
+      "codigo": "CD31GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

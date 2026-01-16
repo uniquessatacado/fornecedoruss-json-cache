@@ -1,0 +1,131 @@
+{
+  "codigo": "4075",
+  "nome": "GABRIEL DA SILVA CONZENCO",
+  "email": "gabrielhondafox@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/11/2023",
+  "whatsapp": "(22) 98100-2400",
+  "cidade": "Cantagalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1014.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "3150",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-14 21:20:12",
+      "data_hora_confirmacao": "2023-11-17 09:39:27",
+      "data_hora_confirmacao_pagamento": "2023-11-17 09:39:40",
+      "valor_total_produtos": 551,
+      "valor_frete": 47.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 598.41,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3236",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-16 19:29:34",
+      "data_hora_confirmacao": "2023-11-17 09:28:32",
+      "data_hora_confirmacao_pagamento": "2023-11-22 10:16:07",
+      "valor_total_produtos": 319,
+      "valor_frete": 32.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 351.55,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3441",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-22 13:16:16",
+      "data_hora_confirmacao": "2023-11-22 13:18:43",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Cantagalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.39M": {
+      "codigo": "CD02.39M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10   - Cor: Marrom - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 6
+    },
+    "CD16.54": {
+      "codigo": "CD16.54",
+      "titulo": "Camisetas de Time Tailandesas - VASCO   LT06.11 - Tamanho: G - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.40": {
+      "codigo": "CD16.40",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10    - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD02.46": {
+      "codigo": "CD02.46",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11   - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.45": {
+      "codigo": "CD02.45",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11  - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "2"
+    }
+  }
+}

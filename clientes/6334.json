@@ -1,0 +1,53 @@
+{
+  "codigo": "6334",
+  "nome": "ELVIS CANDIDO",
+  "email": "elviscandido10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/02/2024",
+  "whatsapp": "(19) 99537-9405",
+  "cidade": "Aguaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 106.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "7509",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 12:51:27",
+      "data_hora_confirmacao": "2024-02-22 13:08:48",
+      "data_hora_confirmacao_pagamento": "2024-02-22 13:08:30",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 13.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.58,
+      "desconto": 0,
+      "cidade": "Aguaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.101GG": {
+      "codigo": "CD02.101GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - JORDAN - NIKE - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Bege - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

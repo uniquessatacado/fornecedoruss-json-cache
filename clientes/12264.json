@@ -1,0 +1,61 @@
+{
+  "codigo": "12264",
+  "nome": "ERIK MENDES",
+  "email": "e.mendesg@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(19) 99779-1181",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 148.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "15651",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 13:27:26",
+      "data_hora_confirmacao": "2024-07-12 09:23:35",
+      "data_hora_confirmacao_pagamento": "2024-07-12 09:23:28",
+      "valor_total_produtos": 124.97,
+      "valor_frete": 23.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 148.42,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22968": {
+      "codigo": "22968",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23739": {
+      "codigo": "23739",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24021": {
+      "codigo": "24021",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

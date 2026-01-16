@@ -1,0 +1,69 @@
+{
+  "codigo": "9044",
+  "nome": "CHRISTHIAN RENAN SERZOSKI DOS SANTOS",
+  "email": "christhianserzoski@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/05/2024",
+  "whatsapp": "(42) 99813-2034",
+  "cidade": "Prudentópolis",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 264.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "11325",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-04 10:04:00",
+      "data_hora_confirmacao": "2024-05-06 18:50:07",
+      "data_hora_confirmacao_pagamento": "2024-05-06 18:50:00",
+      "valor_total_produtos": 244.97,
+      "valor_frete": 19.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 264.02,
+      "desconto": 0,
+      "cidade": "Prudentópolis",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17704": {
+      "codigo": "17704",
+      "titulo": "MOLETOM 3 CABOS  CANGURU HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "PA84": {
+      "codigo": "PA84",
+      "titulo": "CORRENTE BANHADA OURO 18K  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Banhados a ouro 18k",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.02G": {
+      "codigo": "CD12.02G",
+      "titulo": "Polo Piquet Duplo Peruana - Emporio Armani - Cor: PRETA - Marca: Armani - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

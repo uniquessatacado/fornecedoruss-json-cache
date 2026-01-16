@@ -1,0 +1,171 @@
+{
+  "codigo": "6098",
+  "nome": "PEDRO CLETO",
+  "email": "pedro.cletoo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/02/2024",
+  "whatsapp": "(15) 98113-0689",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 637.9000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "7179",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-08 10:56:16",
+      "data_hora_confirmacao": "2024-02-08 11:13:06",
+      "data_hora_confirmacao_pagamento": "2024-02-08 11:12:50",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 10.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 80.95,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7765",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 03:05:04",
+      "data_hora_confirmacao": "2024-02-28 09:21:12",
+      "data_hora_confirmacao_pagamento": "2024-02-28 09:21:07",
+      "valor_total_produtos": 108.97,
+      "valor_frete": 12.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 121.1,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11065",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 03:02:43",
+      "data_hora_confirmacao": "2024-05-02 10:04:40",
+      "data_hora_confirmacao_pagamento": "2024-05-02 10:04:32",
+      "valor_total_produtos": 403.92,
+      "valor_frete": 31.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 435.85,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17848": {
+      "codigo": "17848",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - BASICA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.18": {
+      "codigo": "CD40.18",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.103GG": {
+      "codigo": "CD02.103GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.01G": {
+      "codigo": "CD39.01G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.03G": {
+      "codigo": "CD39.03G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.2G": {
+      "codigo": "CD40.2G",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  LOGO GOLA - Cor: MARROM - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.15GG": {
+      "codigo": "CD50.15GG",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE SB - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.13G": {
+      "codigo": "CD50.13G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "ML1.1G": {
+      "codigo": "ML1.1G",
+      "titulo": "MOLETOM 3 CABOS NIKE - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD7.01GG": {
+      "codigo": "CD7.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "PA12": {
+      "codigo": "PA12",
+      "titulo": "CORRENTE DE PRATA  VERNEZIANA   1MM 60CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "KT1.2GG": {
+      "codigo": "KT1.2GG",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

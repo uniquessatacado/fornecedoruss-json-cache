@@ -1,0 +1,99 @@
+{
+  "codigo": "4641",
+  "nome": "RAFAEL RODRIGUES",
+  "email": "fael.rr29@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(12) 98207-2928",
+  "cidade": "Jacareí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 157.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "16489",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 20:46:29",
+      "data_hora_confirmacao": "2024-07-20 09:39:15",
+      "data_hora_confirmacao_pagamento": "2024-07-20 09:39:06",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19102",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-19 20:32:28",
+      "data_hora_confirmacao": "2024-08-20 10:26:29",
+      "data_hora_confirmacao_pagamento": "2024-08-20 10:26:23",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 11.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.8,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19537",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-24 23:20:45",
+      "data_hora_confirmacao": "2024-08-26 15:25:04",
+      "data_hora_confirmacao_pagamento": "2024-08-26 15:24:58",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 36.63,
+      "desconto": 0,
+      "cidade": "Jacareí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21207": {
+      "codigo": "21207",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25004": {
+      "codigo": "25004",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: GG - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28624": {
+      "codigo": "28624",
+      "titulo": "Boné Super Premium DRIFIT - LACOSTE - Cor: VERMELHA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

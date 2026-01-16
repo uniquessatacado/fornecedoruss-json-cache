@@ -1,0 +1,112 @@
+{
+  "codigo": "20584",
+  "nome": "JONATHAN LEANDRO",
+  "email": "jonathanleandroj9@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2025",
+  "whatsapp": "(22) 99219-1427",
+  "cidade": "Nova Friburgo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 367.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "31963",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-10-05 11:57:20",
+      "data_hora_confirmacao": "2025-10-05 12:01:56",
+      "data_hora_confirmacao_pagamento": "2025-10-05 12:01:57",
+      "valor_total_produtos": 146.62,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 176.52,
+      "desconto": 0,
+      "cidade": "Nova Friburgo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31964",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-05 11:57:20",
+      "data_hora_confirmacao": "2025-10-05 12:02:11",
+      "data_hora_confirmacao_pagamento": "2025-10-05 12:02:12",
+      "valor_total_produtos": 160.99,
+      "valor_frete": 30.03,
+      "frete": "JADLOG",
+      "valor_total_pedido": 191.02,
+      "desconto": 0,
+      "cidade": "Nova Friburgo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51020": {
+      "codigo": "51020",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO 25/26 - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "52812": {
+      "codigo": "52812",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR NOTTINGHAM FOREST II 25/26 - Tamanho: G - Times : Nottingham Forest - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "54378": {
+      "codigo": "54378",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT054) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54971": {
+      "codigo": "54971",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55068": {
+      "codigo": "55068",
+      "titulo": "Regata 30.1 Adidas - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas 30.1",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55080": {
+      "codigo": "55080",
+      "titulo": "Regata 30.1 Nike - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas 30.1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55511": {
+      "codigo": "55511",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

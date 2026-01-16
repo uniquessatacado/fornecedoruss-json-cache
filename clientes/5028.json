@@ -1,0 +1,45 @@
+{
+  "codigo": "5028",
+  "nome": "HELTER DE OLIVEIRA RODRIGUES",
+  "email": "helterheitor18@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(19) 99249-5758",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 30.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "5726",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 14:57:14",
+      "data_hora_confirmacao": "2023-12-23 15:10:29",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:08:12",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.69": {
+      "codigo": "CD02.69",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12   - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

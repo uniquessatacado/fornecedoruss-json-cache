@@ -1,0 +1,85 @@
+{
+  "codigo": "15570",
+  "nome": "JOACI LIMA MOREIRA",
+  "email": "asafegabriel2016@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/09/2024",
+  "whatsapp": "(94) 98447-1310",
+  "cidade": "Aparecida de Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 197.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "21109",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-14 10:45:35",
+      "data_hora_confirmacao": "2024-09-14 10:52:55",
+      "data_hora_confirmacao_pagamento": "2024-09-14 10:52:49",
+      "valor_total_produtos": 169.95,
+      "valor_frete": 27.18,
+      "frete": "JADLOG",
+      "valor_total_pedido": 197.13,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "830": {
+      "codigo": "830",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21453": {
+      "codigo": "21453",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28545": {
+      "codigo": "28545",
+      "titulo": "Boné Super Premium - NIKE termogel  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28618": {
+      "codigo": "28618",
+      "titulo": "Boné Super Premium - MCD - Cor: AZUL MARINHO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "29113": {
+      "codigo": "29113",
+      "titulo": "KIT CUECA PREMIUM NA CAIXA DE MADEIRA - EMPORIO ARMANI - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "29117": {
+      "codigo": "29117",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

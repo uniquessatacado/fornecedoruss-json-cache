@@ -1,0 +1,61 @@
+{
+  "codigo": "12308",
+  "nome": "NATAN FERREIRA DO NASCIMENTO",
+  "email": "nataningame@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/07/2024",
+  "whatsapp": "(13) 9969-24822",
+  "cidade": "Juquiá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 208.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "15826",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-12 17:57:32",
+      "data_hora_confirmacao": "2024-07-13 09:47:06",
+      "data_hora_confirmacao_pagamento": "2024-07-13 09:46:59",
+      "valor_total_produtos": 179.97,
+      "valor_frete": 28.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 208.8,
+      "desconto": 0,
+      "cidade": "Juquiá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24170": {
+      "codigo": "24170",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24205": {
+      "codigo": "24205",
+      "titulo": "BLUSA MOLETOM 3 CABOS ULTRA - VERSACE - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "24213": {
+      "codigo": "24213",
+      "titulo": "BLUSA MOLETOM 3 CABOS ULTRA - GUCCI - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

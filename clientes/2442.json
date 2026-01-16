@@ -1,0 +1,80 @@
+{
+  "codigo": "2442",
+  "nome": "WILLIAM BRANDAO ALVES",
+  "email": "w.brandao1@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(11) 9833-04855",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 156.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301399",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 16:44:09",
+      "data_hora_confirmacao": "2023-10-06 17:07:23",
+      "data_hora_confirmacao_pagamento": "2023-10-06 17:07:44",
+      "valor_total_produtos": 91,
+      "valor_frete": 10.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 101.87,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18357",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-10 21:29:44",
+      "data_hora_confirmacao": "2024-08-14 11:34:44",
+      "data_hora_confirmacao_pagamento": "2024-08-14 11:34:35",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26834": {
+      "codigo": "26834",
+      "titulo": "Camiseta Algodão Stretch Americano - HUGO BOSS arte em bordado  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD01.55GG": {
+      "codigo": "CD01.55GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD02.32GG": {
+      "codigo": "CD02.32GG",
+      "titulo": "Camiseta 40.1 Ultra Premium -Nike - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

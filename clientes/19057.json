@@ -1,0 +1,53 @@
+{
+  "codigo": "19057",
+  "nome": "HENRIQUE LOPES DA ROSA",
+  "email": "henriquelopesdarosa3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/01/2025",
+  "whatsapp": "(48) 99975-4074",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "27751",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-20 21:04:59",
+      "data_hora_confirmacao": "2025-01-21 10:17:45",
+      "data_hora_confirmacao_pagamento": "2025-01-21 10:17:45",
+      "valor_total_produtos": 78.33,
+      "valor_frete": 18.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.43,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39672": {
+      "codigo": "39672",
+      "titulo": "CAMISETA TECIDO  ELASFIT (C112) LT6A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40301": {
+      "codigo": "40301",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

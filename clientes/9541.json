@@ -1,0 +1,104 @@
+{
+  "codigo": "9541",
+  "nome": "RHUAN CHAGAS",
+  "email": "rhuuuaan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/05/2024",
+  "whatsapp": "(81) 98438-8332",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 292.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "27341",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-28 22:14:52",
+      "data_hora_confirmacao": "2024-12-28 22:16:28",
+      "data_hora_confirmacao_pagamento": "2024-12-28 22:16:28",
+      "valor_total_produtos": 151.71,
+      "valor_frete": 21.31,
+      "frete": "LOGGI",
+      "valor_total_pedido": 173.02,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31997",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-06 21:58:44",
+      "data_hora_confirmacao": "2025-10-06 22:00:00",
+      "data_hora_confirmacao_pagamento": "2025-10-06 22:00:00",
+      "valor_total_produtos": 102.5,
+      "valor_frete": 17.09,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.59,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37092": {
+      "codigo": "37092",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE (C03) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37414": {
+      "codigo": "37414",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C14) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38386": {
+      "codigo": "38386",
+      "titulo": "CAMISETA TECIDO  ELASFIT (C123) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38884": {
+      "codigo": "38884",
+      "titulo": "Camiseta Suedine ultra -(C143) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53125": {
+      "codigo": "53125",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55569": {
+      "codigo": "55569",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - Logo Bordado (LT059) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

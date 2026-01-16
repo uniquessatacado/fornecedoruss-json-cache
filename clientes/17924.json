@@ -1,0 +1,69 @@
+{
+  "codigo": "17924",
+  "nome": "ROGÉRIO FERRARI",
+  "email": "rpaferrari001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2024",
+  "whatsapp": "(11) 99533-9730",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 490.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "25341",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-29 16:50:57",
+      "data_hora_confirmacao": "2024-11-29 16:51:31",
+      "data_hora_confirmacao_pagamento": "2024-11-29 16:51:31",
+      "valor_total_produtos": 350.96,
+      "valor_frete": 19.65,
+      "frete": "SEDEX",
+      "valor_total_pedido": 490.21,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24972": {
+      "codigo": "24972",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO BRASIL - (envio direto da fabrica)  - Tamanho: GG - Times : Brasil - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24983": {
+      "codigo": "24983",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO BARCELONA - (envio direto da fabrica) - Tamanho: GG - Times : Barcelona - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29900": {
+      "codigo": "29900",
+      "titulo": "Camisa de time Tailandesa 1.1 SÃO PAULO RETRO 2006 - (envio direto da fabrica) - Tamanho: GG - Times : São Paulo - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30075": {
+      "codigo": "30075",
+      "titulo": "Camisa de time Tailandesa 1.1BARCELONA 20/21 TORCEDOR- (envio direto da fabrica)   - Tamanho: GG - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

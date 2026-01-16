@@ -1,0 +1,88 @@
+{
+  "codigo": "9617",
+  "nome": "ELIEL BRIANI MARTINS",
+  "email": "eliel.briani@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/05/2024",
+  "whatsapp": "(19) 99318-4059",
+  "cidade": "Mogi Guaçu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 231.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "12170",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 10:58:23",
+      "data_hora_confirmacao": "2024-05-22 12:51:28",
+      "data_hora_confirmacao_pagamento": "2024-05-22 12:51:20",
+      "valor_total_produtos": 128.98,
+      "valor_frete": 14.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 143.91,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18377",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 12:46:06",
+      "data_hora_confirmacao": "2024-08-14 11:38:59",
+      "data_hora_confirmacao_pagamento": "2024-08-14 11:38:47",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 13.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 87.31,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18748": {
+      "codigo": "18748",
+      "titulo": "MOLETOM 3 CABOS CANGURU ARMANI  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "18935": {
+      "codigo": "18935",
+      "titulo": "Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27081": {
+      "codigo": "27081",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte composta - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27099": {
+      "codigo": "27099",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em bordado madeira - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

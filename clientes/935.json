@@ -1,0 +1,646 @@
+{
+  "codigo": "935",
+  "nome": "WILLIAM DA SILVA MIRANDA",
+  "email": "williamnicolasicaro2019@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/08/2023",
+  "whatsapp": "(14) 9880-20376",
+  "cidade": "Pederneiras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 12,
+  "valor_total_comprado": 2345.0699999999997,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300991",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 17:53:03",
+      "data_hora_confirmacao": "2023-09-29 18:51:23",
+      "data_hora_confirmacao_pagamento": "2023-09-29 18:51:38",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 12.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.43,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2710",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 20:10:45",
+      "data_hora_confirmacao": "2023-11-06 20:10:45",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 147,
+      "valor_frete": 22,
+      "frete": "SEDEX",
+      "valor_total_pedido": 169,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3973",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 18:56:58",
+      "data_hora_confirmacao": "2023-12-06 17:38:03",
+      "data_hora_confirmacao_pagamento": "2023-12-06 17:37:58",
+      "valor_total_produtos": 117.9,
+      "valor_frete": 19.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 137.45,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4185",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-07 11:04:35",
+      "data_hora_confirmacao": "2023-12-07 11:07:14",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 59.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 59.9,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4232",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-07 19:23:36",
+      "data_hora_confirmacao": "2023-12-07 23:16:06",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:16:20",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 13.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.24,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5557",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 05:16:04",
+      "data_hora_confirmacao": "2023-12-22 17:15:47",
+      "data_hora_confirmacao_pagamento": "2023-12-22 17:15:57",
+      "valor_total_produtos": 367.87,
+      "valor_frete": 28.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 396.55,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5738",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-23 16:13:30",
+      "data_hora_confirmacao": "2023-12-26 14:21:11",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 40.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 40.99,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16008",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 12:22:07",
+      "data_hora_confirmacao": "2024-07-15 15:48:34",
+      "data_hora_confirmacao_pagamento": "2024-07-15 15:48:26",
+      "valor_total_produtos": 85.97,
+      "valor_frete": 25.21,
+      "frete": "SEDEX",
+      "valor_total_pedido": 111.18,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26435",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-14 12:18:36",
+      "data_hora_confirmacao": "2024-12-14 12:20:53",
+      "data_hora_confirmacao_pagamento": "2024-12-14 12:20:53",
+      "valor_total_produtos": 239.83,
+      "valor_frete": 33.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 273.63,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28469",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-28 13:22:42",
+      "data_hora_confirmacao": "2025-02-28 13:23:33",
+      "data_hora_confirmacao_pagamento": "2025-02-28 13:23:33",
+      "valor_total_produtos": 288.9,
+      "valor_frete": 34.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 323.39,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29364",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-18 02:10:15",
+      "data_hora_confirmacao": "2025-04-18 02:16:02",
+      "data_hora_confirmacao_pagamento": "2025-04-18 02:16:02",
+      "valor_total_produtos": 365.23,
+      "valor_frete": 38.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 403.7,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29801",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-16 11:41:40",
+      "data_hora_confirmacao": "2025-05-16 11:43:42",
+      "data_hora_confirmacao_pagamento": "2025-05-16 11:43:42",
+      "valor_total_produtos": 244.47,
+      "valor_frete": 39.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 283.61,
+      "desconto": 0,
+      "cidade": "Pederneiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23193": {
+      "codigo": "23193",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24556": {
+      "codigo": "24556",
+      "titulo": "Chinelo Premium LOUIS VUITTON  - COR CHINELO: PRETO - Marca: Louis Vitton - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 38/39",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "24565": {
+      "codigo": "24565",
+      "titulo": "Chinelo Premium LOUIS VUITTON - COR CHINELO: BEGE - Marca: Louis Vitton - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 38/39",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "36437": {
+      "codigo": "36437",
+      "titulo": "Bermuda Microfibra Ultra    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "36807": {
+      "codigo": "36807",
+      "titulo": "Boné Super Premium    - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "36812": {
+      "codigo": "36812",
+      "titulo": "Boné Super Premium     - Cor: GS- PRETO-VERDE-VERDE AGUA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "37268": {
+      "codigo": "37268",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C09) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37443": {
+      "codigo": "37443",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37625": {
+      "codigo": "37625",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C39) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "38857": {
+      "codigo": "38857",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39741": {
+      "codigo": "39741",
+      "titulo": "Camiseta Suedine ultra -(C214) LT4A - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40314": {
+      "codigo": "40314",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40593": {
+      "codigo": "40593",
+      "titulo": "Camiseta Suedine ultra -(C240) ARTE EM DTF LT3A  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40665": {
+      "codigo": "40665",
+      "titulo": "Cuecas Peruanas (C265)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "2"
+    },
+    "41317": {
+      "codigo": "41317",
+      "titulo": "Boné Premium LT18A (C402) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42542": {
+      "codigo": "42542",
+      "titulo": "Cueca Peruana LT29A (C638) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "42549": {
+      "codigo": "42549",
+      "titulo": "Cueca Peruana LT29A (C638)  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "42563": {
+      "codigo": "42563",
+      "titulo": "Cueca Peruana LT29A (C638)  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "42570": {
+      "codigo": "42570",
+      "titulo": "Cueca Peruana LT29A (C639) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "44490": {
+      "codigo": "44490",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C726) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "46006": {
+      "codigo": "46006",
+      "titulo": "Cueca Peruana LT36A (C777) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BALENCIAGA",
+      "quantidade": "2"
+    },
+    "46180": {
+      "codigo": "46180",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT37A (C801) SÃO PAULO - PRONTA ENTREGA - Tamanho: M - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "46356": {
+      "codigo": "46356",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C817) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46362": {
+      "codigo": "46362",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C817) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46661": {
+      "codigo": "46661",
+      "titulo": "Tênis Nike Air Force 1 Off-White Inspirado - Solado Alto e Cadarço Premium - Cor: OFFWHITE - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47050": {
+      "codigo": "47050",
+      "titulo": "Regata Suedine Adidas Preta | Bordado Premium e Caimento Perfeito - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "47068": {
+      "codigo": "47068",
+      "titulo": "Regata Suedine Off-White Arte em DTF Nike | Neutro Sofisticado & Pegada Street - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47112": {
+      "codigo": "47112",
+      "titulo": "Regata Suedine Arte em DTF Nike Air Off-White | Estilo Clean & Toque Confortável - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47999": {
+      "codigo": "47999",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C941) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48372": {
+      "codigo": "48372",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED | Nike Arte em DTF LT58A (C1005) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48557": {
+      "codigo": "48557",
+      "titulo": "Cueca Peruana LT36A (C1040) - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "4"
+    },
+    "CD32.2Juliet": {
+      "codigo": "CD32.2Juliet",
+      "titulo": "Óculos  Juliet - Roxa c/ Vermelho - Cor da Armação: Prata c/Chumbo - Cor da Lente: Roxo c/Vermelho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD17.37M": {
+      "codigo": "CD17.37M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Azul",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.60M": {
+      "codigo": "CD01.60M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD60.4": {
+      "codigo": "CD60.4",
+      "titulo": "Óculos  Double X - DOURADO 24K    LT17.11  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 4
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 2
+    },
+    "CD60.7": {
+      "codigo": "CD60.7",
+      "titulo": "Óculos  Double X - CAMALEÃO  LT05.12 - Cor da Armação: Chumbo - Cor da Lente: Camaleão - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.4": {
+      "codigo": "CD69.4",
+      "titulo": "CAMISETA EGIPICIA COTTON - GUCCI  LT20.12   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.40": {
+      "codigo": "CD39.40",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD18.2": {
+      "codigo": "CD18.2",
+      "titulo": "Bermuda Drifit Ultra - Nike  LT19.12 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Drifit Ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.54": {
+      "codigo": "CD17.54",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  LT19.12 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

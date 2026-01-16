@@ -1,0 +1,45 @@
+{
+  "codigo": "9769",
+  "nome": "MICHEL NOVAIS",
+  "email": "novais_michel@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "22/05/2024",
+  "whatsapp": "(11) 9489-61562",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 67.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "13770",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 11:13:52",
+      "data_hora_confirmacao": "2024-06-15 11:56:33",
+      "data_hora_confirmacao_pagamento": "2024-06-15 11:56:10",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 12.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.87,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20394": {
+      "codigo": "20394",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

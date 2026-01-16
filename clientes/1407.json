@@ -1,0 +1,88 @@
+{
+  "codigo": "1407",
+  "nome": "EMERSON HENRIQUE DE CAMPOS ANTUNES",
+  "email": "emerson.antunes.ea88@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "20/08/2023",
+  "whatsapp": "(18) 98185-2745",
+  "cidade": "Presidente Prudente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 234.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301553",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-10 19:52:10",
+      "data_hora_confirmacao": "2023-10-10 19:54:53",
+      "data_hora_confirmacao_pagamento": "2023-10-10 19:55:00",
+      "valor_total_produtos": 80,
+      "valor_frete": 16.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 96.79,
+      "desconto": 0,
+      "cidade": "Presidente Prudente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2904",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 18:19:01",
+      "data_hora_confirmacao": "2023-11-09 14:48:41",
+      "data_hora_confirmacao_pagamento": "2023-11-09 14:48:53",
+      "valor_total_produtos": 116,
+      "valor_frete": 21.65,
+      "frete": "SEDEX",
+      "valor_total_pedido": 137.65,
+      "desconto": 0,
+      "cidade": "Presidente Prudente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.5GG": {
+      "codigo": "CD16.5GG",
+      "titulo": "Camisetas de Time Tailandesas - Manchester City (Jogador) - Tamanho: GG - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Preto - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD16.51": {
+      "codigo": "CD16.51",
+      "titulo": "Camisetas de Time Tailandesas - BARCELONA   LT06.11    - Tamanho: GG - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "9264",
+  "nome": "MARINHO TEODORO DA SILVA",
+  "email": "marinhoteo408@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(13) 97401-0789",
+  "cidade": "Cubatão",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 278.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "11636",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 15:24:34",
+      "data_hora_confirmacao": "2024-05-10 18:19:50",
+      "data_hora_confirmacao_pagamento": "2024-05-10 18:19:43",
+      "valor_total_produtos": 153.94,
+      "valor_frete": 21.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 175.09,
+      "desconto": 0,
+      "cidade": "Cubatão",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12199",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 15:05:54",
+      "data_hora_confirmacao": "2024-05-21 15:07:12",
+      "data_hora_confirmacao_pagamento": "2024-05-21 15:07:05",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 12.58,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 103.56,
+      "desconto": 0,
+      "cidade": "Cubatão",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18276": {
+      "codigo": "18276",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: LARANJA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18287": {
+      "codigo": "18287",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.02GG": {
+      "codigo": "CD12.02GG",
+      "titulo": "Polo Piquet Duplo Peruana - Emporio Armani - Cor: PRETA - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD24.22GG": {
+      "codigo": "CD24.22GG",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.19GG": {
+      "codigo": "CD24.19GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "KT1.2GG": {
+      "codigo": "KT1.2GG",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

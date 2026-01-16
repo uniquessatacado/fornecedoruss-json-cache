@@ -1,0 +1,77 @@
+{
+  "codigo": "12464",
+  "nome": "DANIEL ZULATTO",
+  "email": "daniel_zulatto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(11) 99832-9928",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "16060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 17:52:36",
+      "data_hora_confirmacao": "2024-07-15 21:21:55",
+      "data_hora_confirmacao_pagamento": "2024-07-15 21:21:49",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 12.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.92,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23415": {
+      "codigo": "23415",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23465": {
+      "codigo": "23465",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24643": {
+      "codigo": "24643",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24646": {
+      "codigo": "24646",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24708": {
+      "codigo": "24708",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    }
+  }
+}

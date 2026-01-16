@@ -1,0 +1,69 @@
+{
+  "codigo": "2774",
+  "nome": "GABRIEL FRIGO DOS SANTOS",
+  "email": "gabrielfrigosantos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(11) 9747-98969",
+  "cidade": "Itapema",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300624",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-24 17:42:59",
+      "data_hora_confirmacao": "2023-09-24 23:40:32",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:40:41",
+      "valor_total_produtos": 51.5,
+      "valor_frete": 24.13,
+      "frete": "PAC",
+      "valor_total_pedido": 75.63,
+      "desconto": 0,
+      "cidade": "Itapema",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.7M - Abercrombie & Fitch": {
+      "codigo": "CD24.7M - Abercrombie & Fitch",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Abercrombie - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE",
+      "quantidade": "1"
+    },
+    "CD24.8M - Lacoste": {
+      "codigo": "CD24.8M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.15M - Tommy": {
+      "codigo": "CD24.15M - Tommy",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD03.01M": {
+      "codigo": "CD03.01M",
+      "titulo": "Camiseta High 40.1 Oversized - Cor: Azul - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Oversized",
+      "marca": "HIGH",
+      "quantidade": "1"
+    }
+  }
+}

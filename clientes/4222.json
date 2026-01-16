@@ -1,0 +1,53 @@
+{
+  "codigo": "4222",
+  "nome": "RENAN GONÇALVES DE SOUZA",
+  "email": "nanzinho843@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(19) 99159-5651",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 102,
+  "pedidos": [
+    {
+      "codigo_pedido": "3562",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-24 12:35:53",
+      "data_hora_confirmacao": "2023-11-24 13:10:46",
+      "data_hora_confirmacao_pagamento": "2023-11-24 13:10:58",
+      "valor_total_produtos": 102,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 102,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "PA14": {
+      "codigo": "PA14",
+      "titulo": "CORRENTE DE PRATA ELO DUPLO 2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA07": {
+      "codigo": "PA07",
+      "titulo": "PULSEIRA DE PRATA GUCCI  3MM",
+      "categoria_principal": "PRATAS",
+      "categoria": "PULSEIRAS DE PRATA",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

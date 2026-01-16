@@ -1,0 +1,80 @@
+{
+  "codigo": "9295",
+  "nome": "JOAO VITOT",
+  "email": "luccalopeslk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(65) 99619-2146",
+  "cidade": "Cuiabá",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 145.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "11687",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 20:32:52",
+      "data_hora_confirmacao": "2024-05-11 11:57:31",
+      "data_hora_confirmacao_pagamento": "2024-05-11 11:57:25",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 17.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 48.01,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12926",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-01 00:19:39",
+      "data_hora_confirmacao": "2024-06-01 11:11:58",
+      "data_hora_confirmacao_pagamento": "2024-06-01 11:11:48",
+      "valor_total_produtos": 76.98,
+      "valor_frete": 20.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.21,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18446": {
+      "codigo": "18446",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19472": {
+      "codigo": "19472",
+      "titulo": "Camiseta Suedine Ultra NIKE arte bordada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.13G": {
+      "codigo": "CD50.13G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

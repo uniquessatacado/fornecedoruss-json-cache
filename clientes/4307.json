@@ -1,0 +1,53 @@
+{
+  "codigo": "4307",
+  "nome": "NATALIA SANTOS SOCCOL",
+  "email": "camisaoutlet0@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(66) 99600-2266",
+  "cidade": "Sorriso",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 300.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "3694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 15:58:03",
+      "data_hora_confirmacao": "2023-11-27 16:30:50",
+      "data_hora_confirmacao_pagamento": "2023-11-27 16:31:00",
+      "valor_total_produtos": 264,
+      "valor_frete": 36.84,
+      "frete": "PAC",
+      "valor_total_pedido": 300.84,
+      "desconto": 0,
+      "cidade": "Sorriso",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    }
+  }
+}

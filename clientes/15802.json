@@ -1,0 +1,61 @@
+{
+  "codigo": "15802",
+  "nome": "FABIO DA SILVA BARBOSA",
+  "email": "fabiodasilvabarbosa2@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/09/2024",
+  "whatsapp": "(27) 9980-84558",
+  "cidade": "Ibiraçu",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 77.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "21367",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 13:10:43",
+      "data_hora_confirmacao": "2024-09-19 16:00:29",
+      "data_hora_confirmacao_pagamento": "2024-09-19 16:00:22",
+      "valor_total_produtos": 59.97,
+      "valor_frete": 17.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.67,
+      "desconto": 0,
+      "cidade": "Ibiraçu",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29808": {
+      "codigo": "29808",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29816": {
+      "codigo": "29816",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29819": {
+      "codigo": "29819",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "codigo": "3934",
+  "nome": "JOÃO VICTOR RAIMUNDO MONTEIRO DA SILVA",
+  "email": "dunguinha2002@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(19) 99178-1349",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 223.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "7686",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-02-27 09:24:30",
+      "data_hora_confirmacao": "2024-02-27 09:56:09",
+      "data_hora_confirmacao_pagamento": "2024-02-27 09:56:05",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 99.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14291",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-21 11:52:13",
+      "data_hora_confirmacao": "2024-06-21 13:38:07",
+      "data_hora_confirmacao_pagamento": "2024-06-21 13:44:43",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26149",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-11 15:54:03",
+      "data_hora_confirmacao": "2024-12-11 15:56:14",
+      "data_hora_confirmacao_pagamento": "2024-12-11 15:56:14",
+      "valor_total_produtos": 87.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 87.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21428": {
+      "codigo": "21428",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "36490": {
+      "codigo": "36490",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36783": {
+      "codigo": "36783",
+      "titulo": "Polo piquet simples  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo piquet simples",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.02GG": {
+      "codigo": "CD24.02GG",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD24.01GG": {
+      "codigo": "CD24.01GG",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "CD24.03GG": {
+      "codigo": "CD24.03GG",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Vermelha - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

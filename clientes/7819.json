@@ -1,0 +1,104 @@
+{
+  "codigo": "7819",
+  "nome": "GUSTAVO DELMONDES",
+  "email": "delmondesgustavo31@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(11) 98895-7388",
+  "cidade": "Jandira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 508.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "9771",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 18:44:21",
+      "data_hora_confirmacao": "2024-04-10 09:27:03",
+      "data_hora_confirmacao_pagamento": "2024-04-10 09:26:58",
+      "valor_total_produtos": 105.98,
+      "valor_frete": 12.69,
+      "frete": "SEDEX",
+      "valor_total_pedido": 118.67,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10480",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-21 20:41:15",
+      "data_hora_confirmacao": "2024-04-22 11:29:13",
+      "data_hora_confirmacao_pagamento": "2024-04-22 11:29:04",
+      "valor_total_produtos": 370.93,
+      "valor_frete": 19.39,
+      "frete": "SEDEX",
+      "valor_total_pedido": 390.32,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.1M": {
+      "codigo": "CD22.1M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.1G": {
+      "codigo": "CD22.1G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.1GG": {
+      "codigo": "CD22.1GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.3GG": {
+      "codigo": "CD22.3GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

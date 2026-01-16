@@ -1,0 +1,96 @@
+{
+  "codigo": "3931",
+  "nome": "ANDERSON FREITAS DE SOUZA",
+  "email": "andersonvidanova102016@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(85) 98816-4889",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 413.52,
+  "pedidos": [
+    {
+      "codigo_pedido": "2857",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 11:26:30",
+      "data_hora_confirmacao": "2023-11-09 13:58:01",
+      "data_hora_confirmacao_pagamento": "2023-11-09 13:58:11",
+      "valor_total_produtos": 116,
+      "valor_frete": 54.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 170.01,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13413",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-09 09:04:16",
+      "data_hora_confirmacao": "2024-06-10 18:14:49",
+      "data_hora_confirmacao_pagamento": "2024-06-10 18:14:43",
+      "valor_total_produtos": 215.98,
+      "valor_frete": 27.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 243.51,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18108": {
+      "codigo": "18108",
+      "titulo": "CAIXA DE SOM BLUETOOTH LED - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "CAIXAS DE SOM",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "20057": {
+      "codigo": "20057",
+      "titulo": "Óculos OAKLEY JULIET - SQUARED - ARMAÇÃO: CHUMBO-XMETAL - COR DA LENTE: PRETA - BLACK - Kit Borracha: PRETA",
+      "categoria_principal": "OCULOS",
+      "categoria": "SQUARED ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD07.1P": {
+      "codigo": "CD07.1P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Cor: Branca - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD10.10G": {
+      "codigo": "CD10.10G",
+      "titulo": "Camiseta Egipicia Luxo - ARMANI   LT18.10 - Cor: Azul Marinho - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD10.2M": {
+      "codigo": "CD10.2M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Marrom - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

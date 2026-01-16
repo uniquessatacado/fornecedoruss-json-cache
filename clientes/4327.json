@@ -1,0 +1,53 @@
+{
+  "codigo": "4327",
+  "nome": "FÁTIMA APARECIDA LARANJEIRA",
+  "email": "fatimalaranjeiras@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2023",
+  "whatsapp": "(19) 99185-7875",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "3733",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-28 08:54:45",
+      "data_hora_confirmacao": "2023-11-28 09:31:17",
+      "data_hora_confirmacao_pagamento": "2023-11-28 12:28:34",
+      "valor_total_produtos": 155.8,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 155.8,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.8": {
+      "codigo": "CD12.8",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT16.11 - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.40": {
+      "codigo": "CD08.40",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

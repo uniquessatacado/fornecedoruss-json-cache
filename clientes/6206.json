@@ -1,0 +1,77 @@
+{
+  "codigo": "6206",
+  "nome": "ANORBERTO VIANA BRUJNOLO",
+  "email": "anorberto.brujnolo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/02/2024",
+  "whatsapp": "(41) 99847-7125",
+  "cidade": "São José dos Pinhais",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 153.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "7860",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 19:34:30",
+      "data_hora_confirmacao": "2024-03-01 13:11:17",
+      "data_hora_confirmacao_pagamento": "2024-03-01 13:10:47",
+      "valor_total_produtos": 137.93,
+      "valor_frete": 15.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 153.37,
+      "desconto": 0,
+      "cidade": "São José dos Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.93": {
+      "codigo": "CD02.93",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.108GG": {
+      "codigo": "CD02.108GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Branca - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.01GG": {
+      "codigo": "CD24.01GG",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "CD24.03GG": {
+      "codigo": "CD24.03GG",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Branca - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD04.5GG": {
+      "codigo": "CD04.5GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

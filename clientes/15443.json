@@ -1,0 +1,53 @@
+{
+  "codigo": "15443",
+  "nome": "LEONI MAURIZIO",
+  "email": "maurizioln2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(82) 99328-1858",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "20757",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 08:26:50",
+      "data_hora_confirmacao": "2024-09-10 10:11:14",
+      "data_hora_confirmacao_pagamento": "2024-09-10 10:11:07",
+      "valor_total_produtos": 66.98,
+      "valor_frete": 17.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.76,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29841": {
+      "codigo": "29841",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30314": {
+      "codigo": "30314",
+      "titulo": "Camiseta Algodão Soft Americano - ARMANI arte composta - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

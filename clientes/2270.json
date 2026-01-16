@@ -1,0 +1,142 @@
+{
+  "codigo": "2270",
+  "nome": "WALLESON AYLTON COSTA",
+  "email": "1994walleson@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/09/2023",
+  "whatsapp": "(19) 99426-1709",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 256,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300165",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-18 21:20:45",
+      "data_hora_confirmacao": "2023-09-19 13:28:11",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 47,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 47,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301361",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-05 21:51:53",
+      "data_hora_confirmacao": "2023-10-06 13:01:42",
+      "data_hora_confirmacao_pagamento": "2023-10-07 09:22:32",
+      "valor_total_produtos": 79,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 79,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5654",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 18:02:09",
+      "data_hora_confirmacao": "2023-12-22 18:04:51",
+      "data_hora_confirmacao_pagamento": "2023-12-26 10:24:57",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5873",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-26 20:09:39",
+      "data_hora_confirmacao": "2023-12-28 11:20:07",
+      "data_hora_confirmacao_pagamento": "2023-12-29 16:09:30",
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43M": {
+      "codigo": "CD01.43M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.1M - Boss": {
+      "codigo": "CD24.1M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.6M - Lacoste": {
+      "codigo": "CD24.6M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.20M - Gucci": {
+      "codigo": "CD24.20M - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 4
+    },
+    "CD07.22M": {
+      "codigo": "CD07.22M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD16.58": {
+      "codigo": "CD16.58",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS   LT08.11  - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    }
+  }
+}

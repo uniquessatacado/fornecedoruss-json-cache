@@ -1,0 +1,104 @@
+{
+  "codigo": "17700",
+  "nome": "ALEXANDRE SERAFIM DA SILVA",
+  "email": "alexandreserafimm@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/11/2024",
+  "whatsapp": "(19) 98852-7897",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 211.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "24911",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-21 15:19:59",
+      "data_hora_confirmacao": "2024-11-21 15:29:18",
+      "data_hora_confirmacao_pagamento": "2024-11-21 15:29:18",
+      "valor_total_produtos": 191.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 191.95,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25144",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-27 16:07:10",
+      "data_hora_confirmacao": "2024-11-27 16:08:17",
+      "data_hora_confirmacao_pagamento": "2024-11-27 16:08:17",
+      "valor_total_produtos": 19.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 19.99,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "25542": {
+      "codigo": "25542",
+      "titulo": "Óculos OAKLEY JULIET - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: NEON BLUE - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "26330": {
+      "codigo": "26330",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28650": {
+      "codigo": "28650",
+      "titulo": "Boné Super Premium - QUIKSILVER bordado - Cor: AZUL",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "28651": {
+      "codigo": "28651",
+      "titulo": "Boné Super Premium - QUIKSILVER bordado - Cor: AZUL MARINHO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "33937": {
+      "codigo": "33937",
+      "titulo": "Chinelo Kenner Megah - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: MEGAH - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    }
+  }
+}

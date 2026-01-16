@@ -1,0 +1,69 @@
+{
+  "codigo": "7588",
+  "nome": "SÉRGIO CEZARIO",
+  "email": "serginhocezario@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(24) 99946-8952",
+  "cidade": "Barra Mansa",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 210.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "9478",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 21:03:40",
+      "data_hora_confirmacao": "2024-04-05 10:42:48",
+      "data_hora_confirmacao_pagamento": "2024-04-05 10:42:25",
+      "valor_total_produtos": 157.87,
+      "valor_frete": 53.02,
+      "frete": "SEDEX",
+      "valor_total_pedido": 210.89,
+      "desconto": 0,
+      "cidade": "Barra Mansa",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.08GG": {
+      "codigo": "CD25.08GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.13G": {
+      "codigo": "CD24.13G",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

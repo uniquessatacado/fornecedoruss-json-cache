@@ -1,0 +1,88 @@
+{
+  "codigo": "13553",
+  "nome": "TIAGO NEVES ANDRADE",
+  "email": "tiagonevesandrade@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "04/08/2024",
+  "whatsapp": "(19) 9920-66130",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 144.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "17836",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-04 10:36:34",
+      "data_hora_confirmacao": "2024-08-05 11:09:40",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:09:33",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18345",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-10 14:06:45",
+      "data_hora_confirmacao": "2024-08-12 15:10:47",
+      "data_hora_confirmacao_pagamento": "2024-08-14 15:56:21",
+      "valor_total_produtos": 108.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 108.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25708": {
+      "codigo": "25708",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "25724": {
+      "codigo": "25724",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25808": {
+      "codigo": "25808",
+      "titulo": "Bermuda Microfibra HIPER - NIKE arte em bordado  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27132": {
+      "codigo": "27132",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

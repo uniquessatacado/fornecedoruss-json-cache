@@ -1,0 +1,85 @@
+{
+  "codigo": "5134",
+  "nome": "CELSO DE ABREU SOARES",
+  "email": "c_asoares@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "03/01/2024",
+  "whatsapp": "(11) 9815-18055",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 230.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "6202",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 17:32:03",
+      "data_hora_confirmacao": "2024-01-08 11:54:44",
+      "data_hora_confirmacao_pagamento": "2024-01-08 11:55:37",
+      "valor_total_produtos": 213.94,
+      "valor_frete": 17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 230.94,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.45": {
+      "codigo": "CD39.45",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT23.12    - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD69": {
+      "codigo": "CD69",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.63": {
+      "codigo": "CD02.63",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT13.12  - Cor: Amarela - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.51": {
+      "codigo": "CD39.51",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) LT04.12    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.46": {
+      "codigo": "CD39.46",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT04.12 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

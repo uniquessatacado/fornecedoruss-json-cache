@@ -1,0 +1,80 @@
+{
+  "codigo": "3433",
+  "nome": "RAFAEL DE LIMA PEREIRA",
+  "email": "rafinha.lima.pereira81@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(11) 9538-12705",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 164.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301599",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 10:50:00",
+      "data_hora_confirmacao": "2023-10-11 11:08:51",
+      "data_hora_confirmacao_pagamento": "2023-10-11 11:07:35",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 8.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 68.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4244",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-07 22:47:23",
+      "data_hora_confirmacao": "2023-12-07 23:12:52",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:13:14",
+      "valor_total_produtos": 85,
+      "valor_frete": 11.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 96.14,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.6Romeu": {
+      "codigo": "CD32.6Romeu",
+      "titulo": "Óculos  Romeu - Azul - Cor da Armação: Chumbo - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

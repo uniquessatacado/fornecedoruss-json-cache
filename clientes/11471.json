@@ -1,0 +1,104 @@
+{
+  "codigo": "11471",
+  "nome": "FERNANDO PEREIRA DA SILVA FREITAS",
+  "email": "fernando.2010.santista@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/06/2024",
+  "whatsapp": "(13) 9884-35932",
+  "cidade": "Praia Grande",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "14750",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-29 08:26:37",
+      "data_hora_confirmacao": "2024-06-29 09:14:56",
+      "data_hora_confirmacao_pagamento": "2024-06-29 09:14:50",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 13.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.89,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20117",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 09:18:03",
+      "data_hora_confirmacao": "2024-09-02 13:19:29",
+      "data_hora_confirmacao_pagamento": "2024-09-02 13:19:23",
+      "valor_total_produtos": 109.97,
+      "valor_frete": 13.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.36,
+      "desconto": 0,
+      "cidade": "Praia Grande",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23105": {
+      "codigo": "23105",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23108": {
+      "codigo": "23108",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23111": {
+      "codigo": "23111",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "25704": {
+      "codigo": "25704",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28955": {
+      "codigo": "28955",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29296": {
+      "codigo": "29296",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

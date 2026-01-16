@@ -1,0 +1,45 @@
+{
+  "codigo": "10751",
+  "nome": "GUSTAVO EMERSON",
+  "email": "gustavoemerson1098@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/06/2024",
+  "whatsapp": "(24) 98141-8496",
+  "cidade": "Resende",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 33.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "20669",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-09 10:55:36",
+      "data_hora_confirmacao": "2024-09-09 12:42:29",
+      "data_hora_confirmacao_pagamento": "2024-09-09 12:41:39",
+      "valor_total_produtos": 19.99,
+      "valor_frete": 13.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 33.66,
+      "desconto": 0,
+      "cidade": "Resende",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    }
+  }
+}

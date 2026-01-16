@@ -1,0 +1,53 @@
+{
+  "codigo": "4035",
+  "nome": "RODRIGO FERREIRA RODRIGUES",
+  "email": "cadigoferreira05@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/11/2023",
+  "whatsapp": "(17) 98830-0217",
+  "cidade": "Mirassol",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 68.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "3065",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-11 16:27:35",
+      "data_hora_confirmacao": "2023-11-13 11:51:48",
+      "data_hora_confirmacao_pagamento": "2023-11-13 11:51:58",
+      "valor_total_produtos": 50,
+      "valor_frete": 18.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 68.79,
+      "desconto": 0,
+      "cidade": "Mirassol",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: GG - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.25P": {
+      "codigo": "CD01.25P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10 - Tamanho: P - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

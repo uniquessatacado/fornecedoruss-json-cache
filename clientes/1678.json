@@ -1,0 +1,72 @@
+{
+  "codigo": "1678",
+  "nome": "EMERSON GALDINO",
+  "email": "emerson.lgaldino@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(11) 94494-9598",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 149.39999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300932",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 10:17:49",
+      "data_hora_confirmacao": "2023-10-09 11:04:49",
+      "data_hora_confirmacao_pagamento": "2023-10-09 11:05:07",
+      "valor_total_produtos": 66,
+      "valor_frete": 13.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 79.52,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301963",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 12:47:37",
+      "data_hora_confirmacao": "2023-10-19 14:44:39",
+      "data_hora_confirmacao_pagamento": "2023-10-19 14:44:46",
+      "valor_total_produtos": 60,
+      "valor_frete": 9.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 69.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.29G": {
+      "codigo": "CD17.29G",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.36GG": {
+      "codigo": "CD02.36GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE LT18.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

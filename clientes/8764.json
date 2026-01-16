@@ -1,0 +1,112 @@
+{
+  "codigo": "8764",
+  "nome": "FRANCISCO ALVES DOS SANTOS",
+  "email": "gleisonalves096@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(89) 99433-1063",
+  "cidade": "Oeiras",
+  "estado": "PI",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 240.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "10933",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 12:04:28",
+      "data_hora_confirmacao": "2024-05-08 14:17:57",
+      "data_hora_confirmacao_pagamento": "2024-04-30 20:02:58",
+      "valor_total_produtos": 100.95,
+      "valor_frete": 80.6,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 181.55,
+      "desconto": 0,
+      "cidade": "Oeiras",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11442",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-07 10:57:27",
+      "data_hora_confirmacao": "2024-05-07 10:57:27",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 58.88,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 58.88,
+      "desconto": 0,
+      "cidade": "Oeiras",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Rosa",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.1M": {
+      "codigo": "CD40.1M",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.22M": {
+      "codigo": "CD24.22M",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Branca - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD39.09G": {
+      "codigo": "CD39.09G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.18M": {
+      "codigo": "CD24.18M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.18G": {
+      "codigo": "CD24.18G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "10045",
+  "nome": "ISAAC RIBEIRO",
+  "email": "zacaguiar1010@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(12) 98141-5275",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 321.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "12730",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-28 01:30:24",
+      "data_hora_confirmacao": "2024-05-28 10:38:14",
+      "data_hora_confirmacao_pagamento": "2024-05-28 10:37:57",
+      "valor_total_produtos": 177.95,
+      "valor_frete": 16.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 194.81,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26529",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-15 21:42:29",
+      "data_hora_confirmacao": "2024-12-15 21:50:08",
+      "data_hora_confirmacao_pagamento": "2024-12-15 21:50:08",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 16.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 127.17,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19281": {
+      "codigo": "19281",
+      "titulo": "Bermuda Microfibra Ultra NIKE recorte duplo - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19287": {
+      "codigo": "19287",
+      "titulo": "Bermuda Microfibra Ultra NIKE recorte duplo - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19291": {
+      "codigo": "19291",
+      "titulo": "Bermuda Microfibra Ultra NIKE recorte duplo - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19444": {
+      "codigo": "19444",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF   - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19863": {
+      "codigo": "19863",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE arte em bordado com bolso - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33749": {
+      "codigo": "33749",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BAYERN DE MUNIQUE - Tamanho: M - Times : Bayern de Munique - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "37652": {
+      "codigo": "37652",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: SALMÃO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "37661": {
+      "codigo": "37661",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

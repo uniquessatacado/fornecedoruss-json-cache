@@ -1,0 +1,61 @@
+{
+  "codigo": "10410",
+  "nome": "VANESSA BUENO ESPÍRITO SANTO",
+  "email": "vanessa17150602@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(19) 99132-7722",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 146.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "13087",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 10:26:44",
+      "data_hora_confirmacao": "2024-06-05 11:18:24",
+      "data_hora_confirmacao_pagamento": "2024-06-05 11:18:12",
+      "valor_total_produtos": 128.97,
+      "valor_frete": 17.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.03,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20219": {
+      "codigo": "20219",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA DIESEL - Cor: Kit Preto-Cinza-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "20221": {
+      "codigo": "20221",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA DIESEL - Cor: Kit Preto-Branco-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD22.1GG": {
+      "codigo": "CD22.1GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "10096",
+  "nome": "GUILHERME AGRIMPE",
+  "email": "guilegrim@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(41) 99269-9588",
+  "cidade": "Pinhais",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 300.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "25838",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 17:51:53",
+      "data_hora_confirmacao": "2024-12-06 17:53:51",
+      "data_hora_confirmacao_pagamento": "2024-12-06 17:53:51",
+      "valor_total_produtos": 67,
+      "valor_frete": 12.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.47,
+      "desconto": 0,
+      "cidade": "Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31346",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-08-19 15:29:37",
+      "data_hora_confirmacao": "2025-08-19 15:38:04",
+      "data_hora_confirmacao_pagamento": "2025-08-19 15:38:04",
+      "valor_total_produtos": 157.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 221.4,
+      "desconto": 0,
+      "cidade": "Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33092": {
+      "codigo": "33092",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO 24/25 TORCEDOR - (envio direto da fabrica) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53053": {
+      "codigo": "53053",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53077": {
+      "codigo": "53077",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "2721",
+  "nome": "MILENE PEREIRA DOS SANTOS",
+  "email": "milenesanttos001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(11) 9617-41138",
+  "cidade": "Taboão da Serra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 70.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "3189",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-16 11:35:48",
+      "data_hora_confirmacao": "2023-11-16 12:58:09",
+      "data_hora_confirmacao_pagamento": "2023-11-16 12:58:20",
+      "valor_total_produtos": 17,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 26.6,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3305",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 18:12:51",
+      "data_hora_confirmacao": "2023-11-22 10:52:57",
+      "data_hora_confirmacao_pagamento": "2023-11-22 10:53:07",
+      "valor_total_produtos": 34,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.6,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.36GG - BROOKSFIELD": {
+      "codigo": "CD24.36GG - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Cinza - Marca: Brooksfield - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "2"
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    }
+  }
+}

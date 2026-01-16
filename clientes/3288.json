@@ -1,0 +1,53 @@
+{
+  "codigo": "3288",
+  "nome": "JOÃO VICTOR DONATO DA SILVA",
+  "email": "joaogm700@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2023",
+  "whatsapp": "(11) 97672-7452",
+  "cidade": "Várzea Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 169.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301319",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 15:16:17",
+      "data_hora_confirmacao": "2023-10-05 16:31:48",
+      "data_hora_confirmacao_pagamento": "2023-10-05 16:32:00",
+      "valor_total_produtos": 154.9,
+      "valor_frete": 14.4,
+      "frete": "SEDEX",
+      "valor_total_pedido": 169.3,
+      "desconto": 0,
+      "cidade": "Várzea Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD37.2": {
+      "codigo": "CD37.2",
+      "titulo": "FONE DE OUVIDO - TWS i12 - Cor: Branca",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "5"
+    },
+    "CD32.17Juliet": {
+      "codigo": "CD32.17Juliet",
+      "titulo": "Óculos  Juliet - Prata - Cor da Armação: Chumbo - Cor da Lente: Prata - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "codigo": "1249",
+  "nome": "JONATHAS DE MELO",
+  "email": "jhowjhowedan03@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(21) 97421-8401",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 600.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "2959",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 16:14:29",
+      "data_hora_confirmacao": "2023-11-09 17:55:19",
+      "data_hora_confirmacao_pagamento": "2023-11-09 17:55:32",
+      "valor_total_produtos": 130,
+      "valor_frete": 29.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159.45,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5042",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 09:20:04",
+      "data_hora_confirmacao": "2023-12-19 09:30:40",
+      "data_hora_confirmacao_pagamento": "2023-12-19 09:30:58",
+      "valor_total_produtos": 84,
+      "valor_frete": 13.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.88,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15536",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 13:59:43",
+      "data_hora_confirmacao": "2024-07-10 15:24:48",
+      "data_hora_confirmacao_pagamento": "2024-07-10 15:24:40",
+      "valor_total_produtos": 309.96,
+      "valor_frete": 32.84,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 342.8,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19932": {
+      "codigo": "19932",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR BRASIL (PRONTA ENTREGA) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23301": {
+      "codigo": "23301",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: G - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23305": {
+      "codigo": "23305",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23589": {
+      "codigo": "23589",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.43": {
+      "codigo": "CD16.43",
+      "titulo": "Camisetas de Time Tailandesas - FORTALEZA   LT31.10   - Tamanho: G1 - Times : Fortaleza",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.36": {
+      "codigo": "CD16.36",
+      "titulo": "Camisetas de Time Tailandesas - REAL MADRID  LT31.10   - Tamanho: G1 - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "PA36": {
+      "codigo": "PA36",
+      "titulo": "CORRENTE CARTIER MOEDA ANTIGA   6mm  70cm ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE MOEDAS ANTIGAS",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "20306",
+  "nome": "CLEITON BERNARDO VALENTIM",
+  "email": "nariz-maromba@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/08/2025",
+  "whatsapp": "(21) 98972-9953",
+  "cidade": "Magé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 126.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "31150",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-06 09:47:44",
+      "data_hora_confirmacao": "2025-08-06 09:49:23",
+      "data_hora_confirmacao_pagamento": "2025-08-06 09:49:23",
+      "valor_total_produtos": 109.38,
+      "valor_frete": 16.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.19,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "50780": {
+      "codigo": "50780",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52246": {
+      "codigo": "52246",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52733": {
+      "codigo": "52733",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS (LT030) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

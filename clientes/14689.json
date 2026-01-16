@@ -1,0 +1,61 @@
+{
+  "codigo": "14689",
+  "nome": "WELINGTON DE LIMA",
+  "email": "welingtondelima56@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/08/2024",
+  "whatsapp": "(16) 98823-3864",
+  "cidade": "Monte Alto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "19702",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 09:01:23",
+      "data_hora_confirmacao": "2024-08-27 12:36:10",
+      "data_hora_confirmacao_pagamento": "2024-08-27 12:36:03",
+      "valor_total_produtos": 64.97,
+      "valor_frete": 15.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.17,
+      "desconto": 0,
+      "cidade": "Monte Alto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28595": {
+      "codigo": "28595",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: VERMELHA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28596": {
+      "codigo": "28596",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: AZUL MARINHO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28618": {
+      "codigo": "28618",
+      "titulo": "Boné Super Premium - MCD - Cor: AZUL MARINHO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

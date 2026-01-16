@@ -1,0 +1,53 @@
+{
+  "codigo": "16127",
+  "nome": "KAUÊ SANTOS",
+  "email": "kauecastilhosantos12345@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2024",
+  "whatsapp": "(21) 99673-1436",
+  "cidade": "Paty do Alferes",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "22066",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 13:42:56",
+      "data_hora_confirmacao": "2024-10-01 15:36:03",
+      "data_hora_confirmacao_pagamento": "2024-10-01 15:35:56",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 14.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.64,
+      "desconto": 0,
+      "cidade": "Paty do Alferes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29757": {
+      "codigo": "29757",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30824": {
+      "codigo": "30824",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

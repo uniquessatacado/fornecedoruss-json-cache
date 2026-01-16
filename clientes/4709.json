@@ -1,0 +1,53 @@
+{
+  "codigo": "4709",
+  "nome": "ALESANDRA DE FÁTIMA GOMES",
+  "email": "ale-fgomes@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(12) 98132-6616",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 67.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "4682",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 15:49:16",
+      "data_hora_confirmacao": "2023-12-14 10:50:51",
+      "data_hora_confirmacao_pagamento": "2023-12-14 10:51:01",
+      "valor_total_produtos": 57.98,
+      "valor_frete": 9.69,
+      "frete": "SEDEX",
+      "valor_total_pedido": 67.67,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.49": {
+      "codigo": "CD24.49",
+      "titulo": "Cuecas Peruanas - GUCCI  LT13.12 - Cor: Vermelha - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD01.2M": {
+      "codigo": "CD01.2M",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

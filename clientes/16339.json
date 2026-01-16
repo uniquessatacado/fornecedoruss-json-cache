@@ -1,0 +1,120 @@
+{
+  "codigo": "16339",
+  "nome": "NILSON BENTO DA SILVA",
+  "email": "nilson.vision@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/10/2024",
+  "whatsapp": "(88) 9992-78867",
+  "cidade": "Juazeiro do Norte",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 264.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "22829",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-15 13:16:50",
+      "data_hora_confirmacao": "2024-10-15 13:16:50",
+      "data_hora_confirmacao_pagamento": "2024-10-15 13:16:50",
+      "valor_total_produtos": 101.94,
+      "valor_frete": 27.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.59,
+      "desconto": 0,
+      "cidade": "Juazeiro do Norte",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22831",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-15 13:49:23",
+      "data_hora_confirmacao": "2024-10-15 15:04:19",
+      "data_hora_confirmacao_pagamento": "2024-10-15 15:04:14",
+      "valor_total_produtos": 106.95,
+      "valor_frete": 27.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.64,
+      "desconto": 0,
+      "cidade": "Juazeiro do Norte",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29717": {
+      "codigo": "29717",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "30568": {
+      "codigo": "30568",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "30571": {
+      "codigo": "30571",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30575": {
+      "codigo": "30575",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30825": {
+      "codigo": "30825",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31870": {
+      "codigo": "31870",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31988": {
+      "codigo": "31988",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "32345": {
+      "codigo": "32345",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

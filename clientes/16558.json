@@ -1,0 +1,53 @@
+{
+  "codigo": "16558",
+  "nome": "IGOR DA SILVA RAMOS",
+  "email": "igorr9193@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/10/2024",
+  "whatsapp": "(19) 99358-0541",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 19.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "22818",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-15 11:31:00",
+      "data_hora_confirmacao": "2024-10-15 15:30:45",
+      "data_hora_confirmacao_pagamento": "2024-10-15 17:05:22",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 19.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29657": {
+      "codigo": "29657",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "29679": {
+      "codigo": "29679",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "codigo": "3809",
+  "nome": "DEIVID KICH",
+  "email": "megastylefan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/10/2023",
+  "whatsapp": "(99) 99999-9999",
+  "cidade": "Paranhos",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 419.40000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "2432",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-29 21:40:37",
+      "data_hora_confirmacao": "2023-10-31 13:50:07",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:50:18",
+      "valor_total_produtos": 116,
+      "valor_frete": 25.4,
+      "frete": "PAC",
+      "valor_total_pedido": 141.4,
+      "desconto": 0,
+      "cidade": "Paranhos",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2871",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 13:05:38",
+      "data_hora_confirmacao": "2023-11-08 14:00:55",
+      "data_hora_confirmacao_pagamento": "2023-11-08 14:01:05",
+      "valor_total_produtos": 143,
+      "valor_frete": 25.7,
+      "frete": "PAC",
+      "valor_total_pedido": 168.7,
+      "desconto": 0,
+      "cidade": "Paranhos",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18693",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 16:04:17",
+      "data_hora_confirmacao": "2024-08-16 15:49:24",
+      "data_hora_confirmacao_pagamento": "2024-08-16 15:49:14",
+      "valor_total_produtos": 78.98,
+      "valor_frete": 30.32,
+      "frete": "PAC",
+      "valor_total_pedido": 109.3,
+      "desconto": 0,
+      "cidade": "Paranhos",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27312": {
+      "codigo": "27312",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - LACOSTE arte em bordado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27596": {
+      "codigo": "27596",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte patch emborrachado - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD17.38GG": {
+      "codigo": "CD17.38GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.43GG": {
+      "codigo": "CD02.43GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD33.5M": {
+      "codigo": "CD33.5M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste  - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD39.18": {
+      "codigo": "CD39.18",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11  - Cor: Marrom - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.20": {
+      "codigo": "CD39.20",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11    - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.10": {
+      "codigo": "CD43.10",
+      "titulo": "Boné Premium - LACOSTE  LT24.10  - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

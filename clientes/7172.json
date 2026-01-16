@@ -1,0 +1,53 @@
+{
+  "codigo": "7172",
+  "nome": "PABLO EWERTON DA SILVA EVANGELISTA",
+  "email": "pabloewerton31@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/03/2024",
+  "whatsapp": "(91) 99197-3264",
+  "cidade": "Barcarena",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "8891",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-25 05:24:07",
+      "data_hora_confirmacao": "2024-03-25 11:08:43",
+      "data_hora_confirmacao_pagamento": "2024-03-25 11:08:38",
+      "valor_total_produtos": 51.98,
+      "valor_frete": 28.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.36,
+      "desconto": 0,
+      "cidade": "Barcarena",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

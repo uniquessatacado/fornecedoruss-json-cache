@@ -1,0 +1,45 @@
+{
+  "codigo": "232",
+  "nome": "JOSÉ CARLOS ALVES DA SILVA",
+  "email": "carlos_alcantara_silva@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(82) 99601-2901",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "4276",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 12:41:07",
+      "data_hora_confirmacao": "2023-12-08 13:02:03",
+      "data_hora_confirmacao_pagamento": "2023-12-08 13:02:12",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 15.55,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 75.45,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD59.9": {
+      "codigo": "CD59.9",
+      "titulo": "Óculos  Penny - AZUL BB  LT05.12 - Cor da Armação: Prata - Cor da Lente: Azul bb - Kit Borracha: Azul bb - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

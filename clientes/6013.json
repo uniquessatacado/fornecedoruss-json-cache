@@ -1,0 +1,45 @@
+{
+  "codigo": "6013",
+  "nome": "WAGNER REIS CAMPOS",
+  "email": "wcampos1@live.com",
+  "sexo": "1",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(11) 9926-14345",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 41.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "7487",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 10:30:22",
+      "data_hora_confirmacao": "2024-02-22 10:39:57",
+      "data_hora_confirmacao_pagamento": "2024-02-22 10:39:51",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 10.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 41.15,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.103GG": {
+      "codigo": "CD02.103GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Rosa - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

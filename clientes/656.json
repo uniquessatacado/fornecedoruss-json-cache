@@ -1,0 +1,45 @@
+{
+  "codigo": "656",
+  "nome": "ERIK JOHNNES DE SOUZA SILVA",
+  "email": "erikjohnnes25@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(62) 9935-89036",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 57.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "3626",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-25 23:10:43",
+      "data_hora_confirmacao": "2023-11-28 15:46:37",
+      "data_hora_confirmacao_pagamento": "2023-11-28 15:46:48",
+      "valor_total_produtos": 42.5,
+      "valor_frete": 15.27,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 57.77,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.43": {
+      "codigo": "CD24.43",
+      "titulo": "Cuecas Peruanas - Tommy Hilfiger LT25.11  - Cor: Preto - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 5
+    }
+  }
+}

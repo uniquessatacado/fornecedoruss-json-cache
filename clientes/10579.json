@@ -1,0 +1,77 @@
+{
+  "codigo": "10579",
+  "nome": "LEANDRO VELOSO SILVA",
+  "email": "leandro.veloso@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(11) 94017-1546",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 215.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "13252",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 22:24:27",
+      "data_hora_confirmacao": "2024-06-07 17:23:30",
+      "data_hora_confirmacao_pagamento": "2024-06-07 17:23:23",
+      "valor_total_produtos": 200.95,
+      "valor_frete": 14.52,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 215.47,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19889": {
+      "codigo": "19889",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "20225": {
+      "codigo": "20225",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: Kit Preto-Cinza-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "20398": {
+      "codigo": "20398",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20498": {
+      "codigo": "20498",
+      "titulo": "CAMISETA GENUINA COTTON SOFT TURCO - CALVIN KLEIN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD5.01GG": {
+      "codigo": "CD5.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

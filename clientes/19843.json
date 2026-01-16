@@ -1,0 +1,53 @@
+{
+  "codigo": "19843",
+  "nome": "FABIO ALVES",
+  "email": "DSD@GMAIL.COM",
+  "sexo": "1",
+  "data_cadastro": "02/05/2025",
+  "whatsapp": "(11) 97131-1520",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 54.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "29599",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-02 16:37:37",
+      "data_hora_confirmacao": "2025-05-02 16:37:37",
+      "data_hora_confirmacao_pagamento": "2025-05-02 16:37:37",
+      "valor_total_produtos": 54.15,
+      "valor_frete": 0,
+      "frete": "",
+      "valor_total_pedido": 54.15,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "PDV",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42504": {
+      "codigo": "42504",
+      "titulo": "Cueca Peruana LT29A (C636)  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "45934": {
+      "codigo": "45934",
+      "titulo": "Cueca Peruana LT36A (C776) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "3"
+    }
+  }
+}

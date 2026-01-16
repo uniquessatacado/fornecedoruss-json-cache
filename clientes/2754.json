@@ -1,0 +1,96 @@
+{
+  "codigo": "2754",
+  "nome": "FELIPE LOPES DE ANDRADE",
+  "email": "felipelopes100713@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(11) 96171-0531",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 248.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300607",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-24 10:18:44",
+      "data_hora_confirmacao": "2023-09-25 00:35:25",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:35:13",
+      "valor_total_produtos": 182,
+      "valor_frete": 19.57,
+      "frete": "SEDEX",
+      "valor_total_pedido": 201.57,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300863",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 18:28:39",
+      "data_hora_confirmacao": "2023-09-29 11:00:12",
+      "data_hora_confirmacao_pagamento": "2023-09-29 11:00:20",
+      "valor_total_produtos": 35,
+      "valor_frete": 11.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 46.71,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.10GG": {
+      "codigo": "CD07.10GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.9GG": {
+      "codigo": "CD07.9GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: OffWhite - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD10.3GG": {
+      "codigo": "CD10.3GG",
+      "titulo": "Camiseta Egípcia Ultra Luxo - Gucci - Cor: Vermelha - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD10.3G": {
+      "codigo": "CD10.3G",
+      "titulo": "Camiseta Egípcia Ultra Luxo - Gucci - Cor: Marrom - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

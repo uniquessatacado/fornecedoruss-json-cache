@@ -1,0 +1,69 @@
+{
+  "codigo": "6000",
+  "nome": "SUELEN MACHADO",
+  "email": "suelen.mcd@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(48) 98858-5869",
+  "cidade": "Palhoça",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 277.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "7085",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 15:21:56",
+      "data_hora_confirmacao": "2024-02-07 10:29:34",
+      "data_hora_confirmacao_pagamento": "2024-02-07 10:29:26",
+      "valor_total_produtos": 254.88,
+      "valor_frete": 22.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 277.06,
+      "desconto": 0,
+      "cidade": "Palhoça",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.8": {
+      "codigo": "CD29.8",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    },
+    "CD29.7": {
+      "codigo": "CD29.7",
+      "titulo": "Bermuda Microfibra Premium - NIKE - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD40.22": {
+      "codigo": "CD40.22",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  PUMA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "PUMA",
+      "quantidade": "1"
+    }
+  }
+}

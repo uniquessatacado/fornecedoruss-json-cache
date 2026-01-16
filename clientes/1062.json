@@ -1,0 +1,200 @@
+{
+  "codigo": "1062",
+  "nome": "GUILHERME SANTOS",
+  "email": "guihsantos343@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(11) 9402-13958",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 321.34000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "4910",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-16 10:12:15",
+      "data_hora_confirmacao": "2023-12-19 15:21:07",
+      "data_hora_confirmacao_pagamento": "2023-12-19 15:21:18",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 11.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 102.93,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27216",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-24 12:40:15",
+      "data_hora_confirmacao": "2024-12-24 12:43:36",
+      "data_hora_confirmacao_pagamento": "2024-12-24 12:43:36",
+      "valor_total_produtos": 201.88,
+      "valor_frete": 16.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 218.41,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37897": {
+      "codigo": "37897",
+      "titulo": "MEIAS PERUANAS (C69) - Marca: Puma - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "37904": {
+      "codigo": "37904",
+      "titulo": "MEIAS PERUANAS (C72) - Marca: High - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "38039": {
+      "codigo": "38039",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38045": {
+      "codigo": "38045",
+      "titulo": "Cuecas Peruanas (C99) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38048": {
+      "codigo": "38048",
+      "titulo": "Cuecas Peruanas (C99) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38064": {
+      "codigo": "38064",
+      "titulo": "Cuecas Peruanas (C100) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38067": {
+      "codigo": "38067",
+      "titulo": "Cuecas Peruanas (C100) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38076": {
+      "codigo": "38076",
+      "titulo": "Cuecas Peruanas (C100) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38079": {
+      "codigo": "38079",
+      "titulo": "Cuecas Peruanas (C100) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38095": {
+      "codigo": "38095",
+      "titulo": "Cuecas Peruanas (C101) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "2"
+    },
+    "38098": {
+      "codigo": "38098",
+      "titulo": "Cuecas Peruanas (C101) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "38101": {
+      "codigo": "38101",
+      "titulo": "Cuecas Peruanas (C101) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "38128": {
+      "codigo": "38128",
+      "titulo": "Cuecas Peruanas (C102) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38296": {
+      "codigo": "38296",
+      "titulo": "Bermuda Microfibra Ultra (C121) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.4M": {
+      "codigo": "CD01.4M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: M - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Cinza - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

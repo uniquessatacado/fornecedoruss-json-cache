@@ -1,0 +1,45 @@
+{
+  "codigo": "3209",
+  "nome": "HUGO DOURADO",
+  "email": "dourado.hugo@uol.com.br",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(11) 99978-7326",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 39.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301164",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 14:52:48",
+      "data_hora_confirmacao": "2023-10-03 23:01:17",
+      "data_hora_confirmacao_pagamento": "2023-10-03 23:01:10",
+      "valor_total_produtos": 30,
+      "valor_frete": 9.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.04,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

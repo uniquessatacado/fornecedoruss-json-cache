@@ -1,0 +1,88 @@
+{
+  "codigo": "2055",
+  "nome": "PEDRO NUNES",
+  "email": "pedrocollacoo@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(14) 99884-0493",
+  "cidade": "Tupã",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 273.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "23026",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-18 21:44:07",
+      "data_hora_confirmacao": "2024-10-19 09:43:15",
+      "data_hora_confirmacao_pagamento": "2024-10-19 09:43:06",
+      "valor_total_produtos": 98.97,
+      "valor_frete": 16.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.82,
+      "desconto": 0,
+      "cidade": "Tupã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32464",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-12-30 03:46:34",
+      "data_hora_confirmacao": "2025-12-30 03:47:57",
+      "data_hora_confirmacao_pagamento": "2025-12-30 03:47:57",
+      "valor_total_produtos": 127.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 157.4,
+      "desconto": 0,
+      "cidade": "Tupã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29745": {
+      "codigo": "29745",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32335": {
+      "codigo": "32335",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32574": {
+      "codigo": "32574",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55257": {
+      "codigo": "55257",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: M - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

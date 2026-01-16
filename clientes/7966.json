@@ -1,0 +1,88 @@
+{
+  "codigo": "7966",
+  "nome": "DIANELTON IALYSSON TRAJANO",
+  "email": "ialyssontrajano08@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/04/2024",
+  "whatsapp": "(84) 9811-54305",
+  "cidade": "Areia Branca",
+  "estado": "RN",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 336.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "9928",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-11 19:48:49",
+      "data_hora_confirmacao": "2024-04-12 09:59:10",
+      "data_hora_confirmacao_pagamento": "2024-04-12 09:59:06",
+      "valor_total_produtos": 112.87,
+      "valor_frete": 88.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 201.2,
+      "desconto": 0,
+      "cidade": "Areia Branca",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11122",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 19:33:28",
+      "data_hora_confirmacao": "2024-05-02 13:26:28",
+      "data_hora_confirmacao_pagamento": "2024-05-02 13:26:22",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 84.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 134.83,
+      "desconto": 0,
+      "cidade": "Areia Branca",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD57.10M": {
+      "codigo": "CD57.10M",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.15M": {
+      "codigo": "CD4.15M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.13M": {
+      "codigo": "CD39.13M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA)  - Cor: OFFWHITE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.22M": {
+      "codigo": "CD24.22M",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    }
+  }
+}

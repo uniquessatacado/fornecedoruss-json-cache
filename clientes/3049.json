@@ -1,0 +1,88 @@
+{
+  "codigo": "3049",
+  "nome": "AUGUSTO DUARTE",
+  "email": "augustonit@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(21) 99658-9657",
+  "cidade": "Niterói",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 260.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301022",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 22:50:33",
+      "data_hora_confirmacao": "2023-09-30 11:05:04",
+      "data_hora_confirmacao_pagamento": "2023-09-30 11:05:12",
+      "valor_total_produtos": 93.5,
+      "valor_frete": 14.55,
+      "frete": "JADLOG",
+      "valor_total_pedido": 108.05,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301672",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 19:20:01",
+      "data_hora_confirmacao": "2023-10-13 14:15:23",
+      "data_hora_confirmacao_pagamento": "2023-10-13 14:15:31",
+      "valor_total_produtos": 136,
+      "valor_frete": 16.61,
+      "frete": "JADLOG",
+      "valor_total_pedido": 152.61,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.22GG - Calvin Klein": {
+      "codigo": "CD24.22GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 11
+    },
+    "CD24.29GG - TOMMY": {
+      "codigo": "CD24.29GG - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Vermelha - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 9
+    },
+    "CD24.28GG - Calvin": {
+      "codigo": "CD24.28GG - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "CD24.31GG - CALVIN KLEIN": {
+      "codigo": "CD24.31GG - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    }
+  }
+}

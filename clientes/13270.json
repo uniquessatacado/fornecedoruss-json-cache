@@ -1,0 +1,53 @@
+{
+  "codigo": "13270",
+  "nome": "RONALD FELIPE DE OLIVEIRA MARQUES",
+  "email": "ronaldfelipeyt@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "29/07/2024",
+  "whatsapp": "(14) 99126-7932",
+  "cidade": "Bauru",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 113.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "17247",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-29 12:14:18",
+      "data_hora_confirmacao": "2024-07-29 17:57:21",
+      "data_hora_confirmacao_pagamento": "2024-07-29 17:57:16",
+      "valor_total_produtos": 100.98,
+      "valor_frete": 12.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.7,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24589": {
+      "codigo": "24589",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25159": {
+      "codigo": "25159",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY 24/25 (PRONTA ENTREGA) - Tamanho: G - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

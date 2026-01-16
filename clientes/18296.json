@@ -1,0 +1,61 @@
+{
+  "codigo": "18296",
+  "nome": "VITOR SARAIVA",
+  "email": "vitor_fist@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2024",
+  "whatsapp": "(12) 99205-4788",
+  "cidade": "Taubaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "26220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-12 11:12:13",
+      "data_hora_confirmacao": "2024-12-12 11:18:34",
+      "data_hora_confirmacao_pagamento": "2024-12-12 11:18:34",
+      "valor_total_produtos": 59.97,
+      "valor_frete": 15.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.11,
+      "desconto": 0,
+      "cidade": "Taubaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37236": {
+      "codigo": "37236",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C04) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37239": {
+      "codigo": "37239",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C04) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37244": {
+      "codigo": "37244",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C04) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

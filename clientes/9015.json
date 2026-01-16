@@ -1,0 +1,104 @@
+{
+  "codigo": "9015",
+  "nome": "FERNANDO PETIZ GONÇALVES",
+  "email": "fernando.petiz@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(11) 9428-68851",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 246.54000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "11292",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 21:00:37",
+      "data_hora_confirmacao": "2024-05-04 11:43:13",
+      "data_hora_confirmacao_pagamento": "2024-05-04 11:42:56",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 14.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 128.75,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12148",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 22:58:14",
+      "data_hora_confirmacao": "2024-05-21 09:32:38",
+      "data_hora_confirmacao_pagamento": "2024-05-21 09:32:32",
+      "valor_total_produtos": 104.13,
+      "valor_frete": 13.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.79,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17998": {
+      "codigo": "17998",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT- PRETA - BRANCA - CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD25.07GG": {
+      "codigo": "CD25.07GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA BOSS - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD25.06M": {
+      "codigo": "CD25.06M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: KIT- PRETA - BRANCA - CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD6.01G": {
+      "codigo": "CD6.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.03G": {
+      "codigo": "CD12.03G",
+      "titulo": "Polo Piquet Duplo Peruana - Hugo Boss  - Cor: OFFWHITE - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO 04.05 OURO - Cor: PRETA - Marca: Mizuno - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "19455",
+  "nome": "VALMIR HESSEL JUNIOR",
+  "email": "vallhessel@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/03/2025",
+  "whatsapp": "(15) 98804-8448",
+  "cidade": "Votorantim",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 252.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "28528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-03 01:03:29",
+      "data_hora_confirmacao": "2025-03-03 01:04:19",
+      "data_hora_confirmacao_pagamento": "2025-03-03 01:04:19",
+      "valor_total_produtos": 131.21,
+      "valor_frete": 15.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.75,
+      "desconto": 0,
+      "cidade": "Votorantim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28529",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-03-03 01:03:29",
+      "data_hora_confirmacao": "2025-03-03 01:10:10",
+      "data_hora_confirmacao_pagamento": "2025-03-03 01:10:10",
+      "valor_total_produtos": 87.67,
+      "valor_frete": 17.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.57,
+      "desconto": 0,
+      "cidade": "Votorantim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24971": {
+      "codigo": "24971",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO BRASIL - (envio direto da fabrica)  - Tamanho: G - Times : Brasil - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "38224": {
+      "codigo": "38224",
+      "titulo": "MEIAS PERUANAS SOQUETES (C111) - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40407": {
+      "codigo": "40407",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42244": {
+      "codigo": "42244",
+      "titulo": "Bermuda Microfibra Ultra LT27A  (C614) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42382": {
+      "codigo": "42382",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

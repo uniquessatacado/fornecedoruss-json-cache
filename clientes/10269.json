@@ -1,0 +1,61 @@
+{
+  "codigo": "10269",
+  "nome": "JOSE MARIA DOS SANTOS RODRIGUES NETO",
+  "email": "jmsrneto9@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/06/2024",
+  "whatsapp": "(98) 9814-48324",
+  "cidade": "Paço do Lumiar",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 195.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "13009",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 12:03:55",
+      "data_hora_confirmacao": "2024-06-03 12:04:43",
+      "data_hora_confirmacao_pagamento": "2024-06-03 12:04:33",
+      "valor_total_produtos": 155.97,
+      "valor_frete": 39.29,
+      "frete": "JADLOG",
+      "valor_total_pedido": 195.26,
+      "desconto": 0,
+      "cidade": "Paço do Lumiar",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19614": {
+      "codigo": "19614",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA)  - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19912": {
+      "codigo": "19912",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BRASIL PRONTA ENTREGA)       - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

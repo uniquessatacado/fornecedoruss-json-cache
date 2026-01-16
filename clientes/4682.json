@@ -1,0 +1,61 @@
+{
+  "codigo": "4682",
+  "nome": "MATEUS RAMOS",
+  "email": "mw.raamos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(49) 99800-7195",
+  "cidade": "Zortéa",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 174.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "4604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 01:22:25",
+      "data_hora_confirmacao": "2023-12-13 01:31:51",
+      "data_hora_confirmacao_pagamento": "2023-12-13 01:32:06",
+      "valor_total_produtos": 143.97,
+      "valor_frete": 30.27,
+      "frete": "PAC",
+      "valor_total_pedido": 174.24,
+      "desconto": 0,
+      "cidade": "Zortéa",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.37": {
+      "codigo": "CD39.37",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.60": {
+      "codigo": "CD02.60",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT07.12  - Cor: OffWhite - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD39.36": {
+      "codigo": "CD39.36",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE (Bordada)  LT12.12  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

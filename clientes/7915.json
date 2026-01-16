@@ -1,0 +1,80 @@
+{
+  "codigo": "7915",
+  "nome": "JOAO LUIZ DE OLIVEIRA CASCARDI",
+  "email": "joaocascardi111@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/04/2024",
+  "whatsapp": "(12) 99669-8366",
+  "cidade": "Ubatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 157.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "9865",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 21:26:20",
+      "data_hora_confirmacao": "2024-04-11 10:21:32",
+      "data_hora_confirmacao_pagamento": "2024-04-11 10:21:26",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 15.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.2,
+      "desconto": 0,
+      "cidade": "Ubatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10612",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 07:07:31",
+      "data_hora_confirmacao": "2024-04-24 17:35:55",
+      "data_hora_confirmacao_pagamento": "2024-04-24 17:35:46",
+      "valor_total_produtos": 92.98,
+      "valor_frete": 10.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 103.52,
+      "desconto": 0,
+      "cidade": "Ubatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.71M": {
+      "codigo": "CD39.71M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.2M": {
+      "codigo": "CD40.2M",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  LOGO GOLA - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CF1.1M": {
+      "codigo": "CF1.1M",
+      "titulo": "CONJUNTO FEMINO  - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

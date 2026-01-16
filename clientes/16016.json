@@ -1,0 +1,53 @@
+{
+  "codigo": "16016",
+  "nome": "EMANOEL VIANA",
+  "email": "emanoel_viana@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2024",
+  "whatsapp": "(61) 98430-8450",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "21800",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-26 13:55:04",
+      "data_hora_confirmacao": "2024-09-26 17:23:49",
+      "data_hora_confirmacao_pagamento": "2024-09-26 17:23:44",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 14.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.28,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30806": {
+      "codigo": "30806",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30812": {
+      "codigo": "30812",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

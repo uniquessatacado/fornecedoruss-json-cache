@@ -1,0 +1,45 @@
+{
+  "codigo": "2935",
+  "nome": "MARCOS ANTÔNIO DA SILV",
+  "email": "marcosizidio1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/09/2023",
+  "whatsapp": "(11) 94748-7387",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 44.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300791",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-27 18:56:01",
+      "data_hora_confirmacao": "2023-09-28 12:09:58",
+      "data_hora_confirmacao_pagamento": "2023-09-28 12:09:54",
+      "valor_total_produtos": 33,
+      "valor_frete": 11.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 44.68,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.24GG": {
+      "codigo": "CD17.24GG",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

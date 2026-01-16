@@ -1,0 +1,96 @@
+{
+  "codigo": "708",
+  "nome": "LEONARDO NEVES",
+  "email": "leodeps06@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(27) 99733-1857",
+  "cidade": "Cariacica",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 262.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "14137",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 21:42:53",
+      "data_hora_confirmacao": "2024-06-20 10:36:50",
+      "data_hora_confirmacao_pagamento": "2024-06-20 10:36:44",
+      "valor_total_produtos": 65.97,
+      "valor_frete": 17.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.04,
+      "desconto": 0,
+      "cidade": "Cariacica",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21919",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-27 21:07:12",
+      "data_hora_confirmacao": "2024-09-28 13:46:52",
+      "data_hora_confirmacao_pagamento": "2024-09-28 13:46:47",
+      "valor_total_produtos": 146.98,
+      "valor_frete": 32.54,
+      "frete": "JADLOG",
+      "valor_total_pedido": 179.52,
+      "desconto": 0,
+      "cidade": "Cariacica",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22297": {
+      "codigo": "22297",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22300": {
+      "codigo": "22300",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22301": {
+      "codigo": "22301",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31536": {
+      "codigo": "31536",
+      "titulo": "Chinelo Kenner Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "31565": {
+      "codigo": "31565",
+      "titulo": "Tênis Nike Air Travis Scott - NIKE  - Cor: OFFWHITE - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

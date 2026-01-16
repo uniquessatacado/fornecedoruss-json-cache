@@ -1,0 +1,53 @@
+{
+  "codigo": "9006",
+  "nome": "REISON RIBEIRO NASCIMENTO",
+  "email": "reisonguimaraes727@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(94) 9917-16539",
+  "cidade": "Xinguara",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "11278",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 18:13:04",
+      "data_hora_confirmacao": "2024-05-06 16:42:33",
+      "data_hora_confirmacao_pagamento": "2024-05-06 16:42:24",
+      "valor_total_produtos": 85.98,
+      "valor_frete": 55.59,
+      "frete": "PAC",
+      "valor_total_pedido": 141.57,
+      "desconto": 0,
+      "cidade": "Xinguara",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18029": {
+      "codigo": "18029",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18032": {
+      "codigo": "18032",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: VERDE CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    }
+  }
+}

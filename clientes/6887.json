@@ -1,0 +1,80 @@
+{
+  "codigo": "6887",
+  "nome": "PRISCILA CERQUEIRA",
+  "email": "priscilaallice@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/03/2024",
+  "whatsapp": "(11) 9721-77145",
+  "cidade": "Francisco Morato",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 153.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "8346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 21:51:28",
+      "data_hora_confirmacao": "2024-03-12 22:12:11",
+      "data_hora_confirmacao_pagamento": "2024-03-12 22:12:26",
+      "valor_total_produtos": 20.4,
+      "valor_frete": 9.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 30.1,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "9731",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 08:53:15",
+      "data_hora_confirmacao": "2024-04-09 13:27:42",
+      "data_hora_confirmacao_pagamento": "2024-04-09 13:27:38",
+      "valor_total_produtos": 111.86,
+      "valor_frete": 11.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 123.84,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 60,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "UY.17": {
+      "codigo": "UY.17",
+      "titulo": "BRINCO PRATA FEMININO ",
+      "categoria_principal": "PRATAS FEMININAS",
+      "categoria": "PRATAS FEMININAS USE.YOU",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 5
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

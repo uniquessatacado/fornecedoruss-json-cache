@@ -1,0 +1,61 @@
+{
+  "codigo": "6004",
+  "nome": "YGOR LAPA",
+  "email": "ygorlapa@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(21) 9947-85764",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "24191",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-11 11:07:03",
+      "data_hora_confirmacao": "2024-11-11 11:08:01",
+      "data_hora_confirmacao_pagamento": "2024-11-11 11:08:01",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 18.82,
+      "frete": "JADLOG",
+      "valor_total_pedido": 129.79,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33828": {
+      "codigo": "33828",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33831": {
+      "codigo": "33831",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33926": {
+      "codigo": "33926",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

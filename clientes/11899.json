@@ -1,0 +1,61 @@
+{
+  "codigo": "11899",
+  "nome": "ANDRÉ CABRAL",
+  "email": "andre.cabraljunior@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(13) 9740-86497",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 116.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "15078",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 02:41:43",
+      "data_hora_confirmacao": "2024-07-04 09:34:53",
+      "data_hora_confirmacao_pagamento": "2024-07-04 09:34:47",
+      "valor_total_produtos": 93.97,
+      "valor_frete": 23.02,
+      "frete": "SEDEX",
+      "valor_total_pedido": 116.99,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23165": {
+      "codigo": "23165",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23187": {
+      "codigo": "23187",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23539": {
+      "codigo": "23539",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

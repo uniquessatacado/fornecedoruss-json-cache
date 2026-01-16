@@ -1,0 +1,80 @@
+{
+  "codigo": "7632",
+  "nome": "JOSÉ MILTON WILE DA SILVA",
+  "email": "miltonwile@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(41) 98497-2308",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 201.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "9561",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 21:09:32",
+      "data_hora_confirmacao": "2024-04-08 09:14:14",
+      "data_hora_confirmacao_pagamento": "2024-04-08 09:14:08",
+      "valor_total_produtos": 66.98,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.81,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10410",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 00:41:24",
+      "data_hora_confirmacao": "2024-04-22 10:29:57",
+      "data_hora_confirmacao_pagamento": "2024-04-22 10:29:48",
+      "valor_total_produtos": 105.98,
+      "valor_frete": 14.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.69,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.16M": {
+      "codigo": "CD4.16M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.130M": {
+      "codigo": "CD02.130M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

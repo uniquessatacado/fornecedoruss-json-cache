@@ -1,0 +1,131 @@
+{
+  "codigo": "11731",
+  "nome": "JEFFERSON SOUSA HAMELIN",
+  "email": "jeffersonhamelin668@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/06/2024",
+  "whatsapp": "(21) 9899-94136",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 334.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "17459",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 17:01:29",
+      "data_hora_confirmacao": "2024-08-01 15:40:15",
+      "data_hora_confirmacao_pagamento": "2024-08-01 15:40:08",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 14.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 86.86,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17579",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-01 17:37:04",
+      "data_hora_confirmacao": "2024-08-01 18:17:02",
+      "data_hora_confirmacao_pagamento": "2024-08-01 18:16:56",
+      "valor_total_produtos": 123.97,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 123.97,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17661",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-02 11:32:15",
+      "data_hora_confirmacao": "2024-08-02 11:32:15",
+      "data_hora_confirmacao_pagamento": "2024-08-02 11:32:38",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 15.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.23,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24183": {
+      "codigo": "24183",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24903": {
+      "codigo": "24903",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS recorte atrás  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25744": {
+      "codigo": "25744",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "25748": {
+      "codigo": "25748",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25781": {
+      "codigo": "25781",
+      "titulo": "Bermuda Microfibra HIPER - NIKE AIR - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26023": {
+      "codigo": "26023",
+      "titulo": "Camiseta Genuina 40.1 LUXO - TOMMY HILFIGER arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "26058": {
+      "codigo": "26058",
+      "titulo": "Camiseta Genuina 40.1 LUXO - VERSACE arte em aplique bordado - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

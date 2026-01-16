@@ -1,0 +1,96 @@
+{
+  "codigo": "11255",
+  "nome": "HENRICO LEONARDO DE SOUZA SIMAO",
+  "email": "henricoleo10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(11) 93708-9685",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 308.21000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "14201",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 14:34:05",
+      "data_hora_confirmacao": "2024-06-20 18:35:40",
+      "data_hora_confirmacao_pagamento": "2024-06-20 18:35:32",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 12.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16332",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-18 12:11:07",
+      "data_hora_confirmacao": "2024-07-19 15:06:43",
+      "data_hora_confirmacao_pagamento": "2024-07-19 15:06:36",
+      "valor_total_produtos": 238.96,
+      "valor_frete": 18.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 257.11,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22273": {
+      "codigo": "22273",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23794": {
+      "codigo": "23794",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte em termogel - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "24236": {
+      "codigo": "24236",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24814": {
+      "codigo": "24814",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24817": {
+      "codigo": "24817",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

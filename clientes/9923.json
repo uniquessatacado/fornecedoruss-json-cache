@@ -1,0 +1,61 @@
+{
+  "codigo": "9923",
+  "nome": "FABIO OLIVEIRA",
+  "email": "fabio-pedroso1@live.com",
+  "sexo": "0",
+  "data_cadastro": "25/05/2024",
+  "whatsapp": "(15) 99828-1982",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "12609",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-25 22:51:03",
+      "data_hora_confirmacao": "2024-05-27 09:51:51",
+      "data_hora_confirmacao_pagamento": "2024-05-27 09:51:29",
+      "valor_total_produtos": 35.88,
+      "valor_frete": 11.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.8,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19545": {
+      "codigo": "19545",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/BLACK - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.18M": {
+      "codigo": "CD24.18M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD16.32P": {
+      "codigo": "CD16.32P",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

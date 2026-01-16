@@ -1,0 +1,77 @@
+{
+  "codigo": "7204",
+  "nome": "LEONARDO PEREIRA DE FREITAS",
+  "email": "Leonardodefreitas_@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "26/03/2024",
+  "whatsapp": "(19) 99240-7858",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "8947",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-26 21:14:05",
+      "data_hora_confirmacao": "2024-03-27 11:36:54",
+      "data_hora_confirmacao_pagamento": "2024-03-27 11:36:47",
+      "valor_total_produtos": 133.95,
+      "valor_frete": 11.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 145.7,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.130G": {
+      "codigo": "CD02.130G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.10G": {
+      "codigo": "CD24.10G",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.133g": {
+      "codigo": "CD02.133g",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.133G": {
+      "codigo": "CD02.133G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

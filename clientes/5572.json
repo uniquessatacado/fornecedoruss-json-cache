@@ -1,0 +1,147 @@
+{
+  "codigo": "5572",
+  "nome": "VINICIUS SANTIAGO SOUZA CARDOSO",
+  "email": "viniciussantista22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(13) 99112-5251",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 430.83000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "6796",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-24 17:22:33",
+      "data_hora_confirmacao": "2024-01-25 11:41:48",
+      "data_hora_confirmacao_pagamento": "2024-01-25 11:42:01",
+      "valor_total_produtos": 207.96,
+      "valor_frete": 16.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 224.05,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6860",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-26 11:14:12",
+      "data_hora_confirmacao": "2024-01-26 11:15:14",
+      "data_hora_confirmacao_pagamento": "2024-01-26 11:15:51",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25262",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 20:52:14",
+      "data_hora_confirmacao": "2024-11-28 20:53:30",
+      "data_hora_confirmacao_pagamento": "2024-11-28 20:53:30",
+      "valor_total_produtos": 154.96,
+      "valor_frete": 16.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 171.79,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35584": {
+      "codigo": "35584",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "35632": {
+      "codigo": "35632",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35672": {
+      "codigo": "35672",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "POLO RALPH LAUREN ",
+      "quantidade": "1"
+    },
+    "35681": {
+      "codigo": "35681",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.58": {
+      "codigo": "CD39.58",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "PA10": {
+      "codigo": "PA10",
+      "titulo": "CORRENTE DE PRATA  CARTIER  3MM 60CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD41.23": {
+      "codigo": "CD41.23",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

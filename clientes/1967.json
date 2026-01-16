@@ -1,0 +1,281 @@
+{
+  "codigo": "1967",
+  "nome": "NEILTON DOS SANTOS DOS SANTOS",
+  "email": "neiltomsantos@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "30/08/2023",
+  "whatsapp": "(82) 98818-6708",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 1058.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "2870",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 12:47:40",
+      "data_hora_confirmacao": "2023-11-08 14:01:24",
+      "data_hora_confirmacao_pagamento": "2023-11-08 14:01:35",
+      "valor_total_produtos": 231,
+      "valor_frete": 36.25,
+      "frete": "PAC",
+      "valor_total_pedido": 267.25,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3011",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-10 12:13:37",
+      "data_hora_confirmacao": "2023-11-10 12:27:46",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3025",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 14:31:08",
+      "data_hora_confirmacao": "2023-11-10 14:34:10",
+      "data_hora_confirmacao_pagamento": "2023-11-10 14:34:19",
+      "valor_total_produtos": 255,
+      "valor_frete": 34.2,
+      "frete": "PAC",
+      "valor_total_pedido": 289.2,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14766",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-29 10:56:55",
+      "data_hora_confirmacao": "2024-06-29 14:23:09",
+      "data_hora_confirmacao_pagamento": "2024-06-29 14:23:01",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 68.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 248.65,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17450",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 15:49:56",
+      "data_hora_confirmacao": "2024-07-31 15:49:56",
+      "data_hora_confirmacao_pagamento": "2024-07-31 15:50:18",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 40.34,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 220.29,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20157": {
+      "codigo": "20157",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23160": {
+      "codigo": "23160",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23163": {
+      "codigo": "23163",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23166": {
+      "codigo": "23166",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23182": {
+      "codigo": "23182",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25742": {
+      "codigo": "25742",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25744": {
+      "codigo": "25744",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25749": {
+      "codigo": "25749",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25750": {
+      "codigo": "25750",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25753": {
+      "codigo": "25753",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38G": {
+      "codigo": "CD17.38G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 3
+    },
+    "CD17.39GG": {
+      "codigo": "CD17.39GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD17.40": {
+      "codigo": "CD17.40",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT03.11 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Amarela - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD02.43GG": {
+      "codigo": "CD02.43GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.30M": {
+      "codigo": "CD02.30M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley (Arte em Termo Gel) - Cor: Marrom - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD07.23GG": {
+      "codigo": "CD07.23GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD33.9P": {
+      "codigo": "CD33.9P",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci  - Cor: Chumbo - Marca: Gucci - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD40.5GG": {
+      "codigo": "CD40.5GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ARMANI LT30.10 - Cor: OffWhite - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

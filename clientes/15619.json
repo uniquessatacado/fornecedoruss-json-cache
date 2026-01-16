@@ -1,0 +1,53 @@
+{
+  "codigo": "15619",
+  "nome": "MIGUEL SILVA",
+  "email": "miguellirakinder@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/09/2024",
+  "whatsapp": "(14) 98835-3055",
+  "cidade": "Jaú",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 63.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "21061",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-13 13:33:43",
+      "data_hora_confirmacao": "2024-09-16 17:55:23",
+      "data_hora_confirmacao_pagamento": "2024-09-16 17:55:17",
+      "valor_total_produtos": 51.98,
+      "valor_frete": 11.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.83,
+      "desconto": 0,
+      "cidade": "Jaú",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28839": {
+      "codigo": "28839",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte em pelúcia - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29657": {
+      "codigo": "29657",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

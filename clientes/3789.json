@@ -1,0 +1,104 @@
+{
+  "codigo": "3789",
+  "nome": "JOÃO GABRIEL",
+  "email": "xctavares@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "27/10/2023",
+  "whatsapp": "(19) 98144-4168",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 233.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "2948",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-09 13:53:43",
+      "data_hora_confirmacao": "2023-11-09 15:30:51",
+      "data_hora_confirmacao_pagamento": "2023-11-10 09:38:43",
+      "valor_total_produtos": 35,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 45,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18943",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-16 17:04:04",
+      "data_hora_confirmacao": "2024-08-17 13:41:32",
+      "data_hora_confirmacao_pagamento": "2024-08-20 15:19:09",
+      "valor_total_produtos": 188.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 188.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26636": {
+      "codigo": "26636",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: KIT - PRETO VERMELHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "26637": {
+      "codigo": "26637",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT - PRETO VERMELHO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27303": {
+      "codigo": "27303",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - LOUIS VUITTON arte em bordado madeira - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "27697": {
+      "codigo": "27697",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - BROOKSFIELD arte em bordado - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "27789": {
+      "codigo": "27789",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - RESERVA arte bordada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "CD40.9": {
+      "codigo": "CD40.9",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - HUGO BOSS  LT31.10   - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

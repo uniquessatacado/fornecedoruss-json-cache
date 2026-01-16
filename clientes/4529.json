@@ -1,0 +1,152 @@
+{
+  "codigo": "4529",
+  "nome": "RENE LEVINSKI SOUZA",
+  "email": "rlevinski09@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/12/2023",
+  "whatsapp": "(19) 99467-4395",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 293.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "4230",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-07 19:03:02",
+      "data_hora_confirmacao": "2023-12-07 19:24:12",
+      "data_hora_confirmacao_pagamento": "2023-12-07 19:24:23",
+      "valor_total_produtos": 176,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 186,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4875",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-15 16:31:48",
+      "data_hora_confirmacao": "2023-12-16 07:37:26",
+      "data_hora_confirmacao_pagamento": "2023-12-16 07:37:35",
+      "valor_total_produtos": 97.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 107.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.54": {
+      "codigo": "CD02.54",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12   - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Vermelha - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Vermelha - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Vermelha - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 2
+    },
+    "CD40.5GG": {
+      "codigo": "CD40.5GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ARMANI LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Branca - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.59": {
+      "codigo": "CD02.59",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT07.12 - Cor: Branca - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD57.2": {
+      "codigo": "CD57.2",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11  - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.53": {
+      "codigo": "CD17.53",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto e Branco - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

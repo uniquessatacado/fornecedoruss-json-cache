@@ -1,0 +1,69 @@
+{
+  "codigo": "15587",
+  "nome": "EDERSON SOTO",
+  "email": "ederson.soto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/09/2024",
+  "whatsapp": "(11) 98565-1290",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "21527",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-21 10:19:47",
+      "data_hora_confirmacao": "2024-09-21 11:02:44",
+      "data_hora_confirmacao_pagamento": "2024-09-21 11:02:38",
+      "valor_total_produtos": 123.96,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 133.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25423": {
+      "codigo": "25423",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "29406": {
+      "codigo": "29406",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "30768": {
+      "codigo": "30768",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30876": {
+      "codigo": "30876",
+      "titulo": "Bermuda Linho Luxo Importada - POLO RALPH LAUREN - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA LINHO LUXO IMPORTADA",
+      "marca": "POLO RALPH LAUREN ",
+      "quantidade": "1"
+    }
+  }
+}

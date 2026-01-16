@@ -1,0 +1,72 @@
+{
+  "codigo": "10582",
+  "nome": "MÁRCIO CAIO",
+  "email": "marciocaioresende@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(21) 97353-6341",
+  "cidade": "Magé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 69.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "13251",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 22:19:59",
+      "data_hora_confirmacao": "2024-06-07 17:24:24",
+      "data_hora_confirmacao_pagamento": "2024-06-07 17:24:02",
+      "valor_total_produtos": 15.9,
+      "valor_frete": 13.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 29.62,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27241",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-25 21:45:32",
+      "data_hora_confirmacao": "2024-12-25 21:46:35",
+      "data_hora_confirmacao_pagamento": "2024-12-25 21:46:35",
+      "valor_total_produtos": 25,
+      "valor_frete": 14.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 39.51,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37144": {
+      "codigo": "37144",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C02) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.32P": {
+      "codigo": "CD16.32P",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

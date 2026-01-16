@@ -1,0 +1,294 @@
+{
+  "codigo": "7332",
+  "nome": "FRANCISCO JÚLIO SAMPAIO NASCIMENTO",
+  "email": "juliopaio@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/03/2024",
+  "whatsapp": "(88) 98103-7536",
+  "cidade": "Camocim",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 811.1099999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "9111",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-29 22:17:27",
+      "data_hora_confirmacao": "2024-03-30 09:46:26",
+      "data_hora_confirmacao_pagamento": "2024-03-30 09:46:21",
+      "valor_total_produtos": 186.85,
+      "valor_frete": 40.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 227.2,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19787",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 07:55:58",
+      "data_hora_confirmacao": "2024-08-29 11:52:51",
+      "data_hora_confirmacao_pagamento": "2024-08-29 11:52:11",
+      "valor_total_produtos": 109.92,
+      "valor_frete": 33.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 143.35,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26426",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-14 10:20:58",
+      "data_hora_confirmacao": "2024-12-14 10:30:16",
+      "data_hora_confirmacao_pagamento": "2024-12-14 10:30:16",
+      "valor_total_produtos": 272.87,
+      "valor_frete": 42.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 315.56,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29938",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-23 15:02:22",
+      "data_hora_confirmacao": "2025-05-23 15:02:22",
+      "data_hora_confirmacao_pagamento": "2025-05-23 15:02:22",
+      "valor_total_produtos": 125,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125,
+      "desconto": 0,
+      "cidade": "Camocim",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "11471": {
+      "codigo": "11471",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27288": {
+      "codigo": "27288",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28348": {
+      "codigo": "28348",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28351": {
+      "codigo": "28351",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28417": {
+      "codigo": "28417",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "28420": {
+      "codigo": "28420",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "29099": {
+      "codigo": "29099",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29125": {
+      "codigo": "29125",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "36061": {
+      "codigo": "36061",
+      "titulo": "Camiseta malha chines autentica importada - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    },
+    "36625": {
+      "codigo": "36625",
+      "titulo": "Camiseta Peruana com Elastano   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37004": {
+      "codigo": "37004",
+      "titulo": "Camiseta Fio 30.1 Soft Penteada (C01) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37599": {
+      "codigo": "37599",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO C35) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37635": {
+      "codigo": "37635",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C40) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37644": {
+      "codigo": "37644",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE EM SILK&TERMO GEL (41)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37725": {
+      "codigo": "37725",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada   (C05) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "37749": {
+      "codigo": "37749",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C22) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "46428": {
+      "codigo": "46428",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C821) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46440": {
+      "codigo": "46440",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C821) - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47729": {
+      "codigo": "47729",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C939) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "CD02.137G": {
+      "codigo": "CD02.137G",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH - Cor: OffWhite - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.127G": {
+      "codigo": "CD02.127G",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Preto - Marca: MCD - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD02.117G": {
+      "codigo": "CD02.117G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  ( - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD31M": {
+      "codigo": "CD31M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD39.07G": {
+      "codigo": "CD39.07G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

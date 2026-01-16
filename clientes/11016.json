@@ -1,0 +1,123 @@
+{
+  "codigo": "11016",
+  "nome": "MATHEUS CAFÉ PEIXOTO DA COSTA BARROS",
+  "email": "matheuscafepeixoto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/06/2024",
+  "whatsapp": "(82) 99607-6163",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 248,
+  "pedidos": [
+    {
+      "codigo_pedido": "13839",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-16 00:54:27",
+      "data_hora_confirmacao": "2024-06-17 11:59:33",
+      "data_hora_confirmacao_pagamento": "2024-06-17 11:59:26",
+      "valor_total_produtos": 29.87,
+      "valor_frete": 15.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 45.14,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17735",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-02 20:27:19",
+      "data_hora_confirmacao": "2024-08-03 11:59:11",
+      "data_hora_confirmacao_pagamento": "2024-08-03 11:59:04",
+      "valor_total_produtos": 55.98,
+      "valor_frete": 17.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.66,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23118",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-21 14:16:04",
+      "data_hora_confirmacao": "2024-10-21 16:33:00",
+      "data_hora_confirmacao_pagamento": "2024-10-21 16:32:54",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 18.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.2,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21652": {
+      "codigo": "21652",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25707": {
+      "codigo": "25707",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26374": {
+      "codigo": "26374",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31758": {
+      "codigo": "31758",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32562": {
+      "codigo": "32562",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32574": {
+      "codigo": "32574",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

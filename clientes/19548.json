@@ -1,0 +1,53 @@
+{
+  "codigo": "19548",
+  "nome": "HELIO TADEU KOCSIS",
+  "email": "heliotk@uol.com.br",
+  "sexo": "0",
+  "data_cadastro": "16/03/2025",
+  "whatsapp": "(11) 94222-0424",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 135.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "28717",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-16 10:09:20",
+      "data_hora_confirmacao": "2025-03-16 10:12:05",
+      "data_hora_confirmacao_pagamento": "2025-03-16 10:12:05",
+      "valor_total_produtos": 123.5,
+      "valor_frete": 12.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 135.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "41815": {
+      "codigo": "41815",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C520) - Cor: PRETO MESCLA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "43172": {
+      "codigo": "43172",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C669)  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

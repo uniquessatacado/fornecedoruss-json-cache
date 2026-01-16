@@ -1,0 +1,77 @@
+{
+  "codigo": "7265",
+  "nome": "DOUGLAS SILVA DA PAZ",
+  "email": "doguinha_paz@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(11) 97445-3803",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 152.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "9034",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 20:12:32",
+      "data_hora_confirmacao": "2024-03-28 17:24:14",
+      "data_hora_confirmacao_pagamento": "2024-03-28 17:24:08",
+      "valor_total_produtos": 136.72,
+      "valor_frete": 15.48,
+      "frete": "SEDEX",
+      "valor_total_pedido": 152.2,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.135M": {
+      "codigo": "CD02.135M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.130M": {
+      "codigo": "CD02.130M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.129M": {
+      "codigo": "CD02.129M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.80": {
+      "codigo": "CD01.80",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11    - Tamanho: P - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

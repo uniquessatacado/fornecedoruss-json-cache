@@ -1,0 +1,61 @@
+{
+  "codigo": "91",
+  "nome": "ALEX GOMES",
+  "email": "alexgomes3014@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/03/2023",
+  "whatsapp": "(19) 98987-7088",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "25429",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-11-30 11:45:31",
+      "data_hora_confirmacao": "2024-11-30 11:46:48",
+      "data_hora_confirmacao_pagamento": "2024-11-30 11:46:48",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 123.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35233": {
+      "codigo": "35233",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35488": {
+      "codigo": "35488",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35934": {
+      "codigo": "35934",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    }
+  }
+}

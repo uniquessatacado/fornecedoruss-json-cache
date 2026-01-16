@@ -1,0 +1,53 @@
+{
+  "codigo": "6095",
+  "nome": "KAIQUE FERREIRA CARNEIRO",
+  "email": "kaiqueferreirajk@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/02/2024",
+  "whatsapp": "(31) 99636-5599",
+  "cidade": "Bela Vista de Minas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.54,
+  "pedidos": [
+    {
+      "codigo_pedido": "7171",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-07 21:25:13",
+      "data_hora_confirmacao": "2024-02-08 13:45:49",
+      "data_hora_confirmacao_pagamento": "2024-02-08 13:45:43",
+      "valor_total_produtos": 58.99,
+      "valor_frete": 17.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.54,
+      "desconto": 0,
+      "cidade": "Bela Vista de Minas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.92": {
+      "codigo": "CD02.92",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD67.7": {
+      "codigo": "CD67.7",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT06.12  - Tamanho: 48",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "3896",
+  "nome": "VICTOR PORTO DE FREITAS",
+  "email": "Portov464@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2023",
+  "whatsapp": "(66) 99991-1165",
+  "cidade": "Rondonópolis",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "2725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 22:21:15",
+      "data_hora_confirmacao": "2023-11-06 22:28:10",
+      "data_hora_confirmacao_pagamento": "2023-11-06 22:28:23",
+      "valor_total_produtos": 130,
+      "valor_frete": 25.1,
+      "frete": "PAC",
+      "valor_total_pedido": 155.1,
+      "desconto": 0,
+      "cidade": "Rondonópolis",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

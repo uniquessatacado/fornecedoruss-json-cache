@@ -1,0 +1,61 @@
+{
+  "codigo": "13944",
+  "nome": "ANDERSON OTHERIA DUTRA DE ARAÚJO",
+  "email": "aothero@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/08/2024",
+  "whatsapp": "(21) 9819-24918",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "18458",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-12 17:38:23",
+      "data_hora_confirmacao": "2024-08-14 16:29:32",
+      "data_hora_confirmacao_pagamento": "2024-08-14 16:29:03",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 22.8,
+      "frete": "JADLOG",
+      "valor_total_pedido": 82.74,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24634": {
+      "codigo": "24634",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27254": {
+      "codigo": "27254",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "27260": {
+      "codigo": "27260",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

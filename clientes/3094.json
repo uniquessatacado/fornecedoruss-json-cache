@@ -1,0 +1,88 @@
+{
+  "codigo": "3094",
+  "nome": "JOÃO VICTOR",
+  "email": "joaobdafonseca@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(41) 98782-0491",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 300.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "15006",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 00:14:54",
+      "data_hora_confirmacao": "2024-07-03 14:50:43",
+      "data_hora_confirmacao_pagamento": "2024-07-03 14:50:36",
+      "valor_total_produtos": 175.97,
+      "valor_frete": 19.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 195.32,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15007",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 00:14:54",
+      "data_hora_confirmacao": "2024-07-03 14:50:56",
+      "data_hora_confirmacao_pagamento": "2024-07-03 14:50:36",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 12.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.05,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21250": {
+      "codigo": "21250",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23300": {
+      "codigo": "23300",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: M - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23376": {
+      "codigo": "23376",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23379": {
+      "codigo": "23379",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

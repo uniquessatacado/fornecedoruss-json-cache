@@ -1,0 +1,53 @@
+{
+  "codigo": "18863",
+  "nome": "GUSTAVO ALVES BUENO BITENCOURT",
+  "email": "gustavoalv111@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/01/2025",
+  "whatsapp": "(62) 99320-9715",
+  "cidade": "Anápolis",
+  "estado": "GO",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 115.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "27461",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-08 11:32:02",
+      "data_hora_confirmacao": "2025-01-08 11:34:58",
+      "data_hora_confirmacao_pagamento": "2025-01-08 11:34:58",
+      "valor_total_produtos": 96.66,
+      "valor_frete": 18.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.58,
+      "desconto": 0,
+      "cidade": "Anápolis",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38526": {
+      "codigo": "38526",
+      "titulo": "Camiseta Suedine ultra -(C129) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38568": {
+      "codigo": "38568",
+      "titulo": "Camiseta Suedine ultra -(C131) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

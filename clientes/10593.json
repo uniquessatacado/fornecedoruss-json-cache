@@ -1,0 +1,88 @@
+{
+  "codigo": "10593",
+  "nome": "WESLEY RODRIGUES",
+  "email": "luiskisuk@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(91) 98501-6299",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 201.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "28553",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-05 12:45:29",
+      "data_hora_confirmacao": "2025-03-05 12:50:06",
+      "data_hora_confirmacao_pagamento": "2025-03-05 12:50:06",
+      "valor_total_produtos": 138.42,
+      "valor_frete": 40.19,
+      "frete": "PAC",
+      "valor_total_pedido": 178.61,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28856",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-20 11:54:57",
+      "data_hora_confirmacao": "2025-03-20 11:55:12",
+      "data_hora_confirmacao_pagamento": "2025-03-20 11:55:41",
+      "valor_total_produtos": 23.07,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 23.07,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39643": {
+      "codigo": "39643",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C211) LT7A - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42409": {
+      "codigo": "42409",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42416": {
+      "codigo": "42416",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42417": {
+      "codigo": "42417",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "3"
+    }
+  }
+}

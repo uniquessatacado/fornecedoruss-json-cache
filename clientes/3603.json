@@ -1,0 +1,903 @@
+{
+  "codigo": "3603",
+  "nome": "WENDSTER RAFAEL DOS SANTOS AGUIAR",
+  "email": "wendster96@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(19) 9894-19016",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 15,
+  "valor_total_comprado": 5086.139999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "2308",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 13:14:59",
+      "data_hora_confirmacao": "2023-10-26 13:59:56",
+      "data_hora_confirmacao_pagamento": "2023-10-26 14:00:10",
+      "valor_total_produtos": 279,
+      "valor_frete": 19.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 298.23,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4007",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 14:54:18",
+      "data_hora_confirmacao": "2023-12-06 18:01:25",
+      "data_hora_confirmacao_pagamento": "2023-12-06 18:01:19",
+      "valor_total_produtos": 103,
+      "valor_frete": 12.07,
+      "frete": "SEDEX",
+      "valor_total_pedido": 115.07,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4099",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 13:00:10",
+      "data_hora_confirmacao": "2023-12-06 18:37:54",
+      "data_hora_confirmacao_pagamento": "2023-12-06 18:38:04",
+      "valor_total_produtos": 42,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.74,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-06 12:26:11",
+      "data_hora_confirmacao": "2024-03-06 12:26:11",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 133.96,
+      "valor_frete": 14.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 148.88,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8066",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-07 16:18:21",
+      "data_hora_confirmacao": "2024-03-07 17:33:51",
+      "data_hora_confirmacao_pagamento": "2024-03-07 17:33:45",
+      "valor_total_produtos": 231.93,
+      "valor_frete": 17.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 249.9,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9328",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 13:02:29",
+      "data_hora_confirmacao": "2024-04-03 16:05:11",
+      "data_hora_confirmacao_pagamento": "2024-04-03 16:05:06",
+      "valor_total_produtos": 309.9,
+      "valor_frete": 24.19,
+      "frete": "JADLOG",
+      "valor_total_pedido": 334.09,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9878",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 23:00:50",
+      "data_hora_confirmacao": "2024-04-11 10:24:32",
+      "data_hora_confirmacao_pagamento": "2024-04-11 10:24:28",
+      "valor_total_produtos": 862.99,
+      "valor_frete": 42.79,
+      "frete": "JADLOG",
+      "valor_total_pedido": 905.78,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21990",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-28 22:24:08",
+      "data_hora_confirmacao": "2024-09-30 12:52:47",
+      "data_hora_confirmacao_pagamento": "2024-09-30 12:52:41",
+      "valor_total_produtos": 258.93,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 258.93,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24695",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-19 14:00:55",
+      "data_hora_confirmacao": "2024-11-19 14:03:08",
+      "data_hora_confirmacao_pagamento": "2024-11-19 14:03:08",
+      "valor_total_produtos": 643.83,
+      "valor_frete": 35.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 679.68,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25056",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-25 13:59:11",
+      "data_hora_confirmacao": "2024-11-25 13:59:11",
+      "data_hora_confirmacao_pagamento": "2024-11-25 13:59:11",
+      "valor_total_produtos": 33.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33.99,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29156",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-09 21:49:53",
+      "data_hora_confirmacao": "2025-04-09 21:51:09",
+      "data_hora_confirmacao_pagamento": "2025-04-09 21:51:09",
+      "valor_total_produtos": 392.37,
+      "valor_frete": 23.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 415.84,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29159",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-09 22:10:36",
+      "data_hora_confirmacao": "2025-04-09 22:18:28",
+      "data_hora_confirmacao_pagamento": "2025-04-09 22:18:28",
+      "valor_total_produtos": 470.8,
+      "valor_frete": 27.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 498.29,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30301",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-16 12:10:27",
+      "data_hora_confirmacao": "2025-06-16 12:16:19",
+      "data_hora_confirmacao_pagamento": "2025-06-16 12:16:19",
+      "valor_total_produtos": 642.05,
+      "valor_frete": 38.27,
+      "frete": "SEDEX",
+      "valor_total_pedido": 680.32,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30303",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-16 12:57:58",
+      "data_hora_confirmacao": "2025-06-16 12:57:58",
+      "data_hora_confirmacao_pagamento": "2025-06-16 12:57:58",
+      "valor_total_produtos": 92.74,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 92.74,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32082",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-13 14:19:41",
+      "data_hora_confirmacao": "2025-10-13 14:21:20",
+      "data_hora_confirmacao_pagamento": "2025-10-13 14:21:20",
+      "valor_total_produtos": 298.96,
+      "valor_frete": 22.7,
+      "frete": "JADLOG",
+      "valor_total_pedido": 321.66,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30810": {
+      "codigo": "30810",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30823": {
+      "codigo": "30823",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31356": {
+      "codigo": "31356",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31362": {
+      "codigo": "31362",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31363": {
+      "codigo": "31363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31365": {
+      "codigo": "31365",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34161": {
+      "codigo": "34161",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34162": {
+      "codigo": "34162",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34182": {
+      "codigo": "34182",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34183": {
+      "codigo": "34183",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34186": {
+      "codigo": "34186",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34188": {
+      "codigo": "34188",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "34618": {
+      "codigo": "34618",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "34685": {
+      "codigo": "34685",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM   - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34689": {
+      "codigo": "34689",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM   - Cor: MARROM ESCURO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34693": {
+      "codigo": "34693",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34791": {
+      "codigo": "34791",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM      - Cor: VERDE MUSGO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "34829": {
+      "codigo": "34829",
+      "titulo": "CAMISETA ARMANI MALHA CHINESA PREMIUM DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "34832": {
+      "codigo": "34832",
+      "titulo": "CAMISETA ARMANI MALHA CHINESA PREMIUM DTF - Cor: ROXO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "44418": {
+      "codigo": "44418",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C716) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "44435": {
+      "codigo": "44435",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C719) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46331": {
+      "codigo": "46331",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "46336": {
+      "codigo": "46336",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46348": {
+      "codigo": "46348",
+      "titulo": "Bermuda Microfibra Ultra LT40A (C783) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "46359": {
+      "codigo": "46359",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46360": {
+      "codigo": "46360",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46378": {
+      "codigo": "46378",
+      "titulo": "Bermuda Microfibra Ultra LT40A (C783) NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "46390": {
+      "codigo": "46390",
+      "titulo": "Bermuda Microfibra Ultra LT40A (C783) NIKE - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "46408": {
+      "codigo": "46408",
+      "titulo": "Bermuda Microfibra Ultra LT40A (C783) ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "46414": {
+      "codigo": "46414",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "46449": {
+      "codigo": "46449",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46453": {
+      "codigo": "46453",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46454": {
+      "codigo": "46454",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C782) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "48454": {
+      "codigo": "48454",
+      "titulo": "Bermuda Nike Microfibra Ultra | Essential Move LT59A (C1019) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48528": {
+      "codigo": "48528",
+      "titulo": "Bermuda Armani Microfibra Ultra | LT60A (C1034) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48534": {
+      "codigo": "48534",
+      "titulo": "Bermuda Armani Microfibra Ultra | LT60A (C1035) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49325": {
+      "codigo": "49325",
+      "titulo": "Bermuda Nike Microfibra Ultra | LT67A (C1158) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "49605": {
+      "codigo": "49605",
+      "titulo": "Moletom 3 Cabos Importado Boss | LT68A (C1193) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49613": {
+      "codigo": "49613",
+      "titulo": "Moletom 3 Cabos Importado Diesel | LT68A (C1194) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49621": {
+      "codigo": "49621",
+      "titulo": "Moletom 3 Cabos Importado Diesel | LT68A (C1195) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49807": {
+      "codigo": "49807",
+      "titulo": "Moletom 3 Cabos Importado Armani | LT68A (C1226) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49810": {
+      "codigo": "49810",
+      "titulo": "Moletom 3 Cabos Importado Armani | LT68A (C1226) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "55270": {
+      "codigo": "55270",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55286": {
+      "codigo": "55286",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55294": {
+      "codigo": "55294",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "55307": {
+      "codigo": "55307",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55319": {
+      "codigo": "55319",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55334": {
+      "codigo": "55334",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55453": {
+      "codigo": "55453",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.41G": {
+      "codigo": "CD02.41G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.41GG": {
+      "codigo": "CD02.41GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.42GG": {
+      "codigo": "CD02.42GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD02.42G": {
+      "codigo": "CD02.42G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.38GG": {
+      "codigo": "CD17.38GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD39.22": {
+      "codigo": "CD39.22",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT22.11    - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.31": {
+      "codigo": "CD39.31",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.29GG": {
+      "codigo": "CD17.29GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Azul Bebê - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.10": {
+      "codigo": "CD14.10",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT06.12 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD04.5GG": {
+      "codigo": "CD04.5GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD02.113GG": {
+      "codigo": "CD02.113GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD02.113G": {
+      "codigo": "CD02.113G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.8GG": {
+      "codigo": "CD04.8GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD51.1GG": {
+      "codigo": "CD51.1GG",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto e Branco - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD02.133GG": {
+      "codigo": "CD02.133GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD4.11GG": {
+      "codigo": "CD4.11GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "4"
+    },
+    "CD39.70GG": {
+      "codigo": "CD39.70GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OFFWHITE - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD39.70G": {
+      "codigo": "CD39.70G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.71G": {
+      "codigo": "CD39.71G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD11.2G1": {
+      "codigo": "CD11.2G1",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Branca - Marca: Nike - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.139GG": {
+      "codigo": "CD02.139GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD02.141GG": {
+      "codigo": "CD02.141GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: VERMELHA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD03.9": {
+      "codigo": "CD03.9",
+      "titulo": "Óculos OAKLEY JULIET - PENNY  - ARMAÇÃO: PRETA-BLACK - COR DA LENTE: AZUL+ROXO-NEON BLUE - Kit Borracha: AZUL",
+      "categoria_principal": "OCULOS",
+      "categoria": "PENNY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD03.17": {
+      "codigo": "CD03.17",
+      "titulo": "Óculos OAKLEY JULIET -  - ARMAÇÃO: PRATA+CHUMBO- TIO 2 - COR DA LENTE: AZUL+ROXO-NEON BLUE - Kit Borracha: PRETA",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

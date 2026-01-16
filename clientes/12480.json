@@ -1,0 +1,69 @@
+{
+  "codigo": "12480",
+  "nome": "CAHUÊ SENA",
+  "email": "cahuesena3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(83) 98126-8279",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 168.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "16088",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 20:54:16",
+      "data_hora_confirmacao": "2024-07-15 21:24:00",
+      "data_hora_confirmacao_pagamento": "2024-07-15 21:23:53",
+      "valor_total_produtos": 152.96,
+      "valor_frete": 15.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 168.87,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23964": {
+      "codigo": "23964",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23977": {
+      "codigo": "23977",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em bordado madeira  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24066": {
+      "codigo": "24066",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24289": {
+      "codigo": "24289",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

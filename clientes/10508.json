@@ -1,0 +1,69 @@
+{
+  "codigo": "10508",
+  "nome": "JOÃO ESTRELA FILHO",
+  "email": "estrelagadelha12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(83) 99908-0544",
+  "cidade": "Sousa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 181.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "13169",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 21:45:58",
+      "data_hora_confirmacao": "2024-06-06 10:33:16",
+      "data_hora_confirmacao_pagamento": "2024-06-06 10:33:08",
+      "valor_total_produtos": 157.96,
+      "valor_frete": 23.29,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 181.25,
+      "desconto": 0,
+      "cidade": "Sousa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18789": {
+      "codigo": "18789",
+      "titulo": "Camiseta Genuina Egípcia Luxo DIESEL arte em patch emborrachado - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "18870": {
+      "codigo": "18870",
+      "titulo": "Camiseta Genuina Egípcia Luxo ARMANI arte em couro e bordado  - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "18879": {
+      "codigo": "18879",
+      "titulo": "Camiseta Genuina 40.1 LUXO PRADA arte em patch emborrachado  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "19072": {
+      "codigo": "19072",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em ferro - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

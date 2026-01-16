@@ -1,0 +1,72 @@
+{
+  "codigo": "7652",
+  "nome": "JUAN RODRIGUES",
+  "email": "ruanrodrigues45@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/04/2024",
+  "whatsapp": "(19) 98854-2185",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 115.97999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "9586",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-06 11:38:26",
+      "data_hora_confirmacao": "2024-04-06 11:52:05",
+      "data_hora_confirmacao_pagamento": "2024-04-06 11:52:01",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10358",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-19 18:50:42",
+      "data_hora_confirmacao": "2024-04-20 09:28:46",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 84.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 84.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.131GG": {
+      "codigo": "CD02.131GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "ML1.3GG": {
+      "codigo": "ML1.3GG",
+      "titulo": "MOLETOM 3 CABOS PUMA - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "PUMA",
+      "quantidade": "1"
+    }
+  }
+}

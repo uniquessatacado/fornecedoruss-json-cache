@@ -1,0 +1,64 @@
+{
+  "codigo": "5819",
+  "nome": "MATHIAS FAGUNDES FERREIRA DE MELO",
+  "email": "onixsemx@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/01/2024",
+  "whatsapp": "(11) 96322-8213",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 69.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "6894",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-27 16:34:16",
+      "data_hora_confirmacao": "2024-01-30 10:42:17",
+      "data_hora_confirmacao_pagamento": "2024-01-30 10:41:40",
+      "valor_total_produtos": 25,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6970",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-29 13:07:22",
+      "data_hora_confirmacao": "2024-01-30 14:24:52",
+      "data_hora_confirmacao_pagamento": "2024-01-30 14:25:25",
+      "valor_total_produtos": 25,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.64": {
+      "codigo": "CD01.64",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: GG - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    }
+  }
+}

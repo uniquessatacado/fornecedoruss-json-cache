@@ -1,0 +1,45 @@
+{
+  "codigo": "3818",
+  "nome": "PEDRO HENRIQUE SOARES FONSECA",
+  "email": "pedro99soares@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/10/2023",
+  "whatsapp": "(87) 99601-4168",
+  "cidade": "Petrolina",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "20494",
+      "situacao_pedido": "LIBERADO NA ALFANDEGA EM TRANSITO PARA NOSSO ESTOQUE !",
+      "data_hora_pedido": "2024-09-06 12:21:24",
+      "data_hora_confirmacao": "2024-09-06 14:36:22",
+      "data_hora_confirmacao_pagamento": "2024-09-06 14:36:13",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 17.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.67,
+      "desconto": 0,
+      "cidade": "Petrolina",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20669": {
+      "codigo": "20669",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

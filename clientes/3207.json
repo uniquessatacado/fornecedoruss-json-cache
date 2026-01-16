@@ -1,0 +1,53 @@
+{
+  "codigo": "3207",
+  "nome": "LEANDRO RICARDO",
+  "email": "leandro.ricardo.silva.93@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(14) 99197-4141",
+  "cidade": "Jaú",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "20024",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-31 10:03:32",
+      "data_hora_confirmacao": "2024-08-31 11:06:58",
+      "data_hora_confirmacao_pagamento": "2024-08-31 10:42:44",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 18.21,
+      "frete": "JADLOG",
+      "valor_total_pedido": 92.19,
+      "desconto": 0,
+      "cidade": "Jaú",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29312": {
+      "codigo": "29312",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29318": {
+      "codigo": "29318",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "6600",
+  "nome": "JOÃO VICTOR ARAÚJO BARACHO",
+  "email": "joaobaracho047@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/03/2024",
+  "whatsapp": "(81) 8792-7904",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 111.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "7975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-05 15:39:55",
+      "data_hora_confirmacao": "2024-03-05 17:09:17",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 42.98,
+      "valor_frete": 15.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.68,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8797",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-21 13:35:36",
+      "data_hora_confirmacao": "2024-03-21 14:10:49",
+      "data_hora_confirmacao_pagamento": "2024-03-21 14:10:44",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 16.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.92,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD15.1M": {
+      "codigo": "CD15.1M",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Hugo boss M1 - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.03M": {
+      "codigo": "CD24.03M",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Branca - Marca: Versace - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD68.02": {
+      "codigo": "CD68.02",
+      "titulo": "Bermuda Microfibra Hiper - HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

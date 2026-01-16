@@ -1,0 +1,72 @@
+{
+  "codigo": "442",
+  "nome": "MARCOS VINICIUS",
+  "email": "marcosviniciussoaresramiro@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/03/2023",
+  "whatsapp": "(19) 98943-8417",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 66.99000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301480",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-09 07:14:20",
+      "data_hora_confirmacao": "2023-10-09 09:20:49",
+      "data_hora_confirmacao_pagamento": "2023-10-09 09:32:53",
+      "valor_total_produtos": 23,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20782",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-10 12:16:00",
+      "data_hora_confirmacao": "2024-09-10 12:44:48",
+      "data_hora_confirmacao_pagamento": "2024-09-10 12:44:43",
+      "valor_total_produtos": 23.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 33.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

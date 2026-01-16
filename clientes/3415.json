@@ -1,0 +1,104 @@
+{
+  "codigo": "3415",
+  "nome": "JOSEPH PORFIRIO",
+  "email": "josephfreitas2017@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/10/2023",
+  "whatsapp": "(11) 96015-4968",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 284.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301572",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-10 21:09:15",
+      "data_hora_confirmacao": "2023-10-11 12:25:19",
+      "data_hora_confirmacao_pagamento": "2023-10-11 12:25:27",
+      "valor_total_produtos": 140,
+      "valor_frete": 13.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 153.95,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4587",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 22:15:23",
+      "data_hora_confirmacao": "2023-12-12 22:17:45",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:17:55",
+      "valor_total_produtos": 119.8,
+      "valor_frete": 10.37,
+      "frete": "SEDEX",
+      "valor_total_pedido": 130.17,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.4G": {
+      "codigo": "CD39.4G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.5M": {
+      "codigo": "CD39.5M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.8M": {
+      "codigo": "CD39.8M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.8G": {
+      "codigo": "CD39.8G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike - Cor: Cinza - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32.1Penny": {
+      "codigo": "CD32.1Penny",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada   - Cor da Armação: Chumbo - Cor da Lente: Roxo c/Vermelho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.2Juliet": {
+      "codigo": "CD32.2Juliet",
+      "titulo": "Óculos  Juliet - Roxa c/ Vermelho - Cor da Armação: Prata c/Chumbo - Cor da Lente: Roxo c/Vermelho - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "6917",
+  "nome": "MARCOS ROBERTO SANTOS CARDOZO",
+  "email": "hidroagua.vendas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(19) 99172-5909",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "8412",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 16:41:58",
+      "data_hora_confirmacao": "2024-03-13 18:01:22",
+      "data_hora_confirmacao_pagamento": "2024-03-13 18:01:18",
+      "valor_total_produtos": 101.06,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 111.06,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 33,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.07GG": {
+      "codigo": "CD25.07GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Cinza-Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD25.14GG": {
+      "codigo": "CD25.14GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Vemelho-Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

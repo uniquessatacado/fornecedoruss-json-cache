@@ -1,0 +1,785 @@
+{
+  "codigo": "6909",
+  "nome": "LUIS GUILHERME",
+  "email": "lgasilva1@outlook.com",
+  "sexo": "1",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(65) 9921-80378",
+  "cidade": "Várzea Grande",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 3342.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "8390",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 11:03:33",
+      "data_hora_confirmacao": "2024-03-13 13:46:33",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:46:27",
+      "valor_total_produtos": 108.07,
+      "valor_frete": 26.41,
+      "frete": "PAC",
+      "valor_total_pedido": 134.48,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18441",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 16:00:36",
+      "data_hora_confirmacao": "2024-08-13 09:35:42",
+      "data_hora_confirmacao_pagamento": "2024-08-13 09:33:02",
+      "valor_total_produtos": 358.91,
+      "valor_frete": 35.06,
+      "frete": "PAC",
+      "valor_total_pedido": 393.97,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22520",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-08 18:05:28",
+      "data_hora_confirmacao": "2024-10-09 11:15:26",
+      "data_hora_confirmacao_pagamento": "2024-10-09 11:15:17",
+      "valor_total_produtos": 739.8,
+      "valor_frete": 53.04,
+      "frete": "JADLOG",
+      "valor_total_pedido": 792.84,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-13 15:04:17",
+      "data_hora_confirmacao": "2024-11-13 15:10:20",
+      "data_hora_confirmacao_pagamento": "2024-11-13 15:10:20",
+      "valor_total_produtos": 1220.67,
+      "valor_frete": 80.81,
+      "frete": "JADLOG",
+      "valor_total_pedido": 1301.48,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26758",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-19 11:47:03",
+      "data_hora_confirmacao": "2024-12-19 11:48:40",
+      "data_hora_confirmacao_pagamento": "2024-12-19 11:48:40",
+      "valor_total_produtos": 615.41,
+      "valor_frete": 104.5,
+      "frete": "SEDEX",
+      "valor_total_pedido": 719.91,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19894": {
+      "codigo": "19894",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO MANCHESTER UNITED PRONTA ENTREGA)     - Tamanho: M - VERSÃO: RETRO",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22980": {
+      "codigo": "22980",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "24639": {
+      "codigo": "24639",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27128": {
+      "codigo": "27128",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27147": {
+      "codigo": "27147",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27150": {
+      "codigo": "27150",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27153": {
+      "codigo": "27153",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27166": {
+      "codigo": "27166",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27194": {
+      "codigo": "27194",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27197": {
+      "codigo": "27197",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30847": {
+      "codigo": "30847",
+      "titulo": "Bermuda Microfibra Ultra - NIKE FACÃO  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31666": {
+      "codigo": "31666",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31667": {
+      "codigo": "31667",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31723": {
+      "codigo": "31723",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31726": {
+      "codigo": "31726",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31727": {
+      "codigo": "31727",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32338": {
+      "codigo": "32338",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "32339": {
+      "codigo": "32339",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "32344": {
+      "codigo": "32344",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "32345": {
+      "codigo": "32345",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "32363": {
+      "codigo": "32363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32364": {
+      "codigo": "32364",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32365": {
+      "codigo": "32365",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32366": {
+      "codigo": "32366",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte BORDADA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33867": {
+      "codigo": "33867",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico interno - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33922": {
+      "codigo": "33922",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "33923": {
+      "codigo": "33923",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "33926": {
+      "codigo": "33926",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34022": {
+      "codigo": "34022",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "34044": {
+      "codigo": "34044",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34050": {
+      "codigo": "34050",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34070": {
+      "codigo": "34070",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34071": {
+      "codigo": "34071",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "34073": {
+      "codigo": "34073",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34074": {
+      "codigo": "34074",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34076": {
+      "codigo": "34076",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34077": {
+      "codigo": "34077",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34089": {
+      "codigo": "34089",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34090": {
+      "codigo": "34090",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34092": {
+      "codigo": "34092",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34093": {
+      "codigo": "34093",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34095": {
+      "codigo": "34095",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34096": {
+      "codigo": "34096",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34108": {
+      "codigo": "34108",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "34109": {
+      "codigo": "34109",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "34114": {
+      "codigo": "34114",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34115": {
+      "codigo": "34115",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34133": {
+      "codigo": "34133",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35199": {
+      "codigo": "35199",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35202": {
+      "codigo": "35202",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35205": {
+      "codigo": "35205",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35208": {
+      "codigo": "35208",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35431": {
+      "codigo": "35431",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "35432": {
+      "codigo": "35432",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "37748": {
+      "codigo": "37748",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C22) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "38038": {
+      "codigo": "38038",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "3"
+    },
+    "38039": {
+      "codigo": "38039",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38041": {
+      "codigo": "38041",
+      "titulo": "Cuecas Peruanas (C99) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38042": {
+      "codigo": "38042",
+      "titulo": "Cuecas Peruanas (C99) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38044": {
+      "codigo": "38044",
+      "titulo": "Cuecas Peruanas (C99) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38045": {
+      "codigo": "38045",
+      "titulo": "Cuecas Peruanas (C99) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38063": {
+      "codigo": "38063",
+      "titulo": "Cuecas Peruanas (C100) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38064": {
+      "codigo": "38064",
+      "titulo": "Cuecas Peruanas (C100) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38067": {
+      "codigo": "38067",
+      "titulo": "Cuecas Peruanas (C100) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38075": {
+      "codigo": "38075",
+      "titulo": "Cuecas Peruanas (C100) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "38076": {
+      "codigo": "38076",
+      "titulo": "Cuecas Peruanas (C100) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38094": {
+      "codigo": "38094",
+      "titulo": "Cuecas Peruanas (C101) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "2"
+    },
+    "38095": {
+      "codigo": "38095",
+      "titulo": "Cuecas Peruanas (C101) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "2"
+    },
+    "38119": {
+      "codigo": "38119",
+      "titulo": "Cuecas Peruanas (C102) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38120": {
+      "codigo": "38120",
+      "titulo": "Cuecas Peruanas (C102) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38122": {
+      "codigo": "38122",
+      "titulo": "Cuecas Peruanas (C102) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38123": {
+      "codigo": "38123",
+      "titulo": "Cuecas Peruanas (C102) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38124": {
+      "codigo": "38124",
+      "titulo": "Cuecas Peruanas (C102) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38126": {
+      "codigo": "38126",
+      "titulo": "Cuecas Peruanas (C102) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38131": {
+      "codigo": "38131",
+      "titulo": "Cuecas Peruanas (C102) - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38132": {
+      "codigo": "38132",
+      "titulo": "Cuecas Peruanas (C102) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "38241": {
+      "codigo": "38241",
+      "titulo": "Corta Vento Microfibra ultra (C115) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38315": {
+      "codigo": "38315",
+      "titulo": "Bermuda Microfibra Ultra (C122) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "38316": {
+      "codigo": "38316",
+      "titulo": "Bermuda Microfibra Ultra (C122) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38321": {
+      "codigo": "38321",
+      "titulo": "Bermuda Microfibra Ultra (C122) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "38322": {
+      "codigo": "38322",
+      "titulo": "Bermuda Microfibra Ultra (C122) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.05M": {
+      "codigo": "CD39.05M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

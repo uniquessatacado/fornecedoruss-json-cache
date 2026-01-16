@@ -1,0 +1,448 @@
+{
+  "codigo": "1959",
+  "nome": "GLEIDSON BARRETO",
+  "email": "gleidsonbessa1@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "30/08/2023",
+  "whatsapp": "(74) 99909-2519",
+  "cidade": "Barra do Mendes",
+  "estado": "BA",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 3110.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "28996",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-03 11:17:21",
+      "data_hora_confirmacao": "2025-04-03 11:17:21",
+      "data_hora_confirmacao_pagamento": "2025-04-03 11:17:21",
+      "valor_total_produtos": 1742.36,
+      "valor_frete": 153.14,
+      "frete": "PAC",
+      "valor_total_pedido": 1895.5,
+      "desconto": 0,
+      "cidade": "Barra do Mendes",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-03 19:22:37",
+      "data_hora_confirmacao": "2025-04-07 10:34:33",
+      "data_hora_confirmacao_pagamento": "2025-04-07 10:35:00",
+      "valor_total_produtos": 1214.58,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 1214.58,
+      "desconto": 0,
+      "cidade": "Barra do Mendes",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39186": {
+      "codigo": "39186",
+      "titulo": "CERA DE CARNAUBA  ( CERA) MARCA ( VAZZ ) AUTOMOTIVA",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39326": {
+      "codigo": "39326",
+      "titulo": "Camiseta Malha Chinesa (C190) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39340": {
+      "codigo": "39340",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39343": {
+      "codigo": "39343",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "40259": {
+      "codigo": "40259",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40272": {
+      "codigo": "40272",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41181": {
+      "codigo": "41181",
+      "titulo": "Oculos  - JULIET LT12A(C323) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41191": {
+      "codigo": "41191",
+      "titulo": "Oculos  - JULIET LT12A(C332) - ARMAÇÃO: X METAL - CHUMBO  - Kit Borracha: BRANCA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41193": {
+      "codigo": "41193",
+      "titulo": "Oculos  - JULIET LT12A(C334) - ARMAÇÃO: X METAL - CHUMBO  - Kit Borracha: MARROM - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41236": {
+      "codigo": "41236",
+      "titulo": "Oculos  - JULIET PENNY LT13A(C370) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "2"
+    },
+    "41839": {
+      "codigo": "41839",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C523) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41861": {
+      "codigo": "41861",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C526) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41903": {
+      "codigo": "41903",
+      "titulo": "Camiseta Suedine Oversized  LT23A (C535) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE PREMIUM OVERSIZED ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42018": {
+      "codigo": "42018",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado  LT24A  (C547) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42027": {
+      "codigo": "42027",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado   LT24A (C550) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42446": {
+      "codigo": "42446",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42806": {
+      "codigo": "42806",
+      "titulo": "Camisa de Time Flamengo Tailandesa 1:1 versão torcedor LT30A (C654) PRONTA ENTREGA   - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "43008": {
+      "codigo": "43008",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C664) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43057": {
+      "codigo": "43057",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666)  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43108": {
+      "codigo": "43108",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666)  - Cor: PRETO C/ CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "44809": {
+      "codigo": "44809",
+      "titulo": "Camiseta Suedine ultra (C737) ARTE EM DTF LT34A   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44810": {
+      "codigo": "44810",
+      "titulo": "Camiseta Suedine ultra (C737) ARTE EM DTF LT34A   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44817": {
+      "codigo": "44817",
+      "titulo": "Camiseta Suedine ultra (C736) ARTE EM DTF LT34A   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44835": {
+      "codigo": "44835",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT34A (C738) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "44937": {
+      "codigo": "44937",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT34A (C739)  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45186": {
+      "codigo": "45186",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C740)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45200": {
+      "codigo": "45200",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C741) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45237": {
+      "codigo": "45237",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C743) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45251": {
+      "codigo": "45251",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C742) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45607": {
+      "codigo": "45607",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT35A (C764) - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45610": {
+      "codigo": "45610",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT35A (C764) - Cor: PRETO CHUMBO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45680": {
+      "codigo": "45680",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C768)  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45687": {
+      "codigo": "45687",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C768) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45694": {
+      "codigo": "45694",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770) - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45707": {
+      "codigo": "45707",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45714": {
+      "codigo": "45714",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45728": {
+      "codigo": "45728",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45756": {
+      "codigo": "45756",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C771) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45762": {
+      "codigo": "45762",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT36A (C772) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45763": {
+      "codigo": "45763",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT36A (C772) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45797": {
+      "codigo": "45797",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT36A (C773)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45811": {
+      "codigo": "45811",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT36A (C774) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45828": {
+      "codigo": "45828",
+      "titulo": "Camiseta Suedine ultra ARTE BORDADA LT36A (C775) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "45834": {
+      "codigo": "45834",
+      "titulo": "Camiseta Suedine ultra ARTE BORDADA LT36A (C775) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "45950": {
+      "codigo": "45950",
+      "titulo": "TAILANDESA PRONTA ENTREGA (PEDIDO MANUAL) - TAILANDESA A PRONTA ENTREGA (PEDIDO MANUAL): TTPAOGG",
+      "categoria_principal": "PRODUTOS PARA PEDIDO MANUAL",
+      "categoria": "TAILANDESA - PRONTA ENTREGA (PEDIDO MANUAL)",
+      "marca": "Camisa de Time",
+      "quantidade": "13"
+    },
+    "45954": {
+      "codigo": "45954",
+      "titulo": "TAILANDESA PRONTA ENTREGA (PEDIDO MANUAL) - TAILANDESA A PRONTA ENTREGA (PEDIDO MANUAL): TJNPAOGG",
+      "categoria_principal": "PRODUTOS PARA PEDIDO MANUAL",
+      "categoria": "TAILANDESA - PRONTA ENTREGA (PEDIDO MANUAL)",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "45957": {
+      "codigo": "45957",
+      "titulo": "TAILANDESA PRONTA ENTREGA (PEDIDO MANUAL) - TAILANDESA A PRONTA ENTREGA (PEDIDO MANUAL): TRPAOGG",
+      "categoria_principal": "PRODUTOS PARA PEDIDO MANUAL",
+      "categoria": "TAILANDESA - PRONTA ENTREGA (PEDIDO MANUAL)",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

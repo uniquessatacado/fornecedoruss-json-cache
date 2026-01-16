@@ -1,0 +1,69 @@
+{
+  "codigo": "10641",
+  "nome": "KLEYTON DE SOUZA SANTOS",
+  "email": "prkleytonsantos73@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(21) 96447-1491",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 199.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "13324",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 17:22:32",
+      "data_hora_confirmacao": "2024-06-08 09:49:05",
+      "data_hora_confirmacao_pagamento": "2024-06-08 09:48:32",
+      "valor_total_produtos": 171.96,
+      "valor_frete": 28.03,
+      "frete": "JADLOG",
+      "valor_total_pedido": 199.99,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20623": {
+      "codigo": "20623",
+      "titulo": "Relógio CASIO G-SHOCK  - Cor: VERMELHA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20626": {
+      "codigo": "20626",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: AZUL TIFFANY ",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20712": {
+      "codigo": "20712",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: BRANCA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "20713": {
+      "codigo": "20713",
+      "titulo": "Relógio CASIO G-SHOCK - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CASIO",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

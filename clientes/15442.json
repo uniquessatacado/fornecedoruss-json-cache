@@ -1,0 +1,61 @@
+{
+  "codigo": "15442",
+  "nome": "AGNES FERNANDA DE OLIVEIRA",
+  "email": "oliveiraagnes28@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(19) 99233-1170",
+  "cidade": "Americana",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "20768",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 10:01:41",
+      "data_hora_confirmacao": "2024-09-12 12:49:52",
+      "data_hora_confirmacao_pagamento": "2024-09-12 12:49:34",
+      "valor_total_produtos": 73.97,
+      "valor_frete": 13.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 87.3,
+      "desconto": 0,
+      "cidade": "Americana",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "29754": {
+      "codigo": "29754",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29788": {
+      "codigo": "29788",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "19870",
+  "nome": "CARLOS AUGUSTO SILVA DE OLIVEIRA",
+  "email": "carlos.augustomsc@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2025",
+  "whatsapp": "(81) 98825-7700",
+  "cidade": "Jaboatão dos Guararapes",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 60.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "29705",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-09 13:36:14",
+      "data_hora_confirmacao": "2025-05-09 13:38:00",
+      "data_hora_confirmacao_pagamento": "2025-05-09 13:38:00",
+      "valor_total_produtos": 43.32,
+      "valor_frete": 16.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 60.07,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN LT56A (C974) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "48243": {
+      "codigo": "48243",
+      "titulo": "Cuecas Peruanas - Boss LT56A (C982) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "48285": {
+      "codigo": "48285",
+      "titulo": "Cuecas Peruanas - Lacoste LT56A (C989) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

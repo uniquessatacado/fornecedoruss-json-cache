@@ -1,0 +1,104 @@
+{
+  "codigo": "9110",
+  "nome": "JOÃO GABRIEL",
+  "email": "janicearaujo611@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/05/2024",
+  "whatsapp": "(19) 99528-8032",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 187.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "11397",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-06 17:45:30",
+      "data_hora_confirmacao": "2024-05-07 17:58:16",
+      "data_hora_confirmacao_pagamento": "2024-05-07 18:19:57",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 92.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11500",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-08 16:56:13",
+      "data_hora_confirmacao": "2024-05-08 17:19:38",
+      "data_hora_confirmacao_pagamento": "2024-05-08 18:36:22",
+      "valor_total_produtos": 94.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 94.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17918": {
+      "codigo": "17918",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.146G": {
+      "codigo": "CD02.146G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER   - Cor: BEGE - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.150": {
+      "codigo": "CD02.150",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER    - Cor: VERMELHA - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.129G": {
+      "codigo": "CD02.129G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.130G": {
+      "codigo": "CD02.130G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD15.5G": {
+      "codigo": "CD15.5G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - ARMANI - Cor: CINZA - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

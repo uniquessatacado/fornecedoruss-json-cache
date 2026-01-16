@@ -1,0 +1,112 @@
+{
+  "codigo": "2056",
+  "nome": "ANTONIO EVANGELISTA",
+  "email": "aevangelista2008@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(15) 9970-15529",
+  "cidade": "Tatuí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 399.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "3495",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 12:44:04",
+      "data_hora_confirmacao": "2023-11-23 13:00:55",
+      "data_hora_confirmacao_pagamento": "2023-11-23 13:01:33",
+      "valor_total_produtos": 195,
+      "valor_frete": 15.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 210.95,
+      "desconto": 0,
+      "cidade": "Tatuí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16817",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 22:12:07",
+      "data_hora_confirmacao": "2024-07-25 12:25:16",
+      "data_hora_confirmacao_pagamento": "2024-07-25 12:25:10",
+      "valor_total_produtos": 169.96,
+      "valor_frete": 18.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 188.86,
+      "desconto": 0,
+      "cidade": "Tatuí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18133": {
+      "codigo": "18133",
+      "titulo": "CABO METRO TIPO C",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "24902": {
+      "codigo": "24902",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS recorte atrás  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25065": {
+      "codigo": "25065",
+      "titulo": "Bermuda Sarja Luxo Importada - Hugo boss - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA SARJA LUXO IMPORTADA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25087": {
+      "codigo": "25087",
+      "titulo": "Bermuda Linho Luxo Importada - POLO RALPH LAUREN  - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA LINHO LUXO IMPORTADA",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

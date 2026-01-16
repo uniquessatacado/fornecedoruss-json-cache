@@ -1,0 +1,88 @@
+{
+  "codigo": "1908",
+  "nome": "JOSÉ DE OLIVEIRA",
+  "email": "junin_kbuloso@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "29/08/2023",
+  "whatsapp": "(17) 99139-9383",
+  "cidade": "Novo Horizonte",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 185.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301120",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-02 15:34:33",
+      "data_hora_confirmacao": "2023-10-02 15:38:00",
+      "data_hora_confirmacao_pagamento": "2023-10-02 15:38:09",
+      "valor_total_produtos": 80,
+      "valor_frete": 17.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.68,
+      "desconto": 0,
+      "cidade": "Novo Horizonte",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7207",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-10 16:04:18",
+      "data_hora_confirmacao": "2024-02-14 11:07:43",
+      "data_hora_confirmacao_pagamento": "2024-02-14 11:07:36",
+      "valor_total_produtos": 74.99,
+      "valor_frete": 12.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.96,
+      "desconto": 0,
+      "cidade": "Novo Horizonte",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Escuro - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD26.6M": {
+      "codigo": "CD26.6M",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD69.14": {
+      "codigo": "CD69.14",
+      "titulo": "CAMISETA EGIPICIA COTTON - LOUIS VUITTON  LT20.12   - Cor: Preto - Marca: Louis Vitton - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD66.8": {
+      "codigo": "CD66.8",
+      "titulo": "CAMISETA PERUANA LUXO - PRADA   LT23.10 - Cor: Azul Marinho - Marca: Prada - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

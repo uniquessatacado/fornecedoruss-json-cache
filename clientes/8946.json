@@ -1,0 +1,69 @@
+{
+  "codigo": "8946",
+  "nome": "ADRIANO COELHO",
+  "email": "ac_eletricista@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(16) 9921-88785",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 170.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "12113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 17:42:37",
+      "data_hora_confirmacao": "2024-05-20 18:51:41",
+      "data_hora_confirmacao_pagamento": "2024-05-20 18:51:35",
+      "valor_total_produtos": 151.96,
+      "valor_frete": 18.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 170.01,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18351": {
+      "codigo": "18351",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18553": {
+      "codigo": "18553",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18596": {
+      "codigo": "18596",
+      "titulo": "Camiseta Suedine Nike Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "CD02.146G": {
+      "codigo": "CD02.146G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER   - Cor: BEGE - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

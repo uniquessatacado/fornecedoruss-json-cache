@@ -1,0 +1,45 @@
+{
+  "codigo": "6899",
+  "nome": "VALDIR GOMES",
+  "email": "valdirgomesdesa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(14) 99157-1629",
+  "cidade": "Garça",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "9554",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 20:08:50",
+      "data_hora_confirmacao": "2024-04-06 11:44:16",
+      "data_hora_confirmacao_pagamento": "2024-04-06 11:44:11",
+      "valor_total_produtos": 103.8,
+      "valor_frete": 16.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.21,
+      "desconto": 0,
+      "cidade": "Garça",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.01M": {
+      "codigo": "CD12.01M",
+      "titulo": "Polo Piquet Duplo - LACOSTE  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

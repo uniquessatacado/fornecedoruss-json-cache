@@ -1,0 +1,45 @@
+{
+  "codigo": "5144",
+  "nome": "JOÃO VITOR ANTUNES DOS SANTOS",
+  "email": "Vitorantunes012@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/01/2024",
+  "whatsapp": "(99) 9847-44298",
+  "cidade": "Timon",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96,
+  "pedidos": [
+    {
+      "codigo_pedido": "13966",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-18 15:32:01",
+      "data_hora_confirmacao": "2024-06-19 17:32:30",
+      "data_hora_confirmacao_pagamento": "2024-06-19 17:32:24",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 33.01,
+      "frete": "PAC",
+      "valor_total_pedido": 96,
+      "desconto": 0,
+      "cidade": "Timon",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20895": {
+      "codigo": "20895",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

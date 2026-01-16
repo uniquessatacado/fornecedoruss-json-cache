@@ -1,0 +1,69 @@
+{
+  "codigo": "15226",
+  "nome": "CRISLLEY ANTUNES BARBOSA",
+  "email": "crislleyantunes@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "05/09/2024",
+  "whatsapp": "(62) 9842-45620",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "23597",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-31 20:13:40",
+      "data_hora_confirmacao": "2024-11-01 11:01:18",
+      "data_hora_confirmacao_pagamento": "2024-11-01 11:01:10",
+      "valor_total_produtos": 99.96,
+      "valor_frete": 21.51,
+      "frete": "JADLOG",
+      "valor_total_pedido": 121.47,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31864": {
+      "codigo": "31864",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31868": {
+      "codigo": "31868",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31872": {
+      "codigo": "31872",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31876": {
+      "codigo": "31876",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

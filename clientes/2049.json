@@ -1,0 +1,107 @@
+{
+  "codigo": "2049",
+  "nome": "MATHEUS LISBOA",
+  "email": "Matheuslisboa79@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "01/09/2023",
+  "whatsapp": "(21) 97166-1035",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 203.79000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301863",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 21:51:07",
+      "data_hora_confirmacao": "2023-10-19 11:22:23",
+      "data_hora_confirmacao_pagamento": "2023-10-19 11:22:30",
+      "valor_total_produtos": 80,
+      "valor_frete": 16.48,
+      "frete": "JADLOG",
+      "valor_total_pedido": 96.48,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301970",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-19 13:25:43",
+      "data_hora_confirmacao": "2023-10-19 13:27:13",
+      "data_hora_confirmacao_pagamento": "2023-10-19 13:27:22",
+      "valor_total_produtos": 20,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 20,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7891",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-01 13:09:31",
+      "data_hora_confirmacao": "2024-03-01 13:12:41",
+      "data_hora_confirmacao_pagamento": "2024-03-01 13:12:20",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 15.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.31,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.5GG": {
+      "codigo": "CD29.5GG",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Azul Royal - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD68.02": {
+      "codigo": "CD68.02",
+      "titulo": "Bermuda Microfibra Hiper - HUGO BOSS - Cor: Verde Militar - Tamanho: G1",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

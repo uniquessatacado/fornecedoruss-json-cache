@@ -1,0 +1,45 @@
+{
+  "codigo": "8513",
+  "nome": "RUAN BARBOSA BAGETO",
+  "email": "ruanbageeto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(32) 99807-8251",
+  "cidade": "Barbacena",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 53.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "10719",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-25 23:29:29",
+      "data_hora_confirmacao": "2024-04-26 17:15:58",
+      "data_hora_confirmacao_pagamento": "2024-04-26 17:15:16",
+      "valor_total_produtos": 37,
+      "valor_frete": 16.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.16,
+      "desconto": 0,
+      "cidade": "Barbacena",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA12": {
+      "codigo": "PA12",
+      "titulo": "CORRENTE DE PRATA  VERNEZIANA   1MM 60CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "10879",
+  "nome": "CARLOS ROBERTO BOSCACHE JUNIOR",
+  "email": "jboscache@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(11) 94258-1898",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 72.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "13650",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 13:21:11",
+      "data_hora_confirmacao": "2024-06-15 19:33:36",
+      "data_hora_confirmacao_pagamento": "2024-06-15 19:33:29",
+      "valor_total_produtos": 59.74,
+      "valor_frete": 12.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.48,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21609": {
+      "codigo": "21609",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21693": {
+      "codigo": "21693",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: VERDE LIMA  - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

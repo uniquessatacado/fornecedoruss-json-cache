@@ -1,0 +1,61 @@
+{
+  "codigo": "6950",
+  "nome": "DOUGLAS SOUZA",
+  "email": "s.douglas18049121@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/03/2024",
+  "whatsapp": "(22) 99996-6991",
+  "cidade": "Macaé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "10664",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 20:16:46",
+      "data_hora_confirmacao": "2024-04-27 11:12:19",
+      "data_hora_confirmacao_pagamento": "2024-04-27 11:12:11",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 22.86,
+      "frete": "PAC",
+      "valor_total_pedido": 92.79,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23G": {
+      "codigo": "CD24.23G",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 3
+    },
+    "CD24.22G": {
+      "codigo": "CD24.22G",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.21G": {
+      "codigo": "CD24.21G",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

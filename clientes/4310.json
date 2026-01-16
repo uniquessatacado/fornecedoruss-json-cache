@@ -1,0 +1,69 @@
+{
+  "codigo": "4310",
+  "nome": "RAFAEL CARDOSO SOUZA CHUVER",
+  "email": "rafaelchuver@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(67) 99188-8276",
+  "cidade": "Campo Grande",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "4274",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 12:38:47",
+      "data_hora_confirmacao": "2023-12-08 12:43:46",
+      "data_hora_confirmacao_pagamento": "2023-12-08 12:43:57",
+      "valor_total_produtos": 100,
+      "valor_frete": 30.26,
+      "frete": "SEDEX",
+      "valor_total_pedido": 130.26,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.79": {
+      "codigo": "CD01.79",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11   - Tamanho: P - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.100": {
+      "codigo": "CD01.100",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - FLAMENGO  LT04.12  - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.84": {
+      "codigo": "CD01.84",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT10.11 - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: P - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

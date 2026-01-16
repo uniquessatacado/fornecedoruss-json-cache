@@ -1,0 +1,96 @@
+{
+  "codigo": "4593",
+  "nome": "THOMAS SILVA MARIANO",
+  "email": "tho.p1xz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/12/2023",
+  "whatsapp": "(19) 99444-7979",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 185,
+  "pedidos": [
+    {
+      "codigo_pedido": "4347",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-09 12:48:08",
+      "data_hora_confirmacao": "2023-12-11 11:09:25",
+      "data_hora_confirmacao_pagamento": "2023-12-11 11:09:34",
+      "valor_total_produtos": 145,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 155,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4387",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-11 13:07:30",
+      "data_hora_confirmacao": "2023-12-11 13:08:17",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.56": {
+      "codigo": "CD02.56",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI LT07.12   - Cor: Branca - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.55": {
+      "codigo": "CD02.55",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12    - Cor: OffWhite - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD13.6": {
+      "codigo": "CD13.6",
+      "titulo": "Camiseta standard Fit 1:1 - NIKE LT29.11 - Cor: Cinza Mescla - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.8": {
+      "codigo": "CD12.8",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT16.11 - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.53": {
+      "codigo": "CD02.53",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

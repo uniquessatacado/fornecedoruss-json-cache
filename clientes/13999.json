@@ -1,0 +1,88 @@
+{
+  "codigo": "13999",
+  "nome": "DAVI MORAIS OLIVEIRA",
+  "email": "moraisoliveiradavi@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(13) 99607-4142",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 176.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "18549",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 15:33:01",
+      "data_hora_confirmacao": "2024-08-14 10:28:17",
+      "data_hora_confirmacao_pagamento": "2024-08-14 10:28:10",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 11.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 66.69,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-26 23:36:31",
+      "data_hora_confirmacao": "2024-11-26 23:37:33",
+      "data_hora_confirmacao_pagamento": "2024-11-26 23:37:33",
+      "valor_total_produtos": 93.97,
+      "valor_frete": 15.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.93,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26614": {
+      "codigo": "26614",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27849": {
+      "codigo": "27849",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28958": {
+      "codigo": "28958",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31827": {
+      "codigo": "31827",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

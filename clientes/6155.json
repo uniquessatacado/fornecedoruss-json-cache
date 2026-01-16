@@ -1,0 +1,72 @@
+{
+  "codigo": "6155",
+  "nome": "WELINGTOM DA SILVA PEREIRA",
+  "email": "welington.silvapereira@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/02/2024",
+  "whatsapp": "(21) 9830-47319",
+  "cidade": "Duque de Caxias",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 130.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "7258",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-15 16:56:12",
+      "data_hora_confirmacao": "2024-02-15 17:00:12",
+      "data_hora_confirmacao_pagamento": "2024-02-15 17:00:03",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 27.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 67.4,
+      "desconto": 0,
+      "cidade": "Duque de Caxias",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26195",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-12 09:03:34",
+      "data_hora_confirmacao": "2024-12-12 09:05:48",
+      "data_hora_confirmacao_pagamento": "2024-12-12 09:05:48",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 26.22,
+      "frete": "PAC",
+      "valor_total_pedido": 63.21,
+      "desconto": 0,
+      "cidade": "Duque de Caxias",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37053": {
+      "codigo": "37053",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD29.6": {
+      "codigo": "CD29.6",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE - Cor: Vinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

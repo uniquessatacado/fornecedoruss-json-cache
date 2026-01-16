@@ -1,0 +1,45 @@
+{
+  "codigo": "2339",
+  "nome": "FABIO VARGAS ADAMI",
+  "email": "fvadami@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(27) 99974-1108",
+  "cidade": "Aracruz",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 17:56:12",
+      "data_hora_confirmacao": "2023-09-25 00:24:09",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:24:03",
+      "valor_total_produtos": 60,
+      "valor_frete": 29.76,
+      "frete": "PAC",
+      "valor_total_pedido": 89.76,
+      "desconto": 0,
+      "cidade": "Aracruz",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.19M": {
+      "codigo": "CD01.19M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

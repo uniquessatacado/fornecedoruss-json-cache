@@ -1,0 +1,53 @@
+{
+  "codigo": "20039",
+  "nome": "THIAGO RACHA DA SILVA ARAÚJO",
+  "email": "thiago7760@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "01/06/2025",
+  "whatsapp": "(21) 9442-1392",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "30091",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-02 17:33:48",
+      "data_hora_confirmacao": "2025-06-02 17:33:48",
+      "data_hora_confirmacao_pagamento": "2025-06-02 17:33:48",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 28.56,
+      "frete": "PAC",
+      "valor_total_pedido": 111.9,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48951": {
+      "codigo": "48951",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1103) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48976": {
+      "codigo": "48976",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT65A (C1107) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

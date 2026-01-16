@@ -1,0 +1,85 @@
+{
+  "codigo": "3047",
+  "nome": "LUAN GUSTAVO CRUZ",
+  "email": "gustavoluan007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(31) 97169-4167",
+  "cidade": "Santa Maria de Itabira",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 148.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302043",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 09:56:16",
+      "data_hora_confirmacao": "2023-10-23 14:50:50",
+      "data_hora_confirmacao_pagamento": "2023-10-23 14:51:03",
+      "valor_total_produtos": 125.5,
+      "valor_frete": 23.19,
+      "frete": "PAC",
+      "valor_total_pedido": 148.69,
+      "desconto": 0,
+      "cidade": "Santa Maria de Itabira",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.33G - Dolce&Gabbana": {
+      "codigo": "CD24.33G - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Preto - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Cinza - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD24.32G - Hugo Boss": {
+      "codigo": "CD24.32G - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.32M - Hugo Boss": {
+      "codigo": "CD24.32M - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD17.35M": {
+      "codigo": "CD17.35M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.31M - CALVIN KLEIN": {
+      "codigo": "CD24.31M - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    }
+  }
+}

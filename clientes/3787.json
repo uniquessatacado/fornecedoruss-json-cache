@@ -1,0 +1,85 @@
+{
+  "codigo": "3787",
+  "nome": "DAVID ALVES FERREIRA LIRA",
+  "email": "davidlacost49@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/10/2023",
+  "whatsapp": "(13) 99731-3007",
+  "cidade": "Bertioga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "2384",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 19:38:32",
+      "data_hora_confirmacao": "2023-10-31 13:58:53",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:59:02",
+      "valor_total_produtos": 85,
+      "valor_frete": 12.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.96,
+      "desconto": 0,
+      "cidade": "Bertioga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.35G - HUGO BOSS": {
+      "codigo": "CD24.35G - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.36M - BROOKSFIELD": {
+      "codigo": "CD24.36M - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Azul Marinho - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": 3
+    },
+    "CD24.36M - HUGO BOSS": {
+      "codigo": "CD24.36M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Preto - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD24.36G - BROOKSFIELD": {
+      "codigo": "CD24.36G - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Vermelha - Marca: Brooksfield - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

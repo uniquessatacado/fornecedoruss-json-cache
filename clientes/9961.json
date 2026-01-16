@@ -1,0 +1,53 @@
+{
+  "codigo": "9961",
+  "nome": "ADENILSON GOMES DOS SANTOS",
+  "email": "adenilsons079@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/05/2024",
+  "whatsapp": "(14) 99803-1581",
+  "cidade": "Ipaussu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "12633",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-26 19:25:06",
+      "data_hora_confirmacao": "2024-05-27 17:10:04",
+      "data_hora_confirmacao_pagamento": "2024-05-27 17:09:22",
+      "valor_total_produtos": 37.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.91,
+      "desconto": 0,
+      "cidade": "Ipaussu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19753": {
+      "codigo": "19753",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19754": {
+      "codigo": "19754",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

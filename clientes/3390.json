@@ -1,0 +1,104 @@
+{
+  "codigo": "3390",
+  "nome": "MARCIO LUIS DE OLIVEIRA",
+  "email": "marcio.grelo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(16) 99202-1571",
+  "cidade": "Ibaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 349.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301506",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-09 20:55:14",
+      "data_hora_confirmacao": "2023-10-09 22:39:40",
+      "data_hora_confirmacao_pagamento": "2023-10-09 22:40:28",
+      "valor_total_produtos": 182.8,
+      "valor_frete": 20.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 203.16,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20620",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-08 12:08:35",
+      "data_hora_confirmacao": "2024-09-09 10:08:15",
+      "data_hora_confirmacao_pagamento": "2024-09-09 10:08:08",
+      "valor_total_produtos": 125.97,
+      "valor_frete": 20.7,
+      "frete": "JADLOG",
+      "valor_total_pedido": 146.67,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28839": {
+      "codigo": "28839",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte em pelúcia - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28857": {
+      "codigo": "28857",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte composta - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28875": {
+      "codigo": "28875",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD10.8M": {
+      "codigo": "CD10.8M",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.9M": {
+      "codigo": "CD08.9M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Preto - Marca: Diesel - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.32M": {
+      "codigo": "CD08.32M",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Hugo Boss - Cor: Branco e Verde - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "17252",
+  "nome": "PEDRO EDUARDO",
+  "email": "pedro.grumix@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(11) 9752-24402",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 375.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "23957",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-08 10:18:06",
+      "data_hora_confirmacao": "2024-11-08 10:22:19",
+      "data_hora_confirmacao_pagamento": "2024-11-08 10:22:19",
+      "valor_total_produtos": 203.96,
+      "valor_frete": 15.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 219.36,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24403",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-14 13:07:27",
+      "data_hora_confirmacao": "2024-11-14 13:09:13",
+      "data_hora_confirmacao_pagamento": "2024-11-14 13:09:13",
+      "valor_total_produtos": 142.96,
+      "valor_frete": 13.31,
+      "frete": "LOGGI",
+      "valor_total_pedido": 156.27,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22898": {
+      "codigo": "22898",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO CURTO - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31629": {
+      "codigo": "31629",
+      "titulo": "Tênis Nike Air Force React - NIKE - Cor: PRETO BRANCO CHUMBO - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33295": {
+      "codigo": "33295",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33301": {
+      "codigo": "33301",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33585": {
+      "codigo": "33585",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33830": {
+      "codigo": "33830",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33871": {
+      "codigo": "33871",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico interno - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34237": {
+      "codigo": "34237",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

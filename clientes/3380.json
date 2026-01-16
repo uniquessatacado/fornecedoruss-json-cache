@@ -1,0 +1,131 @@
+{
+  "codigo": "3380",
+  "nome": "FLAVIO CORREIA DE MELO",
+  "email": "flavio.melo.734@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(19) 97155-0966",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 230.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301491",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-09 14:05:29",
+      "data_hora_confirmacao": "2023-10-09 14:15:19",
+      "data_hora_confirmacao_pagamento": "2023-10-09 14:20:57",
+      "valor_total_produtos": 71,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301497",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-09 17:37:19",
+      "data_hora_confirmacao": "2023-10-09 17:38:20",
+      "data_hora_confirmacao_pagamento": "2023-10-09 17:41:24",
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5005",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-18 16:46:03",
+      "data_hora_confirmacao": "2023-12-18 16:50:46",
+      "data_hora_confirmacao_pagamento": "2023-12-18 16:50:55",
+      "valor_total_produtos": 129.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 129.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.24M": {
+      "codigo": "CD17.24M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.35G2": {
+      "codigo": "CD02.35G2",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Branca - Marca: Quiksilver - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.26G": {
+      "codigo": "CD02.26G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.53": {
+      "codigo": "CD17.53",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.44": {
+      "codigo": "CD17.44",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11    - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.69": {
+      "codigo": "CD02.69",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12   - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.73": {
+      "codigo": "CD02.73",
+      "titulo": "Camiseta 40.1 Ultra Premium - CYCLONE  LT18.12   - Cor: Vermelha - Marca: Cyclone - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "CYCLONE",
+      "quantidade": "1"
+    }
+  }
+}

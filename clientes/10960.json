@@ -1,0 +1,53 @@
+{
+  "codigo": "10960",
+  "nome": "JOÃO JOSÉ",
+  "email": "netoj3409@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/06/2024",
+  "whatsapp": "(62) 98570-8607",
+  "cidade": "Inhumas",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "13761",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 10:23:30",
+      "data_hora_confirmacao": "2024-06-15 12:01:26",
+      "data_hora_confirmacao_pagamento": "2024-06-15 12:01:20",
+      "valor_total_produtos": 72.36,
+      "valor_frete": 22.25,
+      "frete": "PAC",
+      "valor_total_pedido": 94.61,
+      "desconto": 0,
+      "cidade": "Inhumas",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16946": {
+      "codigo": "16946",
+      "titulo": "Conjuntos Femininos  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21690": {
+      "codigo": "21690",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

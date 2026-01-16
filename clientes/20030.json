@@ -1,0 +1,61 @@
+{
+  "codigo": "20030",
+  "nome": "ORLANDA VALADARES",
+  "email": "orlanda.2010@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "30/05/2025",
+  "whatsapp": "(62) 98463-6330",
+  "cidade": "Porangatu",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "30060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-30 13:13:44",
+      "data_hora_confirmacao": "2025-05-30 13:19:49",
+      "data_hora_confirmacao_pagamento": "2025-05-30 13:19:49",
+      "valor_total_produtos": 77.76,
+      "valor_frete": 33.98,
+      "frete": "PAC",
+      "valor_total_pedido": 111.74,
+      "desconto": 0,
+      "cidade": "Porangatu",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "42502": {
+      "codigo": "42502",
+      "titulo": "Cueca Peruana LT29A (C636)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45926": {
+      "codigo": "45926",
+      "titulo": "Cueca Peruana LT36A (C776) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "47772": {
+      "codigo": "47772",
+      "titulo": "Camiseta 40.1 ARMANI | Conforto Essencial LT51A (C906) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

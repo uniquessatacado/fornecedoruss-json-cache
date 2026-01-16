@@ -1,0 +1,96 @@
+{
+  "codigo": "9742",
+  "nome": "FLAVIO FARIA",
+  "email": "flaviofunecas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(11) 98637-8364",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 116.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "18007",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-07 11:22:04",
+      "data_hora_confirmacao": "2024-08-07 13:11:47",
+      "data_hora_confirmacao_pagamento": "2024-08-07 13:11:39",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 65.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22653",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-10 16:21:13",
+      "data_hora_confirmacao": "2024-10-10 17:59:04",
+      "data_hora_confirmacao_pagamento": "2024-10-10 17:58:58",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.86,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26604": {
+      "codigo": "26604",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30571": {
+      "codigo": "30571",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30593": {
+      "codigo": "30593",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "30599": {
+      "codigo": "30599",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "31403": {
+      "codigo": "31403",
+      "titulo": "Cuecas Peruanas - EMPÓRIO ARMANI - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

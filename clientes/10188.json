@@ -1,0 +1,61 @@
+{
+  "codigo": "10188",
+  "nome": "IGOR ALVES PEREIRA",
+  "email": "alvespereiraigor@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(11) 9770-15514",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 71.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "14121",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 20:09:10",
+      "data_hora_confirmacao": "2024-06-20 10:40:35",
+      "data_hora_confirmacao_pagamento": "2024-06-20 10:40:29",
+      "valor_total_produtos": 58.97,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.18,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19557": {
+      "codigo": "19557",
+      "titulo": "Cuecas Peruanas - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "19565": {
+      "codigo": "19565",
+      "titulo": "Cuecas Peruanas - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "22263": {
+      "codigo": "22263",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

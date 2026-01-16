@@ -1,0 +1,80 @@
+{
+  "codigo": "7983",
+  "nome": "MATHEUS BORGES",
+  "email": "theusborges61@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/04/2024",
+  "whatsapp": "(11) 94508-5652",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 110.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "9946",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 10:33:54",
+      "data_hora_confirmacao": "2024-04-15 13:40:26",
+      "data_hora_confirmacao_pagamento": "2024-04-12 11:52:27",
+      "valor_total_produtos": 57.89,
+      "valor_frete": 13.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.5,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10069",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-15 13:39:19",
+      "data_hora_confirmacao": "2024-04-15 13:39:19",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 38.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.9,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.13M": {
+      "codigo": "CD39.13M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA)  - Cor: OFFWHITE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.03": {
+      "codigo": "CD43.03",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.12M": {
+      "codigo": "CD39.12M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA) - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

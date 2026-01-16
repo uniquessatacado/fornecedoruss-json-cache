@@ -1,0 +1,69 @@
+{
+  "codigo": "8989",
+  "nome": "EDSON DA SILVA SOARES",
+  "email": "edson.soares2502@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(11) 93314-7267",
+  "cidade": "Taboão da Serra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 208.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "11239",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 14:20:13",
+      "data_hora_confirmacao": "2024-05-03 15:01:07",
+      "data_hora_confirmacao_pagamento": "2024-05-03 15:00:57",
+      "valor_total_produtos": 181.96,
+      "valor_frete": 26.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 208.51,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18048": {
+      "codigo": "18048",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18051": {
+      "codigo": "18051",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18067": {
+      "codigo": "18067",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18073": {
+      "codigo": "18073",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

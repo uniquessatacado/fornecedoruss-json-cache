@@ -1,0 +1,147 @@
+{
+  "codigo": "5003",
+  "nome": "PATRIK REIS PRATES",
+  "email": "patrikreis23@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(51) 99852-7785",
+  "cidade": "Minas do Leão",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 372.28999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "5667",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 19:06:59",
+      "data_hora_confirmacao": "2023-12-26 12:11:16",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:11:25",
+      "valor_total_produtos": 177.98,
+      "valor_frete": 18.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 196.44,
+      "desconto": 0,
+      "cidade": "Minas do Leão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5758",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-23 18:09:57",
+      "data_hora_confirmacao": "2023-12-26 12:03:06",
+      "data_hora_confirmacao_pagamento": "2023-12-26 12:03:15",
+      "valor_total_produtos": 129.92,
+      "valor_frete": 17.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 147.85,
+      "desconto": 0,
+      "cidade": "Minas do Leão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6015",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-29 15:29:09",
+      "data_hora_confirmacao": "2023-12-29 15:30:36",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 28,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 28,
+      "desconto": 0,
+      "cidade": "Minas do Leão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.57": {
+      "codigo": "CD02.57",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE  LT07.12 - Cor: Vermelha - Marca: Hang Loose - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD39.38": {
+      "codigo": "CD39.38",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT19.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD67.24": {
+      "codigo": "CD67.24",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER  LT18.12    - Cor: Preto - Tamanho: 38",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.20": {
+      "codigo": "CD67.20",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER   LT18.12 - Cor: Preto com Azul - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD57.3 ": {
+      "codigo": "CD57.3 ",
+      "titulo": "REGATAS DRIFIT ULTRA -  LACOSTE  12.12   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul Bebê - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.45": {
+      "codigo": "CD39.45",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT23.12    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD67.19": {
+      "codigo": "CD67.19",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12 - Cor: Preto - Tamanho: 38",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

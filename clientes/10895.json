@@ -1,0 +1,88 @@
+{
+  "codigo": "10895",
+  "nome": "MATHEUS DE SOUZA NOGUEIRA",
+  "email": "matheusnogueira67@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(65) 99673-3099",
+  "cidade": "Cuiabá",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 239.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "14203",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 14:38:12",
+      "data_hora_confirmacao": "2024-06-24 11:55:20",
+      "data_hora_confirmacao_pagamento": "2024-06-24 11:55:15",
+      "valor_total_produtos": 151.17,
+      "valor_frete": 21.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 173.07,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "15101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 14:13:39",
+      "data_hora_confirmacao": "2024-07-05 16:14:50",
+      "data_hora_confirmacao_pagamento": "2024-07-05 16:15:31",
+      "valor_total_produtos": 50.39,
+      "valor_frete": 16.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.4,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "22384": {
+      "codigo": "22384",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22409": {
+      "codigo": "22409",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22412": {
+      "codigo": "22412",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23131": {
+      "codigo": "23131",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR arte em bordado  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

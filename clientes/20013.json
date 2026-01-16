@@ -1,0 +1,419 @@
+{
+  "codigo": "20013",
+  "nome": "WUESLEY SILVA",
+  "email": "wuesleysilva66@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "27/05/2025",
+  "whatsapp": "(66) 9844-55230",
+  "cidade": "Lucas do Rio Verde",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 2901.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "30010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-27 15:49:22",
+      "data_hora_confirmacao": "2025-05-27 15:59:46",
+      "data_hora_confirmacao_pagamento": "2025-05-27 15:59:46",
+      "valor_total_produtos": 1038.64,
+      "valor_frete": 102.33,
+      "frete": "PAC",
+      "valor_total_pedido": 1140.97,
+      "desconto": 0,
+      "cidade": "Lucas do Rio Verde",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30024",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-28 09:59:22",
+      "data_hora_confirmacao": "2025-05-28 10:02:26",
+      "data_hora_confirmacao_pagamento": "2025-05-28 09:59:22",
+      "valor_total_produtos": 97.02,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 97.02,
+      "desconto": 0,
+      "cidade": "Lucas do Rio Verde",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31241",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-09 12:29:00",
+      "data_hora_confirmacao": "2025-08-09 12:30:02",
+      "data_hora_confirmacao_pagamento": "2025-08-09 12:30:02",
+      "valor_total_produtos": 1463.17,
+      "valor_frete": 200.53,
+      "frete": "SEDEX",
+      "valor_total_pedido": 1663.7,
+      "desconto": 0,
+      "cidade": "Lucas do Rio Verde",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41814": {
+      "codigo": "41814",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C520) - Cor: PRETO MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "2"
+    },
+    "41859": {
+      "codigo": "41859",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C526) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "46879": {
+      "codigo": "46879",
+      "titulo": "Camisa Polo Lacoste Azul Claro - Clássica, Elegante e Atemporal | Piquet Premium - Cor: AZUL BEBE - Marca: Lacoste - Tamanho: P",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "47181": {
+      "codigo": "47181",
+      "titulo": "Camiseta Just Do It Suedine | Minimalismo com peso . bolso  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47211": {
+      "codigo": "47211",
+      "titulo": "Camiseta Suedine Louis Vuitton com bolso | Minimalismo & Impacto Visual - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47223": {
+      "codigo": "47223",
+      "titulo": "Camiseta Suedine Louis Vuitton com bolso | Luxo Discreto & Estilo Street - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47458": {
+      "codigo": "47458",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C868)  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47470": {
+      "codigo": "47470",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C872)    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47473": {
+      "codigo": "47473",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C872)    - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47618": {
+      "codigo": "47618",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C892) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47619": {
+      "codigo": "47619",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C892) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": 3
+    },
+    "47620": {
+      "codigo": "47620",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C892) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47622": {
+      "codigo": "47622",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C893) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47629": {
+      "codigo": "47629",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C893) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "47642": {
+      "codigo": "47642",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C895)   - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47643": {
+      "codigo": "47643",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C895)   - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47644": {
+      "codigo": "47644",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C895)   - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47659": {
+      "codigo": "47659",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C896)  - Cor: VERDE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47660": {
+      "codigo": "47660",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C896)  - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47661": {
+      "codigo": "47661",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C896)  - Cor: VERDE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47663": {
+      "codigo": "47663",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C898) - Cor: AZUL ROYAL - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47677": {
+      "codigo": "47677",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C898) - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47797": {
+      "codigo": "47797",
+      "titulo": "Moletom 3 Cabos Importado - Nike Bordado LT49A (C913) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48012": {
+      "codigo": "48012",
+      "titulo": "Camiseta Pima Hugo Boss Essencial LT51A (C943) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48028": {
+      "codigo": "48028",
+      "titulo": "Camiseta Pima Lacoste Essencial LT51A (C945) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "48032": {
+      "codigo": "48032",
+      "titulo": "Camiseta Pima Armani Essencial LT51A (C942) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48053": {
+      "codigo": "48053",
+      "titulo": "Camiseta Suedine Ultra Armani ARTE EM DTF LT53A (C951) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "48311": {
+      "codigo": "48311",
+      "titulo": "Moletom 3 Cabos Premium Louis Vuitton | Alta Gramatura LT57A (C994) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48417": {
+      "codigo": "48417",
+      "titulo": "Camiseta Suedine 1:1 Ultra Diesel | ARTE EM DTF LT58A (C1013) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "49543": {
+      "codigo": "49543",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | LT68A (C1186) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51192": {
+      "codigo": "51192",
+      "titulo": "Camiseta Malha Egípcia Soft Boss - Estampa emborrachada LT010 - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51272": {
+      "codigo": "51272",
+      "titulo": "Camiseta Malha Egípcia Soft Armani - Bordado LT010 - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51276": {
+      "codigo": "51276",
+      "titulo": "Camiseta Malha Egípcia Soft Armani - Bordado LT010 - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51435": {
+      "codigo": "51435",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "51437": {
+      "codigo": "51437",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "51439": {
+      "codigo": "51439",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: BEGE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "51443": {
+      "codigo": "51443",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51447": {
+      "codigo": "51447",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: BEGE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51449": {
+      "codigo": "51449",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "51953": {
+      "codigo": "51953",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "52064": {
+      "codigo": "52064",
+      "titulo": "Camiseta Pima Premium Armani (LT011) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "52929": {
+      "codigo": "52929",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52935": {
+      "codigo": "52935",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

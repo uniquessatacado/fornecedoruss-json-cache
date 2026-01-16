@@ -1,0 +1,85 @@
+{
+  "codigo": "1513",
+  "nome": "MARCELHANO DE SOUSA",
+  "email": "marcelhano@yahoo.com.br",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(32) 9887-56567",
+  "cidade": "Cataguases",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 243.52,
+  "pedidos": [
+    {
+      "codigo_pedido": "19046",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-19 11:15:12",
+      "data_hora_confirmacao": "2024-08-21 10:27:00",
+      "data_hora_confirmacao_pagamento": "2024-08-21 10:26:53",
+      "valor_total_produtos": 217.94,
+      "valor_frete": 25.58,
+      "frete": "JADLOG",
+      "valor_total_pedido": 243.52,
+      "desconto": 0,
+      "cidade": "Cataguases",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26956": {
+      "codigo": "26956",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO arte em pelúcia - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27337": {
+      "codigo": "27337",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIOR arte em bordado madeira - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "27726": {
+      "codigo": "27726",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em bordado - Cor: AREIA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27812": {
+      "codigo": "27812",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - ARAMIS arte em termogel - Cor: AREIA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ARAMIS",
+      "quantidade": "1"
+    },
+    "27848": {
+      "codigo": "27848",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27911": {
+      "codigo": "27911",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NEW ERA arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "Vans",
+      "quantidade": "1"
+    }
+  }
+}

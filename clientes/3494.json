@@ -1,0 +1,77 @@
+{
+  "codigo": "3494",
+  "nome": "GUILHERME TEIXEIRA",
+  "email": "guilhermevidaloca1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/10/2023",
+  "whatsapp": "(61) 99633-1932",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 236.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "3134",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-14 19:00:11",
+      "data_hora_confirmacao": "2023-11-14 19:09:37",
+      "data_hora_confirmacao_pagamento": "2023-11-14 19:09:47",
+      "valor_total_produtos": 211.99,
+      "valor_frete": 24.71,
+      "frete": "PAC",
+      "valor_total_pedido": 236.7,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD54": {
+      "codigo": "CD54",
+      "titulo": "Pulseira Cartier 2mm  70cm",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD48": {
+      "codigo": "CD48",
+      "titulo": "PRATA ESCAMA 2MM   70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "PRATAS",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD01.94": {
+      "codigo": "CD01.94",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BOCA JR   LT13.11  - Tamanho: G - Times : Boca Jr",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

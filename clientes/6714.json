@@ -1,0 +1,53 @@
+{
+  "codigo": "6714",
+  "nome": "ELEANDRO MARQUES PEREIRA PEDRO",
+  "email": "eleandromarques22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2024",
+  "whatsapp": "(19) 9874-32355",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 29.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "8205",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 13:00:32",
+      "data_hora_confirmacao": "2024-03-11 13:09:56",
+      "data_hora_confirmacao_pagamento": "2024-03-11 13:09:50",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 9.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 29.68,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.08GG": {
+      "codigo": "CD24.08GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.07GG": {
+      "codigo": "CD24.07GG",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

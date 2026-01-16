@@ -1,0 +1,96 @@
+{
+  "codigo": "7746",
+  "nome": "PAULO VITOR DINIZ",
+  "email": "paulo.viitor.diniz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/04/2024",
+  "whatsapp": "(33) 98868-5953",
+  "cidade": "Caratinga",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 183.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "9770",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 18:43:37",
+      "data_hora_confirmacao": "2024-04-10 09:26:25",
+      "data_hora_confirmacao_pagamento": "2024-04-10 09:26:20",
+      "valor_total_produtos": 77.8,
+      "valor_frete": 19.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.58,
+      "desconto": 0,
+      "cidade": "Caratinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16263",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-17 16:27:22",
+      "data_hora_confirmacao": "2024-07-18 16:05:00",
+      "data_hora_confirmacao_pagamento": "2024-07-18 16:04:52",
+      "valor_total_produtos": 65.97,
+      "valor_frete": 20.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 86.1,
+      "desconto": 0,
+      "cidade": "Caratinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24869": {
+      "codigo": "24869",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24875": {
+      "codigo": "24875",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24878": {
+      "codigo": "24878",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10G": {
+      "codigo": "CD39.10G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11G": {
+      "codigo": "CD39.11G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

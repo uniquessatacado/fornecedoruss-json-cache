@@ -1,0 +1,69 @@
+{
+  "codigo": "11654",
+  "nome": "ANTONIO CARLOS BARROS DOS SANTOS",
+  "email": "titinha_zueira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/06/2024",
+  "whatsapp": "(77) 9914-64527",
+  "cidade": "Mortugaba",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 162.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "22903",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-16 13:44:16",
+      "data_hora_confirmacao": "2024-10-18 12:49:57",
+      "data_hora_confirmacao_pagamento": "2024-10-18 12:49:48",
+      "valor_total_produtos": 120.96,
+      "valor_frete": 41.1,
+      "frete": "PAC",
+      "valor_total_pedido": 162.06,
+      "desconto": 0,
+      "cidade": "Mortugaba",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31424": {
+      "codigo": "31424",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "32390": {
+      "codigo": "32390",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS arte em silk - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32556": {
+      "codigo": "32556",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32561": {
+      "codigo": "32561",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

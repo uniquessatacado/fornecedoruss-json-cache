@@ -1,0 +1,53 @@
+{
+  "codigo": "1703",
+  "nome": "DENNIS RIBEIRO",
+  "email": "dennisyuri1@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(11) 96066-8642",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "10435",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 11:27:39",
+      "data_hora_confirmacao": "2024-04-22 11:00:19",
+      "data_hora_confirmacao_pagamento": "2024-04-22 11:00:15",
+      "valor_total_produtos": 85.98,
+      "valor_frete": 11.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.61,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CF1.1M": {
+      "codigo": "CF1.1M",
+      "titulo": "CONJUNTO FEMINO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD4.18M": {
+      "codigo": "CD4.18M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO ESCRITA INTERNA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

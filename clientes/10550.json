@@ -1,0 +1,69 @@
+{
+  "codigo": "10550",
+  "nome": "BRUNO MACHADO MORGADO",
+  "email": "brunnomorgadosd@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(21) 96443-6184",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 178.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "13210",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 12:59:26",
+      "data_hora_confirmacao": "2024-06-10 14:56:31",
+      "data_hora_confirmacao_pagamento": "2024-06-10 14:56:23",
+      "valor_total_produtos": 151.96,
+      "valor_frete": 26.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 178.26,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20204": {
+      "codigo": "20204",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA PRADA - Cor: Kit Preto-Vermelho-Cinza - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "20207": {
+      "codigo": "20207",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA GUCCI - Cor: Kit Preto-Branco-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "20214": {
+      "codigo": "20214",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ADIDAS - Cor: Kit Preto-Branco-Cinza - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20221": {
+      "codigo": "20221",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA DIESEL - Cor: Kit Preto-Branco-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

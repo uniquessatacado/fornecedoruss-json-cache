@@ -1,0 +1,96 @@
+{
+  "codigo": "4186",
+  "nome": "LEANDRO GONAÇALVES SILVA",
+  "email": "tripabreno@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/11/2023",
+  "whatsapp": "(11) 97993-7644",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 235.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "3469",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-22 19:17:18",
+      "data_hora_confirmacao": "2023-11-23 09:44:20",
+      "data_hora_confirmacao_pagamento": "2023-11-23 09:44:30",
+      "valor_total_produtos": 62,
+      "valor_frete": 10.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5129",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 20:25:45",
+      "data_hora_confirmacao": "2023-12-20 08:08:52",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:09:02",
+      "valor_total_produtos": 146.91,
+      "valor_frete": 15.43,
+      "frete": "SEDEX",
+      "valor_total_pedido": 162.34,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    }
+  }
+}

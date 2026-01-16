@@ -1,0 +1,45 @@
+{
+  "codigo": "8529",
+  "nome": "HENRIQUE GONÇALVES DE SOUZA",
+  "email": "Goncalveshenrique709@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(11) 99366-9100",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "19070",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-19 14:58:31",
+      "data_hora_confirmacao": "2024-08-21 10:30:40",
+      "data_hora_confirmacao_pagamento": "2024-08-21 10:30:33",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 65.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28002": {
+      "codigo": "28002",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

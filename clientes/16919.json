@@ -1,0 +1,53 @@
+{
+  "codigo": "16919",
+  "nome": "CARLOS EDUARDO",
+  "email": "6kako7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2024",
+  "whatsapp": "(81) 99111-8136",
+  "cidade": "Itambé",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 167.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "23380",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-26 13:45:49",
+      "data_hora_confirmacao": "2024-10-28 14:47:17",
+      "data_hora_confirmacao_pagamento": "2024-10-28 14:47:30",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 35.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.41,
+      "desconto": 0,
+      "cidade": "Itambé",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21408": {
+      "codigo": "21408",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30087": {
+      "codigo": "30087",
+      "titulo": "Camisa de time Tailandesa 1.1 SÃO PAULO 2024/25 TORCEDOR- FEMININA- (envio direto da fabrica)   - Tamanho: P - Times : São Paulo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

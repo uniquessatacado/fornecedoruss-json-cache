@@ -1,0 +1,61 @@
+{
+  "codigo": "9532",
+  "nome": "MARCOS DE SOUZA",
+  "email": "mvbs18@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(42) 99132-0796",
+  "cidade": "Ponta Grossa",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "15559",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 16:34:35",
+      "data_hora_confirmacao": "2024-07-12 12:18:12",
+      "data_hora_confirmacao_pagamento": "2024-07-12 12:18:06",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 18.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.85,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22941": {
+      "codigo": "22941",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA HUGO NIKE - CANO LONGO - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24132": {
+      "codigo": "24132",
+      "titulo": "Calça Microfibra Ultra - NIKE elástico interno  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24148": {
+      "codigo": "24148",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

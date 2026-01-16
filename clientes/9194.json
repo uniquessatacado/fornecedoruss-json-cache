@@ -1,0 +1,45 @@
+{
+  "codigo": "9194",
+  "nome": "MATEUS MELO",
+  "email": "mateusmelo.2015@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/05/2024",
+  "whatsapp": "(11) 9177-40927",
+  "cidade": "Cajamar",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 59.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "11492",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-08 07:41:35",
+      "data_hora_confirmacao": "2024-05-08 16:35:48",
+      "data_hora_confirmacao_pagamento": "2024-05-08 16:35:39",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.92,
+      "desconto": 0,
+      "cidade": "Cajamar",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CF1.2P": {
+      "codigo": "CF1.2P",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: VINHO - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

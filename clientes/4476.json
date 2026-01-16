@@ -1,0 +1,61 @@
+{
+  "codigo": "4476",
+  "nome": "GABRIEL JUNQUEIRA",
+  "email": "gabrieljunqueira91@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/12/2023",
+  "whatsapp": "(17) 9963-39830",
+  "cidade": "Jaborandi",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "4367",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-10 12:43:16",
+      "data_hora_confirmacao": "2023-12-11 10:39:35",
+      "data_hora_confirmacao_pagamento": "2023-12-11 10:39:47",
+      "valor_total_produtos": 136.8,
+      "valor_frete": 19.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 155.9,
+      "desconto": 0,
+      "cidade": "Jaborandi",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD61.18": {
+      "codigo": "CD61.18",
+      "titulo": "Óculos  Juliet - ROXO  LT07.12 - Cor da Armação: Chumbo - Cor da Lente: Roxo - Kit Borracha: Roxo - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.12": {
+      "codigo": "CD59.12",
+      "titulo": "Óculos  Penny - VERMELHO C/LARANJA LT05.12  - Cor da Armação: Prata - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "4895",
+  "nome": "JOSE LUIZ",
+  "email": "",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 57,
+  "pedidos": [
+    {
+      "codigo_pedido": "5351",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 16:54:24",
+      "data_hora_confirmacao": "2023-12-20 16:54:24",
+      "data_hora_confirmacao_pagamento": "2023-12-20 16:54:24",
+      "valor_total_produtos": 57,
+      "valor_frete": 0,
+      "frete": "",
+      "valor_total_pedido": 57,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "PDV",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Azul Bebê - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

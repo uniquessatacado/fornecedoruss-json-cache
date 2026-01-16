@@ -1,0 +1,45 @@
+{
+  "codigo": "18009",
+  "nome": "EDUARDO BATISTA",
+  "email": "eduardo.paula13@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "01/12/2024",
+  "whatsapp": "(34) 99944-7807",
+  "cidade": "Araxá",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "25500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 20:19:43",
+      "data_hora_confirmacao": "2024-12-01 20:20:15",
+      "data_hora_confirmacao_pagamento": "2024-12-01 20:20:15",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.78,
+      "desconto": 0,
+      "cidade": "Araxá",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35375": {
+      "codigo": "35375",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

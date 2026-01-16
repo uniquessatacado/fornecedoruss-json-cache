@@ -1,0 +1,72 @@
+{
+  "codigo": "2103",
+  "nome": "BRUNO MARQUES",
+  "email": "omarquesoficial@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/09/2023",
+  "whatsapp": "(11) 94794-9358",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 149.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "2803",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 15:59:44",
+      "data_hora_confirmacao": "2023-11-07 22:25:48",
+      "data_hora_confirmacao_pagamento": "2023-11-07 22:26:02",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.78,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2848",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 10:34:54",
+      "data_hora_confirmacao": "2023-11-08 10:56:54",
+      "data_hora_confirmacao_pagamento": "2023-11-08 10:57:04",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.78,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.55": {
+      "codigo": "CD16.55",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS   LT06.11 - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.53": {
+      "codigo": "CD16.53",
+      "titulo": "Camisetas de Time Tailandesas - SÃO PAULO   LT06.11  - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

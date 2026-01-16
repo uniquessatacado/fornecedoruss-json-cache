@@ -1,0 +1,61 @@
+{
+  "codigo": "15798",
+  "nome": "DOUGLAS DA SILVA VIEIRA",
+  "email": "douglas.silva.vieira14@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2024",
+  "whatsapp": "(69) 99359-6866",
+  "cidade": "Porto Velho",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "21354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 11:30:15",
+      "data_hora_confirmacao": "2024-09-19 11:47:04",
+      "data_hora_confirmacao_pagamento": "2024-09-19 11:46:59",
+      "valor_total_produtos": 82.97,
+      "valor_frete": 27.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.98,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18122": {
+      "codigo": "18122",
+      "titulo": "FONTE USB-C + CABO IPHONE PADRÃO  - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18148": {
+      "codigo": "18148",
+      "titulo": "TECLADO GAMER LED RGB COM FIO - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "TECLADOS",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "30426": {
+      "codigo": "30426",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

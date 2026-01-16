@@ -1,0 +1,61 @@
+{
+  "codigo": "1901",
+  "nome": "JOÃO VICTOR GOMES",
+  "email": "jv7gomes2002@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "29/08/2023",
+  "whatsapp": "(61) 9946-02000",
+  "cidade": "Águas Lindas de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 125.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "16453",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 16:43:22",
+      "data_hora_confirmacao": "2024-07-20 10:10:24",
+      "data_hora_confirmacao_pagamento": "2024-07-20 10:10:18",
+      "valor_total_produtos": 98.97,
+      "valor_frete": 26.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 125.15,
+      "desconto": 0,
+      "cidade": "Águas Lindas de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24117": {
+      "codigo": "24117",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24121": {
+      "codigo": "24121",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24145": {
+      "codigo": "24145",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

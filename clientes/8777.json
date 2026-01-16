@@ -1,0 +1,53 @@
+{
+  "codigo": "8777",
+  "nome": "GLAUCIO MAIA CHAGAS",
+  "email": "glauciomaiachagas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(62) 98482-8272",
+  "cidade": "Aparecida de Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 156.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "23279",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-24 01:20:58",
+      "data_hora_confirmacao": "2024-10-24 10:48:49",
+      "data_hora_confirmacao_pagamento": "2024-10-24 10:48:39",
+      "valor_total_produtos": 135.98,
+      "valor_frete": 20.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 156.55,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32682": {
+      "codigo": "32682",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: P - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32690": {
+      "codigo": "32690",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

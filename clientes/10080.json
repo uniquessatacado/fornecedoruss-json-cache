@@ -1,0 +1,53 @@
+{
+  "codigo": "10080",
+  "nome": "JOCELI APARECIDA CARDOSO",
+  "email": "jocelicardoso82@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(51) 9917-03320",
+  "cidade": "Palhoça",
+  "estado": "SC",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 67.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "14244",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 20:04:12",
+      "data_hora_confirmacao": "2024-06-21 10:31:00",
+      "data_hora_confirmacao_pagamento": "2024-06-21 10:30:53",
+      "valor_total_produtos": 43.98,
+      "valor_frete": 23.46,
+      "frete": "PAC",
+      "valor_total_pedido": 67.44,
+      "desconto": 0,
+      "cidade": "Palhoça",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22296": {
+      "codigo": "22296",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22299": {
+      "codigo": "22299",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

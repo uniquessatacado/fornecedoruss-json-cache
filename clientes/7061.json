@@ -1,0 +1,53 @@
+{
+  "codigo": "7061",
+  "nome": "JOSÉ UBALDO FELIX JUNIOR",
+  "email": "jf.juniorfelixx@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/03/2024",
+  "whatsapp": "(61) 99680-7085",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 254.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "8683",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 19:31:55",
+      "data_hora_confirmacao": "2024-03-20 09:58:59",
+      "data_hora_confirmacao_pagamento": "2024-03-20 09:58:53",
+      "valor_total_produtos": 261.26,
+      "valor_frete": 19.84,
+      "frete": "LOGGI",
+      "valor_total_pedido": 254.97,
+      "desconto": 26.13,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.5M": {
+      "codigo": "CD04.5M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "KT1.1M": {
+      "codigo": "KT1.1M",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

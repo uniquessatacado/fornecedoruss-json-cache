@@ -1,0 +1,61 @@
+{
+  "codigo": "8828",
+  "nome": "CELITO FRANCISCO SOUZA",
+  "email": "sousacelito@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/04/2024",
+  "whatsapp": "(49) 99182-9665",
+  "cidade": "Urubici",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 295.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "11023",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-30 00:26:50",
+      "data_hora_confirmacao": "2024-04-30 13:21:01",
+      "data_hora_confirmacao_pagamento": "2024-04-30 13:21:15",
+      "valor_total_produtos": 254.97,
+      "valor_frete": 40.81,
+      "frete": "PAC",
+      "valor_total_pedido": 295.78,
+      "desconto": 0,
+      "cidade": "Urubici",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17705": {
+      "codigo": "17705",
+      "titulo": "MOLETOM 3 CABOS  CANGURU HUGO BOSSO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "17740": {
+      "codigo": "17740",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17742": {
+      "codigo": "17742",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

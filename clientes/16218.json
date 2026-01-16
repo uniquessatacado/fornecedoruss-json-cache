@@ -1,0 +1,69 @@
+{
+  "codigo": "16218",
+  "nome": "ANTONIO LUIZ DOS SANTOS",
+  "email": "aluiz593@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/10/2024",
+  "whatsapp": "(27) 99654-5773",
+  "cidade": "Santa Teresa",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 57.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "22236",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-04 04:55:32",
+      "data_hora_confirmacao": "2024-10-04 13:47:37",
+      "data_hora_confirmacao_pagamento": "2024-10-04 13:47:27",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 17.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.78,
+      "desconto": 0,
+      "cidade": "Santa Teresa",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29680": {
+      "codigo": "29680",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30635": {
+      "codigo": "30635",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30638": {
+      "codigo": "30638",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30641": {
+      "codigo": "30641",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

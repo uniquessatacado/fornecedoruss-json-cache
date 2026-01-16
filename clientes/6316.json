@@ -1,0 +1,88 @@
+{
+  "codigo": "6316",
+  "nome": "NATHALIA TRAJANO",
+  "email": "nathaliatrajano@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(21) 97045-8242",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 215.45999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "7465",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 21:50:57",
+      "data_hora_confirmacao": "2024-02-22 17:18:27",
+      "data_hora_confirmacao_pagamento": "2024-02-22 17:18:22",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 16.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.88,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23626",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 11:33:31",
+      "data_hora_confirmacao": "2024-11-01 12:07:17",
+      "data_hora_confirmacao_pagamento": "2024-11-01 12:06:07",
+      "valor_total_produtos": 88.98,
+      "valor_frete": 16.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.58,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30117": {
+      "codigo": "30117",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "32526": {
+      "codigo": "32526",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Marrom - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.107G": {
+      "codigo": "CD02.107G",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

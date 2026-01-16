@@ -1,0 +1,107 @@
+{
+  "codigo": "1423",
+  "nome": "LUCAS MEDEIROS",
+  "email": "medeeiroos08@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "20/08/2023",
+  "whatsapp": "(11) 95107-4073",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 285.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "7950",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-04 15:07:28",
+      "data_hora_confirmacao": "2024-03-04 15:38:13",
+      "data_hora_confirmacao_pagamento": "2024-03-04 15:37:51",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 12.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 90.45,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13724",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 20:11:49",
+      "data_hora_confirmacao": "2024-06-17 17:53:46",
+      "data_hora_confirmacao_pagamento": "2024-06-17 17:53:40",
+      "valor_total_produtos": 42.49,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.42,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13755",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 09:14:54",
+      "data_hora_confirmacao": "2024-06-17 17:51:25",
+      "data_hora_confirmacao_pagamento": "2024-06-17 17:51:18",
+      "valor_total_produtos": 142.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 142.99,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16953": {
+      "codigo": "16953",
+      "titulo": "Conjuntos Femininos  - Cor: LILAS - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21584": {
+      "codigo": "21584",
+      "titulo": "Relógio CITZEN  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO CITZEN",
+      "marca": "CITZEN",
+      "quantidade": "1"
+    },
+    "CD39.01G": {
+      "codigo": "CD39.01G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.02G": {
+      "codigo": "CD39.02G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

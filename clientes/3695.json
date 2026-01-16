@@ -1,0 +1,88 @@
+{
+  "codigo": "3695",
+  "nome": "GILMAR FRANCISCO DIAS",
+  "email": "gilmarfrancisco747@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/10/2023",
+  "whatsapp": "(19) 99388-5666",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 148,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302155",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-23 10:38:27",
+      "data_hora_confirmacao": "2023-10-23 10:38:53",
+      "data_hora_confirmacao_pagamento": "2023-10-23 16:50:09",
+      "valor_total_produtos": 115,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 115,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302156",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-23 10:53:34",
+      "data_hora_confirmacao": "2023-10-23 10:54:03",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD41.5G": {
+      "codigo": "CD41.5G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - Mizuno LT19.10  - Cor: Preto com Vermelho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD41.3G": {
+      "codigo": "CD41.3G",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10   - Cor: Preto com Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.9G": {
+      "codigo": "CD08.9G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Preto - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD17.35M": {
+      "codigo": "CD17.35M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

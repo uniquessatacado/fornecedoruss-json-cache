@@ -1,0 +1,72 @@
+{
+  "codigo": "4663",
+  "nome": "EDSON OSIAS",
+  "email": "edsonosias22@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2023",
+  "whatsapp": "(11) 98133-8981",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 177.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "4508",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 14:45:04",
+      "data_hora_confirmacao": "2023-12-13 14:47:45",
+      "data_hora_confirmacao_pagamento": "2023-12-13 14:47:56",
+      "valor_total_produtos": 49,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 58.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4566",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 19:33:54",
+      "data_hora_confirmacao": "2023-12-12 22:27:29",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:27:39",
+      "valor_total_produtos": 106.38,
+      "valor_frete": 12.12,
+      "frete": "SEDEX",
+      "valor_total_pedido": 118.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD41.18": {
+      "codigo": "CD41.18",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE SB   LT11.12  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.34": {
+      "codigo": "CD39.34",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "14478",
+  "nome": "FERNANDO SILVA",
+  "email": "fernasan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/08/2024",
+  "whatsapp": "(11) 99814-6335",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 30.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "19371",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 18:00:52",
+      "data_hora_confirmacao": "2024-08-23 10:05:52",
+      "data_hora_confirmacao_pagamento": "2024-08-23 10:05:45",
+      "valor_total_produtos": 19.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 30.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28512": {
+      "codigo": "28512",
+      "titulo": "Boné Super Premium - NEW ERA MVP 47 - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "12420",
+  "nome": "GUILHERME SOARES",
+  "email": "henriqueguilherme993@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(19) 99924-3605",
+  "cidade": "Limeira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 29.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "15996",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 02:14:47",
+      "data_hora_confirmacao": "2024-07-15 10:51:30",
+      "data_hora_confirmacao_pagamento": "2024-07-15 10:51:19",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 29.91,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23405": {
+      "codigo": "23405",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23411": {
+      "codigo": "23411",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "7142",
+  "nome": "JOAO PAULO",
+  "email": "joaopaladini16@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/03/2024",
+  "whatsapp": "(19) 99267-8262",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 248.95999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "8848",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-23 11:08:55",
+      "data_hora_confirmacao": "2024-03-23 11:22:11",
+      "data_hora_confirmacao_pagamento": "2024-03-23 11:33:08",
+      "valor_total_produtos": 121,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 121,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23529",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-30 12:56:44",
+      "data_hora_confirmacao": "2024-10-30 13:10:28",
+      "data_hora_confirmacao_pagamento": "2024-10-30 13:10:22",
+      "valor_total_produtos": 127.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 127.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29023": {
+      "codigo": "29023",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31259": {
+      "codigo": "31259",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: PRETO VERDE CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31791": {
+      "codigo": "31791",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31995": {
+      "codigo": "31995",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "PA62": {
+      "codigo": "PA62",
+      "titulo": "CORRENTE ESCAMA 3,5MM 70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PRF01": {
+      "codigo": "PRF01",
+      "titulo": "PULSEIRA FEMININA    ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Femininas",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

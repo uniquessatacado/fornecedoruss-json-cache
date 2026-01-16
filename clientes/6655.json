@@ -1,0 +1,88 @@
+{
+  "codigo": "6655",
+  "nome": "FABIO ALVES DA SILVA",
+  "email": "fabioalves1718@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/03/2024",
+  "whatsapp": "(27) 99915-2156",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 335.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "8050",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-07 08:31:32",
+      "data_hora_confirmacao": "2024-03-07 10:51:13",
+      "data_hora_confirmacao_pagamento": "2024-03-07 10:51:05",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 24.85,
+      "frete": "PAC",
+      "valor_total_pedido": 204.8,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10172",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 14:26:38",
+      "data_hora_confirmacao": "2024-04-17 15:45:02",
+      "data_hora_confirmacao_pagamento": "2024-04-17 15:44:58",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 22.53,
+      "frete": "JADLOG",
+      "valor_total_pedido": 130.5,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.8G": {
+      "codigo": "CD04.8G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.22M": {
+      "codigo": "CD4.22M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.23M": {
+      "codigo": "CD4.23M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - BASICA - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

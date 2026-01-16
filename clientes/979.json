@@ -1,0 +1,150 @@
+{
+  "codigo": "979",
+  "nome": "FABRÍCIO PAIXÃO",
+  "email": "fabriciopaixaosm@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(11) 96647-8856",
+  "cidade": "Francisco Morato",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 227.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "2364",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 12:32:10",
+      "data_hora_confirmacao": "2023-10-27 13:25:19",
+      "data_hora_confirmacao_pagamento": "2023-10-27 13:25:35",
+      "valor_total_produtos": 42.5,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 53.24,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3217",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-16 16:06:11",
+      "data_hora_confirmacao": "2023-11-16 16:12:57",
+      "data_hora_confirmacao_pagamento": "2023-11-16 16:13:07",
+      "valor_total_produtos": 66,
+      "valor_frete": 10.91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.91,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3260",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-17 12:30:27",
+      "data_hora_confirmacao": "2023-11-17 12:32:46",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5214",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 23:11:44",
+      "data_hora_confirmacao": "2023-12-20 07:48:33",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:48:45",
+      "valor_total_produtos": 53.94,
+      "valor_frete": 10.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.73,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.36G - BROOKSFIELD": {
+      "codigo": "CD24.36G - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Preto - Marca: Brooksfield - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": 4
+    },
+    "CD24.36M - BROOKSFIELD": {
+      "codigo": "CD24.36M - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Branca - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Vermelha - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 2
+    }
+  }
+}

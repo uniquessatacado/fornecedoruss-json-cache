@@ -1,0 +1,69 @@
+{
+  "codigo": "9499",
+  "nome": "JOÃO AUGUSTO",
+  "email": "joao_pln@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(19) 98153-8238",
+  "cidade": "Paulínia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 148.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "11957",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-17 09:23:42",
+      "data_hora_confirmacao": "2024-05-17 10:37:56",
+      "data_hora_confirmacao_pagamento": "2024-05-17 10:37:48",
+      "valor_total_produtos": 133.96,
+      "valor_frete": 14.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 148.94,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18553": {
+      "codigo": "18553",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.3G": {
+      "codigo": "CD40.3G",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

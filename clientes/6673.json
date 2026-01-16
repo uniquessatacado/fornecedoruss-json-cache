@@ -1,0 +1,115 @@
+{
+  "codigo": "6673",
+  "nome": "ELTON GOMES DE SOUSA",
+  "email": "elton.gef@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/03/2024",
+  "whatsapp": "(31) 99740-8614",
+  "cidade": "Contagem",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 322.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "9364",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 20:07:03",
+      "data_hora_confirmacao": "2024-04-04 12:38:25",
+      "data_hora_confirmacao_pagamento": "2024-04-04 12:38:21",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 17.97,
+      "frete": "JADLOG",
+      "valor_total_pedido": 125.94,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10451",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 19:01:11",
+      "data_hora_confirmacao": "2024-04-22 16:48:59",
+      "data_hora_confirmacao_pagamento": "2024-04-22 16:48:53",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 17.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.43,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17434",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 13:51:33",
+      "data_hora_confirmacao": "2024-08-01 17:38:49",
+      "data_hora_confirmacao_pagamento": "2024-08-01 17:38:42",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 17.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 125.82,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25742": {
+      "codigo": "25742",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25751": {
+      "codigo": "25751",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25754": {
+      "codigo": "25754",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.16M": {
+      "codigo": "CD4.16M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

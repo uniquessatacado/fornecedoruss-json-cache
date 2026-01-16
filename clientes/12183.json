@@ -1,0 +1,69 @@
+{
+  "codigo": "12183",
+  "nome": "GIAN MARCOS",
+  "email": "gian_marcos10@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/07/2024",
+  "whatsapp": "(19) 98963-4187",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 39.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "15484",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-09 16:17:58",
+      "data_hora_confirmacao": "2024-07-11 17:38:29",
+      "data_hora_confirmacao_pagamento": "2024-07-16 10:11:00",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23407": {
+      "codigo": "23407",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23437": {
+      "codigo": "23437",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23440": {
+      "codigo": "23440",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23468": {
+      "codigo": "23468",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

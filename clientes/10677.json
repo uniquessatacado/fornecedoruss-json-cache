@@ -1,0 +1,77 @@
+{
+  "codigo": "10677",
+  "nome": "ROBERT RYAN DA COSTA LIMA",
+  "email": "ryanrobert755@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 9511-65665",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "27346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-29 00:20:44",
+      "data_hora_confirmacao": "2024-12-29 00:22:00",
+      "data_hora_confirmacao_pagamento": "2024-12-29 00:22:00",
+      "valor_total_produtos": 50,
+      "valor_frete": 14.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.31,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32758": {
+      "codigo": "32758",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "33734": {
+      "codigo": "33734",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35183": {
+      "codigo": "35183",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35452": {
+      "codigo": "35452",
+      "titulo": "Cuecas Peruanas - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38037": {
+      "codigo": "38037",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

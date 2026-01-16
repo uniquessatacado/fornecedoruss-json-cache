@@ -1,0 +1,99 @@
+{
+  "codigo": "10717",
+  "nome": "IASMIN CHAGAS AGUIAR",
+  "email": "iasminsouza7986@gmail.com",
+  "sexo": "2",
+  "data_cadastro": "08/06/2024",
+  "whatsapp": "(19) 9955-50117",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 168.32999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "13405",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-08 22:27:33",
+      "data_hora_confirmacao": "2024-06-10 13:22:57",
+      "data_hora_confirmacao_pagamento": "2024-06-10 13:22:50",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 74.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27122",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-23 07:44:35",
+      "data_hora_confirmacao": "2024-12-23 07:45:59",
+      "data_hora_confirmacao_pagamento": "2024-12-23 07:45:59",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 46.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27215",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-24 12:19:10",
+      "data_hora_confirmacao": "2024-12-24 12:19:10",
+      "data_hora_confirmacao_pagamento": "2024-12-24 12:19:10",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 46.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19952": {
+      "codigo": "19952",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO PRONTA ENTREGA)   - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "39210": {
+      "codigo": "39210",
+      "titulo": "Camiseta Algodão Stretch Americano - tecido perfumado (C166) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39286": {
+      "codigo": "39286",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C165) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "12248",
+  "nome": "EDUARDO JOSE VALENCIO",
+  "email": "eduu.molina@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(14) 9971-61689",
+  "cidade": "Ourinhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 210.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "22071",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 15:14:22",
+      "data_hora_confirmacao": "2024-10-01 15:25:58",
+      "data_hora_confirmacao_pagamento": "2024-10-01 15:25:44",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 20.37,
+      "frete": "JADLOG",
+      "valor_total_pedido": 120.27,
+      "desconto": 0,
+      "cidade": "Ourinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30706",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-14 16:40:31",
+      "data_hora_confirmacao": "2025-07-14 16:41:37",
+      "data_hora_confirmacao_pagamento": "2025-07-14 16:41:37",
+      "valor_total_produtos": 75.81,
+      "valor_frete": 14.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 90.08,
+      "desconto": 0,
+      "cidade": "Ourinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29712": {
+      "codigo": "29712",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "30569": {
+      "codigo": "30569",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "30572": {
+      "codigo": "30572",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "31404": {
+      "codigo": "31404",
+      "titulo": "Cuecas Peruanas - EMPÓRIO ARMANI - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "3"
+    },
+    "50338": {
+      "codigo": "50338",
+      "titulo": "Cueca Peruana - Nike (LT003.4) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50344": {
+      "codigo": "50344",
+      "titulo": "Cueca Peruana - Nike (LT003.4) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50368": {
+      "codigo": "50368",
+      "titulo": "Cueca Peruana - Lacoste (LT003.4) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "50513": {
+      "codigo": "50513",
+      "titulo": "Cueca Peruana - Lacoste (LT003.4) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "3"
+    }
+  }
+}

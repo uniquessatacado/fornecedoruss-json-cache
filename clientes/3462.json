@@ -1,0 +1,61 @@
+{
+  "codigo": "3462",
+  "nome": "MARCO ANTONIO DA SILVA CAETANO",
+  "email": "1marcocaetano@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(21) 98012-5506",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301664",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 18:21:39",
+      "data_hora_confirmacao": "2023-10-11 18:33:15",
+      "data_hora_confirmacao_pagamento": "2023-10-11 18:34:28",
+      "valor_total_produtos": 82.5,
+      "valor_frete": 13.53,
+      "frete": "JADLOG",
+      "valor_total_pedido": 96.03,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.31G - CALVIN KLEIN": {
+      "codigo": "CD24.31G - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "CD24.23G - Burberry": {
+      "codigo": "CD24.23G - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD29.3G": {
+      "codigo": "CD29.3G",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

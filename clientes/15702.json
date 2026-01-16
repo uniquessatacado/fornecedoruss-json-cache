@@ -1,0 +1,69 @@
+{
+  "codigo": "15702",
+  "nome": "ALEX SILVA",
+  "email": "allexsilva2208@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/09/2024",
+  "whatsapp": "(19) 99453-0169",
+  "cidade": "Hortolândia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "21191",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-16 14:54:07",
+      "data_hora_confirmacao": "2024-09-16 16:38:04",
+      "data_hora_confirmacao_pagamento": "2024-09-16 16:37:57",
+      "valor_total_produtos": 78.96,
+      "valor_frete": 13.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.06,
+      "desconto": 0,
+      "cidade": "Hortolândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25723": {
+      "codigo": "25723",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26512": {
+      "codigo": "26512",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29385": {
+      "codigo": "29385",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "30383": {
+      "codigo": "30383",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

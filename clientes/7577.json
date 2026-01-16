@@ -1,0 +1,61 @@
+{
+  "codigo": "7577",
+  "nome": "MARCOS ROBERTO DE SOUZA PORTELA",
+  "email": "portela1336@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(27) 9889-69827",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "14679",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-28 11:50:42",
+      "data_hora_confirmacao": "2024-06-28 12:41:35",
+      "data_hora_confirmacao_pagamento": "2024-06-28 12:41:29",
+      "valor_total_produtos": 108.97,
+      "valor_frete": 24.84,
+      "frete": "JADLOG",
+      "valor_total_pedido": 133.81,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18129": {
+      "codigo": "18129",
+      "titulo": "FONE DE OUVIDO SEM FIO BLUETOOTH MARCADOR BATERIA ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22362": {
+      "codigo": "22362",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

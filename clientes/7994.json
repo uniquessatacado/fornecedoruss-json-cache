@@ -1,0 +1,104 @@
+{
+  "codigo": "7994",
+  "nome": "ANA CARRARO",
+  "email": "anarcarraro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/04/2024",
+  "whatsapp": "(41) 99782-5131",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 155.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "28234",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-17 13:55:55",
+      "data_hora_confirmacao": "2025-02-17 13:57:03",
+      "data_hora_confirmacao_pagamento": "2025-02-17 13:57:03",
+      "valor_total_produtos": 43.32,
+      "valor_frete": 12.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.82,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30162",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-06 19:50:02",
+      "data_hora_confirmacao": "2025-06-06 19:50:48",
+      "data_hora_confirmacao_pagamento": "2025-06-06 19:50:48",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 16.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.42,
+      "desconto": 0,
+      "cidade": "Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40736": {
+      "codigo": "40736",
+      "titulo": "Cuecas Peruanas (C262)    - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40786": {
+      "codigo": "40786",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "40828": {
+      "codigo": "40828",
+      "titulo": "Cuecas Peruanas (C264)    - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40853": {
+      "codigo": "40853",
+      "titulo": "Cuecas Peruanas (C266)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "49460": {
+      "codigo": "49460",
+      "titulo": "Camiseta 40.1 Lacoste | LT68A (C1175) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "49476": {
+      "codigo": "49476",
+      "titulo": "Camiseta 40.1 Lacoste | LT68A (C1177) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

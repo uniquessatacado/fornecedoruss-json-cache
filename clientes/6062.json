@@ -1,0 +1,107 @@
+{
+  "codigo": "6062",
+  "nome": "KAUÊ RAIAN DE OLIVEIRA ALBUQUERQUE",
+  "email": "kauetimao2010@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/02/2024",
+  "whatsapp": "(69) 99323-8519",
+  "cidade": "Porto Velho",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 213.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "7149",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-05 22:35:20",
+      "data_hora_confirmacao": "2024-02-07 10:03:44",
+      "data_hora_confirmacao_pagamento": "2024-02-07 10:03:29",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 21.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.44,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16984",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-25 14:58:32",
+      "data_hora_confirmacao": "2024-07-26 19:02:54",
+      "data_hora_confirmacao_pagamento": "2024-07-26 19:02:48",
+      "valor_total_produtos": 58.98,
+      "valor_frete": 24.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.84,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29781",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-15 12:25:14",
+      "data_hora_confirmacao": "2025-05-15 12:25:50",
+      "data_hora_confirmacao_pagamento": "2025-05-15 12:25:50",
+      "valor_total_produtos": 50,
+      "valor_frete": 23.19,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.19,
+      "desconto": 0,
+      "cidade": "Porto Velho",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "25285": {
+      "codigo": "25285",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47732": {
+      "codigo": "47732",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C939) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "CD40.23": {
+      "codigo": "CD40.23",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

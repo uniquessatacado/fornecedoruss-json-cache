@@ -1,0 +1,61 @@
+{
+  "codigo": "17919",
+  "nome": "JULIANO PUTTINI",
+  "email": "juhputtini@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2024",
+  "whatsapp": "(17) 98193-5390",
+  "cidade": "Olímpia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "25333",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-29 15:17:49",
+      "data_hora_confirmacao": "2024-11-29 15:22:58",
+      "data_hora_confirmacao_pagamento": "2024-11-29 15:22:58",
+      "valor_total_produtos": 56.97,
+      "valor_frete": 13.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.98,
+      "desconto": 0,
+      "cidade": "Olímpia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27228": {
+      "codigo": "27228",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "34053": {
+      "codigo": "34053",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35068": {
+      "codigo": "35068",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico externo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

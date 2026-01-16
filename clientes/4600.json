@@ -1,0 +1,72 @@
+{
+  "codigo": "4600",
+  "nome": "VITOR HUGO SILVA RODRIGUES DE OLIVEIRA",
+  "email": "vitor.nineteen@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/12/2023",
+  "whatsapp": "(19) 98324-1500",
+  "cidade": "São Pedro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 182.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "4358",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-09 16:24:15",
+      "data_hora_confirmacao": "2023-12-11 12:41:45",
+      "data_hora_confirmacao_pagamento": "2023-12-11 12:42:30",
+      "valor_total_produtos": 71.88,
+      "valor_frete": 18.38,
+      "frete": "SEDEX",
+      "valor_total_pedido": 90.26,
+      "desconto": 0,
+      "cidade": "São Pedro",
+      "estado": "SP",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4806",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-14 19:54:10",
+      "data_hora_confirmacao": "2023-12-18 14:41:50",
+      "data_hora_confirmacao_pagamento": "2023-12-18 14:41:59",
+      "valor_total_produtos": 81.89,
+      "valor_frete": 9.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 91.86,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD62.14": {
+      "codigo": "CD62.14",
+      "titulo": "Óculos  Romeu 2 - ROXA LT07.12 - Cor da Armação: Prata - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD62.15": {
+      "codigo": "CD62.15",
+      "titulo": "Óculos  Romeu 2 - VERMELHO C/LARANJA LT13.12  - Cor da Armação: Preto - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Vermelha - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

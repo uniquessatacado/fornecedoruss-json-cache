@@ -1,0 +1,88 @@
+{
+  "codigo": "14438",
+  "nome": "MESAQUE RAMOS DA SILVA",
+  "email": "mesaquesilva460@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/08/2024",
+  "whatsapp": "(11) 9783-8457",
+  "cidade": "Francisco Morato",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 162.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "19452",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-23 19:10:06",
+      "data_hora_confirmacao": "2024-08-24 09:57:27",
+      "data_hora_confirmacao_pagamento": "2024-08-24 09:57:22",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.63,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20218",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 11:09:36",
+      "data_hora_confirmacao": "2024-09-03 16:47:51",
+      "data_hora_confirmacao_pagamento": "2024-09-03 16:46:02",
+      "valor_total_produtos": 101.17,
+      "valor_frete": 17.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.05,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27533": {
+      "codigo": "27533",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em termogel - Cor: MOSTARDA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27840": {
+      "codigo": "27840",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "29116": {
+      "codigo": "29116",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "29118": {
+      "codigo": "29118",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - AEROPOSTALE - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "AEROPOSTALE",
+      "quantidade": "1"
+    }
+  }
+}

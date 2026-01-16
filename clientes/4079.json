@@ -1,0 +1,107 @@
+{
+  "codigo": "4079",
+  "nome": "ANSELMO MARINS",
+  "email": "haocsaudeobra@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/11/2023",
+  "whatsapp": "(19) 99105-1118",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 286,
+  "pedidos": [
+    {
+      "codigo_pedido": "3160",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-15 05:54:37",
+      "data_hora_confirmacao": "2023-11-16 08:05:08",
+      "data_hora_confirmacao_pagamento": "2023-11-16 11:53:55",
+      "valor_total_produtos": 136,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 136,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3188",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-16 11:24:06",
+      "data_hora_confirmacao": "2023-11-16 11:37:14",
+      "data_hora_confirmacao_pagamento": "2023-11-16 11:54:07",
+      "valor_total_produtos": 129,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 129,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3190",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-16 11:45:57",
+      "data_hora_confirmacao": "2023-11-16 11:46:35",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 21,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 21,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD30.5": {
+      "codigo": "CD30.5",
+      "titulo": "Chapéu Bucket - New Era - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Chapéu Bucket",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "CD17.32G": {
+      "codigo": "CD17.32G",
+      "titulo": "Bermuda Microfibra Ultra - Adidas - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "3"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Amarela - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

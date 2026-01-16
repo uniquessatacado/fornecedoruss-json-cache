@@ -1,0 +1,120 @@
+{
+  "codigo": "1863",
+  "nome": "RODRIGO COSTA MARQUES",
+  "email": "rodrigocostamarques@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(51) 99804-3479",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 486.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300685",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 14:27:51",
+      "data_hora_confirmacao": "2023-09-26 16:45:20",
+      "data_hora_confirmacao_pagamento": "2023-09-26 16:45:31",
+      "valor_total_produtos": 339.7,
+      "valor_frete": 48.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 387.8,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300849",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 17:07:39",
+      "data_hora_confirmacao": "2023-09-28 17:14:42",
+      "data_hora_confirmacao_pagamento": "2023-09-28 17:14:52",
+      "valor_total_produtos": 99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 99,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.2GG": {
+      "codigo": "CD29.2GG",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Royal - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Azul Marinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD32.3Juliet Double X": {
+      "codigo": "CD32.3Juliet Double X",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada   - Cor da Armação: Prata - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.13Juliet": {
+      "codigo": "CD32.13Juliet",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada  - Cor da Armação: Prata c/Dourado 24k - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD32.5Penny": {
+      "codigo": "CD32.5Penny",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada  - Cor da Armação: Chumbo - Cor da Lente: Azul c/Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD17.28GG": {
+      "codigo": "CD17.28GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "codigo": "8320",
+  "nome": "SAMUEL SILVA",
+  "email": "samuelsilvapdp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/04/2024",
+  "whatsapp": "(31) 99449-6742",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 338.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "10362",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 19:05:08",
+      "data_hora_confirmacao": "2024-04-22 10:44:45",
+      "data_hora_confirmacao_pagamento": "2024-04-22 10:44:39",
+      "valor_total_produtos": 84.99,
+      "valor_frete": 15.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.5,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11695",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 22:57:21",
+      "data_hora_confirmacao": "2024-05-11 09:34:19",
+      "data_hora_confirmacao_pagamento": "2024-05-11 09:34:13",
+      "valor_total_produtos": 180.95,
+      "valor_frete": 21.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 202.55,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11925",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-16 11:21:07",
+      "data_hora_confirmacao": "2024-05-16 11:21:07",
+      "data_hora_confirmacao_pagamento": "2024-05-21 13:23:03",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18262": {
+      "codigo": "18262",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18361": {
+      "codigo": "18361",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18448": {
+      "codigo": "18448",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "ML1.4GG": {
+      "codigo": "ML1.4GG",
+      "titulo": "MOLETOM 3 CABOS ADIDAS - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD6.01G": {
+      "codigo": "CD6.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: SALMÃO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD70.1G": {
+      "codigo": "CD70.1G",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

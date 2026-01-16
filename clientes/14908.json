@@ -1,0 +1,104 @@
+{
+  "codigo": "14908",
+  "nome": "ANDERSON DA SILVA BARBOSA",
+  "email": "andersonbarbosa.dsb@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/08/2024",
+  "whatsapp": "(11) 98452-1393",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 354.78999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "20008",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-31 00:05:35",
+      "data_hora_confirmacao": "2024-08-31 09:33:51",
+      "data_hora_confirmacao_pagamento": "2024-08-31 09:33:42",
+      "valor_total_produtos": 140.96,
+      "valor_frete": 14.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 155.69,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20403",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 11:47:52",
+      "data_hora_confirmacao": "2024-09-05 11:47:52",
+      "data_hora_confirmacao_pagamento": "2024-10-15 12:43:36",
+      "valor_total_produtos": 185.98,
+      "valor_frete": 13.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 199.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20694": {
+      "codigo": "20694",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "27703": {
+      "codigo": "27703",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - BROOKSFIELD arte em bordado - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "27944": {
+      "codigo": "27944",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - LEVIS arte bordada - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "LEVIS",
+      "quantidade": "1"
+    },
+    "28963": {
+      "codigo": "28963",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: AREIA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29293": {
+      "codigo": "29293",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

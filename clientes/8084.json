@@ -1,0 +1,69 @@
+{
+  "codigo": "8084",
+  "nome": "CAIO VIANA",
+  "email": "viianaashop@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/04/2024",
+  "whatsapp": "(31) 98778-7095",
+  "cidade": "Nova Lima",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 210.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "11371",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-06 07:32:42",
+      "data_hora_confirmacao": "2024-05-07 17:27:27",
+      "data_hora_confirmacao_pagamento": "2024-05-07 17:27:19",
+      "valor_total_produtos": 183.22,
+      "valor_frete": 27.65,
+      "frete": "PAC",
+      "valor_total_pedido": 210.87,
+      "desconto": 0,
+      "cidade": "Nova Lima",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17996": {
+      "codigo": "17996",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA NIKE - Cor: Kit Preto-Branco - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18051": {
+      "codigo": "18051",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "ML1.1M": {
+      "codigo": "ML1.1M",
+      "titulo": "MOLETOM 3 CABOS NIKE - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE  04,05 BRONZE - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

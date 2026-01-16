@@ -1,0 +1,45 @@
+{
+  "codigo": "3959",
+  "nome": "MARCEL SILVA ESPINDULA",
+  "email": "marcelmapelo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(11) 95806-2930",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 43.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "2899",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 17:45:31",
+      "data_hora_confirmacao": "2023-11-09 12:22:31",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:22:41",
+      "valor_total_produtos": 34,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    }
+  }
+}

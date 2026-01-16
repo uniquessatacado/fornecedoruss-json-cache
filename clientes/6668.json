@@ -1,0 +1,96 @@
+{
+  "codigo": "6668",
+  "nome": "FÁBIO LAMAS",
+  "email": "fabio.p.lamas@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "07/03/2024",
+  "whatsapp": "(27) 9981-64054",
+  "cidade": "Viana",
+  "estado": "ES",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 341.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "8064",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-07 15:55:25",
+      "data_hora_confirmacao": "2024-03-07 17:26:50",
+      "data_hora_confirmacao_pagamento": "2024-03-07 17:26:44",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 17.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.13,
+      "desconto": 0,
+      "cidade": "Viana",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10972",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 19:53:29",
+      "data_hora_confirmacao": "2024-04-30 18:11:29",
+      "data_hora_confirmacao_pagamento": "2024-04-30 18:11:38",
+      "valor_total_produtos": 215.96,
+      "valor_frete": 38.61,
+      "frete": "JADLOG",
+      "valor_total_pedido": 254.57,
+      "desconto": 0,
+      "cidade": "Viana",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17800": {
+      "codigo": "17800",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17801": {
+      "codigo": "17801",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17825": {
+      "codigo": "17825",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17826": {
+      "codigo": "17826",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD24.09G": {
+      "codigo": "CD24.09G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 7
+    }
+  }
+}

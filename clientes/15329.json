@@ -1,0 +1,80 @@
+{
+  "codigo": "15329",
+  "nome": "GUILHERME GONCALVES BARRETO",
+  "email": "guilhermebarreto1509@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/09/2024",
+  "whatsapp": "(11) 97721-6167",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 93.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "20616",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-08 11:19:30",
+      "data_hora_confirmacao": "2024-09-09 12:40:05",
+      "data_hora_confirmacao_pagamento": "2024-09-09 12:39:01",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21112",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-14 11:27:25",
+      "data_hora_confirmacao": "2024-09-14 12:14:03",
+      "data_hora_confirmacao_pagamento": "2024-09-14 12:13:54",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 11.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.72,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29777": {
+      "codigo": "29777",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30379": {
+      "codigo": "30379",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30382": {
+      "codigo": "30382",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "codigo": "2065",
+  "nome": "MARCELO LAURO",
+  "email": "celo.lauro@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(19) 98365-8850",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 311.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "4488",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 10:42:11",
+      "data_hora_confirmacao": "2023-12-12 23:19:26",
+      "data_hora_confirmacao_pagamento": "2023-12-12 23:19:36",
+      "valor_total_produtos": 100,
+      "valor_frete": 13.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.23,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4696",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 18:20:27",
+      "data_hora_confirmacao": "2023-12-13 23:41:44",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:42:03",
+      "valor_total_produtos": 48.97,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 48.97,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10136",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 05:26:59",
+      "data_hora_confirmacao": "2024-04-17 10:17:16",
+      "data_hora_confirmacao_pagamento": "2024-04-17 10:17:11",
+      "valor_total_produtos": 133.96,
+      "valor_frete": 15.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 149.39,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE SPORTS   LT11.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.51": {
+      "codigo": "CD16.51",
+      "titulo": "Camisetas de Time Tailandesas - BARCELONA   LT06.11    - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.50": {
+      "codigo": "CD24.50",
+      "titulo": "Cuecas Peruanas - DOLCE GABANNA  LT13.12 - Cor: Vermelha - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD02.65": {
+      "codigo": "CD02.65",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT13.12    - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD23.1G": {
+      "codigo": "CD23.1G",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL MARINHO - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.16G": {
+      "codigo": "CD4.16G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.23G": {
+      "codigo": "CD4.23G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - BASICA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

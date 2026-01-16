@@ -1,0 +1,45 @@
+{
+  "codigo": "1704",
+  "nome": "ANDERSON LUNA",
+  "email": "andersonlunacosta@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(81) 98448-9150",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 24.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "6528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-13 11:18:29",
+      "data_hora_confirmacao": "2024-01-16 13:06:27",
+      "data_hora_confirmacao_pagamento": "2024-01-16 13:06:40",
+      "valor_total_produtos": 8.99,
+      "valor_frete": 15.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 24.69,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

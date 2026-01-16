@@ -1,0 +1,88 @@
+{
+  "codigo": "13395",
+  "nome": "JOÃO SANTOS SILVA JUNIOR",
+  "email": "joaosantossilvajunior@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "31/07/2024",
+  "whatsapp": "(13) 13988-2419",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 218.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "17530",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 11:37:56",
+      "data_hora_confirmacao": "2024-08-01 16:29:32",
+      "data_hora_confirmacao_pagamento": "2024-08-01 16:29:26",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.63,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23759",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 15:26:50",
+      "data_hora_confirmacao": "2024-11-05 15:29:47",
+      "data_hora_confirmacao_pagamento": "2024-11-05 15:29:47",
+      "valor_total_produtos": 149.97,
+      "valor_frete": 20.66,
+      "frete": "SEDEX",
+      "valor_total_pedido": 170.63,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25744": {
+      "codigo": "25744",
+      "titulo": "Bermuda Microfibra HIPER - NIKE PRO  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30108": {
+      "codigo": "30108",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - QUIKSILVER - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "33253": {
+      "codigo": "33253",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33256": {
+      "codigo": "33256",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

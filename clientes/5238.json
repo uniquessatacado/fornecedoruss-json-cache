@@ -1,0 +1,53 @@
+{
+  "codigo": "5238",
+  "nome": "ICARO THOMÉ VERRILLO",
+  "email": "thomeicaro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(19) 98196-5869",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "6310",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-01-09 17:22:47",
+      "data_hora_confirmacao": "2024-01-10 13:34:14",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 61.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 61.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.59": {
+      "codigo": "CD24.59",
+      "titulo": "Cuecas Peruanas - Diesel  - Cor: Preto - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "CD17.61": {
+      "codigo": "CD17.61",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

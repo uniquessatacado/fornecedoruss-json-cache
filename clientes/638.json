@@ -1,0 +1,158 @@
+{
+  "codigo": "638",
+  "nome": "ALEXANDRE FERREIRA",
+  "email": "alexandreferreira5579@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(19) 99305-9011",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 155.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300078",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-16 12:36:49",
+      "data_hora_confirmacao": "2023-09-18 09:42:37",
+      "data_hora_confirmacao_pagamento": "2023-09-18 11:20:50",
+      "valor_total_produtos": 66,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 66,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301775",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-16 17:30:33",
+      "data_hora_confirmacao": "2023-10-16 17:47:36",
+      "data_hora_confirmacao_pagamento": "2023-10-17 15:08:40",
+      "valor_total_produtos": 9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302138",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-21 19:45:04",
+      "data_hora_confirmacao": "2023-10-23 09:32:58",
+      "data_hora_confirmacao_pagamento": "2023-10-23 16:46:58",
+      "valor_total_produtos": 42.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 42.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12886",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-31 14:16:30",
+      "data_hora_confirmacao": "2024-05-31 17:15:51",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 37.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19771": {
+      "codigo": "19771",
+      "titulo": "Boné Super Premium - NY NEW ERA - Cor: CINZA CLARO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19800": {
+      "codigo": "19800",
+      "titulo": "Boné Super Premium - NIKE - Cor: OFFWHITE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.7M": {
+      "codigo": "CD17.7M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Creme - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.9M": {
+      "codigo": "CD17.9M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul Turquesa - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD35": {
+      "codigo": "CD35",
+      "titulo": "Massageador Elétrico ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MASSAGEADORES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "CD24.26G - Boss": {
+      "codigo": "CD24.26G - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.33G - Dolce&Gabbana": {
+      "codigo": "CD24.33G - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.29G - TOMMY": {
+      "codigo": "CD24.29G - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Preto - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 2
+    }
+  }
+}

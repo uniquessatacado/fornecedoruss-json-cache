@@ -1,0 +1,96 @@
+{
+  "codigo": "12632",
+  "nome": "ALAN LOURENÇO",
+  "email": "alanlourenodasilvacorreia@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "18/07/2024",
+  "whatsapp": "(11) 9957-61143",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 199.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "20828",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 22:12:44",
+      "data_hora_confirmacao": "2024-09-11 17:43:25",
+      "data_hora_confirmacao_pagamento": "2024-09-11 17:43:20",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25932",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 16:11:21",
+      "data_hora_confirmacao": "2024-12-07 16:13:01",
+      "data_hora_confirmacao_pagamento": "2024-12-07 16:13:01",
+      "valor_total_produtos": 136.96,
+      "valor_frete": 14.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 151.66,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30399": {
+      "codigo": "30399",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34052": {
+      "codigo": "34052",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36074": {
+      "codigo": "36074",
+      "titulo": "Chinelo Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "36376": {
+      "codigo": "36376",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36623": {
+      "codigo": "36623",
+      "titulo": "Camiseta Peruana com Elastano   - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

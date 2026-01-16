@@ -1,0 +1,77 @@
+{
+  "codigo": "17866",
+  "nome": "JAELSON SILVA DE OLIVEIRA",
+  "email": "jaelson.tina@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2024",
+  "whatsapp": "(11) 98141-7919",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "27332",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-28 16:53:35",
+      "data_hora_confirmacao": "2024-12-28 17:00:13",
+      "data_hora_confirmacao_pagamento": "2024-12-28 17:00:13",
+      "valor_total_produtos": 50,
+      "valor_frete": 11.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 61.66,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38067": {
+      "codigo": "38067",
+      "titulo": "Cuecas Peruanas (C100) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38079": {
+      "codigo": "38079",
+      "titulo": "Cuecas Peruanas (C100) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38101": {
+      "codigo": "38101",
+      "titulo": "Cuecas Peruanas (C101) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "38104": {
+      "codigo": "38104",
+      "titulo": "Cuecas Peruanas (C101) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "39007": {
+      "codigo": "39007",
+      "titulo": "Cuecas Peruanas (C148) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

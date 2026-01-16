@@ -1,0 +1,61 @@
+{
+  "codigo": "11710",
+  "nome": "JOAO VITOR",
+  "email": "joaovitorfreitasdecastro2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/06/2024",
+  "whatsapp": "(19) 99216-5622",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 117.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "14789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-29 13:27:34",
+      "data_hora_confirmacao": "2024-07-01 11:45:30",
+      "data_hora_confirmacao_pagamento": "2024-07-01 11:37:54",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 117.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19284": {
+      "codigo": "19284",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22356": {
+      "codigo": "22356",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23179": {
+      "codigo": "23179",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

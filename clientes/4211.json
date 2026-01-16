@@ -1,0 +1,69 @@
+{
+  "codigo": "4211",
+  "nome": "FRANCISCO JOÃO DE SOUSA",
+  "email": "fjsousa50@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(19) 9967-15082",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 135,
+  "pedidos": [
+    {
+      "codigo_pedido": "31386",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-08-22 20:41:06",
+      "data_hora_confirmacao": "2025-08-22 20:44:42",
+      "data_hora_confirmacao_pagamento": "2025-08-22 20:44:42",
+      "valor_total_produtos": 125,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 135,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51711": {
+      "codigo": "51711",
+      "titulo": " Camiseta 40.1 Ultra Premium TOMMY Bordado (NLT001) - Cor: VINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "51856": {
+      "codigo": "51856",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "51907": {
+      "codigo": "51907",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51947": {
+      "codigo": "51947",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

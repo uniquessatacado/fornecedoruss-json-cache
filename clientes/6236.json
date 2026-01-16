@@ -1,0 +1,53 @@
+{
+  "codigo": "6236",
+  "nome": "JOÃO KAIO EMANOEL RAMOS DA SILVA",
+  "email": "emanoelramos992@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/02/2024",
+  "whatsapp": "(81) 98542-8403",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "7323",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-19 10:36:45",
+      "data_hora_confirmacao": "2024-02-19 10:46:25",
+      "data_hora_confirmacao_pagamento": "2024-02-19 10:46:18",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 17.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.89,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.96": {
+      "codigo": "CD02.96",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI - Cor: Marrom - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD39.41": {
+      "codigo": "CD39.41",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "623",
+  "nome": "JUSCINEIA SILVA",
+  "email": "sineya.silva@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/03/2023",
+  "whatsapp": "(65) 99286-1825",
+  "cidade": "Cuiabá",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 330.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "29712",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-09 17:57:47",
+      "data_hora_confirmacao": "2025-05-09 17:59:55",
+      "data_hora_confirmacao_pagamento": "2025-05-09 17:59:55",
+      "valor_total_produtos": 286.25,
+      "valor_frete": 44.72,
+      "frete": "PAC",
+      "valor_total_pedido": 330.97,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42233": {
+      "codigo": "42233",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42676": {
+      "codigo": "42676",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C619)  - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42748": {
+      "codigo": "42748",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C611) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "45549": {
+      "codigo": "45549",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C609) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "48219": {
+      "codigo": "48219",
+      "titulo": "Cuecas Peruanas - NIKE LT56A (C978) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

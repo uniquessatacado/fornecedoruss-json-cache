@@ -1,0 +1,61 @@
+{
+  "codigo": "17684",
+  "nome": "JULIANA BATISTA PEREIRA",
+  "email": "batistajuliana092@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/11/2024",
+  "whatsapp": "(16) 99461-5599",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 184.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "24885",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-21 07:38:43",
+      "data_hora_confirmacao": "2024-11-21 07:41:42",
+      "data_hora_confirmacao_pagamento": "2024-11-21 07:41:42",
+      "valor_total_produtos": 159.96,
+      "valor_frete": 24.9,
+      "frete": "JADLOG",
+      "valor_total_pedido": 184.86,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30113": {
+      "codigo": "30113",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ACOSTAMENTO - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    },
+    "32633": {
+      "codigo": "32633",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ACOSTAMENTO - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "2"
+    },
+    "32679": {
+      "codigo": "32679",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

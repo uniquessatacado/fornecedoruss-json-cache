@@ -1,0 +1,69 @@
+{
+  "codigo": "12666",
+  "nome": "ELINALDO DA SILVA MOURA",
+  "email": "salaodobaixinho@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(98) 9850-29867",
+  "cidade": "Urbano Santos",
+  "estado": "MA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 203.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "16387",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 08:24:31",
+      "data_hora_confirmacao": "2024-07-19 09:59:00",
+      "data_hora_confirmacao_pagamento": "2024-07-19 09:58:54",
+      "valor_total_produtos": 126.96,
+      "valor_frete": 76.33,
+      "frete": "PAC",
+      "valor_total_pedido": 203.29,
+      "desconto": 0,
+      "cidade": "Urbano Santos",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19820": {
+      "codigo": "19820",
+      "titulo": "Boné Super Premium - NIKE  - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23192": {
+      "codigo": "23192",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: P - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24608": {
+      "codigo": "24608",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24939": {
+      "codigo": "24939",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

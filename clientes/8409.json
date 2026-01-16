@@ -1,0 +1,160 @@
+{
+  "codigo": "8409",
+  "nome": "LÍDIA  MARIA FIGUEIREDO MAZELLI",
+  "email": "lmazelli93@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/04/2024",
+  "whatsapp": "(61) 9996-51611",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 487.15000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "10464",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-21 11:29:37",
+      "data_hora_confirmacao": "2024-04-23 09:54:03",
+      "data_hora_confirmacao_pagamento": "2024-04-23 09:53:58",
+      "valor_total_produtos": 399.87,
+      "valor_frete": 35.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 435.16,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10820",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-26 16:02:07",
+      "data_hora_confirmacao": "2024-04-26 16:03:41",
+      "data_hora_confirmacao_pagamento": "2024-04-26 16:03:35",
+      "valor_total_produtos": 51.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 51.99,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL ROYAL - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.13M": {
+      "codigo": "CD24.13M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.19M": {
+      "codigo": "CD24.19M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.149M": {
+      "codigo": "CD02.149M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE      - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147M": {
+      "codigo": "CD02.147M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE     - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.10M": {
+      "codigo": "CD4.10M",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.21M": {
+      "codigo": "CD4.21M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22M": {
+      "codigo": "CD4.22M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - LACOSTE - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Preto - Marca: Mizuno - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD01.60G": {
+      "codigo": "CD01.60G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD12.03M": {
+      "codigo": "CD12.03M",
+      "titulo": "Polo Piquet Duplo Peruana - Hugo Boss  - Cor: OFFWHITE - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

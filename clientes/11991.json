@@ -1,0 +1,88 @@
+{
+  "codigo": "11991",
+  "nome": "JOSÉ TARCÍSIO FREISLEBEM JUNIOR",
+  "email": "juniorfreis@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/07/2024",
+  "whatsapp": "(27) 99923-1154",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 287.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "19118",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-20 08:44:04",
+      "data_hora_confirmacao": "2024-08-20 10:31:00",
+      "data_hora_confirmacao_pagamento": "2024-08-20 10:30:53",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 36.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 146.79,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19834",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 18:40:10",
+      "data_hora_confirmacao": "2024-08-29 11:58:36",
+      "data_hora_confirmacao_pagamento": "2024-08-29 11:58:30",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 20.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 140.42,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28009": {
+      "codigo": "28009",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28012": {
+      "codigo": "28012",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29140": {
+      "codigo": "29140",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO BRANCO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29190": {
+      "codigo": "29190",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

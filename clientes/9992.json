@@ -1,0 +1,99 @@
+{
+  "codigo": "9992",
+  "nome": "LUIS PAULO VIANA VIEIRA",
+  "email": "luispaulo0912@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/05/2024",
+  "whatsapp": "(73) 8229-2306",
+  "cidade": "Teixeira de Freitas",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 198.73000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "13698",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 18:51:07",
+      "data_hora_confirmacao": "2024-06-15 09:18:36",
+      "data_hora_confirmacao_pagamento": "2024-06-15 09:18:29",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 16.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.89,
+      "desconto": 0,
+      "cidade": "Eunápolis",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18656",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 12:24:55",
+      "data_hora_confirmacao": "2024-08-16 15:19:18",
+      "data_hora_confirmacao_pagamento": "2024-08-16 15:18:40",
+      "valor_total_produtos": 31.99,
+      "valor_frete": 16.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 48.22,
+      "desconto": 0,
+      "cidade": "Eunápolis",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28676",
+      "situacao_pedido": "PEDIDO EM TRANSITO DA FABRICA PARA NOSSO ESTOQUE",
+      "data_hora_pedido": "2025-03-12 12:33:32",
+      "data_hora_confirmacao": "2025-03-12 12:35:13",
+      "data_hora_confirmacao_pagamento": "2025-03-12 12:35:13",
+      "valor_total_produtos": 68.33,
+      "valor_frete": 16.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.62,
+      "desconto": 0,
+      "cidade": "Teixeira de Freitas",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27576": {
+      "codigo": "27576",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte bordada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42969": {
+      "codigo": "42969",
+      "titulo": "Camisa de time Tailandesa 1.1 PRÉ JOGO CORINTHIANS 25/26 (envio direto da fabrica)  - Tamanho: M - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE   - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "1695",
+  "nome": "TIAGO COTRIM",
+  "email": "tiagoftc@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(21) 9919-50004",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 203.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301706",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-12 19:43:29",
+      "data_hora_confirmacao": "2023-10-13 11:49:53",
+      "data_hora_confirmacao_pagamento": "2023-10-13 11:50:03",
+      "valor_total_produtos": 82.5,
+      "valor_frete": 10.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 93.28,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11483",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-07 21:02:18",
+      "data_hora_confirmacao": "2024-05-08 16:18:52",
+      "data_hora_confirmacao_pagamento": "2024-05-08 16:18:40",
+      "valor_total_produtos": 91.72,
+      "valor_frete": 18.4,
+      "frete": "JADLOG",
+      "valor_total_pedido": 110.12,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18054": {
+      "codigo": "18054",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE - Cor: VERDE CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD37.2": {
+      "codigo": "CD37.2",
+      "titulo": "FONE DE OUVIDO - TWS i12 - Cor: Branca",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD16.31G": {
+      "codigo": "CD16.31G",
+      "titulo": "Camisetas de Time Tailandesas - Juventus - Tamanho: G - Times : Juventus",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD70.1M": {
+      "codigo": "CD70.1M",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "13854",
+  "nome": "JOÃO VITOR",
+  "email": "jhowvitorss@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/08/2024",
+  "whatsapp": "(55) 99604-8635",
+  "cidade": "São Nicolau",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 70.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "18488",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 21:50:27",
+      "data_hora_confirmacao": "2024-08-13 09:45:07",
+      "data_hora_confirmacao_pagamento": "2024-08-13 09:44:59",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 15.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.05,
+      "desconto": 0,
+      "cidade": "São Nicolau",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23808",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 11:33:34",
+      "data_hora_confirmacao": "2024-11-06 11:47:45",
+      "data_hora_confirmacao_pagamento": "2024-11-06 11:47:45",
+      "valor_total_produtos": 19.99,
+      "valor_frete": 15.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.06,
+      "desconto": 0,
+      "cidade": "São Nicolau",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "26512": {
+      "codigo": "26512",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27247": {
+      "codigo": "27247",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "3043",
+  "nome": "RODRIGO TAROSSO CARDOSO",
+  "email": "rodrigotarosso@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(19) 99456-4313",
+  "cidade": "Elias Fausto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 433.93000000000006,
+  "pedidos": [
+    {
+      "codigo_pedido": "5240",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 01:13:34",
+      "data_hora_confirmacao": "2023-12-20 07:42:18",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:42:29",
+      "valor_total_produtos": 281.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 281.97,
+      "desconto": 0,
+      "cidade": "Elias Fausto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5392",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 23:06:24",
+      "data_hora_confirmacao": "2023-12-21 13:10:08",
+      "data_hora_confirmacao_pagamento": "2023-12-21 15:06:16",
+      "valor_total_produtos": 151.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 151.96,
+      "desconto": 0,
+      "cidade": "Elias Fausto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA16": {
+      "codigo": "PA16",
+      "titulo": "CORRENTE DE PRATA ESCAMA  4,5MM 70CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD39.39": {
+      "codigo": "CD39.39",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT19.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.38": {
+      "codigo": "CD39.38",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT19.12   - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD69.15": {
+      "codigo": "CD69.15",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12    - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.13": {
+      "codigo": "CD69.13",
+      "titulo": "CAMISETA EGIPICIA COTTON - D&G LT20.12  - Cor: Branca - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD69.4": {
+      "codigo": "CD69.4",
+      "titulo": "CAMISETA EGIPICIA COTTON - GUCCI  LT20.12   - Cor: Branco e Azul - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.14": {
+      "codigo": "CD69.14",
+      "titulo": "CAMISETA EGIPICIA COTTON - LOUIS VUITTON  LT20.12   - Cor: Preto - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

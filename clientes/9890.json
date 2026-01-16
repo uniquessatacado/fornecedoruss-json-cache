@@ -1,0 +1,88 @@
+{
+  "codigo": "9890",
+  "nome": "HECTOR CAUAN DE OLIVEIRA BUENO",
+  "email": "cauahector11@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/05/2024",
+  "whatsapp": "(19) 9950-55166",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 198.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "12567",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-24 18:55:00",
+      "data_hora_confirmacao": "2024-05-24 19:05:38",
+      "data_hora_confirmacao_pagamento": "2024-05-24 19:05:48",
+      "valor_total_produtos": 173.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 173.97,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12663",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-27 14:19:14",
+      "data_hora_confirmacao": "2024-05-27 14:19:14",
+      "data_hora_confirmacao_pagamento": "2024-05-27 14:21:11",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 24.99,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17721": {
+      "codigo": "17721",
+      "titulo": "MOLETOM 3 CABOS  CANGURU ARMANI  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "19194": {
+      "codigo": "19194",
+      "titulo": "Bermuda Microfibra Super Premium HUGO BOSS arte em silk - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19248": {
+      "codigo": "19248",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD22.1GG": {
+      "codigo": "CD22.1GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

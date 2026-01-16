@@ -1,0 +1,53 @@
+{
+  "codigo": "17863",
+  "nome": "ANA JÚLIA DE LIMA VALENTIN",
+  "email": "ana.valentin@sou.fae.br",
+  "sexo": "0",
+  "data_cadastro": "27/11/2024",
+  "whatsapp": "(19) 99551-0530",
+  "cidade": "São João da Boa Vista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "25162",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-27 20:44:04",
+      "data_hora_confirmacao": "2024-11-27 20:51:00",
+      "data_hora_confirmacao_pagamento": "2024-12-06 11:08:44",
+      "valor_total_produtos": 75.16,
+      "valor_frete": 25.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.8,
+      "desconto": 0,
+      "cidade": "São João da Boa Vista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "25249": {
+      "codigo": "25249",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34055": {
+      "codigo": "34055",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

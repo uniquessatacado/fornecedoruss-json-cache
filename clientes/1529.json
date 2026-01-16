@@ -1,0 +1,53 @@
+{
+  "codigo": "1529",
+  "nome": "TULIO VERISSIMO",
+  "email": "tulioverissimo36@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(24) 99291-7737",
+  "cidade": "Barra Mansa",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 99.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "30070",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-31 10:35:02",
+      "data_hora_confirmacao": "2025-05-31 10:35:58",
+      "data_hora_confirmacao_pagamento": "2025-05-31 10:35:58",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 16.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.87,
+      "desconto": 0,
+      "cidade": "Barra Mansa",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48943": {
+      "codigo": "48943",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48945": {
+      "codigo": "48945",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

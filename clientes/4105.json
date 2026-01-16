@@ -1,0 +1,120 @@
+{
+  "codigo": "4105",
+  "nome": "EDUARDO BEZERRA",
+  "email": "Eduardobsilva91@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/11/2023",
+  "whatsapp": "(11) 97670-3406",
+  "cidade": "Poá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 327.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "3248",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 09:30:06",
+      "data_hora_confirmacao": "2023-11-17 12:43:28",
+      "data_hora_confirmacao_pagamento": "2023-11-17 12:43:41",
+      "valor_total_produtos": 120,
+      "valor_frete": 12.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 132.25,
+      "desconto": 0,
+      "cidade": "Poá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8740",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 12:41:33",
+      "data_hora_confirmacao": "2024-03-20 14:43:49",
+      "data_hora_confirmacao_pagamento": "2024-03-20 14:43:36",
+      "valor_total_produtos": 178.95,
+      "valor_frete": 16.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 195.37,
+      "desconto": 0,
+      "cidade": "Poá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.45": {
+      "codigo": "CD02.45",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11  - Cor: Bege - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.1": {
+      "codigo": "CD57.1",
+      "titulo": "REGATAS 40.1 - QUIKSILVER  16.11 - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "INATIVA REGATAS 40.1 ",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.122G": {
+      "codigo": "CD02.122G",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Azul Marinho - Marca: Rip Curl - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": "1"
+    },
+    "CD02.122M": {
+      "codigo": "CD02.122M",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Marrom - Marca: Rip Curl - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": "1"
+    },
+    "CD02.127G": {
+      "codigo": "CD02.127G",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Bege - Marca: MCD - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD02.127M": {
+      "codigo": "CD02.127M",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Bege - Marca: MCD - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "KT1.1GG": {
+      "codigo": "KT1.1GG",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

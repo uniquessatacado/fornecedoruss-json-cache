@@ -1,0 +1,45 @@
+{
+  "codigo": "12491",
+  "nome": "MATHEUS MANOEL",
+  "email": "matheusmanoel544@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(61) 98175-7594",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 37.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "16101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-15 23:17:40",
+      "data_hora_confirmacao": "2024-07-16 16:11:13",
+      "data_hora_confirmacao_pagamento": "2024-07-16 16:11:07",
+      "valor_total_produtos": 21.99,
+      "valor_frete": 15.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 37.03,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23534": {
+      "codigo": "23534",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

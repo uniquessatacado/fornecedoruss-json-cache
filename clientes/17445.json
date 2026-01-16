@@ -1,0 +1,80 @@
+{
+  "codigo": "17445",
+  "nome": "GUILHERME PRATA",
+  "email": "guilhermep87@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "13/11/2024",
+  "whatsapp": "(13) 99615-3031",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 116.53999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "28535",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-03 13:40:41",
+      "data_hora_confirmacao": "2025-03-03 13:42:53",
+      "data_hora_confirmacao_pagamento": "2025-03-03 13:42:53",
+      "valor_total_produtos": 50,
+      "valor_frete": 13.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.06,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28606",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-08 12:46:40",
+      "data_hora_confirmacao": "2025-03-08 14:00:02",
+      "data_hora_confirmacao_pagamento": "2025-03-08 14:00:02",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.48,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42382": {
+      "codigo": "42382",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42410": {
+      "codigo": "42410",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42424": {
+      "codigo": "42424",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

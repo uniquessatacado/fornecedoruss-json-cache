@@ -1,0 +1,77 @@
+{
+  "codigo": "3853",
+  "nome": "ANSELMO NEVES",
+  "email": "anselmoneves1@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2023",
+  "whatsapp": "(14) 99726-6802",
+  "cidade": "Tupã",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 78.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "2552",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-01 01:34:29",
+      "data_hora_confirmacao": "2023-11-01 11:39:22",
+      "data_hora_confirmacao_pagamento": "2023-11-01 11:39:34",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 18.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 78.4,
+      "desconto": 0,
+      "cidade": "Tupã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.36M - HUGO BOSS": {
+      "codigo": "CD24.36M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Preto - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD24.36M - BROOKSFIELD": {
+      "codigo": "CD24.36M - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Cinza - Marca: Brooksfield - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    }
+  }
+}

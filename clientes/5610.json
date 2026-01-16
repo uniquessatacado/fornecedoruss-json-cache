@@ -1,0 +1,115 @@
+{
+  "codigo": "5610",
+  "nome": "FERNANDO BUENO",
+  "email": "fernandomariliasp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(11) 97255-3461",
+  "cidade": "Bragança Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 279.66999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "6810",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-24 19:35:47",
+      "data_hora_confirmacao": "2024-01-25 13:30:07",
+      "data_hora_confirmacao_pagamento": "2024-01-25 13:30:22",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 10.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.86,
+      "desconto": 0,
+      "cidade": "Bragança Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8258",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 05:54:36",
+      "data_hora_confirmacao": "2024-03-12 10:34:03",
+      "data_hora_confirmacao_pagamento": "2024-03-12 10:33:58",
+      "valor_total_produtos": 170.92,
+      "valor_frete": 15.99,
+      "frete": "SEDEX",
+      "valor_total_pedido": 186.91,
+      "desconto": 0,
+      "cidade": "Bragança Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8339",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-12 19:31:53",
+      "data_hora_confirmacao": "2024-03-12 19:34:10",
+      "data_hora_confirmacao_pagamento": "2024-03-12 19:34:04",
+      "valor_total_produtos": 19.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 19.9,
+      "desconto": 0,
+      "cidade": "Bragança Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD31G": {
+      "codigo": "CD31G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD02.116GG": {
+      "codigo": "CD02.116GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD30G": {
+      "codigo": "CD30G",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

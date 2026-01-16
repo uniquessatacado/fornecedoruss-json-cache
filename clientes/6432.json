@@ -1,0 +1,80 @@
+{
+  "codigo": "6432",
+  "nome": "JULIO HENRIQUE DA SILVA GOES",
+  "email": "julioh26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(41) 98746-6019",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 136.60000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "7704",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 11:16:59",
+      "data_hora_confirmacao": "2024-02-27 12:51:08",
+      "data_hora_confirmacao_pagamento": "2024-02-27 12:51:03",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 12.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.65,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21893",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-27 15:46:09",
+      "data_hora_confirmacao": "2024-09-30 09:56:28",
+      "data_hora_confirmacao_pagamento": "2024-09-30 09:56:21",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 13.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.95,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31518": {
+      "codigo": "31518",
+      "titulo": "Chinelo Kenner Rakka Mono - COR CHINELO: MARROM - Marca: KENNER - MODELO CHINELO: KENNER RAKKA MONO - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD24.03G": {
+      "codigo": "CD24.03G",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Branca - Marca: Versace - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "3"
+    },
+    "CD24.04G": {
+      "codigo": "CD24.04G",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    }
+  }
+}

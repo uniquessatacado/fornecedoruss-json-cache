@@ -1,0 +1,168 @@
+{
+  "codigo": "4127",
+  "nome": "PATRICIA LUCINDA MONTEIRO",
+  "email": "patricia-lucinda@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/11/2023",
+  "whatsapp": "(16) 99288-3631",
+  "cidade": "Bauru",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 366.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "3354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-18 16:27:54",
+      "data_hora_confirmacao": "2023-11-22 15:32:22",
+      "data_hora_confirmacao_pagamento": "2023-11-22 15:32:42",
+      "valor_total_produtos": 153.5,
+      "valor_frete": 16.82,
+      "frete": "JADLOG",
+      "valor_total_pedido": 170.32,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25815",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 11:16:50",
+      "data_hora_confirmacao": "2024-12-06 11:18:20",
+      "data_hora_confirmacao_pagamento": "2024-12-06 11:18:20",
+      "valor_total_produtos": 180.91,
+      "valor_frete": 15.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 196.05,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22981": {
+      "codigo": "22981",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "2"
+    },
+    "28378": {
+      "codigo": "28378",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "34026": {
+      "codigo": "34026",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35209": {
+      "codigo": "35209",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35381": {
+      "codigo": "35381",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35401": {
+      "codigo": "35401",
+      "titulo": "Cuecas Peruanas - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "36185": {
+      "codigo": "36185",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD5-BS) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36306": {
+      "codigo": "36306",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD7-AZ-DSL) (MD4-OFF-DSL) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD02.46": {
+      "codigo": "CD02.46",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT16.11   - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Cinza - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

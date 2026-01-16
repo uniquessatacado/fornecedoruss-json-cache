@@ -1,0 +1,123 @@
+{
+  "codigo": "2759",
+  "nome": "MÁRCIO MARTINS SILVA",
+  "email": "marciooicran04@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(62) 98586-0678",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 290.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300772",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 17:18:44",
+      "data_hora_confirmacao": "2023-09-27 10:43:46",
+      "data_hora_confirmacao_pagamento": "2023-09-27 10:43:33",
+      "valor_total_produtos": 127,
+      "valor_frete": 37.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 164.75,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300864",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 18:33:58",
+      "data_hora_confirmacao": "2023-09-29 11:25:40",
+      "data_hora_confirmacao_pagamento": "2023-09-29 11:25:47",
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28510",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-02 00:46:18",
+      "data_hora_confirmacao": "2025-03-02 00:50:07",
+      "data_hora_confirmacao_pagamento": "2025-03-02 00:50:07",
+      "valor_total_produtos": 72.92,
+      "valor_frete": 19.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.85,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41169": {
+      "codigo": "41169",
+      "titulo": "Bermuda Ultra Dry LT16A  (C315) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Ultra Dry",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42388": {
+      "codigo": "42388",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD08.29M": {
+      "codigo": "CD08.29M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte em alto relevo) - Cor: Vermelha - Marca: Diesel - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD17.19M": {
+      "codigo": "CD17.19M",
+      "titulo": "Bermuda Microfibra Ultra - Boss  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.11M": {
+      "codigo": "CD17.11M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

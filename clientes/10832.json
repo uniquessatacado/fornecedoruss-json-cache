@@ -1,0 +1,72 @@
+{
+  "codigo": "10832",
+  "nome": "NATALY ISABELI AMORIM",
+  "email": "natalyamorim222@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/06/2024",
+  "whatsapp": "(19) 99417-9968",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 129.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "13567",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-12 18:02:58",
+      "data_hora_confirmacao": "2024-06-13 09:54:10",
+      "data_hora_confirmacao_pagamento": "2024-06-13 09:54:04",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 35.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17828",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-04 00:55:55",
+      "data_hora_confirmacao": "2024-08-05 11:43:40",
+      "data_hora_confirmacao_pagamento": "2024-08-05 11:43:32",
+      "valor_total_produtos": 93.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 93.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19222": {
+      "codigo": "19222",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26273": {
+      "codigo": "26273",
+      "titulo": "MOLETOM 3 CABOS CANGURU - HUGO BOSS - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

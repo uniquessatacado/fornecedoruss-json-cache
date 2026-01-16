@@ -1,0 +1,104 @@
+{
+  "codigo": "3949",
+  "nome": "BRUNO COLOMBO DE LIMA",
+  "email": "bcolombo83@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(27) 98843-5632",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 191.64999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "26230",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-12 11:44:12",
+      "data_hora_confirmacao": "2024-12-12 11:45:51",
+      "data_hora_confirmacao_pagamento": "2024-12-12 11:45:51",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 43.8,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28374",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-26 13:09:14",
+      "data_hora_confirmacao": "2025-02-26 13:20:07",
+      "data_hora_confirmacao_pagamento": "2025-02-26 13:20:07",
+      "valor_total_produtos": 106.92,
+      "valor_frete": 40.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 147.85,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35456": {
+      "codigo": "35456",
+      "titulo": "Cuecas Peruanas - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "40787": {
+      "codigo": "40787",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "40854": {
+      "codigo": "40854",
+      "titulo": "Cuecas Peruanas (C266)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40861": {
+      "codigo": "40861",
+      "titulo": "Cuecas Peruanas (C266)  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42245": {
+      "codigo": "42245",
+      "titulo": "Bermuda Microfibra Ultra (C614) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42273": {
+      "codigo": "42273",
+      "titulo": "Bermuda Microfibra Ultra (C614) - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

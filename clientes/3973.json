@@ -1,0 +1,85 @@
+{
+  "codigo": "3973",
+  "nome": "WELLYSON BATISTA",
+  "email": "wellyson_pereirab@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(98) 98408-3899",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 277.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "2924",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 23:36:53",
+      "data_hora_confirmacao": "2023-11-09 15:10:54",
+      "data_hora_confirmacao_pagamento": "2023-11-09 15:11:06",
+      "valor_total_produtos": 245.9,
+      "valor_frete": 31.67,
+      "frete": "JADLOG",
+      "valor_total_pedido": 277.57,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD40.13": {
+      "codigo": "CD40.13",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT31.10    - Cor: Marrom - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.3M": {
+      "codigo": "CD40.3M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - HUGO BOSS  LT30.10 - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD07.29M": {
+      "codigo": "CD07.29M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Dior - Cor: Preto - Marca: Dior - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD46.2": {
+      "codigo": "CD46.2",
+      "titulo": "Camiseta Genuína Cotton Soft - MOSCHINO  LT30.10  - Cor: OffWhite - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD08.42": {
+      "codigo": "CD08.42",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

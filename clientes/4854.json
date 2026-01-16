@@ -1,0 +1,53 @@
+{
+  "codigo": "4854",
+  "nome": "KLEBERSON FRANÇA",
+  "email": "francaklebson7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(11) 91177-4101",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 112.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "5190",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-19 22:03:28",
+      "data_hora_confirmacao": "2023-12-20 08:43:27",
+      "data_hora_confirmacao_pagamento": "2023-12-21 15:38:14",
+      "valor_total_produtos": 112.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 112.97,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.41": {
+      "codigo": "CD39.41",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

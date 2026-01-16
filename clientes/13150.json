@@ -1,0 +1,93 @@
+{
+  "codigo": "13150",
+  "nome": "IVAN GUILHERME",
+  "email": "ivan20guilherme@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/07/2024",
+  "whatsapp": "(86) 9885-73089",
+  "cidade": "Teresina",
+  "estado": "PI",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 289.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "25416",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-30 08:07:09",
+      "data_hora_confirmacao": "2024-11-30 08:08:38",
+      "data_hora_confirmacao_pagamento": "2024-11-30 08:08:38",
+      "valor_total_produtos": 240.93,
+      "valor_frete": 49.04,
+      "frete": "PAC",
+      "valor_total_pedido": 289.97,
+      "desconto": 0,
+      "cidade": "Teresina",
+      "estado": "PI",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35351": {
+      "codigo": "35351",
+      "titulo": "Bermuda Microfibra Ultra - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35471": {
+      "codigo": "35471",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "CYCLONE",
+      "quantidade": "1"
+    },
+    "35475": {
+      "codigo": "35475",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "CYCLONE",
+      "quantidade": "1"
+    },
+    "35477": {
+      "codigo": "35477",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "CYCLONE",
+      "quantidade": "1"
+    },
+    "35855": {
+      "codigo": "35855",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35887": {
+      "codigo": "35887",
+      "titulo": "Bermuda Microfibra hiper - modelo mais comprido - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35919": {
+      "codigo": "35919",
+      "titulo": "Bermuda Microfibra hiper - modelo mais comprido  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "codigo": "2730",
+  "nome": "AQUILES SOARES MOREIRA",
+  "email": "aquiles.moreirape@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(81) 99758-2368",
+  "cidade": "Jaboatão dos Guararapes",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 722.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300778",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 19:10:48",
+      "data_hora_confirmacao": "2023-09-26 20:06:21",
+      "data_hora_confirmacao_pagamento": "2023-09-26 20:06:31",
+      "valor_total_produtos": 600,
+      "valor_frete": 49.62,
+      "frete": "PAC",
+      "valor_total_pedido": 649.62,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300982",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 16:56:34",
+      "data_hora_confirmacao": "2023-09-29 17:12:11",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 73,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 73,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.1G": {
+      "codigo": "CD17.1G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.8M": {
+      "codigo": "CD17.8M",
+      "titulo": "Bermuda Microfibra Ultra - Armani - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD33.1G": {
+      "codigo": "CD33.1G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci - Cor: Branca - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.6M": {
+      "codigo": "CD33.6M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste   - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.5G": {
+      "codigo": "CD08.5G",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Diesel - Cor: Cinza - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.8M": {
+      "codigo": "CD08.8M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Preto - Marca: Dior - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD08.10M": {
+      "codigo": "CD08.10M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Dior (Bordada) - Cor: Branca - Marca: Dior - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD08.12G": {
+      "codigo": "CD08.12G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Fendi - Cor: Preto - Marca: Balmain - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "FENDI",
+      "quantidade": "1"
+    },
+    "CD08.13G": {
+      "codigo": "CD08.13G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Louis Vuitton (Aplique Abordada) - Cor: Verde - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD08.15M": {
+      "codigo": "CD08.15M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.19G": {
+      "codigo": "CD08.19G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte em Chenille e Bordada) - Cor: Preto - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.21M": {
+      "codigo": "CD08.21M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Tommy (Arte Bordada em linha madeira e Emborrachada) - Cor: Branca - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD02.12G1": {
+      "codigo": "CD02.12G1",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium  - Cor: OffWhite - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.21M- Boss": {
+      "codigo": "CD24.21M- Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Preto - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "CD07.4M": {
+      "codigo": "CD07.4M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Armani (Aplique) - Cor: Branca - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

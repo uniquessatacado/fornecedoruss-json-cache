@@ -1,0 +1,53 @@
+{
+  "codigo": "7614",
+  "nome": "ROBERT SARDINHA LIMA",
+  "email": "robertlima02@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(91) 98541-1577",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "21801",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-26 13:55:06",
+      "data_hora_confirmacao": "2024-09-26 14:19:26",
+      "data_hora_confirmacao_pagamento": "2024-09-26 14:19:16",
+      "valor_total_produtos": 59.98,
+      "valor_frete": 22.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.21,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30829": {
+      "codigo": "30829",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31335": {
+      "codigo": "31335",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

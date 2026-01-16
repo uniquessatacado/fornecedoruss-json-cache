@@ -1,0 +1,69 @@
+{
+  "codigo": "10428",
+  "nome": "SILVANA MOURA AZEVEDO",
+  "email": "mouraazevedosilvana886@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(19) 98891-0917",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 119.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "13105",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 13:46:38",
+      "data_hora_confirmacao": "2024-06-06 09:57:27",
+      "data_hora_confirmacao_pagamento": "2024-06-06 09:57:20",
+      "valor_total_produtos": 104.96,
+      "valor_frete": 14.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.23,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19733": {
+      "codigo": "19733",
+      "titulo": "Boné Super Premium - ARMANI - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "19838": {
+      "codigo": "19838",
+      "titulo": "Boné Super Premium - NIKE   - Cor: AZUL BEBE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19886": {
+      "codigo": "19886",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: SALMÃO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

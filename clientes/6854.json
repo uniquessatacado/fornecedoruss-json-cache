@@ -1,0 +1,53 @@
+{
+  "codigo": "6854",
+  "nome": "FELIPE LUCAS ATHAYDE",
+  "email": "felipeflcar99@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/03/2024",
+  "whatsapp": "(75) 99859-0561",
+  "cidade": "Seabra",
+  "estado": "BA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 157.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "8375",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 01:46:45",
+      "data_hora_confirmacao": "2024-03-13 17:17:34",
+      "data_hora_confirmacao_pagamento": "2024-03-13 17:17:28",
+      "valor_total_produtos": 113.79,
+      "valor_frete": 43.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 157.34,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.06G": {
+      "codigo": "CD39.06G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

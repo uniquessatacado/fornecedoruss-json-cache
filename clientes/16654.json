@@ -1,0 +1,85 @@
+{
+  "codigo": "16654",
+  "nome": "PEDRO REBELLO",
+  "email": "prebello2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2024",
+  "whatsapp": "(22) 99829-5127",
+  "cidade": "Macaé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 193.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "23244",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 14:32:39",
+      "data_hora_confirmacao": "2024-10-24 18:03:59",
+      "data_hora_confirmacao_pagamento": "2024-10-24 18:03:53",
+      "valor_total_produtos": 172.94,
+      "valor_frete": 20.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 193.02,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26368": {
+      "codigo": "26368",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29023": {
+      "codigo": "29023",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31877": {
+      "codigo": "31877",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32595": {
+      "codigo": "32595",
+      "titulo": "Bermuda Microfibra Ultra - NIKE bordado MADEIRA  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32790": {
+      "codigo": "32790",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32872": {
+      "codigo": "32872",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

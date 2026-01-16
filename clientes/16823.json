@@ -1,0 +1,53 @@
+{
+  "codigo": "16823",
+  "nome": "MATHEUS HINNTON DA SILVA",
+  "email": "hinntonmatheus@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/10/2024",
+  "whatsapp": "(32) 99871-3037",
+  "cidade": "Santa Cruz de Minas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 35.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "23212",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 10:27:46",
+      "data_hora_confirmacao": "2024-10-23 13:01:40",
+      "data_hora_confirmacao_pagamento": "2024-10-23 13:01:26",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.77,
+      "desconto": 0,
+      "cidade": "Santa Cruz de Minas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28428": {
+      "codigo": "28428",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "31454": {
+      "codigo": "31454",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

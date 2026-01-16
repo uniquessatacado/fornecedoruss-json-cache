@@ -1,0 +1,112 @@
+{
+  "codigo": "17207",
+  "nome": "EDUARDO FERNANDO DA SILVA",
+  "email": "eduagorreta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2024",
+  "whatsapp": "(11) 97155-5545",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 292.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "23813",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-11-06 11:53:49",
+      "data_hora_confirmacao": "2024-11-08 11:16:22",
+      "data_hora_confirmacao_pagamento": "2024-11-08 11:16:00",
+      "valor_total_produtos": 245.94,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 255.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24199",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-11 12:31:27",
+      "data_hora_confirmacao": "2024-11-11 12:35:42",
+      "data_hora_confirmacao_pagamento": "2024-11-11 12:43:01",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30107": {
+      "codigo": "30107",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - QUIKSILVER - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "33301": {
+      "codigo": "33301",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33329": {
+      "codigo": "33329",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33434": {
+      "codigo": "33434",
+      "titulo": "Camiseta Algodão Soft Americano - DOLCE GABBANA arte em BORDADO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33461": {
+      "codigo": "33461",
+      "titulo": "Camiseta Algodão Stretch Americano - LOUIS VUITTON arte em BORDADO - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "33479": {
+      "codigo": "33479",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33925": {
+      "codigo": "33925",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "5018",
+  "nome": "JOAO PAULO PALADINI",
+  "email": "joaopaladini16@gmal.com",
+  "sexo": "1",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(19) 99267-8262",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 104.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "5695",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-23 10:36:48",
+      "data_hora_confirmacao": "2023-12-23 10:37:48",
+      "data_hora_confirmacao_pagamento": "2023-12-26 10:26:49",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 71.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10217",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-18 12:27:51",
+      "data_hora_confirmacao": "2024-04-18 14:11:08",
+      "data_hora_confirmacao_pagamento": "2024-04-19 18:26:16",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 32.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD2.81": {
+      "codigo": "CD2.81",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.40": {
+      "codigo": "CD39.40",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.7GG": {
+      "codigo": "CD15.7GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: PRETA - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

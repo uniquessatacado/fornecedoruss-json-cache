@@ -1,0 +1,77 @@
+{
+  "codigo": "18538",
+  "nome": "MÁRIO SÉRGIO MENDES DA SILVA",
+  "email": "marioesimone@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "20/12/2024",
+  "whatsapp": "(21) 99168-5858",
+  "cidade": "Teresópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "26844",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 05:52:21",
+      "data_hora_confirmacao": "2024-12-20 05:55:01",
+      "data_hora_confirmacao_pagamento": "2024-12-20 05:55:01",
+      "valor_total_produtos": 103.32,
+      "valor_frete": 19.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.14,
+      "desconto": 0,
+      "cidade": "Teresópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37088": {
+      "codigo": "37088",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE (C03) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37091": {
+      "codigo": "37091",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE (C03) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37857": {
+      "codigo": "37857",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "37893": {
+      "codigo": "37893",
+      "titulo": "MEIAS PERUANAS (C69) - Marca: Puma - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "37935": {
+      "codigo": "37935",
+      "titulo": "MEIAS PERUANAS (C67) - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

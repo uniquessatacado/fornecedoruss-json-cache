@@ -1,0 +1,45 @@
+{
+  "codigo": "4407",
+  "nome": "MICHAEL RIQUELME SILVA BENTO",
+  "email": "michaelriquelme2006@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "02/12/2023",
+  "whatsapp": "(31) 9852-80171",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 99.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "3996",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 11:13:29",
+      "data_hora_confirmacao": "2023-12-05 14:07:50",
+      "data_hora_confirmacao_pagamento": "2023-12-05 14:08:01",
+      "valor_total_produtos": 71.88,
+      "valor_frete": 27.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 99.55,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.5Juliet": {
+      "codigo": "CD32.5Juliet",
+      "titulo": "Óculos  Juliet - Rosa Transparente - Cor da Armação: Chumbo - Cor da Lente: Rosa Transparente - Kit Borracha: Rosa - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "6519",
+  "nome": "CARLOS ALEXANDRE JUSTINO",
+  "email": "leoalexandre872@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/03/2024",
+  "whatsapp": "(11) 94395-3588",
+  "cidade": "Santana de Parnaíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 189.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "7889",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-01 12:51:24",
+      "data_hora_confirmacao": "2024-03-01 13:19:43",
+      "data_hora_confirmacao_pagamento": "2024-03-01 13:19:34",
+      "valor_total_produtos": 173.95,
+      "valor_frete": 15.72,
+      "frete": "SEDEX",
+      "valor_total_pedido": 189.67,
+      "desconto": 0,
+      "cidade": "Santana de Parnaíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.113G": {
+      "codigo": "CD02.113G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.1G": {
+      "codigo": "CD15.1G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Hugo boss M1 - Cor: Azul - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD39.02G": {
+      "codigo": "CD39.02G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

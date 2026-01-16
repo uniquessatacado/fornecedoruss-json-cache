@@ -1,0 +1,45 @@
+{
+  "codigo": "4639",
+  "nome": "MAGALI MIGUEL MARIANI",
+  "email": "mmm_mariani@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(16) 98201-7714",
+  "cidade": "São Carlos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 48.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "4451",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 19:10:31",
+      "data_hora_confirmacao": "2023-12-11 22:40:33",
+      "data_hora_confirmacao_pagamento": "2023-12-11 22:40:45",
+      "valor_total_produtos": 39.2,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.8,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.10": {
+      "codigo": "CD67.10",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT07.12   - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    }
+  }
+}

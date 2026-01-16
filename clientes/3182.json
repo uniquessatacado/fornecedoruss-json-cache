@@ -1,0 +1,53 @@
+{
+  "codigo": "3182",
+  "nome": "ADALBERTO JUNIO PEREIRA",
+  "email": "adalbertojuniop6@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(31) 9967-10795",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 59.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "5341",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 15:59:14",
+      "data_hora_confirmacao": "2023-12-20 17:12:25",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:12:35",
+      "valor_total_produtos": 44.95,
+      "valor_frete": 15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.95,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 2
+    }
+  }
+}

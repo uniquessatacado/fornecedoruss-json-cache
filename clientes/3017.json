@@ -1,0 +1,201 @@
+{
+  "codigo": "3017",
+  "nome": "PATRICK ROCCO",
+  "email": "patrickrogeriorocco@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(19) 97402-5855",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 678.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300891",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 22:16:11",
+      "data_hora_confirmacao": "2023-09-29 13:36:34",
+      "data_hora_confirmacao_pagamento": "2023-09-29 13:36:29",
+      "valor_total_produtos": 102,
+      "valor_frete": 17.71,
+      "frete": "SEDEX",
+      "valor_total_pedido": 119.71,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2738",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 00:26:25",
+      "data_hora_confirmacao": "2023-11-07 00:27:51",
+      "data_hora_confirmacao_pagamento": "2023-11-07 00:28:04",
+      "valor_total_produtos": 114.5,
+      "valor_frete": 12.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 126.7,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2883",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-08 15:06:53",
+      "data_hora_confirmacao": "2023-11-08 15:16:50",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 24,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 24,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3140",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-14 19:40:54",
+      "data_hora_confirmacao": "2023-11-14 20:08:08",
+      "data_hora_confirmacao_pagamento": "2023-11-14 20:08:17",
+      "valor_total_produtos": 174,
+      "valor_frete": 15.72,
+      "frete": "SEDEX",
+      "valor_total_pedido": 189.72,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6934",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-28 21:56:13",
+      "data_hora_confirmacao": "2024-01-29 09:32:38",
+      "data_hora_confirmacao_pagamento": "2024-01-29 09:32:59",
+      "valor_total_produtos": 201.94,
+      "valor_frete": 16.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 217.97,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.21G - Boss": {
+      "codigo": "CD24.21G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 12
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": 2
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD01.84": {
+      "codigo": "CD01.84",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT10.11 - Tamanho: M - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.92": {
+      "codigo": "CD01.92",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11   - Tamanho: M - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.74": {
+      "codigo": "CD01.74",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11    - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD40.19": {
+      "codigo": "CD40.19",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Cinza - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

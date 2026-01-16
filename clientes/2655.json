@@ -1,0 +1,214 @@
+{
+  "codigo": "2655",
+  "nome": "CLÁUDIO AUGUSTO RODRIGUES",
+  "email": "agrorv@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(16) 98146-0560",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 458.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300518",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 22:34:40",
+      "data_hora_confirmacao": "2023-09-22 23:55:24",
+      "data_hora_confirmacao_pagamento": "2023-09-22 23:55:33",
+      "valor_total_produtos": 226.5,
+      "valor_frete": 20.62,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 247.12,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300957",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 14:24:57",
+      "data_hora_confirmacao": "2023-09-29 14:25:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 38.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.5,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9650",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 09:24:20",
+      "data_hora_confirmacao": "2024-04-08 10:43:49",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:43:43",
+      "valor_total_produtos": 115.94,
+      "valor_frete": 18.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 134.51,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9765",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-09 15:52:00",
+      "data_hora_confirmacao": "2024-04-09 15:52:00",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.4G": {
+      "codigo": "CD02.4G",
+      "titulo": "Camiseta 40.1 Ultra Premium  Nike Jordan - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.23GG": {
+      "codigo": "CD02.23GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Marrom - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": 2
+    },
+    "CD02.2M": {
+      "codigo": "CD02.2M",
+      "titulo": "Camiseta 40.1 Ultra Premium Nike - Cor: Bege - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.1M - Boss": {
+      "codigo": "CD24.1M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.2M - Nike": {
+      "codigo": "CD24.2M - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD24.4M -  Boss": {
+      "codigo": "CD24.4M -  Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.13M - Lacoste": {
+      "codigo": "CD24.13M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.19G - Calvin Klein": {
+      "codigo": "CD24.19G - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD24.20M - Gucci": {
+      "codigo": "CD24.20M - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD02.25G": {
+      "codigo": "CD02.25G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Ambar - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD25.10M": {
+      "codigo": "CD25.10M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LOUIS VUITTON - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": 2
+    },
+    "CD25.05M": {
+      "codigo": "CD25.05M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA PRADA - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD24.13G": {
+      "codigo": "CD24.13G",
+      "titulo": "Cueca Peruana - NIKE - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "4"
+    }
+  }
+}

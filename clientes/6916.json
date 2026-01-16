@@ -1,0 +1,45 @@
+{
+  "codigo": "6916",
+  "nome": "RAFAEL TAVARES",
+  "email": "rafael2014tavares@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(19) 98611-0239",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "8411",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 16:41:25",
+      "data_hora_confirmacao": "2024-03-13 17:42:43",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 50.53,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 50.53,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 33,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.07M": {
+      "codigo": "CD25.07M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Branco - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "2464",
+  "nome": "MICHELE OLIVEIRA DOS SANTOS",
+  "email": "michelly2333@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(83) 98808-4055",
+  "cidade": "Santa Rita",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 152.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "9671",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 14:02:17",
+      "data_hora_confirmacao": "2024-04-08 14:12:01",
+      "data_hora_confirmacao_pagamento": "2024-04-08 14:11:57",
+      "valor_total_produtos": 88.64,
+      "valor_frete": 25.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.05,
+      "desconto": 0,
+      "cidade": "Santa Rita",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9767",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-09 16:10:27",
+      "data_hora_confirmacao": "2024-04-09 16:10:27",
+      "data_hora_confirmacao_pagamento": "2024-04-09 16:21:28",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.9,
+      "desconto": 0,
+      "cidade": "Santa Rita",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.138G": {
+      "codigo": "CD02.138G",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: OFFWHITE - Marca: Puma - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11G": {
+      "codigo": "CD39.11G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.09G": {
+      "codigo": "CD39.09G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Vinho - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

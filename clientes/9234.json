@@ -1,0 +1,53 @@
+{
+  "codigo": "9234",
+  "nome": "CALLEBE BERNI CARDOSO",
+  "email": "callebe17@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/05/2024",
+  "whatsapp": "(11) 99744-0329",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "11543",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-09 18:42:17",
+      "data_hora_confirmacao": "2024-05-10 09:29:18",
+      "data_hora_confirmacao_pagamento": "2024-05-10 09:29:01",
+      "valor_total_produtos": 37.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.91,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Azul Bebê",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

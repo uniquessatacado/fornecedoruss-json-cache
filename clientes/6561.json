@@ -1,0 +1,53 @@
+{
+  "codigo": "6561",
+  "nome": "THIAGO BRITO DA SILVA",
+  "email": "thiaguinsilva20007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/03/2024",
+  "whatsapp": "(34) 98412-2158",
+  "cidade": "Uberlândia",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 106.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "11711",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-11 09:25:43",
+      "data_hora_confirmacao": "2024-05-11 12:09:24",
+      "data_hora_confirmacao_pagamento": "2024-05-11 12:09:19",
+      "valor_total_produtos": 88.98,
+      "valor_frete": 17.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.32,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD22.1G": {
+      "codigo": "CD22.1G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD6.01G": {
+      "codigo": "CD6.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

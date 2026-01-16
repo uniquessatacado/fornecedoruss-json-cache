@@ -1,0 +1,88 @@
+{
+  "codigo": "8510",
+  "nome": "IGOR VICENTE MARIANO",
+  "email": "igorvicente07@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(11) 98220-4718",
+  "cidade": "Mauá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 143,
+  "pedidos": [
+    {
+      "codigo_pedido": "10559",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-23 14:02:44",
+      "data_hora_confirmacao": "2024-04-23 15:55:16",
+      "data_hora_confirmacao_pagamento": "2024-04-23 15:55:08",
+      "valor_total_produtos": 54.73,
+      "valor_frete": 13.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 67.86,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12565",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-24 17:37:23",
+      "data_hora_confirmacao": "2024-05-24 17:37:23",
+      "data_hora_confirmacao_pagamento": "2024-05-24 17:59:20",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10.15,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.14,
+      "desconto": 0,
+      "cidade": "Mauá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19639": {
+      "codigo": "19639",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO PRONTA ENTREGA)   - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL MARINHO - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    }
+  }
+}

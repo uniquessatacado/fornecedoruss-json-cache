@@ -1,0 +1,77 @@
+{
+  "codigo": "12366",
+  "nome": "RAUL ALEXANDRE COSTA",
+  "email": "alfameq_raul@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/07/2024",
+  "whatsapp": "(61) 99864-5762",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 197.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "15938",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 15:47:48",
+      "data_hora_confirmacao": "2024-07-15 10:04:53",
+      "data_hora_confirmacao_pagamento": "2024-07-15 10:04:46",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 17.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 197.59,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19218": {
+      "codigo": "19218",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20129": {
+      "codigo": "20129",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22359": {
+      "codigo": "22359",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23182": {
+      "codigo": "23182",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23556": {
+      "codigo": "23556",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

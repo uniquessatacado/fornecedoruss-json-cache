@@ -1,0 +1,115 @@
+{
+  "codigo": "3753",
+  "nome": "CARLOS HENRIQUE PINHEIRO LIMA",
+  "email": "carlosmordok@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/10/2023",
+  "whatsapp": "(19) 99964-5319",
+  "cidade": "Engenheiro Coelho",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 243.41000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "3842",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-30 00:46:47",
+      "data_hora_confirmacao": "2023-11-30 08:14:18",
+      "data_hora_confirmacao_pagamento": "2023-11-30 08:14:30",
+      "valor_total_produtos": 85.9,
+      "valor_frete": 11.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.04,
+      "desconto": 0,
+      "cidade": "Engenheiro Coelho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3941",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-03 01:20:08",
+      "data_hora_confirmacao": "2023-12-05 12:39:41",
+      "data_hora_confirmacao_pagamento": "2023-12-05 12:39:55",
+      "valor_total_produtos": 50,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.6,
+      "desconto": 0,
+      "cidade": "Engenheiro Coelho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4456",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 20:00:35",
+      "data_hora_confirmacao": "2023-12-11 22:38:39",
+      "data_hora_confirmacao_pagamento": "2023-12-11 22:38:48",
+      "valor_total_produtos": 75,
+      "valor_frete": 11.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 86.77,
+      "desconto": 0,
+      "cidade": "Engenheiro Coelho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.47": {
+      "codigo": "CD17.47",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.37": {
+      "codigo": "CD08.37",
+      "titulo": "Camiseta Genuína Cotton Tanguis - PRADA   LT28.10  - Cor: OffWhite - Marca: Prada - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD12.9": {
+      "codigo": "CD12.9",
+      "titulo": "Polo Piquet Duplo Ultra - ARMANI  LT29.11  - Cor: Vermelha - Marca: Armani - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD14.12": {
+      "codigo": "CD14.12",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT11.12  - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

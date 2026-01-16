@@ -1,0 +1,69 @@
+{
+  "codigo": "15332",
+  "nome": "MAYKO ORTIZ",
+  "email": "oemaildoortiz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/09/2024",
+  "whatsapp": "(51) 99666-6872",
+  "cidade": "Viamão",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 183.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "20625",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-08 13:03:08",
+      "data_hora_confirmacao": "2024-09-09 10:08:41",
+      "data_hora_confirmacao_pagamento": "2024-09-09 10:08:33",
+      "valor_total_produtos": 145.96,
+      "valor_frete": 37.28,
+      "frete": "SEDEX",
+      "valor_total_pedido": 183.24,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27110": {
+      "codigo": "27110",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em bordado e aplique - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28803": {
+      "codigo": "28803",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte composta - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28893": {
+      "codigo": "28893",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29847": {
+      "codigo": "29847",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

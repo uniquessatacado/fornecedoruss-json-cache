@@ -1,0 +1,72 @@
+{
+  "codigo": "19570",
+  "nome": "RYAN BARONI",
+  "email": "baronir603@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/03/2025",
+  "whatsapp": "(18) 99717-1624",
+  "cidade": "Araçatuba",
+  "estado": "SP",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 172.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "28806",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-18 20:58:29",
+      "data_hora_confirmacao": "2025-03-18 21:00:07",
+      "data_hora_confirmacao_pagamento": "2025-03-18 21:00:07",
+      "valor_total_produtos": 15.17,
+      "valor_frete": 24.38,
+      "frete": "SEDEX",
+      "valor_total_pedido": 39.55,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28981",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-02 19:25:52",
+      "data_hora_confirmacao": "2025-04-02 23:09:42",
+      "data_hora_confirmacao_pagamento": "2025-04-02 23:10:10",
+      "valor_total_produtos": 107.5,
+      "valor_frete": 25.21,
+      "frete": "SEDEX",
+      "valor_total_pedido": 132.71,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41296": {
+      "codigo": "41296",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45950": {
+      "codigo": "45950",
+      "titulo": "TAILANDESA PRONTA ENTREGA (PEDIDO MANUAL) - TAILANDESA A PRONTA ENTREGA (PEDIDO MANUAL): TTPAOGG",
+      "categoria_principal": "PRODUTOS PARA PEDIDO MANUAL",
+      "categoria": "TAILANDESA - PRONTA ENTREGA (PEDIDO MANUAL)",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

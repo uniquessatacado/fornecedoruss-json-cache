@@ -1,0 +1,387 @@
+{
+  "codigo": "3865",
+  "nome": "DIOGO LINHARES",
+  "email": "diogolinhares8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2023",
+  "whatsapp": "(88) 99707-9961",
+  "cidade": "Ibiapina",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1834.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "2598",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-01 17:36:04",
+      "data_hora_confirmacao": "2023-11-03 12:21:33",
+      "data_hora_confirmacao_pagamento": "2023-11-03 12:21:43",
+      "valor_total_produtos": 696,
+      "valor_frete": 52.34,
+      "frete": "PAC",
+      "valor_total_pedido": 748.34,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2688",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-06 17:34:46",
+      "data_hora_confirmacao": "2023-11-06 17:41:04",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 115.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 115.9,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31711",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-17 17:40:47",
+      "data_hora_confirmacao": "2025-09-17 17:42:05",
+      "data_hora_confirmacao_pagamento": "2025-09-17 17:42:05",
+      "valor_total_produtos": 896.91,
+      "valor_frete": 73.3,
+      "frete": "PAC",
+      "valor_total_pedido": 970.21,
+      "desconto": 0,
+      "cidade": "Maracanaú",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53125": {
+      "codigo": "53125",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53154": {
+      "codigo": "53154",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53157": {
+      "codigo": "53157",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53160": {
+      "codigo": "53160",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53163": {
+      "codigo": "53163",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53166": {
+      "codigo": "53166",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53235": {
+      "codigo": "53235",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53269": {
+      "codigo": "53269",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53278": {
+      "codigo": "53278",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53903": {
+      "codigo": "53903",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT047) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53906": {
+      "codigo": "53906",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT047) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53909": {
+      "codigo": "53909",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT047) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53915": {
+      "codigo": "53915",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT047) - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54090": {
+      "codigo": "54090",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT052) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54232": {
+      "codigo": "54232",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54235": {
+      "codigo": "54235",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54241": {
+      "codigo": "54241",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54244": {
+      "codigo": "54244",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54247": {
+      "codigo": "54247",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54250": {
+      "codigo": "54250",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54251": {
+      "codigo": "54251",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - Logo Bordado (LT052) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54253": {
+      "codigo": "54253",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT052) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54264": {
+      "codigo": "54264",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT052) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54271": {
+      "codigo": "54271",
+      "titulo": "Camiseta Suedine 1:1 Ultra OVERSIZED Nike - ARTE EM DTF (LT052) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.41GG": {
+      "codigo": "CD02.41GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10P": {
+      "codigo": "CD39.10P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10M": {
+      "codigo": "CD39.10M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.9P": {
+      "codigo": "CD39.9P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Cinza - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.16": {
+      "codigo": "CD39.16",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD39.15": {
+      "codigo": "CD39.15",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.14": {
+      "codigo": "CD39.14",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.13": {
+      "codigo": "CD39.13",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD47.1": {
+      "codigo": "CD47.1",
+      "titulo": "BERMUDA DRIFIT SUPER HIPER - NIKE  LT31.10  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DRIFIT-ULTRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.11": {
+      "codigo": "CD40.11",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT31.10  - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD40.6M": {
+      "codigo": "CD40.6M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.6G": {
+      "codigo": "CD40.6G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38G": {
+      "codigo": "CD17.38G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.32M": {
+      "codigo": "CD08.32M",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Hugo Boss - Cor: Preto com Verde - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

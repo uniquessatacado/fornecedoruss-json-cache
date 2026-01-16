@@ -1,0 +1,53 @@
+{
+  "codigo": "17119",
+  "nome": "DIEGO ARIOSI",
+  "email": "diegoariosi@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/11/2024",
+  "whatsapp": "(21) 99862-9868",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "23695",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-02 13:39:54",
+      "data_hora_confirmacao": "2024-11-02 15:29:40",
+      "data_hora_confirmacao_pagamento": "2024-11-02 15:29:31",
+      "valor_total_produtos": 64.98,
+      "valor_frete": 14.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.79,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31873": {
+      "codigo": "31873",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33345": {
+      "codigo": "33345",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

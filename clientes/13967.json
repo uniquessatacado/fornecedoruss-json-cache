@@ -1,0 +1,45 @@
+{
+  "codigo": "13967",
+  "nome": "GEORGE ALBERTO",
+  "email": "albertogeorge063@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/08/2024",
+  "whatsapp": "(21) 99785-0182",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "24002",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-08 17:00:46",
+      "data_hora_confirmacao": "2024-11-08 17:02:45",
+      "data_hora_confirmacao_pagamento": "2024-11-08 17:02:45",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 13.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.78,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33757": {
+      "codigo": "33757",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - INTER MILAN - Tamanho: P - Times : Inter de Milão - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

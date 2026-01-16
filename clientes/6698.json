@@ -1,0 +1,80 @@
+{
+  "codigo": "6698",
+  "nome": "ALESSANDRO LOURENÇO DA SILVA",
+  "email": "als.j.f72@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2024",
+  "whatsapp": "(82) 98735-4942",
+  "cidade": "Coruripe",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 383.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "8121",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 10:38:13",
+      "data_hora_confirmacao": "2024-03-08 14:13:51",
+      "data_hora_confirmacao_pagamento": "2024-03-08 14:13:46",
+      "valor_total_produtos": 139.93,
+      "valor_frete": 31.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 171.38,
+      "desconto": 0,
+      "cidade": "Coruripe",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8966",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 06:02:45",
+      "data_hora_confirmacao": "2024-03-27 11:06:22",
+      "data_hora_confirmacao_pagamento": "2024-03-27 11:06:17",
+      "valor_total_produtos": 179.95,
+      "valor_frete": 31.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 211.81,
+      "desconto": 0,
+      "cidade": "Coruripe",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD4.13GG": {
+      "codigo": "CD4.13GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD4.11GG": {
+      "codigo": "CD4.11GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    }
+  }
+}

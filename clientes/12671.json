@@ -1,0 +1,45 @@
+{
+  "codigo": "12671",
+  "nome": "RAFAEL HORBE",
+  "email": "rafaelhorbe@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(54) 99975-4494",
+  "cidade": "Passo Fundo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "21376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 14:18:18",
+      "data_hora_confirmacao": "2024-09-20 11:20:20",
+      "data_hora_confirmacao_pagamento": "2024-09-20 11:20:13",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 17.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.43,
+      "desconto": 0,
+      "cidade": "Passo Fundo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30763": {
+      "codigo": "30763",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

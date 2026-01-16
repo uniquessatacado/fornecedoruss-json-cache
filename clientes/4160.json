@@ -1,0 +1,115 @@
+{
+  "codigo": "4160",
+  "nome": "BRUNO SAMPAIO SOUZA",
+  "email": "brunosampaiosouza22@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "21/11/2023",
+  "whatsapp": "(11) 9528-28570",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 183.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "3397",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-21 00:51:06",
+      "data_hora_confirmacao": "2023-11-21 10:36:53",
+      "data_hora_confirmacao_pagamento": "2023-11-21 10:37:08",
+      "valor_total_produtos": 34,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8768",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 18:56:12",
+      "data_hora_confirmacao": "2024-03-21 10:38:11",
+      "data_hora_confirmacao_pagamento": "2024-03-21 10:38:05",
+      "valor_total_produtos": 50.96,
+      "valor_frete": 11.18,
+      "frete": "SEDEX",
+      "valor_total_pedido": 62.14,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24862",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-20 21:34:53",
+      "data_hora_confirmacao": "2024-11-20 21:38:23",
+      "data_hora_confirmacao_pagamento": "2024-11-20 21:38:23",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 11.84,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.82,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34975": {
+      "codigo": "34975",
+      "titulo": "BERMUDA MAURICINHO ELASTANO  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MAURICINHO ELASTANO",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "35087": {
+      "codigo": "35087",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Azul Marinho - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 4
+    },
+    "CD24.12GG": {
+      "codigo": "CD24.12GG",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD43.09 MD-5": {
+      "codigo": "CD43.09 MD-5",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Azul Bebê",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

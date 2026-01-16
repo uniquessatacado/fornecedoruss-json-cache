@@ -1,0 +1,131 @@
+{
+  "codigo": "4785",
+  "nome": "RICARDO SILVA DOS SANTOS",
+  "email": "ricxy.silva@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2023",
+  "whatsapp": "(11) 98292-0170",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 223.29999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "5020",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-18 17:54:30",
+      "data_hora_confirmacao": "2023-12-19 12:17:09",
+      "data_hora_confirmacao_pagamento": "2023-12-19 12:17:18",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 9.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.74,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19438",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-23 17:29:44",
+      "data_hora_confirmacao": "2024-08-24 09:56:24",
+      "data_hora_confirmacao_pagamento": "2024-08-24 09:56:17",
+      "valor_total_produtos": 64.97,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.78,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20313",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 08:30:28",
+      "data_hora_confirmacao": "2024-09-04 10:25:00",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:24:48",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 11.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.78,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28511": {
+      "codigo": "28511",
+      "titulo": "Boné Super Premium - NEW ERA MVP 47 - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28521": {
+      "codigo": "28521",
+      "titulo": "Boné Super Premium - NEW ERA NEW YORK  - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "28610": {
+      "codigo": "28610",
+      "titulo": "Boné Super Premium - BLCK bordado  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "BLCK",
+      "quantidade": "1"
+    },
+    "29320": {
+      "codigo": "29320",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29846": {
+      "codigo": "29846",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto com Vermelho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD67.23": {
+      "codigo": "CD67.23",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - HANG LOOSE LT18.12   - Cor: Preto - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    }
+  }
+}

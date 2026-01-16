@@ -1,0 +1,61 @@
+{
+  "codigo": "2064",
+  "nome": "LUIZ LOPES SILVA FILHO",
+  "email": "luizlopes@l2engenharia.com.br",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(85) 99981-9449",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 102.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301922",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-18 18:11:43",
+      "data_hora_confirmacao": "2023-10-20 12:18:39",
+      "data_hora_confirmacao_pagamento": "2023-10-20 12:18:28",
+      "valor_total_produtos": 80.5,
+      "valor_frete": 22.42,
+      "frete": "PAC",
+      "valor_total_pedido": 102.92,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.5M": {
+      "codigo": "CD29.5M",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.7M": {
+      "codigo": "CD33.7M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci  - Cor: Azul Marinho - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.23M - Burberry": {
+      "codigo": "CD24.23M - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

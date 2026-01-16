@@ -1,0 +1,123 @@
+{
+  "codigo": "14599",
+  "nome": "JOSÉ LEANDRO DOS SANTOS",
+  "email": "leoegustavo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/08/2024",
+  "whatsapp": "(11) 96164-6937",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 309.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "19566",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-25 13:45:46",
+      "data_hora_confirmacao": "2024-08-26 11:37:46",
+      "data_hora_confirmacao_pagamento": "2024-08-26 11:36:53",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 12.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.05,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26950",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 19:47:30",
+      "data_hora_confirmacao": "2024-12-20 21:10:29",
+      "data_hora_confirmacao_pagamento": "2024-12-20 21:10:29",
+      "valor_total_produtos": 145.19,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 157.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28195",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-15 16:09:22",
+      "data_hora_confirmacao": "2025-02-15 16:11:46",
+      "data_hora_confirmacao_pagamento": "2025-02-15 16:11:46",
+      "valor_total_produtos": 48.33,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.23,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28053": {
+      "codigo": "28053",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28069": {
+      "codigo": "28069",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38407": {
+      "codigo": "38407",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38413": {
+      "codigo": "38413",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: VERDE MUSGO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38502": {
+      "codigo": "38502",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41020": {
+      "codigo": "41020",
+      "titulo": "Camiseta Suedine ultra -(C243) ARTE BORDADA LT3A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

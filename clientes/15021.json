@@ -1,0 +1,53 @@
+{
+  "codigo": "15021",
+  "nome": "RAQUEL MELO",
+  "email": "raquelml36@gmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(22) 98851-9538",
+  "cidade": "Saquarema",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "20161",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 17:31:10",
+      "data_hora_confirmacao": "2024-09-03 09:28:43",
+      "data_hora_confirmacao_pagamento": "2024-09-03 09:28:36",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 17.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.01,
+      "desconto": 0,
+      "cidade": "Saquarema",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27761": {
+      "codigo": "27761",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em relevo - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "29270": {
+      "codigo": "29270",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "2523",
+  "nome": "SAMIR APARECIDO DA SILVA",
+  "email": "samir.ap@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(12) 9815-11030",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 314.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 22:03:47",
+      "data_hora_confirmacao": "2023-09-21 23:38:49",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:38:44",
+      "valor_total_produtos": 293,
+      "valor_frete": 21.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 314.08,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.15M": {
+      "codigo": "CD02.15M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Boss (Termogel) - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.15G": {
+      "codigo": "CD02.15G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Boss (Termogel) - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD10.3G": {
+      "codigo": "CD10.3G",
+      "titulo": "Camiseta Egípcia Ultra Luxo - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": 3
+    },
+    "CD02.8G": {
+      "codigo": "CD02.8G",
+      "titulo": "Camiseta Nike 40.1 Ultra Premium - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.5G": {
+      "codigo": "CD02.5G",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Bege - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    },
+    "CD02.20G": {
+      "codigo": "CD02.20G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

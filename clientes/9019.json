@@ -1,0 +1,53 @@
+{
+  "codigo": "9019",
+  "nome": "DIEGO ARAUJO SANTOS",
+  "email": "diegoaraujosantos33@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(11) 95221-7060",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "18523",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 11:31:53",
+      "data_hora_confirmacao": "2024-08-14 09:27:09",
+      "data_hora_confirmacao_pagamento": "2024-08-14 09:26:59",
+      "valor_total_produtos": 93.98,
+      "valor_frete": 13.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 107.25,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27312": {
+      "codigo": "27312",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - LACOSTE arte em bordado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "27337": {
+      "codigo": "27337",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - DIOR arte em bordado madeira - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Dior",
+      "quantidade": "1"
+    }
+  }
+}

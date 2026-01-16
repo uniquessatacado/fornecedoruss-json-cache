@@ -1,0 +1,72 @@
+{
+  "codigo": "2074",
+  "nome": "PAULO SILVA",
+  "email": "paulopatrick629@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(91) 99302-8674",
+  "cidade": "Ananindeua",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 192.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "6514",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-12 09:28:03",
+      "data_hora_confirmacao": "2024-01-12 11:59:23",
+      "data_hora_confirmacao_pagamento": "2024-01-12 11:59:37",
+      "valor_total_produtos": 25,
+      "valor_frete": 17.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.58,
+      "desconto": 0,
+      "cidade": "Ananindeua",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31068",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-01 16:36:09",
+      "data_hora_confirmacao": "2025-08-01 16:36:09",
+      "data_hora_confirmacao_pagamento": "2025-08-01 16:36:09",
+      "valor_total_produtos": 121.87,
+      "valor_frete": 28.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 150.28,
+      "desconto": 0,
+      "cidade": "Ananindeua",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "49631": {
+      "codigo": "49631",
+      "titulo": "Moletom 3 Cabos Importado Armani | LT68A (C1197) - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD01.85": {
+      "codigo": "CD01.85",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11  - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

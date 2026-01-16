@@ -1,0 +1,61 @@
+{
+  "codigo": "565",
+  "nome": "JAILTON FILHO",
+  "email": "jajafnb1533@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/03/2023",
+  "whatsapp": "(11) 9548-22301",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "3265",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 13:19:17",
+      "data_hora_confirmacao": "2023-11-17 13:23:53",
+      "data_hora_confirmacao_pagamento": "2023-11-17 13:24:05",
+      "valor_total_produtos": 110.5,
+      "valor_frete": 13.85,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 124.35,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Preto - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 8
+    },
+    "CD24.38": {
+      "codigo": "CD24.38",
+      "titulo": "Cuecas Peruanas - POLO RALPH  LT08.11    - Cor: Cinza - Marca: Polo Ralph - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

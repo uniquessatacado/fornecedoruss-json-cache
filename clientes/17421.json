@@ -1,0 +1,45 @@
+{
+  "codigo": "17421",
+  "nome": "TIAGO BUSANELLO",
+  "email": "eng.busanello@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/11/2024",
+  "whatsapp": "(11) 9437-02824",
+  "cidade": "Chapecó",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 28.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "24290",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-12 16:39:43",
+      "data_hora_confirmacao": "2024-11-12 16:43:19",
+      "data_hora_confirmacao_pagamento": "2024-11-12 16:43:19",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 18.15,
+      "frete": "JADLOG",
+      "valor_total_pedido": 28.14,
+      "desconto": 0,
+      "cidade": "Chapecó",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32763": {
+      "codigo": "32763",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

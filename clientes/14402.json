@@ -1,0 +1,53 @@
+{
+  "codigo": "14402",
+  "nome": "EDUARDO GOMES BARBOSA DA SILVA",
+  "email": "geduardo.silva@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/08/2024",
+  "whatsapp": "(11) 97097-9625",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 86.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "19235",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-21 11:09:30",
+      "data_hora_confirmacao": "2024-08-21 11:41:32",
+      "data_hora_confirmacao_pagamento": "2024-08-21 11:41:19",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 12.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 86.81,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28297": {
+      "codigo": "28297",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28316": {
+      "codigo": "28316",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "9671",
+  "nome": "THALISSON MURIEL",
+  "email": "thalisson.madog@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(84) 9966-98666",
+  "cidade": "Parnamirim",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 66.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "12196",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 14:35:22",
+      "data_hora_confirmacao": "2024-05-21 15:19:51",
+      "data_hora_confirmacao_pagamento": "2024-05-21 15:19:43",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 16.74,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 66.72,
+      "desconto": 0,
+      "cidade": "Parnamirim",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19180": {
+      "codigo": "19180",
+      "titulo": "Bermuda Microfibra Super Premium LACOSTE arte em bordado  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "19195": {
+      "codigo": "19195",
+      "titulo": "Bermuda Microfibra Super Premium HUGO BOSS arte em silk - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "1834",
+  "nome": "CLOVIS NOBRE",
+  "email": "clovisnobre@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(12) 98119-1303",
+  "cidade": "Taubaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 238.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300644",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 00:10:43",
+      "data_hora_confirmacao": "2023-09-25 00:32:10",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:32:04",
+      "valor_total_produtos": 121.5,
+      "valor_frete": 18.85,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 140.35,
+      "desconto": 0,
+      "cidade": "Taubaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-13 17:12:08",
+      "data_hora_confirmacao": "2023-10-13 17:45:54",
+      "data_hora_confirmacao_pagamento": "2023-10-13 17:46:02",
+      "valor_total_produtos": 85,
+      "valor_frete": 13.14,
+      "frete": "JADLOG",
+      "valor_total_pedido": 98.14,
+      "desconto": 0,
+      "cidade": "Taubaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.16GG - Nike": {
+      "codigo": "CD24.16GG - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.19GG - Calvin Klein": {
+      "codigo": "CD24.19GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD08.13M": {
+      "codigo": "CD08.13M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Louis Vuitton (Aplique Abordada) - Cor: Verde - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD24.25GG - Nike": {
+      "codigo": "CD24.25GG - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD24.31GG - CALVIN KLEIN": {
+      "codigo": "CD24.31GG - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD24.29GG - TOMMY": {
+      "codigo": "CD24.29GG - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Vermelha - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    }
+  }
+}

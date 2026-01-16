@@ -1,0 +1,69 @@
+{
+  "codigo": "15127",
+  "nome": "JOÃO MIGUEL MARQUES TELES SODRÉ",
+  "email": "joaomarquestelessodre13@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/09/2024",
+  "whatsapp": "(21) 98541-3026",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 144.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "20435",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 17:11:53",
+      "data_hora_confirmacao": "2024-09-09 11:38:52",
+      "data_hora_confirmacao_pagamento": "2024-09-09 11:37:06",
+      "valor_total_produtos": 118.41,
+      "valor_frete": 26.21,
+      "frete": "PAC",
+      "valor_total_pedido": 144.62,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27154": {
+      "codigo": "27154",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte facão  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29299": {
+      "codigo": "29299",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29753": {
+      "codigo": "29753",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29845": {
+      "codigo": "29845",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

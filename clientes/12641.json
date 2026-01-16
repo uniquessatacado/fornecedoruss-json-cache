@@ -1,0 +1,69 @@
+{
+  "codigo": "12641",
+  "nome": "JORGE ALEX DOS SANTOS BARROS",
+  "email": "jorgealexflamengo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/07/2024",
+  "whatsapp": "(21) 98739-7885",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "16349",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-18 15:54:33",
+      "data_hora_confirmacao": "2024-07-18 16:32:50",
+      "data_hora_confirmacao_pagamento": "2024-07-18 16:32:45",
+      "valor_total_produtos": 103.96,
+      "valor_frete": 19.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.44,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15760": {
+      "codigo": "15760",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "24872": {
+      "codigo": "24872",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24875": {
+      "codigo": "24875",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24878": {
+      "codigo": "24878",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

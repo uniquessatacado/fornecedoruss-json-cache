@@ -1,0 +1,139 @@
+{
+  "codigo": "3384",
+  "nome": "EMERSON PEREIRA DA SILVA",
+  "email": "emersonae1234@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(15) 99639-6435",
+  "cidade": "São Miguel Arcanjo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 440.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-09 18:18:44",
+      "data_hora_confirmacao": "2023-10-10 11:22:46",
+      "data_hora_confirmacao_pagamento": "2023-10-10 11:22:31",
+      "valor_total_produtos": 198.4,
+      "valor_frete": 22.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 220.85,
+      "desconto": 0,
+      "cidade": "São Miguel Arcanjo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3729",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-28 07:37:47",
+      "data_hora_confirmacao": "2023-11-28 10:01:33",
+      "data_hora_confirmacao_pagamento": "2023-11-28 10:01:45",
+      "valor_total_produtos": 119.8,
+      "valor_frete": 18.92,
+      "frete": "SEDEX",
+      "valor_total_pedido": 138.72,
+      "desconto": 0,
+      "cidade": "São Miguel Arcanjo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7146",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-05 19:57:47",
+      "data_hora_confirmacao": "2024-02-06 11:05:06",
+      "data_hora_confirmacao_pagamento": "2024-02-06 11:04:59",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 18.28,
+      "frete": "SEDEX",
+      "valor_total_pedido": 81.27,
+      "desconto": 0,
+      "cidade": "São Miguel Arcanjo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.5Juliet": {
+      "codigo": "CD32.5Juliet",
+      "titulo": "Óculos  Romeu - Rosa Transparente - Cor da Armação: Chumbo - Cor da Lente: Rosa Transparente - Kit Borracha: Rosa - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD37.2": {
+      "codigo": "CD37.2",
+      "titulo": "FONE DE OUVIDO - TWS i12 - Cor: Branca",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD24.24G - Plein": {
+      "codigo": "CD24.24G - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": 4
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD02.29G": {
+      "codigo": "CD02.29G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Oakley - Cor: Azul Marinho - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    },
+    "CD59.8": {
+      "codigo": "CD59.8",
+      "titulo": "Óculos  Penny - ROXO  LT27.11 - Cor da Armação: Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD59.7": {
+      "codigo": "CD59.7",
+      "titulo": "Óculos  Penny - VERDE  LT27.11  - Cor da Armação: Chumbo - Cor da Lente: Verde - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "PE04": {
+      "codigo": "PE04",
+      "titulo": "Óculos  Penny - Azul Marinho  - Cor da Armação: Preto - Cor da Lente: Azul Marinho - Kit Borracha: Azul - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

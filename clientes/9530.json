@@ -1,0 +1,109 @@
+{
+  "codigo": "9530",
+  "nome": "VICTOR CAIO",
+  "email": "vitinho.bh@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(31) 97556-7837",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 338.52,
+  "pedidos": [
+    {
+      "codigo_pedido": "12015",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-17 20:39:28",
+      "data_hora_confirmacao": "2024-05-20 12:31:11",
+      "data_hora_confirmacao_pagamento": "2024-05-20 12:31:03",
+      "valor_total_produtos": 315.91,
+      "valor_frete": 22.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 338.52,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18596": {
+      "codigo": "18596",
+      "titulo": "Camiseta Suedine Nike Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18620": {
+      "codigo": "18620",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18626": {
+      "codigo": "18626",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18629": {
+      "codigo": "18629",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18654": {
+      "codigo": "18654",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18657": {
+      "codigo": "18657",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD8.01GG": {
+      "codigo": "CD8.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.19GG": {
+      "codigo": "CD24.19GG",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

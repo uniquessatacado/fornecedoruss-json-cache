@@ -1,0 +1,53 @@
+{
+  "codigo": "3878",
+  "nome": "CAUÃ VINICIUS CAMPOS DA SILVA",
+  "email": "cauavs1618@Gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/11/2023",
+  "whatsapp": "(19) 98878-1148",
+  "cidade": "Jaguariúna",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "2648",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-06 14:54:05",
+      "data_hora_confirmacao": "2023-11-06 14:58:44",
+      "data_hora_confirmacao_pagamento": "2023-11-06 14:58:55",
+      "valor_total_produtos": 96,
+      "valor_frete": 11.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 107.25,
+      "desconto": 0,
+      "cidade": "Jaguariúna",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.38": {
+      "codigo": "CD16.38",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT31.10   - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.40GG": {
+      "codigo": "CD02.40GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10  - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

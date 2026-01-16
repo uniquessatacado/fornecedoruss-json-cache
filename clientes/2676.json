@@ -1,0 +1,160 @@
+{
+  "codigo": "2676",
+  "nome": "GABRIEL ZURRA GOMES",
+  "email": "gabrielzurraaa@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(92) 9950-83684",
+  "cidade": "Videira",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 214.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302034",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 00:24:36",
+      "data_hora_confirmacao": "2023-10-20 09:19:30",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:19:38",
+      "valor_total_produtos": 68,
+      "valor_frete": 56.66,
+      "frete": "SEDEX",
+      "valor_total_pedido": 124.66,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32013",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-07 18:16:32",
+      "data_hora_confirmacao": "2025-10-07 18:17:36",
+      "data_hora_confirmacao_pagamento": "2025-10-07 18:17:36",
+      "valor_total_produtos": 70.42,
+      "valor_frete": 19.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.64,
+      "desconto": 0,
+      "cidade": "Videira",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55244": {
+      "codigo": "55244",
+      "titulo": "Cueca Peruana Tommy Hilfiger (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55812": {
+      "codigo": "55812",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55818": {
+      "codigo": "55818",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55824": {
+      "codigo": "55824",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55842": {
+      "codigo": "55842",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55860": {
+      "codigo": "55860",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55872": {
+      "codigo": "55872",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.33M - Dolce&Gabbana": {
+      "codigo": "CD24.33M - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Preto - Marca: Dolce Gabbana - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    },
+    "CD24.32M - Hugo Boss": {
+      "codigo": "CD24.32M - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.7M - Abercrombie & Fitch": {
+      "codigo": "CD24.7M - Abercrombie & Fitch",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Cinza - Marca: Abercrombie - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE",
+      "quantidade": "1"
+    },
+    "CD24.11M - Tommy": {
+      "codigo": "CD24.11M - Tommy",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Branca - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.20M - Gucci": {
+      "codigo": "CD24.20M - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Branca - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

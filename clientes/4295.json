@@ -1,0 +1,123 @@
+{
+  "codigo": "4295",
+  "nome": "LUCAS LIMA",
+  "email": "Lucaslima.zf9@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/11/2023",
+  "whatsapp": "(11) 96505-6215",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 441.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "3667",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 18:38:30",
+      "data_hora_confirmacao": "2023-11-27 11:49:13",
+      "data_hora_confirmacao_pagamento": "2023-11-27 11:49:23",
+      "valor_total_produtos": 36,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5499",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-21 19:05:54",
+      "data_hora_confirmacao": "2023-12-22 02:29:02",
+      "data_hora_confirmacao_pagamento": "2023-12-22 02:29:12",
+      "valor_total_produtos": 43.8,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 53.4,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16719",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 12:59:33",
+      "data_hora_confirmacao": "2024-07-23 19:34:31",
+      "data_hora_confirmacao_pagamento": "2024-07-23 19:34:25",
+      "valor_total_produtos": 324.95,
+      "valor_frete": 17.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 342.85,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19714": {
+      "codigo": "19714",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS (PRONTA ENTREGA)  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20547": {
+      "codigo": "20547",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25136": {
+      "codigo": "25136",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25  - Tamanho: M - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "25158": {
+      "codigo": "25158",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY 24/25 (PRONTA ENTREGA) - Tamanho: M - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "PA12": {
+      "codigo": "PA12",
+      "titulo": "CORRENTE DE PRATA  VERNEZIANA   1MM 60CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    },
+    "PA31": {
+      "codigo": "PA31",
+      "titulo": "PULSEIRA 3mm",
+      "categoria_principal": "PRATAS",
+      "categoria": "PULSEIRAS DE PRATA",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    }
+  }
+}

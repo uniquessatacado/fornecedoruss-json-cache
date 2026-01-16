@@ -1,0 +1,123 @@
+{
+  "codigo": "1203",
+  "nome": "GLEIDSON MORAIS",
+  "email": "gleidsonnjunior12@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "16/08/2023",
+  "whatsapp": "(98) 98566-1881",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 516.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301896",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-18 11:19:04",
+      "data_hora_confirmacao": "2023-10-19 11:08:34",
+      "data_hora_confirmacao_pagamento": "2023-10-19 11:08:56",
+      "valor_total_produtos": 70,
+      "valor_frete": 28.56,
+      "frete": "PAC",
+      "valor_total_pedido": 98.56,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6158",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 16:11:08",
+      "data_hora_confirmacao": "2024-01-04 18:02:41",
+      "data_hora_confirmacao_pagamento": "2024-01-04 18:02:50",
+      "valor_total_produtos": 288.92,
+      "valor_frete": 36.88,
+      "frete": "PAC",
+      "valor_total_pedido": 325.8,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6431",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 23:24:42",
+      "data_hora_confirmacao": "2024-01-10 15:13:26",
+      "data_hora_confirmacao_pagamento": "2024-01-10 15:13:37",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 29.28,
+      "frete": "PAC",
+      "valor_total_pedido": 92.27,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.11P": {
+      "codigo": "CD39.11P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11M": {
+      "codigo": "CD39.11M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.63": {
+      "codigo": "CD17.63",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT04.01   - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD39.50": {
+      "codigo": "CD39.50",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (BORDADA) LT04.12   - Cor: Salmão Claro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.48": {
+      "codigo": "CD39.48",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD59.15": {
+      "codigo": "CD59.15",
+      "titulo": "Óculos  Penny - AZUL C/ROXO   - Cor da Armação: Preto - Cor da Lente: Azul c/Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

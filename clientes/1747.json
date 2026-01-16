@@ -1,0 +1,53 @@
+{
+  "codigo": "1747",
+  "nome": "DIEGO FONSECA",
+  "email": "diego_santini13@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "25/08/2023",
+  "whatsapp": "(71) 99645-6248",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 321.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "23381",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-26 13:47:23",
+      "data_hora_confirmacao": "2024-10-28 18:04:36",
+      "data_hora_confirmacao_pagamento": "2024-10-28 18:04:30",
+      "valor_total_produtos": 205.98,
+      "valor_frete": 56.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 321.98,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32975": {
+      "codigo": "32975",
+      "titulo": "Camisa de time Tailandesa 1.1 BOTAFOGO 24/25 JOGADOR - (envio direto da fabrica) - Tamanho: G - Times : Botafogo - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "32977": {
+      "codigo": "32977",
+      "titulo": "Camisa de time Tailandesa 1.1 BOTAFOGO 24/25 JOGADOR - (envio direto da fabrica) - Tamanho: G1 - Times : Botafogo - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

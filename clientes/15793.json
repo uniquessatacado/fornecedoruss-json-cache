@@ -1,0 +1,99 @@
+{
+  "codigo": "15793",
+  "nome": "FRANKLIN SILVA SANTOS",
+  "email": "franklin20011993@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/09/2024",
+  "whatsapp": "(11) 9497-13934",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 203.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "21339",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 08:37:55",
+      "data_hora_confirmacao": "2024-09-19 15:56:28",
+      "data_hora_confirmacao_pagamento": "2024-09-19 15:56:22",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 43.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21743",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-25 13:08:19",
+      "data_hora_confirmacao": "2024-09-25 16:18:27",
+      "data_hora_confirmacao_pagamento": "2024-09-25 16:18:35",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 11.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.97,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27775",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-22 09:39:02",
+      "data_hora_confirmacao": "2025-01-22 09:40:06",
+      "data_hora_confirmacao_pagamento": "2025-01-22 09:40:06",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.57,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20669": {
+      "codigo": "20669",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24122": {
+      "codigo": "24122",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39569": {
+      "codigo": "39569",
+      "titulo": "Bermuda Microfibra Ultra (C208) LT8A - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

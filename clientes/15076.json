@@ -1,0 +1,72 @@
+{
+  "codigo": "15076",
+  "nome": "LUCAS ADRIEL PEREIRA BORGES",
+  "email": "Borges.11.lucas.12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(61) 9988-18037",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 126.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "20232",
+      "situacao_pedido": "LIBERADO NA ALFANDEGA EM TRANSITO PARA NOSSO ESTOQUE !",
+      "data_hora_pedido": "2024-09-03 13:36:24",
+      "data_hora_confirmacao": "2024-09-03 16:59:54",
+      "data_hora_confirmacao_pagamento": "2024-09-03 16:59:19",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 13.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.11,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20307",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 23:52:07",
+      "data_hora_confirmacao": "2024-09-04 10:28:18",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:28:07",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 12.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.97,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21960": {
+      "codigo": "21960",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29301": {
+      "codigo": "29301",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

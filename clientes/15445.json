@@ -1,0 +1,99 @@
+{
+  "codigo": "15445",
+  "nome": "JOAO ROCHA",
+  "email": "joao.extintuba@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(19) 98414-4123",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 268.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "20759",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-10 08:40:19",
+      "data_hora_confirmacao": "2024-09-11 10:57:09",
+      "data_hora_confirmacao_pagamento": "2024-09-11 10:57:02",
+      "valor_total_produtos": 114.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 154.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20760",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-10 08:40:19",
+      "data_hora_confirmacao": "2024-09-12 15:25:26",
+      "data_hora_confirmacao_pagamento": "2024-09-12 15:25:14",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 49.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28230",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-02-17 11:08:15",
+      "data_hora_confirmacao": "2025-02-17 11:09:53",
+      "data_hora_confirmacao_pagamento": "2025-02-17 11:09:53",
+      "valor_total_produtos": 53.33,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 63.33,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21396": {
+      "codigo": "21396",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G2 - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30102": {
+      "codigo": "30102",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41847": {
+      "codigo": "41847",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C524) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

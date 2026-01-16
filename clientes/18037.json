@@ -1,0 +1,88 @@
+{
+  "codigo": "18037",
+  "nome": "MATTEUS SOUZA GUEDES",
+  "email": "souzaguedesmatteus81@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/12/2024",
+  "whatsapp": "(19) 9814-21175",
+  "cidade": "Hortolândia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 230.42999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "25821",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 12:13:53",
+      "data_hora_confirmacao": "2024-12-06 12:19:17",
+      "data_hora_confirmacao_pagamento": "2024-12-06 12:19:17",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.04,
+      "desconto": 0,
+      "cidade": "Hortolândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "26874",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 11:06:26",
+      "data_hora_confirmacao": "2024-12-20 11:10:19",
+      "data_hora_confirmacao_pagamento": "2024-12-20 11:10:19",
+      "valor_total_produtos": 162.52,
+      "valor_frete": 14.87,
+      "frete": "LOGGI",
+      "valor_total_pedido": 177.39,
+      "desconto": 0,
+      "cidade": "Hortolândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "35924": {
+      "codigo": "35924",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38198": {
+      "codigo": "38198",
+      "titulo": "MEIAS PERUANAS (C110) - Marca: Quiksilver - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "38279": {
+      "codigo": "38279",
+      "titulo": "Bermuda Microfibra Ultra (C120) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38570": {
+      "codigo": "38570",
+      "titulo": "Camiseta Suedine ultra -(C131) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

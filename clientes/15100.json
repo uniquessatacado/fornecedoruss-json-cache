@@ -1,0 +1,53 @@
+{
+  "codigo": "15100",
+  "nome": "MATHEUS LACORT",
+  "email": "matheusbarbosalacort@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(15) 99801-8958",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 71.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "20378",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 23:06:45",
+      "data_hora_confirmacao": "2024-09-05 10:57:30",
+      "data_hora_confirmacao_pagamento": "2024-09-05 10:57:21",
+      "valor_total_produtos": 55.58,
+      "valor_frete": 16.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.99,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25699": {
+      "codigo": "25699",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29749": {
+      "codigo": "29749",
+      "titulo": "Camiseta 30.1 Penteada arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

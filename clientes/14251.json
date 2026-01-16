@@ -1,0 +1,80 @@
+{
+  "codigo": "14251",
+  "nome": "GUSTAVO HENRIQUE DE JESUS DA VEIGA",
+  "email": "gustavoh82@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "17/08/2024",
+  "whatsapp": "(31) 98860-0370",
+  "cidade": "Lagoa Santa",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 55.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "20972",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-12 11:59:55",
+      "data_hora_confirmacao": "2024-09-13 09:58:52",
+      "data_hora_confirmacao_pagamento": "2024-09-13 09:58:46",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 15.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.24,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21228",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-17 09:51:48",
+      "data_hora_confirmacao": "2024-09-17 09:51:48",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 19.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 19.98,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25431": {
+      "codigo": "25431",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25459": {
+      "codigo": "25459",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28430": {
+      "codigo": "28430",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "2"
+    }
+  }
+}

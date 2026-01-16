@@ -1,0 +1,72 @@
+{
+  "codigo": "10094",
+  "nome": "MARCOS ALVES",
+  "email": "marcosxtallves05@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(11) 93460-2048",
+  "cidade": "Atibaia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 130,
+  "pedidos": [
+    {
+      "codigo_pedido": "15157",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 18:21:53",
+      "data_hora_confirmacao": "2024-07-04 18:34:18",
+      "data_hora_confirmacao_pagamento": "2024-07-04 18:34:13",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15983",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-14 17:11:59",
+      "data_hora_confirmacao": "2024-07-15 20:53:53",
+      "data_hora_confirmacao_pagamento": "2024-07-15 20:53:48",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20393": {
+      "codigo": "20393",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22969": {
+      "codigo": "22969",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

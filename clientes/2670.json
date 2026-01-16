@@ -1,0 +1,69 @@
+{
+  "codigo": "2670",
+  "nome": "MATHEUS BRITO DA SILVA",
+  "email": "mt12340mt@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(21) 98651-0495",
+  "cidade": "Nilópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 105,
+  "pedidos": [
+    {
+      "codigo_pedido": "4283",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 13:27:47",
+      "data_hora_confirmacao": "2023-12-08 13:31:46",
+      "data_hora_confirmacao_pagamento": "2023-12-08 13:31:56",
+      "valor_total_produtos": 85.5,
+      "valor_frete": 19.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.30": {
+      "codigo": "CD39.30",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.101": {
+      "codigo": "CD01.101",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - VASCO  LT04.12  - Tamanho: M - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Vermelha - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Azul Marinho - Marca: Versace - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 2
+    }
+  }
+}

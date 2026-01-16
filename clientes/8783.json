@@ -1,0 +1,53 @@
+{
+  "codigo": "8783",
+  "nome": "DIEGO DE PAULA SANTOS",
+  "email": "diegozeca90@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(11) 9753-10719",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 105.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "11047",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-30 12:45:56",
+      "data_hora_confirmacao": "2024-04-30 13:03:00",
+      "data_hora_confirmacao_pagamento": "2024-04-30 13:03:10",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 14.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.35,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17841": {
+      "codigo": "17841",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD8.01M": {
+      "codigo": "CD8.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

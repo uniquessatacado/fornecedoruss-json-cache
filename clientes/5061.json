@@ -1,0 +1,72 @@
+{
+  "codigo": "5061",
+  "nome": "VERA LUCIA SILVA BERTAO",
+  "email": "veralemo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/12/2023",
+  "whatsapp": "(71) 99313-7740",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 287.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "5860",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-26 14:53:45",
+      "data_hora_confirmacao": "2023-12-26 15:14:19",
+      "data_hora_confirmacao_pagamento": "2023-12-26 15:14:31",
+      "valor_total_produtos": 174.95,
+      "valor_frete": 42.87,
+      "frete": "SEDEX",
+      "valor_total_pedido": 217.82,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5870",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-26 18:29:22",
+      "data_hora_confirmacao": "2023-12-26 18:29:49",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 69.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 69.98,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.58": {
+      "codigo": "CD17.58",
+      "titulo": "Bermuda Microfibra Ultra - NIKE     - Cor: Cinza Claro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto com Vermelho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

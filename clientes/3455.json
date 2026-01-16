@@ -1,0 +1,112 @@
+{
+  "codigo": "3455",
+  "nome": "LAURA FERNANDES CRUZ",
+  "email": "lofernandes099@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(19) 97426-0007",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 211,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301656",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-11 17:30:58",
+      "data_hora_confirmacao": "2023-10-11 17:32:36",
+      "data_hora_confirmacao_pagamento": "2023-10-11 17:50:05",
+      "valor_total_produtos": 155,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 155,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4570",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-12 19:48:28",
+      "data_hora_confirmacao": "2023-12-13 09:27:23",
+      "data_hora_confirmacao_pagamento": "2023-12-15 14:46:42",
+      "valor_total_produtos": 56,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 56,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.29G": {
+      "codigo": "CD02.29G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Oakley - Cor: Azul Marinho - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.26GG": {
+      "codigo": "CD02.26GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.31GG": {
+      "codigo": "CD02.31GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Vermelha - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Claro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Vinho - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD67.15": {
+      "codigo": "CD67.15",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Preto - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.7": {
+      "codigo": "CD67.7",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT06.12  - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "codigo": "3067",
+  "nome": "SANDRO ANDRÉ KOMMER",
+  "email": "sandro_kommer@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(45) 99993-8118",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 565.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300992",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 18:01:43",
+      "data_hora_confirmacao": "2023-09-29 18:50:50",
+      "data_hora_confirmacao_pagamento": "2023-09-29 18:50:45",
+      "valor_total_produtos": 151.5,
+      "valor_frete": 15.33,
+      "frete": "JADLOG",
+      "valor_total_pedido": 166.83,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301820",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 15:57:20",
+      "data_hora_confirmacao": "2023-10-17 16:00:56",
+      "data_hora_confirmacao_pagamento": "2023-10-17 16:01:05",
+      "valor_total_produtos": 100,
+      "valor_frete": 13.98,
+      "frete": "JADLOG",
+      "valor_total_pedido": 113.98,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301837",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 18:16:48",
+      "data_hora_confirmacao": "2023-10-17 18:22:06",
+      "data_hora_confirmacao_pagamento": "2023-10-17 18:23:06",
+      "valor_total_produtos": 105,
+      "valor_frete": 14.06,
+      "frete": "JADLOG",
+      "valor_total_pedido": 119.06,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302024",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-19 21:52:16",
+      "data_hora_confirmacao": "2023-10-20 09:21:08",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:21:15",
+      "valor_total_produtos": 138,
+      "valor_frete": 27.89,
+      "frete": "SEDEX",
+      "valor_total_pedido": 165.89,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.30G": {
+      "codigo": "CD02.30G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley (Arte em Termo Gel) - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.27G": {
+      "codigo": "CD02.27G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Termo gel) - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.29G": {
+      "codigo": "CD17.29G",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.22GG - Calvin Klein": {
+      "codigo": "CD24.22GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "CD29.5G": {
+      "codigo": "CD29.5G",
+      "titulo": "Bermuda Microfibra Premium - Gucci - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD29.4G": {
+      "codigo": "CD29.4G",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss - Cor: Cinza Claro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.12P": {
+      "codigo": "CD39.12P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.6P": {
+      "codigo": "CD39.6P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10P": {
+      "codigo": "CD39.10P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.1": {
+      "codigo": "CD40.1",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.1M": {
+      "codigo": "CD40.1M",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10 - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.4G": {
+      "codigo": "CD41.4G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT19.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

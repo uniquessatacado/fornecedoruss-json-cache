@@ -1,0 +1,45 @@
+{
+  "codigo": "4997",
+  "nome": "VITOR GOMES",
+  "email": "vitor-alexandre@uol.com.br",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(11) 99378-5034",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 60.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "5643",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 16:35:07",
+      "data_hora_confirmacao": "2023-12-23 20:33:30",
+      "data_hora_confirmacao_pagamento": "2023-12-23 20:33:55",
+      "valor_total_produtos": 51.13,
+      "valor_frete": 9.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 60.76,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.82": {
+      "codigo": "CD02.82",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

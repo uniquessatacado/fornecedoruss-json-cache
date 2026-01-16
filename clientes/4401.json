@@ -1,0 +1,61 @@
+{
+  "codigo": "4401",
+  "nome": "WJEFFERSON XAVIER",
+  "email": "weshspallazan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/12/2023",
+  "whatsapp": "(47) 99270-0388",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "3911",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-02 02:10:29",
+      "data_hora_confirmacao": "2023-12-02 09:16:11",
+      "data_hora_confirmacao_pagamento": "2023-12-02 12:28:36",
+      "valor_total_produtos": 94.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 94.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "CD46.1": {
+      "codigo": "CD46.1",
+      "titulo": "Camiseta Genuína Cotton Soft - LOUIS VUITTON  LT30.10 - Cor: OffWhite - Marca: Louis Vitton - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "codigo": "12339",
+  "nome": "LUAN FILIPE",
+  "email": "luanfiliperocha11@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/07/2024",
+  "whatsapp": "(47) 99742-9369",
+  "cidade": "Joinville",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 193.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "15879",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-13 10:27:26",
+      "data_hora_confirmacao": "2024-07-13 14:01:01",
+      "data_hora_confirmacao_pagamento": "2024-07-13 14:00:51",
+      "valor_total_produtos": 158.89,
+      "valor_frete": 24.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 183.35,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16269",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-17 16:57:56",
+      "data_hora_confirmacao": "2024-07-17 16:57:56",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 9.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 9.99,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23408": {
+      "codigo": "23408",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23436": {
+      "codigo": "23436",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23439": {
+      "codigo": "23439",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23467": {
+      "codigo": "23467",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23468": {
+      "codigo": "23468",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23474": {
+      "codigo": "23474",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23500": {
+      "codigo": "23500",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23501": {
+      "codigo": "23501",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23507": {
+      "codigo": "23507",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24273": {
+      "codigo": "24273",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24356": {
+      "codigo": "24356",
+      "titulo": "CAMISETA SOFT EGÍPCIA - HUGO BOSS arte em aplique - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Soft Egípcia ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24645": {
+      "codigo": "24645",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "codigo": "4373",
+  "nome": "IGOR HENRIQUE BORTOLETTO",
+  "email": "hb.igor@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2023",
+  "whatsapp": "(19) 99600-8573",
+  "cidade": "Porto Ferreira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 147.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "3831",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-29 19:13:11",
+      "data_hora_confirmacao": "2023-11-29 19:18:06",
+      "data_hora_confirmacao_pagamento": "2023-11-29 19:18:01",
+      "valor_total_produtos": 28.35,
+      "valor_frete": 13.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 41.73,
+      "desconto": 0,
+      "cidade": "Porto Ferreira",
+      "estado": "SP",
+      "percentual_comissao": 35,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "4108",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 13:31:37",
+      "data_hora_confirmacao": "2023-12-06 13:35:13",
+      "data_hora_confirmacao_pagamento": "2023-12-06 13:35:24",
+      "valor_total_produtos": 56.7,
+      "valor_frete": 15.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.22,
+      "desconto": 0,
+      "cidade": "Porto Ferreira",
+      "estado": "SP",
+      "percentual_comissao": 35,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "5209",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 22:49:18",
+      "data_hora_confirmacao": "2023-12-20 07:52:18",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:52:29",
+      "valor_total_produtos": 21.58,
+      "valor_frete": 11.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 33.34,
+      "desconto": 0,
+      "cidade": "Porto Ferreira",
+      "estado": "SP",
+      "percentual_comissao": 35,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.9": {
+      "codigo": "CD14.9",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT17.11 - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.10": {
+      "codigo": "CD14.10",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT06.12 - Cor: Cinza Claro - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

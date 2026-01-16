@@ -1,0 +1,61 @@
+{
+  "codigo": "5199",
+  "nome": "ELDFRAN EDSON DA SILVA",
+  "email": "edsondasilvaeldfran@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/01/2024",
+  "whatsapp": "(24) 99959-0963",
+  "cidade": "Volta Redonda",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 274.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "6279",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-07 08:56:07",
+      "data_hora_confirmacao": "2024-01-08 11:08:02",
+      "data_hora_confirmacao_pagamento": "2024-01-08 11:08:14",
+      "valor_total_produtos": 224.95,
+      "valor_frete": 49.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 274.77,
+      "desconto": 0,
+      "cidade": "Volta Redonda",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.60": {
+      "codigo": "CD17.60",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.69": {
+      "codigo": "CD01.69",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ALEMANHA  LT27.10    - Tamanho: P - Times : Alemanha",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

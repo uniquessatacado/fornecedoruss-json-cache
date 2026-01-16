@@ -1,0 +1,61 @@
+{
+  "codigo": "16939",
+  "nome": "THIAGO ANDRÉ DA SILVA",
+  "email": "thiagoplinio@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "28/10/2024",
+  "whatsapp": "(82) 9200-03821",
+  "cidade": "Maceió",
+  "estado": "AL",
+  "loja_drop": "3",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "23417",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-28 11:09:54",
+      "data_hora_confirmacao": "2024-10-29 11:11:10",
+      "data_hora_confirmacao_pagamento": "2024-10-29 11:11:02",
+      "valor_total_produtos": 81.97,
+      "valor_frete": 22.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 104.65,
+      "desconto": 0,
+      "cidade": "Maceió",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26365": {
+      "codigo": "26365",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32039": {
+      "codigo": "32039",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32322": {
+      "codigo": "32322",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX  - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

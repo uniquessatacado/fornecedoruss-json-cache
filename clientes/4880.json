@@ -1,0 +1,61 @@
+{
+  "codigo": "4880",
+  "nome": "FERNANDA GOMES DO NASCIMENTO",
+  "email": "nandagomes339@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(19) 9668-1937",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 119.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "5280",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 11:40:08",
+      "data_hora_confirmacao": "2023-12-21 20:47:17",
+      "data_hora_confirmacao_pagamento": "2023-12-21 20:47:26",
+      "valor_total_produtos": 105.27,
+      "valor_frete": 13.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 119.04,
+      "desconto": 0,
+      "cidade": "São Pedro",
+      "estado": "SP",
+      "percentual_comissao": 30,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.65": {
+      "codigo": "CD02.65",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT13.12    - Cor: Marrom Escuro - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.41": {
+      "codigo": "CD39.41",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

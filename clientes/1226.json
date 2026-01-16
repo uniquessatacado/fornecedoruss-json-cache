@@ -1,0 +1,80 @@
+{
+  "codigo": "1226",
+  "nome": "VICTOR BRUNO",
+  "email": "alexkatiane12@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(19) 9999-03727",
+  "cidade": "Mogi Mirim",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 295.84000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "4810",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 23:07:06",
+      "data_hora_confirmacao": "2023-12-16 12:44:41",
+      "data_hora_confirmacao_pagamento": "2023-12-16 12:44:53",
+      "valor_total_produtos": 130,
+      "valor_frete": 11.62,
+      "frete": "SEDEX",
+      "valor_total_pedido": 141.62,
+      "desconto": 0,
+      "cidade": "Mogi Mirim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13670",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 15:16:55",
+      "data_hora_confirmacao": "2024-06-14 18:21:03",
+      "data_hora_confirmacao_pagamento": "2024-06-14 18:20:53",
+      "valor_total_produtos": 142.99,
+      "valor_frete": 11.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 154.22,
+      "desconto": 0,
+      "cidade": "Mogi Mirim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21574": {
+      "codigo": "21574",
+      "titulo": "Relógio BVLGARI  - Cor: PRATA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO BVLGARI",
+      "marca": "BVLGARI",
+      "quantidade": "1"
+    },
+    "CD16.43": {
+      "codigo": "CD16.43",
+      "titulo": "Camisetas de Time Tailandesas - FORTALEZA   LT31.10   - Tamanho: G1 - Times : Fortaleza",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.59": {
+      "codigo": "CD16.59",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT08.11   - Tamanho: G1 - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

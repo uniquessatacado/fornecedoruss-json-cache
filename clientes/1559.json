@@ -1,0 +1,694 @@
+{
+  "codigo": "1559",
+  "nome": "MANOEL MESSIAS",
+  "email": "mykaellschumacheratalho@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "22/08/2023",
+  "whatsapp": "(88) 98194-8411",
+  "cidade": "Guaramirim",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 4587.790000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "28407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-27 12:09:02",
+      "data_hora_confirmacao": "2025-02-27 12:34:42",
+      "data_hora_confirmacao_pagamento": "2025-02-27 12:34:42",
+      "valor_total_produtos": 1400.17,
+      "valor_frete": 148.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 1549.13,
+      "desconto": 0,
+      "cidade": "Guaramirim",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28875",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-21 10:11:11",
+      "data_hora_confirmacao": "2025-03-21 10:32:48",
+      "data_hora_confirmacao_pagamento": "2025-03-21 10:32:48",
+      "valor_total_produtos": 754.52,
+      "valor_frete": 68.97,
+      "frete": "PAC",
+      "valor_total_pedido": 823.49,
+      "desconto": 0,
+      "cidade": "Guaramirim",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30324",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-18 11:03:22",
+      "data_hora_confirmacao": "2025-06-18 11:06:07",
+      "data_hora_confirmacao_pagamento": "2025-06-18 11:06:07",
+      "valor_total_produtos": 1926,
+      "valor_frete": 250.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 2176.65,
+      "desconto": 0,
+      "cidade": "Guaramirim",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30326",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-18 12:35:15",
+      "data_hora_confirmacao": "2025-06-18 12:35:15",
+      "data_hora_confirmacao_pagamento": "2025-06-18 12:35:15",
+      "valor_total_produtos": 38.52,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.52,
+      "desconto": 0,
+      "cidade": "Guaramirim",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40978": {
+      "codigo": "40978",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C275) - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "40981": {
+      "codigo": "40981",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C268) - Cor: PRETO MARINHO VERDE  - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40987": {
+      "codigo": "40987",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C587) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "40995": {
+      "codigo": "40995",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C279) - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "41008": {
+      "codigo": "41008",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "41014": {
+      "codigo": "41014",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C282) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "41060": {
+      "codigo": "41060",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C286) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "41063": {
+      "codigo": "41063",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C290)  - Cor: MARINHO VERDE CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "41074": {
+      "codigo": "41074",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C309) - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "41077": {
+      "codigo": "41077",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C308) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "2"
+    },
+    "41086": {
+      "codigo": "41086",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C292) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "41098": {
+      "codigo": "41098",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C300) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "41106": {
+      "codigo": "41106",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C298) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41109": {
+      "codigo": "41109",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C297) - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "41117": {
+      "codigo": "41117",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C302) - Cor: PRETO BRANCO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ALEATORY",
+      "quantidade": "1"
+    },
+    "41120": {
+      "codigo": "41120",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C566) - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "41123": {
+      "codigo": "41123",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C303) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "REI",
+      "quantidade": 2
+    },
+    "41129": {
+      "codigo": "41129",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C304) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "41132": {
+      "codigo": "41132",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C306) - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "41194": {
+      "codigo": "41194",
+      "titulo": "Oculos  - JULIET LT12A(C335) - ARMAÇÃO: X METAL - CHUMBO  - Kit Borracha: VERMELHA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41199": {
+      "codigo": "41199",
+      "titulo": "Oculos  - JULIET LT12A(C340) - ARMAÇÃO: TIO 2 CHUMBO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41223": {
+      "codigo": "41223",
+      "titulo": "Oculos  - JULIET PENNY LT12A(C357) - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41225": {
+      "codigo": "41225",
+      "titulo": "Oculos  - JULIET PENNY LT12A(C359) - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41234": {
+      "codigo": "41234",
+      "titulo": "Oculos  - JULIET ROMEU 1 LT13A(C368) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41235": {
+      "codigo": "41235",
+      "titulo": "Oculos  - JULIET DOUBLE X LT13A(C369) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41236": {
+      "codigo": "41236",
+      "titulo": "Oculos  - JULIET PENNY LT13A(C370) - ARMAÇÃO: TIO 2 PRETO+DOURADO - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41650": {
+      "codigo": "41650",
+      "titulo": "Camiseta Tecido Cashmere Importada   LT22A (C477) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "41664": {
+      "codigo": "41664",
+      "titulo": "Camiseta Tecido Cashmere Importada  LT22A  (C475) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "41765": {
+      "codigo": "41765",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C515) - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41809": {
+      "codigo": "41809",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C519) - Cor: VINHO MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "41839": {
+      "codigo": "41839",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C523) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41854": {
+      "codigo": "41854",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C525) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42084": {
+      "codigo": "42084",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C566) - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "42085": {
+      "codigo": "42085",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C579) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "42094": {
+      "codigo": "42094",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C585) - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": 3
+    },
+    "42097": {
+      "codigo": "42097",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C589) - Cor: PRETO BRANCO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42100": {
+      "codigo": "42100",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C588) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42106": {
+      "codigo": "42106",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C582) - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "3"
+    },
+    "42115": {
+      "codigo": "42115",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C558) - Cor: PRETO VERMELHO BRANCO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "42118": {
+      "codigo": "42118",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C553) - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "42121": {
+      "codigo": "42121",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C560) - Cor: PRETO VERMELHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "42124": {
+      "codigo": "42124",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C556) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    },
+    "42139": {
+      "codigo": "42139",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C578) - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "42142": {
+      "codigo": "42142",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C567) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42145": {
+      "codigo": "42145",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C568) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42151": {
+      "codigo": "42151",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C580) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42157": {
+      "codigo": "42157",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C576) - Cor: PRETO MARINHO VERDE  - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42160": {
+      "codigo": "42160",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C575) - Cor: PRETO BRANCO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42171": {
+      "codigo": "42171",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C601) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "42183": {
+      "codigo": "42183",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C602) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 3
+    },
+    "42194": {
+      "codigo": "42194",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C596) - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "42219": {
+      "codigo": "42219",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C615)  - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "42227": {
+      "codigo": "42227",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623)  - Cor: PRETO VERDE CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "42230": {
+      "codigo": "42230",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623)  - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42233": {
+      "codigo": "42233",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42234": {
+      "codigo": "42234",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623) - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42504": {
+      "codigo": "42504",
+      "titulo": "Cueca Peruana LT29A (C636)  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42646": {
+      "codigo": "42646",
+      "titulo": "Cueca Peruana LT29A (C641) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42665": {
+      "codigo": "42665",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C555) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "2"
+    },
+    "42673": {
+      "codigo": "42673",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C619) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "3"
+    },
+    "42684": {
+      "codigo": "42684",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C618) - Cor: PRETO VERMELHO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42693": {
+      "codigo": "42693",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C620) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "42699": {
+      "codigo": "42699",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C610) - Cor: PRETO BRANCO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "42722": {
+      "codigo": "42722",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C625) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42725": {
+      "codigo": "42725",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C625) - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "42734": {
+      "codigo": "42734",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C622)  - Cor: PRETO VERMELHO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "42740": {
+      "codigo": "42740",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C616) - Cor: PRETO AZUL BEBE VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "42748": {
+      "codigo": "42748",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C611) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "42751": {
+      "codigo": "42751",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C611)  - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "42843": {
+      "codigo": "42843",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C608) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "42844": {
+      "codigo": "42844",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C608) - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "42854": {
+      "codigo": "42854",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C608)   - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "45296": {
+      "codigo": "45296",
+      "titulo": "Cueca Peruana LT34A (C748) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "45299": {
+      "codigo": "45299",
+      "titulo": "Cueca Peruana LT34A (C749) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

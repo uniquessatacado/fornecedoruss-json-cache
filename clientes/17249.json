@@ -1,0 +1,61 @@
+{
+  "codigo": "17249",
+  "nome": "BRUNO LUZ LIMA",
+  "email": "brunoluzct@outlook.com.br",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(11) 97074-6259",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 138.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "23904",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-07 11:02:11",
+      "data_hora_confirmacao": "2024-11-07 11:03:29",
+      "data_hora_confirmacao_pagamento": "2024-11-07 11:03:29",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 19,
+      "frete": "JADLOG",
+      "valor_total_pedido": 138.97,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33648": {
+      "codigo": "33648",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33654": {
+      "codigo": "33654",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33657": {
+      "codigo": "33657",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

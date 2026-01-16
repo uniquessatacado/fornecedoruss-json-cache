@@ -1,0 +1,53 @@
+{
+  "codigo": "17179",
+  "nome": "RAIMUNDO NONATO C.DA SILVA",
+  "email": "silvadoutor7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/11/2024",
+  "whatsapp": "(98) 98451-0360",
+  "cidade": "Boa Vista do Gurupi",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 140.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "23812",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 11:52:56",
+      "data_hora_confirmacao": "2024-11-08 11:12:04",
+      "data_hora_confirmacao_pagamento": "2024-11-08 11:11:54",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 56.66,
+      "frete": "JADLOG",
+      "valor_total_pedido": 140.64,
+      "desconto": 0,
+      "cidade": "Boa Vista do Gurupi",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33434": {
+      "codigo": "33434",
+      "titulo": "Camiseta Algodão Soft Americano - DOLCE GABBANA arte em BORDADO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33461": {
+      "codigo": "33461",
+      "titulo": "Camiseta Algodão Stretch Americano - LOUIS VUITTON arte em BORDADO - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

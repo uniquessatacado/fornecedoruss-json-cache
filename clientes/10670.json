@@ -1,0 +1,131 @@
+{
+  "codigo": "10670",
+  "nome": "MARCELO MOURA",
+  "email": "estilourbano784@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 9402-97131",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 234.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "15725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 23:24:35",
+      "data_hora_confirmacao": "2024-07-13 13:23:29",
+      "data_hora_confirmacao_pagamento": "2024-07-13 13:23:24",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 29.91,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22379",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-06 17:12:15",
+      "data_hora_confirmacao": "2024-10-07 18:04:05",
+      "data_hora_confirmacao_pagamento": "2024-10-07 18:03:57",
+      "valor_total_produtos": 138.96,
+      "valor_frete": 16.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 155.02,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24559",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-16 23:11:38",
+      "data_hora_confirmacao": "2024-11-16 23:13:04",
+      "data_hora_confirmacao_pagamento": "2024-11-16 23:13:04",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 49.76,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23471": {
+      "codigo": "23471",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "23508": {
+      "codigo": "23508",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29438": {
+      "codigo": "29438",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - JUVENTUS - Tamanho: GG - Times : Juventus - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "29484": {
+      "codigo": "29484",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SANTOS - Tamanho: G - Times : Santos - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "31259": {
+      "codigo": "31259",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - NIKE - Cor: PRETO VERDE CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31738": {
+      "codigo": "31738",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31989": {
+      "codigo": "31989",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em BORDADO - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

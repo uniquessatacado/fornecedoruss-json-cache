@@ -1,0 +1,80 @@
+{
+  "codigo": "3634",
+  "nome": "FELIPE GONCALVES INOCENCIO DA SILVA",
+  "email": "filipegs69@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/10/2023",
+  "whatsapp": "(81) 99309-8410",
+  "cidade": "Itapissuma",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 239.92000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "5373",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 20:18:31",
+      "data_hora_confirmacao": "2023-12-21 15:32:20",
+      "data_hora_confirmacao_pagamento": "2023-12-21 15:27:13",
+      "valor_total_produtos": 124.89,
+      "valor_frete": 26.86,
+      "frete": "PAC",
+      "valor_total_pedido": 151.75,
+      "desconto": 0,
+      "cidade": "Itapissuma",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24289",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-12 16:31:54",
+      "data_hora_confirmacao": "2024-11-12 18:45:45",
+      "data_hora_confirmacao_pagamento": "2024-11-12 18:45:45",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 35.18,
+      "frete": "PAC",
+      "valor_total_pedido": 88.17,
+      "desconto": 0,
+      "cidade": "Itapissuma",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31536": {
+      "codigo": "31536",
+      "titulo": "Chinelo Kenner Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 10
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

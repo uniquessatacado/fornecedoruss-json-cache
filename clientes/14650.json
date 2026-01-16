@@ -1,0 +1,104 @@
+{
+  "codigo": "14650",
+  "nome": "JOÃO BRUNO SOUSA MENDES",
+  "email": "jbrunosmendes@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/08/2024",
+  "whatsapp": "(85) 98677-0119",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 171.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "19661",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 17:54:17",
+      "data_hora_confirmacao": "2024-08-27 09:30:41",
+      "data_hora_confirmacao_pagamento": "2024-08-27 09:30:33",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 14.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 44.78,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20971",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-12 11:54:39",
+      "data_hora_confirmacao": "2024-09-12 17:12:58",
+      "data_hora_confirmacao_pagamento": "2024-09-12 17:12:28",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 15.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.4,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24636": {
+      "codigo": "24636",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25418": {
+      "codigo": "25418",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25457": {
+      "codigo": "25457",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28958": {
+      "codigo": "28958",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30427": {
+      "codigo": "30427",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "30432": {
+      "codigo": "30432",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

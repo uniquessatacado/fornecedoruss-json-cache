@@ -1,0 +1,61 @@
+{
+  "codigo": "20291",
+  "nome": "ADRIANO MARCELO DA SILVA",
+  "email": "donramonbarbershop@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/07/2025",
+  "whatsapp": "(54) 98141-4699",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 81.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "31054",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-31 18:24:40",
+      "data_hora_confirmacao": "2025-07-31 18:38:10",
+      "data_hora_confirmacao_pagamento": "2025-07-31 18:38:10",
+      "valor_total_produtos": 64.02,
+      "valor_frete": 17.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.05,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "52093": {
+      "codigo": "52093",
+      "titulo": "Cueca Peruana Nike Pro (LT017) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52529": {
+      "codigo": "52529",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52530": {
+      "codigo": "52530",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

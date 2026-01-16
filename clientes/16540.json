@@ -1,0 +1,72 @@
+{
+  "codigo": "16540",
+  "nome": "MATHEUS MULLER",
+  "email": "matheuros@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/10/2024",
+  "whatsapp": "(27) 99284-9607",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 89.96000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "22788",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-14 13:10:20",
+      "data_hora_confirmacao": "2024-10-14 15:45:32",
+      "data_hora_confirmacao_pagamento": "2024-10-14 15:45:24",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 33.81,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25496",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 19:08:15",
+      "data_hora_confirmacao": "2024-12-01 19:09:49",
+      "data_hora_confirmacao_pagamento": "2024-12-01 19:09:49",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 16.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.15,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30101": {
+      "codigo": "30101",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31459": {
+      "codigo": "31459",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    }
+  }
+}

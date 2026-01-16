@@ -1,0 +1,69 @@
+{
+  "codigo": "9690",
+  "nome": "MARCOS CARVALHO",
+  "email": "carvalho.marcosrp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(11) 97661-9963",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 145.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "12214",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 17:06:20",
+      "data_hora_confirmacao": "2024-05-24 14:14:17",
+      "data_hora_confirmacao_pagamento": "2024-05-24 14:14:08",
+      "valor_total_produtos": 132.96,
+      "valor_frete": 12.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18952": {
+      "codigo": "18952",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte espelhada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "18985": {
+      "codigo": "18985",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "19153": {
+      "codigo": "19153",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em camurça - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19185": {
+      "codigo": "19185",
+      "titulo": "Bermuda Microfibra Super Premium LACOSTE arte em bordado  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "10316",
+  "nome": "LUAN MATHEUS DOS SANTOS COSTA",
+  "email": "scshoppingscshopping@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2024",
+  "whatsapp": "(18) 99684-3041",
+  "cidade": "Birigüi",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 90.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "13278",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 11:00:04",
+      "data_hora_confirmacao": "2024-06-07 13:17:28",
+      "data_hora_confirmacao_pagamento": "2024-06-07 13:17:21",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "Birigüi",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13287",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 12:40:11",
+      "data_hora_confirmacao": "2024-06-07 13:11:15",
+      "data_hora_confirmacao_pagamento": "2024-06-07 13:11:08",
+      "valor_total_produtos": 34.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 44.92,
+      "desconto": 0,
+      "cidade": "Birigüi",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20562": {
+      "codigo": "20562",
+      "titulo": "CAMISETA JOGADOR - MIZUNO  - Cor: BRANCA - Marca: Mizuno - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "20607": {
+      "codigo": "20607",
+      "titulo": "CAMISETA POLO DRIFIT PREMIUM - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS DRIFIT ",
+      "categoria": "CAMISETA DRIFT PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "1094",
+  "nome": "FELIPE ALMEIDA",
+  "email": "thaylouise888@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/08/2023",
+  "whatsapp": "(11) 94102-3011",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 111.97999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "9629",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-07 18:00:09",
+      "data_hora_confirmacao": "2024-04-08 10:30:19",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:30:14",
+      "valor_total_produtos": 56.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 56.98,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27166",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-23 16:41:39",
+      "data_hora_confirmacao": "2024-12-23 16:44:22",
+      "data_hora_confirmacao_pagamento": "2024-12-23 16:44:22",
+      "valor_total_produtos": 55,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 55,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38241": {
+      "codigo": "38241",
+      "titulo": "Corta Vento Microfibra ultra (C115) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD25.13G": {
+      "codigo": "CD25.13G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA DIESEL - Cor: KIT - PRETA - AZUL BB- MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "MD43.21 - MD 2": {
+      "codigo": "MD43.21 - MD 2",
+      "titulo": "Boné Super Premium - NY - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

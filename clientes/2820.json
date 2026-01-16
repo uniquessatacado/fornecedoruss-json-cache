@@ -1,0 +1,85 @@
+{
+  "codigo": "2820",
+  "nome": "JEFFERSON FERNANDES",
+  "email": "ferjefferson@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(11) 9883-02810",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 137.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300663",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 11:10:37",
+      "data_hora_confirmacao": "2023-09-25 17:07:35",
+      "data_hora_confirmacao_pagamento": "2023-09-25 17:06:49",
+      "valor_total_produtos": 122,
+      "valor_frete": 15.21,
+      "frete": "SEDEX",
+      "valor_total_pedido": 137.21,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.10G - Lacoste": {
+      "codigo": "CD24.10G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.14GG - Lacoste": {
+      "codigo": "CD24.14GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD07.19GG": {
+      "codigo": "CD07.19GG",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Boss  - Cor: Azul Bebê - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD07.21G": {
+      "codigo": "CD07.21G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Louis Vuitton - Cor: Mostarda - Marca: Louis Vitton - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

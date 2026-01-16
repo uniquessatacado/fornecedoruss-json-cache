@@ -1,0 +1,447 @@
+{
+  "codigo": "712",
+  "nome": "THIAGO TEIXEIRA",
+  "email": "thiago@tgogrupo.com.br",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(19) 99781-5735",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 7,
+  "valor_total_comprado": 1754.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "7379",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-02-20 23:47:33",
+      "data_hora_confirmacao": "2024-02-21 09:41:12",
+      "data_hora_confirmacao_pagamento": "2024-02-21 09:41:04",
+      "valor_total_produtos": 340.89,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 350.89,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7595",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-25 14:48:57",
+      "data_hora_confirmacao": "2024-02-26 12:43:07",
+      "data_hora_confirmacao_pagamento": "2024-02-26 12:43:01",
+      "valor_total_produtos": 132.96,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 142.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7612",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-02-26 15:01:41",
+      "data_hora_confirmacao": "2024-02-26 15:18:10",
+      "data_hora_confirmacao_pagamento": "2024-02-26 15:18:21",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13322",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-07 17:09:19",
+      "data_hora_confirmacao": "2024-06-10 17:00:17",
+      "data_hora_confirmacao_pagamento": "2024-06-10 17:00:07",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 117.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14008",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 00:38:38",
+      "data_hora_confirmacao": "2024-06-22 10:17:20",
+      "data_hora_confirmacao_pagamento": "2024-06-22 10:17:14",
+      "valor_total_produtos": 355.91,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 355.91,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27564",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-01-11 22:42:36",
+      "data_hora_confirmacao": "2025-01-11 22:50:06",
+      "data_hora_confirmacao_pagamento": "2025-01-11 22:50:06",
+      "valor_total_produtos": 243.05,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 253.05,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30284",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-06-13 15:53:25",
+      "data_hora_confirmacao": "2025-06-13 16:00:09",
+      "data_hora_confirmacao_pagamento": "2025-06-13 16:00:09",
+      "valor_total_produtos": 449.44,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 459.44,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15158": {
+      "codigo": "15158",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19033": {
+      "codigo": "19033",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19265": {
+      "codigo": "19265",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS recorte  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "21758": {
+      "codigo": "21758",
+      "titulo": "Camisetas Polo Piquet Duplo - Cor: PRETA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21881": {
+      "codigo": "21881",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21885": {
+      "codigo": "21885",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21889": {
+      "codigo": "21889",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21897": {
+      "codigo": "21897",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21901": {
+      "codigo": "21901",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21969": {
+      "codigo": "21969",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21973": {
+      "codigo": "21973",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21977": {
+      "codigo": "21977",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "35663": {
+      "codigo": "35663",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "37557": {
+      "codigo": "37557",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA (C31) Arte termo Gel - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37651": {
+      "codigo": "37651",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: SALMÃO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "37721": {
+      "codigo": "37721",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C18) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "38718": {
+      "codigo": "38718",
+      "titulo": "Bermuda Microfibra Hiper (C134) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39285": {
+      "codigo": "39285",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C165) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "47691": {
+      "codigo": "47691",
+      "titulo": "Camiseta 40.1 DIESEL | Conforto Essencial LT51A (C900)  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49391": {
+      "codigo": "49391",
+      "titulo": "Camiseta 40.1 Tommy | LT68A (C1167) - Cor: AZUL - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "49423": {
+      "codigo": "49423",
+      "titulo": "Camiseta 40.1 Boss | LT68A (C1171) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49447": {
+      "codigo": "49447",
+      "titulo": "Camiseta 40.1 Armani | LT68A (C1174) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49463": {
+      "codigo": "49463",
+      "titulo": "Camiseta 40.1 Lacoste | LT68A (C1176) - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "49603": {
+      "codigo": "49603",
+      "titulo": "Moletom 3 Cabos Importado Boss | LT68A (C1193) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49719": {
+      "codigo": "49719",
+      "titulo": " Camiseta 40.1 Bordada Boss | LT68A (C1215) - Cor: VERDE MILITAR - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49727": {
+      "codigo": "49727",
+      "titulo": " Camiseta 40.1 Bordada Boss | LT68A (C1216) - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49759": {
+      "codigo": "49759",
+      "titulo": " Camiseta 40.1 Armani | LT68A (C1220) - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49775": {
+      "codigo": "49775",
+      "titulo": " Camiseta 40.1 Lacoste | LT68A (C1222) - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "49783": {
+      "codigo": "49783",
+      "titulo": " Camiseta 40.1 Lacoste | LT68A (C1223) - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.107M": {
+      "codigo": "CD02.107M",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Marrom - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD02.103M": {
+      "codigo": "CD02.103M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Marrom - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.105M": {
+      "codigo": "CD02.105M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.104M": {
+      "codigo": "CD02.104M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD02.111M": {
+      "codigo": "CD02.111M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD40.16": {
+      "codigo": "CD40.16",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD04.2M": {
+      "codigo": "CD04.2M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

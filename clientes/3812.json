@@ -1,0 +1,179 @@
+{
+  "codigo": "3812",
+  "nome": "KLEBER LUCIANO DE MORAIS",
+  "email": "klmluciano@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/10/2023",
+  "whatsapp": "(83) 99325-0430",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 520.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "2860",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 11:40:50",
+      "data_hora_confirmacao": "2023-11-09 14:25:02",
+      "data_hora_confirmacao_pagamento": "2023-11-09 14:25:14",
+      "valor_total_produtos": 191,
+      "valor_frete": 27.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 218.62,
+      "desconto": 0,
+      "cidade": "Solânea",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3012",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-10 12:26:20",
+      "data_hora_confirmacao": "2023-11-10 12:30:17",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 24,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 24,
+      "desconto": 0,
+      "cidade": "Solânea",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9964",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 14:29:19",
+      "data_hora_confirmacao": "2024-04-12 15:17:59",
+      "data_hora_confirmacao_pagamento": "2024-04-12 15:17:54",
+      "valor_total_produtos": 248.92,
+      "valor_frete": 28.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 277.91,
+      "desconto": 0,
+      "cidade": "Solânea",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.13": {
+      "codigo": "CD40.13",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT31.10    - Cor: Bege - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD17.44": {
+      "codigo": "CD17.44",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.42": {
+      "codigo": "CD17.42",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT03.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD27.10": {
+      "codigo": "CD27.10",
+      "titulo": "Boné Super Premium - VERSACE  LT23.10 - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD02.138GG": {
+      "codigo": "CD02.138GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: VERMELHA - Marca: Puma - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD02.139GG": {
+      "codigo": "CD02.139GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.132GG": {
+      "codigo": "CD02.132GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.143GG": {
+      "codigo": "CD02.143GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: MARROM - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.144GG": {
+      "codigo": "CD02.144GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: VERMELHA - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Azul Marinho - Marca: Mizuno - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD57.10GG": {
+      "codigo": "CD57.10GG",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "3393",
+  "nome": "PAULO VINICIUS SCALFI",
+  "email": "rscalfi69@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/10/2023",
+  "whatsapp": "(83) 99134-6014",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 178.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "6438",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 06:53:42",
+      "data_hora_confirmacao": "2024-01-10 13:02:37",
+      "data_hora_confirmacao_pagamento": "2024-01-10 13:02:52",
+      "valor_total_produtos": 155.93,
+      "valor_frete": 22.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 178.28,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.59": {
+      "codigo": "CD24.59",
+      "titulo": "Cuecas Peruanas - Diesel  - Cor: Azul Marinho - Marca: Diesel - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Azul Marinho - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD39.57": {
+      "codigo": "CD39.57",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.61": {
+      "codigo": "CD39.61",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Salmão Claro - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

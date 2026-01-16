@@ -1,0 +1,53 @@
+{
+  "codigo": "6291",
+  "nome": "MAICON AGRIPPA",
+  "email": "agrippati@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/02/2024",
+  "whatsapp": "(54) 98161-9795",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 77.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "7418",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 12:12:04",
+      "data_hora_confirmacao": "2024-02-21 12:27:14",
+      "data_hora_confirmacao_pagamento": "2024-02-21 12:27:09",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 15.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.02,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.106G": {
+      "codigo": "CD02.106G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.100G": {
+      "codigo": "CD02.100G",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

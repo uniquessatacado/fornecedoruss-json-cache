@@ -1,0 +1,120 @@
+{
+  "codigo": "1235",
+  "nome": "ANDRE SCHELLES",
+  "email": "schellesandre44@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(21) 97449-5370",
+  "cidade": "Belford Roxo",
+  "estado": "RJ",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 190.29999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "16513",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-20 03:25:11",
+      "data_hora_confirmacao": "2024-07-20 10:03:07",
+      "data_hora_confirmacao_pagamento": "2024-07-20 10:02:57",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 14.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.29,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25457",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-30 19:20:10",
+      "data_hora_confirmacao": "2024-11-30 19:20:36",
+      "data_hora_confirmacao_pagamento": "2024-11-30 19:20:36",
+      "valor_total_produtos": 118.96,
+      "valor_frete": 17.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.01,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23502": {
+      "codigo": "23502",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24646": {
+      "codigo": "24646",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24677": {
+      "codigo": "24677",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24708": {
+      "codigo": "24708",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "34030": {
+      "codigo": "34030",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35332": {
+      "codigo": "35332",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35351": {
+      "codigo": "35351",
+      "titulo": "Bermuda Microfibra Ultra - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35374": {
+      "codigo": "35374",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

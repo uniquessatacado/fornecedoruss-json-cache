@@ -1,0 +1,61 @@
+{
+  "codigo": "1860",
+  "nome": "ALAN VIEIRA CORREA",
+  "email": "lojaimpactus@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(55) 9994-57603",
+  "cidade": "São Francisco de Assis",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301889",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-18 09:35:15",
+      "data_hora_confirmacao": "2023-10-23 09:41:42",
+      "data_hora_confirmacao_pagamento": "2023-10-18 18:20:01",
+      "valor_total_produtos": 110,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 110,
+      "desconto": 0,
+      "cidade": "São Francisco de Assis",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD22.1M": {
+      "codigo": "CD22.1M",
+      "titulo": "Corta Vento Microfibra Premium - Hugo Boss - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD29.5M": {
+      "codigo": "CD29.5M",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Verde - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

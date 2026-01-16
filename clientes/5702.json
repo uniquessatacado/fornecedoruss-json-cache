@@ -1,0 +1,72 @@
+{
+  "codigo": "5702",
+  "nome": "PATRICK DAVID",
+  "email": "patrick.elimelel@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/01/2024",
+  "whatsapp": "(11) 98188-0922",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 81.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "6837",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-25 11:21:58",
+      "data_hora_confirmacao": "2024-01-25 12:03:30",
+      "data_hora_confirmacao_pagamento": "2024-01-25 12:05:03",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6841",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-25 11:59:24",
+      "data_hora_confirmacao": "2024-01-25 16:31:35",
+      "data_hora_confirmacao_pagamento": "2024-01-25 16:31:50",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 40.59,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.90": {
+      "codigo": "CD02.90",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

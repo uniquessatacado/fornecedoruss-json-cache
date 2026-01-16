@@ -1,0 +1,61 @@
+{
+  "codigo": "10115",
+  "nome": "ROBERT GUSTAVO",
+  "email": "robertgustavosilvadossantos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/05/2024",
+  "whatsapp": "(11) 98144-1361",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "17956",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 16:24:59",
+      "data_hora_confirmacao": "2024-08-07 10:34:20",
+      "data_hora_confirmacao_pagamento": "2024-08-07 10:33:59",
+      "valor_total_produtos": 63.97,
+      "valor_frete": 12.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.29,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24704": {
+      "codigo": "24704",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "26493": {
+      "codigo": "26493",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26518": {
+      "codigo": "26518",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "20228",
+  "nome": "GABRIEL CAITANO SOUZA",
+  "email": "caitano.gabrielsouza@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/07/2025",
+  "whatsapp": "(19) 9877-9522",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "30758",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-16 11:06:59",
+      "data_hora_confirmacao": "2025-07-16 11:08:04",
+      "data_hora_confirmacao_pagamento": "2025-07-16 11:08:04",
+      "valor_total_produtos": 117,
+      "valor_frete": 13.09,
+      "frete": "LOGGI",
+      "valor_total_pedido": 130.09,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50292": {
+      "codigo": "50292",
+      "titulo": "Bermuda Mizuno Microfibra Ultra (LT003.3) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "50598": {
+      "codigo": "50598",
+      "titulo": "Calça ULTRA DRIFIT Nike - Cor: PRETO C/ BRANCO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA ULTRA DRIFIT ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50607": {
+      "codigo": "50607",
+      "titulo": "Camiseta Drifit ULTRA DRY Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

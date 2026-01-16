@@ -1,0 +1,61 @@
+{
+  "codigo": "7537",
+  "nome": "JOAO FERNANDO MACHADO DOS SANTOS",
+  "email": "joaoms.mach@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(51) 98472-7399",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 102.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "9393",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 00:51:35",
+      "data_hora_confirmacao": "2024-04-04 12:18:59",
+      "data_hora_confirmacao_pagamento": "2024-04-04 12:18:54",
+      "valor_total_produtos": 80.97,
+      "valor_frete": 21.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.7,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.15GG": {
+      "codigo": "CD4.15GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD51.1GG": {
+      "codigo": "CD51.1GG",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

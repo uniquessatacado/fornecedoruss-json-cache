@@ -1,0 +1,85 @@
+{
+  "codigo": "3617",
+  "nome": "IGOR EDUARDO RODRIGUES DA SILVA",
+  "email": "igor.legal04@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(19) 99124-5710",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302016",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-19 19:34:52",
+      "data_hora_confirmacao": "2023-10-20 09:23:15",
+      "data_hora_confirmacao_pagamento": "2023-10-20 09:23:26",
+      "valor_total_produtos": 87,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 87,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Cinza Claro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.33M - Dolce&Gabbana": {
+      "codigo": "CD24.33M - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD41.4G": {
+      "codigo": "CD41.4G",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT19.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.32G - Hugo Boss": {
+      "codigo": "CD24.32G - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.33G - Dolce&Gabbana": {
+      "codigo": "CD24.33G - Dolce&Gabbana",
+      "titulo": "Cuecas Peruanas - Dolce Gabbana  LT19.10 - Cor: Azul Marinho - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "6762",
+  "nome": "MURILO FERREIRA VIEIRA",
+  "email": "murilovieira346@yahoo.com",
+  "sexo": "0",
+  "data_cadastro": "10/03/2024",
+  "whatsapp": "(32) 9841-91051",
+  "cidade": "Leopoldina",
+  "estado": "MG",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "10263",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 21:02:56",
+      "data_hora_confirmacao": "2024-04-19 10:53:59",
+      "data_hora_confirmacao_pagamento": "2024-04-19 10:53:53",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 17.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.27,
+      "desconto": 0,
+      "cidade": "Leopoldina",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.20GG": {
+      "codigo": "CD24.20GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (HUGO) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.21GG": {
+      "codigo": "CD24.21GG",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.17GG": {
+      "codigo": "CD24.17GG",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

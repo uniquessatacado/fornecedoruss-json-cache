@@ -1,0 +1,45 @@
+{
+  "codigo": "20005",
+  "nome": "CRISTOPHER DAVIS RODRIGUES DA SILVA",
+  "email": "cristopher.d@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/05/2025",
+  "whatsapp": "(34) 99216-6567",
+  "cidade": "Uberlândia",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 81.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "29985",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-27 09:49:18",
+      "data_hora_confirmacao": "2025-05-27 09:52:40",
+      "data_hora_confirmacao_pagamento": "2025-05-27 09:52:40",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 39.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 81.27,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "48945": {
+      "codigo": "48945",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1102) - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

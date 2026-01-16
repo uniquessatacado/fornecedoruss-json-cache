@@ -1,0 +1,61 @@
+{
+  "codigo": "3923",
+  "nome": "MICHAEL LEÃO",
+  "email": "msalles686@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(19) 99409-1146",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 208.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "2806",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 16:30:35",
+      "data_hora_confirmacao": "2023-11-07 22:15:06",
+      "data_hora_confirmacao_pagamento": "2023-11-07 22:15:19",
+      "valor_total_produtos": 195,
+      "valor_frete": 13.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 208.08,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.47": {
+      "codigo": "CD16.47",
+      "titulo": "Camisetas de Time Tailandesas - CORINTHIANS  LT03.11    - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.42": {
+      "codigo": "CD16.42",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT31.10   - Tamanho: M - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.52": {
+      "codigo": "CD16.52",
+      "titulo": "Camisetas de Time Tailandesas - SÃO PAULO   LT06.11   - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

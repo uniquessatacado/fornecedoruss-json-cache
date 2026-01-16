@@ -1,0 +1,45 @@
+{
+  "codigo": "15002",
+  "nome": "JOSÉ NETO",
+  "email": "netojose329@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(11) 96450-7933",
+  "cidade": "Cotia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 41.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "20147",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 14:48:43",
+      "data_hora_confirmacao": "2024-09-02 15:16:20",
+      "data_hora_confirmacao_pagamento": "2024-09-02 15:16:15",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 41.61,
+      "desconto": 0,
+      "cidade": "Cotia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25367": {
+      "codigo": "25367",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    }
+  }
+}

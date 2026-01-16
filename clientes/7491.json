@@ -1,0 +1,53 @@
+{
+  "codigo": "7491",
+  "nome": "WELITON DE SOUZA PAULA",
+  "email": "welitondespaula@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(16) 99144-1689",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 205.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "9312",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 07:11:33",
+      "data_hora_confirmacao": "2024-04-03 11:20:32",
+      "data_hora_confirmacao_pagamento": "2024-04-03 11:20:26",
+      "valor_total_produtos": 179.92,
+      "valor_frete": 25.43,
+      "frete": "SEDEX",
+      "valor_total_pedido": 205.35,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD51.1G": {
+      "codigo": "CD51.1G",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto e Branco - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Royal - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

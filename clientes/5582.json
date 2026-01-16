@@ -1,0 +1,69 @@
+{
+  "codigo": "5582",
+  "nome": "CASSIANO COSTA SANTOS",
+  "email": "cassianocostasantos@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/01/2024",
+  "whatsapp": "(21) 97431-7669",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 178.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "6799",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-24 17:47:05",
+      "data_hora_confirmacao": "2024-01-25 09:33:46",
+      "data_hora_confirmacao_pagamento": "2024-01-25 09:34:03",
+      "valor_total_produtos": 160.99,
+      "valor_frete": 17.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 178.26,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD01.64": {
+      "codigo": "CD01.64",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: M - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.61": {
+      "codigo": "CD16.61",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.34M": {
+      "codigo": "CD01.34M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Roma - Tamanho: M - Times : Roma",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

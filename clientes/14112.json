@@ -1,0 +1,53 @@
+{
+  "codigo": "14112",
+  "nome": "ALEX FELIPE TAMANINI FERRAZ",
+  "email": "tamaninialex541@gmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(19) 99616-2259",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 39.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "18775",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-15 10:53:19",
+      "data_hora_confirmacao": "2024-08-16 17:12:40",
+      "data_hora_confirmacao_pagamento": "2024-08-16 17:12:32",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26331": {
+      "codigo": "26331",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26340": {
+      "codigo": "26340",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

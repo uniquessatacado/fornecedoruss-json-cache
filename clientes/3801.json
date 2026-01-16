@@ -1,0 +1,53 @@
+{
+  "codigo": "3801",
+  "nome": "EDMAR DA SILVA NOBRE",
+  "email": "edmarsilva388@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/10/2023",
+  "whatsapp": "(11) 98913-5319",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "2418",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-28 18:11:16",
+      "data_hora_confirmacao": "2023-10-31 13:52:52",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:53:03",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 10.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.36,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.36GG - BROOKSFIELD": {
+      "codigo": "CD24.36GG - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Azul Marinho - Marca: Brooksfield - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": 3
+    }
+  }
+}

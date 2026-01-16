@@ -1,0 +1,107 @@
+{
+  "codigo": "2479",
+  "nome": "REGINALDO VICENTE E SILVA JUNIOR",
+  "email": "reginaldouberpe@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(81) 9878-31884",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 401.33000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300349",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 10:25:53",
+      "data_hora_confirmacao": "2023-09-26 12:00:42",
+      "data_hora_confirmacao_pagamento": "2023-09-26 12:00:33",
+      "valor_total_produtos": 20,
+      "valor_frete": 26.24,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 46.24,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300997",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 18:28:38",
+      "data_hora_confirmacao": "2023-10-07 12:07:43",
+      "data_hora_confirmacao_pagamento": "2023-10-07 12:08:04",
+      "valor_total_produtos": 33,
+      "valor_frete": 13.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 46.53,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2901",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 17:57:30",
+      "data_hora_confirmacao": "2023-11-09 12:22:11",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:22:21",
+      "valor_total_produtos": 272,
+      "valor_frete": 36.56,
+      "frete": "PAC",
+      "valor_total_pedido": 308.56,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD17.15M": {
+      "codigo": "CD17.15M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Preto - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 19
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 13
+    }
+  }
+}

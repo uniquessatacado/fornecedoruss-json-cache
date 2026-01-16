@@ -1,0 +1,53 @@
+{
+  "codigo": "10475",
+  "nome": "WELLINGTON MENDES FIGUEIREDO",
+  "email": "wfigueiredo0307@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(11) 93933-9952",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "13146",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 19:09:56",
+      "data_hora_confirmacao": "2024-06-06 14:23:40",
+      "data_hora_confirmacao_pagamento": "2024-06-06 14:21:28",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 12.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.53,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.07 MD-4": {
+      "codigo": "CD43.07 MD-4",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD22.3GG": {
+      "codigo": "CD22.3GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

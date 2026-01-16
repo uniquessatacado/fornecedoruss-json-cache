@@ -1,0 +1,45 @@
+{
+  "codigo": "8745",
+  "nome": "ALEXSANDRO DA SILVA",
+  "email": "Gessoalx@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/04/2024",
+  "whatsapp": "(11) 96267-2166",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65,
+  "pedidos": [
+    {
+      "codigo_pedido": "10905",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-28 11:33:28",
+      "data_hora_confirmacao": "2024-04-30 12:53:51",
+      "data_hora_confirmacao_pagamento": "2024-04-30 12:53:43",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "KT1.2M": {
+      "codigo": "KT1.2M",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

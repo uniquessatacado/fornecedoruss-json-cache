@@ -1,0 +1,128 @@
+{
+  "codigo": "4684",
+  "nome": "MÁRIO GOMES",
+  "email": "marioju77@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2023",
+  "whatsapp": "(19) 99372-2898",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 251.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "4608",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-13 03:39:37",
+      "data_hora_confirmacao": "2023-12-13 09:26:42",
+      "data_hora_confirmacao_pagamento": "2023-12-13 13:29:11",
+      "valor_total_produtos": 140,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 140,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5251",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-20 06:36:30",
+      "data_hora_confirmacao": "2023-12-20 08:37:05",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 111.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 111.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.16": {
+      "codigo": "CD67.16",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.18": {
+      "codigo": "CD67.18",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.15": {
+      "codigo": "CD67.15",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Preto - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.19": {
+      "codigo": "CD67.19",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12 - Cor: Preto - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD67.4": {
+      "codigo": "CD67.4",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - ONBONGO  LT06.12  - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "ONBONGO",
+      "quantidade": "1"
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD02.80": {
+      "codigo": "CD02.80",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12  - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

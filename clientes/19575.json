@@ -1,0 +1,53 @@
+{
+  "codigo": "19575",
+  "nome": "DANIEL PIVA",
+  "email": "daniel13120208@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/03/2025",
+  "whatsapp": "(11) 91547-8000",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 191.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "28863",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-03-20 17:08:15",
+      "data_hora_confirmacao": "2025-03-20 17:09:31",
+      "data_hora_confirmacao_pagamento": "2025-03-20 17:09:31",
+      "valor_total_produtos": 178.33,
+      "valor_frete": 13.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 191.35,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21358": {
+      "codigo": "21358",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21393": {
+      "codigo": "21393",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

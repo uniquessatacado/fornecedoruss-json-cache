@@ -1,0 +1,61 @@
+{
+  "codigo": "10054",
+  "nome": "EROS LEVIN",
+  "email": "eroslevin2011@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(11) 9812-84183",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "12739",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-28 09:34:10",
+      "data_hora_confirmacao": "2024-05-28 10:41:22",
+      "data_hora_confirmacao_pagamento": "2024-05-28 10:41:14",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 11.5,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 61.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19560": {
+      "codigo": "19560",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "19566": {
+      "codigo": "19566",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "19569": {
+      "codigo": "19569",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

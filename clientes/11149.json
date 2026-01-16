@@ -1,0 +1,61 @@
+{
+  "codigo": "11149",
+  "nome": "PAULO MATOSINHOS",
+  "email": "pmatosinhos@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(32) 98874-7871",
+  "cidade": "Visconde do Rio Branco",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 208.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "14018",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 11:25:32",
+      "data_hora_confirmacao": "2024-06-19 13:08:04",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 188.97,
+      "valor_frete": 19.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 208.57,
+      "desconto": 0,
+      "cidade": "Visconde do Rio Branco",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21912": {
+      "codigo": "21912",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21927": {
+      "codigo": "21927",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO Feminina - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21957": {
+      "codigo": "21957",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "327",
+  "nome": "MICHEL LIMA SILVA",
+  "email": "Michellima1605@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/03/2023",
+  "whatsapp": "(85) 9915-72548",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "3",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 54.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "21306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-18 19:27:37",
+      "data_hora_confirmacao": "2024-09-19 10:53:21",
+      "data_hora_confirmacao_pagamento": "2024-09-19 10:53:09",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 14.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 54.8,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30455": {
+      "codigo": "30455",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte Patch Bordado - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

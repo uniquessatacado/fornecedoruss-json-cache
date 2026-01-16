@@ -1,0 +1,45 @@
+{
+  "codigo": "15135",
+  "nome": "DANIEL ARMANHE",
+  "email": "daniel.armanhe@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/09/2024",
+  "whatsapp": "(15) 98805-2477",
+  "cidade": "Porto Feliz",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "20326",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 11:52:51",
+      "data_hora_confirmacao": "2024-09-04 12:45:30",
+      "data_hora_confirmacao_pagamento": "2024-09-04 12:45:25",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 110.48,
+      "desconto": 19.5,
+      "cidade": "Porto Feliz",
+      "estado": "SP",
+      "percentual_comissao": 65,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "25542": {
+      "codigo": "25542",
+      "titulo": "Óculos OAKLEY JULIET - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: NEON BLUE - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

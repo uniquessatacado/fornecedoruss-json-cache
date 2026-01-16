@@ -1,0 +1,214 @@
+{
+  "codigo": "3726",
+  "nome": "JHON MICHAEL COLARES OLIVEIRA",
+  "email": "maickleuris@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/10/2023",
+  "whatsapp": "(98) 9855-10240",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1012.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302207",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-24 20:36:40",
+      "data_hora_confirmacao": "2023-10-25 10:46:51",
+      "data_hora_confirmacao_pagamento": "2023-10-25 10:47:16",
+      "valor_total_produtos": 72,
+      "valor_frete": 59.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 131.95,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2840",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 05:46:33",
+      "data_hora_confirmacao": "2023-11-08 14:08:57",
+      "data_hora_confirmacao_pagamento": "2023-11-08 14:09:07",
+      "valor_total_produtos": 549.4,
+      "valor_frete": 115.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 664.53,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3326",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 21:28:59",
+      "data_hora_confirmacao": "2023-11-18 14:03:01",
+      "data_hora_confirmacao_pagamento": "2023-11-18 14:03:11",
+      "valor_total_produtos": 131.3,
+      "valor_frete": 32.1,
+      "frete": "PAC",
+      "valor_total_pedido": 163.4,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3489",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-23 11:26:56",
+      "data_hora_confirmacao": "2023-11-23 11:34:42",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 52.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 52.9,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD20.3GG": {
+      "codigo": "CD20.3GG",
+      "titulo": "Suéter Premium - Armani - Cor: Azul - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "INATIVA SUÉTER  ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD08.41": {
+      "codigo": "CD08.41",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.20": {
+      "codigo": "CD39.20",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11    - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.18": {
+      "codigo": "CD39.18",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.19": {
+      "codigo": "CD39.19",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD08.37": {
+      "codigo": "CD08.37",
+      "titulo": "Camiseta Genuína Cotton Tanguis - PRADA   LT28.10  - Cor: Preto - Marca: Prada - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": 2
+    },
+    "CD08.34GG": {
+      "codigo": "CD08.34GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  DOLCE GABBANA  LT28.10 - Cor: Preto - Marca: Dolce Gabbana - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD08.42": {
+      "codigo": "CD08.42",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD27.17": {
+      "codigo": "CD27.17",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD15.4GG": {
+      "codigo": "CD15.4GG",
+      "titulo": "Camiseta Peruana com Elastano - Armani - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Cinza Escuro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.42GG": {
+      "codigo": "CD02.42GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.34G": {
+      "codigo": "CD08.34G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  DOLCE GABBANA  LT28.10 - Cor: OffWhite - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.42": {
+      "codigo": "CD24.42",
+      "titulo": "Cuecas Peruanas - ARMANI  LT17.11  - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    }
+  }
+}

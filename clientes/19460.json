@@ -1,0 +1,72 @@
+{
+  "codigo": "19460",
+  "nome": "VITOR TADEU DOS SANTOS FERRAREZZI",
+  "email": "vitintad@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/03/2025",
+  "whatsapp": "(19) 9893-00108",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 88.53999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "30803",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-17 19:23:03",
+      "data_hora_confirmacao": "2025-07-17 19:23:49",
+      "data_hora_confirmacao_pagamento": "2025-07-17 19:23:49",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 41.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31010",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-29 12:29:03",
+      "data_hora_confirmacao": "2025-07-29 12:30:34",
+      "data_hora_confirmacao_pagamento": "2025-07-29 12:30:34",
+      "valor_total_produtos": 46.87,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 46.87,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50971": {
+      "codigo": "50971",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Corinthians 25/26 - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "52198": {
+      "codigo": "52198",
+      "titulo": "Bermuda Compress 2 em 1 Nike (LT027) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda 2em1 compress",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

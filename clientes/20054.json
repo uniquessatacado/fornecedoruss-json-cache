@@ -1,0 +1,195 @@
+{
+  "codigo": "20054",
+  "nome": "WILLIAM LIMA DA SILVA",
+  "email": "williamws1227@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "05/06/2025",
+  "whatsapp": "(65) 9934-45104",
+  "cidade": "Nova Mutum",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 733.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "31298",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-14 13:35:14",
+      "data_hora_confirmacao": "2025-08-14 13:40:05",
+      "data_hora_confirmacao_pagamento": "2025-08-14 13:40:05",
+      "valor_total_produtos": 343.7,
+      "valor_frete": 54.08,
+      "frete": "PAC",
+      "valor_total_pedido": 397.78,
+      "desconto": 0,
+      "cidade": "Nova Mutum",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32354",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-11-30 17:01:41",
+      "data_hora_confirmacao": "2025-11-30 17:10:03",
+      "data_hora_confirmacao_pagamento": "2025-11-30 17:10:03",
+      "valor_total_produtos": 73.31,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 103.21,
+      "desconto": 0,
+      "cidade": "Nova Mutum",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32355",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-30 17:01:41",
+      "data_hora_confirmacao": "2025-11-30 17:10:06",
+      "data_hora_confirmacao_pagamento": "2025-11-30 17:10:06",
+      "valor_total_produtos": 186.88,
+      "valor_frete": 46.04,
+      "frete": "PAC",
+      "valor_total_pedido": 232.92,
+      "desconto": 0,
+      "cidade": "Nova Mutum",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50848": {
+      "codigo": "50848",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50853": {
+      "codigo": "50853",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52210": {
+      "codigo": "52210",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52213": {
+      "codigo": "52213",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52228": {
+      "codigo": "52228",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52264": {
+      "codigo": "52264",
+      "titulo": "Bermuda Microfibra Ultra Nike Air (LT019) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52722": {
+      "codigo": "52722",
+      "titulo": "Bermuda Microfibra Ultra NIKE (LT030) - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52727": {
+      "codigo": "52727",
+      "titulo": "Bermuda Microfibra Ultra NIKE (LT030) - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52765": {
+      "codigo": "52765",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS (LT030) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52793": {
+      "codigo": "52793",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR VASCO 25/26 - Tamanho: M - Times : Vasco - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53014": {
+      "codigo": "53014",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT034) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53379": {
+      "codigo": "53379",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54470": {
+      "codigo": "54470",
+      "titulo": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55718": {
+      "codigo": "55718",
+      "titulo": "Bermuda Microfibra Ultra Mauricinho Nike (LT060) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "55724": {
+      "codigo": "55724",
+      "titulo": "Bermuda Microfibra Ultra Mauricinho Nike (LT060) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "7060",
+  "nome": "DANILO LIMA DA SILVA",
+  "email": "danilo7710@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "19/03/2024",
+  "whatsapp": "(13) 9967-52305",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 209.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "8681",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 19:10:14",
+      "data_hora_confirmacao": "2024-03-20 13:02:58",
+      "data_hora_confirmacao_pagamento": "2024-03-20 13:02:50",
+      "valor_total_produtos": 195.95,
+      "valor_frete": 13.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 209.72,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "KT1.1G": {
+      "codigo": "KT1.1G",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: Branca - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.10GG": {
+      "codigo": "CD24.10GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

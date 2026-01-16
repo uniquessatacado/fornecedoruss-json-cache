@@ -1,0 +1,80 @@
+{
+  "codigo": "1155",
+  "nome": "RICARDO NASCIMENTO",
+  "email": "rick.nasci@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "12/08/2023",
+  "whatsapp": "(19) 99669-4389",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 122,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300355",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-21 11:26:26",
+      "data_hora_confirmacao": "2023-09-21 11:30:02",
+      "data_hora_confirmacao_pagamento": "2023-09-29 17:47:02",
+      "valor_total_produtos": 46,
+      "valor_frete": 0,
+      "frete": "RETIRAR NA LOJA",
+      "valor_total_pedido": 46,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301318",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-05 15:14:15",
+      "data_hora_confirmacao": "2023-10-05 15:17:07",
+      "data_hora_confirmacao_pagamento": "2023-10-05 15:18:17",
+      "valor_total_produtos": 76,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 76,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.3G": {
+      "codigo": "CD12.3G",
+      "titulo": "Polo Piquet Duplo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD26.5GG": {
+      "codigo": "CD26.5GG",
+      "titulo": "Regatas Drifit Ultra - Nike - Cor: Cinza Escuro - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

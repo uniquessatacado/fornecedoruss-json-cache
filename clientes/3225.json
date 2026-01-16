@@ -1,0 +1,85 @@
+{
+  "codigo": "3225",
+  "nome": "JEFTE TAVARES DA SILVA",
+  "email": "jefte.society@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(81) 99116-9057",
+  "cidade": "Toritama",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 256.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301199",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 20:40:11",
+      "data_hora_confirmacao": "2023-10-10 15:34:27",
+      "data_hora_confirmacao_pagamento": "2023-10-09 12:20:28",
+      "valor_total_produtos": 224.8,
+      "valor_frete": 31.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 256.47,
+      "desconto": 0,
+      "cidade": "Toritama",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.24M": {
+      "codigo": "CD17.24M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD30.4": {
+      "codigo": "CD30.4",
+      "titulo": "Chapéu Bucket - Armani - Cor: Marrom",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Chapéu Bucket",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD08.18M": {
+      "codigo": "CD08.18M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD05.6": {
+      "codigo": "CD05.6",
+      "titulo": "Camiseta Egipicia Cotton Luxo Diesel - Cor: Preto - Marca: Diesel - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD07.9M": {
+      "codigo": "CD07.9M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

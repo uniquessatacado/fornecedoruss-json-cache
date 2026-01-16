@@ -1,0 +1,69 @@
+{
+  "codigo": "17848",
+  "nome": "DOUGLAS FRANCISCO DA SILVA SOUSA",
+  "email": "sdouglas2215@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/11/2024",
+  "whatsapp": "(89) 9945-80902",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 47.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "25123",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-27 11:14:39",
+      "data_hora_confirmacao": "2024-11-27 11:17:15",
+      "data_hora_confirmacao_pagamento": "2024-11-27 11:17:15",
+      "valor_total_produtos": 36.76,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 47.66,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "23436": {
+      "codigo": "23436",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "28378": {
+      "codigo": "28378",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28383": {
+      "codigo": "28383",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29676": {
+      "codigo": "29676",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

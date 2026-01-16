@@ -1,0 +1,72 @@
+{
+  "codigo": "17730",
+  "nome": "MARCOS VINICIUS PENEDO",
+  "email": "penedomarcos8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/11/2024",
+  "whatsapp": "(43) 99978-0722",
+  "cidade": "Arapongas",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 142.42000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "25060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-25 14:17:52",
+      "data_hora_confirmacao": "2024-11-25 14:29:21",
+      "data_hora_confirmacao_pagamento": "2024-11-25 14:29:21",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 26.98,
+      "frete": "PAC",
+      "valor_total_pedido": 63.97,
+      "desconto": 0,
+      "cidade": "Arapongas",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25061",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-25 14:17:52",
+      "data_hora_confirmacao": "2024-11-25 14:30:08",
+      "data_hora_confirmacao_pagamento": "2024-11-25 14:30:08",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 12.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 78.45,
+      "desconto": 0,
+      "cidade": "Arapongas",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21914": {
+      "codigo": "21914",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "35087": {
+      "codigo": "35087",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

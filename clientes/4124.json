@@ -1,0 +1,115 @@
+{
+  "codigo": "4124",
+  "nome": "NATHAN MAMEDIO SOARES",
+  "email": "nmamedio157@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/11/2023",
+  "whatsapp": "(32) 98853-5857",
+  "cidade": "Juiz de Fora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 316.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "3313",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-17 19:03:13",
+      "data_hora_confirmacao": "2023-11-18 14:29:27",
+      "data_hora_confirmacao_pagamento": "2023-11-18 14:29:37",
+      "valor_total_produtos": 150,
+      "valor_frete": 17.22,
+      "frete": "JADLOG",
+      "valor_total_pedido": 167.22,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3415",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-21 13:52:36",
+      "data_hora_confirmacao": "2023-11-21 13:56:17",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 65,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23145",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-21 20:09:09",
+      "data_hora_confirmacao": "2024-10-22 11:10:11",
+      "data_hora_confirmacao_pagamento": "2024-10-22 11:10:04",
+      "valor_total_produtos": 67.99,
+      "valor_frete": 15.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.97,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32689": {
+      "codigo": "32689",
+      "titulo": "Camisa de time Tailandesa 1.1 FLAMENGO  24/25 TORCEDOR - (envio direto da fabrica)  - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.2M": {
+      "codigo": "CD01.2M",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.45": {
+      "codigo": "CD16.45",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT03.11  - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.56": {
+      "codigo": "CD16.56",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO   LT06.11 - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

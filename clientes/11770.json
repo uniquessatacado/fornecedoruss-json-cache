@@ -1,0 +1,163 @@
+{
+  "codigo": "11770",
+  "nome": "MATHEUS GABRIEL",
+  "email": "guedes.caetano@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/07/2024",
+  "whatsapp": "(13) 98151-9006",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 368.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "14861",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-01 12:42:00",
+      "data_hora_confirmacao": "2024-07-02 09:11:22",
+      "data_hora_confirmacao_pagamento": "2024-07-02 09:11:16",
+      "valor_total_produtos": 101.94,
+      "valor_frete": 16.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.2,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15507",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 10:30:39",
+      "data_hora_confirmacao": "2024-07-10 15:15:02",
+      "data_hora_confirmacao_pagamento": "2024-07-10 15:14:56",
+      "valor_total_produtos": 115.96,
+      "valor_frete": 16.87,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.83,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31969",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-05 20:20:45",
+      "data_hora_confirmacao": "2025-10-05 20:30:07",
+      "data_hora_confirmacao_pagamento": "2025-10-05 20:30:07",
+      "valor_total_produtos": 100.6,
+      "valor_frete": 17.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.63,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22809": {
+      "codigo": "22809",
+      "titulo": "Camiseta Polo Piquet Duplo - DIESEL  - Cor: BRANCA - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "23044": {
+      "codigo": "23044",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "23047": {
+      "codigo": "23047",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "23050": {
+      "codigo": "23050",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23531": {
+      "codigo": "23531",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BEGE - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23540": {
+      "codigo": "23540",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23555": {
+      "codigo": "23555",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23587": {
+      "codigo": "23587",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55176": {
+      "codigo": "55176",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "4"
+    },
+    "55816": {
+      "codigo": "55816",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "3"
+    },
+    "55840": {
+      "codigo": "55840",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "3"
+    }
+  }
+}

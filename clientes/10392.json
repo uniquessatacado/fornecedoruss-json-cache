@@ -1,0 +1,53 @@
+{
+  "codigo": "10392",
+  "nome": "GABRIEL RIBEIRO",
+  "email": "gabrielribeir30@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/06/2024",
+  "whatsapp": "(14) 99605-2196",
+  "cidade": "Iacanga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "13071",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-04 15:55:36",
+      "data_hora_confirmacao": "2024-06-04 16:25:00",
+      "data_hora_confirmacao_pagamento": "2024-06-04 16:24:53",
+      "valor_total_produtos": 74.98,
+      "valor_frete": 14.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.8,
+      "desconto": 0,
+      "cidade": "Iacanga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19377": {
+      "codigo": "19377",
+      "titulo": "Bermuda Microfibra Ultra NIKE com fitilho  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19472": {
+      "codigo": "19472",
+      "titulo": "Camiseta Suedine Ultra NIKE arte bordada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "9289",
+  "nome": "LUIZ ALBERTO DE ALMEIDA ALVES",
+  "email": "luiz1987alves33@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(19) 99612-8830",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 48.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "11690",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-10 21:30:30",
+      "data_hora_confirmacao": "2024-05-11 10:47:14",
+      "data_hora_confirmacao_pagamento": "2024-05-15 17:45:46",
+      "valor_total_produtos": 48.45,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 48.45,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO 04.05 OURO - Cor: PRETA - Marca: Mizuno - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": 3
+    }
+  }
+}

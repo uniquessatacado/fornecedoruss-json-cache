@@ -1,0 +1,136 @@
+{
+  "codigo": "5257",
+  "nome": "ALEXANDRE AUGUSTO RAMON",
+  "email": "kle_alexandre@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(19) 99484-2002",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 254.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "6399",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-01-09 21:12:21",
+      "data_hora_confirmacao": "2024-01-10 12:51:52",
+      "data_hora_confirmacao_pagamento": "2024-01-10 12:52:02",
+      "valor_total_produtos": 88.13,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 98.13,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32440",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-12-19 15:45:41",
+      "data_hora_confirmacao": "2025-12-19 15:45:41",
+      "data_hora_confirmacao_pagamento": "2025-12-19 15:45:41",
+      "valor_total_produtos": 156.66,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 156.66,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53515": {
+      "codigo": "53515",
+      "titulo": "Cueca Peruana Lacoste (LT043) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "55148": {
+      "codigo": "55148",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55154": {
+      "codigo": "55154",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "55166": {
+      "codigo": "55166",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55226": {
+      "codigo": "55226",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55719": {
+      "codigo": "55719",
+      "titulo": "Bermuda Microfibra Ultra Mauricinho Nike (LT060) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55818": {
+      "codigo": "55818",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55854": {
+      "codigo": "55854",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55860": {
+      "codigo": "55860",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 7
+    }
+  }
+}

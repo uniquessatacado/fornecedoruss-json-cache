@@ -1,0 +1,142 @@
+{
+  "codigo": "5870",
+  "nome": "BRUNO GARCIA DE FARIAS",
+  "email": "brunogarciafarias@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/01/2024",
+  "whatsapp": "(11) 94942-4416",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 322.09000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "6930",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-28 20:18:34",
+      "data_hora_confirmacao": "2024-01-29 09:32:00",
+      "data_hora_confirmacao_pagamento": "2024-01-29 09:32:21",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7545",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 22:48:07",
+      "data_hora_confirmacao": "2024-02-23 09:25:34",
+      "data_hora_confirmacao_pagamento": "2024-02-23 09:25:07",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 10.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 72.86,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8246",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 23:28:50",
+      "data_hora_confirmacao": "2024-03-12 09:45:54",
+      "data_hora_confirmacao_pagamento": "2024-03-12 09:45:48",
+      "valor_total_produtos": 59.98,
+      "valor_frete": 10.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.95,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9859",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 20:22:01",
+      "data_hora_confirmacao": "2024-04-11 10:20:24",
+      "data_hora_confirmacao_pagamento": "2024-04-11 10:20:20",
+      "valor_total_produtos": 116.7,
+      "valor_frete": 12.85,
+      "frete": "SEDEX",
+      "valor_total_pedido": 129.55,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.49": {
+      "codigo": "CD39.49",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  JORDAN (BORDADA)  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.101G": {
+      "codigo": "CD02.101G",
+      "titulo": "Camiseta 40.1 Ultra Premium - JORDAN - NIKE - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.105G": {
+      "codigo": "CD02.105G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.118M": {
+      "codigo": "CD02.118M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.118G": {
+      "codigo": "CD02.118G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.12G": {
+      "codigo": "CD39.12G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA) - Cor: AZUL BEBE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

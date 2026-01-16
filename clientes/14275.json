@@ -1,0 +1,96 @@
+{
+  "codigo": "14275",
+  "nome": "RODRIGO GOMES DA SILVA",
+  "email": "rodrigos2marcela2603@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/08/2024",
+  "whatsapp": "(11) 99749-5833",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "19034",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-18 20:56:31",
+      "data_hora_confirmacao": "2024-08-21 10:24:00",
+      "data_hora_confirmacao_pagamento": "2024-08-21 10:23:53",
+      "valor_total_produtos": 99.97,
+      "valor_frete": 14.56,
+      "frete": "SEDEX",
+      "valor_total_pedido": 114.53,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19385",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 20:30:24",
+      "data_hora_confirmacao": "2024-08-23 12:37:03",
+      "data_hora_confirmacao_pagamento": "2024-08-23 12:36:54",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 51.62,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25696": {
+      "codigo": "25696",
+      "titulo": "Bermuda Microfibra Ultra - MIZUNO - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "27559": {
+      "codigo": "27559",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte patch emborrachado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "27692": {
+      "codigo": "27692",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - BROOKSFIELD arte em bordado - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "28500": {
+      "codigo": "28500",
+      "titulo": "Boné Super Premium - LACOSTE bordado - Cor: CREME",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28527": {
+      "codigo": "28527",
+      "titulo": "Boné Super Premium - TOMMY HILFIGER - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

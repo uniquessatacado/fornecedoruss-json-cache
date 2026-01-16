@@ -1,0 +1,104 @@
+{
+  "codigo": "3053",
+  "nome": "JOAO MARIA DOS SANTOS",
+  "email": "joaomultiplanos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(84) 98886-5302",
+  "cidade": "Natal",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 327.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301243",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-04 14:02:26",
+      "data_hora_confirmacao": "2023-10-04 22:48:35",
+      "data_hora_confirmacao_pagamento": "2023-10-04 22:48:43",
+      "valor_total_produtos": 114,
+      "valor_frete": 29.3,
+      "frete": "PAC",
+      "valor_total_pedido": 143.3,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3520",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 17:16:50",
+      "data_hora_confirmacao": "2023-11-23 17:59:15",
+      "data_hora_confirmacao_pagamento": "2023-11-23 17:59:28",
+      "valor_total_produtos": 163,
+      "valor_frete": 20.76,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 183.76,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD09.1GG": {
+      "codigo": "CD09.1GG",
+      "titulo": "Camiseta Egípcia Ultra - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD29.3GG": {
+      "codigo": "CD29.3GG",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD66.11": {
+      "codigo": "CD66.11",
+      "titulo": "CAMISETA PERUANA LUXO - HUGO BOSS  LT23.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD65.2": {
+      "codigo": "CD65.2",
+      "titulo": "Camiseta 30.1 com Elastano - NIKE   LT23.11  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD66.2": {
+      "codigo": "CD66.2",
+      "titulo": "CAMISETA PERUANA LUXO - BALMAIN  LT23.10 - Cor: Vermelha - Marca: Balmain - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    }
+  }
+}

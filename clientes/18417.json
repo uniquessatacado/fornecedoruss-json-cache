@@ -1,0 +1,61 @@
+{
+  "codigo": "18417",
+  "nome": "WILSON PEREIRA FIGUEREDO",
+  "email": "psifigueredo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2024",
+  "whatsapp": "(47) 99997-6806",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 129.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "26545",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 07:44:23",
+      "data_hora_confirmacao": "2024-12-16 07:45:31",
+      "data_hora_confirmacao_pagamento": "2024-12-16 07:45:31",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 18.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 129.42,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37487": {
+      "codigo": "37487",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C07) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "37542": {
+      "codigo": "37542",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C10) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "37771": {
+      "codigo": "37771",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C26) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

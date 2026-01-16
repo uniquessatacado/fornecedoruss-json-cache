@@ -1,0 +1,72 @@
+{
+  "codigo": "11937",
+  "nome": "MARCO ANTONIO BELLIO",
+  "email": "vendasbellio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(11) 9425-96269",
+  "cidade": "Atibaia",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 128.07999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "19684",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-26 23:02:06",
+      "data_hora_confirmacao": "2024-08-27 12:33:58",
+      "data_hora_confirmacao_pagamento": "2024-08-27 12:33:47",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.8,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25128",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-27 12:23:12",
+      "data_hora_confirmacao": "2024-11-27 12:25:20",
+      "data_hora_confirmacao_pagamento": "2024-11-27 12:25:20",
+      "valor_total_produtos": 60.79,
+      "valor_frete": 15.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.28,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28971": {
+      "codigo": "28971",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33950": {
+      "codigo": "33950",
+      "titulo": "Tênis vans KNU linha premium - Cor: PRETA - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "Vans",
+      "quantidade": "1"
+    }
+  }
+}

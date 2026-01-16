@@ -1,0 +1,69 @@
+{
+  "codigo": "5118",
+  "nome": "VITOR DE JESUS DOS SANTOS",
+  "email": "vitordjds4455677@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/01/2024",
+  "whatsapp": "(11) 94368-8851",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 192.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "6059",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-01 11:59:57",
+      "data_hora_confirmacao": "2024-01-02 10:18:48",
+      "data_hora_confirmacao_pagamento": "2024-01-02 10:18:59",
+      "valor_total_produtos": 180,
+      "valor_frete": 12.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 192.93,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.48": {
+      "codigo": "CD16.48",
+      "titulo": "Camisetas de Time Tailandesas - MAN CITY  LT06.11   - Tamanho: GG - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.42": {
+      "codigo": "CD16.42",
+      "titulo": "Camisetas de Time Tailandesas - PSG   LT31.10   - Tamanho: G1 - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.97": {
+      "codigo": "CD01.97",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -PSG   LT04.12  - Tamanho: GG - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.64": {
+      "codigo": "CD01.64",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: GG - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

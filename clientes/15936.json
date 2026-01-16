@@ -1,0 +1,45 @@
+{
+  "codigo": "15936",
+  "nome": "FELIPE ANTÔNIO",
+  "email": "felipetonner@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2024",
+  "whatsapp": "(33) 98885-2344",
+  "cidade": "Manhuaçu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 209.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "32321",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-11-24 14:36:56",
+      "data_hora_confirmacao": "2025-11-24 14:40:03",
+      "data_hora_confirmacao_pagamento": "2025-11-24 14:40:03",
+      "valor_total_produtos": 180,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 209.9,
+      "desconto": 0,
+      "cidade": "Manhuaçu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50999": {
+      "codigo": "50999",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR PALMEIRAS 25/26 - Tamanho: GG - Times : Palmeiras - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

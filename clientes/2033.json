@@ -1,0 +1,85 @@
+{
+  "codigo": "2033",
+  "nome": "HELDER FERREIRA DA SILVA",
+  "email": "helderferreiradasilva2011@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "01/09/2023",
+  "whatsapp": "(11) 91400-1450",
+  "cidade": "Mongaguá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 344.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "10640",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 14:00:24",
+      "data_hora_confirmacao": "2024-04-26 19:22:12",
+      "data_hora_confirmacao_pagamento": "2024-04-26 19:22:03",
+      "valor_total_produtos": 323.91,
+      "valor_frete": 20.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 344.67,
+      "desconto": 0,
+      "cidade": "Mongaguá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD4.19M": {
+      "codigo": "CD4.19M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.19G": {
+      "codigo": "CD4.19G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22": {
+      "codigo": "CD4.22",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD4.22G": {
+      "codigo": "CD4.22G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

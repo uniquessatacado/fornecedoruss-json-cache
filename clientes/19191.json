@@ -1,0 +1,69 @@
+{
+  "codigo": "19191",
+  "nome": "DAYANE DE FREITAS SANTOS",
+  "email": "dayanefreitas352@gmail.com",
+  "sexo": "2",
+  "data_cadastro": "06/02/2025",
+  "whatsapp": "(11) 9471-37734",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "27996",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-06 20:01:57",
+      "data_hora_confirmacao": "2025-02-06 20:03:23",
+      "data_hora_confirmacao_pagamento": "2025-02-06 20:03:23",
+      "valor_total_produtos": 99.08,
+      "valor_frete": 12.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 111.28,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "40702": {
+      "codigo": "40702",
+      "titulo": "Cuecas Peruanas (C258)    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40709": {
+      "codigo": "40709",
+      "titulo": "Cuecas Peruanas (C258)    - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40716": {
+      "codigo": "40716",
+      "titulo": "Cuecas Peruanas (C258)   - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40945": {
+      "codigo": "40945",
+      "titulo": "Bermuda Microfibra Ultra (C250) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

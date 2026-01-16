@@ -1,0 +1,61 @@
+{
+  "codigo": "7270",
+  "nome": "WASHINGTON FELIPE MIRANDA",
+  "email": "wfelipetrader@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(41) 99902-1307",
+  "cidade": "Sengés",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 139.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "10009",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 19:49:18",
+      "data_hora_confirmacao": "2024-04-13 09:43:56",
+      "data_hora_confirmacao_pagamento": "2024-04-13 09:43:50",
+      "valor_total_produtos": 117.88,
+      "valor_frete": 21.88,
+      "frete": "JADLOG",
+      "valor_total_pedido": 139.76,
+      "desconto": 0,
+      "cidade": "Sengés",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL MARINHO - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.71G": {
+      "codigo": "CD39.71G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: OFFWHITE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

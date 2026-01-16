@@ -1,0 +1,107 @@
+{
+  "codigo": "12845",
+  "nome": "JEFERSON DA SILVA",
+  "email": "jeferson.radiologiamedica@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/07/2024",
+  "whatsapp": "(47) 99686-9475",
+  "cidade": "Joinville",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 349.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "17137",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-26 21:43:39",
+      "data_hora_confirmacao": "2024-07-27 12:08:26",
+      "data_hora_confirmacao_pagamento": "2024-07-27 12:08:35",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 19.02,
+      "frete": "JADLOG",
+      "valor_total_pedido": 84.01,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23348",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-25 12:47:52",
+      "data_hora_confirmacao": "2024-10-25 13:07:34",
+      "data_hora_confirmacao_pagamento": "2024-10-25 13:07:27",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 18.65,
+      "frete": "JADLOG",
+      "valor_total_pedido": 150.63,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23454",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENVIADO PARA O CLIENTE",
+      "data_hora_pedido": "2024-10-29 10:10:06",
+      "data_hora_confirmacao": "2024-10-29 10:38:07",
+      "data_hora_confirmacao_pagamento": "2024-10-29 10:38:01",
+      "valor_total_produtos": 97.99,
+      "valor_frete": 16.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.89,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21915": {
+      "codigo": "21915",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23600": {
+      "codigo": "23600",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: M - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25158": {
+      "codigo": "25158",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY 24/25 (PRONTA ENTREGA) - Tamanho: M - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33027": {
+      "codigo": "33027",
+      "titulo": "Camisa de time Tailandesa 1.1 BARCELONA 24/25 JOGADOR - (envio direto da fabrica) - Tamanho: G - Times : Barcelona - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

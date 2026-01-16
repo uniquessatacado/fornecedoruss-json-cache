@@ -1,0 +1,131 @@
+{
+  "codigo": "7258",
+  "nome": "CHRISTIAN FARIAS",
+  "email": "christian.uninter@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(55) 99919-8953",
+  "cidade": "Canoas",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 179.30999999999997,
+  "pedidos": [
+    {
+      "codigo_pedido": "13025",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 15:02:12",
+      "data_hora_confirmacao": "2024-06-03 15:38:57",
+      "data_hora_confirmacao_pagamento": "2024-06-03 15:38:48",
+      "valor_total_produtos": 84.96,
+      "valor_frete": 17.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.49,
+      "desconto": 0,
+      "cidade": "Canoas",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23685",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-02 00:58:55",
+      "data_hora_confirmacao": "2024-11-07 13:55:30",
+      "data_hora_confirmacao_pagamento": "2024-11-07 13:55:24",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 16.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 56.84,
+      "desconto": 0,
+      "cidade": "Canoas",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24250",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-12 00:39:44",
+      "data_hora_confirmacao": "2024-11-14 10:09:28",
+      "data_hora_confirmacao_pagamento": "2024-11-14 10:09:20",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 19.98,
+      "desconto": 0,
+      "cidade": "Canoas",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18240": {
+      "codigo": "18240",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: BRANCA - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18243": {
+      "codigo": "18243",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: PRETA - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19542": {
+      "codigo": "19542",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/MD3 - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19888": {
+      "codigo": "19888",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25365": {
+      "codigo": "25365",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "32648": {
+      "codigo": "32648",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO BRANCO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

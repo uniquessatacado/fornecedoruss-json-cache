@@ -1,0 +1,53 @@
+{
+  "codigo": "13060",
+  "nome": "JOÃO PEDRO BARBOSA",
+  "email": "joaopedrobarbosaa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(22) 99836-1758",
+  "cidade": "Campos dos Goytacazes",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 44.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "16950",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 21:32:33",
+      "data_hora_confirmacao": "2024-07-26 18:53:32",
+      "data_hora_confirmacao_pagamento": "2024-07-26 18:53:27",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 14.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 44.6,
+      "desconto": 0,
+      "cidade": "Campos dos Goytacazes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25359": {
+      "codigo": "25359",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

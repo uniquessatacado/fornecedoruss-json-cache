@@ -1,0 +1,96 @@
+{
+  "codigo": "17972",
+  "nome": "FILIPE AMADOR JUSTE",
+  "email": "filipejuste@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/11/2024",
+  "whatsapp": "(19) 9925-87000",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 282.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "25450",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-30 17:34:10",
+      "data_hora_confirmacao": "2024-11-30 17:37:59",
+      "data_hora_confirmacao_pagamento": "2024-11-30 17:37:59",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 104.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25597",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-03 16:57:38",
+      "data_hora_confirmacao": "2024-12-03 17:00:22",
+      "data_hora_confirmacao_pagamento": "2024-12-03 17:00:22",
+      "valor_total_produtos": 177.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 177.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35240": {
+      "codigo": "35240",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35501": {
+      "codigo": "35501",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35504": {
+      "codigo": "35504",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "36123": {
+      "codigo": "36123",
+      "titulo": "Tênis Air Travis Scott  - Cor: MARROM ESCURO - Tamanho: 42",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36149": {
+      "codigo": "36149",
+      "titulo": "Tênis Air force 1 React - Cor: BRANCA - Tamanho: 42",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

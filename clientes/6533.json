@@ -1,0 +1,142 @@
+{
+  "codigo": "6533",
+  "nome": "RICARDO BLANCO",
+  "email": "ricardoblanco03@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/03/2024",
+  "whatsapp": "(11) 99164-3262",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 314.09000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "7913",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-02 13:05:31",
+      "data_hora_confirmacao": "2024-03-04 10:02:40",
+      "data_hora_confirmacao_pagamento": "2024-03-04 10:02:33",
+      "valor_total_produtos": 88.98,
+      "valor_frete": 11.17,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.15,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9802",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 10:01:41",
+      "data_hora_confirmacao": "2024-04-10 10:31:59",
+      "data_hora_confirmacao_pagamento": "2024-04-10 10:31:55",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 11.52,
+      "frete": "SEDEX",
+      "valor_total_pedido": 89.5,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18508",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 08:51:28",
+      "data_hora_confirmacao": "2024-08-13 11:13:10",
+      "data_hora_confirmacao_pagamento": "2024-08-13 11:12:56",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 58.63,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24529",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-16 09:36:41",
+      "data_hora_confirmacao": "2024-11-16 09:40:18",
+      "data_hora_confirmacao_pagamento": "2024-11-16 09:40:18",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 12.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65.81,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27316": {
+      "codigo": "27316",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - LACOSTE arte em bordado - Cor: PRETA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "34949": {
+      "codigo": "34949",
+      "titulo": "CAMISETA MALHA CHINESA IMPORTADA  - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD11.1G2": {
+      "codigo": "CD11.1G2",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium G1 G2 G3 - Cor: Preto - Marca: Vans - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD13.1G2": {
+      "codigo": "CD13.1G2",
+      "titulo": "Camiseta PLUS SIZE Egipcia G1 G2 G3  - Cor: Vermelha - Marca: Armani - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD11.2G1": {
+      "codigo": "CD11.2G1",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Branca - Marca: Nike - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD11.2G2": {
+      "codigo": "CD11.2G2",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Preto - Marca: Nike - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

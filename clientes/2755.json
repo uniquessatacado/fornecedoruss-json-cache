@@ -1,0 +1,214 @@
+{
+  "codigo": "2755",
+  "nome": "GIOVANI DIAS",
+  "email": "giovanirdias@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(51) 99396-1883",
+  "cidade": "Novo Hamburgo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 415.18000000000006,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301187",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 18:44:55",
+      "data_hora_confirmacao": "2023-10-03 22:51:55",
+      "data_hora_confirmacao_pagamento": "2023-10-03 22:52:05",
+      "valor_total_produtos": 51,
+      "valor_frete": 14.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 65.04,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4390",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 13:49:59",
+      "data_hora_confirmacao": "2023-12-11 22:55:05",
+      "data_hora_confirmacao_pagamento": "2023-12-11 22:55:14",
+      "valor_total_produtos": 110.5,
+      "valor_frete": 21.55,
+      "frete": "PAC",
+      "valor_total_pedido": 132.05,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7989",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-06 00:14:51",
+      "data_hora_confirmacao": "2024-03-06 17:22:40",
+      "data_hora_confirmacao_pagamento": "2024-03-06 17:22:35",
+      "valor_total_produtos": 102.92,
+      "valor_frete": 16.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.94,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22860",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-15 18:44:32",
+      "data_hora_confirmacao": "2024-10-16 10:15:15",
+      "data_hora_confirmacao_pagamento": "2024-10-16 10:15:04",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 19.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.15,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30323": {
+      "codigo": "30323",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO CHUMBO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "30329": {
+      "codigo": "30329",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO VERMELHO  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.9M - Hugo Boss": {
+      "codigo": "CD24.9M - Hugo Boss",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.17M - Calvin Klein": {
+      "codigo": "CD24.17M - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 2
+    },
+    "CD24.19G - Calvin Klein": {
+      "codigo": "CD24.19G - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Vermelha - Marca: Dolce Gabbana - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Azul Marinho - Marca: Versace - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.3M": {
+      "codigo": "CD15.3M",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Bruberry - Cor: Bege - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD24.09G": {
+      "codigo": "CD24.09G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.08G": {
+      "codigo": "CD24.08G",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: Vermelha - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    }
+  }
+}

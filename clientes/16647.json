@@ -1,0 +1,72 @@
+{
+  "codigo": "16647",
+  "nome": "MARCEL ALBERTO RAMOS DA SILVA",
+  "email": "marcelramos819@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/10/2024",
+  "whatsapp": "(11) 96623-0123",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 104.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "23010",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-18 19:01:03",
+      "data_hora_confirmacao": "2024-10-19 11:58:08",
+      "data_hora_confirmacao_pagamento": "2024-10-19 11:58:02",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 48.76,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25225",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 15:34:41",
+      "data_hora_confirmacao": "2024-11-28 15:36:58",
+      "data_hora_confirmacao_pagamento": "2024-11-28 15:36:58",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 15.32,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.31,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32663": {
+      "codigo": "32663",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "32674": {
+      "codigo": "32674",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ADIDAS - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

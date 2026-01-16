@@ -1,0 +1,120 @@
+{
+  "codigo": "6363",
+  "nome": "VAGNER GAZOLA",
+  "email": "vagner.gazola@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/02/2024",
+  "whatsapp": "(17) 99243-5784",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 400.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "7557",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-23 12:38:53",
+      "data_hora_confirmacao": "2024-02-23 13:18:13",
+      "data_hora_confirmacao_pagamento": "2024-02-23 13:18:07",
+      "valor_total_produtos": 340.89,
+      "valor_frete": 28.38,
+      "frete": "SEDEX",
+      "valor_total_pedido": 369.27,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7572",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-02-23 17:01:31",
+      "data_hora_confirmacao": "2024-02-23 17:04:06",
+      "data_hora_confirmacao_pagamento": "2024-02-23 17:04:00",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.100M": {
+      "codigo": "CD02.100M",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.100G": {
+      "codigo": "CD02.100G",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "CD02.103M": {
+      "codigo": "CD02.103M",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.105GG": {
+      "codigo": "CD02.105GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.105G": {
+      "codigo": "CD02.105G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD02.105M": {
+      "codigo": "CD02.105M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.108G": {
+      "codigo": "CD02.108G",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Branca - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.108M": {
+      "codigo": "CD02.108M",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Preto - Marca: Oakley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    }
+  }
+}

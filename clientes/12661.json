@@ -1,0 +1,99 @@
+{
+  "codigo": "12661",
+  "nome": "IVO DOS SANTOS SILVA",
+  "email": "ivossantos123@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(14) 9818-79662",
+  "cidade": "São Manuel",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 199.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "16385",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 02:28:12",
+      "data_hora_confirmacao": "2024-07-19 09:59:32",
+      "data_hora_confirmacao_pagamento": "2024-07-19 09:59:26",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.92,
+      "desconto": 0,
+      "cidade": "São Manuel",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16730",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 14:10:36",
+      "data_hora_confirmacao": "2024-07-23 15:52:39",
+      "data_hora_confirmacao_pagamento": "2024-07-23 15:52:33",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 10.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 103.53,
+      "desconto": 0,
+      "cidade": "Lençóis Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20366",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 19:03:52",
+      "data_hora_confirmacao": "2024-09-05 11:09:13",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:09:07",
+      "valor_total_produtos": 21,
+      "valor_frete": 14.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.56,
+      "desconto": 0,
+      "cidade": "São Manuel",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "8613": {
+      "codigo": "8613",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21393": {
+      "codigo": "21393",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24164": {
+      "codigo": "24164",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "codigo": "8536",
+  "nome": "JOÃO VICTOR",
+  "email": "pldsjoaovictor@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(42) 9883-45516",
+  "cidade": "Ponta Grossa",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 231.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "13056",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-03 23:27:58",
+      "data_hora_confirmacao": "2024-06-04 17:07:32",
+      "data_hora_confirmacao_pagamento": "2024-06-04 17:07:24",
+      "valor_total_produtos": 67.98,
+      "valor_frete": 14.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.86,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14031",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 12:40:24",
+      "data_hora_confirmacao": "2024-06-19 16:36:03",
+      "data_hora_confirmacao_pagamento": "2024-06-19 16:35:54",
+      "valor_total_produtos": 127.96,
+      "valor_frete": 20.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 148.89,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "15158": {
+      "codigo": "15158",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18684": {
+      "codigo": "18684",
+      "titulo": "Camiseta Suedine Premium OFF-WHITE arte em Silk - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Suedine Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22054": {
+      "codigo": "22054",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte emborrachada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "22092": {
+      "codigo": "22092",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ADIDAS arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22126": {
+      "codigo": "22126",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NEW ERA arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "22132": {
+      "codigo": "22132",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NEW ERA arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    }
+  }
+}

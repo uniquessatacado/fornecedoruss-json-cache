@@ -1,0 +1,53 @@
+{
+  "codigo": "3746",
+  "nome": "EDERSON DE LUCENA LIMA",
+  "email": "ederson.lucena@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "25/10/2023",
+  "whatsapp": "(83) 99925-4791",
+  "cidade": "Patos",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "2787",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 13:52:04",
+      "data_hora_confirmacao": "2023-11-07 14:00:56",
+      "data_hora_confirmacao_pagamento": "2023-11-07 14:01:08",
+      "valor_total_produtos": 63,
+      "valor_frete": 24.66,
+      "frete": "JADLOG",
+      "valor_total_pedido": 87.66,
+      "desconto": 0,
+      "cidade": "Patos",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD46.5": {
+      "codigo": "CD46.5",
+      "titulo": "Camiseta Genuína Cotton Soft - GUCCI  LT30.10   - Cor: Mostarda - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

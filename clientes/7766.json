@@ -1,0 +1,61 @@
+{
+  "codigo": "7766",
+  "nome": "MARCIO LUIZ SEVERINO DA SILVA",
+  "email": "mttsilva101008@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/04/2024",
+  "whatsapp": "(81) 98435-1920",
+  "cidade": "Jaboatão dos Guararapes",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 152.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "9704",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 21:55:34",
+      "data_hora_confirmacao": "2024-04-09 10:13:21",
+      "data_hora_confirmacao_pagamento": "2024-04-09 10:13:16",
+      "valor_total_produtos": 94.96,
+      "valor_frete": 57.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 152.94,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.01": {
+      "codigo": "CD43.01",
+      "titulo": "Boné Super Premium - NIKE   - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD25.10GG": {
+      "codigo": "CD25.10GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LOUIS VUITTON - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

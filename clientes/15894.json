@@ -1,0 +1,88 @@
+{
+  "codigo": "15894",
+  "nome": "RUBSON SOUZA",
+  "email": "rubson97souza@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2024",
+  "whatsapp": "(34) 99658-7359",
+  "cidade": "Uberlândia",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 246.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "23502",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-29 21:06:32",
+      "data_hora_confirmacao": "2024-10-31 12:40:55",
+      "data_hora_confirmacao_pagamento": "2024-10-31 12:40:49",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 19.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 151.33,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23503",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-29 21:06:32",
+      "data_hora_confirmacao": "2024-10-31 11:58:10",
+      "data_hora_confirmacao_pagamento": "2024-10-31 11:58:01",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 21.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 95.53,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20929": {
+      "codigo": "20929",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G2 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21209": {
+      "codigo": "21209",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G2 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30825": {
+      "codigo": "30825",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32342": {
+      "codigo": "32342",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em SILK - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

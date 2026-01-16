@@ -1,0 +1,53 @@
+{
+  "codigo": "2931",
+  "nome": "VALDENI CHAVES VIANA",
+  "email": "valdeniviana@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/09/2023",
+  "whatsapp": "(31) 9880-55250",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 66.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302205",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-24 20:17:24",
+      "data_hora_confirmacao": "2023-10-25 10:48:52",
+      "data_hora_confirmacao_pagamento": "2023-10-25 11:44:06",
+      "valor_total_produtos": 51,
+      "valor_frete": 15.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.04,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD43.6": {
+      "codigo": "CD43.6",
+      "titulo": "Boné Premium - NIKE  LT24.10   - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35GG": {
+      "codigo": "CD17.35GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

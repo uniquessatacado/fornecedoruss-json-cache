@@ -1,0 +1,112 @@
+{
+  "codigo": "1382",
+  "nome": "ADRIANO GRACIANO",
+  "email": "adrianograciano021@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "19/08/2023",
+  "whatsapp": "(88) 99383-0549",
+  "cidade": "Sobral",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 399.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300701",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 16:58:49",
+      "data_hora_confirmacao": "2023-09-25 17:13:12",
+      "data_hora_confirmacao_pagamento": "2023-09-25 17:13:38",
+      "valor_total_produtos": 237,
+      "valor_frete": 111.19,
+      "frete": "SEDEX",
+      "valor_total_pedido": 348.19,
+      "desconto": 0,
+      "cidade": "Sobral",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300988",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 17:50:42",
+      "data_hora_confirmacao": "2023-09-29 18:02:42",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 51,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 51,
+      "desconto": 0,
+      "cidade": "Sobral",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.1G - Boss": {
+      "codigo": "CD24.1G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.4G -  Boss": {
+      "codigo": "CD24.4G -  Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD17.24M": {
+      "codigo": "CD17.24M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD01.33M": {
+      "codigo": "CD01.33M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Bayern de Munique - Tamanho: M - Times : Bayern de Munique",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.19M": {
+      "codigo": "CD01.19M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD01.46M Al-hilal": {
+      "codigo": "CD01.46M Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.22G - Calvin Klein": {
+      "codigo": "CD24.22G - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 6
+    }
+  }
+}

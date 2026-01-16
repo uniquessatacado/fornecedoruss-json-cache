@@ -1,0 +1,53 @@
+{
+  "codigo": "3549",
+  "nome": "EDUARDO MONTENEGRO DOS SANTOS",
+  "email": "eduardomsantos1997@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(11) 94469-7333",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301815",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 13:51:43",
+      "data_hora_confirmacao": "2023-10-17 14:14:52",
+      "data_hora_confirmacao_pagamento": "2023-10-17 14:15:01",
+      "valor_total_produtos": 87,
+      "valor_frete": 10.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.81,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD33.2P": {
+      "codigo": "CD33.2P",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.4P": {
+      "codigo": "CD39.4P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Cinza - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

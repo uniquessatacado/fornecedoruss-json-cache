@@ -1,0 +1,104 @@
+{
+  "codigo": "2657",
+  "nome": "GEOVANI BRUNO SABBADINI",
+  "email": "geovani-bruno@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(19) 9844-37202",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 164.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300546",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 10:49:07",
+      "data_hora_confirmacao": "2023-09-24 23:33:16",
+      "data_hora_confirmacao_pagamento": "2023-09-24 23:33:26",
+      "valor_total_produtos": 108.5,
+      "valor_frete": 15.56,
+      "frete": "SEDEX",
+      "valor_total_pedido": 124.06,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300938",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 11:46:19",
+      "data_hora_confirmacao": "2023-09-29 12:10:25",
+      "data_hora_confirmacao_pagamento": "2023-09-29 12:10:36",
+      "valor_total_produtos": 40,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 40,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.2GG": {
+      "codigo": "CD29.2GG",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Marinho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD29.2G": {
+      "codigo": "CD29.2G",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD26.6GG": {
+      "codigo": "CD26.6GG",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Escuro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.6G": {
+      "codigo": "CD26.6G",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

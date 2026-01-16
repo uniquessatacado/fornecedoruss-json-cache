@@ -1,0 +1,720 @@
+{
+  "codigo": "4363",
+  "nome": "REINALDO BERTO AVELINO",
+  "email": "reinaldoavelin@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2023",
+  "whatsapp": "(11) 97372-8783",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 3391.5299999999997,
+  "pedidos": [
+    {
+      "codigo_pedido": "28473",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-02-28 15:43:03",
+      "data_hora_confirmacao": "2025-02-28 15:50:27",
+      "data_hora_confirmacao_pagamento": "2025-02-28 15:50:27",
+      "valor_total_produtos": 1454.09,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 1454.09,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28545",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-03-04 14:12:28",
+      "data_hora_confirmacao": "2025-03-04 14:19:42",
+      "data_hora_confirmacao_pagamento": "2025-03-04 14:19:42",
+      "valor_total_produtos": 1937.44,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 1937.44,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30322": {
+      "codigo": "30322",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "38882": {
+      "codigo": "38882",
+      "titulo": "Camiseta Suedine ultra -(C143) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39326": {
+      "codigo": "39326",
+      "titulo": "Camiseta Malha Chinesa (C190) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "2"
+    },
+    "39339": {
+      "codigo": "39339",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39340": {
+      "codigo": "39340",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39343": {
+      "codigo": "39343",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39344": {
+      "codigo": "39344",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39362": {
+      "codigo": "39362",
+      "titulo": "Camiseta Malha chinesa(C193) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "39565": {
+      "codigo": "39565",
+      "titulo": "Bermuda Microfibra Ultra (C208) LT8A - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "39568": {
+      "codigo": "39568",
+      "titulo": "Bermuda Microfibra Ultra (C208) LT8A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "39647": {
+      "codigo": "39647",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C211) LT7A - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39649": {
+      "codigo": "39649",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C211) LT7A - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39791": {
+      "codigo": "39791",
+      "titulo": "Camiseta Suedine ultra -(C215)  DTF LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39792": {
+      "codigo": "39792",
+      "titulo": "Camiseta Suedine ultra -(C215)  DTF LT4A - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39799": {
+      "codigo": "39799",
+      "titulo": "Camiseta Suedine ultra -(C215)  DTF LT4A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39819": {
+      "codigo": "39819",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA  LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39867": {
+      "codigo": "39867",
+      "titulo": "Camiseta Suedine ultra -(C217) ARTE EM DTF LT4A - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39950": {
+      "codigo": "39950",
+      "titulo": "Camiseta Suedine ultra -(C220) ARTE EM DTF LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40187": {
+      "codigo": "40187",
+      "titulo": "Camiseta Suedine ultra -(C236) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40266": {
+      "codigo": "40266",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40267": {
+      "codigo": "40267",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40274": {
+      "codigo": "40274",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "40308": {
+      "codigo": "40308",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "40315": {
+      "codigo": "40315",
+      "titulo": "Camiseta Suedine ultra -(C247) ARTE BORDADA LT3A   - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40348": {
+      "codigo": "40348",
+      "titulo": "Camiseta Suedine ultra -(C245) ARTE EM DTF LT3A  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40354": {
+      "codigo": "40354",
+      "titulo": "Camiseta Suedine ultra -(C245) ARTE EM DTF LT3A  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40414": {
+      "codigo": "40414",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40448": {
+      "codigo": "40448",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A   - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40449": {
+      "codigo": "40449",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A   - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40462": {
+      "codigo": "40462",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40463": {
+      "codigo": "40463",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40470": {
+      "codigo": "40470",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40471": {
+      "codigo": "40471",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40477": {
+      "codigo": "40477",
+      "titulo": "Camiseta Suedine ultra -(C253) ARTE EM DTF LT3A   - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40478": {
+      "codigo": "40478",
+      "titulo": "Camiseta Suedine ultra -(C253) ARTE EM DTF LT3A   - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40545": {
+      "codigo": "40545",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40546": {
+      "codigo": "40546",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40564": {
+      "codigo": "40564",
+      "titulo": "Camiseta Suedine ultra -(C240) ARTE EM DTF LT3A    - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40565": {
+      "codigo": "40565",
+      "titulo": "Camiseta Suedine ultra -(C240) ARTE EM DTF LT3A    - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40768": {
+      "codigo": "40768",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "40775": {
+      "codigo": "40775",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "40776": {
+      "codigo": "40776",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "40787": {
+      "codigo": "40787",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "40916": {
+      "codigo": "40916",
+      "titulo": "Bermuda Microfibra Ultra (C252) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "41027": {
+      "codigo": "41027",
+      "titulo": "Camiseta Suedine ultra -(C243) ARTE BORDADA LT3A  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "41034": {
+      "codigo": "41034",
+      "titulo": "Camiseta Suedine ultra -(C243) ARTE BORDADA LT3A   - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41296": {
+      "codigo": "41296",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41297": {
+      "codigo": "41297",
+      "titulo": "Camiseta Ultra Dry (C272) - Cor: BRANCO/PRETO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "41827": {
+      "codigo": "41827",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C509) - Cor: VINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "POLO RALPH LAUREN ",
+      "quantidade": "1"
+    },
+    "41846": {
+      "codigo": "41846",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C524) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41847": {
+      "codigo": "41847",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C524) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41861": {
+      "codigo": "41861",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C526) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "41905": {
+      "codigo": "41905",
+      "titulo": "Camiseta Suedine Oversized  LT23A (C535) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE PREMIUM OVERSIZED ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42089": {
+      "codigo": "42089",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C586) - Cor: CHUMBO MARINHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "42319": {
+      "codigo": "42319",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C631)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42332": {
+      "codigo": "42332",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C631)   - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42333": {
+      "codigo": "42333",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C631)   - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42361": {
+      "codigo": "42361",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42362": {
+      "codigo": "42362",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42368": {
+      "codigo": "42368",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42369": {
+      "codigo": "42369",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42375": {
+      "codigo": "42375",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613)  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42376": {
+      "codigo": "42376",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C613)  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42382": {
+      "codigo": "42382",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "42396": {
+      "codigo": "42396",
+      "titulo": "Bermuda Microfibra Ultra LT27A (C633) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "42409": {
+      "codigo": "42409",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42417": {
+      "codigo": "42417",
+      "titulo": "Camiseta Ultra Dry LT28A (C635) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42424": {
+      "codigo": "42424",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42425": {
+      "codigo": "42425",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42430": {
+      "codigo": "42430",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42431": {
+      "codigo": "42431",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42438": {
+      "codigo": "42438",
+      "titulo": "Camiseta Ultra Dry LT28A (C635)  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42445": {
+      "codigo": "42445",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42446": {
+      "codigo": "42446",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42456": {
+      "codigo": "42456",
+      "titulo": "Regata Ultra Dry LT28A (C634)  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42457": {
+      "codigo": "42457",
+      "titulo": "Regata Ultra Dry LT28A (C634)  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42463": {
+      "codigo": "42463",
+      "titulo": "Regata Ultra Dry LT28A (C634)  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42464": {
+      "codigo": "42464",
+      "titulo": "Regata Ultra Dry LT28A (C634)  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42470": {
+      "codigo": "42470",
+      "titulo": "Regata Ultra Dry LT28A (C634)   - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "42591": {
+      "codigo": "42591",
+      "titulo": "Cueca Peruana LT29A (C639)  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "42592": {
+      "codigo": "42592",
+      "titulo": "Cueca Peruana LT29A (C639)  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "42654": {
+      "codigo": "42654",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42655": {
+      "codigo": "42655",
+      "titulo": "Regata Ultra Dry LT28A (C634) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas ElasFit ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

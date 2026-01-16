@@ -1,0 +1,53 @@
+{
+  "codigo": "9543",
+  "nome": "NATANAEL RIBEIRO",
+  "email": "natanaelribeiro963@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/05/2024",
+  "whatsapp": "(62) 99412-5851",
+  "cidade": "Itaguaru",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 119.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "12037",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-18 08:36:07",
+      "data_hora_confirmacao": "2024-05-18 09:32:42",
+      "data_hora_confirmacao_pagamento": "2024-05-18 09:32:36",
+      "valor_total_produtos": 90.98,
+      "valor_frete": 28.36,
+      "frete": "PAC",
+      "valor_total_pedido": 119.34,
+      "desconto": 0,
+      "cidade": "Itaguaru",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18077": {
+      "codigo": "18077",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRETE E COSTAS - Cor: VERDE CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18415": {
+      "codigo": "18415",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

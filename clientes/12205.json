@@ -1,0 +1,182 @@
+{
+  "codigo": "12205",
+  "nome": "DANILLO MANOEL",
+  "email": "danillomanoel80@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/07/2024",
+  "whatsapp": "(11) 97610-0203",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 646.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "15511",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 11:53:29",
+      "data_hora_confirmacao": "2024-07-10 15:15:29",
+      "data_hora_confirmacao_pagamento": "2024-07-10 15:15:23",
+      "valor_total_produtos": 136.97,
+      "valor_frete": 23.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 160.6,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16720",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 13:05:17",
+      "data_hora_confirmacao": "2024-07-23 15:35:31",
+      "data_hora_confirmacao_pagamento": "2024-07-23 15:35:25",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 19.43,
+      "frete": "JADLOG",
+      "valor_total_pedido": 149.41,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31775",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-20 23:43:16",
+      "data_hora_confirmacao": "2025-09-20 23:44:11",
+      "data_hora_confirmacao_pagamento": "2025-09-20 23:44:11",
+      "valor_total_produtos": 92.01,
+      "valor_frete": 22.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 114.91,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31776",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-09-20 23:43:16",
+      "data_hora_confirmacao": "2025-09-20 23:50:04",
+      "data_hora_confirmacao_pagamento": "2025-09-20 23:50:04",
+      "valor_total_produtos": 191.19,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 221.09,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19938": {
+      "codigo": "19938",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FRANÇA (PRONTA ENTREGA) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23166": {
+      "codigo": "23166",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte duplo  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23584": {
+      "codigo": "23584",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25041": {
+      "codigo": "25041",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25  - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25141": {
+      "codigo": "25141",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID PRONTA ENTREGA) - Tamanho: G1 - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "51045": {
+      "codigo": "51045",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BAYERN MÜNCHEN II 25/26 - Tamanho: G1 - Times : Bayern München - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53605": {
+      "codigo": "53605",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: G1 - Times : Corinthians - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53942": {
+      "codigo": "53942",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53960": {
+      "codigo": "53960",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "codigo": "4000",
+  "nome": "LUIZ LUCIO DA COSTA NETO",
+  "email": "luizlneto2207@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(83) 98693-3829",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 255.98999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "6283",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-07 20:27:06",
+      "data_hora_confirmacao": "2024-01-08 10:56:40",
+      "data_hora_confirmacao_pagamento": "2024-01-08 10:56:51",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 19.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.36,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6312",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 17:30:21",
+      "data_hora_confirmacao": "2024-01-09 17:45:52",
+      "data_hora_confirmacao_pagamento": "2024-01-09 17:46:03",
+      "valor_total_produtos": 35.96,
+      "valor_frete": 16.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.71,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6666",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-20 10:11:55",
+      "data_hora_confirmacao": "2024-01-20 12:48:42",
+      "data_hora_confirmacao_pagamento": "2024-01-20 12:49:02",
+      "valor_total_produtos": 17.98,
+      "valor_frete": 16.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 34.94,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8226",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 20:12:49",
+      "data_hora_confirmacao": "2024-03-12 10:19:16",
+      "data_hora_confirmacao_pagamento": "2024-03-12 10:19:11",
+      "valor_total_produtos": 37.5,
+      "valor_frete": 18.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.98,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto C/ Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.82": {
+      "codigo": "CD01.82",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  KOREA  LT10.11   - Tamanho: M - Times : Korea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.56": {
+      "codigo": "CD24.56",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

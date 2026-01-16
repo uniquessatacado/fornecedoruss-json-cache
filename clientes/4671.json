@@ -1,0 +1,69 @@
+{
+  "codigo": "4671",
+  "nome": "CARMEN MARTINS",
+  "email": "carmemlyta.1@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2023",
+  "whatsapp": "(21) 98128-9185",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 189.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "4572",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 20:03:47",
+      "data_hora_confirmacao": "2023-12-13 23:58:52",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:59:03",
+      "valor_total_produtos": 171.58,
+      "valor_frete": 18.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 189.85,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.34": {
+      "codigo": "CD39.34",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD66.3": {
+      "codigo": "CD66.3",
+      "titulo": "CAMISETA PERUANA LUXO - BALMAIN  LT23.10  - Cor: Azul Marinho - Marca: Balmain - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "CD02.58": {
+      "codigo": "CD02.58",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.37": {
+      "codigo": "CD39.37",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

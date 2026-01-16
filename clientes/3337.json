@@ -1,0 +1,139 @@
+{
+  "codigo": "3337",
+  "nome": "DOUGLAS DE ALMEIDA CARDOSO",
+  "email": "douglasynyee@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/10/2023",
+  "whatsapp": "(11) 98067-4143",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 435.47999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301407",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 17:10:55",
+      "data_hora_confirmacao": "2023-10-06 17:17:56",
+      "data_hora_confirmacao_pagamento": "2023-10-06 17:17:51",
+      "valor_total_produtos": 127,
+      "valor_frete": 11.21,
+      "frete": "SEDEX",
+      "valor_total_pedido": 138.21,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301913",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-18 17:03:37",
+      "data_hora_confirmacao": "2023-10-18 17:37:56",
+      "data_hora_confirmacao_pagamento": "2023-10-18 17:37:22",
+      "valor_total_produtos": 190,
+      "valor_frete": 14.45,
+      "frete": "SEDEX",
+      "valor_total_pedido": 204.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4808",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 20:56:39",
+      "data_hora_confirmacao": "2023-12-16 07:46:08",
+      "data_hora_confirmacao_pagamento": "2023-12-16 07:46:17",
+      "valor_total_produtos": 80.99,
+      "valor_frete": 11.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.82,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.31P": {
+      "codigo": "CD07.31P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Hugo Boss  - Cor: Branca - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.4M": {
+      "codigo": "CD12.4M",
+      "titulo": "Polo Piquet Duplo Ultra - Lacoste - Cor: Vermelha - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD07.30M": {
+      "codigo": "CD07.30M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Hugo Boss - Cor: Azul Royal - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD13.2M": {
+      "codigo": "CD13.2M",
+      "titulo": "Camiseta standard Fit 1:1 - Nike  LT18.10 - Cor: Cinza Mescla - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.22M": {
+      "codigo": "CD02.22M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Vinho - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.50": {
+      "codigo": "CD17.50",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.12": {
+      "codigo": "CD14.12",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT11.12  - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

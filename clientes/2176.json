@@ -1,0 +1,163 @@
+{
+  "codigo": "2176",
+  "nome": "MARCOS VINICIUS LOPES MOURA",
+  "email": "ml3248502@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/09/2023",
+  "whatsapp": "(63) 9840-94172",
+  "cidade": "Palmas",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 517.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2833",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 01:00:37",
+      "data_hora_confirmacao": "2023-11-08 01:08:13",
+      "data_hora_confirmacao_pagamento": "2023-11-08 01:08:28",
+      "valor_total_produtos": 212,
+      "valor_frete": 31.27,
+      "frete": "JADLOG",
+      "valor_total_pedido": 243.27,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3665",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-26 17:32:00",
+      "data_hora_confirmacao": "2023-11-27 11:49:38",
+      "data_hora_confirmacao_pagamento": "2023-11-27 11:49:48",
+      "valor_total_produtos": 207,
+      "valor_frete": 35.13,
+      "frete": "GOLLOG",
+      "valor_total_pedido": 242.13,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3751",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-28 14:22:52",
+      "data_hora_confirmacao": "2023-11-28 14:24:33",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 32.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 32.5,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.20": {
+      "codigo": "CD39.20",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.42": {
+      "codigo": "CD17.42",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT03.11  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.40": {
+      "codigo": "CD17.40",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT03.11 - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: OffWhite - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.28": {
+      "codigo": "CD39.28",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.23": {
+      "codigo": "CD39.23",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.47": {
+      "codigo": "CD02.47",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT16.11    - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD27.21": {
+      "codigo": "CD27.21",
+      "titulo": "Boné Super Premium - POLO RALPH LT23.10 - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

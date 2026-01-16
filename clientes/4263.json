@@ -1,0 +1,88 @@
+{
+  "codigo": "4263",
+  "nome": "ODILON BENTO DE MIRANDA",
+  "email": "obmiranda@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "25/11/2023",
+  "whatsapp": "(11) 99737-5726",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 235.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "5323",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 15:31:50",
+      "data_hora_confirmacao": "2023-12-20 17:14:49",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:14:59",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 114.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26199",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-12-12 09:21:26",
+      "data_hora_confirmacao": "2024-12-12 09:28:08",
+      "data_hora_confirmacao_pagamento": "2024-12-12 09:28:08",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 120.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37045": {
+      "codigo": "37045",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37052": {
+      "codigo": "37052",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37055": {
+      "codigo": "37055",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

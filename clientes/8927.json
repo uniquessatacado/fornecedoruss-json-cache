@@ -1,0 +1,85 @@
+{
+  "codigo": "8927",
+  "nome": "BEATRIZ SOLER",
+  "email": "beasoleeer@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(19) 98604-7761",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 195.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "11158",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-02 20:17:26",
+      "data_hora_confirmacao": "2024-05-03 11:57:48",
+      "data_hora_confirmacao_pagamento": "2024-05-03 11:57:24",
+      "valor_total_produtos": 185.94,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 195.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17861": {
+      "codigo": "17861",
+      "titulo": "Camiseta 40.1 Ultra  - LACOSTE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "17869": {
+      "codigo": "17869",
+      "titulo": "Camiseta 40.1 Ultra - LACOSTE   - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "17887": {
+      "codigo": "17887",
+      "titulo": "Camiseta 40.1 Ultra  - HURLEY - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD02.136GG": {
+      "codigo": "CD02.136GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Marrom - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.131GG": {
+      "codigo": "CD02.131GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.108GG": {
+      "codigo": "CD02.108GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Cinza - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

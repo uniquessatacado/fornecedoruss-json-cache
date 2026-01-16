@@ -1,0 +1,53 @@
+{
+  "codigo": "14001",
+  "nome": "FLAVIO ENRIQUE",
+  "email": "flavio_enrique22@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(11) 93297-8202",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "18558",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 16:57:34",
+      "data_hora_confirmacao": "2024-08-15 13:35:27",
+      "data_hora_confirmacao_pagamento": "2024-08-15 13:35:21",
+      "valor_total_produtos": 70.98,
+      "valor_frete": 13.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.99,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27434": {
+      "codigo": "27434",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte emborrachada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "27547": {
+      "codigo": "27547",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - GUCCI arte emborrachada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

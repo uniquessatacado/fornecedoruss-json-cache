@@ -1,0 +1,61 @@
+{
+  "codigo": "17940",
+  "nome": "GABRIEL LOPES DA SILVA",
+  "email": "slzgarotourbano@mail.com",
+  "sexo": "1",
+  "data_cadastro": "29/11/2024",
+  "whatsapp": "(98) 9878-46975",
+  "cidade": "Rio Verde",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "25514",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-02 12:07:38",
+      "data_hora_confirmacao": "2024-12-02 12:11:38",
+      "data_hora_confirmacao_pagamento": "2024-12-02 12:11:38",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 19.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 130.9,
+      "desconto": 0,
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35375": {
+      "codigo": "35375",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35378": {
+      "codigo": "35378",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35380": {
+      "codigo": "35380",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

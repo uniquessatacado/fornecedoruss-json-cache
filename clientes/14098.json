@@ -1,0 +1,53 @@
+{
+  "codigo": "14098",
+  "nome": "MAURO DONIZETE OLIVEIRA",
+  "email": "Maurodonizeteoliveira87@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(12) 9884-77775",
+  "cidade": "Caçapava",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "25953",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 19:30:59",
+      "data_hora_confirmacao": "2024-12-07 19:36:03",
+      "data_hora_confirmacao_pagamento": "2024-12-07 19:36:03",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 12.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.12,
+      "desconto": 0,
+      "cidade": "Caçapava",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36578": {
+      "codigo": "36578",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada    - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "36579": {
+      "codigo": "36579",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada    - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

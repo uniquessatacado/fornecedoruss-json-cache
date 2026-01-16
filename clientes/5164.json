@@ -1,0 +1,408 @@
+{
+  "codigo": "5164",
+  "nome": "REGINALDO NONATO DO CARMO",
+  "email": "grcregis@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/01/2024",
+  "whatsapp": "(31) 98869-5041",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 3028.0699999999997,
+  "pedidos": [
+    {
+      "codigo_pedido": "6214",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 19:09:51",
+      "data_hora_confirmacao": "2024-01-04 19:27:02",
+      "data_hora_confirmacao_pagamento": "2024-01-04 19:27:31",
+      "valor_total_produtos": 1425.75,
+      "valor_frete": 91,
+      "frete": "SEDEX",
+      "valor_total_pedido": 1516.75,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16357",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-18 17:24:45",
+      "data_hora_confirmacao": "2024-07-18 17:32:26",
+      "data_hora_confirmacao_pagamento": "2024-07-18 17:32:06",
+      "valor_total_produtos": 1433.63,
+      "valor_frete": 77.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 1511.32,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23344": {
+      "codigo": "23344",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "23558": {
+      "codigo": "23558",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24138": {
+      "codigo": "24138",
+      "titulo": "Calça Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "24139": {
+      "codigo": "24139",
+      "titulo": "Calça Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24145": {
+      "codigo": "24145",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "24148": {
+      "codigo": "24148",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24163": {
+      "codigo": "24163",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24168": {
+      "codigo": "24168",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24181": {
+      "codigo": "24181",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24234": {
+      "codigo": "24234",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24587": {
+      "codigo": "24587",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "24588": {
+      "codigo": "24588",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24590": {
+      "codigo": "24590",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24592": {
+      "codigo": "24592",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24611": {
+      "codigo": "24611",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "24612": {
+      "codigo": "24612",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24784": {
+      "codigo": "24784",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24790": {
+      "codigo": "24790",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24791": {
+      "codigo": "24791",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - ADIDAS arte em DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24814": {
+      "codigo": "24814",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24842": {
+      "codigo": "24842",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24872": {
+      "codigo": "24872",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24873": {
+      "codigo": "24873",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24876": {
+      "codigo": "24876",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24879": {
+      "codigo": "24879",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24896": {
+      "codigo": "24896",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS recorte atrás  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24899": {
+      "codigo": "24899",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS recorte atrás  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24914": {
+      "codigo": "24914",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno arte em silk - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24915": {
+      "codigo": "24915",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno arte em silk - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24934": {
+      "codigo": "24934",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24937": {
+      "codigo": "24937",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24940": {
+      "codigo": "24940",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.51": {
+      "codigo": "CD39.51",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) LT04.12    - Cor: Salmão Claro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD39.48": {
+      "codigo": "CD39.48",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD39.47": {
+      "codigo": "CD39.47",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT04.12  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD39.15": {
+      "codigo": "CD39.15",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.46": {
+      "codigo": "CD39.46",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT04.12 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 8
+    },
+    "CD17.61": {
+      "codigo": "CD17.61",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD17.60": {
+      "codigo": "CD17.60",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD01.80": {
+      "codigo": "CD01.80",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11    - Tamanho: P - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD01.93": {
+      "codigo": "CD01.93",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ITALIA   LT11.11  - Tamanho: P - Times : Italia",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.63": {
+      "codigo": "CD16.63",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT14.11    - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD16.61": {
+      "codigo": "CD16.61",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.49": {
+      "codigo": "CD16.49",
+      "titulo": "Camisetas de Time Tailandesas - CRUZEIRO  LT06.11  - Tamanho: M - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 3
+    }
+  }
+}

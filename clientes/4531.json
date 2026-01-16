@@ -1,0 +1,104 @@
+{
+  "codigo": "4531",
+  "nome": "GABRIEL GODOI BISCALCHIM",
+  "email": "gabrielbjgabriel@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/12/2023",
+  "whatsapp": "(19) 99914-6287",
+  "cidade": "São Pedro",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 395.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "9749",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 12:32:23",
+      "data_hora_confirmacao": "2024-04-09 13:19:19",
+      "data_hora_confirmacao_pagamento": "2024-04-09 13:19:15",
+      "valor_total_produtos": 211.96,
+      "valor_frete": 26.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 238.94,
+      "desconto": 0,
+      "cidade": "São Pedro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9914",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-11 14:41:17",
+      "data_hora_confirmacao": "2024-04-11 17:35:16",
+      "data_hora_confirmacao_pagamento": "2024-04-11 17:35:11",
+      "valor_total_produtos": 132.93,
+      "valor_frete": 23.57,
+      "frete": "SEDEX",
+      "valor_total_pedido": 156.5,
+      "desconto": 0,
+      "cidade": "São Pedro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD22.3G": {
+      "codigo": "CD22.3G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.3GG": {
+      "codigo": "CD22.3GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD57.10G": {
+      "codigo": "CD57.10G",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD57.10GG": {
+      "codigo": "CD57.10GG",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD57.10M": {
+      "codigo": "CD57.10M",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE   - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

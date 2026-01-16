@@ -1,0 +1,278 @@
+{
+  "codigo": "2093",
+  "nome": "JONATAS BARROSO",
+  "email": "jonatasjsb21@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/09/2023",
+  "whatsapp": "(85) 9293-7609",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 835.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301638",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 14:47:12",
+      "data_hora_confirmacao": "2023-10-11 14:53:11",
+      "data_hora_confirmacao_pagamento": "2023-10-11 14:53:21",
+      "valor_total_produtos": 168,
+      "valor_frete": 49.62,
+      "frete": "SEDEX",
+      "valor_total_pedido": 217.62,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301687",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-11 22:07:32",
+      "data_hora_confirmacao": "2023-10-13 10:02:46",
+      "data_hora_confirmacao_pagamento": "2023-10-13 11:50:10",
+      "valor_total_produtos": 71,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 71,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301926",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-18 19:08:04",
+      "data_hora_confirmacao": "2023-10-19 10:57:28",
+      "data_hora_confirmacao_pagamento": "2023-10-19 10:57:35",
+      "valor_total_produtos": 397.5,
+      "valor_frete": 34.5,
+      "frete": "PAC",
+      "valor_total_pedido": 432,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2386",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-27 20:21:02",
+      "data_hora_confirmacao": "2023-10-31 13:58:20",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:58:34",
+      "valor_total_produtos": 90,
+      "valor_frete": 24.76,
+      "frete": "PAC",
+      "valor_total_pedido": 114.76,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.12P": {
+      "codigo": "CD04.12P",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD04.10P": {
+      "codigo": "CD04.10P",
+      "titulo": "Camiseta Egípcia Cotton Luxo - Armani  - Cor: Preto - Marca: Armani - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD08.31G": {
+      "codigo": "CD08.31G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Arte em couro bordado linha madeira) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.30P": {
+      "codigo": "CD08.30P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Tommy (Arte bordada em linha madeira e Aviamentos  originais) - Cor: OffWhite - Marca: Tommy - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.28M - Calvin": {
+      "codigo": "CD24.28M - Calvin",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 4
+    },
+    "CD24.30M - POLO": {
+      "codigo": "CD24.30M - POLO",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: Preto - Marca: Polo Ralph - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 2
+    },
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD33.8G": {
+      "codigo": "CD33.8G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci  - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.15P": {
+      "codigo": "CD08.15P",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.38G1": {
+      "codigo": "CD02.38G1",
+      "titulo": "Camiseta 40.1 Ultra Premium - GUCCI  LT18.10   - Cor: Preto - Marca: Gucci - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD39.9M": {
+      "codigo": "CD39.9M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  LT17.10 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.35M": {
+      "codigo": "CD17.35M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.9M - Hugo Boss": {
+      "codigo": "CD24.9M - Hugo Boss",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.26G - Boss": {
+      "codigo": "CD24.26G - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.27M - Boss": {
+      "codigo": "CD24.27M - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.11M": {
+      "codigo": "CD08.11M",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Balmain (Chenille e Bordado) - Cor: Preto - Marca: Balmain - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "CD07.29M": {
+      "codigo": "CD07.29M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Dior - Cor: Preto - Marca: Dior - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Dior",
+      "quantidade": "1"
+    },
+    "CD27.18": {
+      "codigo": "CD27.18",
+      "titulo": "Boné Super Premium - PRADA LT23.10  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD17.37M": {
+      "codigo": "CD17.37M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

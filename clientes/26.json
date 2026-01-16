@@ -1,0 +1,96 @@
+{
+  "codigo": "26",
+  "nome": "ROZILDO GOMES",
+  "email": "rozildogomes137@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/03/2023",
+  "whatsapp": "(27) 99608-4266",
+  "cidade": "Vitória",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 242.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301448",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-07 12:27:59",
+      "data_hora_confirmacao": "2023-10-09 10:35:43",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:35:59",
+      "valor_total_produtos": 30,
+      "valor_frete": 24.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.93,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4373",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-10 18:16:07",
+      "data_hora_confirmacao": "2023-12-11 09:18:28",
+      "data_hora_confirmacao_pagamento": "2023-12-11 09:18:40",
+      "valor_total_produtos": 157,
+      "valor_frete": 30.89,
+      "frete": "SEDEX",
+      "valor_total_pedido": 187.89,
+      "desconto": 0,
+      "cidade": "Vitória",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.48G": {
+      "codigo": "CD01.48G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: G - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD66.8": {
+      "codigo": "CD66.8",
+      "titulo": "CAMISETA PERUANA LUXO - PRADA   LT23.10 - Cor: Azul Marinho - Marca: Prada - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD02.53": {
+      "codigo": "CD02.53",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.87": {
+      "codigo": "CD01.87",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11   - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.63": {
+      "codigo": "CD16.63",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT14.11    - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

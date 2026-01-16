@@ -1,0 +1,61 @@
+{
+  "codigo": "10602",
+  "nome": "ALEXSANDER FERREIRA DE SOUZA",
+  "email": "lekinho6853@yahoo.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 9875-92727",
+  "cidade": "Vargem",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "13780",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 11:52:24",
+      "data_hora_confirmacao": "2024-06-15 12:26:14",
+      "data_hora_confirmacao_pagamento": "2024-06-15 12:26:06",
+      "valor_total_produtos": 90.99,
+      "valor_frete": 13.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 104.75,
+      "desconto": 0,
+      "cidade": "Vargem",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21426": {
+      "codigo": "21426",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.4": {
+      "codigo": "CD01.4",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.25M": {
+      "codigo": "CD01.25M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10 - Tamanho: M - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

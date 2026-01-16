@@ -1,0 +1,104 @@
+{
+  "codigo": "11181",
+  "nome": "HUMBERTO SANTOS FERREIRA",
+  "email": "humberto.betto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(98) 98824-2058",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 464.15000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "14082",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 17:46:31",
+      "data_hora_confirmacao": "2024-06-20 13:41:28",
+      "data_hora_confirmacao_pagamento": "2024-06-20 13:41:20",
+      "valor_total_produtos": 155.96,
+      "valor_frete": 39.28,
+      "frete": "JADLOG",
+      "valor_total_pedido": 195.24,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15608",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 23:48:43",
+      "data_hora_confirmacao": "2024-07-15 11:11:35",
+      "data_hora_confirmacao_pagamento": "2024-07-15 11:11:00",
+      "valor_total_produtos": 239.98,
+      "valor_frete": 28.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 268.91,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21799": {
+      "codigo": "21799",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: AREIA - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21807": {
+      "codigo": "21807",
+      "titulo": "Camisetas Polo TECH IMOPORTADA - Cor: PRETA - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO TECH",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "22249": {
+      "codigo": "22249",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22268": {
+      "codigo": "22268",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22271": {
+      "codigo": "22271",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22274": {
+      "codigo": "22274",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

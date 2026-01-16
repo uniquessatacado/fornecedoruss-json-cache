@@ -1,0 +1,53 @@
+{
+  "codigo": "3004",
+  "nome": "ANDERSON ROCHA",
+  "email": "andersonrn0508@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(61) 99585-9428",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 157.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "21569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-21 22:51:19",
+      "data_hora_confirmacao": "2024-09-23 09:55:02",
+      "data_hora_confirmacao_pagamento": "2024-09-23 09:54:56",
+      "valor_total_produtos": 141.98,
+      "valor_frete": 15.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 157.45,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30294": {
+      "codigo": "30294",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31010": {
+      "codigo": "31010",
+      "titulo": "Calça Jeans Luxo Importada - TOMMY HILFIGER  - Cor: CINZA - Tamanho: 42",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

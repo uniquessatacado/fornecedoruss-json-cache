@@ -1,0 +1,61 @@
+{
+  "codigo": "4951",
+  "nome": "JOSE WELLINGTON COELHO DE CASTRO JUNIOR",
+  "email": "w.juniornet@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/12/2023",
+  "whatsapp": "(85) 99128-6292",
+  "cidade": "Pentecoste",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 177.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "5502",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-21 19:51:16",
+      "data_hora_confirmacao": "2023-12-21 21:34:30",
+      "data_hora_confirmacao_pagamento": "2023-12-21 21:34:39",
+      "valor_total_produtos": 129.88,
+      "valor_frete": 47.98,
+      "frete": "PAC",
+      "valor_total_pedido": 177.86,
+      "desconto": 0,
+      "cidade": "Pentecoste",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto C/ Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.52": {
+      "codigo": "CD17.52",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD32.18Juliet": {
+      "codigo": "CD32.18Juliet",
+      "titulo": "Óculos  Juliet - Prata - Cor da Armação: Prata c/Chumbo - Cor da Lente: Prata - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

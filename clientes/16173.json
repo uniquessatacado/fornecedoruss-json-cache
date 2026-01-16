@@ -1,0 +1,61 @@
+{
+  "codigo": "16173",
+  "nome": "RAPHAEL SANTOS CONSIGLIO",
+  "email": "consiglioraphael@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2024",
+  "whatsapp": "(12) 98148-5126",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 110.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "22166",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-02 19:08:47",
+      "data_hora_confirmacao": "2024-10-07 16:01:21",
+      "data_hora_confirmacao_pagamento": "2024-10-07 16:01:09",
+      "valor_total_produtos": 96.97,
+      "valor_frete": 13.28,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.25,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30824": {
+      "codigo": "30824",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elástico interno - Cor: PRETO MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31333": {
+      "codigo": "31333",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31665": {
+      "codigo": "31665",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

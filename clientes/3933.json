@@ -1,0 +1,104 @@
+{
+  "codigo": "3933",
+  "nome": "RODRIGO BRANDINI ROMANO",
+  "email": "rodrigobromano@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(19) 99238-9523",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 258.28000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "2827",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 21:34:57",
+      "data_hora_confirmacao": "2023-11-07 22:00:51",
+      "data_hora_confirmacao_pagamento": "2023-11-07 22:01:02",
+      "valor_total_produtos": 161,
+      "valor_frete": 15.58,
+      "frete": "SEDEX",
+      "valor_total_pedido": 176.58,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4066",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 06:49:25",
+      "data_hora_confirmacao": "2023-12-06 09:50:13",
+      "data_hora_confirmacao_pagamento": "2023-12-06 09:49:24",
+      "valor_total_produtos": 70,
+      "valor_frete": 11.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 81.7,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.14": {
+      "codigo": "CD39.14",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.39GG": {
+      "codigo": "CD02.39GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER LT25.10   - Cor: Preto - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD08.9G": {
+      "codigo": "CD08.9G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Azul Marinho - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "2"
+    },
+    "CD39.30": {
+      "codigo": "CD39.30",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.31": {
+      "codigo": "CD39.31",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

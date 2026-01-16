@@ -1,0 +1,53 @@
+{
+  "codigo": "5302",
+  "nome": "GABRIELLA COSTA GUEDES ALVES",
+  "email": "gabrielguedss@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "10/01/2024",
+  "whatsapp": "(83) 98886-9777",
+  "cidade": "Esperança",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "14736",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-28 20:22:28",
+      "data_hora_confirmacao": "2024-06-29 09:09:59",
+      "data_hora_confirmacao_pagamento": "2024-06-29 09:09:47",
+      "valor_total_produtos": 91.99,
+      "valor_frete": 26.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.87,
+      "desconto": 0,
+      "cidade": "Esperança",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22536": {
+      "codigo": "22536",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em bordado madeira  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "22808": {
+      "codigo": "22808",
+      "titulo": "Camiseta Polo Piquet Duplo - DIESEL  - Cor: BRANCA - Marca: Diesel - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

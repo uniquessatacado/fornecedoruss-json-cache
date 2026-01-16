@@ -1,0 +1,53 @@
+{
+  "codigo": "4863",
+  "nome": "ODAIR MACIEL",
+  "email": "brancosilva29@outlook.com.br",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(13) 99798-8079",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 108.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "5221",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 23:25:59",
+      "data_hora_confirmacao": "2023-12-20 07:47:44",
+      "data_hora_confirmacao_pagamento": "2023-12-20 07:47:54",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 15.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.04,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.78": {
+      "codigo": "CD02.78",
+      "titulo": "Camiseta 40.1 Ultra Premium - ARMANI  LT19.12 - Cor: Vermelha - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD02.80": {
+      "codigo": "CD02.80",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12  - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

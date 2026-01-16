@@ -1,0 +1,80 @@
+{
+  "codigo": "3636",
+  "nome": "ADRIANO JOSE DA SILVA",
+  "email": "adrianosilva.adv21@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/10/2023",
+  "whatsapp": "(81) 99159-7189",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 150,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302040",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-20 08:41:05",
+      "data_hora_confirmacao": "2023-10-20 09:18:45",
+      "data_hora_confirmacao_pagamento": "2023-10-20 13:59:47",
+      "valor_total_produtos": 100,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 100,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302066",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-20 13:45:36",
+      "data_hora_confirmacao": "2023-10-20 13:46:47",
+      "data_hora_confirmacao_pagamento": "2023-10-20 13:59:35",
+      "valor_total_produtos": 50,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD26.6M": {
+      "codigo": "CD26.6M",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Bebê - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Escuro - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD22.1M": {
+      "codigo": "CD22.1M",
+      "titulo": "Corta Vento Microfibra Premium - Hugo Boss - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

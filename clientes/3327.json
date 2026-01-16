@@ -1,0 +1,123 @@
+{
+  "codigo": "3327",
+  "nome": "ALEXANDRE TADEU IGNÁCIO BARBOSA",
+  "email": "alexandre.tadeu7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/10/2023",
+  "whatsapp": "(17) 98812-4567",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 258.11,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301383",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 13:50:38",
+      "data_hora_confirmacao": "2023-10-09 13:24:33",
+      "data_hora_confirmacao_pagamento": "2023-10-09 13:24:47",
+      "valor_total_produtos": 123,
+      "valor_frete": 13.4,
+      "frete": "JADLOG",
+      "valor_total_pedido": 136.4,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9235",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 15:20:05",
+      "data_hora_confirmacao": "2024-04-02 16:05:45",
+      "data_hora_confirmacao_pagamento": "2024-04-02 16:05:41",
+      "valor_total_produtos": 48.98,
+      "valor_frete": 13.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.91,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21693",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-24 17:10:08",
+      "data_hora_confirmacao": "2024-09-26 16:08:02",
+      "data_hora_confirmacao_pagamento": "2024-09-26 16:07:57",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.8,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31157": {
+      "codigo": "31157",
+      "titulo": "Camiseta Tecido Cashmere Importada - EMPÓRIO ARMANI  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD12.5GG": {
+      "codigo": "CD12.5GG",
+      "titulo": "Polo Piquet Duplo Ultra - Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.35G1": {
+      "codigo": "CD02.35G1",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Branca - Marca: Quiksilver - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD10.9GG": {
+      "codigo": "CD10.9GG",
+      "titulo": "Camiseta Egipicia Luxo - Armani - Cor: OffWhite - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD11.2G2": {
+      "codigo": "CD11.2G2",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Branca - Marca: Nike - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "1968",
+  "nome": "RENAN SOUZA",
+  "email": "renansouza14@outlook.com.br",
+  "sexo": "3",
+  "data_cadastro": "30/08/2023",
+  "whatsapp": "(21) 98166-3213",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 136.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "18701",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 17:01:53",
+      "data_hora_confirmacao": "2024-08-14 19:33:04",
+      "data_hora_confirmacao_pagamento": "2024-08-14 19:32:53",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 16.56,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136.53,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26710": {
+      "codigo": "26710",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26761": {
+      "codigo": "26761",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27668": {
+      "codigo": "27668",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "9999",
+  "nome": "JACKSON DOS SANTOS",
+  "email": "vitorcavalcanti59@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/05/2024",
+  "whatsapp": "(19) 98163-6063",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 169.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "12675",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-27 15:29:30",
+      "data_hora_confirmacao": "2024-05-27 16:07:49",
+      "data_hora_confirmacao_pagamento": "2024-06-14 15:42:14",
+      "valor_total_produtos": 169.98,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 169.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "17697": {
+      "codigo": "17697",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

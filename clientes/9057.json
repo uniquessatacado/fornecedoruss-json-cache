@@ -1,0 +1,53 @@
+{
+  "codigo": "9057",
+  "nome": "JENNER MALUF COSTA DA SILVA",
+  "email": "uautec@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/05/2024",
+  "whatsapp": "(31) 99795-5271",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 102.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "11344",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-04 20:06:18",
+      "data_hora_confirmacao": "2024-05-06 18:18:33",
+      "data_hora_confirmacao_pagamento": "2024-05-06 18:18:25",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 18.4,
+      "frete": "JADLOG",
+      "valor_total_pedido": 102.38,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18027": {
+      "codigo": "18027",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "CM1.1G": {
+      "codigo": "CM1.1G",
+      "titulo": "CAMISETA MANGA LONGA 40.1 ULTRA - Cor: BRANCA - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MANGA LONGA 40.1 ULTRA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

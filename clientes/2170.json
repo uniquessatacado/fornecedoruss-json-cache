@@ -1,0 +1,61 @@
+{
+  "codigo": "2170",
+  "nome": "JOSÉ DORIEDSON MEDEIROS MOREIRA",
+  "email": "josedoriedson@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "07/09/2023",
+  "whatsapp": "(74) 9881-83452",
+  "cidade": "Juazeiro",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 193.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300350",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 10:27:19",
+      "data_hora_confirmacao": "2023-09-26 12:03:31",
+      "data_hora_confirmacao_pagamento": "2023-09-26 12:03:20",
+      "valor_total_produtos": 155,
+      "valor_frete": 38.12,
+      "frete": "PAC",
+      "valor_total_pedido": 193.12,
+      "desconto": 0,
+      "cidade": "Juazeiro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD05.3P": {
+      "codigo": "CD05.3P",
+      "titulo": "Camiseta Egipicia Cotton Luxo - Moschino - Cor: Vermelha - Marca: Moschinno - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD02.17M": {
+      "codigo": "CD02.17M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Silkada) - Cor: Preto - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.22M": {
+      "codigo": "CD02.22M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "2148",
+  "nome": "PABLO LEMOS",
+  "email": "pablolemos707@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "06/09/2023",
+  "whatsapp": "(11) 94318-2161",
+  "cidade": "Ferraz de Vasconcelos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 38.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301893",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-18 10:23:43",
+      "data_hora_confirmacao": "2023-10-18 13:04:27",
+      "data_hora_confirmacao_pagamento": "2023-10-18 13:04:16",
+      "valor_total_produtos": 30,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 38.73,
+      "desconto": 0,
+      "cidade": "Ferraz de Vasconcelos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.35G": {
+      "codigo": "CD01.35G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

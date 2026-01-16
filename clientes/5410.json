@@ -1,0 +1,45 @@
+{
+  "codigo": "5410",
+  "nome": "GABRIEL SANTANA OUVERNEY",
+  "email": "ouverney@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "17/01/2024",
+  "whatsapp": "(44) 99992-3010",
+  "cidade": "Maringá",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "6627",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-17 23:45:17",
+      "data_hora_confirmacao": "2024-01-18 12:57:45",
+      "data_hora_confirmacao_pagamento": "2024-01-18 12:57:59",
+      "valor_total_produtos": 42,
+      "valor_frete": 13.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.39,
+      "desconto": 0,
+      "cidade": "Maringá",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.14": {
+      "codigo": "CD14.14",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT04.1 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

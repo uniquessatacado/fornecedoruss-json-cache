@@ -1,0 +1,96 @@
+{
+  "codigo": "14469",
+  "nome": "MATHEUS MASSARI",
+  "email": "matheus.massari2@gmail.con",
+  "sexo": "0",
+  "data_cadastro": "22/08/2024",
+  "whatsapp": "(11) 97443-7797",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 186.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "19354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 15:04:01",
+      "data_hora_confirmacao": "2024-08-22 17:30:57",
+      "data_hora_confirmacao_pagamento": "2024-08-22 17:30:51",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 51.62,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20911",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-11 16:48:16",
+      "data_hora_confirmacao": "2024-09-11 17:56:29",
+      "data_hora_confirmacao_pagamento": "2024-09-11 17:56:24",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 14.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 134.79,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28487": {
+      "codigo": "28487",
+      "titulo": "Boné Super Premium - LACOSTE tactel  - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "28495": {
+      "codigo": "28495",
+      "titulo": "Boné Super Premium - LACOSTE bordado - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "30542": {
+      "codigo": "30542",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30545": {
+      "codigo": "30545",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30548": {
+      "codigo": "30548",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

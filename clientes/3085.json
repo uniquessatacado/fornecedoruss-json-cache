@@ -1,0 +1,45 @@
+{
+  "codigo": "3085",
+  "nome": "ROMES FERNANDO MAGALHÃIS",
+  "email": "romesfernando001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(34) 98877-3807",
+  "cidade": "Araxá",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301013",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 19:41:57",
+      "data_hora_confirmacao": "2023-10-02 10:56:46",
+      "data_hora_confirmacao_pagamento": "2023-10-04 12:25:17",
+      "valor_total_produtos": 99,
+      "valor_frete": 21.98,
+      "frete": "PAC",
+      "valor_total_pedido": 120.98,
+      "desconto": 0,
+      "cidade": "Araxá",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.28G": {
+      "codigo": "CD17.28G",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "2388",
+  "nome": "THIAGO CARVALHO TOSTE SANTOS",
+  "email": "thiagocarvalhozk0@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(19) 99719-9777",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "10342",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-19 18:04:41",
+      "data_hora_confirmacao": "2024-04-19 18:06:04",
+      "data_hora_confirmacao_pagamento": "2024-04-19 18:05:59",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 64.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD03.19": {
+      "codigo": "CD03.19",
+      "titulo": "Óculos OAKLEY JULIET -   - ARMAÇÃO: PRATA+DOURADA- 24K - COR DA LENTE: DOURADA - GOLD - Kit Borracha: PRETA",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

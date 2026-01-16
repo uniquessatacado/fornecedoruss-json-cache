@@ -1,0 +1,123 @@
+{
+  "codigo": "7697",
+  "nome": "FRED EGNO DE SOUSA",
+  "email": "fredegno@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(11) 9658-67137",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 366.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "9626",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 17:40:55",
+      "data_hora_confirmacao": "2024-04-08 10:12:31",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:12:25",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 11.3,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.28,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10105",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-16 12:35:51",
+      "data_hora_confirmacao": "2024-04-16 14:38:24",
+      "data_hora_confirmacao_pagamento": "2024-04-16 14:38:18",
+      "valor_total_produtos": 154.95,
+      "valor_frete": 16.4,
+      "frete": "SEDEX",
+      "valor_total_pedido": 171.35,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12807",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-29 10:39:08",
+      "data_hora_confirmacao": "2024-05-29 18:32:10",
+      "data_hora_confirmacao_pagamento": "2024-05-29 18:32:02",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 13.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.69,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18881": {
+      "codigo": "18881",
+      "titulo": "Camiseta Genuina 40.1 LUXO PRADA arte em patch emborrachado  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "18936": {
+      "codigo": "18936",
+      "titulo": "Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "19032": {
+      "codigo": "19032",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.141GG": {
+      "codigo": "CD02.141GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: VERMELHA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD02.127GG": {
+      "codigo": "CD02.127GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Preto - Marca: MCD - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD02.144GG": {
+      "codigo": "CD02.144GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: PRETA - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "2"
+    }
+  }
+}

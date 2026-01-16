@@ -1,0 +1,45 @@
+{
+  "codigo": "11655",
+  "nome": "RICARDO NASCIMENTTO",
+  "email": "Nasci.rick729@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/06/2024",
+  "whatsapp": "(19) 99669-4389",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 37.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "14687",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-28 13:06:24",
+      "data_hora_confirmacao": "2024-06-28 13:06:37",
+      "data_hora_confirmacao_pagamento": "2024-06-28 13:08:16",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22527": {
+      "codigo": "22527",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

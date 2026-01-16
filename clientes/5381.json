@@ -1,0 +1,80 @@
+{
+  "codigo": "5381",
+  "nome": "WILLIAN SANTOS DA SILVA",
+  "email": "ws4393728@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/01/2024",
+  "whatsapp": "(11) 94298-5083",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 200.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "6592",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-17 00:06:01",
+      "data_hora_confirmacao": "2024-01-17 09:49:09",
+      "data_hora_confirmacao_pagamento": "2024-01-17 09:49:53",
+      "valor_total_produtos": 125.98,
+      "valor_frete": 11.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 137.7,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6608",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-17 13:30:49",
+      "data_hora_confirmacao": "2024-01-17 13:31:52",
+      "data_hora_confirmacao_pagamento": "2024-01-17 13:32:06",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 62.99,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.52Romeu": {
+      "codigo": "CD32.52Romeu",
+      "titulo": "Óculos  Romeu 2 - Dourado 24k  LT20.10  - Cor da Armação: Prata c/Chumbo - Cor da Lente: Dourada 24k - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.27": {
+      "codigo": "CD61.27",
+      "titulo": "Óculos  Juliet - PRETO  - Cor da Armação: Preto - Cor da Lente: Preta - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD61.8": {
+      "codigo": "CD61.8",
+      "titulo": "Óculos  Juliet - VERMELHO C/LARANJA  LT27.11  - Cor da Armação: Prata c/Chumbo - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

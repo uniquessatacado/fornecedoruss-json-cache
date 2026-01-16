@@ -1,0 +1,53 @@
+{
+  "codigo": "7091",
+  "nome": "GABRIEL MARTINS",
+  "email": "gabrielm_carvalho@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "20/03/2024",
+  "whatsapp": "(41) 99584-6826",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 78.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "18715",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 18:55:05",
+      "data_hora_confirmacao": "2024-08-16 16:21:13",
+      "data_hora_confirmacao_pagamento": "2024-08-16 16:21:08",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 14.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 78.09,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27632": {
+      "codigo": "27632",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em termogel - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27635": {
+      "codigo": "27635",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em termogel - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

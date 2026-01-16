@@ -1,0 +1,53 @@
+{
+  "codigo": "1256",
+  "nome": "ALEXANDRE INAGAQUI",
+  "email": "ale.roath@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "18/08/2023",
+  "whatsapp": "(11) 99468-9451",
+  "cidade": "Embu-Guaçu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 208.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "3593",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-24 23:59:25",
+      "data_hora_confirmacao": "2023-11-27 08:59:41",
+      "data_hora_confirmacao_pagamento": "2023-11-27 08:59:50",
+      "valor_total_produtos": 195,
+      "valor_frete": 13.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 208.08,
+      "desconto": 0,
+      "cidade": "Embu-Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.58": {
+      "codigo": "CD16.58",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS   LT08.11  - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": 2
+    },
+    "CD16.34": {
+      "codigo": "CD16.34",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10  - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "4874",
+  "nome": "FELIPI CABRAL",
+  "email": "felipi.cabral@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(11) 95824-2947",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 159.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "5249",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-20 05:27:03",
+      "data_hora_confirmacao": "2023-12-20 17:48:58",
+      "data_hora_confirmacao_pagamento": "2023-12-20 17:49:09",
+      "valor_total_produtos": 147.54,
+      "valor_frete": 11.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159.35,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 80,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.24": {
+      "codigo": "CD67.24",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER  LT18.12    - Cor: Preto - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.49": {
+      "codigo": "CD24.49",
+      "titulo": "Cuecas Peruanas - GUCCI  LT13.12 - Cor: Vermelha - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD18.2": {
+      "codigo": "CD18.2",
+      "titulo": "Bermuda Drifit Ultra - Nike  LT19.12 - Cor: Bege - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Drifit Ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

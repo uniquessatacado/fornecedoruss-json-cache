@@ -1,0 +1,53 @@
+{
+  "codigo": "2227",
+  "nome": "KENEDY GUILHERME",
+  "email": "kensmithh98@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/09/2023",
+  "whatsapp": "(11) 94922-7043",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 73.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300117",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-17 11:13:02",
+      "data_hora_confirmacao": "2023-09-17 11:18:54",
+      "data_hora_confirmacao_pagamento": "2023-09-17 11:18:44",
+      "valor_total_produtos": 60,
+      "valor_frete": 13.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.37G": {
+      "codigo": "CD01.37G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Psg - Tamanho: G - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.4M": {
+      "codigo": "CD01.4M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: M - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

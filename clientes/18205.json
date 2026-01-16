@@ -1,0 +1,61 @@
+{
+  "codigo": "18205",
+  "nome": "JERCIVALDO ARAÚJO DE SANTANA",
+  "email": "jercivaldo.araujo@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2024",
+  "whatsapp": "(21) 96969-9597",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 166.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "26581",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 12:48:51",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-12-16 12:49:21",
+      "valor_total_produtos": 124.97,
+      "valor_frete": 41.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 166.17,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37054": {
+      "codigo": "37054",
+      "titulo": "Bermuda Microfibra Ultra (B02) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37768": {
+      "codigo": "37768",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C24) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37781": {
+      "codigo": "37781",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C27) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "15053",
+  "nome": "EDUARDO HENRIQUE BOAVENTURA DE OLIVEIRA",
+  "email": "dududueuxardo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(65) 9284-2881",
+  "cidade": "Cuiabá",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "20194",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 23:24:34",
+      "data_hora_confirmacao": "2024-09-03 12:04:44",
+      "data_hora_confirmacao_pagamento": "2024-09-03 12:04:38",
+      "valor_total_produtos": 83.98,
+      "valor_frete": 17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.98,
+      "desconto": 0,
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29017": {
+      "codigo": "29017",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29265": {
+      "codigo": "29265",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

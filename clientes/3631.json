@@ -1,0 +1,80 @@
+{
+  "codigo": "3631",
+  "nome": "CAIO HENRIQUE BRITO DE MORAES",
+  "email": "Caiomoraes01519@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/10/2023",
+  "whatsapp": "(19) 99375-1033",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 160,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302130",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-21 13:56:56",
+      "data_hora_confirmacao": "2023-10-23 17:37:03",
+      "data_hora_confirmacao_pagamento": "2023-10-23 17:37:19",
+      "valor_total_produtos": 130,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 140,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302172",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-23 17:47:49",
+      "data_hora_confirmacao": "2023-10-23 17:48:02",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 20,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 20,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.4M": {
+      "codigo": "CD29.4M",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD07.27G": {
+      "codigo": "CD07.27G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Moschino  - Cor: Preto - Marca: Moschinno - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD07.28G": {
+      "codigo": "CD07.28G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Fendi - Cor: Preto - Marca: Fendi - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "FENDI",
+      "quantidade": "1"
+    }
+  }
+}

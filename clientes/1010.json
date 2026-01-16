@@ -1,0 +1,104 @@
+{
+  "codigo": "1010",
+  "nome": "PEDRO LUIZ ALEXANDRE DOS SANTOS SANTOS",
+  "email": "pedrinhopedal@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(49) 99976-6838",
+  "cidade": "Monte Carlo",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 726.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301601",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 10:54:44",
+      "data_hora_confirmacao": "2023-10-13 11:07:19",
+      "data_hora_confirmacao_pagamento": "2023-10-13 11:07:12",
+      "valor_total_produtos": 627,
+      "valor_frete": 44.95,
+      "frete": "PAC",
+      "valor_total_pedido": 671.95,
+      "desconto": 0,
+      "cidade": "Monte Carlo",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301727",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-13 17:33:08",
+      "data_hora_confirmacao": "2023-10-13 17:34:21",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 21.18,
+      "frete": "PAC",
+      "valor_total_pedido": 54.18,
+      "desconto": 0,
+      "cidade": "Monte Carlo",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.32M": {
+      "codigo": "CD17.32M",
+      "titulo": "Bermuda Microfibra Ultra - Adidas - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "CD17.32G": {
+      "codigo": "CD17.32G",
+      "titulo": "Bermuda Microfibra Ultra - Adidas - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 4
+    },
+    "CD17.32GG": {
+      "codigo": "CD17.32GG",
+      "titulo": "Bermuda Microfibra Ultra - Adidas - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.34M": {
+      "codigo": "CD17.34M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.34G": {
+      "codigo": "CD17.34G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD17.33G": {
+      "codigo": "CD17.33G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "4027",
+  "nome": "LEONARDO SOUZA",
+  "email": "leosouza1000@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(19) 98145-9501",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42,
+  "pedidos": [
+    {
+      "codigo_pedido": "3042",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-10 22:43:13",
+      "data_hora_confirmacao": "2023-11-10 22:44:22",
+      "data_hora_confirmacao_pagamento": "2023-11-10 22:46:30",
+      "valor_total_produtos": 42,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 42,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD27.19": {
+      "codigo": "CD27.19",
+      "titulo": "Boné Super Premium - PRADA LT23.10 - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Super Premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "CD43.18": {
+      "codigo": "CD43.18",
+      "titulo": "Boné Premium - ARMANI  LT24.10    - Cor: Azul",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

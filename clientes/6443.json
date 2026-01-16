@@ -1,0 +1,69 @@
+{
+  "codigo": "6443",
+  "nome": "JONATHAS RIBEIRO GAMA",
+  "email": "jon5154@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(93) 99163-0258",
+  "cidade": "Santarém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 261.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "7777",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 13:33:59",
+      "data_hora_confirmacao": "2024-02-28 13:42:08",
+      "data_hora_confirmacao_pagamento": "2024-02-28 13:42:00",
+      "valor_total_produtos": 205.94,
+      "valor_frete": 55.59,
+      "frete": "PAC",
+      "valor_total_pedido": 261.53,
+      "desconto": 0,
+      "cidade": "Santarém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.5GG": {
+      "codigo": "CD04.5GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD04.4GG": {
+      "codigo": "CD04.4GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.4G": {
+      "codigo": "CD04.4G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.110GG": {
+      "codigo": "CD02.110GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Azul Bebê - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

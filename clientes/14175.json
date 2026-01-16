@@ -1,0 +1,72 @@
+{
+  "codigo": "14175",
+  "nome": "DIEGO SIQUEIRA",
+  "email": "diego.roberto.job@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(41) 98795-4253",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 133.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "26690",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-17 23:23:15",
+      "data_hora_confirmacao": "2024-12-17 23:24:24",
+      "data_hora_confirmacao_pagamento": "2024-12-17 23:24:24",
+      "valor_total_produtos": 61.99,
+      "valor_frete": 11.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.72,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27718",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-19 12:55:01",
+      "data_hora_confirmacao": "2025-01-19 12:55:55",
+      "data_hora_confirmacao_pagamento": "2025-01-19 12:55:55",
+      "valor_total_produtos": 48.33,
+      "valor_frete": 11.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 59.91,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33099": {
+      "codigo": "33099",
+      "titulo": "Oculos  Juliet 24k - ARMAÇÃO: 24K - PRATA+DOURADA  - COR DA LENTE: GOLD - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "40407": {
+      "codigo": "40407",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

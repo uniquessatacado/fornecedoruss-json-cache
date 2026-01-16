@@ -1,0 +1,112 @@
+{
+  "codigo": "11800",
+  "nome": "GUILHERME NASCIMENTO DA GAMA",
+  "email": "guilherme-gama2@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(48) 99861-3588",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 179.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "15216",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-05 12:53:59",
+      "data_hora_confirmacao": "2024-07-05 14:58:13",
+      "data_hora_confirmacao_pagamento": "2024-07-05 14:58:07",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 19.62,
+      "frete": "JADLOG",
+      "valor_total_pedido": 91.6,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17447",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-31 15:17:02",
+      "data_hora_confirmacao": "2024-07-31 15:48:42",
+      "data_hora_confirmacao_pagamento": "2024-07-31 15:48:30",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.93,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22825": {
+      "codigo": "22825",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22916": {
+      "codigo": "22916",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO LONGO - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "25362": {
+      "codigo": "25362",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "25365": {
+      "codigo": "25365",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "25387": {
+      "codigo": "25387",
+      "titulo": "Cuecas Peruanas - DOLCE & GABBANA  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "25418": {
+      "codigo": "25418",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25424": {
+      "codigo": "25424",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    }
+  }
+}

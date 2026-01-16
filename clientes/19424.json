@@ -1,0 +1,61 @@
+{
+  "codigo": "19424",
+  "nome": "GILSON FRANCISCO SILVA OLIVEIRA",
+  "email": "gilsonfsoliveira@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2025",
+  "whatsapp": "(71) 99353-6513",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "28418",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-27 15:10:48",
+      "data_hora_confirmacao": "2025-02-27 15:14:03",
+      "data_hora_confirmacao_pagamento": "2025-02-27 15:14:03",
+      "valor_total_produtos": 101.25,
+      "valor_frete": 23.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.99,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40972": {
+      "codigo": "40972",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C601) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "41092": {
+      "codigo": "41092",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C293) - Cor: PRETO BRANCO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42118": {
+      "codigo": "42118",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C553) - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

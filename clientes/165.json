@@ -1,0 +1,53 @@
+{
+  "codigo": "165",
+  "nome": "MARCELO EDUARDO",
+  "email": "marcelo10.nascimento660@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(65) 99346-5661",
+  "cidade": "Acorizal",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "5784",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-23 20:57:04",
+      "data_hora_confirmacao": "2023-12-26 11:57:32",
+      "data_hora_confirmacao_pagamento": "2023-12-26 11:57:41",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 22.42,
+      "frete": "PAC",
+      "valor_total_pedido": 127.39,
+      "desconto": 0,
+      "cidade": "Acorizal",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.56": {
+      "codigo": "CD17.56",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto com Vermelho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

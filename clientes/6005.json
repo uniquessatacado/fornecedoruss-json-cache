@@ -1,0 +1,45 @@
+{
+  "codigo": "6005",
+  "nome": "THIAGO TEIXEIRA B GOMES",
+  "email": "t.bitencourt22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(27) 99720-9498",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 44.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "7087",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 15:36:59",
+      "data_hora_confirmacao": "2024-02-05 15:12:27",
+      "data_hora_confirmacao_pagamento": "2024-02-05 15:12:17",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 13.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 44.89,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Cinza - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "6702",
+  "nome": "JOÃO LUCA",
+  "email": "nivaldodasilva403@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/03/2024",
+  "whatsapp": "(43) 99997-5409",
+  "cidade": "Londrina",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 101.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "8126",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 12:33:13",
+      "data_hora_confirmacao": "2024-03-09 11:33:46",
+      "data_hora_confirmacao_pagamento": "2024-03-09 11:33:41",
+      "valor_total_produtos": 89,
+      "valor_frete": 12.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 101.08,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA62": {
+      "codigo": "PA62",
+      "titulo": "CORRENTE ESCAMA 3,5MM 70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

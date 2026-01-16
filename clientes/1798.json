@@ -1,0 +1,53 @@
+{
+  "codigo": "1798",
+  "nome": "JONATAS PIMENTA",
+  "email": "jonatas.pimenta@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "27/08/2023",
+  "whatsapp": "(55) 19981-5200",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "13283",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-07 11:45:59",
+      "data_hora_confirmacao": "2024-06-07 11:55:02",
+      "data_hora_confirmacao_pagamento": "2024-06-07 13:10:12",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 109.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20392": {
+      "codigo": "20392",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20401": {
+      "codigo": "20401",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

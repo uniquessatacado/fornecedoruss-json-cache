@@ -1,0 +1,53 @@
+{
+  "codigo": "2602",
+  "nome": "GABRIEL BONINI DE SOUSA",
+  "email": "gboninivendas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(11) 98409-4129",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.04,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300472",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 12:55:59",
+      "data_hora_confirmacao": "2023-09-22 14:14:47",
+      "data_hora_confirmacao_pagamento": "2023-09-22 14:14:32",
+      "valor_total_produtos": 104,
+      "valor_frete": 14.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 118.04,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD33.6GG": {
+      "codigo": "CD33.6GG",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste   - Cor: Cinza - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD33.4GG": {
+      "codigo": "CD33.4GG",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

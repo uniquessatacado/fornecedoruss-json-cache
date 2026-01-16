@@ -1,0 +1,77 @@
+{
+  "codigo": "9182",
+  "nome": "ANTONIO PERÁCIO",
+  "email": "antoniojuniorp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/05/2024",
+  "whatsapp": "(71) 98186-7550",
+  "cidade": "Camaçari",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 230.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "13689",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 17:18:07",
+      "data_hora_confirmacao": "2024-06-14 18:36:27",
+      "data_hora_confirmacao_pagamento": "2024-06-14 18:36:36",
+      "valor_total_produtos": 174.71,
+      "valor_frete": 55.51,
+      "frete": "SEDEX",
+      "valor_total_pedido": 230.22,
+      "desconto": 0,
+      "cidade": "Camaçari",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20200": {
+      "codigo": "20200",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA QUIKSILVER - Cor: Kit Preto-Branco-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "20201": {
+      "codigo": "20201",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: Kit Preto-Branco-Cinza - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "21533": {
+      "codigo": "21533",
+      "titulo": "Camisetas Suedine Ultra - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21668": {
+      "codigo": "21668",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21698": {
+      "codigo": "21698",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

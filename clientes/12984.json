@@ -1,0 +1,61 @@
+{
+  "codigo": "12984",
+  "nome": "MARCOS PAULO DE OLIVEIRA COSTA",
+  "email": "marquimhp88@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "24/07/2024",
+  "whatsapp": "(31) 9950-64103",
+  "cidade": "Sete Lagoas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "16846",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-24 10:24:00",
+      "data_hora_confirmacao": "2024-07-24 17:43:20",
+      "data_hora_confirmacao_pagamento": "2024-07-24 17:43:14",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 19.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.57,
+      "desconto": 0,
+      "cidade": "Sete Lagoas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22895": {
+      "codigo": "22895",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA NIKE- CANO CURTO  - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23891": {
+      "codigo": "23891",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em bordado - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "24766": {
+      "codigo": "24766",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA TOMMY  - Cor: KIT Preto-Vermelho-Branco - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "11282",
+  "nome": "VAGNER LIMA DE OLIVEIRA",
+  "email": "vagnerlima410@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(21) 97039-5146",
+  "cidade": "Nilópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 152.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "32346",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-28 10:30:42",
+      "data_hora_confirmacao": "2025-11-28 10:32:16",
+      "data_hora_confirmacao_pagamento": "2025-11-28 10:32:16",
+      "valor_total_produtos": 138,
+      "valor_frete": 14.89,
+      "frete": "LOGGI",
+      "valor_total_pedido": 152.89,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55043": {
+      "codigo": "55043",
+      "titulo": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55145": {
+      "codigo": "55145",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "55188": {
+      "codigo": "55188",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55763": {
+      "codigo": "55763",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55768": {
+      "codigo": "55768",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

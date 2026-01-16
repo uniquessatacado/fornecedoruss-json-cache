@@ -1,0 +1,45 @@
+{
+  "codigo": "17111",
+  "nome": "CESAR CONDE",
+  "email": "cesarguilhermeconde@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/11/2024",
+  "whatsapp": "(11) 93012-7849",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 54.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "23842",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-06 17:25:17",
+      "data_hora_confirmacao": "2024-11-06 17:27:32",
+      "data_hora_confirmacao_pagamento": "2024-11-06 17:27:32",
+      "valor_total_produtos": 41.99,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.76,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33556": {
+      "codigo": "33556",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte COMPOSTA - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

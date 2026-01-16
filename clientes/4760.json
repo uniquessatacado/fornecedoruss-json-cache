@@ -1,0 +1,96 @@
+{
+  "codigo": "4760",
+  "nome": "THIAGO ROBERTO FROIS",
+  "email": "thiago_roberto_frois@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/12/2023",
+  "whatsapp": "(19) 98838-5655",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 452.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "4825",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-15 12:31:09",
+      "data_hora_confirmacao": "2023-12-16 07:43:48",
+      "data_hora_confirmacao_pagamento": "2023-12-16 07:44:06",
+      "valor_total_produtos": 189,
+      "valor_frete": 11.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 200.14,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "5101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 19:50:39",
+      "data_hora_confirmacao": "2023-12-20 08:12:57",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:13:09",
+      "valor_total_produtos": 251.96,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 251.96,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD56.5": {
+      "codigo": "CD56.5",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - CORINTHIANS  LT14.11 - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD67.20": {
+      "codigo": "CD67.20",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER   LT18.12 - Cor: Preto com Azul - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.24": {
+      "codigo": "CD67.24",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER  LT18.12    - Cor: Preto - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.53": {
+      "codigo": "CD17.53",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.52": {
+      "codigo": "CD17.52",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "codigo": "3560",
+  "nome": "JOAO PEDRO",
+  "email": "joaopedromoura@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(54) 99959-2315",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 392.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "4098",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 12:56:43",
+      "data_hora_confirmacao": "2023-12-06 15:52:50",
+      "data_hora_confirmacao_pagamento": "2023-12-06 15:53:03",
+      "valor_total_produtos": 59.5,
+      "valor_frete": 17.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.05,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25871",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 00:12:38",
+      "data_hora_confirmacao": "2024-12-07 00:14:37",
+      "data_hora_confirmacao_pagamento": "2024-12-07 00:14:37",
+      "valor_total_produtos": 61.99,
+      "valor_frete": 13.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.71,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26882",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 11:46:05",
+      "data_hora_confirmacao": "2024-12-20 11:50:29",
+      "data_hora_confirmacao_pagamento": "2024-12-20 11:50:29",
+      "valor_total_produtos": 217.06,
+      "valor_frete": 22.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 239.26,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "8094": {
+      "codigo": "8094",
+      "titulo": "Óculos  Penny - ROXO  LT27.11 - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: PRETA",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "38342": {
+      "codigo": "38342",
+      "titulo": "Bermuda Microfibra Ultra (C124) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38410": {
+      "codigo": "38410",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38413": {
+      "codigo": "38413",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38520": {
+      "codigo": "38520",
+      "titulo": "Camiseta Suedine ultra -(C129) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38569": {
+      "codigo": "38569",
+      "titulo": "Camiseta Suedine ultra -(C131) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.45": {
+      "codigo": "CD24.45",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT06.12 - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Vermelha - Marca: Versace - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 3
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

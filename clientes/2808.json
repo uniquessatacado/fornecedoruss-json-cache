@@ -1,0 +1,53 @@
+{
+  "codigo": "2808",
+  "nome": "PABLO JUNIO MEIRELES",
+  "email": "pablojuniomeireles@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(16) 98869-2328",
+  "cidade": "Sertãozinho",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 73.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "4267",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 11:07:43",
+      "data_hora_confirmacao": "2023-12-08 11:11:55",
+      "data_hora_confirmacao_pagamento": "2023-12-08 11:12:18",
+      "valor_total_produtos": 55,
+      "valor_frete": 18.84,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.84,
+      "desconto": 0,
+      "cidade": "Sertãozinho",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43GG": {
+      "codigo": "CD01.43GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: GG - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.97": {
+      "codigo": "CD01.97",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -PSG   LT04.12  - Tamanho: GG - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

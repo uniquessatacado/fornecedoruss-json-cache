@@ -1,0 +1,85 @@
+{
+  "codigo": "4354",
+  "nome": "AGNALDO FABIANO DA SILVA ESILVA",
+  "email": "agnaldofabiano10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2023",
+  "whatsapp": "(16) 9818-56982",
+  "cidade": "Ibaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 335.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "5453",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-21 11:04:35",
+      "data_hora_confirmacao": "2023-12-21 12:14:15",
+      "data_hora_confirmacao_pagamento": "2023-12-21 12:14:24",
+      "valor_total_produtos": 309.92,
+      "valor_frete": 25.92,
+      "frete": "SEDEX",
+      "valor_total_pedido": 335.84,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD69.10": {
+      "codigo": "CD69.10",
+      "titulo": "CAMISETA EGIPICIA COTTON - LOUIS VUITTON  LT20.12  - Cor: Preto - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD69.11": {
+      "codigo": "CD69.11",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12   - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.2": {
+      "codigo": "CD69.2",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD14.10": {
+      "codigo": "CD14.10",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT06.12 - Cor: Cinza Claro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.55": {
+      "codigo": "CD17.55",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT19.12  - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto C/ Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

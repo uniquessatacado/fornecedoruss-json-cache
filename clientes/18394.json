@@ -1,0 +1,61 @@
+{
+  "codigo": "18394",
+  "nome": "GUSTAVO RYAN SANTOS DE ALMEIDA",
+  "email": "gryansantos7@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/12/2024",
+  "whatsapp": "(19) 98183-3865",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "26508",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-15 15:25:59",
+      "data_hora_confirmacao": "2024-12-15 15:27:55",
+      "data_hora_confirmacao_pagamento": "2024-12-15 15:27:55",
+      "valor_total_produtos": 106.9,
+      "valor_frete": 13.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.25,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "34027": {
+      "codigo": "34027",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "37124": {
+      "codigo": "37124",
+      "titulo": "Bermuda Microfibra Ultra  (B01) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37485": {
+      "codigo": "37485",
+      "titulo": "Camiseta fio 30.1 penteada arte silk (C07) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

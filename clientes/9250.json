@@ -1,0 +1,72 @@
+{
+  "codigo": "9250",
+  "nome": "DAVI FELIPE GARCIA PACHECO",
+  "email": "festzx7@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(19) 9912-39965",
+  "cidade": "Tambaú",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 48.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "11694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 22:55:21",
+      "data_hora_confirmacao": "2024-05-11 12:08:57",
+      "data_hora_confirmacao_pagamento": "2024-05-11 12:08:52",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 19.92,
+      "desconto": 0,
+      "cidade": "Tambaú",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14394",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-23 15:00:17",
+      "data_hora_confirmacao": "2024-06-24 16:10:32",
+      "data_hora_confirmacao_pagamento": "2024-06-24 16:10:23",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 28.92,
+      "desconto": 0,
+      "cidade": "Tambaú",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19828": {
+      "codigo": "19828",
+      "titulo": "Boné Super Premium - NIKE  - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.22M": {
+      "codigo": "CD24.22M",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

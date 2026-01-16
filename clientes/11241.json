@@ -1,0 +1,53 @@
+{
+  "codigo": "11241",
+  "nome": "BRUNO RAFAEL HAAG DA SILVA",
+  "email": "brunohaag4@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(51) 99810-8060",
+  "cidade": "Novo Hamburgo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "14176",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 11:55:42",
+      "data_hora_confirmacao": "2024-06-21 12:17:20",
+      "data_hora_confirmacao_pagamento": "2024-06-21 12:17:11",
+      "valor_total_produtos": 43.98,
+      "valor_frete": 21.92,
+      "frete": "PAC",
+      "valor_total_pedido": 65.9,
+      "desconto": 0,
+      "cidade": "Novo Hamburgo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21742": {
+      "codigo": "21742",
+      "titulo": "CAMISETAS ULTRA DRY - Cor: BRANCA - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21743": {
+      "codigo": "21743",
+      "titulo": "CAMISETAS ULTRA DRY - Cor: PRETA - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    }
+  }
+}

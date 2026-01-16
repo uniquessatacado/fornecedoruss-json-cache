@@ -1,0 +1,85 @@
+{
+  "codigo": "1028",
+  "nome": "EVANDRO DIAS",
+  "email": "diasevandro92@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(19) 99838-6703",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 209.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302070",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-20 14:20:26",
+      "data_hora_confirmacao": "2023-10-20 16:03:41",
+      "data_hora_confirmacao_pagamento": "2023-10-20 16:03:31",
+      "valor_total_produtos": 199.9,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 209.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Azul",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD32.29Juliet": {
+      "codigo": "CD32.29Juliet",
+      "titulo": "Óculos  Juliet - Preto  LT20.10 - Cor da Armação: Preto - Cor da Lente: Preta - Kit Borracha: Vermelha - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD24.31M - CALVIN KLEIN": {
+      "codigo": "CD24.31M - CALVIN KLEIN",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Azul Marinho - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.32M - Hugo Boss": {
+      "codigo": "CD24.32M - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Hugo Boss  LT19.10 - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD41.8M": {
+      "codigo": "CD41.8M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT19.10    - Cor: Azul e Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD41.6M": {
+      "codigo": "CD41.6M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - MIZUNO LT19.10   - Cor: Preto com Vermelho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

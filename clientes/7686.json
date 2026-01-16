@@ -1,0 +1,61 @@
+{
+  "codigo": "7686",
+  "nome": "OCTAVIO FERREIRA DE OLIVEIRA",
+  "email": "octavio.ferreira2806@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(16) 99136-5866",
+  "cidade": "Cravinhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 139.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "9616",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 16:31:03",
+      "data_hora_confirmacao": "2024-04-08 10:39:59",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:39:52",
+      "valor_total_produtos": 123.96,
+      "valor_frete": 15.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.6,
+      "desconto": 0,
+      "cidade": "Cravinhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.141G": {
+      "codigo": "CD02.141G",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.127GG": {
+      "codigo": "CD02.127GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - MCD - Cor: Bege - Marca: MCD - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD02.138G": {
+      "codigo": "CD02.138G",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: PRETA - Marca: Puma - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    }
+  }
+}

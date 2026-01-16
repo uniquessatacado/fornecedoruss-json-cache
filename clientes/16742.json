@@ -1,0 +1,61 @@
+{
+  "codigo": "16742",
+  "nome": "FERNANDO VALLE GARCIA",
+  "email": "fgvalle@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "21/10/2024",
+  "whatsapp": "(11) 9768-08622",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 226.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "23113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-21 14:06:50",
+      "data_hora_confirmacao": "2024-10-22 18:03:30",
+      "data_hora_confirmacao_pagamento": "2024-10-22 18:03:24",
+      "valor_total_produtos": 209.77,
+      "valor_frete": 16.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 226.37,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24171": {
+      "codigo": "24171",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30681": {
+      "codigo": "30681",
+      "titulo": "Chinelo NIKE AIR MAX CIRRO  - COR CHINELO: VERMELHO/PRETO - Marca: Nike - MODELO CHINELO: AIR MAX CIRRO - TAMANHO CHINELO: 42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30687": {
+      "codigo": "30687",
+      "titulo": "Chinelo NIKE AIR MAX CIRRO  - COR CHINELO: AZUL MARINHO/CINZA - Marca: Nike - MODELO CHINELO: AIR MAX CIRRO - TAMANHO CHINELO: 41",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

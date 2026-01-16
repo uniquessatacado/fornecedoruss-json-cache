@@ -1,0 +1,281 @@
+{
+  "codigo": "2231",
+  "nome": "GABRIEL LUCAS",
+  "email": "gabriellucas19412@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/09/2023",
+  "whatsapp": "(67) 98442-4414",
+  "cidade": "Bandeirantes",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 676.9300000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300121",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-17 17:08:01",
+      "data_hora_confirmacao": "2023-09-17 18:33:38",
+      "data_hora_confirmacao_pagamento": "2023-09-17 18:33:27",
+      "valor_total_produtos": 103.5,
+      "valor_frete": 31.22,
+      "frete": "PAC",
+      "valor_total_pedido": 134.72,
+      "desconto": 0,
+      "cidade": "Bandeirantes",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301028",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-30 02:55:59",
+      "data_hora_confirmacao": "2023-09-30 10:56:53",
+      "data_hora_confirmacao_pagamento": "2023-09-30 10:57:00",
+      "valor_total_produtos": 73.5,
+      "valor_frete": 18.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.41,
+      "desconto": 0,
+      "cidade": "Bandeirantes",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2282",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 00:24:15",
+      "data_hora_confirmacao": "2023-10-26 11:06:30",
+      "data_hora_confirmacao_pagamento": "2023-10-26 11:06:44",
+      "valor_total_produtos": 96,
+      "valor_frete": 20.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 116.98,
+      "desconto": 0,
+      "cidade": "Bandeirantes",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3375",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-19 19:04:32",
+      "data_hora_confirmacao": "2023-11-21 10:45:32",
+      "data_hora_confirmacao_pagamento": "2023-11-21 10:45:44",
+      "valor_total_produtos": 111.5,
+      "valor_frete": 25.36,
+      "frete": "PAC",
+      "valor_total_pedido": 136.86,
+      "desconto": 0,
+      "cidade": "Bandeirantes",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32130",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-19 23:31:24",
+      "data_hora_confirmacao": "2025-10-19 23:32:14",
+      "data_hora_confirmacao_pagamento": "2025-10-19 23:32:14",
+      "valor_total_produtos": 156.29,
+      "valor_frete": 39.67,
+      "frete": "PAC",
+      "valor_total_pedido": 195.96,
+      "desconto": 0,
+      "cidade": "Bandeirantes",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51961": {
+      "codigo": "51961",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55412": {
+      "codigo": "55412",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - Logo Bordado (LT061) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55420": {
+      "codigo": "55420",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - Logo Bordado (LT061) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55812": {
+      "codigo": "55812",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "2"
+    },
+    "55824": {
+      "codigo": "55824",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "3"
+    },
+    "CD01.11M": {
+      "codigo": "CD01.11M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Santos - Tamanho: M - Times : Santos",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.2M": {
+      "codigo": "CD17.2M",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.11M - Tommy": {
+      "codigo": "CD24.11M - Tommy",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD02.15G": {
+      "codigo": "CD02.15G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Boss (Termogel) - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.37M": {
+      "codigo": "CD01.37M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Psg - Tamanho: M - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.12": {
+      "codigo": "CD43.12",
+      "titulo": "Boné Premium - HUGO BOSS  LT24.10   - Cor: Vermelha",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD43.7": {
+      "codigo": "CD43.7",
+      "titulo": "Boné Premium - LACOSTE  LT24.10  - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.36M": {
+      "codigo": "CD02.36M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE LT18.10 - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.31M": {
+      "codigo": "CD01.31M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Argentina - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.40": {
+      "codigo": "CD24.40",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT17.11 - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD43.18": {
+      "codigo": "CD43.18",
+      "titulo": "Boné Premium - ARMANI  LT24.10    - Cor: Branca",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": 2
+    },
+    "CD01.74": {
+      "codigo": "CD01.74",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11    - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.86": {
+      "codigo": "CD01.86",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL   LT10.11   - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD24.41": {
+      "codigo": "CD24.41",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT17.11 - Cor: Cinza - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

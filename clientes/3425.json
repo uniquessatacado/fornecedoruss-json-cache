@@ -1,0 +1,96 @@
+{
+  "codigo": "3425",
+  "nome": "ANDRÉ RIBEIRO",
+  "email": "atytude.andresilva63@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(11) 94878-0388",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 95.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301586",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 01:19:58",
+      "data_hora_confirmacao": "2023-10-11 12:23:28",
+      "data_hora_confirmacao_pagamento": "2023-10-11 12:23:35",
+      "valor_total_produtos": 34,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 42.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2762",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 10:36:16",
+      "data_hora_confirmacao": "2023-11-07 11:11:25",
+      "data_hora_confirmacao_pagamento": "2023-11-07 11:11:39",
+      "valor_total_produtos": 42.5,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 53.24,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.26M - Boss": {
+      "codigo": "CD24.26M - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.23M - Burberry": {
+      "codigo": "CD24.23M - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "2"
+    },
+    "CD24.11M - Tommy": {
+      "codigo": "CD24.11M - Tommy",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Branca - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD24.35M - HUGO BOSS": {
+      "codigo": "CD24.35M - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Vermelha - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    }
+  }
+}

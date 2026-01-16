@@ -1,0 +1,107 @@
+{
+  "codigo": "7473",
+  "nome": "MÁRCIO CARDOSO",
+  "email": "marcio.card@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(11) 9737-33401",
+  "cidade": "Ribeirão Pires",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 211.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "9275",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 21:50:43",
+      "data_hora_confirmacao": "2024-04-03 10:32:46",
+      "data_hora_confirmacao_pagamento": "2024-04-03 10:32:42",
+      "valor_total_produtos": 51.98,
+      "valor_frete": 10.66,
+      "frete": "SEDEX",
+      "valor_total_pedido": 62.64,
+      "desconto": 0,
+      "cidade": "Ribeirão Pires",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15648",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-11 13:21:42",
+      "data_hora_confirmacao": "2024-07-11 15:29:59",
+      "data_hora_confirmacao_pagamento": "2024-07-11 15:29:54",
+      "valor_total_produtos": 49.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.92,
+      "desconto": 0,
+      "cidade": "Ribeirão Pires",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29602",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-02 18:14:17",
+      "data_hora_confirmacao": "2025-05-02 18:28:16",
+      "data_hora_confirmacao_pagamento": "2025-05-02 18:28:16",
+      "valor_total_produtos": 75,
+      "valor_frete": 14.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.37,
+      "desconto": 0,
+      "cidade": "Ribeirão Pires",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24181": {
+      "codigo": "24181",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45965": {
+      "codigo": "45965",
+      "titulo": " Camiseta Ultra Dry LT52A (C950) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45988": {
+      "codigo": "45988",
+      "titulo": "Camiseta Ultra Dry LT52A (C947) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD51.1M": {
+      "codigo": "CD51.1M",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

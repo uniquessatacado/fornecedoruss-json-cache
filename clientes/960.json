@@ -1,0 +1,99 @@
+{
+  "codigo": "960",
+  "nome": "WASHINGTON BONIFACIO",
+  "email": "w.bonifacio.teixeira@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(19) 99518-8317",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 109.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "8276",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-12 11:47:05",
+      "data_hora_confirmacao": "2024-03-12 12:02:40",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:10:58",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 39.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10755",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-26 07:38:50",
+      "data_hora_confirmacao": "2024-04-26 17:40:41",
+      "data_hora_confirmacao_pagamento": "2024-04-29 12:35:01",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21686",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-24 15:06:58",
+      "data_hora_confirmacao": "2024-09-24 17:33:05",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 31.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 31.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27573": {
+      "codigo": "27573",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte bordada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD31G": {
+      "codigo": "CD31G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD50.13G": {
+      "codigo": "CD50.13G",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN NEW YORK - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

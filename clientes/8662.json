@@ -1,0 +1,61 @@
+{
+  "codigo": "8662",
+  "nome": "ANDRÉ MARTINS",
+  "email": "a.grassitelli30@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(16) 98148-5721",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "10749",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-26 07:26:25",
+      "data_hora_confirmacao": "2024-04-29 16:42:31",
+      "data_hora_confirmacao_pagamento": "2024-04-29 16:42:24",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 16.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 130.26,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.147G": {
+      "codigo": "CD02.147G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: OFFWHITE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.143G": {
+      "codigo": "CD02.143G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: MARROM - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.01G": {
+      "codigo": "CD50.01G",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - EMPORIO ARMANI - Cor: PRETA - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

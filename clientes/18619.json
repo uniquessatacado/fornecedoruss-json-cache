@@ -1,0 +1,80 @@
+{
+  "codigo": "18619",
+  "nome": "JOÃO PEDRO FRANCATO",
+  "email": "jpfran29@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2024",
+  "whatsapp": "(19) 99880-0556",
+  "cidade": "Mogi Guaçu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 171.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "27085",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-22 15:50:15",
+      "data_hora_confirmacao": "2024-12-22 15:50:59",
+      "data_hora_confirmacao_pagamento": "2024-12-22 15:50:59",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 145.03,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27449",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-07 20:08:22",
+      "data_hora_confirmacao": "2025-01-07 20:09:18",
+      "data_hora_confirmacao_pagamento": "2025-01-07 20:09:18",
+      "valor_total_produtos": 13.33,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 26.1,
+      "desconto": 0,
+      "cidade": "Mogi Guaçu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20791": {
+      "codigo": "20791",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica)  - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22455": {
+      "codigo": "22455",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INTER MILAN - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "37857": {
+      "codigo": "37857",
+      "titulo": "MEIAS PERUANAS (C65) - Marca: Nike - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

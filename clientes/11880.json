@@ -1,0 +1,88 @@
+{
+  "codigo": "11880",
+  "nome": "EDSON TAVARES DA SILVA",
+  "email": "edson.tavaresvendas1@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/07/2024",
+  "whatsapp": "(11) 9560-79291",
+  "cidade": "Itu",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 147.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "15063",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-03 18:30:47",
+      "data_hora_confirmacao": "2024-07-04 09:27:49",
+      "data_hora_confirmacao_pagamento": "2024-07-04 09:27:44",
+      "valor_total_produtos": 84.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 84.99,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17762",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-03 11:07:02",
+      "data_hora_confirmacao": "2024-08-05 10:46:30",
+      "data_hora_confirmacao_pagamento": "2024-08-05 10:46:23",
+      "valor_total_produtos": 62.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.98,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "829": {
+      "codigo": "829",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "18113": {
+      "codigo": "18113",
+      "titulo": "CAIXA DE SOM BLUETOOTH MINI - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "CAIXAS DE SOM",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "23305": {
+      "codigo": "23305",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "26167": {
+      "codigo": "26167",
+      "titulo": "Camiseta Egípcia Luxo - HUGO BOSS arte em aplique  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA EGÍPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

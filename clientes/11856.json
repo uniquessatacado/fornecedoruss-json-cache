@@ -1,0 +1,61 @@
+{
+  "codigo": "11856",
+  "nome": "JULIO CEZAR MARQUES FERREIRA",
+  "email": "marquesjulio82@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/07/2024",
+  "whatsapp": "(61) 99322-8360",
+  "cidade": "Águas Lindas de Goiás",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 158.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "15014",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 08:28:36",
+      "data_hora_confirmacao": "2024-07-03 09:28:30",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:28:18",
+      "valor_total_produtos": 133.97,
+      "valor_frete": 24.63,
+      "frete": "PAC",
+      "valor_total_pedido": 158.6,
+      "desconto": 0,
+      "cidade": "Águas Lindas de Goiás",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18071": {
+      "codigo": "18071",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  NIKE FRENTE E COSTAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23356": {
+      "codigo": "23356",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23381": {
+      "codigo": "23381",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

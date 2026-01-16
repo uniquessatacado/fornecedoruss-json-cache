@@ -1,0 +1,283 @@
+{
+  "codigo": "2860",
+  "nome": "GABRIEL DA SILVA JONER",
+  "email": "jonergabriel.gj@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(51) 98958-6516",
+  "cidade": "Viamão",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1051.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 22:29:07",
+      "data_hora_confirmacao": "2023-09-26 16:39:49",
+      "data_hora_confirmacao_pagamento": "2023-09-26 16:39:44",
+      "valor_total_produtos": 412.5,
+      "valor_frete": 65.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 477.59,
+      "desconto": 0,
+      "cidade": "Viamão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300875",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 21:09:19",
+      "data_hora_confirmacao": "2023-09-29 11:31:18",
+      "data_hora_confirmacao_pagamento": "2023-09-29 11:31:26",
+      "valor_total_produtos": 226,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 226,
+      "desconto": 0,
+      "cidade": "Viamão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302131",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-21 13:58:26",
+      "data_hora_confirmacao": "2023-10-23 09:56:00",
+      "data_hora_confirmacao_pagamento": "2023-10-23 09:56:08",
+      "valor_total_produtos": 303,
+      "valor_frete": 44.5,
+      "frete": "SEDEX",
+      "valor_total_pedido": 347.5,
+      "desconto": 0,
+      "cidade": "Viamão",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD11.4M": {
+      "codigo": "CD11.4M",
+      "titulo": "Camiseta 30.1 com Elastano  - Lacoste - Cor: Azul - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.24GG": {
+      "codigo": "CD02.24GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: OffWhite - Marca: High - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": 2
+    },
+    "CD02.24M": {
+      "codigo": "CD02.24M",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: Preto - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.24G": {
+      "codigo": "CD02.24G",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: Preto - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Azul Marinho - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.1M - Boss": {
+      "codigo": "CD24.1M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.1G - Boss": {
+      "codigo": "CD24.1G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.9G - Hugo Boss": {
+      "codigo": "CD24.9G - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.10G - Lacoste": {
+      "codigo": "CD24.10G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.13GG - Lacoste": {
+      "codigo": "CD24.13GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.13G - Lacoste": {
+      "codigo": "CD24.13G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.14G - Lacoste": {
+      "codigo": "CD24.14G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.20G - Gucci": {
+      "codigo": "CD24.20G - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Preto e Vinho - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "Corta Vento Microfibra Premium - Nike - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.28G": {
+      "codigo": "CD17.28G",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD01.46G Al-hilal": {
+      "codigo": "CD01.46G Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: G - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD11.1P": {
+      "codigo": "CD11.1P",
+      "titulo": "Camiseta 30.1 com Elastano - Quiksilver - Cor: OffWhite - Marca: Quiksilver - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD29.5G": {
+      "codigo": "CD29.5G",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD29.5GG": {
+      "codigo": "CD29.5GG",
+      "titulo": "Bermuda Microfibra Premium - Gucci  LT17.10 - Cor: Verde - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "CD29.4GG": {
+      "codigo": "CD29.4GG",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Cinza Escuro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD29.4G": {
+      "codigo": "CD29.4G",
+      "titulo": "Bermuda Microfibra Premium - Hugo Boss  LT17.10 - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD17.35G": {
+      "codigo": "CD17.35G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD13.3G": {
+      "codigo": "CD13.3G",
+      "titulo": "Camiseta standard Fit 1:1 - OAKLEY  LT18.10 - Cor: Vermelho Mescla - Marca: Oakley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "OAKLEY",
+      "quantidade": 2
+    }
+  }
+}

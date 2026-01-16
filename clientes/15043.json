@@ -1,0 +1,69 @@
+{
+  "codigo": "15043",
+  "nome": "DIEGO HENRIQUE ESTEVAM MENDES",
+  "email": "mendesgh@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(31) 98609-9440",
+  "cidade": "João Monlevade",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 167.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "20394",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 10:24:30",
+      "data_hora_confirmacao": "2024-09-05 11:29:43",
+      "data_hora_confirmacao_pagamento": "2024-09-05 11:29:35",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 19.17,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.13,
+      "desconto": 0,
+      "cidade": "João Monlevade",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29297": {
+      "codigo": "29297",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29300": {
+      "codigo": "29300",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29316": {
+      "codigo": "29316",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29332": {
+      "codigo": "29332",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETO MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

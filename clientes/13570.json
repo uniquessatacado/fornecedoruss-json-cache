@@ -1,0 +1,53 @@
+{
+  "codigo": "13570",
+  "nome": "IVANILSON MOURA",
+  "email": "ivanilsonmoura073@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "05/08/2024",
+  "whatsapp": "(85) 9876-13205",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 101.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "18103",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-08 07:23:48",
+      "data_hora_confirmacao": "2024-08-08 10:34:33",
+      "data_hora_confirmacao_pagamento": "2024-08-08 10:34:26",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 21.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 101.06,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26442": {
+      "codigo": "26442",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26465": {
+      "codigo": "26465",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

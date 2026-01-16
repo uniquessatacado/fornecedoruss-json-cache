@@ -1,0 +1,53 @@
+{
+  "codigo": "8548",
+  "nome": "MURILO DOMINGUES",
+  "email": "murilodomingues31@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(13) 99670-3686",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "10654",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 19:03:08",
+      "data_hora_confirmacao": "2024-04-26 19:35:18",
+      "data_hora_confirmacao_pagamento": "2024-04-26 19:35:10",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 13.31,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.29,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "KT1.2G": {
+      "codigo": "KT1.2G",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

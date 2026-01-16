@@ -1,0 +1,53 @@
+{
+  "codigo": "9288",
+  "nome": "TARIK MORAES",
+  "email": "tarik.moraes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(62) 99272-9740",
+  "cidade": "Aparecida de Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "11678",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 18:55:41",
+      "data_hora_confirmacao": "2024-05-11 09:33:14",
+      "data_hora_confirmacao_pagamento": "2024-05-11 09:33:09",
+      "valor_total_produtos": 100.97,
+      "valor_frete": 23.8,
+      "frete": "JADLOG",
+      "valor_total_pedido": 124.77,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18251": {
+      "codigo": "18251",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18449": {
+      "codigo": "18449",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

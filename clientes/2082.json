@@ -1,0 +1,45 @@
+{
+  "codigo": "2082",
+  "nome": "JOÃO PEDRO CUBA",
+  "email": "jp3cuba@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/09/2023",
+  "whatsapp": "(21) 97498-7040",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "3591",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-24 22:33:54",
+      "data_hora_confirmacao": "2023-11-27 09:18:32",
+      "data_hora_confirmacao_pagamento": "2023-11-27 09:18:43",
+      "valor_total_produtos": 65,
+      "valor_frete": 14.95,
+      "frete": "JADLOG",
+      "valor_total_pedido": 79.95,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: P - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "19509",
+  "nome": "CAUA RUBENS RODRIGUES",
+  "email": "caua.rubens@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "10/03/2025",
+  "whatsapp": "(19) 99000-3226",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 141.56,
+  "pedidos": [
+    {
+      "codigo_pedido": "28622",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-03-10 16:17:28",
+      "data_hora_confirmacao": "2025-03-10 16:18:46",
+      "data_hora_confirmacao_pagamento": "2025-03-10 16:18:46",
+      "valor_total_produtos": 141.56,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 141.56,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41195": {
+      "codigo": "41195",
+      "titulo": "Oculos  - JULIET LT12A(C336) - ARMAÇÃO: X METAL - CHUMBO  - Kit Borracha: BRANCA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "41227": {
+      "codigo": "41227",
+      "titulo": "Oculos  - JULIET PENNY LT12A(C361) - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "OCULOS JULIET OAKLEY",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

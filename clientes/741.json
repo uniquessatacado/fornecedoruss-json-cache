@@ -1,0 +1,64 @@
+{
+  "codigo": "741",
+  "nome": "LUIZ GONZAGA FERREIRA",
+  "email": "luizfferreira1990@icloud.com",
+  "sexo": "3",
+  "data_cadastro": "03/08/2023",
+  "whatsapp": "(81) 99178-4517",
+  "cidade": "Pedras de Fogo",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 572.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "3044",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 23:39:33",
+      "data_hora_confirmacao": "2023-11-11 00:38:21",
+      "data_hora_confirmacao_pagamento": "2023-11-11 00:38:32",
+      "valor_total_produtos": 420,
+      "valor_frete": 47.74,
+      "frete": "PAC",
+      "valor_total_pedido": 467.74,
+      "desconto": 0,
+      "cidade": "Pedras de Fogo",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3119",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-14 13:02:32",
+      "data_hora_confirmacao": "2023-11-14 13:20:05",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 105,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 105,
+      "desconto": 0,
+      "cidade": "Pedras de Fogo",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.18": {
+      "codigo": "CD39.18",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11  - Cor: OffWhite - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 15
+    }
+  }
+}

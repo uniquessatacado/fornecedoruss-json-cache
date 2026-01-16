@@ -1,0 +1,72 @@
+{
+  "codigo": "11815",
+  "nome": "DIEGO MARADONA SCOZ",
+  "email": "maradonascoz@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(47) 98475-8757",
+  "cidade": "Blumenau",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 186.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "14946",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 16:39:33",
+      "data_hora_confirmacao": "2024-07-02 18:26:00",
+      "data_hora_confirmacao_pagamento": "2024-07-02 18:25:55",
+      "valor_total_produtos": 89.99,
+      "valor_frete": 15.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.75,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20846",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-11 08:44:18",
+      "data_hora_confirmacao": "2024-09-11 15:00:04",
+      "data_hora_confirmacao_pagamento": "2024-09-11 14:59:57",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 14.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.47,
+      "desconto": 0,
+      "cidade": "Blumenau",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20745": {
+      "codigo": "20745",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23300": {
+      "codigo": "23300",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS PRONTA ENTREGA) - Tamanho: M - Times : Corinthians - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

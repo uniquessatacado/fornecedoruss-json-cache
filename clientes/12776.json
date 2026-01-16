@@ -1,0 +1,61 @@
+{
+  "codigo": "12776",
+  "nome": "DEISON RODRIGUES LIMA",
+  "email": "limadeison89@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/07/2024",
+  "whatsapp": "(63) 99959-0240",
+  "cidade": "Miracema do Tocantins",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 265.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "16528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-20 12:12:38",
+      "data_hora_confirmacao": "2024-07-20 13:36:14",
+      "data_hora_confirmacao_pagamento": "2024-07-20 13:36:06",
+      "valor_total_produtos": 169.97,
+      "valor_frete": 95.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 265.33,
+      "desconto": 0,
+      "cidade": "Miracema do Tocantins",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22965": {
+      "codigo": "22965",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24181": {
+      "codigo": "24181",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24205": {
+      "codigo": "24205",
+      "titulo": "BLUSA MOLETOM 3 CABOS ULTRA - VERSACE - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS GOLA CARECA ",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

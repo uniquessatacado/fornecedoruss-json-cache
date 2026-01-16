@@ -1,0 +1,53 @@
+{
+  "codigo": "9028",
+  "nome": "HUDSON PATRICK CARVALHO SOUZA",
+  "email": "Hudson.patrick.c@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "04/05/2024",
+  "whatsapp": "(11) 9305-95366",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 156.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "11310",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-04 00:21:02",
+      "data_hora_confirmacao": "2024-05-04 11:49:03",
+      "data_hora_confirmacao_pagamento": "2024-05-04 11:48:50",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 12.87,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 156.83,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18096": {
+      "codigo": "18096",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - JORDAN - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "18099": {
+      "codigo": "18099",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - JORDAN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

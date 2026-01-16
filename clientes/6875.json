@@ -1,0 +1,53 @@
+{
+  "codigo": "6875",
+  "nome": "MARCELO DE ANDRADE MATIAS",
+  "email": "Marcelomatias2014@hotmail.com.br",
+  "sexo": "1",
+  "data_cadastro": "12/03/2024",
+  "whatsapp": "(16) 9814-17085",
+  "cidade": "Franca",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 131.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "8321",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 18:14:19",
+      "data_hora_confirmacao": "2024-03-13 14:20:26",
+      "data_hora_confirmacao_pagamento": "2024-03-13 14:20:21",
+      "valor_total_produtos": 108.72,
+      "valor_frete": 22.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 131.05,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.118M": {
+      "codigo": "CD02.118M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

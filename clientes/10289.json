@@ -1,0 +1,61 @@
+{
+  "codigo": "10289",
+  "nome": "ALAN CARLOS VIDOTI",
+  "email": "alanvidoti222@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2024",
+  "whatsapp": "(14) 9970-13632",
+  "cidade": "Tupã",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 96.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "13801",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 13:50:01",
+      "data_hora_confirmacao": "2024-06-15 13:59:28",
+      "data_hora_confirmacao_pagamento": "2024-06-15 13:59:22",
+      "valor_total_produtos": 78.97,
+      "valor_frete": 17.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.32,
+      "desconto": 0,
+      "cidade": "Tupã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18148": {
+      "codigo": "18148",
+      "titulo": "TECLADO GAMER LED RGB COM FIO - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "TECLADOS",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "19739": {
+      "codigo": "19739",
+      "titulo": "Boné Super Premium - NY YANKEES  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "21426": {
+      "codigo": "21426",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

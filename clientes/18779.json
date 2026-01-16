@@ -1,0 +1,45 @@
+{
+  "codigo": "18779",
+  "nome": "DAVI HENRIQUE",
+  "email": "davih4489@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/01/2025",
+  "whatsapp": "(31) 98240-6515",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "27376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-01 16:42:52",
+      "data_hora_confirmacao": "2025-01-01 16:45:53",
+      "data_hora_confirmacao_pagamento": "2025-01-01 16:45:53",
+      "valor_total_produtos": 55,
+      "valor_frete": 14.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.01,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38247": {
+      "codigo": "38247",
+      "titulo": "Corta Vento Microfibra ultra (C116) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

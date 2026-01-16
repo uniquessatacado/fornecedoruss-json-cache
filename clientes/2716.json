@@ -1,0 +1,53 @@
+{
+  "codigo": "2716",
+  "nome": "FLAVIO MENDES",
+  "email": "flaviomendessm26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(22) 98157-9319",
+  "cidade": "Macaé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 274,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301311",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 13:51:29",
+      "data_hora_confirmacao": "2023-10-05 13:58:34",
+      "data_hora_confirmacao_pagamento": "2023-10-05 13:58:29",
+      "valor_total_produtos": 256,
+      "valor_frete": 18,
+      "frete": "JADLOG",
+      "valor_total_pedido": 274,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.32M": {
+      "codigo": "CD02.32M",
+      "titulo": "Camiseta 40.1 Ultra Premium -Nike - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Cinza Escuro - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "codigo": "6021",
+  "nome": "DANIEL BUENO GOMIDES",
+  "email": "danielbueno588@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/02/2024",
+  "whatsapp": "(11) 91053-4163",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 332.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "7105",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-02 22:23:25",
+      "data_hora_confirmacao": "2024-02-03 10:35:55",
+      "data_hora_confirmacao_pagamento": "2024-02-03 10:37:07",
+      "valor_total_produtos": 94.98,
+      "valor_frete": 11.24,
+      "frete": "SEDEX",
+      "valor_total_pedido": 106.22,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7543",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 22:00:44",
+      "data_hora_confirmacao": "2024-02-23 09:24:08",
+      "data_hora_confirmacao_pagamento": "2024-02-23 09:24:00",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 11.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.42,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11092",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 10:45:30",
+      "data_hora_confirmacao": "2024-05-02 10:06:04",
+      "data_hora_confirmacao_pagamento": "2024-05-02 10:05:56",
+      "valor_total_produtos": 115.98,
+      "valor_frete": 36.4,
+      "frete": "JADLOG",
+      "valor_total_pedido": 152.38,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17768": {
+      "codigo": "17768",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.20": {
+      "codigo": "CD40.20",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  OAKLEY - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD40.14": {
+      "codigo": "CD40.14",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - MIZUNO  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Preto - Marca: Mizuno - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CD02.110GG": {
+      "codigo": "CD02.110GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.108GG": {
+      "codigo": "CD02.108GG",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium - Cor: Branca - Marca: Oakley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.147GG": {
+      "codigo": "CD02.147GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

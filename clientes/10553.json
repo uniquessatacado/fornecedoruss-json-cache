@@ -1,0 +1,69 @@
+{
+  "codigo": "10553",
+  "nome": "LUIZ CARLOS NASCIMENTO DA SILVA",
+  "email": "lcarlosnascimento@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "06/06/2024",
+  "whatsapp": "(81) 98574-1105",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 274.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "13215",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-06 13:38:23",
+      "data_hora_confirmacao": "2024-06-06 14:36:43",
+      "data_hora_confirmacao_pagamento": "2024-06-06 14:36:08",
+      "valor_total_produtos": 214.96,
+      "valor_frete": 59.63,
+      "frete": "SEDEX",
+      "valor_total_pedido": 274.59,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19223": {
+      "codigo": "19223",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19262": {
+      "codigo": "19262",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS recorte  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19589": {
+      "codigo": "19589",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FRANÇA PRONTA ENTREGA)   - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

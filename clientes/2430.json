@@ -1,0 +1,53 @@
+{
+  "codigo": "2430",
+  "nome": "PAULO ROBERTO  MATTOS",
+  "email": "djpaulinhomattos@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/09/2023",
+  "whatsapp": "(27) 99853-9937",
+  "cidade": "São Mateus",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-20 20:04:42",
+      "data_hora_confirmacao": "2023-09-25 00:14:18",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:14:12",
+      "valor_total_produtos": 48,
+      "valor_frete": 28.78,
+      "frete": "PAC",
+      "valor_total_pedido": 76.78,
+      "desconto": 0,
+      "cidade": "São Mateus",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.19GG": {
+      "codigo": "CD01.19GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD27.14": {
+      "codigo": "CD27.14",
+      "titulo": "Boné Promoção - Nike  - Cor: Azul",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Bonés Promoção",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

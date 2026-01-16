@@ -1,0 +1,174 @@
+{
+  "codigo": "7249",
+  "nome": "HARISON SANTOS SILVA",
+  "email": "harisonsilva00@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(11) 94755-5440",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 331.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "9017",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 15:37:56",
+      "data_hora_confirmacao": "2024-03-27 16:08:52",
+      "data_hora_confirmacao_pagamento": "2024-03-27 16:08:41",
+      "valor_total_produtos": 88.85,
+      "valor_frete": 12.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 101.32,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19315",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-22 10:42:10",
+      "data_hora_confirmacao": "2024-08-22 17:58:58",
+      "data_hora_confirmacao_pagamento": "2024-08-22 17:58:52",
+      "valor_total_produtos": 96.97,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.59,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19719",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-27 11:35:13",
+      "data_hora_confirmacao": "2024-08-27 11:35:13",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 39.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 39.99,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19846",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 21:33:30",
+      "data_hora_confirmacao": "2024-08-29 10:29:17",
+      "data_hora_confirmacao_pagamento": "2024-08-29 10:29:06",
+      "valor_total_produtos": 64.97,
+      "valor_frete": 12.32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.29,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20237": {
+      "codigo": "20237",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA NIKE - Cor: Kit Preto-Vermelho-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25231": {
+      "codigo": "25231",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28478": {
+      "codigo": "28478",
+      "titulo": "Boné Super Premium - CALVIN KLEIN termogel - Cor: CINZA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "28560": {
+      "codigo": "28560",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28563": {
+      "codigo": "28563",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: AZUL BEBE",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28610": {
+      "codigo": "28610",
+      "titulo": "Boné Super Premium - BLCK bordado  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "BLCK",
+      "quantidade": "1"
+    },
+    "28988": {
+      "codigo": "28988",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Cinza - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD39.08M": {
+      "codigo": "CD39.08M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

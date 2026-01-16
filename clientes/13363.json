@@ -1,0 +1,61 @@
+{
+  "codigo": "13363",
+  "nome": "NUBIO PEREIRA PACHECO",
+  "email": "nubiopacheco26@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "31/07/2024",
+  "whatsapp": "(62) 9923-94498",
+  "cidade": "Aparecida de Goiânia",
+  "estado": "GO",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "26432",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-14 11:17:26",
+      "data_hora_confirmacao": "2024-12-14 11:35:53",
+      "data_hora_confirmacao_pagamento": "2024-12-14 11:35:53",
+      "valor_total_produtos": 63.97,
+      "valor_frete": 19.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 83.79,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30618": {
+      "codigo": "30618",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32805": {
+      "codigo": "32805",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "37274": {
+      "codigo": "37274",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C09) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

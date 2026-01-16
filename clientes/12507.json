@@ -1,0 +1,45 @@
+{
+  "codigo": "12507",
+  "nome": "JOAO GUILHERME MORAES LIMA",
+  "email": "joaoguilhermemoraeslima05@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/07/2024",
+  "whatsapp": "(94) 99112-9049",
+  "cidade": "Vila Velha",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "16133",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-16 12:28:32",
+      "data_hora_confirmacao": "2024-07-16 13:09:25",
+      "data_hora_confirmacao_pagamento": "2024-07-16 13:09:15",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 19.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.1,
+      "desconto": 0,
+      "cidade": "Vila Velha",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23187": {
+      "codigo": "23187",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte lateral - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "16289",
+  "nome": "LUCAS DE OLIVEIRA",
+  "email": "lucaskaka63@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2024",
+  "whatsapp": "(13) 97820-5877",
+  "cidade": "Cubatão",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "23120",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-21 14:24:28",
+      "data_hora_confirmacao": "2024-10-21 15:20:44",
+      "data_hora_confirmacao_pagamento": "2024-10-21 15:20:39",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 14.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 94.72,
+      "desconto": 0,
+      "cidade": "Cubatão",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32088": {
+      "codigo": "32088",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32515": {
+      "codigo": "32515",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

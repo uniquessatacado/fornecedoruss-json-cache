@@ -1,0 +1,101 @@
+{
+  "codigo": "8809",
+  "nome": "JOÃO PAULO",
+  "email": "paulino1910@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(68) 98415-4995",
+  "cidade": "Vilhena",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 454.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "11020",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 23:33:03",
+      "data_hora_confirmacao": "2024-05-02 15:16:34",
+      "data_hora_confirmacao_pagamento": "2024-05-02 15:16:26",
+      "valor_total_produtos": 407.91,
+      "valor_frete": 46.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 454.06,
+      "desconto": 0,
+      "cidade": "Vilhena",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17739": {
+      "codigo": "17739",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "KT1.2M": {
+      "codigo": "KT1.2M",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.15M": {
+      "codigo": "CD50.15M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE SB - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.15P": {
+      "codigo": "CD50.15P",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE SB - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22M": {
+      "codigo": "CD4.22M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD04.4M": {
+      "codigo": "CD04.4M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147GG": {
+      "codigo": "CD02.147GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE     - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

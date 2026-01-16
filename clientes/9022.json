@@ -1,0 +1,61 @@
+{
+  "codigo": "9022",
+  "nome": "MARCILENE DA COSTA CARVALHO",
+  "email": "marcilene_carvalho92@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(19) 99556-4629",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "11297",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-03 21:47:59",
+      "data_hora_confirmacao": "2024-05-04 11:54:32",
+      "data_hora_confirmacao_pagamento": "2024-05-04 12:11:51",
+      "valor_total_produtos": 79.92,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 79.92,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.22M": {
+      "codigo": "CD24.22M",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Branca - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.23M": {
+      "codigo": "CD24.23M",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 3
+    }
+  }
+}

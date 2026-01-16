@@ -1,0 +1,61 @@
+{
+  "codigo": "2974",
+  "nome": "LEONARDO ALVES RANGEL",
+  "email": "rasrangel@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(21) 98852-8139",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 138.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300824",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 08:37:07",
+      "data_hora_confirmacao": "2023-09-28 12:00:48",
+      "data_hora_confirmacao_pagamento": "2023-09-28 12:00:43",
+      "valor_total_produtos": 116,
+      "valor_frete": 22.4,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 138.4,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.26M": {
+      "codigo": "CD17.26M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD01.2M": {
+      "codigo": "CD01.2M",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.33M": {
+      "codigo": "CD16.33M",
+      "titulo": "Camisetas de Time Nacional - Flamengo - Tamanho: M - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

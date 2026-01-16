@@ -1,0 +1,123 @@
+{
+  "codigo": "12412",
+  "nome": "RICARDO BARBOSA",
+  "email": "ricbarbosa2000@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "14/07/2024",
+  "whatsapp": "(12) 99186-8623",
+  "cidade": "Cruzeiro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 298.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "22470",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-08 07:12:15",
+      "data_hora_confirmacao": "2024-10-08 10:04:24",
+      "data_hora_confirmacao_pagamento": "2024-10-08 10:04:16",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 14.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.73,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28390",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-26 18:17:12",
+      "data_hora_confirmacao": "2025-02-26 18:19:46",
+      "data_hora_confirmacao_pagamento": "2025-02-26 18:19:46",
+      "valor_total_produtos": 45,
+      "valor_frete": 15.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 60.03,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31663",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-14 11:59:39",
+      "data_hora_confirmacao": "2025-09-14 12:02:06",
+      "data_hora_confirmacao_pagamento": "2025-09-14 12:02:12",
+      "valor_total_produtos": 135,
+      "valor_frete": 22.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 157.94,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20746": {
+      "codigo": "20746",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "42234": {
+      "codigo": "42234",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT26A (C623) - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54011": {
+      "codigo": "54011",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - PRADA (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "54026": {
+      "codigo": "54026",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - VERSACE (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "54048": {
+      "codigo": "54048",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "54056": {
+      "codigo": "54056",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON (LT049) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

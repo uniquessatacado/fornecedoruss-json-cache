@@ -1,0 +1,53 @@
+{
+  "codigo": "4970",
+  "nome": "LEANDRO TANIKAWA ROCHA",
+  "email": "leandrotanikawa@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(11) 95257-7742",
+  "cidade": "Jundiaí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "5564",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 07:32:16",
+      "data_hora_confirmacao": "2023-12-22 18:07:05",
+      "data_hora_confirmacao_pagamento": "2023-12-22 18:07:14",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 12.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 132.22,
+      "desconto": 0,
+      "cidade": "Jundiaí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD69.6": {
+      "codigo": "CD69.6",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12    - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD39.42": {
+      "codigo": "CD39.42",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  LT19.12   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

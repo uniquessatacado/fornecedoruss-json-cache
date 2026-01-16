@@ -1,0 +1,45 @@
+{
+  "codigo": "15520",
+  "nome": "MAYCK HENRIQUE",
+  "email": "mayck.do.b@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/09/2024",
+  "whatsapp": "(21) 98830-2001",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "20869",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-11 11:56:40",
+      "data_hora_confirmacao": "2024-09-11 17:25:02",
+      "data_hora_confirmacao_pagamento": "2024-09-11 17:24:57",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 15.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.12,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30346": {
+      "codigo": "30346",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    }
+  }
+}

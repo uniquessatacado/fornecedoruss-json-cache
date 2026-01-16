@@ -1,0 +1,61 @@
+{
+  "codigo": "6470",
+  "nome": "LUCIANO  SANTOS QUEIROZ",
+  "email": "luciano.cbmse@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/02/2024",
+  "whatsapp": "(79) 79999-1506",
+  "cidade": "Aracaju",
+  "estado": "SE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 102.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "7778",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-28 13:42:10",
+      "data_hora_confirmacao": "2024-02-29 09:32:17",
+      "data_hora_confirmacao_pagamento": "2024-02-29 09:32:11",
+      "valor_total_produtos": 82.97,
+      "valor_frete": 19.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.13,
+      "desconto": 0,
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.03M": {
+      "codigo": "CD39.03M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

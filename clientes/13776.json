@@ -1,0 +1,77 @@
+{
+  "codigo": "13776",
+  "nome": "IVAN RIBEIRO DA SILVA",
+  "email": "ivanrib@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/08/2024",
+  "whatsapp": "(63) 98128-0495",
+  "cidade": "Palmas",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 245.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "18230",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-09 16:43:08",
+      "data_hora_confirmacao": "2024-08-09 18:06:32",
+      "data_hora_confirmacao_pagamento": "2024-08-09 18:06:20",
+      "valor_total_produtos": 201.95,
+      "valor_frete": 43.34,
+      "frete": "PAC",
+      "valor_total_pedido": 245.29,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "25943": {
+      "codigo": "25943",
+      "titulo": "Tênis ADIDAS ULTRA BOOST - Cor: BRANCA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "26644": {
+      "codigo": "26644",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LOUIS VUITTON - Cor: Kit - Preto-Vermelho-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "26652": {
+      "codigo": "26652",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA GUCCI - Cor: KIT - PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "26657": {
+      "codigo": "26657",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ARMANI - Cor: KIT - PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "15380",
+  "nome": "RICARDO OLIVEIRA",
+  "email": "ricardohmdo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/09/2024",
+  "whatsapp": "(15) 99734-0222",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 72.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "20681",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-09 12:17:40",
+      "data_hora_confirmacao": "2024-09-09 12:45:42",
+      "data_hora_confirmacao_pagamento": "2024-09-09 12:45:35",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 12.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.19,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25357": {
+      "codigo": "25357",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25366": {
+      "codigo": "25366",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25425": {
+      "codigo": "25425",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "29386": {
+      "codigo": "29386",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "29736": {
+      "codigo": "29736",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "3861",
+  "nome": "FERNANDO CAVALHEIRO",
+  "email": "cavalheirof50@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2023",
+  "whatsapp": "(54) 99119-5483",
+  "cidade": "Passo Fundo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 200.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "2583",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-01 16:13:05",
+      "data_hora_confirmacao": "2023-11-03 12:19:49",
+      "data_hora_confirmacao_pagamento": "2023-11-03 12:19:59",
+      "valor_total_produtos": 70,
+      "valor_frete": 17.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.24,
+      "desconto": 0,
+      "cidade": "Passo Fundo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8141",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-08 18:01:01",
+      "data_hora_confirmacao": "2024-03-09 11:21:57",
+      "data_hora_confirmacao_pagamento": "2024-03-09 11:21:52",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 17.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.7,
+      "desconto": 0,
+      "cidade": "Passo Fundo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.16": {
+      "codigo": "CD39.16",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.120GG": {
+      "codigo": "CD02.120GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE - Cor: Preto - Marca: Hang Loose - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD02.118GG": {
+      "codigo": "CD02.118GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.4GG": {
+      "codigo": "CD04.4GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Verde Água - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

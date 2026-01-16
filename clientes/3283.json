@@ -1,0 +1,120 @@
+{
+  "codigo": "3283",
+  "nome": "PAULO CESAR SERTÓRIO",
+  "email": "pcsertorio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2023",
+  "whatsapp": "(19) 99193-5233",
+  "cidade": "Sumaré",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 214.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301306",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 12:27:06",
+      "data_hora_confirmacao": "2023-10-05 13:59:09",
+      "data_hora_confirmacao_pagamento": "2023-10-05 13:59:16",
+      "valor_total_produtos": 66,
+      "valor_frete": 12.2,
+      "frete": "JADLOG",
+      "valor_total_pedido": 78.2,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8917",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-26 10:49:39",
+      "data_hora_confirmacao": "2024-03-26 11:56:58",
+      "data_hora_confirmacao_pagamento": "2024-03-26 11:41:07",
+      "valor_total_produtos": 121.46,
+      "valor_frete": 14.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 136,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.5GG": {
+      "codigo": "CD12.5GG",
+      "titulo": "Polo Piquet Duplo Ultra - Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.25GG - Nike": {
+      "codigo": "CD24.25GG - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.26G - Boss": {
+      "codigo": "CD24.26G - Boss",
+      "titulo": "Cuecas Peruanas -  Boss - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD04.1GG": {
+      "codigo": "CD04.1GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Cinza - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.11G": {
+      "codigo": "CD24.11G",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Cinza - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD02.132M": {
+      "codigo": "CD02.132M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

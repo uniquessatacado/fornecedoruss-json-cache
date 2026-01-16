@@ -1,0 +1,88 @@
+{
+  "codigo": "13141",
+  "nome": "GUSTAVO HENRIQUE GOMES RODRIGUES",
+  "email": "gustahenri987@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/07/2024",
+  "whatsapp": "(62) 99942-1471",
+  "cidade": "Ribeiro Gonçalves",
+  "estado": "PI",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "18366",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 09:51:09",
+      "data_hora_confirmacao": "2024-08-12 11:14:59",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:14:52",
+      "valor_total_produtos": 56.98,
+      "valor_frete": 28.36,
+      "frete": "PAC",
+      "valor_total_pedido": 85.34,
+      "desconto": 0,
+      "cidade": "Porangatu",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25762",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-05 14:32:08",
+      "data_hora_confirmacao": "2024-12-05 14:35:24",
+      "data_hora_confirmacao_pagamento": "2024-12-05 14:35:24",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 19.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.41,
+      "desconto": 0,
+      "cidade": "Alexânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26375": {
+      "codigo": "26375",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "27099": {
+      "codigo": "27099",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em bordado madeira - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35490": {
+      "codigo": "35490",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35497": {
+      "codigo": "35497",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

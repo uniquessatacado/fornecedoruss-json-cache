@@ -1,0 +1,96 @@
+{
+  "codigo": "6911",
+  "nome": "BRUNO PFAIFER CARVALHO",
+  "email": "brunopfaifer@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "13/03/2024",
+  "whatsapp": "(16) 99284-4916",
+  "cidade": "Jaboticabal",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 195.54000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "8393",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 11:42:41",
+      "data_hora_confirmacao": "2024-03-13 13:44:29",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:44:24",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 18.72,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.7,
+      "desconto": 0,
+      "cidade": "Jaboticabal",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8700",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 21:02:03",
+      "data_hora_confirmacao": "2024-03-20 13:21:53",
+      "data_hora_confirmacao_pagamento": "2024-03-20 13:21:47",
+      "valor_total_produtos": 115.91,
+      "valor_frete": 14.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 130.84,
+      "desconto": 0,
+      "cidade": "Jaboticabal",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.05GG": {
+      "codigo": "CD24.05GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  - Cor: Azul - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD04.7G": {
+      "codigo": "CD04.7G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Cinza Escuro - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.12GG": {
+      "codigo": "CD24.12GG",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD24.11GG": {
+      "codigo": "CD24.11GG",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Azul Marinho - Marca: Tommy - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    }
+  }
+}

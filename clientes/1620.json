@@ -1,0 +1,77 @@
+{
+  "codigo": "1620",
+  "nome": "ADRIANO NEVES DE SOUZA",
+  "email": "DRIANOUNICO@gMAIL.COM",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(65) 99968-9427",
+  "cidade": "Comodoro",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 323.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "8389",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 11:00:02",
+      "data_hora_confirmacao": "2024-03-13 15:33:54",
+      "data_hora_confirmacao_pagamento": "2024-03-13 15:33:49",
+      "valor_total_produtos": 284.22,
+      "valor_frete": 39.75,
+      "frete": "PAC",
+      "valor_total_pedido": 323.97,
+      "desconto": 0,
+      "cidade": "Comodoro",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32M": {
+      "codigo": "CD32M",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD04.4M": {
+      "codigo": "CD04.4M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD24.07M": {
+      "codigo": "CD24.07M",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.05M": {
+      "codigo": "CD24.05M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  - Cor: Azul - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.09M": {
+      "codigo": "CD24.09M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    }
+  }
+}

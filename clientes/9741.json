@@ -1,0 +1,77 @@
+{
+  "codigo": "9741",
+  "nome": "FERNANDO DE OLIVEIRA",
+  "email": "fernandogalo1987@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(31) 97356-4633",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 180.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "12264",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 23:32:06",
+      "data_hora_confirmacao": "2024-05-22 19:42:19",
+      "data_hora_confirmacao_pagamento": "2024-05-22 19:42:10",
+      "valor_total_produtos": 162.95,
+      "valor_frete": 17.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 180.77,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18798": {
+      "codigo": "18798",
+      "titulo": "Camiseta Genuina Egípcia Luxo HUGO BOSS arte em camaleão e bordado - Cor: AZUL - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19012": {
+      "codigo": "19012",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em camurça  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19478": {
+      "codigo": "19478",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1G": {
+      "codigo": "CD23.1G",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "Cd43.04 - MD4": {
+      "codigo": "Cd43.04 - MD4",
+      "titulo": "Boné Super Premium - NIKE   - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

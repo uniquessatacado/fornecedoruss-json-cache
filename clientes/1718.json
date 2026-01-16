@@ -1,0 +1,96 @@
+{
+  "codigo": "1718",
+  "nome": "WILLIAN DOUGLAS",
+  "email": "williantsu3915@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "24/08/2023",
+  "whatsapp": "(94) 99227-1260",
+  "cidade": "Conceição do Araguaia",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 311.71000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 12:21:39",
+      "data_hora_confirmacao": "2023-10-26 12:30:16",
+      "data_hora_confirmacao_pagamento": "2023-10-26 12:30:31",
+      "valor_total_produtos": 124.5,
+      "valor_frete": 27.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 152.3,
+      "desconto": 0,
+      "cidade": "Conceição do Araguaia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3874",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-01 14:48:26",
+      "data_hora_confirmacao": "2023-12-02 12:56:52",
+      "data_hora_confirmacao_pagamento": "2023-12-02 12:57:02",
+      "valor_total_produtos": 130,
+      "valor_frete": 29.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 159.41,
+      "desconto": 0,
+      "cidade": "Conceição do Araguaia",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.39G": {
+      "codigo": "CD17.39G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10    - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD17.38G": {
+      "codigo": "CD17.38G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.34G - NIKE": {
+      "codigo": "CD24.34G - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD16.51": {
+      "codigo": "CD16.51",
+      "titulo": "Camisetas de Time Tailandesas - BARCELONA   LT06.11    - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.37": {
+      "codigo": "CD16.37",
+      "titulo": "Camisetas de Time Tailandesas - CHELSEA  LT31.10   - Tamanho: G - Times : Chelsea",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

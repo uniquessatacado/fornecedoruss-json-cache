@@ -1,0 +1,45 @@
+{
+  "codigo": "1421",
+  "nome": "LEONARDO SILVA",
+  "email": "ldleonardo98@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "20/08/2023",
+  "whatsapp": "(21) 97740-4241",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "26923",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-20 16:09:40",
+      "data_hora_confirmacao": "2024-12-20 16:11:53",
+      "data_hora_confirmacao_pagamento": "2024-12-20 16:11:53",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 13.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.08,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38616": {
+      "codigo": "38616",
+      "titulo": "Bermuda Microfibra Hiper (C139) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

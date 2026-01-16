@@ -1,0 +1,72 @@
+{
+  "codigo": "10935",
+  "nome": "FLÁVIO RIBEIRO DE AZEVEDO",
+  "email": "flaviorivedo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(21) 98675-4735",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 174.45999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "13729",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 20:38:58",
+      "data_hora_confirmacao": "2024-06-15 09:20:16",
+      "data_hora_confirmacao_pagamento": "2024-06-15 09:20:11",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 23.98,
+      "frete": "JADLOG",
+      "valor_total_pedido": 88.97,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24171",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-10 20:21:50",
+      "data_hora_confirmacao": "2024-11-10 20:25:53",
+      "data_hora_confirmacao_pagamento": "2024-11-10 20:25:53",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 19.5,
+      "frete": "JADLOG",
+      "valor_total_pedido": 85.49,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19683": {
+      "codigo": "19683",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA)      - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21914": {
+      "codigo": "21914",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

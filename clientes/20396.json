@@ -1,0 +1,45 @@
+{
+  "codigo": "20396",
+  "nome": "JURACI GUARACIABA",
+  "email": "rodripalves2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/08/2025",
+  "whatsapp": "(11) 91412-8974",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "31347",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-19 15:47:58",
+      "data_hora_confirmacao": "2025-08-19 15:53:16",
+      "data_hora_confirmacao_pagamento": "2025-08-19 15:53:16",
+      "valor_total_produtos": 75,
+      "valor_frete": 14.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 89.01,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51321": {
+      "codigo": "51321",
+      "titulo": "Oculos  - RADAR (LT023) - ARMAÇÃO: BLACK - Kit Borracha: PRETA - MODELO: RADAR",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

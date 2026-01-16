@@ -1,0 +1,61 @@
+{
+  "codigo": "16024",
+  "nome": "LUCIANO DE SOUZA SÁ",
+  "email": "lucianosouzas710@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2024",
+  "whatsapp": "(19) 99787-7377",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 59.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "22910",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-16 15:53:24",
+      "data_hora_confirmacao": "2024-10-16 17:36:27",
+      "data_hora_confirmacao_pagamento": "2024-10-16 17:36:42",
+      "valor_total_produtos": 59.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 59.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29177": {
+      "codigo": "29177",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "31458": {
+      "codigo": "31458",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31497": {
+      "codigo": "31497",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

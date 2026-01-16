@@ -1,0 +1,61 @@
+{
+  "codigo": "4737",
+  "nome": "ALEXANDRO PENHA VIEIRA",
+  "email": "alexandropenhavieira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/12/2023",
+  "whatsapp": "(27) 99919-7947",
+  "cidade": "Colatina",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 607.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "4777",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-14 11:20:53",
+      "data_hora_confirmacao": "2023-12-14 14:05:40",
+      "data_hora_confirmacao_pagamento": "2023-12-14 14:05:50",
+      "valor_total_produtos": 554.83,
+      "valor_frete": 52.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 607.76,
+      "desconto": 0,
+      "cidade": "Colatina",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.67": {
+      "codigo": "CD02.67",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12    - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 11
+    },
+    "CD02.66": {
+      "codigo": "CD02.66",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12     - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.35": {
+      "codigo": "CD39.35",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    }
+  }
+}

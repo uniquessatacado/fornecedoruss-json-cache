@@ -1,0 +1,45 @@
+{
+  "codigo": "10079",
+  "nome": "DAVI JACINTO",
+  "email": "davi.imegine@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/05/2024",
+  "whatsapp": "(11) 9503-9460",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 29.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "13790",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 12:32:26",
+      "data_hora_confirmacao": "2024-06-15 18:30:09",
+      "data_hora_confirmacao_pagamento": "2024-06-15 18:30:02",
+      "valor_total_produtos": 20,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 29.93,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

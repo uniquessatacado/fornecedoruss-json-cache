@@ -1,0 +1,184 @@
+{
+  "codigo": "2251",
+  "nome": "GIOVANE PEREIRA",
+  "email": "giovanevidros489@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/09/2023",
+  "whatsapp": "(61) 9823-23591",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 649.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300238",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 23:40:09",
+      "data_hora_confirmacao": "2023-09-26 10:54:27",
+      "data_hora_confirmacao_pagamento": "2023-09-26 10:54:16",
+      "valor_total_produtos": 451,
+      "valor_frete": 56.95,
+      "frete": "SEDEX",
+      "valor_total_pedido": 507.95,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300902",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 02:46:41",
+      "data_hora_confirmacao": "2023-09-29 12:28:47",
+      "data_hora_confirmacao_pagamento": "2023-09-29 12:29:00",
+      "valor_total_produtos": 142,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 142,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD29.1M": {
+      "codigo": "CD29.1M",
+      "titulo": "Bermuda Microfibra premium - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.10M": {
+      "codigo": "CD17.10M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.6M": {
+      "codigo": "CD17.6M",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.2G": {
+      "codigo": "CD29.2G",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD02.14GG": {
+      "codigo": "CD02.14GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Marrom Escuro - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.3GG": {
+      "codigo": "CD02.3GG",
+      "titulo": "Camiseta 40.1 Ultra Premium GUCCI - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD06.1M": {
+      "codigo": "CD06.1M",
+      "titulo": "Camiseta Egipicia Pima Luxo - Gucci - Cor: Vermelha - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Pima Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD14.1M": {
+      "codigo": "CD14.1M",
+      "titulo": "Camiseta DRIFIT ultra - Nike - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.16GG": {
+      "codigo": "CD02.16GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: OffWhite - Marca: Hurley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD17.5G": {
+      "codigo": "CD17.5G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD23.1M": {
+      "codigo": "CD23.1M",
+      "titulo": "Calças Microfibra Premium - Nike - Cor: Azul - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.29G": {
+      "codigo": "CD17.29G",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.28G": {
+      "codigo": "CD17.28G",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD07.3M": {
+      "codigo": "CD07.3M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci ( Bordado com a linha madeira) - Cor: OffWhite - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD07.21M": {
+      "codigo": "CD07.21M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Louis Vuitton - Cor: Mostarda - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

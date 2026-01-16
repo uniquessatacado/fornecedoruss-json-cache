@@ -1,0 +1,53 @@
+{
+  "codigo": "7934",
+  "nome": "JORGE GUSTAVO SILVA DOS SANTOS",
+  "email": "jgustavosantos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/04/2024",
+  "whatsapp": "(51) 99860-4230",
+  "cidade": "Gravataí",
+  "estado": "RS",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 85.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "10240",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 18:22:29",
+      "data_hora_confirmacao": "2024-04-19 10:00:04",
+      "data_hora_confirmacao_pagamento": "2024-04-19 09:59:58",
+      "valor_total_produtos": 68.95,
+      "valor_frete": 16.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.25,
+      "desconto": 0,
+      "cidade": "Gravataí",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.9M": {
+      "codigo": "CD4.9M",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.18G": {
+      "codigo": "CD24.18G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

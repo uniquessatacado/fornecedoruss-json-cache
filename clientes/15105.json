@@ -1,0 +1,53 @@
+{
+  "codigo": "15105",
+  "nome": "ANTÔNIO FERNANDO DOS SANTOS",
+  "email": "antoniofernandosantos96@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(13) 98845-1762",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 124.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "20274",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-03 18:53:47",
+      "data_hora_confirmacao": "2024-09-05 13:11:32",
+      "data_hora_confirmacao_pagamento": "2024-09-05 13:07:55",
+      "valor_total_produtos": 110.98,
+      "valor_frete": 13.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 124.77,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "27458": {
+      "codigo": "27458",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em relevo  - Cor: MOSTARDA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "28766": {
+      "codigo": "28766",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

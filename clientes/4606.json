@@ -1,0 +1,61 @@
+{
+  "codigo": "4606",
+  "nome": "RAYANA FRANCINE",
+  "email": "rayanafrancine0@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/12/2023",
+  "whatsapp": "(11) 98521-9952",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "4362",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-09 20:43:14",
+      "data_hora_confirmacao": "2023-12-11 10:47:03",
+      "data_hora_confirmacao_pagamento": "2023-12-11 10:47:11",
+      "valor_total_produtos": 51,
+      "valor_frete": 10.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.75,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.44": {
+      "codigo": "CD24.44",
+      "titulo": "Cuecas Peruanas - Dolce Gabanna  LT25.11   - Cor: Vermelha - Marca: Dolce Gabbana - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

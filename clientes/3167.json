@@ -1,0 +1,88 @@
+{
+  "codigo": "3167",
+  "nome": "CARLOS EDUARDO MARQUES",
+  "email": "dumasota@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(11) 98723-0800",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 201.26999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301106",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-02 10:54:50",
+      "data_hora_confirmacao": "2023-10-02 11:21:02",
+      "data_hora_confirmacao_pagamento": "2023-10-02 11:21:11",
+      "valor_total_produtos": 51,
+      "valor_frete": 10.07,
+      "frete": "SEDEX",
+      "valor_total_pedido": 61.07,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22928",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-16 22:11:19",
+      "data_hora_confirmacao": "2024-10-17 10:22:08",
+      "data_hora_confirmacao_pagamento": "2024-10-17 10:21:55",
+      "valor_total_produtos": 119.97,
+      "valor_frete": 20.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 140.2,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29172": {
+      "codigo": "29172",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "31261": {
+      "codigo": "31261",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31268": {
+      "codigo": "31268",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN - Cor: PRETO CHUMBO VERDE - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD24.23GG - Burberry": {
+      "codigo": "CD24.23GG - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Azul Marinho - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": 6
+    }
+  }
+}

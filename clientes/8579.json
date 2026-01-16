@@ -1,0 +1,334 @@
+{
+  "codigo": "8579",
+  "nome": "ANDREY OLIVEIRA",
+  "email": "andrey.oliveira.1995.12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(73) 99913-4427",
+  "cidade": "Mascote",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1681.8600000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "29410",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-23 21:56:33",
+      "data_hora_confirmacao": "2025-04-23 21:58:21",
+      "data_hora_confirmacao_pagamento": "2025-04-23 21:58:21",
+      "valor_total_produtos": 385.23,
+      "valor_frete": 58.19,
+      "frete": "PAC",
+      "valor_total_pedido": 443.42,
+      "desconto": 0,
+      "cidade": "Mascote",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30843",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-21 13:59:47",
+      "data_hora_confirmacao": "2025-07-21 14:01:32",
+      "data_hora_confirmacao_pagamento": "2025-07-21 14:01:32",
+      "valor_total_produtos": 354.65,
+      "valor_frete": 61.48,
+      "frete": "PAC",
+      "valor_total_pedido": 416.13,
+      "desconto": 0,
+      "cidade": "Mascote",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31801",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-23 09:31:47",
+      "data_hora_confirmacao": "2025-09-23 14:16:54",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 289.2,
+      "valor_frete": 64.49,
+      "frete": "PAC",
+      "valor_total_pedido": 353.69,
+      "desconto": 0,
+      "cidade": "Mascote",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31974",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-10-06 10:55:02",
+      "data_hora_confirmacao": "2025-10-06 10:55:31",
+      "data_hora_confirmacao_pagamento": "2025-10-06 10:55:31",
+      "valor_total_produtos": 468.62,
+      "valor_frete": 0,
+      "frete": "FRETE GRÁTIS",
+      "valor_total_pedido": 468.62,
+      "desconto": 0,
+      "cidade": "Mascote",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "43993": {
+      "codigo": "43993",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C704) - Marca: Adidas - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "44045": {
+      "codigo": "44045",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C712) - Marca: Jordan - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "HIGH",
+      "quantidade": "2"
+    },
+    "46362": {
+      "codigo": "46362",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C817) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46431": {
+      "codigo": "46431",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C821) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46456": {
+      "codigo": "46456",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C822) - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47071": {
+      "codigo": "47071",
+      "titulo": "Regata Suedine Off-White Arte em DTF Nike | Neutro Sofisticado & Pegada Street - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47109": {
+      "codigo": "47109",
+      "titulo": "Regata Suedine Arte em DTF Nike Air Preta | Impacto Visual & Conforto Moderno - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47112": {
+      "codigo": "47112",
+      "titulo": "Regata Suedine Arte em DTF Nike Air Off-White | Estilo Clean & Toque Confortável - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regatas Suedine",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47196": {
+      "codigo": "47196",
+      "titulo": "Camiseta Suedine Nike SB | Casual & Leveza Urbana - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48952": {
+      "codigo": "48952",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Flamengo | LT64A (C1103) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48967": {
+      "codigo": "48967",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Manchester United | LT65A (C1105) - Tamanho: G - Times : Manchester United - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48976": {
+      "codigo": "48976",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT65A (C1107) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "49999": {
+      "codigo": "49999",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50065": {
+      "codigo": "50065",
+      "titulo": "Regata Machão Suedine 1:1 Nike Air Bordado (LT003.1) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50084": {
+      "codigo": "50084",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT003.2) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50205": {
+      "codigo": "50205",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT003.2) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50532": {
+      "codigo": "50532",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25 - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "50619": {
+      "codigo": "50619",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50664": {
+      "codigo": "50664",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50694": {
+      "codigo": "50694",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51022": {
+      "codigo": "51022",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO 25/26 - Tamanho: G1 - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53045": {
+      "codigo": "53045",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR TOTTENHAM (STRAY KIDS EDITION)  25/26 - Tamanho: G - Times : Tottenham - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53055": {
+      "codigo": "53055",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: G1 - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53655": {
+      "codigo": "53655",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA II 24/25 - (envio direto da fabrica) - Tamanho: G1 - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53755": {
+      "codigo": "53755",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY IIII 25/26 - (envio direto da fabrica) - Tamanho: G - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "54494": {
+      "codigo": "54494",
+      "titulo": "Chinelo Kenner - COR CHINELO: PRETO - Marca: KENNER - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Kenner",
+      "quantidade": "2"
+    },
+    "54515": {
+      "codigo": "54515",
+      "titulo": "Chinelo Kenner L7 - COR CHINELO: BRANCO - Marca: KENNER - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "54516": {
+      "codigo": "54516",
+      "titulo": "Chinelo Kenner L7 - COR CHINELO: BRANCO - Marca: KENNER - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "54517": {
+      "codigo": "54517",
+      "titulo": "Chinelo Kenner L7 - COR CHINELO: BRANCO - Marca: KENNER - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "54523": {
+      "codigo": "54523",
+      "titulo": "Chinelo Kenner L7 - COR CHINELO: PRETO - Marca: KENNER - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    }
+  }
+}

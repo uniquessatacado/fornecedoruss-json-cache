@@ -1,0 +1,69 @@
+{
+  "codigo": "18922",
+  "nome": "PEDRO HENRIQUE GOBBO",
+  "email": "henrique.pedro1605@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "11/01/2025",
+  "whatsapp": "(43) 98825-4322",
+  "cidade": "Londrina",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 188.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "27544",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-11 10:05:29",
+      "data_hora_confirmacao": "2025-01-11 10:08:48",
+      "data_hora_confirmacao_pagamento": "2025-01-11 10:08:48",
+      "valor_total_produtos": 173.34,
+      "valor_frete": 15.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 188.63,
+      "desconto": 0,
+      "cidade": "Londrina",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38718": {
+      "codigo": "38718",
+      "titulo": "Bermuda Microfibra Hiper (C134) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39517": {
+      "codigo": "39517",
+      "titulo": "Bermuda Microfibra Ultra (C206) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39564": {
+      "codigo": "39564",
+      "titulo": "Bermuda Microfibra Ultra (C208) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39860": {
+      "codigo": "39860",
+      "titulo": "Camiseta Suedine ultra -(C217) ARTE EM DTF  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

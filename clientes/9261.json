@@ -1,0 +1,53 @@
+{
+  "codigo": "9261",
+  "nome": "RODRIGO BEARARI",
+  "email": "rodrigobmarinhodega@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(19) 97411-8062",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 85.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "14579",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 08:12:11",
+      "data_hora_confirmacao": "2024-06-27 10:34:38",
+      "data_hora_confirmacao_pagamento": "2024-06-27 10:34:33",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 13.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.27,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20420": {
+      "codigo": "20420",
+      "titulo": "Bermuda Microfibra Ultra NIKE AIR Tipo Cargo  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22413": {
+      "codigo": "22413",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "7995",
+  "nome": "HUGO MENEZES",
+  "email": "hugomenezes26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/04/2024",
+  "whatsapp": "(21) 9794-87421",
+  "cidade": "Nilópolis",
+  "estado": "RJ",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 256.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "9961",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-12 14:19:54",
+      "data_hora_confirmacao": "2024-04-12 15:17:03",
+      "data_hora_confirmacao_pagamento": "2024-04-12 15:16:58",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 16.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.89,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12876",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-31 05:54:05",
+      "data_hora_confirmacao": "2024-05-31 09:27:08",
+      "data_hora_confirmacao_pagamento": "2024-05-31 09:27:00",
+      "valor_total_produtos": 128.99,
+      "valor_frete": 17.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.57,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.142M": {
+      "codigo": "CD02.142M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: BEGE - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD02.144M": {
+      "codigo": "CD02.144M",
+      "titulo": "Camiseta Oakley 40.1 Ultra Premium  - Cor: PRETA - Marca: Oakley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD50.3M": {
+      "codigo": "CD50.3M",
+      "titulo": "Blusa de Moletom Autenitco HANG LOOSE - Cor: Preto - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM AUTENTICO",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    }
+  }
+}

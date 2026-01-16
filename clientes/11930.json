@@ -1,0 +1,69 @@
+{
+  "codigo": "11930",
+  "nome": "RONAN MOURA DA CONCEIÇÃO",
+  "email": "nan-301@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(21) 9967-65979",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "15113",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 15:03:32",
+      "data_hora_confirmacao": "2024-07-04 16:01:12",
+      "data_hora_confirmacao_pagamento": "2024-07-04 16:01:03",
+      "valor_total_produtos": 115.96,
+      "valor_frete": 17.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.68,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18221": {
+      "codigo": "18221",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - NIKE  - Cor: BEGE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22295": {
+      "codigo": "22295",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23555": {
+      "codigo": "23555",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23561": {
+      "codigo": "23561",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

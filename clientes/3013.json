@@ -1,0 +1,85 @@
+{
+  "codigo": "3013",
+  "nome": "LUCAS FFF",
+  "email": "lucas_bady94@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2023",
+  "whatsapp": "(17) 99742-2461",
+  "cidade": "Bady Bassitt",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 273.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300886",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-28 21:40:00",
+      "data_hora_confirmacao": "2023-10-04 15:51:00",
+      "data_hora_confirmacao_pagamento": "2023-10-04 15:51:18",
+      "valor_total_produtos": 247.5,
+      "valor_frete": 25.58,
+      "frete": "PAC",
+      "valor_total_pedido": 273.08,
+      "desconto": 0,
+      "cidade": "Bady Bassitt",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.30G": {
+      "codigo": "CD02.30G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley (Arte em Termo Gel) - Cor: Azul Bebê - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD07.5G": {
+      "codigo": "CD07.5G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Boss (ARTE BORDADA DE DECIDO LINHA MADEIRA) - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.24G": {
+      "codigo": "CD08.24G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Burberry (Arte Embossing com detalhe brilhante Aviamentos originais) - Cor: Azul Marinho - Marca: Burberry - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD08.14G": {
+      "codigo": "CD08.14G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste (Chenille e Bordada) - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD20.2G": {
+      "codigo": "CD20.2G",
+      "titulo": "Suéter Premium - Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "INATIVA SUÉTER  ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.21G - Boss": {
+      "codigo": "CD24.21G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

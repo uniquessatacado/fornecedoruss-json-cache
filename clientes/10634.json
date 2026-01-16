@@ -1,0 +1,72 @@
+{
+  "codigo": "10634",
+  "nome": "MICHEL SANTOS",
+  "email": "micheltopografia2015@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(19) 99698-0751",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 164.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "13316",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 16:52:56",
+      "data_hora_confirmacao": "2024-06-08 09:47:12",
+      "data_hora_confirmacao_pagamento": "2024-06-08 09:47:04",
+      "valor_total_produtos": 31.33,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 41.26,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 65,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "14811",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-29 17:11:40",
+      "data_hora_confirmacao": "2024-07-01 13:06:36",
+      "data_hora_confirmacao_pagamento": "2024-07-01 13:06:27",
+      "valor_total_produtos": 110.48,
+      "valor_frete": 13.2,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.68,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 65,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "22786": {
+      "codigo": "22786",
+      "titulo": "Óculos OAKLEY - ARMAÇÃO: PLASMA - PRATA - COR DA LENTE: GOLD - Kit Borracha: PRETA - MODELO: ROMEO 2",
+      "categoria_principal": "OCULOS",
+      "categoria": "OAKLEY ",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD43.07 MD-4": {
+      "codigo": "CD43.07 MD-4",
+      "titulo": "Boné Super Premium - ARMANI - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

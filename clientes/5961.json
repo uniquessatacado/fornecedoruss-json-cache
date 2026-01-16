@@ -1,0 +1,80 @@
+{
+  "codigo": "5961",
+  "nome": "LUCAS FARIAS",
+  "email": "lucaslfe.061@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/01/2024",
+  "whatsapp": "(61) 99832-3066",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 189.95999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "12969",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 01:38:26",
+      "data_hora_confirmacao": "2024-06-03 09:51:37",
+      "data_hora_confirmacao_pagamento": "2024-06-03 09:51:27",
+      "valor_total_produtos": 89.99,
+      "valor_frete": 13.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.69,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17882",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-05 17:26:51",
+      "data_hora_confirmacao": "2024-08-05 17:55:49",
+      "data_hora_confirmacao_pagamento": "2024-08-05 17:55:38",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 14.29,
+      "frete": "LOGGI",
+      "valor_total_pedido": 86.27,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19894": {
+      "codigo": "19894",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO MANCHESTER UNITED PRONTA ENTREGA)     - Tamanho: M - VERSÃO: RETRO",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25841": {
+      "codigo": "25841",
+      "titulo": "Bermuda Microfibra HIPER - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25859": {
+      "codigo": "25859",
+      "titulo": "Bermuda Microfibra HIPER - NIKE  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

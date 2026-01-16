@@ -1,0 +1,53 @@
+{
+  "codigo": "2689",
+  "nome": "GUILHERME REOLON",
+  "email": "guilhermereolon70@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(54) 99985-2560",
+  "cidade": "Passo Fundo",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 120.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300554",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 11:50:56",
+      "data_hora_confirmacao": "2023-09-25 00:44:36",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:44:24",
+      "valor_total_produtos": 98,
+      "valor_frete": 22.9,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 120.9,
+      "desconto": 0,
+      "cidade": "Passo Fundo",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.28GG": {
+      "codigo": "CD08.28GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte emborrachada e Aviamentos originais) - Cor: Azul Marinho - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.5GG": {
+      "codigo": "CD08.5GG",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Diesel - Cor: Cinza - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

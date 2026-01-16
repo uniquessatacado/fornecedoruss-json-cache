@@ -1,0 +1,96 @@
+{
+  "codigo": "8962",
+  "nome": "WALDEMAR FERNANDES",
+  "email": "wcafernandes_contabil@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/05/2024",
+  "whatsapp": "(18) 99147-9934",
+  "cidade": "Barbosa",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 181.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "11201",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 00:22:47",
+      "data_hora_confirmacao": "2024-05-06 17:24:30",
+      "data_hora_confirmacao_pagamento": "2024-05-06 17:24:16",
+      "valor_total_produtos": 126.22,
+      "valor_frete": 17.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 143.62,
+      "desconto": 0,
+      "cidade": "Barbosa",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11202",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-03 00:29:09",
+      "data_hora_confirmacao": "2024-05-06 17:23:58",
+      "data_hora_confirmacao_pagamento": "2024-05-06 17:23:45",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Barbosa",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17937": {
+      "codigo": "17937",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17942": {
+      "codigo": "17942",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.124G": {
+      "codigo": "CD02.124G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE 30,04 BRONZE - Cor: LARANJA ESCURO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.136M": {
+      "codigo": "CD02.136M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Branca - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD50.13M": {
+      "codigo": "CD50.13M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

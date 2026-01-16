@@ -1,0 +1,241 @@
+{
+  "codigo": "2486",
+  "nome": "LUCAS LEAL DE CARVALHO",
+  "email": "storelks2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(11) 96224-8616",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 383.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300416",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 02:25:14",
+      "data_hora_confirmacao": "2023-09-22 07:10:44",
+      "data_hora_confirmacao_pagamento": "2023-09-22 07:11:07",
+      "valor_total_produtos": 51,
+      "valor_frete": 13.33,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300838",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 14:43:57",
+      "data_hora_confirmacao": "2023-09-28 14:56:48",
+      "data_hora_confirmacao_pagamento": "2023-09-28 14:56:56",
+      "valor_total_produtos": 8.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 8.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4079",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 11:30:51",
+      "data_hora_confirmacao": "2023-12-06 11:39:57",
+      "data_hora_confirmacao_pagamento": "2023-12-06 11:40:09",
+      "valor_total_produtos": 156,
+      "valor_frete": 12.45,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 168.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4151",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-06 19:43:19",
+      "data_hora_confirmacao": "2023-12-06 19:53:21",
+      "data_hora_confirmacao_pagamento": "2023-12-06 19:53:34",
+      "valor_total_produtos": 56,
+      "valor_frete": 9.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65.68,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31467",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-29 09:11:35",
+      "data_hora_confirmacao": "2025-08-29 09:12:04",
+      "data_hora_confirmacao_pagamento": "2025-08-29 09:12:04",
+      "valor_total_produtos": 64.02,
+      "valor_frete": 12.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.42,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "52518": {
+      "codigo": "52518",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52540": {
+      "codigo": "52540",
+      "titulo": "Cueca Peruana Tommy (LT031) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "53543": {
+      "codigo": "53543",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53549": {
+      "codigo": "53549",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53555": {
+      "codigo": "53555",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53561": {
+      "codigo": "53561",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD24.1GG - Boss": {
+      "codigo": "CD24.1GG - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.2GG - Nike": {
+      "codigo": "CD24.2GG - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.10GG - Lacoste": {
+      "codigo": "CD24.10GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.14GG - Lacoste": {
+      "codigo": "CD24.14GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "PA13": {
+      "codigo": "PA13",
+      "titulo": "CORRENTE DE PRATA  3X1  2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD40.5GG": {
+      "codigo": "CD40.5GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ARMANI LT30.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD02.52": {
+      "codigo": "CD02.52",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT29.11  - Cor: Branca - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.50": {
+      "codigo": "CD02.50",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT29.11  - Cor: Marrom - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD67.4": {
+      "codigo": "CD67.4",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - ONBONGO  LT06.12  - Tamanho: 48",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "ONBONGO",
+      "quantidade": "2"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "codigo": "11728",
+  "nome": "KAICK GABRIEL",
+  "email": "kaickg@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "29/06/2024",
+  "whatsapp": "(19) 99518-5631",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 387.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "14808",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-29 16:47:52",
+      "data_hora_confirmacao": "2024-07-01 13:51:21",
+      "data_hora_confirmacao_pagamento": "2024-07-01 13:51:15",
+      "valor_total_produtos": 94.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 94.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22332",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-10-05 14:16:54",
+      "data_hora_confirmacao": "2024-10-05 14:17:37",
+      "data_hora_confirmacao_pagamento": "2024-10-05 14:17:23",
+      "valor_total_produtos": 292.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 292.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22197": {
+      "codigo": "22197",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22413": {
+      "codigo": "22413",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23048": {
+      "codigo": "23048",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23051": {
+      "codigo": "23051",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30667": {
+      "codigo": "30667",
+      "titulo": "Tênis LV SKATE Linha Super Luxo ITALIANA - LOUIS VUITTON   - Cor: CINZA - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA ITALIANA ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "31404": {
+      "codigo": "31404",
+      "titulo": "Cuecas Peruanas - EMPÓRIO ARMANI - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "31448": {
+      "codigo": "31448",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

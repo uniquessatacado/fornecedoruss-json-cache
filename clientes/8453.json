@@ -1,0 +1,88 @@
+{
+  "codigo": "8453",
+  "nome": "FABIO DE HOLANDA LEITE",
+  "email": "fabioagrimensorleite@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/04/2024",
+  "whatsapp": "(91) 98733-0781",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 269.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "10487",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-21 23:25:45",
+      "data_hora_confirmacao": "2024-04-22 15:16:36",
+      "data_hora_confirmacao_pagamento": "2024-04-22 15:16:30",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 28.18,
+      "frete": "PAC",
+      "valor_total_pedido": 136.15,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25955",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 19:43:27",
+      "data_hora_confirmacao": "2024-12-07 19:48:55",
+      "data_hora_confirmacao_pagamento": "2024-12-07 19:48:55",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 22.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.72,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36417": {
+      "codigo": "36417",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "36460": {
+      "codigo": "36460",
+      "titulo": "Bermuda Microfibra Ultra     - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36463": {
+      "codigo": "36463",
+      "titulo": "Bermuda Microfibra Ultra     - Cor: VERDE MUSGO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21GG": {
+      "codigo": "CD4.21GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

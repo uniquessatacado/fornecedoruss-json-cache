@@ -1,0 +1,104 @@
+{
+  "codigo": "2873",
+  "nome": "HEMERSON POLIDORIO MARTINS",
+  "email": "hemersonbond007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(45) 99149-1398",
+  "cidade": "Foz do Iguaçu",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300732",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 23:58:01",
+      "data_hora_confirmacao": "2023-09-26 11:36:39",
+      "data_hora_confirmacao_pagamento": "2023-09-26 11:36:29",
+      "valor_total_produtos": 141,
+      "valor_frete": 22.99,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 163.99,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301023",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 23:05:41",
+      "data_hora_confirmacao": "2023-09-30 09:18:13",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 57.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 57.5,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.20GG": {
+      "codigo": "CD02.20GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.27GG": {
+      "codigo": "CD08.27GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Arte aplique em tecido e bordado em linha madeira) - Cor: Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD03.02GG": {
+      "codigo": "CD03.02GG",
+      "titulo": "Camiseta Nike 40.1 Oversized - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Oversized",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD13.3GG": {
+      "codigo": "CD13.3GG",
+      "titulo": "Camiseta standard Fit 1:1 - Nike  - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.15GG": {
+      "codigo": "CD08.15GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.22GG - Calvin Klein": {
+      "codigo": "CD24.22GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

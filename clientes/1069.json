@@ -1,0 +1,142 @@
+{
+  "codigo": "1069",
+  "nome": "WELTON FAGUNDES",
+  "email": "Weltonvitor93@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/08/2023",
+  "whatsapp": "(84) 98606-2992",
+  "cidade": "Natal",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 1012.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "3041",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 21:55:38",
+      "data_hora_confirmacao": "2023-11-13 11:53:46",
+      "data_hora_confirmacao_pagamento": "2023-11-13 11:54:00",
+      "valor_total_produtos": 330,
+      "valor_frete": 37.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 367.42,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4600",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 00:35:22",
+      "data_hora_confirmacao": "2023-12-13 01:00:27",
+      "data_hora_confirmacao_pagamento": "2023-12-13 01:00:38",
+      "valor_total_produtos": 314.91,
+      "valor_frete": 25.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 340.71,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4838",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-15 13:22:18",
+      "data_hora_confirmacao": "2023-12-15 13:49:20",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 34.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 34.99,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5538",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 01:35:53",
+      "data_hora_confirmacao": "2023-12-22 02:36:55",
+      "data_hora_confirmacao_pagamento": "2023-12-22 02:37:05",
+      "valor_total_produtos": 244.93,
+      "valor_frete": 24.19,
+      "frete": "LOGGI",
+      "valor_total_pedido": 269.12,
+      "desconto": 0,
+      "cidade": "Natal",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.39M": {
+      "codigo": "CD17.39M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 7
+    },
+    "CD17.39G": {
+      "codigo": "CD17.39G",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.39GG": {
+      "codigo": "CD17.39GG",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS LT26.10    - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 9
+    },
+    "CD17.52": {
+      "codigo": "CD17.52",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.54": {
+      "codigo": "CD17.54",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  LT19.12 - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 7
+    }
+  }
+}

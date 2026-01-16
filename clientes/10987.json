@@ -1,0 +1,53 @@
+{
+  "codigo": "10987",
+  "nome": "NELSON HENRIQUES CORDEIRO",
+  "email": "nh.cordeiro@bol.com.br",
+  "sexo": "0",
+  "data_cadastro": "15/06/2024",
+  "whatsapp": "(11) 96015-0650",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 142.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "19805",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 12:09:03",
+      "data_hora_confirmacao": "2024-08-29 09:43:26",
+      "data_hora_confirmacao_pagamento": "2024-08-29 09:43:18",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 12.51,
+      "frete": "LOGGI",
+      "valor_total_pedido": 142.49,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25181": {
+      "codigo": "25181",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PSG 24/25 (PRONTA ENTREGA) - Tamanho: G - Times : Psg - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25182": {
+      "codigo": "25182",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PSG 24/25 (PRONTA ENTREGA) - Tamanho: GG - Times : Psg - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "codigo": "19049",
+  "nome": "JONES PEREIRA RODRIGUES",
+  "email": "jonesp.rodrigues4@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "20/01/2025",
+  "whatsapp": "(15) 9985-46992",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.07999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "27741",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-20 16:16:42",
+      "data_hora_confirmacao": "2025-01-20 16:19:26",
+      "data_hora_confirmacao_pagamento": "2025-01-20 16:19:26",
+      "valor_total_produtos": 96.66,
+      "valor_frete": 14.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 111.64,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27857",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-28 11:36:56",
+      "data_hora_confirmacao": "2025-01-28 11:38:54",
+      "data_hora_confirmacao_pagamento": "2025-01-28 11:38:54",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 54.44,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38864": {
+      "codigo": "38864",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40511": {
+      "codigo": "40511",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40539": {
+      "codigo": "40539",
+      "titulo": "Camiseta Suedine ultra -(C244) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

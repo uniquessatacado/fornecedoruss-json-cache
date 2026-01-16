@@ -1,0 +1,112 @@
+{
+  "codigo": "2708",
+  "nome": "DANILO DO ESPÍRITO SANTO",
+  "email": "danilo.gugu8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(71) 98832-2791",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 195.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300573",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 12:51:41",
+      "data_hora_confirmacao": "2023-09-23 13:03:16",
+      "data_hora_confirmacao_pagamento": "2023-09-23 13:03:06",
+      "valor_total_produtos": 153,
+      "valor_frete": 34.24,
+      "frete": "PAC",
+      "valor_total_pedido": 187.24,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301024",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 23:44:02",
+      "data_hora_confirmacao": "2023-09-30 09:18:32",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 8.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 8.5,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.4M -  Boss": {
+      "codigo": "CD24.4M -  Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.9M - Hugo Boss": {
+      "codigo": "CD24.9M - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "CD24.17M - Calvin Klein": {
+      "codigo": "CD24.17M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.19M - Calvin Klein": {
+      "codigo": "CD24.19M - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 5
+    },
+    "CD07.20M": {
+      "codigo": "CD07.20M",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Boss  - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD07.19P": {
+      "codigo": "CD07.19P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Boss  - Cor: Azul Bebê - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.22M - Calvin Klein": {
+      "codigo": "CD24.22M - Calvin Klein",
+      "titulo": "Cuecas Peruanas -  Calvin Klein - Cor: Branca - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

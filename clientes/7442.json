@@ -1,0 +1,88 @@
+{
+  "codigo": "7442",
+  "nome": "LUCIANO NASCIMENTO",
+  "email": "fe.luciano.nascimento@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/04/2024",
+  "whatsapp": "(11) 9875-40117",
+  "cidade": "Caieiras",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 169.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "9234",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-02 14:56:04",
+      "data_hora_confirmacao": "2024-04-02 16:06:23",
+      "data_hora_confirmacao_pagamento": "2024-04-02 16:06:17",
+      "valor_total_produtos": 80.97,
+      "valor_frete": 11.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.8,
+      "desconto": 0,
+      "cidade": "Caieiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18672",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 13:40:34",
+      "data_hora_confirmacao": "2024-08-16 15:33:27",
+      "data_hora_confirmacao_pagamento": "2024-08-16 15:33:19",
+      "valor_total_produtos": 63.98,
+      "valor_frete": 12.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.89,
+      "desconto": 0,
+      "cidade": "Caieiras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27573": {
+      "codigo": "27573",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte bordada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27589": {
+      "codigo": "27589",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte bordada - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.134GG": {
+      "codigo": "CD02.134GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Verde Militar",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

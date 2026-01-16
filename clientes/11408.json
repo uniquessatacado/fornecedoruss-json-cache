@@ -1,0 +1,45 @@
+{
+  "codigo": "11408",
+  "nome": "JEAN ADRIEL ALEXANDRE",
+  "email": "jean.alexandre.10@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/06/2024",
+  "whatsapp": "(19) 99477-8526",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 49.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "14420",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-06-24 12:35:24",
+      "data_hora_confirmacao": "2024-06-25 13:29:22",
+      "data_hora_confirmacao_pagamento": "2024-06-27 11:49:24",
+      "valor_total_produtos": 39.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 49.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "2"
+    }
+  }
+}

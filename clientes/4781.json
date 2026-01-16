@@ -1,0 +1,53 @@
+{
+  "codigo": "4781",
+  "nome": "RICK MARENIAK VIDAL DA SILVA",
+  "email": "rickmareniak@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/12/2023",
+  "whatsapp": "(44) 99831-1853",
+  "cidade": "Maringá",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 63.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "4916",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-16 11:46:04",
+      "data_hora_confirmacao": "2023-12-16 12:15:55",
+      "data_hora_confirmacao_pagamento": "2023-12-16 12:16:42",
+      "valor_total_produtos": 43.98,
+      "valor_frete": 19.49,
+      "frete": "PAC",
+      "valor_total_pedido": 63.47,
+      "desconto": 0,
+      "cidade": "Maringá",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto e Branco - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.51": {
+      "codigo": "CD24.51",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT13.12 - Cor: Cinza - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

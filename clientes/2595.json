@@ -1,0 +1,96 @@
+{
+  "codigo": "2595",
+  "nome": "BOANERGES DA SILVA JUNIOR",
+  "email": "paulistacarcustons@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(31) 97158-6089",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 246.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "8888",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-24 23:11:28",
+      "data_hora_confirmacao": "2024-03-25 11:08:15",
+      "data_hora_confirmacao_pagamento": "2024-03-25 11:08:11",
+      "valor_total_produtos": 79.95,
+      "valor_frete": 17.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 97.28,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8967",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 06:29:24",
+      "data_hora_confirmacao": "2024-03-27 10:58:35",
+      "data_hora_confirmacao_pagamento": "2024-03-27 10:58:29",
+      "valor_total_produtos": 130.89,
+      "valor_frete": 18.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 149.54,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.10GG": {
+      "codigo": "CD24.10GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "CD02.119GG": {
+      "codigo": "CD02.119GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKISILVER - Cor: Rosa - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD31GG": {
+      "codigo": "CD31GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - ARMANI  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 10
+    },
+    "CD02.122GG": {
+      "codigo": "CD02.122GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - RIP CURL - Cor: Marrom - Marca: Rip Curl - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "RIPCURL",
+      "quantidade": "1"
+    }
+  }
+}

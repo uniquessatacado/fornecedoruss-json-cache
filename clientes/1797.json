@@ -1,0 +1,96 @@
+{
+  "codigo": "1797",
+  "nome": "JOHNATAN FERREIRA",
+  "email": "acreanostreamer@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "27/08/2023",
+  "whatsapp": "(68) 99600-4335",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 252.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301289",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-04 23:55:22",
+      "data_hora_confirmacao": "2023-10-05 14:02:17",
+      "data_hora_confirmacao_pagamento": "2023-10-05 14:02:25",
+      "valor_total_produtos": 82,
+      "valor_frete": 11.06,
+      "frete": "SEDEX",
+      "valor_total_pedido": 93.06,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9122",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-30 11:38:18",
+      "data_hora_confirmacao": "2024-03-30 11:52:22",
+      "data_hora_confirmacao_pagamento": "2024-03-30 11:52:16",
+      "valor_total_produtos": 146.58,
+      "valor_frete": 12.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159.32,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.34GG": {
+      "codigo": "CD02.34GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD29.3M": {
+      "codigo": "CD29.3M",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD30M": {
+      "codigo": "CD30M",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    },
+    "CD4.12G": {
+      "codigo": "CD4.12G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Azul Bebê - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

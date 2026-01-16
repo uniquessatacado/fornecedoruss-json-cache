@@ -1,0 +1,69 @@
+{
+  "codigo": "16310",
+  "nome": "DANIEL LUIS",
+  "email": "daniiluis0204@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/10/2024",
+  "whatsapp": "(12) 98200-0716",
+  "cidade": "Caraguatatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 139.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "22381",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-06 18:25:23",
+      "data_hora_confirmacao": "2024-10-07 18:01:03",
+      "data_hora_confirmacao_pagamento": "2024-10-07 18:00:56",
+      "valor_total_produtos": 123.96,
+      "valor_frete": 15.84,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.8,
+      "desconto": 0,
+      "cidade": "Caraguatatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31658": {
+      "codigo": "31658",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31704": {
+      "codigo": "31704",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: VERDE MUSGO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31975": {
+      "codigo": "31975",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte emborrachada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32045": {
+      "codigo": "32045",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "codigo": "14017",
+  "nome": "ERICK BATISTA",
+  "email": "erick991679099@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(14) 98182-2200",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 277.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "18588",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 20:26:49",
+      "data_hora_confirmacao": "2024-08-14 10:45:32",
+      "data_hora_confirmacao_pagamento": "2024-08-14 10:45:26",
+      "valor_total_produtos": 259.93,
+      "valor_frete": 17.36,
+      "frete": "LOGGI",
+      "valor_total_pedido": 277.29,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19994": {
+      "codigo": "19994",
+      "titulo": "Relógio G-SHOCK  - Cor: PRATA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "24643": {
+      "codigo": "24643",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "25605": {
+      "codigo": "25605",
+      "titulo": "Calça Sarja Luxo Importada - HUGO BOSS  - Cor: MARROM - Tamanho: 40",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA SARJA LUXO IMPORTADA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27327": {
+      "codigo": "27327",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - PRADA arte em patch emborrachado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "27481": {
+      "codigo": "27481",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte em termogel - Cor: AREIA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "9221",
+  "nome": "MARCIEL ALVES DOS SANTOS",
+  "email": "marcielalvesa427@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/05/2024",
+  "whatsapp": "(11) 9436-53304",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 161.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "27576",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-12 15:22:05",
+      "data_hora_confirmacao": "2025-01-12 15:24:25",
+      "data_hora_confirmacao_pagamento": "2025-01-12 15:24:25",
+      "valor_total_produtos": 144.99,
+      "valor_frete": 16.69,
+      "frete": "SEDEX",
+      "valor_total_pedido": 161.68,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39769": {
+      "codigo": "39769",
+      "titulo": "Camiseta Suedine ultra -(C214) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39895": {
+      "codigo": "39895",
+      "titulo": "Camiseta Suedine ultra -(C218) ARTE EM DTF  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39910": {
+      "codigo": "39910",
+      "titulo": "Camiseta Suedine ultra -(C218) ARTE EM DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

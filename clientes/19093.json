@@ -1,0 +1,61 @@
+{
+  "codigo": "19093",
+  "nome": "LUIS CARLOS",
+  "email": "luiscarlosambrozio097@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "25/01/2025",
+  "whatsapp": "(11) 9636-37651",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 176.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "28074",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-11 23:19:27",
+      "data_hora_confirmacao": "2025-02-11 23:22:28",
+      "data_hora_confirmacao_pagamento": "2025-02-11 23:22:28",
+      "valor_total_produtos": 159.99,
+      "valor_frete": 16.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 176.89,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41631": {
+      "codigo": "41631",
+      "titulo": "Camiseta Tecido Cashmere Importada (C480) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "41636": {
+      "codigo": "41636",
+      "titulo": "Camiseta Tecido Cashmere Importada (C479) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "41649": {
+      "codigo": "41649",
+      "titulo": "Camiseta Tecido Cashmere Importada (C477) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

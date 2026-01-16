@@ -1,0 +1,69 @@
+{
+  "codigo": "12526",
+  "nome": "SERGIO VINICIUS LEITE",
+  "email": "sviniciusleite@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/07/2024",
+  "whatsapp": "(11) 94710-1680",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 104.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "22161",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-02 17:19:59",
+      "data_hora_confirmacao": "2024-10-02 17:26:06",
+      "data_hora_confirmacao_pagamento": "2024-10-02 17:26:00",
+      "valor_total_produtos": 89.94,
+      "valor_frete": 14.15,
+      "frete": "LOGGI",
+      "valor_total_pedido": 104.09,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29405": {
+      "codigo": "29405",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "2"
+    },
+    "29408": {
+      "codigo": "29408",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "2"
+    },
+    "29659": {
+      "codigo": "29659",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "30108": {
+      "codigo": "30108",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - QUIKSILVER - Cor: PRETO MARINHO VERDE  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

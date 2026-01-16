@@ -1,0 +1,72 @@
+{
+  "codigo": "18343",
+  "nome": "LARISSA NASCIMENTO DOS SANTOS SANTOS",
+  "email": "lariiissasantos2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/12/2024",
+  "whatsapp": "(62) 98130-3041",
+  "cidade": "Aparecida de Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 118.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "28073",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-11 23:18:19",
+      "data_hora_confirmacao": "2025-02-11 23:20:06",
+      "data_hora_confirmacao_pagamento": "2025-02-11 23:20:06",
+      "valor_total_produtos": 53.33,
+      "valor_frete": 16.12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.45,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30387",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-25 13:29:49",
+      "data_hora_confirmacao": "2025-06-25 13:30:34",
+      "data_hora_confirmacao_pagamento": "2025-06-25 13:30:34",
+      "valor_total_produtos": 31.5,
+      "valor_frete": 17.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.43,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41657": {
+      "codigo": "41657",
+      "titulo": "Camiseta Tecido Cashmere Importada (C478) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "48092": {
+      "codigo": "48092",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT53A (C957) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    }
+  }
+}

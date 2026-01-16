@@ -1,0 +1,96 @@
+{
+  "codigo": "5816",
+  "nome": "MURILO MORENO DIAS",
+  "email": "murilomorenodias@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "27/01/2024",
+  "whatsapp": "(11) 9929-80235",
+  "cidade": "São Caetano do Sul",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 193.17000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "6892",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-27 13:37:48",
+      "data_hora_confirmacao": "2024-01-30 09:52:41",
+      "data_hora_confirmacao_pagamento": "2024-01-30 09:52:20",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 10.96,
+      "frete": "SEDEX",
+      "valor_total_pedido": 79.94,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7435",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-21 18:04:09",
+      "data_hora_confirmacao": "2024-02-21 18:08:03",
+      "data_hora_confirmacao_pagamento": "2024-02-21 18:07:58",
+      "valor_total_produtos": 99.97,
+      "valor_frete": 13.26,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.23,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD69.41": {
+      "codigo": "CD69.41",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS - Cor: Bege - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD02.92": {
+      "codigo": "CD02.92",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.100G": {
+      "codigo": "CD02.100G",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Azul - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.100GG": {
+      "codigo": "CD02.100GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD69.40": {
+      "codigo": "CD69.40",
+      "titulo": "CAMISETA EGIPICIA COTTON - GUCCI - Cor: OffWhite - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

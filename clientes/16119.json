@@ -1,0 +1,77 @@
+{
+  "codigo": "16119",
+  "nome": "MARCOS ANTÔNIO DE JESUS",
+  "email": "markin.icm@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2024",
+  "whatsapp": "(31) 99837-8232",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 214.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "22051",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-01 06:47:07",
+      "data_hora_confirmacao": "2024-10-03 17:27:48",
+      "data_hora_confirmacao_pagamento": "2024-10-03 17:27:39",
+      "valor_total_produtos": 193.95,
+      "valor_frete": 20.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 214.71,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30109": {
+      "codigo": "30109",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "30322": {
+      "codigo": "30322",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - PRADA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "30843": {
+      "codigo": "30843",
+      "titulo": "Bermuda Microfibra Ultra - NIKE FACÃO  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31271": {
+      "codigo": "31271",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - MCD - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "31385": {
+      "codigo": "31385",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

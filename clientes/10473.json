@@ -1,0 +1,53 @@
+{
+  "codigo": "10473",
+  "nome": "ALECSANDRO RODRIGO TEODORO",
+  "email": "alecsteodoro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(11) 98249-3918",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "13176",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 22:56:15",
+      "data_hora_confirmacao": "2024-06-06 10:33:55",
+      "data_hora_confirmacao_pagamento": "2024-06-06 10:33:47",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 13.15,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 87.13,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18004": {
+      "codigo": "18004",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VERSACE - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "20440": {
+      "codigo": "20440",
+      "titulo": "Bermuda Microfibra Ultra NIKE  - Cor: VERDE MUSGO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

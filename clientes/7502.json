@@ -1,0 +1,45 @@
+{
+  "codigo": "7502",
+  "nome": "MATHEUS RAMOS",
+  "email": "matheus.ramos.chave@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(15) 99666-3554",
+  "cidade": "Itapeva",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 45.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "9326",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-03 12:09:47",
+      "data_hora_confirmacao": "2024-04-03 13:17:33",
+      "data_hora_confirmacao_pagamento": "2024-04-03 13:17:29",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 14.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 45.09,
+      "desconto": 0,
+      "cidade": "Itapeva",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

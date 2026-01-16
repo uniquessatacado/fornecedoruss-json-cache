@@ -1,0 +1,61 @@
+{
+  "codigo": "9660",
+  "nome": "RAFAEL DA SILVA GONÇALVES",
+  "email": "Rafaeldasilvagoncalves37@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(44) 99182-6414",
+  "cidade": "São Jorge do Patrocínio",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 177.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "12188",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 12:33:06",
+      "data_hora_confirmacao": "2024-05-22 13:50:40",
+      "data_hora_confirmacao_pagamento": "2024-05-22 13:50:31",
+      "valor_total_produtos": 126.97,
+      "valor_frete": 50.13,
+      "frete": "SEDEX",
+      "valor_total_pedido": 177.1,
+      "desconto": 0,
+      "cidade": "São Jorge do Patrocínio",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19100": {
+      "codigo": "19100",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19113": {
+      "codigo": "19113",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em gel - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "KT1.2M": {
+      "codigo": "KT1.2M",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

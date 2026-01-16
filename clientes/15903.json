@@ -1,0 +1,69 @@
+{
+  "codigo": "15903",
+  "nome": "JOÃO VICTOR ALENCAR DE FREITAS",
+  "email": "flamenjo15@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2024",
+  "whatsapp": "(83) 98857-0422",
+  "cidade": "João Pessoa",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 216.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "21600",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-23 11:45:22",
+      "data_hora_confirmacao": "2024-09-25 16:27:29",
+      "data_hora_confirmacao_pagamento": "2024-09-25 16:27:21",
+      "valor_total_produtos": 130.96,
+      "valor_frete": 85.37,
+      "frete": "SEDEX",
+      "valor_total_pedido": 216.33,
+      "desconto": 0,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27415": {
+      "codigo": "27415",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - ARMANI arte emborrachada - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "28721": {
+      "codigo": "28721",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em aplique - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "29716": {
+      "codigo": "29716",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30764": {
+      "codigo": "30764",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

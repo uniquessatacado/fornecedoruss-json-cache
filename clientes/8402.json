@@ -1,0 +1,72 @@
+{
+  "codigo": "8402",
+  "nome": "MATHEUS MOREIRA",
+  "email": "moreiramatheus.2004@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/04/2024",
+  "whatsapp": "(19) 99532-2351",
+  "cidade": "Araras",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 60.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "10458",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 22:32:51",
+      "data_hora_confirmacao": "2024-04-22 11:04:41",
+      "data_hora_confirmacao_pagamento": "2024-04-22 11:04:37",
+      "valor_total_produtos": 15.9,
+      "valor_frete": 9.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 25.87,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11204",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-03 02:05:28",
+      "data_hora_confirmacao": "2024-05-03 11:45:44",
+      "data_hora_confirmacao_pagamento": "2024-05-03 11:45:34",
+      "valor_total_produtos": 25,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 34.93,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.32P": {
+      "codigo": "CD16.32P",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.78": {
+      "codigo": "CD01.78",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  REAL MADRID  LT10.11   - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

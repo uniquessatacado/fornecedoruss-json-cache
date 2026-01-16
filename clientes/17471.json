@@ -1,0 +1,88 @@
+{
+  "codigo": "17471",
+  "nome": "JHONATAN CHAGAS SATURNINO",
+  "email": "jhonatanchagas007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/11/2024",
+  "whatsapp": "(11) 91427-3433",
+  "cidade": "Itatiba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 236.59000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "24421",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-14 15:50:41",
+      "data_hora_confirmacao": "2024-11-14 15:53:15",
+      "data_hora_confirmacao_pagamento": "2024-11-14 15:53:15",
+      "valor_total_produtos": 142.97,
+      "valor_frete": 15.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 158.61,
+      "desconto": 0,
+      "cidade": "Itatiba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28325",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-02-23 22:41:20",
+      "data_hora_confirmacao": "2025-02-23 22:42:07",
+      "data_hora_confirmacao_pagamento": "2025-02-23 22:42:07",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 11.99,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.98,
+      "desconto": 0,
+      "cidade": "Itatiba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29954": {
+      "codigo": "29954",
+      "titulo": "Camisa de time Tailandesa 1.1 PALMEIRAS 24/25 TORCEDOR- (envio direto da fabrica)   - Tamanho: GG - Times : Palmeiras - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33127": {
+      "codigo": "33127",
+      "titulo": "Oculos OAKLEY JULIET - DOUBLE X - ARMAÇÃO: X METAL - CHUMBO  - COR DA LENTE: BLACK - Kit Borracha: PRETA - MODELO: DOUBLE X",
+      "categoria_principal": "OCULOS",
+      "categoria": "DOUBLE-XX",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "34109": {
+      "codigo": "34109",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34189": {
+      "codigo": "34189",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

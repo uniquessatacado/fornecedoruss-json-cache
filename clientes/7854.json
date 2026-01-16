@@ -1,0 +1,101 @@
+{
+  "codigo": "7854",
+  "nome": "MARIA CLARA DE SOUSA",
+  "email": "clarasousa8607@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(11) 97108-2650",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 154.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "22301",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-04 23:44:58",
+      "data_hora_confirmacao": "2024-10-05 09:47:53",
+      "data_hora_confirmacao_pagamento": "2024-10-05 09:47:43",
+      "valor_total_produtos": 139.92,
+      "valor_frete": 14.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.63,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28676": {
+      "codigo": "28676",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: VERDE MILITAR",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29400": {
+      "codigo": "29400",
+      "titulo": "Cuecas Peruanas - MOSCHINO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "30572": {
+      "codigo": "30572",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "31254": {
+      "codigo": "31254",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO VERMELHO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "31501": {
+      "codigo": "31501",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "31872": {
+      "codigo": "31872",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32020": {
+      "codigo": "32020",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

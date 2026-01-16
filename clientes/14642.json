@@ -1,0 +1,53 @@
+{
+  "codigo": "14642",
+  "nome": "JOSUÉ RIBEIRO DE MORAES",
+  "email": "josuegemado12@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/08/2024",
+  "whatsapp": "(65) 9245-3785",
+  "cidade": "Várzea Grande",
+  "estado": "MT",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 79.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "22736",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-13 08:38:20",
+      "data_hora_confirmacao": "2024-10-14 10:18:15",
+      "data_hora_confirmacao_pagamento": "2024-10-14 10:18:07",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 29.38,
+      "frete": "PAC",
+      "valor_total_pedido": 79.36,
+      "desconto": 0,
+      "cidade": "Várzea Grande",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31827": {
+      "codigo": "31827",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31987": {
+      "codigo": "31987",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em BORDADO - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "17990",
+  "nome": "CARLOS DOS SANTOS SILVA",
+  "email": "Carlosgordimss@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "01/12/2024",
+  "whatsapp": "(31) 9943-56815",
+  "cidade": "Contagem",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 173.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "25476",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 08:37:41",
+      "data_hora_confirmacao": "2024-12-01 08:40:08",
+      "data_hora_confirmacao_pagamento": "2024-12-01 08:40:08",
+      "valor_total_produtos": 154.96,
+      "valor_frete": 18.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 173.91,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35380": {
+      "codigo": "35380",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "35629": {
+      "codigo": "35629",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35700": {
+      "codigo": "35700",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "35846": {
+      "codigo": "35846",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

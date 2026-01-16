@@ -1,0 +1,99 @@
+{
+  "codigo": "6807",
+  "nome": "GABRIEL LUÍS NASCIMENTO QUINTILIANO",
+  "email": "gabriellnquintiliano5@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/03/2024",
+  "whatsapp": "(35) 98478-8114",
+  "cidade": "Três Corações",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 140.7,
+  "pedidos": [
+    {
+      "codigo_pedido": "8224",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-11 20:05:22",
+      "data_hora_confirmacao": "2024-03-12 14:14:48",
+      "data_hora_confirmacao_pagamento": "2024-03-12 14:14:43",
+      "valor_total_produtos": 37.5,
+      "valor_frete": 18.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 55.9,
+      "desconto": 0,
+      "cidade": "Três Corações",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8350",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 22:40:56",
+      "data_hora_confirmacao": "2024-03-13 13:23:30",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:23:25",
+      "valor_total_produtos": 33.18,
+      "valor_frete": 16.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.45,
+      "desconto": 0,
+      "cidade": "Três Corações",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8660",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 11:51:12",
+      "data_hora_confirmacao": "2024-03-19 11:51:12",
+      "data_hora_confirmacao_pagamento": "2024-03-19 11:59:16",
+      "valor_total_produtos": 18.75,
+      "valor_frete": 16.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 35.35,
+      "desconto": 0,
+      "cidade": "Três Corações",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.01G": {
+      "codigo": "CD14.01G",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Cinza - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD32M": {
+      "codigo": "CD32M",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD32G": {
+      "codigo": "CD32G",
+      "titulo": "Bermuda Microfibra Premium - NIKE  - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

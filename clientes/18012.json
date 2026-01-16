@@ -1,0 +1,53 @@
+{
+  "codigo": "18012",
+  "nome": "DEBORAH RODRIGUES MESQUITA",
+  "email": "deborahepaula@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/12/2024",
+  "whatsapp": "(91) 99119-7873",
+  "cidade": "Barcarena",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 122.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "25504",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 23:20:38",
+      "data_hora_confirmacao": "2024-12-01 23:23:58",
+      "data_hora_confirmacao_pagamento": "2024-12-01 23:23:58",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 41.09,
+      "frete": "LOGGI",
+      "valor_total_pedido": 122.07,
+      "desconto": 0,
+      "cidade": "Barcarena",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35790": {
+      "codigo": "35790",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35855": {
+      "codigo": "35855",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

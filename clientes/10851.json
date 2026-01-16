@@ -1,0 +1,85 @@
+{
+  "codigo": "10851",
+  "nome": "DIEGO FERNANDO JORGE",
+  "email": "diego.jorge@me.com",
+  "sexo": "0",
+  "data_cadastro": "13/06/2024",
+  "whatsapp": "(45) 99965-6319",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 282.08,
+  "pedidos": [
+    {
+      "codigo_pedido": "13606",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-13 15:34:35",
+      "data_hora_confirmacao": "2024-06-14 13:40:05",
+      "data_hora_confirmacao_pagamento": "2024-06-14 13:39:59",
+      "valor_total_produtos": 256.94,
+      "valor_frete": 25.14,
+      "frete": "JADLOG",
+      "valor_total_pedido": 282.08,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17782": {
+      "codigo": "17782",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19776": {
+      "codigo": "19776",
+      "titulo": "Boné Super Premium - NY NEW ERA - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19884": {
+      "codigo": "19884",
+      "titulo": "Camisetas 40.1 Ultra Premium  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19888": {
+      "codigo": "19888",
+      "titulo": "Camisetas 40.1 Ultra Premium  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "20105": {
+      "codigo": "20105",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20390": {
+      "codigo": "20390",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

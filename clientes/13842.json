@@ -1,0 +1,72 @@
+{
+  "codigo": "13842",
+  "nome": "TADEU ALVES SANTANA",
+  "email": "tadeuallves@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/08/2024",
+  "whatsapp": "(75) 99937-8518",
+  "cidade": "Cícero Dantas",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 286.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "18759",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 09:48:49",
+      "data_hora_confirmacao": "2024-08-16 17:55:54",
+      "data_hora_confirmacao_pagamento": "2024-08-16 17:55:49",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 34.68,
+      "frete": "PAC",
+      "valor_total_pedido": 152.67,
+      "desconto": 0,
+      "cidade": "Cícero Dantas",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24566",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-17 13:10:04",
+      "data_hora_confirmacao": "2024-11-17 13:11:28",
+      "data_hora_confirmacao_pagamento": "2024-11-17 13:11:28",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 38.19,
+      "frete": "PAC",
+      "valor_total_pedido": 134.08,
+      "desconto": 0,
+      "cidade": "Cícero Dantas",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20748": {
+      "codigo": "20748",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G2 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21237": {
+      "codigo": "21237",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

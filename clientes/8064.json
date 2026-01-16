@@ -1,0 +1,88 @@
+{
+  "codigo": "8064",
+  "nome": "RONALDO SOSTENIS DOS SANTOS BERNARDO",
+  "email": "ronaldosostenis@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/04/2024",
+  "whatsapp": "(11) 99707-8481",
+  "cidade": "Poá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "11554",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 00:26:26",
+      "data_hora_confirmacao": "2024-05-10 14:37:51",
+      "data_hora_confirmacao_pagamento": "2024-05-10 14:37:39",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 20.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 82.29,
+      "desconto": 0,
+      "cidade": "Poá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12269",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 23:39:20",
+      "data_hora_confirmacao": "2024-05-22 19:43:51",
+      "data_hora_confirmacao_pagamento": "2024-05-22 19:43:42",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 12.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.66,
+      "desconto": 0,
+      "cidade": "Poá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17887": {
+      "codigo": "17887",
+      "titulo": "Camiseta 40.1 Ultra  - HURLEY - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "17888": {
+      "codigo": "17888",
+      "titulo": "Camiseta 40.1 Ultra  - HURLEY - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "19075": {
+      "codigo": "19075",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em ferro - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19155": {
+      "codigo": "19155",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em camurça - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

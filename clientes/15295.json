@@ -1,0 +1,45 @@
+{
+  "codigo": "15295",
+  "nome": "DAVI BARROS",
+  "email": "davizera2005@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/09/2024",
+  "whatsapp": "(19) 98899-0947",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 65.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "20569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-07 00:04:53",
+      "data_hora_confirmacao": "2024-09-09 09:47:26",
+      "data_hora_confirmacao_pagamento": "2024-09-09 09:47:18",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 65.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 65,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "28994": {
+      "codigo": "28994",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

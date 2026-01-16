@@ -1,0 +1,369 @@
+{
+  "codigo": "1496",
+  "nome": "PEDRO GESSINGER SILVA",
+  "email": "flapegessinger@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/08/2023",
+  "whatsapp": "(88) 99455-2711",
+  "cidade": "Jaguaruana",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 1615.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "2836",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 01:28:35",
+      "data_hora_confirmacao": "2023-11-08 01:31:50",
+      "data_hora_confirmacao_pagamento": "2023-11-08 01:32:01",
+      "valor_total_produtos": 243.9,
+      "valor_frete": 56.01,
+      "frete": "PAC",
+      "valor_total_pedido": 299.91,
+      "desconto": 0,
+      "cidade": "Jaguaruana",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4558",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 19:19:02",
+      "data_hora_confirmacao": "2023-12-12 22:28:42",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:28:52",
+      "valor_total_produtos": 243.85,
+      "valor_frete": 56.01,
+      "frete": "PAC",
+      "valor_total_pedido": 299.86,
+      "desconto": 0,
+      "cidade": "Jaguaruana",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19721",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 11:47:59",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-08-27 11:50:03",
+      "valor_total_produtos": 407.9,
+      "valor_frete": 77.69,
+      "frete": "PAC",
+      "valor_total_pedido": 485.59,
+      "desconto": 0,
+      "cidade": "Jaguaruana",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20131",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-02 12:32:50",
+      "data_hora_confirmacao": "2024-09-02 13:09:24",
+      "data_hora_confirmacao_pagamento": "2024-09-02 13:10:10",
+      "valor_total_produtos": 81.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 81.98,
+      "desconto": 0,
+      "cidade": "Jaguaruana",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-09 12:06:57",
+      "data_hora_confirmacao": "2025-06-09 12:10:07",
+      "data_hora_confirmacao_pagamento": "2025-06-09 12:10:07",
+      "valor_total_produtos": 390.3,
+      "valor_frete": 57.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 447.97,
+      "desconto": 0,
+      "cidade": "Jaguaruana",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27054": {
+      "codigo": "27054",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em bordado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28136": {
+      "codigo": "28136",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28178": {
+      "codigo": "28178",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28273": {
+      "codigo": "28273",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28687": {
+      "codigo": "28687",
+      "titulo": "Camiseta Algodão Soft Americano - GUCCI arte composta - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "28722": {
+      "codigo": "28722",
+      "titulo": "Camiseta Algodão Soft Americano - DIESEL arte em aplique - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "28767": {
+      "codigo": "28767",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28776": {
+      "codigo": "28776",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte em pelúcia  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28785": {
+      "codigo": "28785",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte emborrachada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "28884": {
+      "codigo": "28884",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28893": {
+      "codigo": "28893",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28911": {
+      "codigo": "28911",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46456": {
+      "codigo": "46456",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C822) - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "47464": {
+      "codigo": "47464",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C870)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47993": {
+      "codigo": "47993",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C940) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48396": {
+      "codigo": "48396",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT58A (C1010) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "48414": {
+      "codigo": "48414",
+      "titulo": "Camiseta Suedine 1:1 Ultra Diesel | ARTE EM DTF LT58A (C1013) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48426": {
+      "codigo": "48426",
+      "titulo": "Camiseta Suedine 1:1 Ultra Diesel | ARTE EM DTF LT58A (C1015) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48432": {
+      "codigo": "48432",
+      "titulo": "Camiseta Suedine 1:1 Ultra Diesel | ARTE EM DTF LT58A (C1016) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "48761": {
+      "codigo": "48761",
+      "titulo": "Cuecas Peruanas - Tommy LT62A (C1072)  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "48771": {
+      "codigo": "48771",
+      "titulo": "Cuecas Peruanas - Tommy LT62A (C1074) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "48785": {
+      "codigo": "48785",
+      "titulo": "Cuecas Peruanas - Calvin Klein LT62A (C1076) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "48797": {
+      "codigo": "48797",
+      "titulo": "Cuecas Peruanas - Calvin Klein LT62A (C1078) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "49475": {
+      "codigo": "49475",
+      "titulo": "Camiseta 40.1 Lacoste | LT68A (C1177) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.19": {
+      "codigo": "CD39.19",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.20": {
+      "codigo": "CD39.20",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11  LT07.11    - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD46.4": {
+      "codigo": "CD46.4",
+      "titulo": "Camiseta Genuína Cotton Soft - HUGO BOSS  LT30.10   - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.41": {
+      "codigo": "CD08.41",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.49": {
+      "codigo": "CD17.49",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT12.12 - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.35": {
+      "codigo": "CD39.35",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD39.37": {
+      "codigo": "CD39.37",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT12.12   - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD60.8": {
+      "codigo": "CD60.8",
+      "titulo": "Óculos  Double X - VERMELHO C/LARANJA  LT07.12  - Cor da Armação: Prata - Cor da Lente: Vermelho c/Laranja  - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

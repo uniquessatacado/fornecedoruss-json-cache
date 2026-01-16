@@ -1,0 +1,53 @@
+{
+  "codigo": "11612",
+  "nome": "LUIZ MARINS NETO",
+  "email": "neto.marins00@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/06/2024",
+  "whatsapp": "(15) 99676-0345",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 175.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "21166",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-15 22:16:54",
+      "data_hora_confirmacao": "2024-09-16 10:27:04",
+      "data_hora_confirmacao_pagamento": "2024-09-16 10:26:57",
+      "valor_total_produtos": 160.98,
+      "valor_frete": 14.43,
+      "frete": "SEDEX",
+      "valor_total_pedido": 175.41,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20744": {
+      "codigo": "20744",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21236": {
+      "codigo": "21236",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

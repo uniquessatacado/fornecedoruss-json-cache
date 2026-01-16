@@ -1,0 +1,45 @@
+{
+  "codigo": "15683",
+  "nome": "VITOR HUGO",
+  "email": "vh3968073@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/09/2024",
+  "whatsapp": "(62) 9962-56698",
+  "cidade": "Trindade",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 46.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "21211",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-16 18:27:44",
+      "data_hora_confirmacao": "2024-09-17 10:53:10",
+      "data_hora_confirmacao_pagamento": "2024-09-17 10:53:03",
+      "valor_total_produtos": 22.99,
+      "valor_frete": 23.65,
+      "frete": "PAC",
+      "valor_total_pedido": 46.64,
+      "desconto": 0,
+      "cidade": "Trindade",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30382": {
+      "codigo": "30382",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

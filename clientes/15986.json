@@ -1,0 +1,69 @@
+{
+  "codigo": "15986",
+  "nome": "CAIO LARA BORGES",
+  "email": "caiolaraborges2007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2024",
+  "whatsapp": "(31) 98233-6234",
+  "cidade": "Contagem",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 175.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "22550",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-09 11:15:25",
+      "data_hora_confirmacao": "2024-10-09 14:33:41",
+      "data_hora_confirmacao_pagamento": "2024-10-09 14:33:21",
+      "valor_total_produtos": 153.96,
+      "valor_frete": 21.68,
+      "frete": "JADLOG",
+      "valor_total_pedido": 175.64,
+      "desconto": 0,
+      "cidade": "Contagem",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18104": {
+      "codigo": "18104",
+      "titulo": "FONE BLUETOOTH I12 TWS - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "29817": {
+      "codigo": "29817",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31630": {
+      "codigo": "31630",
+      "titulo": "Tênis Nike Air Force React - NIKE - Cor: PRETO BRANCO CHUMBO - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31871": {
+      "codigo": "31871",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

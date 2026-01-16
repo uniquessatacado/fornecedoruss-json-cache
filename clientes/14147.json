@@ -1,0 +1,93 @@
+{
+  "codigo": "14147",
+  "nome": "RODRIGO DE MORAES",
+  "email": "rodrigomanuela7@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/08/2024",
+  "whatsapp": "(19) 9740-49777",
+  "cidade": "Piracicaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 83.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "18851",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-15 17:29:34",
+      "data_hora_confirmacao": "2024-08-16 19:24:11",
+      "data_hora_confirmacao_pagamento": "2024-08-16 19:24:05",
+      "valor_total_produtos": 69.93,
+      "valor_frete": 13.28,
+      "frete": "SEDEX",
+      "valor_total_pedido": 83.21,
+      "desconto": 0,
+      "cidade": "Piracicaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24635": {
+      "codigo": "24635",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24638": {
+      "codigo": "24638",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27221": {
+      "codigo": "27221",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27230": {
+      "codigo": "27230",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "27255": {
+      "codigo": "27255",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27286": {
+      "codigo": "27286",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "27292": {
+      "codigo": "27292",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

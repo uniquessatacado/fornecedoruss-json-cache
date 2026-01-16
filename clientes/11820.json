@@ -1,0 +1,61 @@
+{
+  "codigo": "11820",
+  "nome": "GUTEMBERG SILVESTRE",
+  "email": "joovictor102@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(21) 96447-8354",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 421.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "15000",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 21:22:56",
+      "data_hora_confirmacao": "2024-07-03 09:25:20",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:25:14",
+      "valor_total_produtos": 441.92,
+      "valor_frete": 24.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 421.79,
+      "desconto": 44.19,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 70,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "23232": {
+      "codigo": "23232",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23304": {
+      "codigo": "23304",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: P - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23305": {
+      "codigo": "23305",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO PRONTA ENTREGA) - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

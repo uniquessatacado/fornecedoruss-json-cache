@@ -1,0 +1,96 @@
+{
+  "codigo": "10600",
+  "nome": "ALEXANDRE MATHEUS",
+  "email": "amatheus1963@uol.com.br",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(16) 9810-98461",
+  "cidade": "Borborema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 240.13,
+  "pedidos": [
+    {
+      "codigo_pedido": "13279",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 11:08:53",
+      "data_hora_confirmacao": "2024-06-07 13:14:55",
+      "data_hora_confirmacao_pagamento": "2024-06-07 13:14:49",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 18.57,
+      "frete": "PAC",
+      "valor_total_pedido": 80.55,
+      "desconto": 0,
+      "cidade": "Borborema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14027",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 12:31:29",
+      "data_hora_confirmacao": "2024-06-19 18:12:34",
+      "data_hora_confirmacao_pagamento": "2024-06-19 18:12:28",
+      "valor_total_produtos": 135.97,
+      "valor_frete": 23.61,
+      "frete": "SEDEX",
+      "valor_total_pedido": 159.58,
+      "desconto": 0,
+      "cidade": "Borborema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19885": {
+      "codigo": "19885",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19887": {
+      "codigo": "19887",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "21825": {
+      "codigo": "21825",
+      "titulo": "CAMISETAS GENUINA COTTON TANGUIS TURCO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "21829": {
+      "codigo": "21829",
+      "titulo": "CAMISETAS GENUINA COTTON TANGUIS TURCO - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "22043": {
+      "codigo": "22043",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - ARAMIS arte em bordado  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "ARAMIS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "codigo": "4019",
+  "nome": "JUAN CARLOS",
+  "email": "juancarlosarriaga441@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(19) 99721-3704",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 9,
+  "valor_total_comprado": 2846.9900000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "3038",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-10 19:59:11",
+      "data_hora_confirmacao": "2023-11-11 09:14:10",
+      "data_hora_confirmacao_pagamento": "2023-11-11 09:37:22",
+      "valor_total_produtos": 163,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 163,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13372",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-08 08:02:04",
+      "data_hora_confirmacao": "2024-06-08 10:59:29",
+      "data_hora_confirmacao_pagamento": "2024-06-14 13:17:19",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 64.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13646",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-14 13:11:48",
+      "data_hora_confirmacao": "2024-06-14 13:13:28",
+      "data_hora_confirmacao_pagamento": "2024-06-14 13:16:45",
+      "valor_total_produtos": 129.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 129.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15353",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-08 13:04:23",
+      "data_hora_confirmacao": "2024-07-08 13:04:23",
+      "data_hora_confirmacao_pagamento": "2024-07-08 13:06:20",
+      "valor_total_produtos": 326.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 326.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17112",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-26 17:20:34",
+      "data_hora_confirmacao": "2024-07-27 10:26:55",
+      "data_hora_confirmacao_pagamento": "2024-07-27 10:25:12",
+      "valor_total_produtos": 534.87,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 534.87,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17163",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-27 10:23:30",
+      "data_hora_confirmacao": "2024-07-27 12:38:07",
+      "data_hora_confirmacao_pagamento": "2024-07-27 13:09:17",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 64.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17183",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-27 13:01:30",
+      "data_hora_confirmacao": "2024-07-27 13:02:15",
+      "data_hora_confirmacao_pagamento": "2024-07-27 13:09:50",
+      "valor_total_produtos": 163.92,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 163.92,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29343",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-04-17 11:49:09",
+      "data_hora_confirmacao": "2025-04-17 11:59:10",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 833.34,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 833.34,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29703",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-09 13:13:02",
+      "data_hora_confirmacao": "2025-05-09 13:13:50",
+      "data_hora_confirmacao_pagamento": "2025-05-09 13:14:51",
+      "valor_total_produtos": 565,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 565,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "5683": {
+      "codigo": "5683",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS  LT27.10  - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "5684": {
+      "codigo": "5684",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS  LT27.10  - Tamanho: GG - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19684": {
+      "codigo": "19684",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR ARGENTINA PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20014": {
+      "codigo": "20014",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FRANÇA (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20016": {
+      "codigo": "20016",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INGLATERRA (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20230": {
+      "codigo": "20230",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: Kit Preto-Cinza-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "20544": {
+      "codigo": "20544",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR ALEMANHA (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21511": {
+      "codigo": "21511",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "21512": {
+      "codigo": "21512",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "21513": {
+      "codigo": "21513",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21514": {
+      "codigo": "21514",
+      "titulo": "CAMISETAS DE TIMES NACIONAL  INFANTIL - PALMEIRAS - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23014": {
+      "codigo": "23014",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23193": {
+      "codigo": "23193",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23217": {
+      "codigo": "23217",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  - Tamanho: P - Times : Borussia Dortmund - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "23218": {
+      "codigo": "23218",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  - Tamanho: M - Times : Borussia Dortmund - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "23219": {
+      "codigo": "23219",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BORUSSIA DORTMUND  - Tamanho: G - Times : Borussia Dortmund - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "23265": {
+      "codigo": "23265",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - MANCHESTER CITY  - Tamanho: P - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23266": {
+      "codigo": "23266",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - MANCHESTER CITY  - Tamanho: M - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23590": {
+      "codigo": "23590",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24138": {
+      "codigo": "24138",
+      "titulo": "Calça Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24145": {
+      "codigo": "24145",
+      "titulo": "Calça Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24169": {
+      "codigo": "24169",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24181": {
+      "codigo": "24181",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24743": {
+      "codigo": "24743",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA LACOSTE - Cor: Kit Preto-Cinza-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "24752": {
+      "codigo": "24752",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA HUGO BOSS - Cor: Kit Preto-Cinza-Marinho - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "24807": {
+      "codigo": "24807",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em bordado madeira  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25158": {
+      "codigo": "25158",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY 24/25 (PRONTA ENTREGA) - Tamanho: M - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25169": {
+      "codigo": "25169",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA 24/25 (PRONTA ENTREGA) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25395": {
+      "codigo": "25395",
+      "titulo": "Cuecas Peruanas - DOLCE & GABBANA  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "25417": {
+      "codigo": "25417",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25420": {
+      "codigo": "25420",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25451": {
+      "codigo": "25451",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "33748": {
+      "codigo": "33748",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BAYERN DE MUNIQUE - Tamanho: P - Times : Bayern de Munique - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "39338": {
+      "codigo": "39338",
+      "titulo": "Camiseta Malha chinesa (C191) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "40785": {
+      "codigo": "40785",
+      "titulo": "Cuecas Peruanas (C259)    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "42509": {
+      "codigo": "42509",
+      "titulo": "Cueca Peruana LT29A (C637) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "42523": {
+      "codigo": "42523",
+      "titulo": "Cueca Peruana LT29A (C637) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "42541": {
+      "codigo": "42541",
+      "titulo": "Cueca Peruana LT29A (C638) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "42569": {
+      "codigo": "42569",
+      "titulo": "Cueca Peruana LT29A (C639) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42597": {
+      "codigo": "42597",
+      "titulo": "Cueca Peruana LT29A (C640) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "43112": {
+      "codigo": "43112",
+      "titulo": "Bermuda Microfibra Ultra LT31A (C666)  - Cor: PRETO C/ BRANCO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43302": {
+      "codigo": "43302",
+      "titulo": "Cueca Peruana LT32A (C673)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "43407": {
+      "codigo": "43407",
+      "titulo": "Cueca Peruana LT32A (C671)  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "43414": {
+      "codigo": "43414",
+      "titulo": "Cueca Peruana LT32A (C671)  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "45727": {
+      "codigo": "45727",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C769)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45930": {
+      "codigo": "45930",
+      "titulo": "Cueca Peruana LT36A (C776) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "45939": {
+      "codigo": "45939",
+      "titulo": "Cueca Peruana LT36A (C777) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "45999": {
+      "codigo": "45999",
+      "titulo": "Cueca Peruana LT36A (C777) - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "46094": {
+      "codigo": "46094",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT37A (C790) BOTAFOGO - PRONTA ENTREGA - Tamanho: M - Times : Botafogo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "46233": {
+      "codigo": "46233",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR LT37A (C809) REAL MADRID - PRONTA ENTREGA - Tamanho: M - Times : Real Madrid - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "46344": {
+      "codigo": "46344",
+      "titulo": "Bermuda Microfibra Ultra LT40A (C816) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "46362": {
+      "codigo": "46362",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C817) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46374": {
+      "codigo": "46374",
+      "titulo": "Bermuda Microfibra Ultra NIKE LT40A (C818) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46377": {
+      "codigo": "46377",
+      "titulo": "Bermuda Microfibra Ultra NIKE LT40A (C818) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46392": {
+      "codigo": "46392",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS LT40A (C819) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "46404": {
+      "codigo": "46404",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS LT40A (C819) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "46454": {
+      "codigo": "46454",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - NIKE Arte em DTF LT39A (C822) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46469": {
+      "codigo": "46469",
+      "titulo": "Cueca Tommy Hilfiger Premium Peruana - Linha Eclipse Black LT40A (C823) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "46475": {
+      "codigo": "46475",
+      "titulo": "Cueca Tommy Hilfiger Premium Peruana - Linha Silver Grey LT40A (C823) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "46493": {
+      "codigo": "46493",
+      "titulo": "Cueca Nike Pro Peruana - Linha Shadow Black LT40A (C824) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46499": {
+      "codigo": "46499",
+      "titulo": "Cueca Nike Pro Peruana - Linha Storm Grey LT40A (C824) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46672": {
+      "codigo": "46672",
+      "titulo": "Tênis Nike Air Force 1 Preto e Cinza - Estilo Casual com Swoosh Branco - Cor: PRETO BRANCO CINZA CLARO - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46708": {
+      "codigo": "46708",
+      "titulo": "Tênis Estilo Air Force 1 Preto com Solado Branco - Cadarço Grosso Premium - Cor: GS- PRETO-BRANCO - Tamanho: 39",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46837": {
+      "codigo": "46837",
+      "titulo": "Moletom BOSS 3 Cabos Importado - Estampa em Termo Gel Alto Relevo - BEGE - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "47458": {
+      "codigo": "47458",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C868)  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47464": {
+      "codigo": "47464",
+      "titulo": "Camiseta Suedine ultra ARTE EM DTF LT45A (C870)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47993": {
+      "codigo": "47993",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C940) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47999": {
+      "codigo": "47999",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED - LV Arte em DTF LT50A (C941) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48177": {
+      "codigo": "48177",
+      "titulo": "Bermuda Nike Microfibra Ultra | Dry Move LT55A (C970)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48295": {
+      "codigo": "48295",
+      "titulo": "Moletom 3 Cabos Premium Louis Vuitton | Alta Gramatura LT57A (C991) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48314": {
+      "codigo": "48314",
+      "titulo": "Moletom 3 Cabos Premium Louis Vuitton | Alta Gramatura LT57A (C994) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48360": {
+      "codigo": "48360",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED | Nike Arte em DTF LT58A (C1003) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.61": {
+      "codigo": "CD16.61",
+      "titulo": "Camisetas de Time Tailandesas - AL HILAL   LT08.11   - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.50": {
+      "codigo": "CD16.50",
+      "titulo": "Camisetas de Time Tailandesas - AL NASSR  LT06.11   - Tamanho: M - Times : Al Nassr",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

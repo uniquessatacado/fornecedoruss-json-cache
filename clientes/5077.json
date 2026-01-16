@@ -1,0 +1,112 @@
+{
+  "codigo": "5077",
+  "nome": "MARCELO CARVALHO WEBER",
+  "email": "marcelocarvalhoweber@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/12/2023",
+  "whatsapp": "(41) 9976-31526",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 609.6500000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "6469",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 15:12:28",
+      "data_hora_confirmacao": "2024-01-10 15:19:49",
+      "data_hora_confirmacao_pagamento": "2024-01-10 15:20:04",
+      "valor_total_produtos": 364.18,
+      "valor_frete": 39.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 403.41,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "10864",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-27 17:36:14",
+      "data_hora_confirmacao": "2024-04-29 18:02:10",
+      "data_hora_confirmacao_pagamento": "2024-04-29 18:01:58",
+      "valor_total_produtos": 211.96,
+      "valor_frete": 15.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 206.24,
+      "desconto": 21.2,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.64": {
+      "codigo": "CD17.64",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS LT04.01 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD02.59": {
+      "codigo": "CD02.59",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT07.12 - Cor: Branca - Marca: High - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.54": {
+      "codigo": "CD24.54",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT19.19  - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.1M": {
+      "codigo": "CD22.1M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

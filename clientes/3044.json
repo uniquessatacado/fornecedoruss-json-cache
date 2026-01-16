@@ -1,0 +1,147 @@
+{
+  "codigo": "3044",
+  "nome": "JOSE CARLOS HERCULANO",
+  "email": "josecarlos_herculano@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(67) 99226-9271",
+  "cidade": "Campo Grande",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 366.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300926",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 09:18:06",
+      "data_hora_confirmacao": "2023-10-09 10:55:43",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:55:57",
+      "valor_total_produtos": 132,
+      "valor_frete": 26.93,
+      "frete": "PAC",
+      "valor_total_pedido": 158.93,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2293",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-26 10:02:38",
+      "data_hora_confirmacao": "2023-11-03 15:15:46",
+      "data_hora_confirmacao_pagamento": "2023-11-03 15:16:03",
+      "valor_total_produtos": 60,
+      "valor_frete": 14.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 74.1,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6434",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-10 00:16:59",
+      "data_hora_confirmacao": "2024-01-10 14:52:31",
+      "data_hora_confirmacao_pagamento": "2024-01-10 14:52:44",
+      "valor_total_produtos": 116.97,
+      "valor_frete": 16.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.4,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.27M": {
+      "codigo": "CD17.27M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD33.6G": {
+      "codigo": "CD33.6G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste   - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.21M - Boss": {
+      "codigo": "CD24.21M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD01.1G": {
+      "codigo": "CD01.1G",
+      "titulo": "Camisa de time (qualidade premium) Palmeiras - Tamanho: G - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.43M": {
+      "codigo": "CD02.43M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.42M": {
+      "codigo": "CD02.42M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT25.10 - Cor: Marrom - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.54": {
+      "codigo": "CD39.54",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.57": {
+      "codigo": "CD39.57",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.60": {
+      "codigo": "CD39.60",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

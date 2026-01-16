@@ -1,0 +1,61 @@
+{
+  "codigo": "8296",
+  "nome": "MARCUS VINICIUS",
+  "email": "marcus.mv584@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/04/2024",
+  "whatsapp": "(11) 96766-6627",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 105.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "10318",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-19 13:45:24",
+      "data_hora_confirmacao": "2024-04-19 14:48:57",
+      "data_hora_confirmacao_pagamento": "2024-04-19 13:56:18",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 12.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.72,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.147G": {
+      "codigo": "CD02.147G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.123G": {
+      "codigo": "CD02.123G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147M": {
+      "codigo": "CD02.147M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE     - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

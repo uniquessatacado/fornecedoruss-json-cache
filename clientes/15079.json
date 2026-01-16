@@ -1,0 +1,61 @@
+{
+  "codigo": "15079",
+  "nome": "REGINALDO MOTA",
+  "email": "regimota@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(92) 98116-0271",
+  "cidade": "Manaus",
+  "estado": "AM",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 138.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "20229",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 12:55:16",
+      "data_hora_confirmacao": "2024-09-03 14:30:29",
+      "data_hora_confirmacao_pagamento": "2024-09-03 14:30:22",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 38.49,
+      "frete": "PAC",
+      "valor_total_pedido": 138.39,
+      "desconto": 0,
+      "cidade": "Manaus",
+      "estado": "AM",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29379": {
+      "codigo": "29379",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "3"
+    },
+    "29382": {
+      "codigo": "29382",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "4"
+    },
+    "29385": {
+      "codigo": "29385",
+      "titulo": "Cuecas Peruanas - ABERCROMBIE & FITCH - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "3"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "16348",
+  "nome": "MARCELINO DE OLIVEIRA SILVA",
+  "email": "marcelinosilva2013@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/10/2024",
+  "whatsapp": "(11) 99938-9854",
+  "cidade": "Santana de Parnaíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 66.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "22466",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-07 23:54:14",
+      "data_hora_confirmacao": "2024-10-08 15:45:17",
+      "data_hora_confirmacao_pagamento": "2024-10-08 15:45:11",
+      "valor_total_produtos": 53.97,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.18,
+      "desconto": 0,
+      "cidade": "Santana de Parnaíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18130": {
+      "codigo": "18130",
+      "titulo": "FONE DE OUVIDO REDMI AIRDOTS 2 SEM FIO BLUETOOTH",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18150": {
+      "codigo": "18150",
+      "titulo": "SUPORTE CELULAR GPS VEICULAR PARA CARRO - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "SUPORTE VEICULAR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "23383": {
+      "codigo": "23383",
+      "titulo": "CARREGADOR VEICULAR ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "17189",
+  "nome": "RENAN DA SILVA CAMPOS",
+  "email": "renansilva241215@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/11/2024",
+  "whatsapp": "(12) 99616-4834",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 250.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "23789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 23:07:27",
+      "data_hora_confirmacao": "2024-11-05 23:09:02",
+      "data_hora_confirmacao_pagamento": "2024-11-05 23:09:02",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 16.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.91,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23790",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 23:07:27",
+      "data_hora_confirmacao": "2024-11-05 23:09:03",
+      "data_hora_confirmacao_pagamento": "2024-11-05 23:09:03",
+      "valor_total_produtos": 150.96,
+      "valor_frete": 16.19,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.15,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22454": {
+      "codigo": "22454",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INTER MILAN - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "31270": {
+      "codigo": "31270",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL - Cor: PRETO BRANCO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "32619": {
+      "codigo": "32619",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "33218": {
+      "codigo": "33218",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33222": {
+      "codigo": "33222",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

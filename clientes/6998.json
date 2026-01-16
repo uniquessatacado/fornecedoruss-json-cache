@@ -1,0 +1,61 @@
+{
+  "codigo": "6998",
+  "nome": "ARTUR MESQUITA",
+  "email": "vmesquita499@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/03/2024",
+  "whatsapp": "(84) 99832-4113",
+  "cidade": "Frutuoso Gomes",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 147.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "9587",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-06 12:04:41",
+      "data_hora_confirmacao": "2024-04-06 12:12:36",
+      "data_hora_confirmacao_pagamento": "2024-04-06 12:18:03",
+      "valor_total_produtos": 147.69,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 147.69,
+      "desconto": 0,
+      "cidade": "Frutuoso Gomes",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.07M": {
+      "codigo": "CD39.07M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF) - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.10M": {
+      "codigo": "CD39.10M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Azul Bebê - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.123M": {
+      "codigo": "CD02.123M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "10693",
+  "nome": "EDNUSA VALÉRIA MOREIRA SOARES",
+  "email": "ednusagabola@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/06/2024",
+  "whatsapp": "(31) 98826-6129",
+  "cidade": "Ipatinga",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "13376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-08 09:18:41",
+      "data_hora_confirmacao": "2024-06-10 14:02:02",
+      "data_hora_confirmacao_pagamento": "2024-06-10 14:01:56",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 20.6,
+      "frete": "JADLOG",
+      "valor_total_pedido": 130.58,
+      "desconto": 0,
+      "cidade": "Ipatinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20390": {
+      "codigo": "20390",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20394": {
+      "codigo": "20394",
+      "titulo": "Kit Camiseta + Bermuda ultra dry NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

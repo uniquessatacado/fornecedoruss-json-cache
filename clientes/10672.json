@@ -1,0 +1,104 @@
+{
+  "codigo": "10672",
+  "nome": "WELLINGTON LUIZ GUARINE",
+  "email": "wellington1985guarine@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(15) 99263-8953",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 114.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "13363",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-07 22:07:44",
+      "data_hora_confirmacao": "2024-06-08 09:23:00",
+      "data_hora_confirmacao_pagamento": "2024-06-08 09:22:53",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 13.07,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.06,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20018",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-31 08:43:17",
+      "data_hora_confirmacao": "2024-08-31 10:41:35",
+      "data_hora_confirmacao_pagamento": "2024-08-31 10:41:27",
+      "valor_total_produtos": 49.95,
+      "valor_frete": 13.02,
+      "frete": "SEDEX",
+      "valor_total_pedido": 62.97,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20208": {
+      "codigo": "20208",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA GUCCI - Cor: Kit Preto-Vermelho-Marinho - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "25450": {
+      "codigo": "25450",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25453": {
+      "codigo": "25453",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25456": {
+      "codigo": "25456",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25459": {
+      "codigo": "25459",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "25462": {
+      "codigo": "25462",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "4460",
+  "nome": "DANILO GIRALDI",
+  "email": "danyllogiraldy@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/12/2023",
+  "whatsapp": "(11) 97532-7106",
+  "cidade": "Atibaia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 297.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "4056",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-05 20:50:52",
+      "data_hora_confirmacao": "2023-12-06 09:51:30",
+      "data_hora_confirmacao_pagamento": "2023-12-06 09:51:39",
+      "valor_total_produtos": 146,
+      "valor_frete": 15.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 161.42,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4724",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 19:57:42",
+      "data_hora_confirmacao": "2023-12-13 23:30:16",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:30:27",
+      "valor_total_produtos": 123.96,
+      "valor_frete": 12.31,
+      "frete": "SEDEX",
+      "valor_total_pedido": 136.27,
+      "desconto": 0,
+      "cidade": "Atibaia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.50": {
+      "codigo": "CD02.50",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT29.11  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.30": {
+      "codigo": "CD39.30",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT05.12   - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD46.1": {
+      "codigo": "CD46.1",
+      "titulo": "Camiseta Genuína Cotton Soft - LOUIS VUITTON  LT30.10 - Cor: OffWhite - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA GENUINA COTTON SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD02.66": {
+      "codigo": "CD02.66",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12     - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.67": {
+      "codigo": "CD02.67",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT13.12    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

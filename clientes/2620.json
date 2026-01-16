@@ -1,0 +1,195 @@
+{
+  "codigo": "2620",
+  "nome": "FABRÍCIO PEREIRA",
+  "email": "Fabriciopereira2509@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(13) 99116-4709",
+  "cidade": "Santos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 695.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300487",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 15:20:19",
+      "data_hora_confirmacao": "2023-09-22 15:24:02",
+      "data_hora_confirmacao_pagamento": "2023-09-22 15:24:16",
+      "valor_total_produtos": 258.9,
+      "valor_frete": 20.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 279.5,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300695",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 15:58:12",
+      "data_hora_confirmacao": "2023-09-25 16:04:28",
+      "data_hora_confirmacao_pagamento": "2023-09-25 16:04:22",
+      "valor_total_produtos": 231,
+      "valor_frete": 20.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 251.23,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300990",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 17:51:45",
+      "data_hora_confirmacao": "2023-09-29 18:01:25",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 165,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 165,
+      "desconto": 0,
+      "cidade": "Santos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD33.2G": {
+      "codigo": "CD33.2G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD33.6G": {
+      "codigo": "CD33.6G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste   - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.13GG": {
+      "codigo": "CD08.13GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Louis Vuitton (Aplique Abordada) - Cor: Verde - Marca: Louis Vitton - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD12.3G": {
+      "codigo": "CD12.3G",
+      "titulo": "Polo Piquet Duplo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD32.15Juliet": {
+      "codigo": "CD32.15Juliet",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada  - Cor da Armação: Chumbo - Cor da Lente: Prata Espelhada - Kit Borracha: Branco - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD17.20G": {
+      "codigo": "CD17.20G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.20GG": {
+      "codigo": "CD17.20GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD18.1GG": {
+      "codigo": "CD18.1GG",
+      "titulo": "Bermuda Drifit Ultra - Nike  - Cor: Azul - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Drifit Ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.16G": {
+      "codigo": "CD17.16G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.10M": {
+      "codigo": "CD17.10M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.9GG": {
+      "codigo": "CD17.9GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.9G": {
+      "codigo": "CD17.9G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Azul Turquesa - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.27G": {
+      "codigo": "CD17.27G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD17.29G": {
+      "codigo": "CD17.29G",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.29GG": {
+      "codigo": "CD17.29GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

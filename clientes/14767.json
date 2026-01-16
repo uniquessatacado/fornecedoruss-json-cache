@@ -1,0 +1,53 @@
+{
+  "codigo": "14767",
+  "nome": "VINICIUS CARDOSO OLIVEIRA",
+  "email": "vinicardoso13@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/08/2024",
+  "whatsapp": "(11) 95108-3857",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "19773",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 19:44:17",
+      "data_hora_confirmacao": "2024-08-29 09:17:20",
+      "data_hora_confirmacao_pagamento": "2024-08-29 09:17:15",
+      "valor_total_produtos": 76.98,
+      "valor_frete": 12.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 89.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27128": {
+      "codigo": "27128",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29125": {
+      "codigo": "29125",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - TOMMY HILFIGER - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

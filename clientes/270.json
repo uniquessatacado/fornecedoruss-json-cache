@@ -1,0 +1,793 @@
+{
+  "codigo": "270",
+  "nome": "BRUNO RICARDO",
+  "email": "Bruno998619056@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(73) 99861-9056",
+  "cidade": "Porto Seguro",
+  "estado": "BA",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 3853.5999999999995,
+  "pedidos": [
+    {
+      "codigo_pedido": "10545",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-23 09:47:11",
+      "data_hora_confirmacao": "2024-04-23 12:19:22",
+      "data_hora_confirmacao_pagamento": "2024-04-23 12:19:16",
+      "valor_total_produtos": 1001.34,
+      "valor_frete": 105.59,
+      "frete": "PAC",
+      "valor_total_pedido": 1106.93,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10818",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-26 15:52:40",
+      "data_hora_confirmacao": "2024-04-26 16:16:52",
+      "data_hora_confirmacao_pagamento": "2024-04-26 16:16:44",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 34.33,
+      "frete": "PAC",
+      "valor_total_pedido": 148.3,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 12:23:15",
+      "data_hora_confirmacao": "2024-05-10 13:31:20",
+      "data_hora_confirmacao_pagamento": "2024-05-10 13:31:12",
+      "valor_total_produtos": 904.75,
+      "valor_frete": 107.43,
+      "frete": "PAC",
+      "valor_total_pedido": 1012.18,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-23 09:26:58",
+      "data_hora_confirmacao": "2025-01-23 09:30:07",
+      "data_hora_confirmacao_pagamento": "2025-01-23 09:30:07",
+      "valor_total_produtos": 736.92,
+      "valor_frete": 119.11,
+      "frete": "PAC",
+      "valor_total_pedido": 856.03,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32255",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-11 18:23:01",
+      "data_hora_confirmacao": "2025-11-11 18:25:28",
+      "data_hora_confirmacao_pagamento": "2025-11-11 18:25:28",
+      "valor_total_produtos": 655.38,
+      "valor_frete": 74.78,
+      "frete": "PAC",
+      "valor_total_pedido": 730.16,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17801": {
+      "codigo": "17801",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17802": {
+      "codigo": "17802",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17803": {
+      "codigo": "17803",
+      "titulo": "Chinelo Kenner Rakka vietnã  - COR CHINELO: PRETO/DOURADO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 43/44",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17825": {
+      "codigo": "17825",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17826": {
+      "codigo": "17826",
+      "titulo": "Chinelo Kenner Diamond L7 vietnã  - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "17841": {
+      "codigo": "17841",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "2"
+    },
+    "17842": {
+      "codigo": "17842",
+      "titulo": "Chinelo Kenner Elite L7 Vietnã - COR CHINELO: BRANCO - MODELO CHINELO: KENNER ELITE L7 - TAMANHO CHINELO: 41/42",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "18128": {
+      "codigo": "18128",
+      "titulo": "FONE DE OUVIDO COM FIO AURICULAR (ENTRADA PADRÃO)",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "5"
+    },
+    "18131": {
+      "codigo": "18131",
+      "titulo": "CABO METRO TIPO IPHONE 1m - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "5"
+    },
+    "18133": {
+      "codigo": "18133",
+      "titulo": "CABO METRO TIPO IPHONE 1m,TIPO C 2m",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18134": {
+      "codigo": "18134",
+      "titulo": "CABO METRO TIPO IPHONE 1m,TIPO C 2m",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18152": {
+      "codigo": "18152",
+      "titulo": "MAQUINA DE CORTAR CABELO  - Cor: DOURADO",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "MAQUINA DE CORTA CABELO",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "18335": {
+      "codigo": "18335",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18340": {
+      "codigo": "18340",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18408": {
+      "codigo": "18408",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18409": {
+      "codigo": "18409",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18410": {
+      "codigo": "18410",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18412": {
+      "codigo": "18412",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18467": {
+      "codigo": "18467",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38037": {
+      "codigo": "38037",
+      "titulo": "Cuecas Peruanas (C99) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "3"
+    },
+    "38915": {
+      "codigo": "38915",
+      "titulo": "Cuecas Peruanas (C144)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "3"
+    },
+    "38967": {
+      "codigo": "38967",
+      "titulo": "Cuecas Peruanas (C146) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "2"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "2"
+    },
+    "39186": {
+      "codigo": "39186",
+      "titulo": "CERA DE CARNAUBA  ( CERA) MARCA ( VAZZ ) AUTOMOTIVA",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "2"
+    },
+    "39188": {
+      "codigo": "39188",
+      "titulo": "Camiseta Algodão Stretch Americano - tecido perfumado (C167) - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "39234": {
+      "codigo": "39234",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C159) - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39245": {
+      "codigo": "39245",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C158) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "39447": {
+      "codigo": "39447",
+      "titulo": "Camiseta Peruana com Elastano (C200) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39762": {
+      "codigo": "39762",
+      "titulo": "Camiseta Suedine ultra -(C214)  LT4A - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "39797": {
+      "codigo": "39797",
+      "titulo": "Camiseta Suedine ultra -(C215)  DTF LT4A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40116": {
+      "codigo": "40116",
+      "titulo": "Camiseta fio 30.1 Super Premium (C221) ARTE EM SILK  - FRENTE E COSTAS LT1A - Cor: VINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Super Premium",
+      "marca": "STUZZY",
+      "quantidade": "1"
+    },
+    "40186": {
+      "codigo": "40186",
+      "titulo": "Camiseta Suedine ultra -(C236) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40279": {
+      "codigo": "40279",
+      "titulo": "Camiseta Suedine ultra -(C246) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40490": {
+      "codigo": "40490",
+      "titulo": "Camiseta Suedine ultra -(C254) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40609": {
+      "codigo": "40609",
+      "titulo": "Cuecas Peruanas (C261)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "40610": {
+      "codigo": "40610",
+      "titulo": "Cuecas Peruanas (C261)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "10"
+    },
+    "40611": {
+      "codigo": "40611",
+      "titulo": "Cuecas Peruanas (C261)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "7"
+    },
+    "40625": {
+      "codigo": "40625",
+      "titulo": "Cuecas Peruanas (C261)   - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "3"
+    },
+    "40701": {
+      "codigo": "40701",
+      "titulo": "Cuecas Peruanas (C258)    - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "5"
+    },
+    "40730": {
+      "codigo": "40730",
+      "titulo": "Cuecas Peruanas (C262)    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "53360": {
+      "codigo": "53360",
+      "titulo": "Regata Machão Suedine 1:1 Nike AIR MAX - ARTE EM DTF (LT045) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54662": {
+      "codigo": "54662",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54742": {
+      "codigo": "54742",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54850": {
+      "codigo": "54850",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55040": {
+      "codigo": "55040",
+      "titulo": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55139": {
+      "codigo": "55139",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "55157": {
+      "codigo": "55157",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "55158": {
+      "codigo": "55158",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "55205": {
+      "codigo": "55205",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "55218": {
+      "codigo": "55218",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "55794": {
+      "codigo": "55794",
+      "titulo": "Cueca Peruana - Nike (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "55803": {
+      "codigo": "55803",
+      "titulo": "Cueca Peruana - Nike (LT058) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "5"
+    },
+    "55812": {
+      "codigo": "55812",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "2"
+    },
+    "55827": {
+      "codigo": "55827",
+      "titulo": "Cueca Peruana - Tommy (LT058) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "2"
+    },
+    "55836": {
+      "codigo": "55836",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55857": {
+      "codigo": "55857",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "4"
+    },
+    "55860": {
+      "codigo": "55860",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "55863": {
+      "codigo": "55863",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "55864": {
+      "codigo": "55864",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55875": {
+      "codigo": "55875",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55882": {
+      "codigo": "55882",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.19M": {
+      "codigo": "CD24.19M",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 15
+    },
+    "CD24.19G": {
+      "codigo": "CD24.19G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 8
+    },
+    "CD24.19GG": {
+      "codigo": "CD24.19GG",
+      "titulo": "Cuecas Peruanas - HUGO BOSS (BOSS) (Clone) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 7
+    },
+    "CD24.17M": {
+      "codigo": "CD24.17M",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": 7
+    },
+    "CD24.17GG": {
+      "codigo": "CD24.17GG",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "CD24.17G": {
+      "codigo": "CD24.17G",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "3"
+    },
+    "CD02.149GG": {
+      "codigo": "CD02.149GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE      - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.133M": {
+      "codigo": "CD02.133M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147G": {
+      "codigo": "CD02.147G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: VINHO - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.142M": {
+      "codigo": "CD02.142M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: VERMELHA - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.131G": {
+      "codigo": "CD02.131G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD15.8P": {
+      "codigo": "CD15.8P",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY  - Cor: PRETA - Marca: Burberry - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD15.7M": {
+      "codigo": "CD15.7M",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: PRETA - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CM1.1M": {
+      "codigo": "CM1.1M",
+      "titulo": "CAMISETA MANGA LONGA 40.1 ULTRA - Cor: PRETA - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MANGA LONGA 40.1 ULTRA",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD39.70M": {
+      "codigo": "CD39.70M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD22.3G": {
+      "codigo": "CD22.3G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Preto - Marca: Mizuno - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": 2
+    },
+    "CD22.2M": {
+      "codigo": "CD22.2M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.13M": {
+      "codigo": "CD50.13M",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "CD50.12P": {
+      "codigo": "CD50.12P",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - CALVIN KLEIN - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD50.04P": {
+      "codigo": "CD50.04P",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - HUGO BOSS - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.02M": {
+      "codigo": "CD12.02M",
+      "titulo": "Polo Piquet Duplo Peruana - Emporio Armani - Cor: PRETA - Marca: Armani - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

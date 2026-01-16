@@ -1,0 +1,80 @@
+{
+  "codigo": "5734",
+  "nome": "DOUGLAS BISPO",
+  "email": "douglasbispo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/01/2024",
+  "whatsapp": "(45) 99929-0364",
+  "cidade": "Foz do Iguaçu",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 185.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "6848",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-25 15:14:45",
+      "data_hora_confirmacao": "2024-01-25 16:16:34",
+      "data_hora_confirmacao_pagamento": "2024-01-25 16:16:58",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 14.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.14,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9641",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 22:50:31",
+      "data_hora_confirmacao": "2024-04-08 13:58:01",
+      "data_hora_confirmacao_pagamento": "2024-04-08 13:57:57",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 16.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.11,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.92": {
+      "codigo": "CD02.92",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE  - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD02.141M": {
+      "codigo": "CD02.141M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: PRETA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.140M": {
+      "codigo": "CD02.140M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: PRETA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "8744",
+  "nome": "JOÃO TAVARES FILHO",
+  "email": "joaotavares1519@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/04/2024",
+  "whatsapp": "(12) 99167-0801",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 81.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "10903",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-28 10:21:52",
+      "data_hora_confirmacao": "2024-04-30 12:51:52",
+      "data_hora_confirmacao_pagamento": "2024-04-30 12:51:44",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 12.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.16,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD50.13GG": {
+      "codigo": "CD50.13GG",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147GG": {
+      "codigo": "CD02.147GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE    - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

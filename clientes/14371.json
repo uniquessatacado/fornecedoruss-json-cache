@@ -1,0 +1,45 @@
+{
+  "codigo": "14371",
+  "nome": "NETO MARINHO",
+  "email": "neto17209@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/08/2024",
+  "whatsapp": "(11) 99120-2548",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 51.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "23755",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-05 14:58:42",
+      "data_hora_confirmacao": "2024-11-05 15:00:52",
+      "data_hora_confirmacao_pagamento": "2024-11-05 15:00:52",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 11.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30105": {
+      "codigo": "30105",
+      "titulo": "KIT CUECA PREMIUM NA CAIXA DE MADEIRA - EMPORIO ARMANI - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

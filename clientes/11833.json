@@ -1,0 +1,88 @@
+{
+  "codigo": "11833",
+  "nome": "EDUARDO CASTRO",
+  "email": "eduardodublin82@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/07/2024",
+  "whatsapp": "(54) 99203-3958",
+  "cidade": "São Valentim do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 270.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "14984",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-02 19:29:41",
+      "data_hora_confirmacao": "2024-07-03 09:22:58",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:22:48",
+      "valor_total_produtos": 128.97,
+      "valor_frete": 25.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.52,
+      "desconto": 0,
+      "cidade": "São Valentim do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25587",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 16:42:16",
+      "data_hora_confirmacao": "2024-12-03 16:50:18",
+      "data_hora_confirmacao_pagamento": "2024-12-03 16:50:18",
+      "valor_total_produtos": 93.99,
+      "valor_frete": 22.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 116.34,
+      "desconto": 0,
+      "cidade": "São Valentim do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23320": {
+      "codigo": "23320",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em BORDADO MADEIRA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23329": {
+      "codigo": "23329",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em BORDADO MADEIRA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "36122": {
+      "codigo": "36122",
+      "titulo": "Tênis Air Travis Scott  - Cor: MARROM ESCURO - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

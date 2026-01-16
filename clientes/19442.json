@@ -1,0 +1,53 @@
+{
+  "codigo": "19442",
+  "nome": "ANA PAULA",
+  "email": "andrewkainan71@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/03/2025",
+  "whatsapp": "(42) 99905-3732",
+  "cidade": "Porto União",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 191.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "29892",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-21 17:23:41",
+      "data_hora_confirmacao": "2025-05-21 17:26:12",
+      "data_hora_confirmacao_pagamento": "2025-05-21 17:26:12",
+      "valor_total_produtos": 166.68,
+      "valor_frete": 24.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 191.58,
+      "desconto": 0,
+      "cidade": "Porto União",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41243": {
+      "codigo": "41243",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) (C371)- Flamengo LT14A  - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "48336": {
+      "codigo": "48336",
+      "titulo": "Moletom 3 Cabos Premium Diesel | Alta Gramatura LT57A (C999) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

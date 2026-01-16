@@ -1,0 +1,61 @@
+{
+  "codigo": "6501",
+  "nome": "ISAAC OLIVEIRA FERNANDES",
+  "email": "isaak_rn@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/02/2024",
+  "whatsapp": "(84) 99913-6319",
+  "cidade": "Caicó",
+  "estado": "RN",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 213.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "7846",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 15:29:42",
+      "data_hora_confirmacao": "2024-02-29 17:01:28",
+      "data_hora_confirmacao_pagamento": "2024-02-29 17:01:21",
+      "valor_total_produtos": 177.96,
+      "valor_frete": 35.67,
+      "frete": "JADLOG",
+      "valor_total_pedido": 213.63,
+      "desconto": 0,
+      "cidade": "Caicó",
+      "estado": "RN",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD11.1G3": {
+      "codigo": "CD11.1G3",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium G1 G2 G3 - Cor: Preto - Marca: Vans - Tamanho: G3",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD11.1G2": {
+      "codigo": "CD11.1G2",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium G1 G2 G3 - Cor: Branca - Marca: Vans - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD13.1G2": {
+      "codigo": "CD13.1G2",
+      "titulo": "Camiseta PLUS SIZE Egipcia G1 G2 G3  - Cor: Branca - Marca: Armani - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Plus size Egipicia ",
+      "marca": "ARMANI",
+      "quantidade": 2
+    }
+  }
+}

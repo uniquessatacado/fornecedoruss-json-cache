@@ -1,0 +1,80 @@
+{
+  "codigo": "17397",
+  "nome": "DIOGO MARQUES DOS SANTOS",
+  "email": "diogomarquespdg@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/11/2024",
+  "whatsapp": "(21) 9939-41723",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 169.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "24953",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-22 12:00:41",
+      "data_hora_confirmacao": "2024-11-22 12:05:09",
+      "data_hora_confirmacao_pagamento": "2024-11-22 12:05:09",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 13.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.52,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26343",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-13 11:51:13",
+      "data_hora_confirmacao": "2024-12-13 12:00:17",
+      "data_hora_confirmacao_pagamento": "2024-12-13 12:00:17",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 39.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 118.99,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35157": {
+      "codigo": "35157",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37416": {
+      "codigo": "37416",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C14) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37627": {
+      "codigo": "37627",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C39) - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

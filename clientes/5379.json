@@ -1,0 +1,104 @@
+{
+  "codigo": "5379",
+  "nome": "BRUNO HENRIQUE",
+  "email": "brunolais2912@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/01/2024",
+  "whatsapp": "(11) 96966-7417",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 132.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "6581",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-16 16:38:35",
+      "data_hora_confirmacao": "2024-01-16 18:01:26",
+      "data_hora_confirmacao_pagamento": "2024-01-16 18:02:20",
+      "valor_total_produtos": 26.97,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 36.57,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-18 19:19:42",
+      "data_hora_confirmacao": "2024-12-18 19:21:53",
+      "data_hora_confirmacao_pagamento": "2024-12-18 19:21:53",
+      "valor_total_produtos": 80.95,
+      "valor_frete": 14.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 95.7,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37653": {
+      "codigo": "37653",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: SALMÃO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "38042": {
+      "codigo": "38042",
+      "titulo": "Cuecas Peruanas (C99) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38098": {
+      "codigo": "38098",
+      "titulo": "Cuecas Peruanas (C101) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "2"
+    },
+    "38104": {
+      "codigo": "38104",
+      "titulo": "Cuecas Peruanas (C101) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Preto - Marca: Moschinno - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "2"
+    },
+    "CD24.58": {
+      "codigo": "CD24.58",
+      "titulo": "Cuecas Peruanas - Calvin Klein - Cor: Preto - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    }
+  }
+}

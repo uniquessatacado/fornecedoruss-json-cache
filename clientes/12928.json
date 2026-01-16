@@ -1,0 +1,45 @@
+{
+  "codigo": "12928",
+  "nome": "PEDRO FERNANDES MODESTO",
+  "email": "peumodesto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/07/2024",
+  "whatsapp": "(19) 99700-4557",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 74.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "16750",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-07-23 16:06:44",
+      "data_hora_confirmacao": "2024-07-23 18:47:41",
+      "data_hora_confirmacao_pagamento": "2024-07-23 18:47:29",
+      "valor_total_produtos": 64.99,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 74.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25170": {
+      "codigo": "25170",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA 24/25 (PRONTA ENTREGA) - Tamanho: G - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "codigo": "12478",
+  "nome": "NICOLAS GABRIEL BANDEIRA",
+  "email": "nicgmoura@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/07/2024",
+  "whatsapp": "(11) 98475-7153",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 402.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "17526",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 10:55:59",
+      "data_hora_confirmacao": "2024-08-01 12:56:31",
+      "data_hora_confirmacao_pagamento": "2024-08-01 12:56:25",
+      "valor_total_produtos": 125.98,
+      "valor_frete": 12.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 138.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20193",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-02 23:14:36",
+      "data_hora_confirmacao": "2024-09-03 10:24:03",
+      "data_hora_confirmacao_pagamento": "2024-09-03 10:23:54",
+      "valor_total_produtos": 229.99,
+      "valor_frete": 13.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 243.56,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21668",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-24 10:26:51",
+      "data_hora_confirmacao": "2024-09-24 16:04:11",
+      "data_hora_confirmacao_pagamento": "2024-09-24 15:57:12",
+      "valor_total_produtos": 9.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 20.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20774": {
+      "codigo": "20774",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20789": {
+      "codigo": "20789",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SANTOS - (envio direto da fabrica)  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "28454": {
+      "codigo": "28454",
+      "titulo": "NEW BALANCE LINHA SUPER LUXO VIETNÃ  - Cor: PRETA - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA SUPER LUXO VIETNÃ ",
+      "marca": "NEW BALANCE",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

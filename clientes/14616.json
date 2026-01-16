@@ -1,0 +1,61 @@
+{
+  "codigo": "14616",
+  "nome": "ANDERSON SILVA",
+  "email": "anderson.silvabarboza@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/08/2024",
+  "whatsapp": "(16) 99962-1903",
+  "cidade": "Ibaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 166.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "19730",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 13:08:59",
+      "data_hora_confirmacao": "2024-08-28 11:23:10",
+      "data_hora_confirmacao_pagamento": "2024-08-28 11:23:22",
+      "valor_total_produtos": 150.77,
+      "valor_frete": 16.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 166.9,
+      "desconto": 0,
+      "cidade": "Ibaté",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "28542": {
+      "codigo": "28542",
+      "titulo": "Boné Super Premium - NIKE bordado - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28875": {
+      "codigo": "28875",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28893": {
+      "codigo": "28893",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

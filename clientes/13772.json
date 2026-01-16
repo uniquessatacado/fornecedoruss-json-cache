@@ -1,0 +1,61 @@
+{
+  "codigo": "13772",
+  "nome": "JOÃO VITOR",
+  "email": "marquinlois433@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/08/2024",
+  "whatsapp": "(43) 98499-8448",
+  "cidade": "Arapongas",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 177.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "30133",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-05 19:40:41",
+      "data_hora_confirmacao": "2025-06-05 19:44:02",
+      "data_hora_confirmacao_pagamento": "2025-06-05 19:44:02",
+      "valor_total_produtos": 158.34,
+      "valor_frete": 19.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 177.84,
+      "desconto": 0,
+      "cidade": "Arapongas",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "46958": {
+      "codigo": "46958",
+      "titulo": "Camisa Polo BOSS Royal com Zíper - Estampa Termogel em Alto Relevo - Preta - Cor: PRETA - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48909": {
+      "codigo": "48909",
+      "titulo": "Camiseta Suedine 1:1 ULTRA OVERSIZED Nike | Arte em DTF - LT63A (C1096) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "49097": {
+      "codigo": "49097",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF | LT67A (C1126) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

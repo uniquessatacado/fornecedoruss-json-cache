@@ -1,0 +1,53 @@
+{
+  "codigo": "18406",
+  "nome": "JANDERSON SANTOS DE OLIVEIRA",
+  "email": "janderson.santos9458@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "15/12/2024",
+  "whatsapp": "(27) 9980-63597",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 248.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "26532",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-15 22:46:21",
+      "data_hora_confirmacao": "2024-12-15 22:49:34",
+      "data_hora_confirmacao_pagamento": "2024-12-15 22:49:34",
+      "valor_total_produtos": 160.98,
+      "valor_frete": 27.31,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 248.09,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21190": {
+      "codigo": "21190",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR REAL MADRID - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21958": {
+      "codigo": "21958",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "11773",
+  "nome": "DIEGO ZANELI MACIEL",
+  "email": "diegozanelimaciel.123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/07/2024",
+  "whatsapp": "(11) 9402-54298",
+  "cidade": "São Caetano do Sul",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 227.42000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "15482",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-09 16:03:41",
+      "data_hora_confirmacao": "2024-07-10 09:52:19",
+      "data_hora_confirmacao_pagamento": "2024-07-10 09:52:13",
+      "valor_total_produtos": 140.97,
+      "valor_frete": 23.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 164.65,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27526",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-10 16:12:41",
+      "data_hora_confirmacao": "2025-01-10 16:13:47",
+      "data_hora_confirmacao_pagamento": "2025-01-10 16:13:47",
+      "valor_total_produtos": 50,
+      "valor_frete": 12.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.77,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23348": {
+      "codigo": "23348",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23635": {
+      "codigo": "23635",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - BALENCIAGA arte em aplique bordado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "23669": {
+      "codigo": "23669",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - FENDI arte em bordado e camurça - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "FENDI",
+      "quantidade": "1"
+    },
+    "39612": {
+      "codigo": "39612",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C210) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39622": {
+      "codigo": "39622",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C210) - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

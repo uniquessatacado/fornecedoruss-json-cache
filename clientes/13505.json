@@ -1,0 +1,53 @@
+{
+  "codigo": "13505",
+  "nome": "GUTEMBERG SILVESTRE",
+  "email": "joaocmps273@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/08/2024",
+  "whatsapp": "(21) 99503-4608",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 142.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "17726",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-02 18:53:43",
+      "data_hora_confirmacao": "2024-08-05 12:38:40",
+      "data_hora_confirmacao_pagamento": "2024-08-05 12:38:34",
+      "valor_total_produtos": 125.98,
+      "valor_frete": 16.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 142.12,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21958": {
+      "codigo": "21958",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21959": {
+      "codigo": "21959",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

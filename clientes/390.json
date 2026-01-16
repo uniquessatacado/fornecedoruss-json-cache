@@ -1,0 +1,214 @@
+{
+  "codigo": "390",
+  "nome": "GABRIEL EVANGELISTA",
+  "email": "evangelistagabriel02@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "14/03/2023",
+  "whatsapp": "(19) 98307-9942",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 578.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301405",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-06 17:03:57",
+      "data_hora_confirmacao": "2023-10-06 17:04:43",
+      "data_hora_confirmacao_pagamento": "2023-10-06 17:09:33",
+      "valor_total_produtos": 201.8,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 211.8,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5899",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-27 14:23:20",
+      "data_hora_confirmacao": "2023-12-28 10:58:41",
+      "data_hora_confirmacao_pagamento": "2023-12-28 10:58:53",
+      "valor_total_produtos": 37,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 47,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18031",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-07 16:10:34",
+      "data_hora_confirmacao": "2024-08-07 17:44:39",
+      "data_hora_confirmacao_pagamento": "2024-08-07 17:44:27",
+      "valor_total_produtos": 58.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 68.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27020",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-21 13:10:01",
+      "data_hora_confirmacao": "2024-12-21 13:12:20",
+      "data_hora_confirmacao_pagamento": "2024-12-21 13:12:20",
+      "valor_total_produtos": 250.72,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 250.72,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24646": {
+      "codigo": "24646",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26556": {
+      "codigo": "26556",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "26626": {
+      "codigo": "26626",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA HUGO BOSS - Cor: KIT - PRETO CHUMBO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29124": {
+      "codigo": "29124",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "30336": {
+      "codigo": "30336",
+      "titulo": "Kit Cueca Premium na Caixa de MADEIRA - Cor: PRETO MARINHO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "37581": {
+      "codigo": "37581",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA SILK (C33) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37661": {
+      "codigo": "37661",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "37714": {
+      "codigo": "37714",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C19) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "38442": {
+      "codigo": "38442",
+      "titulo": "Camiseta Suedine ultra -(C127) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.31G": {
+      "codigo": "CD08.31G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Arte em couro bordado linha madeira) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.33G": {
+      "codigo": "CD08.33G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Tommy - Cor: OffWhite - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD08.32G": {
+      "codigo": "CD08.32G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Hugo Boss - Cor: Branco e Verde - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD66.3": {
+      "codigo": "CD66.3",
+      "titulo": "CAMISETA PERUANA LUXO - BALMAIN  LT23.10  - Cor: Azul Marinho - Marca: Balmain - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA PERUANA LUXO",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    }
+  }
+}

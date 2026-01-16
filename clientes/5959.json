@@ -1,0 +1,80 @@
+{
+  "codigo": "5959",
+  "nome": "FERNANDA THEODORO",
+  "email": "fernandatheodoro475@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/01/2024",
+  "whatsapp": "(21) 95907-9483",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 184.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "7037",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-31 16:36:15",
+      "data_hora_confirmacao": "2024-02-01 09:34:22",
+      "data_hora_confirmacao_pagamento": "2024-02-01 09:34:45",
+      "valor_total_produtos": 32.25,
+      "valor_frete": 13.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 45.91,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 29,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "11145",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 15:08:03",
+      "data_hora_confirmacao": "2024-05-03 11:54:03",
+      "data_hora_confirmacao_pagamento": "2024-05-03 11:53:53",
+      "valor_total_produtos": 120.62,
+      "valor_frete": 18.12,
+      "frete": "JADLOG",
+      "valor_total_pedido": 138.74,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 23.08,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "PF": {
+      "codigo": "PF",
+      "titulo": "POLO DRI FIT ULTRA FEMININA - MIZUNO - Cor: Roxo - Marca: Mizuno - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "POLO DRI FIT ULTRA FEMININA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "CF1.2M": {
+      "codigo": "CF1.2M",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: LILAS - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.147M": {
+      "codigo": "CD02.147M",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE     - Cor: VERMELHA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "3454",
+  "nome": "JOÃO ROBERTO QUEIROZ MUNIZ",
+  "email": "jr.queirozmuniz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(15) 9740-54966",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301655",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 17:09:22",
+      "data_hora_confirmacao": "2023-10-14 11:37:58",
+      "data_hora_confirmacao_pagamento": "2023-10-14 11:37:47",
+      "valor_total_produtos": 87,
+      "valor_frete": 10.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.81,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.5M": {
+      "codigo": "CD39.5M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.6M": {
+      "codigo": "CD39.6M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike  - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.27M - Boss": {
+      "codigo": "CD24.27M - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.29M - TOMMY": {
+      "codigo": "CD24.29M - TOMMY",
+      "titulo": "Cuecas Peruanas - TOMMY - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

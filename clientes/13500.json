@@ -1,0 +1,45 @@
+{
+  "codigo": "13500",
+  "nome": "ARTHUR ANTUNES ALBUQUERQUE DO CANTO E SILVA",
+  "email": "arthurantunes936@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/08/2024",
+  "whatsapp": "(15) 99682-2001",
+  "cidade": "Tatuí",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "18400",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 22:14:11",
+      "data_hora_confirmacao": "2024-08-12 11:26:11",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:26:04",
+      "valor_total_produtos": 43.99,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 55.63,
+      "desconto": 0,
+      "cidade": "Tatuí",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26706": {
+      "codigo": "26706",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "codigo": "11878",
+  "nome": "ALEX SOUZA",
+  "email": "alex_souza92@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/07/2024",
+  "whatsapp": "(55) 9992-96017",
+  "cidade": "Itaara",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 214.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "15060",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 18:16:38",
+      "data_hora_confirmacao": "2024-07-08 16:08:56",
+      "data_hora_confirmacao_pagamento": "2024-07-08 16:08:50",
+      "valor_total_produtos": 184.94,
+      "valor_frete": 29.66,
+      "frete": "PAC",
+      "valor_total_pedido": 214.6,
+      "desconto": 0,
+      "cidade": "Itaara",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "16942": {
+      "codigo": "16942",
+      "titulo": "CONJUNTO FEMINO ADIDAS - Cor: CINZA ESCURO - Tamanho: P",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23012": {
+      "codigo": "23012",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23018": {
+      "codigo": "23018",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23105": {
+      "codigo": "23105",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23108": {
+      "codigo": "23108",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

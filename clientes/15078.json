@@ -1,0 +1,96 @@
+{
+  "codigo": "15078",
+  "nome": "BRUNO LOPES GARCIA",
+  "email": "lopes.bruno01@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(19) 97404-2512",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 405.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "20228",
+      "situacao_pedido": "LIBERADO NA ALFANDEGA EM TRANSITO PARA NOSSO ESTOQUE !",
+      "data_hora_pedido": "2024-09-03 12:52:22",
+      "data_hora_confirmacao": "2024-09-03 16:49:49",
+      "data_hora_confirmacao_pagamento": "2024-09-03 16:49:23",
+      "valor_total_produtos": 185.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 195.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27294",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENTREGUE AO CLIENTE",
+      "data_hora_pedido": "2024-12-27 14:37:01",
+      "data_hora_confirmacao": "2024-12-27 14:39:25",
+      "data_hora_confirmacao_pagamento": "2024-12-27 14:39:25",
+      "valor_total_produtos": 199.97,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 209.97,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20744": {
+      "codigo": "20744",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21927": {
+      "codigo": "21927",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO Feminina - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33039": {
+      "codigo": "33039",
+      "titulo": "Camisa de time Tailandesa 1.1 JAPAO 24/25 TORCEDOR SPECIAL - (envio direto da fabrica) - Tamanho: M - Times : Japão - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

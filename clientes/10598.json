@@ -1,0 +1,72 @@
+{
+  "codigo": "10598",
+  "nome": "ROGERIO DE SOUZA",
+  "email": "Rgo_lhp@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(19) 98286-8310",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 61.980000000000004,
+  "pedidos": [
+    {
+      "codigo_pedido": "13272",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-07 09:59:45",
+      "data_hora_confirmacao": "2024-06-07 17:54:01",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13273",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-06-07 10:13:50",
+      "data_hora_confirmacao": "2024-06-07 17:49:13",
+      "data_hora_confirmacao_pagamento": "2024-06-13 15:38:49",
+      "valor_total_produtos": 23.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 23.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18008": {
+      "codigo": "18008",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA GUCCI - Cor: Kit Preto-Branco - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "18148": {
+      "codigo": "18148",
+      "titulo": "TECLADO GAMER LED RGB COM FIO - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "TECLADOS",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    }
+  }
+}

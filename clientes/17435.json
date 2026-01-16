@@ -1,0 +1,45 @@
+{
+  "codigo": "17435",
+  "nome": "LEONARDO AMORIM",
+  "email": "leonardoamorim00@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "12/11/2024",
+  "whatsapp": "(24) 9984-28208",
+  "cidade": "Resende",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "24307",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-12 23:44:39",
+      "data_hora_confirmacao": "2024-11-12 23:47:07",
+      "data_hora_confirmacao_pagamento": "2024-11-12 23:47:07",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 13.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.66,
+      "desconto": 0,
+      "cidade": "Resende",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34070": {
+      "codigo": "34070",
+      "titulo": "Bermuda Microfibra Ultra - NIKE recorte - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

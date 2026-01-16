@@ -1,0 +1,69 @@
+{
+  "codigo": "1236",
+  "nome": "MATEUS ROMÁRIO",
+  "email": "mateussou68@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(48) 98459-9622",
+  "cidade": "São José",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 162.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "22312",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-05 10:17:57",
+      "data_hora_confirmacao": "2024-10-07 17:34:00",
+      "data_hora_confirmacao_pagamento": "2024-10-07 17:33:53",
+      "valor_total_produtos": 143.96,
+      "valor_frete": 18.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 162.76,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30367": {
+      "codigo": "30367",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31108": {
+      "codigo": "31108",
+      "titulo": "Camiseta Tecido Cashmere Importada - POLO RALPH LAUREN - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "POLO RALPH LAUREN ",
+      "quantidade": "1"
+    },
+    "31659": {
+      "codigo": "31659",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: VERDE MUSGO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31725": {
+      "codigo": "31725",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

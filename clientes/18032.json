@@ -1,0 +1,85 @@
+{
+  "codigo": "18032",
+  "nome": "ANDREW MARCELO BUENO SANTOS",
+  "email": "andrew23marcelo@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/12/2024",
+  "whatsapp": "(42) 99126-6480",
+  "cidade": "Telêmaco Borba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 271.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "27546",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-11 12:40:51",
+      "data_hora_confirmacao": "2025-01-11 12:41:41",
+      "data_hora_confirmacao_pagamento": "2025-01-11 12:41:41",
+      "valor_total_produtos": 247.65,
+      "valor_frete": 23.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 271.58,
+      "desconto": 0,
+      "cidade": "Telêmaco Borba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38863": {
+      "codigo": "38863",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38887": {
+      "codigo": "38887",
+      "titulo": "Camiseta Suedine ultra -(C143) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39216": {
+      "codigo": "39216",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C157) - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39492": {
+      "codigo": "39492",
+      "titulo": "Bermuda Microfibra Ultra (C205) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39536": {
+      "codigo": "39536",
+      "titulo": "Bermuda Microfibra Ultra ZIPER (C207) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39567": {
+      "codigo": "39567",
+      "titulo": "Bermuda Microfibra Ultra (C208) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

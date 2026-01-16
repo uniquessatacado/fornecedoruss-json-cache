@@ -1,0 +1,142 @@
+{
+  "codigo": "11162",
+  "nome": "KAIO VASCONCELLOS",
+  "email": "kaio.vasconcellos123@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(22) 99948-7541",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 293.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "14059",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 16:02:46",
+      "data_hora_confirmacao": "2024-06-19 18:15:08",
+      "data_hora_confirmacao_pagamento": "2024-06-19 18:14:59",
+      "valor_total_produtos": 50.98,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 63.19,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15381",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 19:19:18",
+      "data_hora_confirmacao": "2024-07-09 09:41:08",
+      "data_hora_confirmacao_pagamento": "2024-07-09 09:41:01",
+      "valor_total_produtos": 97.98,
+      "valor_frete": 23.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 121.06,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18490",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 21:55:35",
+      "data_hora_confirmacao": "2024-08-13 11:05:02",
+      "data_hora_confirmacao_pagamento": "2024-08-13 11:04:56",
+      "valor_total_produtos": 46.99,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.89,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23431",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-28 15:58:37",
+      "data_hora_confirmacao": "2024-10-28 16:29:09",
+      "data_hora_confirmacao_pagamento": "2024-10-28 16:29:00",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 11.74,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18113": {
+      "codigo": "18113",
+      "titulo": "CAIXA DE SOM BLUETOOTH MINI - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "CAIXAS DE SOM",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "22051": {
+      "codigo": "22051",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - CALVIN KLEIN arte emborrachada  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23624": {
+      "codigo": "23624",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - GUCCI arte em bordado e camurça - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23637": {
+      "codigo": "23637",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - BALENCIAGA arte em aplique bordado - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "27326": {
+      "codigo": "27326",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - PRADA arte em patch emborrachado - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "32699": {
+      "codigo": "32699",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    }
+  }
+}

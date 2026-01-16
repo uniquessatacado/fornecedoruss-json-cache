@@ -1,0 +1,61 @@
+{
+  "codigo": "9810",
+  "nome": "IVO DOS SANTOS LIMA JÚNIOR",
+  "email": "neobahia@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/05/2024",
+  "whatsapp": "(71) 99351-9440",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 131.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "12433",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-23 10:04:00",
+      "data_hora_confirmacao": "2024-05-23 16:18:38",
+      "data_hora_confirmacao_pagamento": "2024-05-23 16:18:30",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 20.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.05,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19047": {
+      "codigo": "19047",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19091": {
+      "codigo": "19091",
+      "titulo": " Camiseta Genuina 40.1 LUXO HUGO BOSS arte em patch emborrachado  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19419": {
+      "codigo": "19419",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

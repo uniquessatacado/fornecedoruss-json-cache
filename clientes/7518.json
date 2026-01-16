@@ -1,0 +1,104 @@
+{
+  "codigo": "7518",
+  "nome": "HENRIQUE FABIANO BARROS",
+  "email": "henriquefb2000@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/04/2024",
+  "whatsapp": "(27) 99791-6275",
+  "cidade": "Joinville",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 339.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "9861",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-10 20:25:42",
+      "data_hora_confirmacao": "2024-04-11 12:50:55",
+      "data_hora_confirmacao_pagamento": "2024-04-11 12:50:51",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 19.27,
+      "frete": "JADLOG",
+      "valor_total_pedido": 81.25,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10142",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 07:11:56",
+      "data_hora_confirmacao": "2024-04-17 18:00:49",
+      "data_hora_confirmacao_pagamento": "2024-04-17 18:00:44",
+      "valor_total_produtos": 234.94,
+      "valor_frete": 23.23,
+      "frete": "JADLOG",
+      "valor_total_pedido": 258.17,
+      "desconto": 0,
+      "cidade": "Joinville",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.139GG": {
+      "codigo": "CD02.139GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: VERMELHA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.130GG": {
+      "codigo": "CD02.130GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Azul - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD4.18GG": {
+      "codigo": "CD4.18GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO ESCRITA INTERNA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.22GG": {
+      "codigo": "CD4.22GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD4.20GG": {
+      "codigo": "CD4.20GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - RECORTE 2 CORES - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "KT1.2GG": {
+      "codigo": "KT1.2GG",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

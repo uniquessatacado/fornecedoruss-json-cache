@@ -1,0 +1,45 @@
+{
+  "codigo": "7635",
+  "nome": "JOAO PEDRO RABELLO REGUETE ELIAS",
+  "email": "joaorabello341527@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(33) 99934-1527",
+  "cidade": "Manhuaçu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "9555",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 20:10:23",
+      "data_hora_confirmacao": "2024-04-06 12:03:01",
+      "data_hora_confirmacao_pagamento": "2024-04-06 12:02:56",
+      "valor_total_produtos": 51.9,
+      "valor_frete": 17.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.23,
+      "desconto": 0,
+      "cidade": "Manhuaçu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.01G": {
+      "codigo": "CD12.01G",
+      "titulo": "Polo Piquet Duplo - LACOSTE  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

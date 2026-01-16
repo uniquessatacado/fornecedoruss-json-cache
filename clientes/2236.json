@@ -1,0 +1,53 @@
+{
+  "codigo": "2236",
+  "nome": "EVANDRO FERREIRA LIMA",
+  "email": "evandrof_lima@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/09/2023",
+  "whatsapp": "(11) 94723-0661",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 73.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300125",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-17 20:00:01",
+      "data_hora_confirmacao": "2023-09-19 15:13:29",
+      "data_hora_confirmacao_pagamento": "2023-09-19 11:36:30",
+      "valor_total_produtos": 60,
+      "valor_frete": 13.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.43M": {
+      "codigo": "CD01.43M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.3M": {
+      "codigo": "CD01.3M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: M - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

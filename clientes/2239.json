@@ -1,0 +1,147 @@
+{
+  "codigo": "2239",
+  "nome": "RAFAEL CAXIADO LIMA GUERRA",
+  "email": "rafinha.limaguerra@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/09/2023",
+  "whatsapp": "(11) 93018-1652",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 217.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300133",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-18 00:30:21",
+      "data_hora_confirmacao": "2023-09-18 07:36:33",
+      "data_hora_confirmacao_pagamento": "2023-09-18 07:36:42",
+      "valor_total_produtos": 104.5,
+      "valor_frete": 14.97,
+      "frete": "SEDEX",
+      "valor_total_pedido": 119.47,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300269",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 12:24:44",
+      "data_hora_confirmacao": "2023-09-20 12:27:44",
+      "data_hora_confirmacao_pagamento": "2023-09-26 13:01:47",
+      "valor_total_produtos": 27,
+      "valor_frete": 11.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 38.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3986",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 22:37:16",
+      "data_hora_confirmacao": "2023-12-05 14:10:50",
+      "data_hora_confirmacao_pagamento": "2023-12-05 14:11:03",
+      "valor_total_produtos": 50,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 59.6,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.14GG": {
+      "codigo": "CD02.14GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.9GG": {
+      "codigo": "CD02.9GG",
+      "titulo": "Camiseta Armani 40.1 Ultra Premium  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD24.3M -  Versace": {
+      "codigo": "CD24.3M -  Versace",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Versace - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD24.16M - Polo Ralph": {
+      "codigo": "CD24.16M - Polo Ralph",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Polo Ralph - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "CD24.18M - Moschino": {
+      "codigo": "CD24.18M - Moschino",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Moschinno - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD24.7M - Abercrombie & Fitch": {
+      "codigo": "CD24.7M - Abercrombie & Fitch",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Abercrombie - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE",
+      "quantidade": "1"
+    },
+    "CD24.16M - Nike": {
+      "codigo": "CD24.16M - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.5GG": {
+      "codigo": "CD15.5GG",
+      "titulo": "Camiseta Peruana com Elastano -  - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD12.8": {
+      "codigo": "CD12.8",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT16.11 - Cor: Marrom - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

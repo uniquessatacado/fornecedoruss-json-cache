@@ -1,0 +1,45 @@
+{
+  "codigo": "12090",
+  "nome": "RICHARD CAETANO DOMINGUES",
+  "email": "Riichard2009@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/07/2024",
+  "whatsapp": "(11) 9627-52566",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 45.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "15326",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-07 23:37:59",
+      "data_hora_confirmacao": "2024-07-08 10:13:29",
+      "data_hora_confirmacao_pagamento": "2024-07-08 10:12:22",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.92,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23587": {
+      "codigo": "23587",
+      "titulo": "Bermuda Microfibra Ultra - NIKE mini recorte lateral  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

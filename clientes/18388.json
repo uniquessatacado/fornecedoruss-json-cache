@@ -1,0 +1,96 @@
+{
+  "codigo": "18388",
+  "nome": "VITOR MACENA",
+  "email": "macena.vitor@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "15/12/2024",
+  "whatsapp": "(12) 9922-40971",
+  "cidade": "Taubaté",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.60999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "26583",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 12:49:52",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-12-16 12:50:29",
+      "valor_total_produtos": 161.96,
+      "valor_frete": 29.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 191.73,
+      "desconto": 0,
+      "cidade": "Taubaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30704",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-14 16:36:21",
+      "data_hora_confirmacao": "2025-07-14 16:38:21",
+      "data_hora_confirmacao_pagamento": "2025-07-14 16:38:21",
+      "valor_total_produtos": 41.67,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 53.88,
+      "desconto": 0,
+      "cidade": "Taubaté",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37559": {
+      "codigo": "37559",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA (C31) Arte termo Gel - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37572": {
+      "codigo": "37572",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA Arte termo Gel (C36) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37706": {
+      "codigo": "37706",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C17) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37771": {
+      "codigo": "37771",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C26) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49854": {
+      "codigo": "49854",
+      "titulo": "Boné ultra Premium (LT001) - Cor: BRANCA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

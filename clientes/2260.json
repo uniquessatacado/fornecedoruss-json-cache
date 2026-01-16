@@ -1,0 +1,96 @@
+{
+  "codigo": "2260",
+  "nome": "DANIEL LOPES COSTA",
+  "email": "odanny.lopez@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/09/2023",
+  "whatsapp": "(16) 99324-9016",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 215.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300273",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 13:07:53",
+      "data_hora_confirmacao": "2023-09-20 16:25:21",
+      "data_hora_confirmacao_pagamento": "2023-09-20 16:20:01",
+      "valor_total_produtos": 120,
+      "valor_frete": 10,
+      "frete": "MOTO BOY",
+      "valor_total_pedido": 130,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3081",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-11-13 08:22:50",
+      "data_hora_confirmacao": "2023-11-13 12:24:38",
+      "data_hora_confirmacao_pagamento": "2023-11-14 09:31:38",
+      "valor_total_produtos": 85.9,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 85.9,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.16M": {
+      "codigo": "CD02.16M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: OffWhite - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD16.27M": {
+      "codigo": "CD16.27M",
+      "titulo": "Camisetas de Time Tailandesas - Tottenham - Tamanho: M - Times : Tottenham",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.41P": {
+      "codigo": "CD01.41P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Corinthians Manga Longa - Tamanho: P - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD08.42": {
+      "codigo": "CD08.42",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

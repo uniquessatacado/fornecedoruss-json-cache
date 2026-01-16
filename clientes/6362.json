@@ -1,0 +1,61 @@
+{
+  "codigo": "6362",
+  "nome": "STÊNIO CRISTIAN PEREIRA SANTOS",
+  "email": "stenioeletromile1@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "23/02/2024",
+  "whatsapp": "(15) 9977-32166",
+  "cidade": "Sorocaba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "9088",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-29 03:13:03",
+      "data_hora_confirmacao": "2024-03-30 11:47:02",
+      "data_hora_confirmacao_pagamento": "2024-03-30 11:46:57",
+      "valor_total_produtos": 59.86,
+      "valor_frete": 10.78,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.64,
+      "desconto": 0,
+      "cidade": "Sorocaba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD30GG": {
+      "codigo": "CD30GG",
+      "titulo": "Bermuda Microfibra Premium - LACOSTE  - Cor: Cinza Escuro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.14GG": {
+      "codigo": "CD24.14GG",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 2
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

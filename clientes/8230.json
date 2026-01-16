@@ -1,0 +1,45 @@
+{
+  "codigo": "8230",
+  "nome": "LUCIANO CRUZ",
+  "email": "lcn.cruzdesousa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(21) 9694-15969",
+  "cidade": "Queimados",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 69.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "10212",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-18 09:13:59",
+      "data_hora_confirmacao": "2024-04-18 10:36:25",
+      "data_hora_confirmacao_pagamento": "2024-04-18 10:36:20",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 14.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.68,
+      "desconto": 0,
+      "cidade": "Queimados",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "KT1.2M": {
+      "codigo": "KT1.2M",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

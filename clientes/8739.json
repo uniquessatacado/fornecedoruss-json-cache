@@ -1,0 +1,80 @@
+{
+  "codigo": "8739",
+  "nome": "SAYMON MURILO",
+  "email": "saymonmurilo8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/04/2024",
+  "whatsapp": "(43) 99157-9584",
+  "cidade": "Guaraci",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 168.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "11046",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-30 12:34:29",
+      "data_hora_confirmacao": "2024-04-30 14:30:03",
+      "data_hora_confirmacao_pagamento": "2024-04-30 14:30:25",
+      "valor_total_produtos": 68.98,
+      "valor_frete": 26.48,
+      "frete": "PAC",
+      "valor_total_pedido": 95.46,
+      "desconto": 0,
+      "cidade": "Guaraci",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27168",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-23 17:06:02",
+      "data_hora_confirmacao": "2024-12-23 17:07:59",
+      "data_hora_confirmacao_pagamento": "2024-12-23 17:07:59",
+      "valor_total_produtos": 50,
+      "valor_frete": 23.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.23,
+      "desconto": 0,
+      "cidade": "Guaraci",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37839": {
+      "codigo": "37839",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C23) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD4.20M": {
+      "codigo": "CD4.20M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - RECORTE 2 CORES - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.8M": {
+      "codigo": "CD15.8M",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY  - Cor: PRETA - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

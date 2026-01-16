@@ -1,0 +1,45 @@
+{
+  "codigo": "16726",
+  "nome": "PAULO SÉRGIO BERGAMO",
+  "email": "paulosergio.bergamo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2024",
+  "whatsapp": "(16) 99118-1877",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 51.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "23099",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-21 11:44:57",
+      "data_hora_confirmacao": "2024-10-21 16:16:27",
+      "data_hora_confirmacao_pagamento": "2024-10-21 16:16:19",
+      "valor_total_produtos": 39.99,
+      "valor_frete": 11.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.8,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32486": {
+      "codigo": "32486",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

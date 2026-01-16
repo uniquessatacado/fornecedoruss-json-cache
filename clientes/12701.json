@@ -1,0 +1,61 @@
+{
+  "codigo": "12701",
+  "nome": "PEDRO PEREIRA LOPES",
+  "email": "pplopes84@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/07/2024",
+  "whatsapp": "(61) 99997-8157",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "16435",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 15:56:53",
+      "data_hora_confirmacao": "2024-07-19 17:18:04",
+      "data_hora_confirmacao_pagamento": "2024-07-19 17:17:58",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 15.66,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.63,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24610": {
+      "codigo": "24610",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24935": {
+      "codigo": "24935",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: AZUL ROYAL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24941": {
+      "codigo": "24941",
+      "titulo": "Bermuda Microfibra Ultra - NIKE arte em silk - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

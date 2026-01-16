@@ -1,0 +1,72 @@
+{
+  "codigo": "11365",
+  "nome": "LUIZ FERNANDO DA SILVA",
+  "email": "luiiizao@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "22/06/2024",
+  "whatsapp": "(11) 9963-69345",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 178.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "14380",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-22 15:20:29",
+      "data_hora_confirmacao": "2024-06-24 09:26:22",
+      "data_hora_confirmacao_pagamento": "2024-06-24 09:26:17",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 10.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 103.53,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14471",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-24 20:58:57",
+      "data_hora_confirmacao": "2024-06-25 09:44:52",
+      "data_hora_confirmacao_pagamento": "2024-06-25 09:44:47",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 12.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.02,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20746": {
+      "codigo": "20746",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20749": {
+      "codigo": "20749",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G3 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

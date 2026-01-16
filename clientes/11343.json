@@ -1,0 +1,61 @@
+{
+  "codigo": "11343",
+  "nome": "DOUGLAS ANDERSON YADA",
+  "email": "Douglas.andersonyada@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/06/2024",
+  "whatsapp": "(11) 99616-7015",
+  "cidade": "São Caetano do Sul",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 144.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "14343",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-22 00:19:59",
+      "data_hora_confirmacao": "2024-06-22 10:30:43",
+      "data_hora_confirmacao_pagamento": "2024-06-22 10:30:37",
+      "valor_total_produtos": 128.97,
+      "valor_frete": 15.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 144.15,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21833": {
+      "codigo": "21833",
+      "titulo": "CAMISETAS GENUINA COTTON TANGUIS TURCO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "22239": {
+      "codigo": "22239",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22512": {
+      "codigo": "22512",
+      "titulo": "Ccamiseta GENUINA COTTON SOFT TURCO - PRADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "PRADA",
+      "quantidade": "1"
+    }
+  }
+}

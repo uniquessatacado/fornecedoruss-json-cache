@@ -1,0 +1,88 @@
+{
+  "codigo": "4345",
+  "nome": "GABRIEL DOS SANTOS LUSTOSA",
+  "email": "gabriellustosa199713@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2023",
+  "whatsapp": "(61) 98176-4571",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 210.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "5050",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 11:00:25",
+      "data_hora_confirmacao": "2023-12-19 12:08:42",
+      "data_hora_confirmacao_pagamento": "2023-12-19 12:08:51",
+      "valor_total_produtos": 93,
+      "valor_frete": 29.04,
+      "frete": "SEDEX",
+      "valor_total_pedido": 122.04,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5880",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-27 08:06:42",
+      "data_hora_confirmacao": "2023-12-27 11:43:41",
+      "data_hora_confirmacao_pagamento": "2023-12-27 11:43:52",
+      "valor_total_produtos": 59.99,
+      "valor_frete": 28.68,
+      "frete": "SEDEX",
+      "valor_total_pedido": 88.67,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.41": {
+      "codigo": "CD16.41",
+      "titulo": "Camisetas de Time Tailandesas - BOTAFOGO    LT31.10   - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD67.24": {
+      "codigo": "CD67.24",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER  LT18.12    - Cor: Preto - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD17.58": {
+      "codigo": "CD17.58",
+      "titulo": "Bermuda Microfibra Ultra - NIKE     - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

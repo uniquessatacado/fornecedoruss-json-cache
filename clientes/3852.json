@@ -1,0 +1,115 @@
+{
+  "codigo": "3852",
+  "nome": "GABRIEL COFES NUNES",
+  "email": "gabrielcofesnunes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/11/2023",
+  "whatsapp": "(44) 99882-6666",
+  "cidade": "Ponta Grossa",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 262.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "4385",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-11 11:34:47",
+      "data_hora_confirmacao": "2023-12-11 16:49:54",
+      "data_hora_confirmacao_pagamento": "2023-12-11 16:50:12",
+      "valor_total_produtos": 153,
+      "valor_frete": 19.62,
+      "frete": "JADLOG",
+      "valor_total_pedido": 172.62,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4411",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-11 17:04:48",
+      "data_hora_confirmacao": "2023-12-11 17:10:02",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 60,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 60,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4419",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-11 17:21:29",
+      "data_hora_confirmacao": "2023-12-11 17:24:55",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Ponta Grossa",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.59": {
+      "codigo": "CD02.59",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT07.12 - Cor: Branca - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": 4
+    },
+    "CD67.6": {
+      "codigo": "CD67.6",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT06.12  - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "CD67.10": {
+      "codigo": "CD67.10",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - MCD  LT07.12   - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD30.2": {
+      "codigo": "CD30.2",
+      "titulo": "Chapéu Bucket - Louis Vuitton - Cor: Marrom",
+      "categoria_principal": "BONÉS",
+      "categoria": "INATIVA Chapéu Bucket",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD02.58": {
+      "codigo": "CD02.58",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Bege - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

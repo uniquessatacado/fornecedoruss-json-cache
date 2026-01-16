@@ -1,0 +1,80 @@
+{
+  "codigo": "854",
+  "nome": "MARCOS JOSÉ DE SOUZA",
+  "email": "markinhosgravacoes@outlook.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(19) 98821-9734",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 90.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "25741",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-05 09:08:34",
+      "data_hora_confirmacao": "2024-12-05 09:11:22",
+      "data_hora_confirmacao_pagamento": "2024-12-05 09:11:22",
+      "valor_total_produtos": 62.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 62.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28021",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-02-08 03:55:27",
+      "data_hora_confirmacao": "2025-02-08 03:57:11",
+      "data_hora_confirmacao_pagamento": "2025-02-08 03:57:11",
+      "valor_total_produtos": 27.33,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 27.33,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35210": {
+      "codigo": "35210",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36070": {
+      "codigo": "36070",
+      "titulo": "Chinelo Diamond L7  - COR CHINELO: PRETO - Marca: KENNER - MODELO CHINELO: KENNER RAKKA DIAMOND L7 - TAMANHO CHINELO: 37/38",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "41351": {
+      "codigo": "41351",
+      "titulo": "Boné Premium LT18A (C414) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    }
+  }
+}

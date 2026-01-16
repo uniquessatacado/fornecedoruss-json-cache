@@ -1,0 +1,69 @@
+{
+  "codigo": "19058",
+  "nome": "ANTONIO AGUIAR GALVAO",
+  "email": "aguiargalvao@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/01/2025",
+  "whatsapp": "(21) 99979-0565",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 166.77,
+  "pedidos": [
+    {
+      "codigo_pedido": "27757",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-21 06:30:57",
+      "data_hora_confirmacao": "2025-01-21 06:30:57",
+      "data_hora_confirmacao_pagamento": "2025-01-21 06:30:57",
+      "valor_total_produtos": 149.22,
+      "valor_frete": 17.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 166.77,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37660": {
+      "codigo": "37660",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA ARTE BORDADO (C42) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "39287": {
+      "codigo": "39287",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C165) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "39562": {
+      "codigo": "39562",
+      "titulo": "Bermuda Microfibra Ultra (C208) LT8A - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "40075": {
+      "codigo": "40075",
+      "titulo": "Camiseta fio 30.1 Super Premium (C233) ARTE EM SILK LT1A - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Super Premium",
+      "marca": "GRIZZLY",
+      "quantidade": "1"
+    }
+  }
+}

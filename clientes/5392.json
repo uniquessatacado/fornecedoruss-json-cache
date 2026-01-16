@@ -1,0 +1,69 @@
+{
+  "codigo": "5392",
+  "nome": "JOSÉ ISRAEL DE CARVALHO CRUZ",
+  "email": "Israel_carvalhocruz@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "17/01/2024",
+  "whatsapp": "(11) 9847-90387",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 158.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "6604",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-17 11:58:41",
+      "data_hora_confirmacao": "2024-01-18 09:28:11",
+      "data_hora_confirmacao_pagamento": "2024-01-18 09:28:28",
+      "valor_total_produtos": 145.96,
+      "valor_frete": 12.54,
+      "frete": "SEDEX",
+      "valor_total_pedido": 158.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.57": {
+      "codigo": "CD39.57",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.62": {
+      "codigo": "CD17.62",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO   LT04.01  - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.55": {
+      "codigo": "CD39.55",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.51": {
+      "codigo": "CD17.51",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT15.12 - Cor: Preto com Vermelho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

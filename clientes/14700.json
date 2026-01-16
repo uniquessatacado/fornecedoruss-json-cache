@@ -1,0 +1,61 @@
+{
+  "codigo": "14700",
+  "nome": "LUCAS DE BARROS SILVA",
+  "email": "rebeccasilva40@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "27/08/2024",
+  "whatsapp": "(81) 99315-8260",
+  "cidade": "Joaquim Nabuco",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 108.52,
+  "pedidos": [
+    {
+      "codigo_pedido": "19705",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 09:32:39",
+      "data_hora_confirmacao": "2024-08-27 11:23:49",
+      "data_hora_confirmacao_pagamento": "2024-08-27 11:23:39",
+      "valor_total_produtos": 87.97,
+      "valor_frete": 20.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.52,
+      "desconto": 0,
+      "cidade": "Joaquim Nabuco",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23466": {
+      "codigo": "23466",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25699": {
+      "codigo": "25699",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28823": {
+      "codigo": "28823",
+      "titulo": "Camiseta Algodão Soft Americano - ADIDAS arte em bordado - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

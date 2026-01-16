@@ -1,0 +1,72 @@
+{
+  "codigo": "4065",
+  "nome": "LUCAS ADRIANO DA SILVA",
+  "email": "lucadadrianosilva99@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/11/2023",
+  "whatsapp": "(48) 99910-7035",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 210.45,
+  "pedidos": [
+    {
+      "codigo_pedido": "3419",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-21 17:54:49",
+      "data_hora_confirmacao": "2023-11-22 10:26:11",
+      "data_hora_confirmacao_pagamento": "2023-11-22 10:26:21",
+      "valor_total_produtos": 65,
+      "valor_frete": 27.59,
+      "frete": "SEDEX",
+      "valor_total_pedido": 92.59,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3970",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-04 16:30:43",
+      "data_hora_confirmacao": "2023-12-05 12:51:15",
+      "data_hora_confirmacao_pagamento": "2023-12-05 12:51:25",
+      "valor_total_produtos": 90,
+      "valor_frete": 27.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 117.86,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.34": {
+      "codigo": "CD16.34",
+      "titulo": "Camisetas de Time Tailandesas - PALMEIRAS  LT31.10  - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD56.5": {
+      "codigo": "CD56.5",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - CORINTHIANS  LT14.11 - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

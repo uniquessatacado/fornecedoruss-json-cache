@@ -1,0 +1,69 @@
+{
+  "codigo": "15654",
+  "nome": "RICHARDES ALEXSANDER PEDROSA CLEMENTE",
+  "email": "richardesalexsander10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/09/2024",
+  "whatsapp": "(37) 99828-0305",
+  "cidade": "Igaratinga",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 168.57,
+  "pedidos": [
+    {
+      "codigo_pedido": "21205",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-16 17:36:41",
+      "data_hora_confirmacao": "2024-09-17 10:50:07",
+      "data_hora_confirmacao_pagamento": "2024-09-17 10:49:59",
+      "valor_total_produtos": 150.32,
+      "valor_frete": 18.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 168.57,
+      "desconto": 0,
+      "cidade": "Igaratinga",
+      "estado": "MG",
+      "percentual_comissao": 60,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "29659": {
+      "codigo": "29659",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "29662": {
+      "codigo": "29662",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "30399": {
+      "codigo": "30399",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30402": {
+      "codigo": "30402",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

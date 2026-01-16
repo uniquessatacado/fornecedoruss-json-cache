@@ -1,0 +1,45 @@
+{
+  "codigo": "18740",
+  "nome": "ALAN DA SILVA",
+  "email": "alanpompeu62@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/12/2024",
+  "whatsapp": "(11) 93929-6127",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 58.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "27344",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-28 23:47:24",
+      "data_hora_confirmacao": "2024-12-28 23:49:14",
+      "data_hora_confirmacao_pagamento": "2024-12-28 23:49:14",
+      "valor_total_produtos": 47.5,
+      "valor_frete": 11.18,
+      "frete": "LOGGI",
+      "valor_total_pedido": 58.68,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36486": {
+      "codigo": "36486",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

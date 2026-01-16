@@ -1,0 +1,80 @@
+{
+  "codigo": "18981",
+  "nome": "JÔNATAS ARTUR ROMON",
+  "email": "jonatasrtr@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/01/2025",
+  "whatsapp": "(69) 99304-8463",
+  "cidade": "Cacoal",
+  "estado": "RO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 302.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "27644",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-15 14:46:24",
+      "data_hora_confirmacao": "2025-01-15 14:47:56",
+      "data_hora_confirmacao_pagamento": "2025-01-15 14:47:56",
+      "valor_total_produtos": 63.33,
+      "valor_frete": 21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 84.33,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29476",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-28 16:39:40",
+      "data_hora_confirmacao": "2025-04-28 16:41:39",
+      "data_hora_confirmacao_pagamento": "2025-04-28 16:41:39",
+      "valor_total_produtos": 162.5,
+      "valor_frete": 55.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 218.13,
+      "desconto": 0,
+      "cidade": "Cacoal",
+      "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39726": {
+      "codigo": "39726",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - (C213) LT5A - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46721": {
+      "codigo": "46721",
+      "titulo": "Tênis Estilo Air Jordan 1 Low Fragment x Travis Scott - Azul Royal com Swoosh Invertido - Cor: AZUL - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46724": {
+      "codigo": "46724",
+      "titulo": "Tênis Estilo Air Jordan 1 Low Fragment x Travis Scott - Azul Royal com Swoosh Invertido - Cor: AZUL - Tamanho: 43",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

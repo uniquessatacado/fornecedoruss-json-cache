@@ -1,0 +1,69 @@
+{
+  "codigo": "7703",
+  "nome": "MARCONE MENDES",
+  "email": "marconebellasnoivas@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(81) 99808-3044",
+  "cidade": "Caruaru",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 164.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "9649",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 09:23:14",
+      "data_hora_confirmacao": "2024-04-08 13:59:40",
+      "data_hora_confirmacao_pagamento": "2024-04-08 13:59:35",
+      "valor_total_produtos": 136.97,
+      "valor_frete": 27.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 164.27,
+      "desconto": 0,
+      "cidade": "Caruaru",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.09G": {
+      "codigo": "CD25.09G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT - PRETA - CINZA - MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD25.09GG": {
+      "codigo": "CD25.09GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT - PRETA - VERMELHA -BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD01.40P": {
+      "codigo": "CD01.40P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.138M": {
+      "codigo": "CD02.138M",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: OFFWHITE - Marca: Puma - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    }
+  }
+}

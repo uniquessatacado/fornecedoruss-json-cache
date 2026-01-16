@@ -1,0 +1,123 @@
+{
+  "codigo": "18220",
+  "nome": "JOAO CARLOS FERREIRA DE OLIVEIRA",
+  "email": "joao.c.ferreira44@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "09/12/2024",
+  "whatsapp": "(11) 9649-64812",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 379.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "26021",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-09 11:32:36",
+      "data_hora_confirmacao": "2024-12-09 11:34:04",
+      "data_hora_confirmacao_pagamento": "2024-12-09 11:34:04",
+      "valor_total_produtos": 94.99,
+      "valor_frete": 11.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.9,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26022",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-09 12:07:11",
+      "data_hora_confirmacao": "2024-12-09 12:11:09",
+      "data_hora_confirmacao_pagamento": "2024-12-09 12:11:09",
+      "valor_total_produtos": 111.97,
+      "valor_frete": 13.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.98,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26083",
+      "situacao_pedido": "PEDIDO EM TRANSITO DA FABRICA PARA NOSSO ESTOQUE",
+      "data_hora_pedido": "2024-12-10 14:27:57",
+      "data_hora_confirmacao": "2024-12-10 16:47:46",
+      "data_hora_confirmacao_pagamento": "2024-12-10 16:47:46",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 15.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 147.47,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20694": {
+      "codigo": "20694",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21204": {
+      "codigo": "21204",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21207": {
+      "codigo": "21207",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "36009": {
+      "codigo": "36009",
+      "titulo": "Camiseta malha chines autentica importada - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Casa Blanca",
+      "quantidade": "1"
+    },
+    "36340": {
+      "codigo": "36340",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado ( MD5-OFF-DSL)  ( MD8-PRT-DSL)   - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36553": {
+      "codigo": "36553",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada   - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

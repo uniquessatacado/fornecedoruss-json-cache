@@ -1,0 +1,123 @@
+{
+  "codigo": "2707",
+  "nome": "MARCOS HENRIQUE DE SOUZA",
+  "email": "marquoshs@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(17) 99705-9417",
+  "cidade": "Indiaporã",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 317.95000000000005,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300569",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 12:34:31",
+      "data_hora_confirmacao": "2023-09-23 12:50:32",
+      "data_hora_confirmacao_pagamento": "2023-09-23 12:48:35",
+      "valor_total_produtos": 98,
+      "valor_frete": 23.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 121.9,
+      "desconto": 0,
+      "cidade": "Indiaporã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301422",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-06 20:08:17",
+      "data_hora_confirmacao": "2023-10-09 10:40:30",
+      "data_hora_confirmacao_pagamento": "2023-10-09 10:40:38",
+      "valor_total_produtos": 60,
+      "valor_frete": 17.18,
+      "frete": "SEDEX",
+      "valor_total_pedido": 77.18,
+      "desconto": 0,
+      "cidade": "Indiaporã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24610",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-18 13:22:13",
+      "data_hora_confirmacao": "2024-11-18 13:27:45",
+      "data_hora_confirmacao_pagamento": "2024-11-18 13:27:45",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 16.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.87,
+      "desconto": 0,
+      "cidade": "Indiaporã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34729": {
+      "codigo": "34729",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM    - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "34733": {
+      "codigo": "34733",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM    - Cor: VERDE MUSGO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "34789": {
+      "codigo": "34789",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM      - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "CD08.19G": {
+      "codigo": "CD08.19G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel (Arte em Chenille e Bordada) - Cor: Preto - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD08.9GG": {
+      "codigo": "CD08.9GG",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Diesel - Cor: Preto - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD01.55GG": {
+      "codigo": "CD01.55GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Real Madrid - Tamanho: GG - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

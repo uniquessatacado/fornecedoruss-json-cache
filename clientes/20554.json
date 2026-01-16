@@ -1,0 +1,77 @@
+{
+  "codigo": "20554",
+  "nome": "JOAO GUSTAVO VIEIRA",
+  "email": "vieirajoaogustavo4@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2025",
+  "whatsapp": "(19) 99573-0945",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 185.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "31816",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-09-24 11:29:36",
+      "data_hora_confirmacao": "2025-09-24 11:29:36",
+      "data_hora_confirmacao_pagamento": "2025-09-24 11:29:36",
+      "valor_total_produtos": 185.44,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 185.44,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51323": {
+      "codigo": "51323",
+      "titulo": "Oculos  - RADAR (LT023) - ARMAÇÃO: BEGE - Kit Borracha: PRETA - MODELO: RADAR",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "52745": {
+      "codigo": "52745",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS (LT030) - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "53561": {
+      "codigo": "53561",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
+    "53947": {
+      "codigo": "53947",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54361": {
+      "codigo": "54361",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT054) - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

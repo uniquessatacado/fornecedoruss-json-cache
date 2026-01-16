@@ -1,0 +1,120 @@
+{
+  "codigo": "7680",
+  "nome": "FABIO JOSE DA SILVA",
+  "email": "fabioballack2019@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(11) 9859-37658",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 287.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "11634",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 15:23:27",
+      "data_hora_confirmacao": "2024-05-11 13:04:50",
+      "data_hora_confirmacao_pagamento": "2024-05-11 13:04:43",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 13.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.36,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24617",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-18 14:01:38",
+      "data_hora_confirmacao": "2024-11-18 14:17:30",
+      "data_hora_confirmacao_pagamento": "2024-11-18 14:17:30",
+      "valor_total_produtos": 164.95,
+      "valor_frete": 16.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 181.29,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18407": {
+      "codigo": "18407",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18411": {
+      "codigo": "18411",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "34725": {
+      "codigo": "34725",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM    - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "34737": {
+      "codigo": "34737",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM    - Cor: ROXO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "34787": {
+      "codigo": "34787",
+      "titulo": "CAMISETA MALHA CHINESA PREMIUM      - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "34921": {
+      "codigo": "34921",
+      "titulo": "CAMISETA BURBERRY MALHA CHINESA PREMIUM   - Cor: ROXO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS MALHA CHINESA PREMIUM ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "34976": {
+      "codigo": "34976",
+      "titulo": "BERMUDA MAURICINHO ELASTANO  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MAURICINHO ELASTANO",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD02.131GG": {
+      "codigo": "CD02.131GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

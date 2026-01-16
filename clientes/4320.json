@@ -1,0 +1,131 @@
+{
+  "codigo": "4320",
+  "nome": "JOÃO YAGO VALENTIM DE SÁ",
+  "email": "joaoyago13@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(11) 94402-2702",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 276.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "3724",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 23:42:12",
+      "data_hora_confirmacao": "2023-11-28 09:40:39",
+      "data_hora_confirmacao_pagamento": "2023-11-28 09:40:51",
+      "valor_total_produtos": 75,
+      "valor_frete": 11.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 86.77,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9029",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 18:13:39",
+      "data_hora_confirmacao": "2024-03-28 09:44:06",
+      "data_hora_confirmacao_pagamento": "2024-03-28 09:44:01",
+      "valor_total_produtos": 127.96,
+      "valor_frete": 12.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 140.43,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25379",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-29 21:14:05",
+      "data_hora_confirmacao": "2024-11-29 21:15:11",
+      "data_hora_confirmacao_pagamento": "2024-11-29 21:15:11",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 12.77,
+      "frete": "SEDEX",
+      "valor_total_pedido": 49.76,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35878": {
+      "codigo": "35878",
+      "titulo": "Bermuda Microfibra hiper - modelo mais comprido - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD10.11": {
+      "codigo": "CD10.11",
+      "titulo": "Camiseta Egipicia Luxo - LACOSTE    LT16.11 - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD39.26": {
+      "codigo": "CD39.26",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT25.11   - Cor: Bege - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.135G": {
+      "codigo": "CD02.135G",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: OffWhite - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.132G": {
+      "codigo": "CD02.132G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.13G": {
+      "codigo": "CD4.13G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.117G": {
+      "codigo": "CD02.117G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  ( - Cor: Cinza - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

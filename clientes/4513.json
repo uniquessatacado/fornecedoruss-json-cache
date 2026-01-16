@@ -1,0 +1,45 @@
+{
+  "codigo": "4513",
+  "nome": "MATHEUS NUNES MITHIDIERI LOBO",
+  "email": "matheus.mithidiere@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/12/2023",
+  "whatsapp": "(24) 99223-7357",
+  "cidade": "Volta Redonda",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 49.3,
+  "pedidos": [
+    {
+      "codigo_pedido": "4177",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-07 09:15:59",
+      "data_hora_confirmacao": "2023-12-07 23:24:57",
+      "data_hora_confirmacao_pagamento": "2023-12-07 23:25:07",
+      "valor_total_produtos": 34,
+      "valor_frete": 15.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 49.3,
+      "desconto": 0,
+      "cidade": "Volta Redonda",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

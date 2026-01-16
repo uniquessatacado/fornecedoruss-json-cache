@@ -1,0 +1,131 @@
+{
+  "codigo": "17266",
+  "nome": "RUAN OLIVEIRA",
+  "email": "oliv.ruan@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(21) 98039-5802",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 222.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "23945",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-08 00:01:40",
+      "data_hora_confirmacao": "2024-11-08 00:03:12",
+      "data_hora_confirmacao_pagamento": "2024-11-08 00:03:12",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 13.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 43.5,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29641",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-05-05 18:52:44",
+      "data_hora_confirmacao": "2025-05-05 19:00:08",
+      "data_hora_confirmacao_pagamento": "2025-05-05 19:00:09",
+      "valor_total_produtos": 65,
+      "valor_frete": 14.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.4,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30781",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-16 20:06:30",
+      "data_hora_confirmacao": "2025-07-16 20:07:40",
+      "data_hora_confirmacao_pagamento": "2025-07-16 20:07:40",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 99.13,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN LT56A (C974) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "30566": {
+      "codigo": "30566",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30634": {
+      "codigo": "30634",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31423": {
+      "codigo": "31423",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "48213": {
+      "codigo": "48213",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN LT56A (C977) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "2"
+    },
+    "50753": {
+      "codigo": "50753",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "50771": {
+      "codigo": "50771",
+      "titulo": "Bermuda Adidas Microfibra Ultra - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "2362",
+  "nome": "DIEGO APARECIDO DE LIMA",
+  "email": "diego.logi@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(19) 98322-1601",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 30.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "9031",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-27 18:36:33",
+      "data_hora_confirmacao": "2024-03-28 09:45:07",
+      "data_hora_confirmacao_pagamento": "2024-03-28 16:10:53",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.131G": {
+      "codigo": "CD02.131G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

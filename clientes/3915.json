@@ -1,0 +1,158 @@
+{
+  "codigo": "3915",
+  "nome": "ERICK BARBOSA",
+  "email": "ericknbarbosa1@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/11/2023",
+  "whatsapp": "(33) 98880-5780",
+  "cidade": "Teófilo Otoni",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 400.07,
+  "pedidos": [
+    {
+      "codigo_pedido": "2767",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 11:55:54",
+      "data_hora_confirmacao": "2023-11-07 14:07:11",
+      "data_hora_confirmacao_pagamento": "2023-11-07 14:07:25",
+      "valor_total_produtos": 23,
+      "valor_frete": 19.93,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.93,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24772",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-20 08:24:09",
+      "data_hora_confirmacao": "2024-11-20 08:26:30",
+      "data_hora_confirmacao_pagamento": "2024-11-20 08:26:30",
+      "valor_total_produtos": 156.96,
+      "valor_frete": 22.54,
+      "frete": "JADLOG",
+      "valor_total_pedido": 179.5,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28486",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-01 12:09:09",
+      "data_hora_confirmacao": "2025-03-01 12:10:24",
+      "data_hora_confirmacao_pagamento": "2025-03-01 12:10:24",
+      "valor_total_produtos": 48.33,
+      "valor_frete": 15.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.12,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31541",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-04 16:13:17",
+      "data_hora_confirmacao": "2025-09-04 16:14:35",
+      "data_hora_confirmacao_pagamento": "2025-09-04 16:14:35",
+      "valor_total_produtos": 95.62,
+      "valor_frete": 17.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.52,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "33295": {
+      "codigo": "33295",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33893": {
+      "codigo": "33893",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS cargo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "34183": {
+      "codigo": "34183",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "34188": {
+      "codigo": "34188",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40260": {
+      "codigo": "40260",
+      "titulo": "Camiseta Suedine ultra -(C238) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53308": {
+      "codigo": "53308",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT044) - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53415": {
+      "codigo": "53415",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT042) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD37.1": {
+      "codigo": "CD37.1",
+      "titulo": "FONE DE OUVIDO - XIOAMI AIR DOTS 2 - Cor: Vermelha",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "4391",
+  "nome": "FERMÍN ANTONIO INSFRAN RODRÍGUEZ",
+  "email": "diosnelaraujo55@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "01/12/2023",
+  "whatsapp": "(11) 9871-95076",
+  "cidade": "São Caetano do Sul",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 533.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "6908",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-28 15:25:40",
+      "data_hora_confirmacao": "2024-01-29 09:28:53",
+      "data_hora_confirmacao_pagamento": "2024-01-29 09:29:58",
+      "valor_total_produtos": 236.93,
+      "valor_frete": 16.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 253.34,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21207",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-16 17:56:23",
+      "data_hora_confirmacao": "2024-09-17 10:06:38",
+      "data_hora_confirmacao_pagamento": "2024-09-17 10:06:32",
+      "valor_total_produtos": 263.96,
+      "valor_frete": 16.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 279.98,
+      "desconto": 0,
+      "cidade": "São Caetano do Sul",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20666": {
+      "codigo": "20666",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "21204": {
+      "codigo": "21204",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD40.18": {
+      "codigo": "CD40.18",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.90": {
+      "codigo": "CD02.90",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD40.19": {
+      "codigo": "CD40.19",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  NIKE - Cor: Branca - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

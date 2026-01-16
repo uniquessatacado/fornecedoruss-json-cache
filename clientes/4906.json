@@ -1,0 +1,96 @@
+{
+  "codigo": "4906",
+  "nome": "JOVECI BATISTA DOS SANTOS",
+  "email": "jocecisantos1967@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(41) 99711-8720",
+  "cidade": "Almirante Tamandaré",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.19,
+  "pedidos": [
+    {
+      "codigo_pedido": "5544",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-22 02:06:00",
+      "data_hora_confirmacao": "2023-12-22 18:20:44",
+      "data_hora_confirmacao_pagamento": "2023-12-22 18:20:55",
+      "valor_total_produtos": 160.95,
+      "valor_frete": 22.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 183.2,
+      "desconto": 0,
+      "cidade": "Almirante Tamandaré",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5866",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-26 16:46:57",
+      "data_hora_confirmacao": "2023-12-26 16:51:31",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 37.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37.99,
+      "desconto": 0,
+      "cidade": "Almirante Tamandaré",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Azul Marinho - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.79": {
+      "codigo": "CD02.79",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT19.12 - Cor: Bege - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Vermelha - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD12.1": {
+      "codigo": "CD12.1",
+      "titulo": "Polo Piquet Duplo Ultra -HUGO BOSS - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD69.2": {
+      "codigo": "CD69.2",
+      "titulo": "CAMISETA EGIPICIA COTTON - HUGO BOSS  LT20.12  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA EGIPICIA COTTON",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

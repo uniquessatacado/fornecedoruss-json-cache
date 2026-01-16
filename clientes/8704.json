@@ -1,0 +1,88 @@
+{
+  "codigo": "8704",
+  "nome": "JOÃO PEDRO VURTUOSO",
+  "email": "joaovurtuoso56@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(47) 99632-8435",
+  "cidade": "Bombinhas",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 303.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "10833",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 18:52:34",
+      "data_hora_confirmacao": "2024-04-29 17:37:58",
+      "data_hora_confirmacao_pagamento": "2024-04-29 17:37:48",
+      "valor_total_produtos": 178.95,
+      "valor_frete": 21.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 200.6,
+      "desconto": 0,
+      "cidade": "Bombinhas",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10889",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-27 19:37:08",
+      "data_hora_confirmacao": "2024-04-29 16:20:44",
+      "data_hora_confirmacao_pagamento": "2024-04-29 16:20:35",
+      "valor_total_produtos": 84.99,
+      "valor_frete": 17.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 102.71,
+      "desconto": 0,
+      "cidade": "Bombinhas",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17741": {
+      "codigo": "17741",
+      "titulo": "MOLETOM 3 CABOS  CANGURU NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.146GG": {
+      "codigo": "CD02.146GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER   - Cor: BEGE - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD50.13GG": {
+      "codigo": "CD50.13GG",
+      "titulo": "CAMISETA GENUINA COTTON PENTEADO TURCO - NIKE  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

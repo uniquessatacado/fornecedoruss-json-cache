@@ -1,0 +1,69 @@
+{
+  "codigo": "17287",
+  "nome": "TULIO SOARES",
+  "email": "tuliosoares59214528@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2024",
+  "whatsapp": "(11) 96425-3631",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "23987",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-08 14:04:23",
+      "data_hora_confirmacao": "2024-11-08 14:07:39",
+      "data_hora_confirmacao_pagamento": "2024-11-08 14:07:39",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.86,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30622": {
+      "codigo": "30622",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "33701": {
+      "codigo": "33701",
+      "titulo": "Cuecas Peruanas - EMPORIO ARMANI - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "33704": {
+      "codigo": "33704",
+      "titulo": "Cuecas Peruanas - EMPORIO ARMANI - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "33710": {
+      "codigo": "33710",
+      "titulo": "Cuecas Peruanas - EMPORIO ARMANI - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

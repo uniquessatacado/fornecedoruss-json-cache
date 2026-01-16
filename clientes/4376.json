@@ -1,0 +1,61 @@
+{
+  "codigo": "4376",
+  "nome": "KENAN RAFAEL GUEDES ALVES",
+  "email": "kenanrafal@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "30/11/2023",
+  "whatsapp": "(41) 98870-0107",
+  "cidade": "Fazenda Rio Grande",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 254.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "3848",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-30 06:38:51",
+      "data_hora_confirmacao": "2023-11-30 08:11:37",
+      "data_hora_confirmacao_pagamento": "2023-11-30 08:11:32",
+      "valor_total_produtos": 217,
+      "valor_frete": 37.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 254.6,
+      "desconto": 0,
+      "cidade": "Fazenda Rio Grande",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.50": {
+      "codigo": "CD02.50",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  LT29.11  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.48": {
+      "codigo": "CD02.48",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT2.11  - Cor: Preto - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD02.49": {
+      "codigo": "CD02.49",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT29.11 - Cor: Preto - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": 2
+    }
+  }
+}

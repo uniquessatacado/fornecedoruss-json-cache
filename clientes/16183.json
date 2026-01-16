@@ -1,0 +1,61 @@
+{
+  "codigo": "16183",
+  "nome": "PEDRO HENRIQUE DOS SANTOS VIEIRA",
+  "email": "jsilva.ph2023@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2024",
+  "whatsapp": "(81) 98328-6489",
+  "cidade": "Recife",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 127.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "22178",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-03 06:43:02",
+      "data_hora_confirmacao": "2024-10-03 09:44:17",
+      "data_hora_confirmacao_pagamento": "2024-10-03 09:44:10",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 16.97,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.94,
+      "desconto": 0,
+      "cidade": "Recife",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31365": {
+      "codigo": "31365",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31658": {
+      "codigo": "31658",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31721": {
+      "codigo": "31721",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

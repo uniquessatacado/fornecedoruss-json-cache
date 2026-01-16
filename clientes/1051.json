@@ -1,0 +1,53 @@
+{
+  "codigo": "1051",
+  "nome": "DEBORAH LÚCIA DE PINHO BARBOSA",
+  "email": "deborahpinho@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "09/08/2023",
+  "whatsapp": "(71) 9810-51418",
+  "cidade": "Simões Filho",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "12846",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-30 09:20:48",
+      "data_hora_confirmacao": "2024-05-31 18:57:53",
+      "data_hora_confirmacao_pagamento": "2024-05-31 18:57:46",
+      "valor_total_produtos": 100.98,
+      "valor_frete": 17.91,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 118.89,
+      "desconto": 0,
+      "cidade": "Simões Filho",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19267": {
+      "codigo": "19267",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS recorte  - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "19702": {
+      "codigo": "19702",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INTER MIAMI PRONTA ENTREGA)         - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

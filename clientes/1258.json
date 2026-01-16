@@ -1,0 +1,53 @@
+{
+  "codigo": "1258",
+  "nome": "BRUNO OLIVEIRA HENRIQUE",
+  "email": "henrikfoz@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "18/08/2023",
+  "whatsapp": "(45) 9991-83460",
+  "cidade": "Foz do Iguaçu",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 61.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "4689",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 17:07:57",
+      "data_hora_confirmacao": "2023-12-13 23:43:13",
+      "data_hora_confirmacao_pagamento": "2023-12-13 23:43:25",
+      "valor_total_produtos": 47.98,
+      "valor_frete": 13.84,
+      "frete": "LOGGI",
+      "valor_total_pedido": 61.82,
+      "desconto": 0,
+      "cidade": "Foz do Iguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.50": {
+      "codigo": "CD24.50",
+      "titulo": "Cuecas Peruanas - DOLCE GABANNA  LT13.12 - Cor: Branca - Marca: Dolce Gabbana - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "2"
+    },
+    "CD02.60": {
+      "codigo": "CD02.60",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY  LT07.12  - Cor: OffWhite - Marca: Hurley - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    }
+  }
+}

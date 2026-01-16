@@ -1,0 +1,77 @@
+{
+  "codigo": "18812",
+  "nome": "JAMES BARROS OLIVEIRA",
+  "email": "jamesoliveira2007@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/01/2025",
+  "whatsapp": "(11) 98727-5033",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 240.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "27399",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-04 09:35:53",
+      "data_hora_confirmacao": "2025-01-04 09:42:04",
+      "data_hora_confirmacao_pagamento": "2025-01-04 09:42:04",
+      "valor_total_produtos": 224.62,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 240.24,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37539": {
+      "codigo": "37539",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C10) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "37770": {
+      "codigo": "37770",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C26) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "39193": {
+      "codigo": "39193",
+      "titulo": "Camiseta Algodão Stretch Americano - tecido perfumado (C167) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "39252": {
+      "codigo": "39252",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C161) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "39295": {
+      "codigo": "39295",
+      "titulo": "Camiseta Algodão SOFT Americano - tecido perfumado (C164) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

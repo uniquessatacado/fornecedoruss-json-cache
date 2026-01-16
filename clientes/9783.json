@@ -1,0 +1,61 @@
+{
+  "codigo": "9783",
+  "nome": "PATRÍCIA DE OLIVEIRA LIMA",
+  "email": "Pattylima843@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/05/2024",
+  "whatsapp": "(11) 97077-2362",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 123.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "14141",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 22:09:22",
+      "data_hora_confirmacao": "2024-06-19 22:09:22",
+      "data_hora_confirmacao_pagamento": "2024-06-20 17:00:58",
+      "valor_total_produtos": 108.97,
+      "valor_frete": 14.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.92,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20473": {
+      "codigo": "20473",
+      "titulo": "Camisetas Egípcia Luxo  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21888": {
+      "codigo": "21888",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    },
+    "21976": {
+      "codigo": "21976",
+      "titulo": "CAMISETAS GENUINA COTTON SOFT TURCO - Cor: CINZA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "VARIADAS",
+      "quantidade": "1"
+    }
+  }
+}

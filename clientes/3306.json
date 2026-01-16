@@ -1,0 +1,171 @@
+{
+  "codigo": "3306",
+  "nome": "REGINALDO ANTÔNIO BRIGANON",
+  "email": "rbriganon@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2023",
+  "whatsapp": "(19) 98401-3409",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 516.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301360",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-05 21:11:56",
+      "data_hora_confirmacao": "2023-10-06 13:09:31",
+      "data_hora_confirmacao_pagamento": "2023-10-06 13:09:39",
+      "valor_total_produtos": 132,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 132,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301490",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-09 13:36:35",
+      "data_hora_confirmacao": "2023-10-09 13:40:47",
+      "data_hora_confirmacao_pagamento": "2023-10-09 13:40:55",
+      "valor_total_produtos": 126,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 126,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32426",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-12-15 18:56:51",
+      "data_hora_confirmacao": "2025-12-15 18:57:52",
+      "data_hora_confirmacao_pagamento": "2025-12-15 18:57:53",
+      "valor_total_produtos": 248.35,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 258.35,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "52063": {
+      "codigo": "52063",
+      "titulo": "Camiseta Pima Premium Armani (LT011) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "54473": {
+      "codigo": "54473",
+      "titulo": "Bermuda Microfibra Ultra Lacoste - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "54563": {
+      "codigo": "54563",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54619": {
+      "codigo": "54619",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54766": {
+      "codigo": "54766",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: ROXO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54774": {
+      "codigo": "54774",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD17.27M": {
+      "codigo": "CD17.27M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.31M": {
+      "codigo": "CD02.31M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver - Cor: Branca - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.27M": {
+      "codigo": "CD02.27M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Arte em Termo gel) - Cor: Bege - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD16.3M": {
+      "codigo": "CD16.3M",
+      "titulo": "Camisetas de Time Tailandesas - Brasil - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD26.6M": {
+      "codigo": "CD26.6M",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Claro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.28M": {
+      "codigo": "CD17.28M",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Azul Bebê - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

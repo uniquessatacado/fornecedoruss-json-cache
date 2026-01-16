@@ -1,0 +1,53 @@
+{
+  "codigo": "6100",
+  "nome": "VITOR REIS SANTOS",
+  "email": "reis72846@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/02/2024",
+  "whatsapp": "(98) 9996-90909",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 73.4,
+  "pedidos": [
+    {
+      "codigo_pedido": "7181",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-08 14:25:10",
+      "data_hora_confirmacao": "2024-02-09 09:53:40",
+      "data_hora_confirmacao_pagamento": "2024-02-09 09:53:32",
+      "valor_total_produtos": 51,
+      "valor_frete": 22.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.4,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Branca - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD01.84": {
+      "codigo": "CD01.84",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT10.11 - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

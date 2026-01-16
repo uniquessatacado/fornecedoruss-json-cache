@@ -1,0 +1,115 @@
+{
+  "codigo": "5493",
+  "nome": "ALEXANDRE SANTANA DA SILVA",
+  "email": "caiosantanageo1975@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "23/01/2024",
+  "whatsapp": "(11) 96541-9760",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 197.39999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "6742",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-23 17:42:46",
+      "data_hora_confirmacao": "2024-01-23 17:53:58",
+      "data_hora_confirmacao_pagamento": "2024-01-23 17:54:12",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 48.73,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8336",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-12 19:12:30",
+      "data_hora_confirmacao": "2024-03-13 13:22:28",
+      "data_hora_confirmacao_pagamento": "2024-03-13 13:22:23",
+      "valor_total_produtos": 68.89,
+      "valor_frete": 13.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 82.19,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17789",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-03 13:52:20",
+      "data_hora_confirmacao": "2024-08-05 18:03:26",
+      "data_hora_confirmacao_pagamento": "2024-08-05 18:03:21",
+      "valor_total_produtos": 53.98,
+      "valor_frete": 12.5,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.48,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25461": {
+      "codigo": "25461",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26490": {
+      "codigo": "26490",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.55": {
+      "codigo": "CD39.55",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.117G": {
+      "codigo": "CD02.117G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  ( - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.05M": {
+      "codigo": "CD39.05M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Bege - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

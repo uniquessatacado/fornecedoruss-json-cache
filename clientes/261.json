@@ -1,0 +1,53 @@
+{
+  "codigo": "261",
+  "nome": "RICARDO SILVA DE LIMA",
+  "email": "rbvc_lima@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(13) 99181-5398",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 66.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "5036",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-18 21:13:39",
+      "data_hora_confirmacao": "2023-12-19 07:47:57",
+      "data_hora_confirmacao_pagamento": "2023-12-19 07:48:08",
+      "valor_total_produtos": 55.99,
+      "valor_frete": 10.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 66.79,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.72": {
+      "codigo": "CD02.72",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  LT18.12  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD01.79": {
+      "codigo": "CD01.79",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  JAPÃO  LT10.11   - Tamanho: P - Times : Japão",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

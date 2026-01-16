@@ -1,0 +1,61 @@
+{
+  "codigo": "17950",
+  "nome": "SAMUEL GOMES QUARESMA",
+  "email": "quaresmaclas2019@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/11/2024",
+  "whatsapp": "(85) 99263-8467",
+  "cidade": "Caucaia",
+  "estado": "CE",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "26065",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-10 09:14:36",
+      "data_hora_confirmacao": "2024-12-10 09:15:43",
+      "data_hora_confirmacao_pagamento": "2024-12-10 09:15:43",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 28.89,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.86,
+      "desconto": 0,
+      "cidade": "Caucaia",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29171": {
+      "codigo": "29171",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA  - Cor: PRETO BRANCO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "36574": {
+      "codigo": "36574",
+      "titulo": "Camiseta fio 30.1 penteada arte bordada    - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "36786": {
+      "codigo": "36786",
+      "titulo": "Polo piquet simples  - Cor: OFFWHITE - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo piquet simples",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

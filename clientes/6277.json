@@ -1,0 +1,45 @@
+{
+  "codigo": "6277",
+  "nome": "GUILHERME FRACARI",
+  "email": "guilhermemf1@live.com",
+  "sexo": "0",
+  "data_cadastro": "20/02/2024",
+  "whatsapp": "(55) 98126-6448",
+  "cidade": "Santa Maria",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "7380",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-20 23:53:57",
+      "data_hora_confirmacao": "2024-02-21 09:41:42",
+      "data_hora_confirmacao_pagamento": "2024-02-21 09:41:34",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 19.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.74,
+      "desconto": 0,
+      "cidade": "Santa Maria",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.105GG": {
+      "codigo": "CD02.105GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE   - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

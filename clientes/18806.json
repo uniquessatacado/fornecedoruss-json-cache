@@ -1,0 +1,69 @@
+{
+  "codigo": "18806",
+  "nome": "HENRIQUE TRANQUERO",
+  "email": "henrique.tranquero@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/01/2025",
+  "whatsapp": "(11) 98100-2321",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 147.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "27397",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-03 18:15:17",
+      "data_hora_confirmacao": "2025-01-03 18:16:11",
+      "data_hora_confirmacao_pagamento": "2025-01-03 18:16:11",
+      "valor_total_produtos": 123.38,
+      "valor_frete": 24.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 147.97,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37443": {
+      "codigo": "37443",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38863": {
+      "codigo": "38863",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38941": {
+      "codigo": "38941",
+      "titulo": "Cuecas Peruanas (C145)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38985": {
+      "codigo": "38985",
+      "titulo": "Cuecas Peruanas (C147)  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

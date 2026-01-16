@@ -1,0 +1,77 @@
+{
+  "codigo": "4234",
+  "nome": "JULIANA MELISSA DOS SANTOS",
+  "email": "felipeoliveira21055@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/11/2023",
+  "whatsapp": "(19) 99323-2659",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 215,
+  "pedidos": [
+    {
+      "codigo_pedido": "29311",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-04-15 19:28:37",
+      "data_hora_confirmacao": "2025-04-15 19:30:07",
+      "data_hora_confirmacao_pagamento": "2025-04-15 19:30:07",
+      "valor_total_produtos": 215,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 215,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40644": {
+      "codigo": "40644",
+      "titulo": "Cuecas Peruanas (C265)  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "43407": {
+      "codigo": "43407",
+      "titulo": "Cueca Peruana LT32A (C671)  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "46884": {
+      "codigo": "46884",
+      "titulo": "Camisa Polo Lacoste Azul Claro - Clássica, Elegante e Atemporal | Piquet Premium - Cor: AZUL BEBE - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "46917": {
+      "codigo": "46917",
+      "titulo": "Camisa Polo BOSS Royal com Zíper - Estampa Termogel em Alto Relevo - Cor: AZUL ROYAL - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "46925": {
+      "codigo": "46925",
+      "titulo": "Camisa Polo Lacoste Sport Zíper - Crocodilo Bordado em Alto Relevo Tonal - Preta - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

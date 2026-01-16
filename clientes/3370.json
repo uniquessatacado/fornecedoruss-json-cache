@@ -1,0 +1,53 @@
+{
+  "codigo": "3370",
+  "nome": "RÔMULO MARIANO",
+  "email": "romulodavieira2@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/10/2023",
+  "whatsapp": "(21) 99254-8216",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 113.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "2302255",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-25 14:25:59",
+      "data_hora_confirmacao": "2023-10-25 15:32:36",
+      "data_hora_confirmacao_pagamento": "2023-10-25 15:32:48",
+      "valor_total_produtos": 98,
+      "valor_frete": 15.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 113.68,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD12.7GG": {
+      "codigo": "CD12.7GG",
+      "titulo": "Polo Piquet Duplo Ultra - LACOSTE  LT25.10 - Cor: Marrom - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD12.6GG": {
+      "codigo": "CD12.6GG",
+      "titulo": "Polo Piquet Duplo Ultra - HUGO BOSS  LT25.10 - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

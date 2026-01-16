@@ -1,0 +1,291 @@
+{
+  "codigo": "87",
+  "nome": "MONIQUE DE ALCANTARA",
+  "email": "moniquerodrigues141@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/03/2023",
+  "whatsapp": "(31) 99111-4527",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1044.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "30524",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-06 16:15:39",
+      "data_hora_confirmacao": "2025-07-06 16:23:27",
+      "data_hora_confirmacao_pagamento": "2025-07-06 16:23:27",
+      "valor_total_produtos": 743.75,
+      "valor_frete": 34.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 778.21,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30547",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-07 17:00:08",
+      "data_hora_confirmacao": "2025-07-07 17:00:08",
+      "data_hora_confirmacao_pagamento": "2025-07-07 17:00:08",
+      "valor_total_produtos": 37.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 37.5,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32227",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-05 17:18:12",
+      "data_hora_confirmacao": "2025-11-05 17:18:57",
+      "data_hora_confirmacao_pagamento": "2025-11-05 17:18:57",
+      "valor_total_produtos": 209.25,
+      "valor_frete": 19.94,
+      "frete": "LOGGI",
+      "valor_total_pedido": 229.19,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47388": {
+      "codigo": "47388",
+      "titulo": "Camiseta Malha Egípcia Soft Louis Vuitton | Fino acabamento e leveza LT44A (C859) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47404": {
+      "codigo": "47404",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C861) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47412": {
+      "codigo": "47412",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C862) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47872": {
+      "codigo": "47872",
+      "titulo": "Camiseta Malha Egípcia Soft Gucci | Fino acabamento e leveza LT44A (C922) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "47880": {
+      "codigo": "47880",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | Fino acabamento e leveza LT44A (C923) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "47884": {
+      "codigo": "47884",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C924) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "47959": {
+      "codigo": "47959",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | Fino acabamento e leveza LT44A (C931) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49222": {
+      "codigo": "49222",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | LT68A (C1145) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49277": {
+      "codigo": "49277",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1152) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49278": {
+      "codigo": "49278",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1152) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49294": {
+      "codigo": "49294",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1154) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49301": {
+      "codigo": "49301",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1155) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49539": {
+      "codigo": "49539",
+      "titulo": "Camiseta Malha Egípcia Soft Armani | LT68A (C1185) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49563": {
+      "codigo": "49563",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1188) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49571": {
+      "codigo": "49571",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1189) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49579": {
+      "codigo": "49579",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | LT68A (C1190) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49659": {
+      "codigo": "49659",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1202) - Cor: OFFWHITE - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49663": {
+      "codigo": "49663",
+      "titulo": "Camiseta 40.1 Plus Size Diesel | LT68A (C1203) - Cor: BRANCA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49669": {
+      "codigo": "49669",
+      "titulo": "Camiseta 40.1 Plus Size Boss | LT68A (C1204) - Cor: BRANCA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49697": {
+      "codigo": "49697",
+      "titulo": "Camiseta 40.1 Plus Size Diesel | LT68A (C1211) - Cor: BRANCA - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "49708": {
+      "codigo": "49708",
+      "titulo": " Camiseta 40.1 Bordada Boss | LT68A (C1213) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51191": {
+      "codigo": "51191",
+      "titulo": "Camiseta Malha Egípcia Soft Boss - Estampa emborrachada LT010 - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51977": {
+      "codigo": "51977",
+      "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "52304": {
+      "codigo": "52304",
+      "titulo": "Calça Microfibra Ultra Armani (LT029) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "55340": {
+      "codigo": "55340",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55585": {
+      "codigo": "55585",
+      "titulo": "Regata Machão Suedine 1:1 Adidas - ARTE EM DTF (LT059) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55645": {
+      "codigo": "55645",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT060) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

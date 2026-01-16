@@ -1,0 +1,61 @@
+{
+  "codigo": "15037",
+  "nome": "GUSTAVO BRITO DE OLIVEIRA",
+  "email": "go58920@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/09/2024",
+  "whatsapp": "(27) 98820-0053",
+  "cidade": "Viana",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 101.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "20276",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 19:52:07",
+      "data_hora_confirmacao": "2024-09-04 09:58:27",
+      "data_hora_confirmacao_pagamento": "2024-09-04 09:58:21",
+      "valor_total_produtos": 81.07,
+      "valor_frete": 20.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 101.64,
+      "desconto": 0,
+      "cidade": "Viana",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25984": {
+      "codigo": "25984",
+      "titulo": "Chinelo Premium MIZUNO - COR CHINELO: PRETO - Marca: Mizuno - MODELO CHINELO: PREMIUM - TAMANHO CHINELO: 36/37",
+      "categoria_principal": "CHINELOS",
+      "categoria": "Chinelos Premium ",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "28450": {
+      "codigo": "28450",
+      "titulo": "Calça Microfibra Ultra - NIKE elástico interno  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29840": {
+      "codigo": "29840",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

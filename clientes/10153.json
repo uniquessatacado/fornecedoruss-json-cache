@@ -1,0 +1,53 @@
+{
+  "codigo": "10153",
+  "nome": "BRUNO AXAUA PADILHA MAIER",
+  "email": "brunopmayer@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/05/2024",
+  "whatsapp": "(51) 98357-4870",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 114.39,
+  "pedidos": [
+    {
+      "codigo_pedido": "27725",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-19 18:38:04",
+      "data_hora_confirmacao": "2025-01-19 18:40:43",
+      "data_hora_confirmacao_pagamento": "2025-01-19 18:40:43",
+      "valor_total_produtos": 96.66,
+      "valor_frete": 17.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 114.39,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40407": {
+      "codigo": "40407",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40414": {
+      "codigo": "40414",
+      "titulo": "Camiseta Suedine ultra -(C257) ARTE BORDADA LT3A   - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

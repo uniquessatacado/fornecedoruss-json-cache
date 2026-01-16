@@ -1,0 +1,45 @@
+{
+  "codigo": "1912",
+  "nome": "ROBERTO ROGERIO DOS DE SOUZA",
+  "email": "beto.rogerio16@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "29/08/2023",
+  "whatsapp": "(21) 97643-4516",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "2920",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 22:43:30",
+      "data_hora_confirmacao": "2023-11-09 15:36:27",
+      "data_hora_confirmacao_pagamento": "2023-11-09 15:36:37",
+      "valor_total_produtos": 25,
+      "valor_frete": 27.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 52.42,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.59P": {
+      "codigo": "CD01.59P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Botafogo  LT26.10  - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

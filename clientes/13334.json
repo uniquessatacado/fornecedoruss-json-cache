@@ -1,0 +1,88 @@
+{
+  "codigo": "13334",
+  "nome": "RAISSA DE CASTRO ANGARTEN",
+  "email": "raissa_angarten@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "30/07/2024",
+  "whatsapp": "(19) 97412-1563",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 316.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "17378",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENTREGUE AO CLIENTE",
+      "data_hora_pedido": "2024-07-30 18:16:58",
+      "data_hora_confirmacao": "2024-07-31 19:02:27",
+      "data_hora_confirmacao_pagamento": "2024-07-31 19:02:19",
+      "valor_total_produtos": 185.98,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 245.98,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18057",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-07 17:48:30",
+      "data_hora_confirmacao": "2024-08-08 17:30:05",
+      "data_hora_confirmacao_pagamento": "2024-08-08 17:29:59",
+      "valor_total_produtos": 60.78,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 70.78,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21235": {
+      "codigo": "21235",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21236": {
+      "codigo": "21236",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "23906": {
+      "codigo": "23906",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em bordado - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "23931": {
+      "codigo": "23931",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - TOMMY HILFIGER arte em bordado - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "12209",
+  "nome": "ANDRÉ BRITO",
+  "email": "andrejf@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/07/2024",
+  "whatsapp": "(21) 99056-9348",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 149.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "15528",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-10 12:37:03",
+      "data_hora_confirmacao": "2024-07-10 15:26:03",
+      "data_hora_confirmacao_pagamento": "2024-07-10 15:25:58",
+      "valor_total_produtos": 131.97,
+      "valor_frete": 17.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 149.87,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20395": {
+      "codigo": "20395",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22968": {
+      "codigo": "22968",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23540": {
+      "codigo": "23540",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

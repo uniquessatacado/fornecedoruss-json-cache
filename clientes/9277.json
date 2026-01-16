@@ -1,0 +1,53 @@
+{
+  "codigo": "9277",
+  "nome": "ALUIZIO TOMAZ",
+  "email": "aluiziotomaz53@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(21) 9997-98141",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.88,
+  "pedidos": [
+    {
+      "codigo_pedido": "11663",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 17:17:01",
+      "data_hora_confirmacao": "2024-05-13 17:28:59",
+      "data_hora_confirmacao_pagamento": "2024-05-13 17:28:51",
+      "valor_total_produtos": 66.98,
+      "valor_frete": 30.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.88,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18283": {
+      "codigo": "18283",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18409": {
+      "codigo": "18409",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

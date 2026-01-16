@@ -1,0 +1,281 @@
+{
+  "codigo": "673",
+  "nome": "VALMIR JUNIOR",
+  "email": "jrfonseca901@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(91) 98344-2892",
+  "cidade": "Belém",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 784.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301567",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-10 20:49:43",
+      "data_hora_confirmacao": "2023-10-11 12:25:41",
+      "data_hora_confirmacao_pagamento": "2023-10-11 12:25:49",
+      "valor_total_produtos": 90,
+      "valor_frete": 24.07,
+      "frete": "PAC",
+      "valor_total_pedido": 114.07,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18368",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-11 10:27:56",
+      "data_hora_confirmacao": "2024-08-12 14:59:52",
+      "data_hora_confirmacao_pagamento": "2024-08-12 14:59:45",
+      "valor_total_produtos": 141.55,
+      "valor_frete": 31.82,
+      "frete": "JADLOG",
+      "valor_total_pedido": 173.37,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20739",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-09 21:48:08",
+      "data_hora_confirmacao": "2024-09-10 11:57:39",
+      "data_hora_confirmacao_pagamento": "2024-09-10 11:57:33",
+      "valor_total_produtos": 163.93,
+      "valor_frete": 32.08,
+      "frete": "JADLOG",
+      "valor_total_pedido": 196.01,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "23681",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-01 22:49:36",
+      "data_hora_confirmacao": "2024-11-07 13:54:01",
+      "data_hora_confirmacao_pagamento": "2024-11-07 13:53:53",
+      "valor_total_produtos": 195.16,
+      "valor_frete": 32.13,
+      "frete": "JADLOG",
+      "valor_total_pedido": 227.29,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24679",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-19 11:29:07",
+      "data_hora_confirmacao": "2024-11-19 11:29:07",
+      "data_hora_confirmacao_pagamento": "2024-11-19 11:29:07",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 73.98,
+      "desconto": 0,
+      "cidade": "Belém",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24636": {
+      "codigo": "24636",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "24664": {
+      "codigo": "24664",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "24704": {
+      "codigo": "24704",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "25895": {
+      "codigo": "25895",
+      "titulo": "Tênis Nike AIR 70 - Cor: PRETA - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26469": {
+      "codigo": "26469",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26515": {
+      "codigo": "26515",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26578": {
+      "codigo": "26578",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "27127": {
+      "codigo": "27127",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28098": {
+      "codigo": "28098",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28347": {
+      "codigo": "28347",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "29019": {
+      "codigo": "29019",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF frente e costas  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29226": {
+      "codigo": "29226",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30678": {
+      "codigo": "30678",
+      "titulo": "Chinelo NIKE AIR MAX CIRRO  - COR CHINELO: VERMELHO/PRETO - Marca: Nike - MODELO CHINELO: AIR MAX CIRRO - TAMANHO CHINELO: 39",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32896": {
+      "codigo": "32896",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33300": {
+      "codigo": "33300",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33322": {
+      "codigo": "33322",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33893": {
+      "codigo": "33893",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS cargo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33922": {
+      "codigo": "33922",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.3P": {
+      "codigo": "CD39.3P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.8P": {
+      "codigo": "CD39.8P",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - Nike - Cor: Preto - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD29.3G": {
+      "codigo": "CD29.3G",
+      "titulo": "Bermuda Microfibra Premium - Nike - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "11895",
+  "nome": "CICERO FERNANDO DE OLIVEIRA CORREA",
+  "email": "nfer27360@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/07/2024",
+  "whatsapp": "(19) 99135-0347",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 18.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "15074",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-03 23:39:37",
+      "data_hora_confirmacao": "2024-07-04 09:25:30",
+      "data_hora_confirmacao_pagamento": "2024-07-04 09:25:23",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 18.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18127": {
+      "codigo": "18127",
+      "titulo": "FONE DE OUVIDO IPHONE COM FIO (ENTRADA IPHONE)",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    }
+  }
+}

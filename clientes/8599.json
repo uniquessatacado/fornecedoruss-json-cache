@@ -1,0 +1,72 @@
+{
+  "codigo": "8599",
+  "nome": "FELIPE LUCAS DE MELO",
+  "email": "Felipelucasmelo23@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/04/2024",
+  "whatsapp": "(47) 99952-7756",
+  "cidade": "Porto Belo",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 99.02000000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "10659",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-24 19:42:26",
+      "data_hora_confirmacao": "2024-04-27 10:22:01",
+      "data_hora_confirmacao_pagamento": "2024-04-27 10:21:54",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 16.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 46.03,
+      "desconto": 0,
+      "cidade": "Tijucas",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11318",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-04 09:19:06",
+      "data_hora_confirmacao": "2024-05-06 12:00:43",
+      "data_hora_confirmacao_pagamento": "2024-05-06 12:00:35",
+      "valor_total_produtos": 52.99,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 52.99,
+      "desconto": 0,
+      "cidade": "Porto Belo",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.23M": {
+      "codigo": "CD24.23M",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 3
+    },
+    "CD22.3M": {
+      "codigo": "CD22.3M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS BORDADO - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

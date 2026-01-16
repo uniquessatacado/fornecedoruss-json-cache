@@ -1,0 +1,53 @@
+{
+  "codigo": "3082",
+  "nome": "FRANCISCO DANILO DOS SANTOS",
+  "email": "fdsantos.melo@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(11) 95104-8327",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 25.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301495",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-09 15:54:22",
+      "data_hora_confirmacao": "2023-10-09 16:23:14",
+      "data_hora_confirmacao_pagamento": "2023-10-09 16:23:37",
+      "valor_total_produtos": 17,
+      "valor_frete": 8.73,
+      "frete": "SEDEX",
+      "valor_total_pedido": 25.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Vermelha - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "1"
+    },
+    "CD24.21M- Boss": {
+      "codigo": "CD24.21M- Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

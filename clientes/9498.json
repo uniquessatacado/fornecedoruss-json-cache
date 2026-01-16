@@ -1,0 +1,45 @@
+{
+  "codigo": "9498",
+  "nome": "JOÃO PEDRO SILVA FERNANDES",
+  "email": "joaopedrosilvafernandes2007@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(19) 99199-2881",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 84.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "11955",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-17 08:18:19",
+      "data_hora_confirmacao": "2024-05-17 10:09:44",
+      "data_hora_confirmacao_pagamento": "2024-05-17 10:09:36",
+      "valor_total_produtos": 84.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 84.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17705": {
+      "codigo": "17705",
+      "titulo": "MOLETOM 3 CABOS  CANGURU HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

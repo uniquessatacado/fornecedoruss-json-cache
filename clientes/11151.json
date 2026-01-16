@@ -1,0 +1,61 @@
+{
+  "codigo": "11151",
+  "nome": "ANDRESSA PEREIRA DA FONSECA",
+  "email": "andressapf20@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(93) 98400-9413",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 117.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "14040",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 13:00:29",
+      "data_hora_confirmacao": "2024-06-19 18:13:14",
+      "data_hora_confirmacao_pagamento": "2024-06-19 18:13:08",
+      "valor_total_produtos": 95.97,
+      "valor_frete": 21.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.82,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22061": {
+      "codigo": "22061",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - VANS arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "22128": {
+      "codigo": "22128",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NEW ERA arte em DTF - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NEW ERA",
+      "quantidade": "1"
+    },
+    "22163": {
+      "codigo": "22163",
+      "titulo": "CAMISETA GENUINA SOFT PENTEADO TURCO - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "16383",
+  "nome": "GUILHERME VIEIRA LAMIM",
+  "email": "guilhermelamim2001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/10/2024",
+  "whatsapp": "(11) 96982-7394",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 62.12,
+  "pedidos": [
+    {
+      "codigo_pedido": "22530",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-08 20:44:36",
+      "data_hora_confirmacao": "2024-10-09 10:07:12",
+      "data_hora_confirmacao_pagamento": "2024-10-09 10:07:04",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 12.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 62.12,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31825": {
+      "codigo": "31825",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31827": {
+      "codigo": "31827",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

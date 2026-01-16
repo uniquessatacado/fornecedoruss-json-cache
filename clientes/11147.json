@@ -1,0 +1,88 @@
+{
+  "codigo": "11147",
+  "nome": "LUIZ DAVI FERREIRA",
+  "email": "luiz_davi_fer@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "19/06/2024",
+  "whatsapp": "(16) 9979-08052",
+  "cidade": "Jaboticabal",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 514.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "14085",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-19 17:51:39",
+      "data_hora_confirmacao": "2024-06-20 10:21:02",
+      "data_hora_confirmacao_pagamento": "2024-06-20 10:20:51",
+      "valor_total_produtos": 89.98,
+      "valor_frete": 19.2,
+      "frete": "JADLOG",
+      "valor_total_pedido": 109.18,
+      "desconto": 0,
+      "cidade": "Jaboticabal",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27339",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-28 20:39:05",
+      "data_hora_confirmacao": "2024-12-28 20:41:52",
+      "data_hora_confirmacao_pagamento": "2024-12-28 20:41:52",
+      "valor_total_produtos": 268.12,
+      "valor_frete": 17.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 405.31,
+      "desconto": 0,
+      "cidade": "Jaboticabal",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20016": {
+      "codigo": "20016",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INGLATERRA (PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20691": {
+      "codigo": "20691",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "21452": {
+      "codigo": "21452",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

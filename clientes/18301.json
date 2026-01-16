@@ -1,0 +1,633 @@
+{
+  "codigo": "18301",
+  "nome": "LEONARDO LEMOS",
+  "email": "leonardolemos370@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2024",
+  "whatsapp": "(77) 99868-7642",
+  "cidade": "Vitória da Conquista",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 5,
+  "valor_total_comprado": 3754.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "27220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-24 13:07:24",
+      "data_hora_confirmacao": "2024-12-24 13:09:24",
+      "data_hora_confirmacao_pagamento": "2024-12-24 13:09:24",
+      "valor_total_produtos": 188.4,
+      "valor_frete": 21.23,
+      "frete": "SEDEX",
+      "valor_total_pedido": 209.63,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27557",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-11 17:45:01",
+      "data_hora_confirmacao": "2025-01-11 17:45:57",
+      "data_hora_confirmacao_pagamento": "2025-01-11 17:45:57",
+      "valor_total_produtos": 188.09,
+      "valor_frete": 16.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 204.68,
+      "desconto": 0,
+      "cidade": "Embu das Artes",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30587",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-09 16:46:20",
+      "data_hora_confirmacao": "2025-07-09 16:50:07",
+      "data_hora_confirmacao_pagamento": "2025-07-09 16:50:07",
+      "valor_total_produtos": 255.4,
+      "valor_frete": 39.06,
+      "frete": "LOGGI",
+      "valor_total_pedido": 294.46,
+      "desconto": 0,
+      "cidade": "Vitória da Conquista",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30922",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-25 13:06:49",
+      "data_hora_confirmacao": "2025-07-25 13:20:02",
+      "data_hora_confirmacao_pagamento": "2025-07-25 13:20:02",
+      "valor_total_produtos": 216.68,
+      "valor_frete": 34.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 251.5,
+      "desconto": 0,
+      "cidade": "Vitória da Conquista",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31354",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-20 14:44:03",
+      "data_hora_confirmacao": "2025-08-20 14:58:47",
+      "data_hora_confirmacao_pagamento": "2025-08-20 14:59:12",
+      "valor_total_produtos": 2600,
+      "valor_frete": 194.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 2794.67,
+      "desconto": 0,
+      "cidade": "Vitória da Conquista",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38044": {
+      "codigo": "38044",
+      "titulo": "Cuecas Peruanas (C99) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "38208": {
+      "codigo": "38208",
+      "titulo": "MEIAS PERUANAS SOQUETES (C111) - Marca: Nike - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38828": {
+      "codigo": "38828",
+      "titulo": "Camiseta Suedine ultra -(C141) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38853": {
+      "codigo": "38853",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38856": {
+      "codigo": "38856",
+      "titulo": "Camiseta Suedine ultra -(C142) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38888": {
+      "codigo": "38888",
+      "titulo": "Camiseta Suedine ultra -(C143) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39812": {
+      "codigo": "39812",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39832": {
+      "codigo": "39832",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39840": {
+      "codigo": "39840",
+      "titulo": "Camiseta Suedine ultra -(C216) BORDADO NA LINHA MADEIRA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "39854": {
+      "codigo": "39854",
+      "titulo": "Camiseta Suedine ultra -(C217) ARTE EM DTF  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "43686": {
+      "codigo": "43686",
+      "titulo": " KIT COM 3 PARES MEIAS PERUANAS LT33A (C682) - Marca: Oakley - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "49864": {
+      "codigo": "49864",
+      "titulo": "Boné ultra Premium (LT001) - Cor: VERMELHA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "49999": {
+      "codigo": "49999",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50035": {
+      "codigo": "50035",
+      "titulo": "Regata Machão Suedine 1:1 Nike Air - ARTE EM DTF (LT003.1) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50081": {
+      "codigo": "50081",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT003.2)  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50087": {
+      "codigo": "50087",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT003.2) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50298": {
+      "codigo": "50298",
+      "titulo": "Cueca Peruana - Calvin Klein (LT003.4) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "50308": {
+      "codigo": "50308",
+      "titulo": "Cueca Peruana - Calvin Klein (LT003.4) - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "50685": {
+      "codigo": "50685",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "50688": {
+      "codigo": "50688",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51373": {
+      "codigo": "51373",
+      "titulo": "Blusa de Moletom 3 Cabos NIKE (LT014) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51397": {
+      "codigo": "51397",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "51479": {
+      "codigo": "51479",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "51482": {
+      "codigo": "51482",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "51493": {
+      "codigo": "51493",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "51496": {
+      "codigo": "51496",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "51499": {
+      "codigo": "51499",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "51502": {
+      "codigo": "51502",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51503": {
+      "codigo": "51503",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "51547": {
+      "codigo": "51547",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "51550": {
+      "codigo": "51550",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "51551": {
+      "codigo": "51551",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51553": {
+      "codigo": "51553",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "4"
+    },
+    "52818": {
+      "codigo": "52818",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "4"
+    },
+    "52821": {
+      "codigo": "52821",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "3"
+    },
+    "52836": {
+      "codigo": "52836",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "52839": {
+      "codigo": "52839",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52842": {
+      "codigo": "52842",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52852": {
+      "codigo": "52852",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52854": {
+      "codigo": "52854",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52857": {
+      "codigo": "52857",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52860": {
+      "codigo": "52860",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52863": {
+      "codigo": "52863",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52864": {
+      "codigo": "52864",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52866": {
+      "codigo": "52866",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52872": {
+      "codigo": "52872",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52875": {
+      "codigo": "52875",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52878": {
+      "codigo": "52878",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52881": {
+      "codigo": "52881",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52882": {
+      "codigo": "52882",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52884": {
+      "codigo": "52884",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52887": {
+      "codigo": "52887",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52888": {
+      "codigo": "52888",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52914": {
+      "codigo": "52914",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52918": {
+      "codigo": "52918",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52920": {
+      "codigo": "52920",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52926": {
+      "codigo": "52926",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52932": {
+      "codigo": "52932",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52944": {
+      "codigo": "52944",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52947": {
+      "codigo": "52947",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52950": {
+      "codigo": "52950",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "52956": {
+      "codigo": "52956",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "52959": {
+      "codigo": "52959",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

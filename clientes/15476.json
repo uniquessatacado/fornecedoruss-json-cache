@@ -1,0 +1,53 @@
+{
+  "codigo": "15476",
+  "nome": "GABRIEL AMBROSIO DOS SANTOS",
+  "email": "gabrielambrosio53@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/09/2024",
+  "whatsapp": "(19) 99690-7384",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 108.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "20794",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-10 16:57:32",
+      "data_hora_confirmacao": "2024-09-10 17:23:54",
+      "data_hora_confirmacao_pagamento": "2024-09-10 17:23:46",
+      "valor_total_produtos": 91.96,
+      "valor_frete": 16.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.01,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30373": {
+      "codigo": "30373",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "30382": {
+      "codigo": "30382",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

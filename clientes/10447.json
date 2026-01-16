@@ -1,0 +1,53 @@
+{
+  "codigo": "10447",
+  "nome": "GABRIEL LEÃO DA SILVA",
+  "email": "gabriel177live@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/06/2024",
+  "whatsapp": "(11) 95802-8889",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "13117",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 16:13:06",
+      "data_hora_confirmacao": "2024-06-05 18:23:45",
+      "data_hora_confirmacao_pagamento": "2024-06-05 18:23:38",
+      "valor_total_produtos": 64.56,
+      "valor_frete": 11.86,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.42,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 100,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "19752": {
+      "codigo": "19752",
+      "titulo": "Boné Super Premium - NY 47  - Cor: CINZA ESCURO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "19754": {
+      "codigo": "19754",
+      "titulo": "Boné Super Premium - NY 47  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    }
+  }
+}

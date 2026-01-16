@@ -1,0 +1,85 @@
+{
+  "codigo": "8864",
+  "nome": "EMERSON MARCOS DA SILVA",
+  "email": "emersonsheyk@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "01/05/2024",
+  "whatsapp": "(81) 9947-12648",
+  "cidade": "Ipojuca",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 250.79,
+  "pedidos": [
+    {
+      "codigo_pedido": "32333",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-25 20:44:26",
+      "data_hora_confirmacao": "2025-11-25 20:50:03",
+      "data_hora_confirmacao_pagamento": "2025-11-25 20:50:04",
+      "valor_total_produtos": 211.26,
+      "valor_frete": 39.53,
+      "frete": "PAC",
+      "valor_total_pedido": 250.79,
+      "desconto": 0,
+      "cidade": "Ipojuca",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53960": {
+      "codigo": "53960",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53998": {
+      "codigo": "53998",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON (LT049) - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "54018": {
+      "codigo": "54018",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN (LT049) - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "54978": {
+      "codigo": "54978",
+      "titulo": "Bermuda Microfibra Ultra Jordan (LT056) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "55020": {
+      "codigo": "55020",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT056) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55769": {
+      "codigo": "55769",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

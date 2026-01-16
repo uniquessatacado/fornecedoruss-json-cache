@@ -1,0 +1,123 @@
+{
+  "codigo": "2551",
+  "nome": "RICARDO PENZIN MONTEIRO",
+  "email": "ricardo@penzin.com.br",
+  "sexo": "0",
+  "data_cadastro": "22/09/2023",
+  "whatsapp": "(11) 99194-7771",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 228.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300420",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-22 06:32:08",
+      "data_hora_confirmacao": "2023-09-22 07:09:08",
+      "data_hora_confirmacao_pagamento": "2023-09-22 07:09:23",
+      "valor_total_produtos": 147,
+      "valor_frete": 15.55,
+      "frete": "SEDEX",
+      "valor_total_pedido": 162.55,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300744",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 10:59:02",
+      "data_hora_confirmacao": "2023-09-26 11:02:55",
+      "data_hora_confirmacao_pagamento": "2023-09-26 11:03:03",
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300835",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-28 14:18:16",
+      "data_hora_confirmacao": "2023-09-28 14:27:56",
+      "data_hora_confirmacao_pagamento": "2023-09-28 14:27:24",
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.2": {
+      "codigo": "CD25.2",
+      "titulo": "SHOULDER BAG - Adidas - Cor: Preto e Branco - Marca: Adidas",
+      "categoria_principal": "BOLSAS BAG",
+      "categoria": "BOLSAS BAG",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD12.3GG": {
+      "codigo": "CD12.3GG",
+      "titulo": "Polo Piquet Duplo - Gucci - Cor: Preto - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "GUCCI",
+      "quantidade": 2
+    },
+    "CD29.2G": {
+      "codigo": "CD29.2G",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD17.2G": {
+      "codigo": "CD17.2G",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.24G": {
+      "codigo": "CD17.24G",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Azul Bebê - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

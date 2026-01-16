@@ -1,0 +1,61 @@
+{
+  "codigo": "11580",
+  "nome": "JULIANA SOUZA REIS",
+  "email": "reisjulianadesouza@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/06/2024",
+  "whatsapp": "(98) 98151-4611",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 131.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "14595",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-27 11:37:59",
+      "data_hora_confirmacao": "2024-06-27 12:58:38",
+      "data_hora_confirmacao_pagamento": "2024-06-27 12:58:31",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 23.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.55,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20163": {
+      "codigo": "20163",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "20419": {
+      "codigo": "20419",
+      "titulo": "Bermuda Microfibra Ultra NIKE AIR Tipo Cargo  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD6.01GG": {
+      "codigo": "CD6.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

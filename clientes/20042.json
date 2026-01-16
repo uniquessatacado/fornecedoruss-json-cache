@@ -1,0 +1,77 @@
+{
+  "codigo": "20042",
+  "nome": "JAQUELINE ANE DA SILVA",
+  "email": "jaquelinekuller@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2025",
+  "whatsapp": "(41) 99949-5405",
+  "cidade": "Araucária",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "30100",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-03 15:07:57",
+      "data_hora_confirmacao": "2025-06-03 16:14:23",
+      "data_hora_confirmacao_pagamento": "2025-06-03 16:14:23",
+      "valor_total_produtos": 54.15,
+      "valor_frete": 16.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 70.18,
+      "desconto": 0,
+      "cidade": "Araucária",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "46013": {
+      "codigo": "46013",
+      "titulo": "Cueca Peruana LT36A (C778) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "48228": {
+      "codigo": "48228",
+      "titulo": "Cuecas Peruanas - NIKE LT56A (C980) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48240": {
+      "codigo": "48240",
+      "titulo": "Cuecas Peruanas - Boss LT56A (C982) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "48279": {
+      "codigo": "48279",
+      "titulo": "Cuecas Peruanas - Lacoste LT56A (C988) - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "48722": {
+      "codigo": "48722",
+      "titulo": "Cuecas Peruanas - Boss LT62A (C1065) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

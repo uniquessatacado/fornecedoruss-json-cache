@@ -1,0 +1,53 @@
+{
+  "codigo": "16997",
+  "nome": "MATHEUS FELLIPE MACEDO MAGALHAES",
+  "email": "mthrj@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/10/2024",
+  "whatsapp": "(21) 9973-57545",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 150.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "23494",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-29 20:12:00",
+      "data_hora_confirmacao": "2024-10-30 09:38:50",
+      "data_hora_confirmacao_pagamento": "2024-10-30 09:38:31",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 18.62,
+      "frete": "JADLOG",
+      "valor_total_pedido": 150.6,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30145": {
+      "codigo": "30145",
+      "titulo": "Óculos OAKLEY JULIET - ROMEO 2 - ARMAÇÃO: CARBON - BLACK - COR DA LENTE: SLATE - Kit Borracha: PRETA - MODELO: ROMEO 2",
+      "categoria_principal": "OCULOS",
+      "categoria": "ROMEU 2",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "33099": {
+      "codigo": "33099",
+      "titulo": "Oculos OAKLEY JULIET - ARMAÇÃO: 24K - PRATA+DOURADA  - COR DA LENTE: GOLD - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

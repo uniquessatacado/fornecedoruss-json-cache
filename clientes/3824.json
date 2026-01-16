@@ -1,0 +1,96 @@
+{
+  "codigo": "3824",
+  "nome": "LUCAS FERREIRA",
+  "email": "lucassaferreira12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/10/2023",
+  "whatsapp": "(16) 99995-2680",
+  "cidade": "Orlândia",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 188.82,
+  "pedidos": [
+    {
+      "codigo_pedido": "2490",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-31 14:58:26",
+      "data_hora_confirmacao": "2023-10-31 15:13:43",
+      "data_hora_confirmacao_pagamento": "2023-10-31 15:13:52",
+      "valor_total_produtos": 132,
+      "valor_frete": 21.82,
+      "frete": "SEDEX",
+      "valor_total_pedido": 153.82,
+      "desconto": 0,
+      "cidade": "Orlândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2560",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-11-01 10:45:19",
+      "data_hora_confirmacao": "2023-11-01 10:47:47",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 35,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 35,
+      "desconto": 0,
+      "cidade": "Orlândia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Azul - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.37G": {
+      "codigo": "CD17.37G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.3M": {
+      "codigo": "CD41.3M",
+      "titulo": "BERMUDA MICROFIBRA HIPER - NIKE  LT19.10   - Cor: Preto com Vermelho - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38G": {
+      "codigo": "CD17.38G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD40.7M": {
+      "codigo": "CD40.7M",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - NIKE  LT30.10 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

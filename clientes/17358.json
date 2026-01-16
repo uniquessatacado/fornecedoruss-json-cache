@@ -1,0 +1,275 @@
+{
+  "codigo": "17358",
+  "nome": "RICARDO CHIOVETTO",
+  "email": "ricachio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2024",
+  "whatsapp": "(19) 99628-0601",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 792.37,
+  "pedidos": [
+    {
+      "codigo_pedido": "24165",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-10 18:56:24",
+      "data_hora_confirmacao": "2024-11-10 18:58:34",
+      "data_hora_confirmacao_pagamento": "2024-11-10 18:58:34",
+      "valor_total_produtos": 249.9,
+      "valor_frete": 22.1,
+      "frete": "SEDEX",
+      "valor_total_pedido": 272,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26174",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 23:40:11",
+      "data_hora_confirmacao": "2024-12-11 23:41:12",
+      "data_hora_confirmacao_pagamento": "2024-12-11 23:41:12",
+      "valor_total_produtos": 110.97,
+      "valor_frete": 16.2,
+      "frete": "SEDEX",
+      "valor_total_pedido": 127.17,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31530",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-09-02 22:53:13",
+      "data_hora_confirmacao": "2025-09-02 22:54:22",
+      "data_hora_confirmacao_pagamento": "2025-09-02 22:54:22",
+      "valor_total_produtos": 365.71,
+      "valor_frete": 27.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 393.2,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25356": {
+      "codigo": "25356",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25359": {
+      "codigo": "25359",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "25368": {
+      "codigo": "25368",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30619": {
+      "codigo": "30619",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31449": {
+      "codigo": "31449",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32439": {
+      "codigo": "32439",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33295": {
+      "codigo": "33295",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33585": {
+      "codigo": "33585",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33591": {
+      "codigo": "33591",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: SALMÃO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33626": {
+      "codigo": "33626",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36622": {
+      "codigo": "36622",
+      "titulo": "Camiseta Peruana com Elastano   - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36681": {
+      "codigo": "36681",
+      "titulo": "Camiseta Peruana com Elastano     - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "36695": {
+      "codigo": "36695",
+      "titulo": "Camiseta Peruana com Elastano     - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47644": {
+      "codigo": "47644",
+      "titulo": "Camiseta Malha Chinesa | Importada Documentada LT48A (C895)   - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA IMPORTADA DOCUMENTADA",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "48006": {
+      "codigo": "48006",
+      "titulo": "Camiseta Pima Hugo Boss Essencial LT51A (C942) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51483": {
+      "codigo": "51483",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52057": {
+      "codigo": "52057",
+      "titulo": "Camiseta Pima Premium DIESEL (LT011) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PIMA LUXO",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "52163": {
+      "codigo": "52163",
+      "titulo": "Cueca Peruana Burberry (LT017) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "52309": {
+      "codigo": "52309",
+      "titulo": "Calça Microfibra Ultra Armani (LT029) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "52739": {
+      "codigo": "52739",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS (LT030) - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "53167": {
+      "codigo": "53167",
+      "titulo": "Camiseta ELASFIT ULTRA Nike (LT040) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53513": {
+      "codigo": "53513",
+      "titulo": "Cueca Peruana Boss (LT043) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "2"
+    },
+    "53537": {
+      "codigo": "53537",
+      "titulo": "Cueca Peruana Lacoste (LT043) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "53555": {
+      "codigo": "53555",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53561": {
+      "codigo": "53561",
+      "titulo": "Cueca Peruana Armani (LT043) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

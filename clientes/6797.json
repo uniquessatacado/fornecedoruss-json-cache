@@ -1,0 +1,53 @@
+{
+  "codigo": "6797",
+  "nome": "THOMAS ROBSON DE SOUZA",
+  "email": "menor20221@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "11/03/2024",
+  "whatsapp": "(19) 98605-9859",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 125.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "8213",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-03-11 17:49:20",
+      "data_hora_confirmacao": "2024-03-12 09:53:23",
+      "data_hora_confirmacao_pagamento": "2024-03-14 15:48:32",
+      "valor_total_produtos": 125.95,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125.95,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD15.2M": {
+      "codigo": "CD15.2M",
+      "titulo": "Camiseta Egípcia Cotton Luxo BORDADA M2- Hugo Boss - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD31M": {
+      "codigo": "CD31M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    }
+  }
+}

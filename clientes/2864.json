@@ -1,0 +1,53 @@
+{
+  "codigo": "2864",
+  "nome": "ANTONIO FIGUEIREDO FERREIRA",
+  "email": "tuninho_92@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "25/09/2023",
+  "whatsapp": "(21) 96557-8966",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 95.44,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300727",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 22:35:36",
+      "data_hora_confirmacao": "2023-09-27 10:05:43",
+      "data_hora_confirmacao_pagamento": "2023-09-27 10:05:34",
+      "valor_total_produtos": 60,
+      "valor_frete": 35.44,
+      "frete": "SEDEX",
+      "valor_total_pedido": 95.44,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.46M Al-hilal": {
+      "codigo": "CD01.46M Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: M - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.33M": {
+      "codigo": "CD01.33M",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Bayern de Munique - Tamanho: M - Times : Bayern de Munique",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

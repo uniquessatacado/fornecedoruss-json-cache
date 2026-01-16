@@ -1,0 +1,61 @@
+{
+  "codigo": "3963",
+  "nome": "RAFAEL MACIEL DE VASCONCELOS",
+  "email": "rv01022018@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2023",
+  "whatsapp": "(11) 95024-5800",
+  "cidade": "Guarulhos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 139.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "2906",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 18:47:08",
+      "data_hora_confirmacao": "2023-11-09 12:21:22",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:21:32",
+      "valor_total_produtos": 127.5,
+      "valor_frete": 12.34,
+      "frete": "SEDEX",
+      "valor_total_pedido": 139.84,
+      "desconto": 0,
+      "cidade": "Guarulhos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.39": {
+      "codigo": "CD24.39",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  LT08.11  - Cor: Preto - Marca: Calvin Klein - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 6
+    },
+    "CD24.38": {
+      "codigo": "CD24.38",
+      "titulo": "Cuecas Peruanas - POLO RALPH  LT08.11    - Cor: Preto - Marca: Polo Ralph - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": 5
+    },
+    "CD24.37": {
+      "codigo": "CD24.37",
+      "titulo": "Cuecas Peruanas - LACOSTE  LT08.11   - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 4
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "codigo": "9187",
+  "nome": "ANDRE DE SOUZA CUSTODIO",
+  "email": "andredesouzacustodio7@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/05/2024",
+  "whatsapp": "(21) 9687-62416",
+  "cidade": "Nilópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 390.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "11833",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-14 20:46:32",
+      "data_hora_confirmacao": "2024-05-16 17:42:53",
+      "data_hora_confirmacao_pagamento": "2024-05-16 17:42:45",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.59,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12474",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-23 19:34:29",
+      "data_hora_confirmacao": "2024-05-24 16:12:49",
+      "data_hora_confirmacao_pagamento": "2024-05-24 16:12:39",
+      "valor_total_produtos": 135.97,
+      "valor_frete": 18.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.37,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32447",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "data_hora_pedido": "2025-12-21 14:24:41",
+      "data_hora_confirmacao": "2025-12-21 14:27:21",
+      "data_hora_confirmacao_pagamento": "2025-12-21 14:27:21",
+      "valor_total_produtos": 93.75,
+      "valor_frete": 18.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.53,
+      "desconto": 0,
+      "cidade": "Nilópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18278": {
+      "codigo": "18278",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: LARANJA CLARO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19265": {
+      "codigo": "19265",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS recorte  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "48970": {
+      "codigo": "48970",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Seleção Brasileira Retrô PELÉ #10| LT65A (C1106)  - Tamanho: M - Times : Brasil - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "49799": {
+      "codigo": "49799",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT69A (C1225) - Tamanho: P - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "49803": {
+      "codigo": "49803",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT69A (C1225) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD8.01M": {
+      "codigo": "CD8.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CF1.1M": {
+      "codigo": "CF1.1M",
+      "titulo": "CONJUNTO FEMINO  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CF1.2M": {
+      "codigo": "CF1.2M",
+      "titulo": "CONJUNTO FEMINO  NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "PRODUTOS FEMININOS",
+      "categoria": "CONJUNTO FEMININO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

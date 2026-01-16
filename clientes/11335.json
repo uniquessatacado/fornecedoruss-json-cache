@@ -1,0 +1,53 @@
+{
+  "codigo": "11335",
+  "nome": "THADEUS VICKTOR MENDES BAIA",
+  "email": "thadeusvmb@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/06/2024",
+  "whatsapp": "(98) 98882-3236",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 108.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "14330",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-21 18:45:29",
+      "data_hora_confirmacao": "2024-06-22 09:31:44",
+      "data_hora_confirmacao_pagamento": "2024-06-22 09:31:35",
+      "valor_total_produtos": 74.99,
+      "valor_frete": 33.19,
+      "frete": "PAC",
+      "valor_total_pedido": 108.18,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22540": {
+      "codigo": "22540",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em patch emborrachado - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "PA12": {
+      "codigo": "PA12",
+      "titulo": "CORRENTE DE PRATA  VERNEZIANA   1MM 60CM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "codigo": "8929",
+  "nome": "ANTÔNIO JOHNATAN LIMA CERQUEIRA",
+  "email": "jhonata.lima2204@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/05/2024",
+  "whatsapp": "(62) 9862-68626",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 353.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "11161",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 20:35:37",
+      "data_hora_confirmacao": "2024-05-03 11:58:51",
+      "data_hora_confirmacao_pagamento": "2024-05-03 11:58:27",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 16.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.93,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11399",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-06 18:40:02",
+      "data_hora_confirmacao": "2024-05-07 12:35:12",
+      "data_hora_confirmacao_pagamento": "2024-05-07 12:35:04",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 31.46,
+      "frete": "SEDEX",
+      "valor_total_pedido": 139.43,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19158",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-20 16:06:11",
+      "data_hora_confirmacao": "2024-08-21 10:54:27",
+      "data_hora_confirmacao_pagamento": "2024-08-21 10:54:21",
+      "valor_total_produtos": 100.97,
+      "valor_frete": 24.33,
+      "frete": "LOGGI",
+      "valor_total_pedido": 125.3,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27822": {
+      "codigo": "27822",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em termogel - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "27840": {
+      "codigo": "27840",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - JOHN JOHN arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "JOHN JOHN",
+      "quantidade": "1"
+    },
+    "28319": {
+      "codigo": "28319",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD8.01M": {
+      "codigo": "CD8.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD7.01M": {
+      "codigo": "CD7.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

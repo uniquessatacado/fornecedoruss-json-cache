@@ -1,0 +1,53 @@
+{
+  "codigo": "3217",
+  "nome": "LAYANE SILVA",
+  "email": "layanesilvavieirasilva@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(61) 61981-6400",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 107.89,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301183",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-03 18:38:54",
+      "data_hora_confirmacao": "2023-10-03 22:54:29",
+      "data_hora_confirmacao_pagamento": "2023-10-03 22:54:17",
+      "valor_total_produtos": 93.5,
+      "valor_frete": 14.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 107.89,
+      "desconto": 0,
+      "cidade": "Novo Gama",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.25G - Nike": {
+      "codigo": "CD24.25G - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD24.25M - Nike": {
+      "codigo": "CD24.25M - Nike",
+      "titulo": "Cuecas Peruanas -  Nike - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 7
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "9720",
+  "nome": "ADELMO DE JESUS ALVES",
+  "email": "saadelmoalves1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/05/2024",
+  "whatsapp": "(79) 99995-2997",
+  "cidade": "Itabaianinha",
+  "estado": "SE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.83,
+  "pedidos": [
+    {
+      "codigo_pedido": "12241",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 21:02:50",
+      "data_hora_confirmacao": "2024-05-22 19:33:58",
+      "data_hora_confirmacao_pagamento": "2024-05-22 19:33:44",
+      "valor_total_produtos": 78.98,
+      "valor_frete": 21.85,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 100.83,
+      "desconto": 0,
+      "cidade": "Itabaianinha",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18026": {
+      "codigo": "18026",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA  JORDAN - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "CD4.19M": {
+      "codigo": "CD4.19M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO LOGO INTERNA  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

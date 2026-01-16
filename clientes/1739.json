@@ -1,0 +1,53 @@
+{
+  "codigo": "1739",
+  "nome": "LUIZ AUGUSTO VIRGINIO MACEDO",
+  "email": "luizodecam@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "24/08/2023",
+  "whatsapp": "(27) 99737-0904",
+  "cidade": "Serra",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 60.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "19731",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-27 13:13:25",
+      "data_hora_confirmacao": "2024-08-27 16:17:46",
+      "data_hora_confirmacao_pagamento": "2024-08-27 16:16:18",
+      "valor_total_produtos": 46.98,
+      "valor_frete": 13.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 60.81,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24709": {
+      "codigo": "24709",
+      "titulo": "Cuecas Peruanas - POLO RALPH LAUREN - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "POLO RALPH LAUREN",
+      "quantidade": "1"
+    },
+    "27167": {
+      "codigo": "27167",
+      "titulo": "Bermuda Microfibra Ultra - NIKE AIR recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

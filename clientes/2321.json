@@ -1,0 +1,115 @@
+{
+  "codigo": "2321",
+  "nome": "CRISTIANO DOS SANTOS NASCIMENTO",
+  "email": "cristiano_santos_30@yahoo.com.br",
+  "sexo": "1",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(21) 96617-5758",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 238.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301062",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-30 19:48:09",
+      "data_hora_confirmacao": "2023-10-10 17:50:41",
+      "data_hora_confirmacao_pagamento": "2023-10-10 17:50:20",
+      "valor_total_produtos": 30,
+      "valor_frete": 15.2,
+      "frete": "JADLOG",
+      "valor_total_pedido": 45.2,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301338",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 17:54:03",
+      "data_hora_confirmacao": "2023-10-10 09:56:29",
+      "data_hora_confirmacao_pagamento": "2023-10-10 09:56:40",
+      "valor_total_produtos": 71,
+      "valor_frete": 18.52,
+      "frete": "JADLOG",
+      "valor_total_pedido": 89.52,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2832",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-08 01:00:10",
+      "data_hora_confirmacao": "2023-11-09 13:19:51",
+      "data_hora_confirmacao_pagamento": "2023-11-09 13:20:03",
+      "valor_total_produtos": 86,
+      "valor_frete": 17.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.63,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD16.33GG": {
+      "codigo": "CD16.33GG",
+      "titulo": "Camisetas de Time Nacional - Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD38.1": {
+      "codigo": "CD38.1",
+      "titulo": "GARRAFA TÉRMICA STANLEY - MARCADOR DIGITAL   - Cor: Amarela",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD38.2": {
+      "codigo": "CD38.2",
+      "titulo": "KIT C/3 GARRAFAS - SQUEEZE MOTIVACIONAL - Cor: Azul e Roxo",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "2"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

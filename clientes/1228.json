@@ -1,0 +1,53 @@
+{
+  "codigo": "1228",
+  "nome": "NICOLAS DA SILVA DOS SANTOS",
+  "email": "nico.cr7.santos@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "17/08/2023",
+  "whatsapp": "(19) 99605-7316",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 106.66,
+  "pedidos": [
+    {
+      "codigo_pedido": "28200",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-02-15 17:02:00",
+      "data_hora_confirmacao": "2025-02-15 17:03:57",
+      "data_hora_confirmacao_pagamento": "2025-02-15 17:03:57",
+      "valor_total_produtos": 96.66,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 106.66,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "39937": {
+      "codigo": "39937",
+      "titulo": "Camiseta Suedine ultra -(C219) ARTE EM DTF LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40279": {
+      "codigo": "40279",
+      "titulo": "Camiseta Suedine ultra -(C246) ARTE EM DTF LT3A - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "4578",
+  "nome": "LUIZ MAGNO ANDRADE DOS SANTOS",
+  "email": "luizandrade30@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2023",
+  "whatsapp": "(13) 99698-9408",
+  "cidade": "Guarujá",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 117.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "4317",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-08 22:10:16",
+      "data_hora_confirmacao": "2023-12-09 09:50:00",
+      "data_hora_confirmacao_pagamento": "2023-12-09 09:50:09",
+      "valor_total_produtos": 34,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 43.6,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "5156",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 21:06:03",
+      "data_hora_confirmacao": "2023-12-20 08:02:31",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:02:41",
+      "valor_total_produtos": 62.93,
+      "valor_frete": 10.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.81,
+      "desconto": 0,
+      "cidade": "Guarujá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.48": {
+      "codigo": "CD24.48",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12  - Cor: Branca - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.46": {
+      "codigo": "CD24.46",
+      "titulo": "Cuecas Peruanas - VERSACE LT06.12  - Cor: Azul Marinho - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 2
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD24.53": {
+      "codigo": "CD24.53",
+      "titulo": "Cuecas Peruanas - ARMANI  LT19.19 - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 2
+    }
+  }
+}

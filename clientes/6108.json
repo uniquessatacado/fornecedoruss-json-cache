@@ -1,0 +1,53 @@
+{
+  "codigo": "6108",
+  "nome": "LUAN GOMES E SILVA",
+  "email": "luanges2015@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/02/2024",
+  "whatsapp": "(31) 97148-2552",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 76.14,
+  "pedidos": [
+    {
+      "codigo_pedido": "7525",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 14:32:49",
+      "data_hora_confirmacao": "2024-02-22 15:16:03",
+      "data_hora_confirmacao_pagamento": "2024-02-22 15:15:57",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 14.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 76.14,
+      "desconto": 0,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD57.4": {
+      "codigo": "CD57.4",
+      "titulo": "REGATAS DRIFIT ULTRA - NIKE  19.12    - Cor: Preto - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "REGATA DRIFT ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.2M": {
+      "codigo": "CD04.2M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE BASICA COM CORTE EM V NA PERNA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

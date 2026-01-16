@@ -1,0 +1,53 @@
+{
+  "codigo": "1758",
+  "nome": "CAUÃ ALMEIDA",
+  "email": "cauaalmeida95@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "25/08/2023",
+  "whatsapp": "(79) 9967-63461",
+  "cidade": "Aracaju",
+  "estado": "SE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 169.64,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300302",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-20 19:15:36",
+      "data_hora_confirmacao": "2023-09-22 10:11:07",
+      "data_hora_confirmacao_pagamento": "2023-09-22 10:10:56",
+      "valor_total_produtos": 130,
+      "valor_frete": 39.64,
+      "frete": "PAC",
+      "valor_total_pedido": 169.64,
+      "desconto": 0,
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.25M": {
+      "codigo": "CD17.25M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.20M": {
+      "codigo": "CD02.20M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: OffWhite - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "codigo": "4632",
+  "nome": "ADRIAN LEONARDO",
+  "email": "adrianleo303@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/12/2023",
+  "whatsapp": "(19) 99259-3945",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 183.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "4406",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-11 16:17:52",
+      "data_hora_confirmacao": "2023-12-11 16:18:33",
+      "data_hora_confirmacao_pagamento": "2023-12-11 16:19:57",
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4407",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-11 16:24:51",
+      "data_hora_confirmacao": "2023-12-11 16:25:54",
+      "data_hora_confirmacao_pagamento": "2023-12-11 16:26:40",
+      "valor_total_produtos": 28,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 28,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11722",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-05-11 11:15:31",
+      "data_hora_confirmacao": "2024-05-11 11:34:20",
+      "data_hora_confirmacao_pagamento": "2024-05-11 11:47:27",
+      "valor_total_produtos": 125.94,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 125.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17870": {
+      "codigo": "17870",
+      "titulo": "Camiseta 40.1 Ultra - LACOSTE   - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "18215": {
+      "codigo": "18215",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - NIKE  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18218": {
+      "codigo": "18218",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - NIKE  - Cor: BRANCA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.57": {
+      "codigo": "CD02.57",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE  LT07.12 - Cor: Vermelha - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD67.2": {
+      "codigo": "CD67.2",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY  LT06.12  - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.129GG": {
+      "codigo": "CD02.129GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Vermelha - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD24.22M": {
+      "codigo": "CD24.22M",
+      "titulo": "Cuecas Peruanas - NIKE  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

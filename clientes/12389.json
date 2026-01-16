@@ -1,0 +1,69 @@
+{
+  "codigo": "12389",
+  "nome": "CARLOS GONÇALVES",
+  "email": "carlos.cefg@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/07/2024",
+  "whatsapp": "(19) 99400-7938",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 130.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "15962",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-14 09:37:43",
+      "data_hora_confirmacao": "2024-07-15 10:14:31",
+      "data_hora_confirmacao_pagamento": "2024-07-15 10:14:25",
+      "valor_total_produtos": 130.96,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 130.96,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18129": {
+      "codigo": "18129",
+      "titulo": "FONE DE OUVIDO SEM FIO BLUETOOTH MARCADOR BATERIA ",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "22898": {
+      "codigo": "22898",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO CURTO - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "22910": {
+      "codigo": "22910",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA JORDAN - CANO CURTO - Marca: Jordan - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23559": {
+      "codigo": "23559",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com fitilho  - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

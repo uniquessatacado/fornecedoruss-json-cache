@@ -1,0 +1,128 @@
+{
+  "codigo": "511",
+  "nome": "WILLIAN SILVA",
+  "email": "willianvitorinosilva@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "21/03/2023",
+  "whatsapp": "(19) 97415-3879",
+  "cidade": "Mogi Mirim",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 336.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "2764",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-07 10:50:49",
+      "data_hora_confirmacao": "2023-11-07 13:44:03",
+      "data_hora_confirmacao_pagamento": "2023-11-07 13:44:47",
+      "valor_total_produtos": 87,
+      "valor_frete": 11.89,
+      "frete": "SEDEX",
+      "valor_total_pedido": 98.89,
+      "desconto": 0,
+      "cidade": "Mogi Mirim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12181",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-21 11:57:20",
+      "data_hora_confirmacao": "2024-05-24 13:55:35",
+      "data_hora_confirmacao_pagamento": "2024-05-24 13:55:28",
+      "valor_total_produtos": 219.94,
+      "valor_frete": 17.34,
+      "frete": "LOGGI",
+      "valor_total_pedido": 237.28,
+      "desconto": 0,
+      "cidade": "Mogi Mirim",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18399": {
+      "codigo": "18399",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)   - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18898": {
+      "codigo": "18898",
+      "titulo": "Camiseta Genuina 40.1 LUXO LACOSTE arte em couro e bordado  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "18934": {
+      "codigo": "18934",
+      "titulo": "Camiseta Genuina 40.1 LUXO DIESEL arte em patch emborrachado  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "18962": {
+      "codigo": "18962",
+      "titulo": " Camiseta Genuina 40.1 LUXO DIESEL arte em gel - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD17.41": {
+      "codigo": "CD17.41",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT03.11 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.42": {
+      "codigo": "CD17.42",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT03.11  - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.8": {
+      "codigo": "CD14.8",
+      "titulo": "CAMISETA DRIFIT ULTRA - Nike  LT01.11 - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD15.4G": {
+      "codigo": "CD15.4G",
+      "titulo": "Camiseta Egípcia Cotton Luxo - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD6.01M": {
+      "codigo": "CD6.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

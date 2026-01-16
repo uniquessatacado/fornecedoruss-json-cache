@@ -1,0 +1,80 @@
+{
+  "codigo": "5314",
+  "nome": "MURILO FIGUEIRÓ",
+  "email": "murilo.figueiro27@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/01/2024",
+  "whatsapp": "(55) 99924-7302",
+  "cidade": "Santa Maria",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 202.48000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "6519",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-12 14:56:39",
+      "data_hora_confirmacao": "2024-01-13 11:37:21",
+      "data_hora_confirmacao_pagamento": "2024-01-13 11:37:32",
+      "valor_total_produtos": 40.99,
+      "valor_frete": 37.38,
+      "frete": "SEDEX",
+      "valor_total_pedido": 78.37,
+      "desconto": 0,
+      "cidade": "Santa Maria",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8869",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-23 18:44:30",
+      "data_hora_confirmacao": "2024-03-25 10:46:22",
+      "data_hora_confirmacao_pagamento": "2024-03-25 10:46:17",
+      "valor_total_produtos": 95.4,
+      "valor_frete": 28.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 124.11,
+      "desconto": 0,
+      "cidade": "Santa Maria",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.61": {
+      "codigo": "CD39.61",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD16.32P": {
+      "codigo": "CD16.32P",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "CD16.32M": {
+      "codigo": "CD16.32M",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "4841",
+  "nome": "LUIZ FLAVIO MARINHO",
+  "email": "kako.marinho40@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(13) 98140-2152",
+  "cidade": "Itanhaém",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "5144",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-19 20:41:10",
+      "data_hora_confirmacao": "2023-12-20 08:05:42",
+      "data_hora_confirmacao_pagamento": "2023-12-20 08:05:56",
+      "valor_total_produtos": 78.97,
+      "valor_frete": 13.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.02,
+      "desconto": 0,
+      "cidade": "Itanhaém",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.54": {
+      "codigo": "CD17.54",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS  LT19.12 - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": 2
+    },
+    "CD24.52": {
+      "codigo": "CD24.52",
+      "titulo": "Cuecas Peruanas - NIKE  LT19.12 - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

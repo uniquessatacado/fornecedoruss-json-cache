@@ -1,0 +1,377 @@
+{
+  "codigo": "2480",
+  "nome": "JOSÉ VITOR TAVARES",
+  "email": "josevitor284@hotmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(21) 99797-2892",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 5,
+  "valor_total_comprado": 1280.85,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300927",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 09:20:10",
+      "data_hora_confirmacao": "2023-10-09 13:48:25",
+      "data_hora_confirmacao_pagamento": "2023-10-09 13:48:41",
+      "valor_total_produtos": 143,
+      "valor_frete": 22.09,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 165.09,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8804",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-21 14:04:14",
+      "data_hora_confirmacao": "2024-03-21 16:27:07",
+      "data_hora_confirmacao_pagamento": "2024-03-21 16:27:02",
+      "valor_total_produtos": 105.98,
+      "valor_frete": 15.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.36,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25519",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-02 15:11:35",
+      "data_hora_confirmacao": "2024-12-02 15:25:34",
+      "data_hora_confirmacao_pagamento": "2024-12-02 15:25:34",
+      "valor_total_produtos": 475.83,
+      "valor_frete": 29.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 504.96,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25681",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 14:40:40",
+      "data_hora_confirmacao": "2024-12-04 14:42:23",
+      "data_hora_confirmacao_pagamento": "2024-12-04 14:42:23",
+      "valor_total_produtos": 220.96,
+      "valor_frete": 21.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 242.69,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26602",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 17:12:43",
+      "data_hora_confirmacao": "2024-12-16 17:20:19",
+      "data_hora_confirmacao_pagamento": "2024-12-16 17:20:19",
+      "valor_total_produtos": 227.95,
+      "valor_frete": 18.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 246.75,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23445": {
+      "codigo": "23445",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "27228": {
+      "codigo": "27228",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "29679": {
+      "codigo": "29679",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32811": {
+      "codigo": "32811",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "33734": {
+      "codigo": "33734",
+      "titulo": "Cuecas Peruanas - LACOSTE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "34000": {
+      "codigo": "34000",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "34157": {
+      "codigo": "34157",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35208": {
+      "codigo": "35208",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35238": {
+      "codigo": "35238",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35266": {
+      "codigo": "35266",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35620": {
+      "codigo": "35620",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35700": {
+      "codigo": "35700",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "35781": {
+      "codigo": "35781",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35790": {
+      "codigo": "35790",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35846": {
+      "codigo": "35846",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35855": {
+      "codigo": "35855",
+      "titulo": "Bermuda Microfibra hiper - BORDADA - modelo mais comprido - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "35887": {
+      "codigo": "35887",
+      "titulo": "Bermuda Microfibra hiper - modelo mais comprido - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36098": {
+      "codigo": "36098",
+      "titulo": "Chinelo Rakka Candy - COR CHINELO: BEGE - Marca: KENNER - MODELO CHINELO: RAKKA CANDY - TAMANHO CHINELO: 35/36",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "36147": {
+      "codigo": "36147",
+      "titulo": "Tênis Air force 1 React - Cor: BRANCA - Tamanho: 40",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36248": {
+      "codigo": "36248",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD2-DG) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "36257": {
+      "codigo": "36257",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD3-NK) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36437": {
+      "codigo": "36437",
+      "titulo": "Bermuda Microfibra Ultra    - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36480": {
+      "codigo": "36480",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36485": {
+      "codigo": "36485",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36688": {
+      "codigo": "36688",
+      "titulo": "Camiseta Peruana com Elastano     - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "37748": {
+      "codigo": "37748",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM GEL (C22) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD17.27M": {
+      "codigo": "CD17.27M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.29M": {
+      "codigo": "CD17.29M",
+      "titulo": "Bermuda Microfibra Ultra - Nike (Facão Médio) - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD26.6M": {
+      "codigo": "CD26.6M",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Cinza Escuro - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.21M - Boss": {
+      "codigo": "CD24.21M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD24.21M- Boss": {
+      "codigo": "CD24.21M- Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "RL01.11": {
+      "codigo": "RL01.11",
+      "titulo": "Relógio GS-Chock- Resistente a agua.  - Cor: GS- PRETO-AZUL-PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "RL01.17": {
+      "codigo": "RL01.17",
+      "titulo": "Relógio GS-Chock- Resistente a agua.   - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

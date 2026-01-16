@@ -1,0 +1,53 @@
+{
+  "codigo": "17310",
+  "nome": "FELIPE SANTOS",
+  "email": "felipespj@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/11/2024",
+  "whatsapp": "(21) 97032-3244",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 94.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "24033",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-09 06:45:13",
+      "data_hora_confirmacao": "2024-11-09 06:47:17",
+      "data_hora_confirmacao_pagamento": "2024-11-09 06:47:17",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 14.96,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.94,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32899": {
+      "codigo": "32899",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "33588": {
+      "codigo": "33588",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

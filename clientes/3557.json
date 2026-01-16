@@ -1,0 +1,72 @@
+{
+  "codigo": "3557",
+  "nome": "FRANCISCO JACIEL SILVA DE OLIVEIRA",
+  "email": "jacielc90@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(11) 98144-5775",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 108.92,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301836",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 18:02:16",
+      "data_hora_confirmacao": "2023-10-17 18:06:29",
+      "data_hora_confirmacao_pagamento": "2023-10-17 18:06:38",
+      "valor_total_produtos": 66,
+      "valor_frete": 9.92,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.92,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301950",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-19 11:18:45",
+      "data_hora_confirmacao": "2023-10-19 11:32:21",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 33,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.30GG": {
+      "codigo": "CD17.30GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Cinza Escuro - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.36GG": {
+      "codigo": "CD17.36GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10  - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

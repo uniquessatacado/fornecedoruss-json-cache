@@ -1,0 +1,88 @@
+{
+  "codigo": "20146",
+  "nome": "ALEXANDRA CRISTINA DE AQUINO",
+  "email": "alecrisaquino210@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/06/2025",
+  "whatsapp": "(19) 99981-7908",
+  "cidade": "Rio Claro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 174.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "30408",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-26 11:34:40",
+      "data_hora_confirmacao": "2025-06-26 11:38:55",
+      "data_hora_confirmacao_pagamento": "2025-06-26 11:38:55",
+      "valor_total_produtos": 116.67,
+      "valor_frete": 17.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 134.03,
+      "desconto": 0,
+      "cidade": "Rio Claro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30855",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-07-22 11:00:24",
+      "data_hora_confirmacao": "2025-07-22 11:10:04",
+      "data_hora_confirmacao_pagamento": "2025-07-22 11:10:04",
+      "valor_total_produtos": 28.12,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 40.33,
+      "desconto": 0,
+      "cidade": "Rio Claro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45592": {
+      "codigo": "45592",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT35A (C763) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "47533": {
+      "codigo": "47533",
+      "titulo": "Camiseta 40.1 Infantil | Conforto e Estilo LT46A (C884) - Tamanho Infantil: 12",
+      "categoria_principal": "Camiseta Infantil",
+      "categoria": "40.1 Infantil",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "49795": {
+      "codigo": "49795",
+      "titulo": " Camiseta 40.1 Lacoste | LT68A (C1224) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "50283": {
+      "codigo": "50283",
+      "titulo": "Bermuda Mizuno Microfibra Ultra (LT003.3) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

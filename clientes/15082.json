@@ -1,0 +1,112 @@
+{
+  "codigo": "15082",
+  "nome": "LAURA CAIXETA",
+  "email": "laura.cbarbosa@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(34) 9972-95155",
+  "cidade": "Lagamar",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 310.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "20234",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-03 13:55:44",
+      "data_hora_confirmacao": "2024-09-04 17:08:00",
+      "data_hora_confirmacao_pagamento": "2024-09-04 17:07:50",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 17.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.44,
+      "desconto": 0,
+      "cidade": "Lagamar",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21067",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-13 15:07:58",
+      "data_hora_confirmacao": "2024-09-14 11:20:14",
+      "data_hora_confirmacao_pagamento": "2024-09-14 11:20:05",
+      "valor_total_produtos": 159.96,
+      "valor_frete": 18.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 178.79,
+      "desconto": 0,
+      "cidade": "Lagamar",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29272": {
+      "codigo": "29272",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29295": {
+      "codigo": "29295",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29333": {
+      "codigo": "29333",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: PRETO MESCLA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30482": {
+      "codigo": "30482",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte Patch Emborrachado - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30485": {
+      "codigo": "30485",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte Patch Emborrachado - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30543": {
+      "codigo": "30543",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "30549": {
+      "codigo": "30549",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - ADIDAS Arte em DTF  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

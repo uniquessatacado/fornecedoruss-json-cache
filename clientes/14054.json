@@ -1,0 +1,72 @@
+{
+  "codigo": "14054",
+  "nome": "VANESSA DOS SANTOS PEREIRA",
+  "email": "nessasantos.pereira.vdsp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/08/2024",
+  "whatsapp": "(19) 19989-3773",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 50.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "18650",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-14 11:54:13",
+      "data_hora_confirmacao": "2024-08-14 13:12:40",
+      "data_hora_confirmacao_pagamento": "2024-08-14 13:12:35",
+      "valor_total_produtos": 18.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 18.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18848",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-08-15 17:21:48",
+      "data_hora_confirmacao": "2024-08-15 17:21:48",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 31.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 31.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27743": {
+      "codigo": "27743",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte bordada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD43.23 - MD 1": {
+      "codigo": "CD43.23 - MD 1",
+      "titulo": "Boné Super Premium - LACOSTE - Cor: Azul Marinho",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "12655",
+  "nome": "WESLEY DUTRA MARTINS SILVA",
+  "email": "wdutra@hotmail.com.br",
+  "sexo": "0",
+  "data_cadastro": "18/07/2024",
+  "whatsapp": "(32) 98865-1624",
+  "cidade": "Juiz de Fora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 109.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "16371",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-18 20:23:59",
+      "data_hora_confirmacao": "2024-07-22 10:47:30",
+      "data_hora_confirmacao_pagamento": "2024-07-22 10:47:24",
+      "valor_total_produtos": 65.97,
+      "valor_frete": 21.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.79,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16630",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-22 17:03:32",
+      "data_hora_confirmacao": "2024-07-22 17:03:32",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 21.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 21.99,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23532": {
+      "codigo": "23532",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24862": {
+      "codigo": "24862",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24868": {
+      "codigo": "24868",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24879": {
+      "codigo": "24879",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

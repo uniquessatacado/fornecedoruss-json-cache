@@ -1,0 +1,77 @@
+{
+  "codigo": "7576",
+  "nome": "MARCOS VENICIOS SOUSA MACHADO",
+  "email": "pavenicios@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/04/2024",
+  "whatsapp": "(91) 98465-7802",
+  "cidade": "Ananindeua",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 309.35,
+  "pedidos": [
+    {
+      "codigo_pedido": "9462",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 19:16:00",
+      "data_hora_confirmacao": "2024-04-05 12:34:14",
+      "data_hora_confirmacao_pagamento": "2024-04-05 12:34:06",
+      "valor_total_produtos": 281.89,
+      "valor_frete": 27.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 309.35,
+      "desconto": 0,
+      "cidade": "Ananindeua",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD51.1M": {
+      "codigo": "CD51.1M",
+      "titulo": "CAMISETA ELASFIT ULTRA - NIKE   - Cor: Preto e Branco - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ELASFIT",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.11M": {
+      "codigo": "CD4.11M",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD4.15M": {
+      "codigo": "CD4.15M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.14M": {
+      "codigo": "CD24.14M",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA - Cor: Preto - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": 4
+    },
+    "CD4.16M": {
+      "codigo": "CD4.16M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: Marrom - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "2880",
+  "nome": "MARCELO JUNIOR VIEIRA DA SILVA",
+  "email": "marcelinhoj2013@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 98481-9182",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 57.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300737",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 07:37:12",
+      "data_hora_confirmacao": "2023-09-26 11:35:38",
+      "data_hora_confirmacao_pagamento": "2023-09-26 11:35:19",
+      "valor_total_produtos": 20,
+      "valor_frete": 11.56,
+      "frete": "SEDEX",
+      "valor_total_pedido": 31.56,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301015",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-09-29 20:25:09",
+      "data_hora_confirmacao": "2023-09-30 09:26:03",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 25.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 25.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.2M": {
+      "codigo": "CD29.2M",
+      "titulo": "Bermuda Lacoste Microfibra premium  - Cor: Vermelha - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.24M - Plein": {
+      "codigo": "CD24.24M - Plein",
+      "titulo": "Cuecas Peruanas -  Philipp Plein - Cor: Azul Marinho - Marca: Philipe Plein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Philipp Plein",
+      "quantidade": "3"
+    }
+  }
+}

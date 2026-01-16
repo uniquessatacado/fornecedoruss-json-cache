@@ -1,0 +1,77 @@
+{
+  "codigo": "18144",
+  "nome": "BEATRIZ FÁTIMA DE LIMA BATISTA",
+  "email": "bialimabatist@gmail.com",
+  "sexo": "2",
+  "data_cadastro": "06/12/2024",
+  "whatsapp": "(14) 9882-31923",
+  "cidade": "Botucatu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "25910",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-07 12:03:46",
+      "data_hora_confirmacao": "2024-12-07 12:10:10",
+      "data_hora_confirmacao_pagamento": "2024-12-07 12:10:10",
+      "valor_total_produtos": 116.92,
+      "valor_frete": 15.76,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.68,
+      "desconto": 0,
+      "cidade": "Botucatu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "35406": {
+      "codigo": "35406",
+      "titulo": "Cuecas Peruanas - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "35425": {
+      "codigo": "35425",
+      "titulo": "Cuecas Peruanas - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "35456": {
+      "codigo": "35456",
+      "titulo": "Cuecas Peruanas - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36775": {
+      "codigo": "36775",
+      "titulo": "Polo piquet simples - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo piquet simples",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "36787": {
+      "codigo": "36787",
+      "titulo": "Polo piquet simples  - Cor: BRANCA - Marca: Nike - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo piquet simples",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

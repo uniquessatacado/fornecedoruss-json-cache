@@ -1,0 +1,96 @@
+{
+  "codigo": "5034",
+  "nome": "BRUNO CRUZ DOS SANTOS",
+  "email": "bs3221826@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/12/2023",
+  "whatsapp": "(19) 99123-3932",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 130.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "31189",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-08-07 19:41:11",
+      "data_hora_confirmacao": "2025-08-07 19:50:05",
+      "data_hora_confirmacao_pagamento": "2025-08-07 19:50:05",
+      "valor_total_produtos": 80,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 80,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31210",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-08-08 13:20:21",
+      "data_hora_confirmacao": "2025-08-08 13:26:25",
+      "data_hora_confirmacao_pagamento": "2025-08-08 13:39:24",
+      "valor_total_produtos": 50.62,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 50.62,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51419": {
+      "codigo": "51419",
+      "titulo": "Boné Ultra Premium LACOSTE (LT026) - Cor: AZUL MARINHO",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "52163": {
+      "codigo": "52163",
+      "titulo": "Cueca Peruana Burberry (LT017) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "52211": {
+      "codigo": "52211",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: CHUMBO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "52512": {
+      "codigo": "52512",
+      "titulo": "Cueca Peruana Nike Pro (LT031) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52822": {
+      "codigo": "52822",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

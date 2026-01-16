@@ -1,0 +1,53 @@
+{
+  "codigo": "7423",
+  "nome": "JEAN DANILO GREGÓRIO",
+  "email": "gregoriojean@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/04/2024",
+  "whatsapp": "(19) 99315-3588",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 93.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "9213",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-01 21:28:19",
+      "data_hora_confirmacao": "2024-04-02 11:14:41",
+      "data_hora_confirmacao_pagamento": "2024-04-02 11:14:35",
+      "valor_total_produtos": 83.58,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 93.58,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.12GG": {
+      "codigo": "CD4.12GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "RL01.01": {
+      "codigo": "RL01.01",
+      "titulo": "Relógio G Shock- Resistente a agua - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "18132",
+  "nome": "RODRIGO GONÇALVES PICOLI",
+  "email": "rodrigopicoli234@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/12/2024",
+  "whatsapp": "(11) 98665-3959",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 175.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "25810",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-06 10:30:00",
+      "data_hora_confirmacao": "2024-12-06 10:36:09",
+      "data_hora_confirmacao_pagamento": "2024-12-06 10:36:09",
+      "valor_total_produtos": 158.47,
+      "valor_frete": 16.89,
+      "frete": "SEDEX",
+      "valor_total_pedido": 175.36,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "36418": {
+      "codigo": "36418",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "36424": {
+      "codigo": "36424",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "36490": {
+      "codigo": "36490",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

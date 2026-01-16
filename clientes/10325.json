@@ -1,0 +1,93 @@
+{
+  "codigo": "10325",
+  "nome": "ALEXANDRE SILVEIRA",
+  "email": "alkpm@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "02/06/2024",
+  "whatsapp": "(21) 99612-2765",
+  "cidade": "Nova Iguaçu",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 263.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "12990",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 21:52:51",
+      "data_hora_confirmacao": "2024-06-03 09:59:54",
+      "data_hora_confirmacao_pagamento": "2024-06-03 09:59:45",
+      "valor_total_produtos": 241.93,
+      "valor_frete": 21.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 263.78,
+      "desconto": 0,
+      "cidade": "Nova Iguaçu",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19886": {
+      "codigo": "19886",
+      "titulo": "Camiseta 40.1 Ultra HUGO BOSS arte em couro e metal - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 40.1 SOFT PREMIUM ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "20078": {
+      "codigo": "20078",
+      "titulo": "Camiseta Genuina 40.1 LUXO ARMANI arte em patch emborrachado - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA 40.1 LUXO ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "20099": {
+      "codigo": "20099",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20103": {
+      "codigo": "20103",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20106": {
+      "codigo": "20106",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "20111": {
+      "codigo": "20111",
+      "titulo": "Bermuda Microfibra Ultra ADIDAS  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD02.128GG": {
+      "codigo": "CD02.128GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

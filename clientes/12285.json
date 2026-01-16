@@ -1,0 +1,80 @@
+{
+  "codigo": "12285",
+  "nome": "JOÃO PAULO DE SOUZA",
+  "email": "joaopaulodesouza100@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/07/2024",
+  "whatsapp": "(11) 94753-0149",
+  "cidade": "Itu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 98.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "15689",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-11 19:13:31",
+      "data_hora_confirmacao": "2024-07-13 10:16:45",
+      "data_hora_confirmacao_pagamento": "2024-07-13 10:16:36",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 32.99,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16590",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-22 07:29:45",
+      "data_hora_confirmacao": "2024-07-22 13:07:05",
+      "data_hora_confirmacao_pagamento": "2024-07-22 13:06:54",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 65.98,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24117": {
+      "codigo": "24117",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24123": {
+      "codigo": "24123",
+      "titulo": "Calça Microfibra Ultra - NIKE recorte lateral  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24138": {
+      "codigo": "24138",
+      "titulo": "Calça Microfibra Ultra - ADIDAS  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

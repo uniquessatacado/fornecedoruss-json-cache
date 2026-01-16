@@ -1,0 +1,61 @@
+{
+  "codigo": "3242",
+  "nome": "WILLIAM GONÇALVES",
+  "email": "william.lldp@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/10/2023",
+  "whatsapp": "(86) 98184-9060",
+  "cidade": "Alumínio",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 103.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301231",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-04 12:04:08",
+      "data_hora_confirmacao": "2023-10-09 16:49:01",
+      "data_hora_confirmacao_pagamento": "2023-10-09 16:49:52",
+      "valor_total_produtos": 90,
+      "valor_frete": 13.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 103.69,
+      "desconto": 0,
+      "cidade": "Alumínio",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.48P": {
+      "codigo": "CD01.48P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: P - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.48GG": {
+      "codigo": "CD01.48GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: GG - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.50P": {
+      "codigo": "CD01.50P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: P - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

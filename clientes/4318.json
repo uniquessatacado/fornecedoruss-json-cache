@@ -1,0 +1,96 @@
+{
+  "codigo": "4318",
+  "nome": "FREDERICO LUIZ FERREIRA",
+  "email": "fred_cast@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/11/2023",
+  "whatsapp": "(31) 98857-2207",
+  "cidade": "João Monlevade",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 248.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "3723",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-27 23:25:10",
+      "data_hora_confirmacao": "2023-11-28 09:41:06",
+      "data_hora_confirmacao_pagamento": "2023-11-28 09:41:15",
+      "valor_total_produtos": 66,
+      "valor_frete": 16.82,
+      "frete": "JADLOG",
+      "valor_total_pedido": 82.82,
+      "desconto": 0,
+      "cidade": "João Monlevade",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31270",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-12 13:27:53",
+      "data_hora_confirmacao": "2025-08-12 13:29:41",
+      "data_hora_confirmacao_pagamento": "2025-08-12 13:29:41",
+      "valor_total_produtos": 128.75,
+      "valor_frete": 36.74,
+      "frete": "PAC",
+      "valor_total_pedido": 165.49,
+      "desconto": 0,
+      "cidade": "João Monlevade",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50014": {
+      "codigo": "50014",
+      "titulo": "Regata Machão Suedine 1:1 Nike - ARTE EM DTF (LT003.1) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "REGATAS",
+      "categoria": "Regata Machão",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51646": {
+      "codigo": "51646",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52899": {
+      "codigo": "52899",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.48": {
+      "codigo": "CD17.48",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT25.11 - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

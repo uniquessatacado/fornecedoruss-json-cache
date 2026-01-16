@@ -1,0 +1,53 @@
+{
+  "codigo": "5209",
+  "nome": "LUCIANO MARCOS",
+  "email": "lucianomarcos2021@live.com",
+  "sexo": "0",
+  "data_cadastro": "07/01/2024",
+  "whatsapp": "(21) 97556-3883",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 80.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "6282",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-07 17:49:34",
+      "data_hora_confirmacao": "2024-01-08 10:16:03",
+      "data_hora_confirmacao_pagamento": "2024-01-08 10:16:17",
+      "valor_total_produtos": 67.2,
+      "valor_frete": 13.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 80.91,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 20,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.22": {
+      "codigo": "CD67.22",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER   LT18.12  - Cor: Preto com Vermelho - Tamanho: 38",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.16": {
+      "codigo": "CD67.16",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 38",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "8044",
+  "nome": "EDUARDO JOSÉ DA SILVA",
+  "email": "eduardojosedasilva946@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/04/2024",
+  "whatsapp": "(11) 9871-16799",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 233.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "10417",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-20 07:32:24",
+      "data_hora_confirmacao": "2024-04-22 12:18:20",
+      "data_hora_confirmacao_pagamento": "2024-04-22 12:18:15",
+      "valor_total_produtos": 214.96,
+      "valor_frete": 18.45,
+      "frete": "LOGGI",
+      "valor_total_pedido": 233.41,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1G": {
+      "codigo": "CD23.1G",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: VERMELHA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD22.1M": {
+      "codigo": "CD22.1M",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - HUGO BOSS - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.60G": {
+      "codigo": "CD01.60G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "ML1.6G": {
+      "codigo": "ML1.6G",
+      "titulo": "MOLETOM 3 CABOS QUIKSILVER  - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

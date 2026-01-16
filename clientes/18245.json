@@ -1,0 +1,80 @@
+{
+  "codigo": "18245",
+  "nome": "LUIS MIGUEL",
+  "email": "louisdkzy@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/12/2024",
+  "whatsapp": "(51) 98149-7610",
+  "cidade": "Cachoeirinha",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 131.71,
+  "pedidos": [
+    {
+      "codigo_pedido": "26082",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-10 14:09:54",
+      "data_hora_confirmacao": "2024-12-10 14:13:07",
+      "data_hora_confirmacao_pagamento": "2024-12-10 14:13:07",
+      "valor_total_produtos": 78.98,
+      "valor_frete": 15.03,
+      "frete": "LOGGI",
+      "valor_total_pedido": 94.01,
+      "desconto": 0,
+      "cidade": "Cachoeirinha",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26154",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 16:55:39",
+      "data_hora_confirmacao": "2024-12-11 16:57:45",
+      "data_hora_confirmacao_pagamento": "2024-12-11 16:57:45",
+      "valor_total_produtos": 22.99,
+      "valor_frete": 14.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 37.7,
+      "desconto": 0,
+      "cidade": "Cachoeirinha",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36265": {
+      "codigo": "36265",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD2-NK) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36619": {
+      "codigo": "36619",
+      "titulo": "Camiseta Peruana com Elastano   - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37094": {
+      "codigo": "37094",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE (C03) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "11239",
+  "nome": "LUZIANO DOS SANTOS",
+  "email": "lucianabapti3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(22) 99249-9152",
+  "cidade": "São Pedro da Aldeia",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 33.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "14174",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-20 11:38:06",
+      "data_hora_confirmacao": "2024-06-20 18:32:30",
+      "data_hora_confirmacao_pagamento": "2024-06-20 18:32:23",
+      "valor_total_produtos": 20,
+      "valor_frete": 13.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 33.95,
+      "desconto": 0,
+      "cidade": "São Pedro da Aldeia",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.2G": {
+      "codigo": "CD01.2G",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: G - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "7055",
+  "nome": "WESLLY MANOEL GOMES TAVARES",
+  "email": "wesllymanoel08@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/03/2024",
+  "whatsapp": "(11) 98188-7789",
+  "cidade": "Itapecerica da Serra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 119.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "8664",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-19 15:18:46",
+      "data_hora_confirmacao": "2024-03-19 16:46:29",
+      "data_hora_confirmacao_pagamento": "2024-03-19 16:46:25",
+      "valor_total_produtos": 40,
+      "valor_frete": 10.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 50.03,
+      "desconto": 0,
+      "cidade": "Itapecerica da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11935",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-16 15:49:38",
+      "data_hora_confirmacao": "2024-05-17 09:36:42",
+      "data_hora_confirmacao_pagamento": "2024-05-17 09:36:35",
+      "valor_total_produtos": 59,
+      "valor_frete": 10.07,
+      "frete": "SEDEX",
+      "valor_total_pedido": 69.07,
+      "desconto": 0,
+      "cidade": "Itapecerica da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA66": {
+      "codigo": "PA66",
+      "titulo": "PULSEIRA 1X1 3MM ESCAMA",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "PA78": {
+      "codigo": "PA78",
+      "titulo": "pulseira 3x1 4mm",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

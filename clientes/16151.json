@@ -1,0 +1,182 @@
+{
+  "codigo": "16151",
+  "nome": "BRUNO SOARES CARDOSO",
+  "email": "brunosoarescardoso86@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "02/10/2024",
+  "whatsapp": "(21) 9696-58835",
+  "cidade": "Magé",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 606.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "22123",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-02 07:53:48",
+      "data_hora_confirmacao": "2024-10-02 11:31:44",
+      "data_hora_confirmacao_pagamento": "2024-10-02 11:31:10",
+      "valor_total_produtos": 93.98,
+      "valor_frete": 16.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 110.77,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24322",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-13 11:02:54",
+      "data_hora_confirmacao": "2024-11-13 11:10:12",
+      "data_hora_confirmacao_pagamento": "2024-11-13 11:10:12",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 14.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.76,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25658",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 12:29:47",
+      "data_hora_confirmacao": "2024-12-04 12:31:42",
+      "data_hora_confirmacao_pagamento": "2024-12-04 12:31:42",
+      "valor_total_produtos": 167.96,
+      "valor_frete": 17.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 185.54,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31547",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2025-09-04 21:44:41",
+      "data_hora_confirmacao": "2025-09-04 21:47:37",
+      "data_hora_confirmacao_pagamento": "2025-09-04 21:47:37",
+      "valor_total_produtos": 191.24,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 221.14,
+      "desconto": 0,
+      "cidade": "Magé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "830": {
+      "codigo": "830",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "31363": {
+      "codigo": "31363",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com ZÍPER  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31663": {
+      "codigo": "31663",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CHUMBO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "33742": {
+      "codigo": "33742",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - JAPÃO - Tamanho: GG - Times : Japão - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "34109": {
+      "codigo": "34109",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36202": {
+      "codigo": "36202",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-BS) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "36247": {
+      "codigo": "36247",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD2-DG) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "36317": {
+      "codigo": "36317",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD10-DSL) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36357": {
+      "codigo": "36357",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado ( MD6-DSL) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "53054": {
+      "codigo": "53054",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: GG - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53077": {
+      "codigo": "53077",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CR FLAMENGO 25 - Tamanho: G - Times : Flamengo - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

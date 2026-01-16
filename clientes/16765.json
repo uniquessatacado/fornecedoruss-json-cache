@@ -1,0 +1,88 @@
+{
+  "codigo": "16765",
+  "nome": "ROGERIO PEREIRA LOPES",
+  "email": "facednegocio@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2024",
+  "whatsapp": "(11) 96587-2118",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 226.72,
+  "pedidos": [
+    {
+      "codigo_pedido": "23608",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-31 22:58:14",
+      "data_hora_confirmacao": "2024-11-01 11:03:36",
+      "data_hora_confirmacao_pagamento": "2024-11-01 11:03:29",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 11.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 66.47,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27013",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-21 12:31:17",
+      "data_hora_confirmacao": "2024-12-21 12:40:18",
+      "data_hora_confirmacao_pagamento": "2024-12-21 12:40:18",
+      "valor_total_produtos": 146.43,
+      "valor_frete": 13.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 160.25,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "33249": {
+      "codigo": "33249",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38451": {
+      "codigo": "38451",
+      "titulo": "Camiseta Suedine ultra -(125) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38476": {
+      "codigo": "38476",
+      "titulo": "Camiseta Suedine ultra -(C126) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38825": {
+      "codigo": "38825",
+      "titulo": "Camiseta Suedine ultra -(C141) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

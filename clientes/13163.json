@@ -1,0 +1,53 @@
+{
+  "codigo": "13163",
+  "nome": "WILLIAN VIEIRA DE MELO",
+  "email": "wyllyanmello12@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/07/2024",
+  "whatsapp": "(11) 97348-0258",
+  "cidade": "Carapicuíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 169.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "17154",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-27 08:45:27",
+      "data_hora_confirmacao": "2024-07-27 12:19:55",
+      "data_hora_confirmacao_pagamento": "2024-07-27 12:19:47",
+      "valor_total_produtos": 155.98,
+      "valor_frete": 13.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 169.28,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20693": {
+      "codigo": "20693",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21221": {
+      "codigo": "21221",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

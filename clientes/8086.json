@@ -1,0 +1,259 @@
+{
+  "codigo": "8086",
+  "nome": "NATHALIA DE MELLO OLIVEIRA",
+  "email": "nathalia_abinhaloks@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/04/2024",
+  "whatsapp": "(11) 97219-6726",
+  "cidade": "Vargem Grande Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 943.1400000000001,
+  "pedidos": [
+    {
+      "codigo_pedido": "10074",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-15 15:18:20",
+      "data_hora_confirmacao": "2024-04-15 16:14:30",
+      "data_hora_confirmacao_pagamento": "2024-04-15 17:43:51",
+      "valor_total_produtos": 363.63,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 363.63,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20777",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-10 11:25:55",
+      "data_hora_confirmacao": "2024-09-10 12:41:04",
+      "data_hora_confirmacao_pagamento": "2024-09-10 12:40:57",
+      "valor_total_produtos": 139.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 139.97,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32437",
+      "situacao_pedido": "PEDIDO PRONTO PARA SER RETIRADO NA LOJA",
+      "data_hora_pedido": "2025-12-19 11:44:43",
+      "data_hora_confirmacao": "2025-12-19 11:45:55",
+      "data_hora_confirmacao_pagamento": "2025-12-19 11:45:55",
+      "valor_total_produtos": 439.54,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 439.54,
+      "desconto": 0,
+      "cidade": "Vargem Grande Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29319": {
+      "codigo": "29319",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL ROYAL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29351": {
+      "codigo": "29351",
+      "titulo": "Bermuda Microfibra Ultra - NIKE SPANDEX - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30193": {
+      "codigo": "30193",
+      "titulo": "Óculos OAKLEY JULIET - JULIET - ARMAÇÃO: TIO 2 PRATA+CHUMBO - COR DA LENTE: GREEN JADE - Kit Borracha: PRETA - MODELO: JULIET",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "51335": {
+      "codigo": "51335",
+      "titulo": "Óculos OAKLEY JULIET (LT024) - ARMAÇÃO: PLASMA - PRATA - Kit Borracha: ROSA - MODELO: PENNY",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "52304": {
+      "codigo": "52304",
+      "titulo": "Calça Microfibra Ultra Armani (LT029) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calça Microfibra Ultra ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "53038": {
+      "codigo": "53038",
+      "titulo": "Camiseta Malha Chinesa Louis Vuitton (LT036) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA CHINESA NACIONAL",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "54141": {
+      "codigo": "54141",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT051) - Cor: ROXO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54582": {
+      "codigo": "54582",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Adidas - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54678": {
+      "codigo": "54678",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55020": {
+      "codigo": "55020",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT056) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55315": {
+      "codigo": "55315",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55443": {
+      "codigo": "55443",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55719": {
+      "codigo": "55719",
+      "titulo": "Bermuda Microfibra Ultra Mauricinho Nike (LT060) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55769": {
+      "codigo": "55769",
+      "titulo": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD39.12M": {
+      "codigo": "CD39.12M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE BORDADA) - Cor: AZUL BEBE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.71M": {
+      "codigo": "CD39.71M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: AZUL BEBE - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "RL01.08": {
+      "codigo": "RL01.08",
+      "titulo": "Relógio G Shock- Resistente a agua.  - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "CD43.27": {
+      "codigo": "CD43.27",
+      "titulo": "Boné Super Premium - NIKE - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "MD43.21 - MD 2": {
+      "codigo": "MD43.21 - MD 2",
+      "titulo": "Boné Super Premium - NY - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Azul Bebê",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "CD02.141M": {
+      "codigo": "CD02.141M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: VERMELHA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "RL01.01": {
+      "codigo": "RL01.01",
+      "titulo": "Relógio G Shock- Resistente a agua - Cor: GS- TODO PRETO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "RL01.14": {
+      "codigo": "RL01.14",
+      "titulo": "Relógio G Shock- Resistente a agua - Cor: GS- PRETO-BRANCO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    }
+  }
+}

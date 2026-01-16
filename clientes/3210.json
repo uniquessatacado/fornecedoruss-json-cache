@@ -1,0 +1,61 @@
+{
+  "codigo": "3210",
+  "nome": "ANTONIO RAKNEI PEREIRA RODRIGUES",
+  "email": "raknei@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/10/2023",
+  "whatsapp": "(61) 99914-7375",
+  "cidade": "Brasília",
+  "estado": "DF",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 91.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301165",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-03 14:54:15",
+      "data_hora_confirmacao": "2023-10-04 10:17:29",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 91.5,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 91.5,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.26M": {
+      "codigo": "CD17.26M",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD24.4M -  Boss": {
+      "codigo": "CD24.4M -  Boss",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.9M - Hugo Boss": {
+      "codigo": "CD24.9M - Hugo Boss",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Branca - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

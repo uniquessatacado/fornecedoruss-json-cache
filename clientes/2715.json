@@ -1,0 +1,88 @@
+{
+  "codigo": "2715",
+  "nome": "BERNARDO MACHADO CORTE REAL DELGADO",
+  "email": "bernardop9@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(22) 99911-9811",
+  "cidade": "Campos dos Goytacazes",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 322.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301468",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-07 21:19:28",
+      "data_hora_confirmacao": "2023-10-09 16:48:50",
+      "data_hora_confirmacao_pagamento": "2023-10-09 16:48:59",
+      "valor_total_produtos": 140,
+      "valor_frete": 14.71,
+      "frete": "JADLOG",
+      "valor_total_pedido": 154.71,
+      "desconto": 0,
+      "cidade": "Campos dos Goytacazes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301693",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-12 06:32:37",
+      "data_hora_confirmacao": "2023-10-16 13:58:48",
+      "data_hora_confirmacao_pagamento": "2023-10-16 13:58:09",
+      "valor_total_produtos": 153,
+      "valor_frete": 14.84,
+      "frete": "JADLOG",
+      "valor_total_pedido": 167.84,
+      "desconto": 0,
+      "cidade": "Campos dos Goytacazes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.1G": {
+      "codigo": "CD39.1G",
+      "titulo": "CAMISETA GENUINA JERSEY SUEDINE PERUANA -HUGO BOSS - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA GENUINA JERSEY SUEDINE PERUNA",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD33.9G": {
+      "codigo": "CD33.9G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Gucci  - Cor: Chumbo - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.5G": {
+      "codigo": "CD33.5G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste  - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD08.11G": {
+      "codigo": "CD08.11G",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  Balmain (Chenille e Bordado) - Cor: Preto - Marca: Balmain - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "BALMAIN",
+      "quantidade": "1"
+    }
+  }
+}

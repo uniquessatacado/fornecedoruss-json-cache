@@ -1,0 +1,72 @@
+{
+  "codigo": "3440",
+  "nome": "FELIPE MALTA DE CARVALHO",
+  "email": "felipemalta0409@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/10/2023",
+  "whatsapp": "(11) 98509-3844",
+  "cidade": "Osasco",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 78.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301610",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-11 11:31:03",
+      "data_hora_confirmacao": "2023-10-11 11:44:56",
+      "data_hora_confirmacao_pagamento": "2023-10-11 11:45:03",
+      "valor_total_produtos": 59.9,
+      "valor_frete": 8.83,
+      "frete": "SEDEX",
+      "valor_total_pedido": 68.73,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28047",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-10 14:35:23",
+      "data_hora_confirmacao": "2025-02-10 14:40:07",
+      "data_hora_confirmacao_pagamento": "2025-02-10 14:40:07",
+      "valor_total_produtos": 10,
+      "valor_frete": 0,
+      "frete": "JUNTAR E ENVIAR JUNTO COM OUTRO PEDIDO QUE FIZ E AINDA NÃO FOI DESPACHADO",
+      "valor_total_pedido": 10,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "40617": {
+      "codigo": "40617",
+      "titulo": "Cuecas Peruanas (C261)   - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD32.6Romeu": {
+      "codigo": "CD32.6Romeu",
+      "titulo": "Óculos  Romeu - Azul - Cor da Armação: Chumbo - Cor da Lente: Azul - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

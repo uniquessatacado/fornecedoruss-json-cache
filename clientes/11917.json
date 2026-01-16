@@ -1,0 +1,61 @@
+{
+  "codigo": "11917",
+  "nome": "LIVARDECI GUERREIRA JUNIOR",
+  "email": "juniorlivardeci@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/07/2024",
+  "whatsapp": "(11) 98868-2537",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 231.02,
+  "pedidos": [
+    {
+      "codigo_pedido": "15102",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 14:14:56",
+      "data_hora_confirmacao": "2024-07-04 15:55:20",
+      "data_hora_confirmacao_pagamento": "2024-07-04 15:55:14",
+      "valor_total_produtos": 215.94,
+      "valor_frete": 15.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 231.02,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22355": {
+      "codigo": "22355",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22360": {
+      "codigo": "22360",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "23107": {
+      "codigo": "23107",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    }
+  }
+}

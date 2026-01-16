@@ -1,0 +1,61 @@
+{
+  "codigo": "8672",
+  "nome": "ALAN TOSTA",
+  "email": "djalanrj@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "26/04/2024",
+  "whatsapp": "(21) 9643-69097",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 173.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "10769",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-26 08:44:38",
+      "data_hora_confirmacao": "2024-04-26 17:29:53",
+      "data_hora_confirmacao_pagamento": "2024-04-26 17:29:47",
+      "valor_total_produtos": 152.96,
+      "valor_frete": 20.55,
+      "frete": "JADLOG",
+      "valor_total_pedido": 173.51,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.17GG": {
+      "codigo": "CD4.17GG",
+      "titulo": "Bermuda SPANDEX ULTRA - Cor: VERDE ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD50.06GG": {
+      "codigo": "CD50.06GG",
+      "titulo": "CAMISETA GENUINA COTTON TANGUIS TURCO - DIESEL BASICA - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD7.01GG": {
+      "codigo": "CD7.01GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - ELASTICO EXTERNO - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

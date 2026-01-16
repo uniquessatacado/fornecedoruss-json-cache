@@ -1,0 +1,80 @@
+{
+  "codigo": "1172",
+  "nome": "EWERTON TEODORO",
+  "email": "ewertonlsteodoro42@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "14/08/2023",
+  "whatsapp": "(19) 9888-01821",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 206.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300144",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-18 14:42:41",
+      "data_hora_confirmacao": "2023-09-19 07:58:36",
+      "data_hora_confirmacao_pagamento": "2023-09-19 07:58:27",
+      "valor_total_produtos": 60,
+      "valor_frete": 14.26,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.26,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25442",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-30 14:46:53",
+      "data_hora_confirmacao": "2024-11-30 14:48:47",
+      "data_hora_confirmacao_pagamento": "2024-11-30 14:48:47",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 131.98,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20668": {
+      "codigo": "20668",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21296": {
+      "codigo": "21296",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

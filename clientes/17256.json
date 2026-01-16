@@ -1,0 +1,123 @@
+{
+  "codigo": "17256",
+  "nome": "JOSÉ DANIEL",
+  "email": "jbertoricaldes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/11/2024",
+  "whatsapp": "(51) 98199-5305",
+  "cidade": "Cachoeirinha",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 212.31,
+  "pedidos": [
+    {
+      "codigo_pedido": "24351",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-13 16:31:53",
+      "data_hora_confirmacao": "2024-11-13 16:33:01",
+      "data_hora_confirmacao_pagamento": "2024-11-13 16:33:01",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 13.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.56,
+      "desconto": 0,
+      "cidade": "Cachoeirinha",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25236",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 17:39:55",
+      "data_hora_confirmacao": "2024-11-28 17:41:47",
+      "data_hora_confirmacao_pagamento": "2024-11-28 17:41:47",
+      "valor_total_produtos": 73.98,
+      "valor_frete": 14.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.96,
+      "desconto": 0,
+      "cidade": "Cachoeirinha",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25449",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-30 17:21:46",
+      "data_hora_confirmacao": "2024-11-30 17:23:01",
+      "data_hora_confirmacao_pagamento": "2024-11-30 17:23:01",
+      "valor_total_produtos": 57.98,
+      "valor_frete": 14.81,
+      "frete": "LOGGI",
+      "valor_total_pedido": 72.79,
+      "desconto": 0,
+      "cidade": "Cachoeirinha",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18128": {
+      "codigo": "18128",
+      "titulo": "FONE DE OUVIDO COM FIO AURICULAR (ENTRADA PADRÃO)",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONES",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "34108": {
+      "codigo": "34108",
+      "titulo": "Bermuda Microfibra Ultra - NIKE zíper  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35068": {
+      "codigo": "35068",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico externo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35209": {
+      "codigo": "35209",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35267": {
+      "codigo": "35267",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35314": {
+      "codigo": "35314",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

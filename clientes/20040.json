@@ -1,0 +1,80 @@
+{
+  "codigo": "20040",
+  "nome": "JEAN RAFAEL FRONZA",
+  "email": "jeanfronza_332@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/06/2025",
+  "whatsapp": "(19) 99675-6044",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 130.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "30086",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-02 09:51:02",
+      "data_hora_confirmacao": "2025-06-02 09:51:02",
+      "data_hora_confirmacao_pagamento": "2025-06-02 09:51:02",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 46.67,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30457",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-02 13:07:02",
+      "data_hora_confirmacao": "2025-07-02 13:07:02",
+      "data_hora_confirmacao_pagamento": "2025-07-02 13:07:02",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 83.34,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "46289": {
+      "codigo": "46289",
+      "titulo": "Bermuda Microfibra Ultra LT38A (C813) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "48093": {
+      "codigo": "48093",
+      "titulo": "Camiseta Suedine 1:1 Ultra Balenciaga | ARTE EM DTF LT53A (C957) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "48855": {
+      "codigo": "48855",
+      "titulo": "Bermuda Adidas Microfibra Ultra | LT63A (C1087) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

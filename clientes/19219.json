@@ -1,0 +1,53 @@
+{
+  "codigo": "19219",
+  "nome": "MARCUS VINICIUS GOMES",
+  "email": "mvinigomess@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/02/2025",
+  "whatsapp": "(11) 98900-1443",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 98.81,
+  "pedidos": [
+    {
+      "codigo_pedido": "28323",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-23 19:26:19",
+      "data_hora_confirmacao": "2025-02-23 19:28:18",
+      "data_hora_confirmacao_pagamento": "2025-02-23 19:28:18",
+      "valor_total_produtos": 86.67,
+      "valor_frete": 12.14,
+      "frete": "LOGGI",
+      "valor_total_pedido": 98.81,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41170": {
+      "codigo": "41170",
+      "titulo": "Bermuda Ultra Dry LT16A  (C315) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "Bermuda Ultra Dry",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42100": {
+      "codigo": "42100",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C588) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

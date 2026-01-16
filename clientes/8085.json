@@ -1,0 +1,131 @@
+{
+  "codigo": "8085",
+  "nome": "JOSIANE LIMA DO NASCIMENTO",
+  "email": "josiane.nascimento34@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/04/2024",
+  "whatsapp": "(11) 99699-5419",
+  "cidade": "Salto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 253.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "10071",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-15 14:45:48",
+      "data_hora_confirmacao": "2024-04-15 14:50:00",
+      "data_hora_confirmacao_pagamento": "2024-04-15 14:49:55",
+      "valor_total_produtos": 80.97,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 80.97,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10073",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-15 15:01:09",
+      "data_hora_confirmacao": "2024-04-15 15:02:14",
+      "data_hora_confirmacao_pagamento": "2024-04-15 15:02:39",
+      "valor_total_produtos": 38.9,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.9,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29839",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-05-19 14:51:29",
+      "data_hora_confirmacao": "2025-05-19 14:51:56",
+      "data_hora_confirmacao_pagamento": "2025-05-19 14:51:56",
+      "valor_total_produtos": 133.34,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 133.34,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47414": {
+      "codigo": "47414",
+      "titulo": "Camiseta Malha Egípcia Soft Boss | Fino acabamento e leveza LT44A (C862) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "47680": {
+      "codigo": "47680",
+      "titulo": "Camiseta 40.1 HUGO BOSS | Conforto Essencial LT51A (C899)  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "47706": {
+      "codigo": "47706",
+      "titulo": "Camiseta 40.1 DIESEL  | Conforto Essencial LT51A (C899) - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD02.141GG": {
+      "codigo": "CD02.141GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: PRETA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD43.29": {
+      "codigo": "CD43.29",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.138GG": {
+      "codigo": "CD02.138GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - PUMA - Cor: OFFWHITE - Marca: Puma - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD39.71GG": {
+      "codigo": "CD39.71GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: MARROM ESCURO - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

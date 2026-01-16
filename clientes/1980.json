@@ -1,0 +1,80 @@
+{
+  "codigo": "1980",
+  "nome": "LUAN VITOR",
+  "email": "vluan6902@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "31/08/2023",
+  "whatsapp": "(11) 94518-6412",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 119.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300042",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-14 17:41:57",
+      "data_hora_confirmacao": "2023-09-16 19:58:31",
+      "data_hora_confirmacao_pagamento": "2023-09-16 19:58:47",
+      "valor_total_produtos": 30,
+      "valor_frete": 11.64,
+      "frete": "SEDEX",
+      "valor_total_pedido": 41.64,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25512",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-02 10:57:11",
+      "data_hora_confirmacao": "2024-12-02 10:59:21",
+      "data_hora_confirmacao_pagamento": "2024-12-02 10:59:21",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 11.84,
+      "frete": "LOGGI",
+      "valor_total_pedido": 77.82,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35217": {
+      "codigo": "35217",
+      "titulo": "BERMUDA MAURICINHO ELASTANO  - Cor: AZUL MARINHO - Tamanho: P",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MAURICINHO ELASTANO",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "35919": {
+      "codigo": "35919",
+      "titulo": "Bermuda Microfibra hiper - modelo mais comprido  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.43G": {
+      "codigo": "CD01.43G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - São Paulo - Tamanho: G - Times : São Paulo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

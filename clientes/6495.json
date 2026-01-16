@@ -1,0 +1,120 @@
+{
+  "codigo": "6495",
+  "nome": "GABRIEL FERREIRA DOS SANTOS",
+  "email": "anjobrow10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/02/2024",
+  "whatsapp": "(73) 99913-6339",
+  "cidade": "Porto Seguro",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 887.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "7829",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-29 10:53:22",
+      "data_hora_confirmacao": "2024-02-29 11:13:10",
+      "data_hora_confirmacao_pagamento": "2024-02-29 11:13:03",
+      "valor_total_produtos": 819.7,
+      "valor_frete": 57.59,
+      "frete": "PAC",
+      "valor_total_pedido": 877.29,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7959",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-03-04 17:56:11",
+      "data_hora_confirmacao": "2024-03-05 09:42:29",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 9.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 9.99,
+      "desconto": 0,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD04.4G": {
+      "codigo": "CD04.4G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 10
+    },
+    "CD04.3G": {
+      "codigo": "CD04.3G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 5
+    },
+    "CD04.5G": {
+      "codigo": "CD04.5G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD04.5M": {
+      "codigo": "CD04.5M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.04G": {
+      "codigo": "CD24.04G",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.04GG": {
+      "codigo": "CD24.04GG",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Preto - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    },
+    "CD24.03GG": {
+      "codigo": "CD24.03GG",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Preto - Marca: Versace - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": 4
+    },
+    "CD24.04M": {
+      "codigo": "CD24.04M",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Preto - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

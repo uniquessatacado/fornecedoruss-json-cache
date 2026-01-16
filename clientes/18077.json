@@ -1,0 +1,61 @@
+{
+  "codigo": "18077",
+  "nome": "WILLY ALBERT SOARES",
+  "email": "wassk8@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/12/2024",
+  "whatsapp": "(48) 98429-9571",
+  "cidade": "Maringá",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 42.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "25633",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 08:36:01",
+      "data_hora_confirmacao": "2024-12-04 08:37:05",
+      "data_hora_confirmacao_pagamento": "2024-12-04 08:37:05",
+      "valor_total_produtos": 29.97,
+      "valor_frete": 12.28,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.25,
+      "desconto": 0,
+      "cidade": "Maringá",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27228": {
+      "codigo": "27228",
+      "titulo": "Cuecas Peruanas - TOMMY HILFIGER - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "30640": {
+      "codigo": "30640",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "34050": {
+      "codigo": "34050",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

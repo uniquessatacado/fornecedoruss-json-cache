@@ -1,0 +1,96 @@
+{
+  "codigo": "674",
+  "nome": "BRUNO ERICK",
+  "email": "brunobreckam@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(16) 9926-27688",
+  "cidade": "Ribeirão Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 256.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301573",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-10 21:10:04",
+      "data_hora_confirmacao": "2023-10-11 12:25:00",
+      "data_hora_confirmacao_pagamento": "2023-10-11 12:25:08",
+      "valor_total_produtos": 87.5,
+      "valor_frete": 19.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 106.91,
+      "desconto": 0,
+      "cidade": "Jardinópolis",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2991",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 21:55:20",
+      "data_hora_confirmacao": "2023-11-09 22:00:10",
+      "data_hora_confirmacao_pagamento": "2023-11-09 22:00:19",
+      "valor_total_produtos": 130,
+      "valor_frete": 19.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 149.67,
+      "desconto": 0,
+      "cidade": "Jardinópolis",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Azul Marinho - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD37.2": {
+      "codigo": "CD37.2",
+      "titulo": "FONE DE OUVIDO - TWS i12 - Cor: Branca",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "INATIVA ELETRÔNICOS E ACHADINHOS",
+      "marca": null,
+      "quantidade": "1"
+    },
+    "CD24.23GG - Burberry": {
+      "codigo": "CD24.23GG - Burberry",
+      "titulo": "Cuecas Peruanas -  Burberry - Cor: Preto - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD16.35": {
+      "codigo": "CD16.35",
+      "titulo": "Camisetas de Time Tailandesas - FLAMENGO  LT31.10  - Tamanho: G1 - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "codigo": "10199",
+  "nome": "RONDINELL SOUSA CUNHA",
+  "email": "rondsc@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "31/05/2024",
+  "whatsapp": "(62) 9919-90348",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 227.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "12907",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-31 19:06:45",
+      "data_hora_confirmacao": "2024-06-01 10:30:42",
+      "data_hora_confirmacao_pagamento": "2024-06-01 10:30:15",
+      "valor_total_produtos": 55,
+      "valor_frete": 20.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.23,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28220",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-02-16 13:45:14",
+      "data_hora_confirmacao": "2025-02-16 13:46:27",
+      "data_hora_confirmacao_pagamento": "2025-02-16 13:46:27",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 20.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 152.51,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20759": {
+      "codigo": "20759",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20925": {
+      "codigo": "20925",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.4": {
+      "codigo": "CD01.4",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.60G": {
+      "codigo": "CD01.60G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

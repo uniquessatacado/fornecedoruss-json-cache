@@ -1,0 +1,96 @@
+{
+  "codigo": "3296",
+  "nome": "LUIZ EUGÊNIO MORAES DE FIGUEIREDO",
+  "email": "luizeugenio30cz@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/10/2023",
+  "whatsapp": "(83) 99366-4915",
+  "cidade": "Cajazeiras",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 245.07999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301345",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 18:54:42",
+      "data_hora_confirmacao": "2023-10-06 13:11:51",
+      "data_hora_confirmacao_pagamento": "2023-10-06 13:11:58",
+      "valor_total_produtos": 99,
+      "valor_frete": 22.42,
+      "frete": "JADLOG",
+      "valor_total_pedido": 121.42,
+      "desconto": 0,
+      "cidade": "Cajazeiras",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2302101",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-20 23:21:55",
+      "data_hora_confirmacao": "2023-10-21 09:22:13",
+      "data_hora_confirmacao_pagamento": "2023-10-21 09:22:23",
+      "valor_total_produtos": 99,
+      "valor_frete": 24.66,
+      "frete": "JADLOG",
+      "valor_total_pedido": 123.66,
+      "desconto": 0,
+      "cidade": "Cajazeiras",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.30M": {
+      "codigo": "CD17.30M",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.30G": {
+      "codigo": "CD17.30G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.30GG": {
+      "codigo": "CD17.30GG",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.35GG": {
+      "codigo": "CD17.35GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT18.10 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD41.8GG": {
+      "codigo": "CD41.8GG",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER - ADIDAS  LT19.10    - Cor: Azul e Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

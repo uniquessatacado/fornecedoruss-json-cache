@@ -1,0 +1,53 @@
+{
+  "codigo": "3173",
+  "nome": "DAVID MARQUES OLIVEIRA",
+  "email": "franciscodavid121@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "02/10/2023",
+  "whatsapp": "(11) 97717-8212",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 70.16,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301115",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-02 12:42:17",
+      "data_hora_confirmacao": "2023-10-02 12:54:53",
+      "data_hora_confirmacao_pagamento": "2023-10-02 12:55:04",
+      "valor_total_produtos": 60,
+      "valor_frete": 10.16,
+      "frete": "SEDEX",
+      "valor_total_pedido": 70.16,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.7G": {
+      "codigo": "CD02.7G",
+      "titulo": "Camiseta High 40.1 Ultra Premium  - Cor: Azul Royal - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.22G": {
+      "codigo": "CD02.22G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

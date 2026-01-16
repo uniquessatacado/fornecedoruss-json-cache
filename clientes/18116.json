@@ -1,0 +1,69 @@
+{
+  "codigo": "18116",
+  "nome": "MATEUS PINTO LIMA",
+  "email": "mateusmpl@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "05/12/2024",
+  "whatsapp": "(32) 98876-1388",
+  "cidade": "Ubá",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.74,
+  "pedidos": [
+    {
+      "codigo_pedido": "25757",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-05 13:07:56",
+      "data_hora_confirmacao": "2024-12-05 13:10:09",
+      "data_hora_confirmacao_pagamento": "2024-12-05 13:10:09",
+      "valor_total_produtos": 69.96,
+      "valor_frete": 18.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 88.74,
+      "desconto": 0,
+      "cidade": "Ubá",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34003": {
+      "codigo": "34003",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "35199": {
+      "codigo": "35199",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35403": {
+      "codigo": "35403",
+      "titulo": "Cuecas Peruanas - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "35928": {
+      "codigo": "35928",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO MARINHO VERDE  - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

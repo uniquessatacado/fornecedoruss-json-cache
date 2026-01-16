@@ -1,0 +1,163 @@
+{
+  "codigo": "4580",
+  "nome": "GUILHERME DUTRA BARROS",
+  "email": "guilhermedutra524@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/12/2023",
+  "whatsapp": "(44) 9883-19762",
+  "cidade": "Mandaguaçu",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 375.79999999999995,
+  "pedidos": [
+    {
+      "codigo_pedido": "4352",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-09 14:10:22",
+      "data_hora_confirmacao": "2023-12-11 10:57:42",
+      "data_hora_confirmacao_pagamento": "2023-12-11 10:57:58",
+      "valor_total_produtos": 168,
+      "valor_frete": 23.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 191.35,
+      "desconto": 0,
+      "cidade": "Mandaguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4404",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-11 15:59:55",
+      "data_hora_confirmacao": "2023-12-11 16:31:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30,
+      "desconto": 0,
+      "cidade": "Mandaguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8170",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-09 20:05:22",
+      "data_hora_confirmacao": "2024-03-11 09:28:09",
+      "data_hora_confirmacao_pagamento": "2024-03-11 09:28:04",
+      "valor_total_produtos": 138.99,
+      "valor_frete": 15.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 154.45,
+      "desconto": 0,
+      "cidade": "Mandaguaçu",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.83": {
+      "codigo": "CD01.83",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ARGENTINA   LT10.11  - Tamanho: M - Times : Argentina",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.59": {
+      "codigo": "CD02.59",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT07.12 - Cor: Branca - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD02.54": {
+      "codigo": "CD02.54",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12   - Cor: Branca - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD01.111": {
+      "codigo": "CD01.111",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID  LT08.12   - Tamanho: M - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD67.5": {
+      "codigo": "CD67.5",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - ONBONGO  LT06.12  - Tamanho: 42",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "ONBONGO",
+      "quantidade": "1"
+    },
+    "CD02.57": {
+      "codigo": "CD02.57",
+      "titulo": "Camiseta 40.1 Ultra Premium - HANG LOOSE  LT07.12 - Cor: Vermelha - Marca: Hang Loose - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD01.73": {
+      "codigo": "CD01.73",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) -  CRUZEIRO  LT27.10   - Tamanho: P - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.32G": {
+      "codigo": "CD16.32G",
+      "titulo": "Camisetas de Time Nacional Premium - Brasil   LT26.10 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.112": {
+      "codigo": "CD01.112",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PALMEIRAS - Tamanho: M - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD67.16": {
+      "codigo": "CD67.16",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 40",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD04.3M": {
+      "codigo": "CD04.3M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE escrita - Cor: Branca - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

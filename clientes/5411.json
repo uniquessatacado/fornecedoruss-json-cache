@@ -1,0 +1,45 @@
+{
+  "codigo": "5411",
+  "nome": "MICHAEL ROBSON FREITAS D S",
+  "email": "maicon_marcone@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/01/2024",
+  "whatsapp": "(11) 94087-2924",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 51.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "6628",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-18 09:41:23",
+      "data_hora_confirmacao": "2024-01-18 11:29:59",
+      "data_hora_confirmacao_pagamento": "2024-01-18 11:30:31",
+      "valor_total_produtos": 40.99,
+      "valor_frete": 10.74,
+      "frete": "SEDEX",
+      "valor_total_pedido": 51.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.61": {
+      "codigo": "CD39.61",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

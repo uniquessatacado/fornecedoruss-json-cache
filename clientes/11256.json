@@ -1,0 +1,45 @@
+{
+  "codigo": "11256",
+  "nome": "RAFAEL SANTIAGO DA COSTA",
+  "email": "rafaelcosta824@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/06/2024",
+  "whatsapp": "(19) 9979-22004",
+  "cidade": "Elias Fausto",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 55.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "17470",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-07-31 18:29:16",
+      "data_hora_confirmacao": "2024-08-01 15:34:43",
+      "data_hora_confirmacao_pagamento": "2024-08-03 12:54:08",
+      "valor_total_produtos": 55.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 55.99,
+      "desconto": 0,
+      "cidade": "Elias Fausto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25896": {
+      "codigo": "25896",
+      "titulo": "Tênis Nike AIR 70 - Cor: PRETA - Tamanho: 41 ",
+      "categoria_principal": "TÊNIS",
+      "categoria": "Tênis",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

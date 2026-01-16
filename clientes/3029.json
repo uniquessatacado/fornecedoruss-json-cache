@@ -1,0 +1,61 @@
+{
+  "codigo": "3029",
+  "nome": "VICTOR HUGO DE SOUZA CAMPOS",
+  "email": "victorhugodesouzacampos@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(31) 99387-8790",
+  "cidade": "Juatuba",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 153.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-12 08:32:39",
+      "data_hora_confirmacao": "2023-10-13 11:56:05",
+      "data_hora_confirmacao_pagamento": "2023-10-13 11:56:16",
+      "valor_total_produtos": 137.4,
+      "valor_frete": 16.25,
+      "frete": "JADLOG",
+      "valor_total_pedido": 153.65,
+      "desconto": 0,
+      "cidade": "Juatuba",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD32.18Juliet": {
+      "codigo": "CD32.18Juliet",
+      "titulo": "Óculos Oakley Juliet - Lente Polarizada  - Cor da Armação: Prata c/Chumbo - Cor da Lente: Roxo - Kit Borracha: Preto - Marca: Oakley - Parafuso: Pinada",
+      "categoria_principal": "OCULOS",
+      "categoria": "JULIET",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD33.5G": {
+      "codigo": "CD33.5G",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste  - Cor: Cinza - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.27G - Boss": {
+      "codigo": "CD24.27G - Boss",
+      "titulo": "Cuecas Peruanas -  Hugo Boss  - Cor: Cinza - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    }
+  }
+}

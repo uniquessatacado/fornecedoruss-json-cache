@@ -1,0 +1,96 @@
+{
+  "codigo": "16736",
+  "nome": "LUCAS FAUSTINO",
+  "email": "maciellucasfaustino@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/10/2024",
+  "whatsapp": "(15) 99635-3042",
+  "cidade": "Ibiúna",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 175.29000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "23673",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-01 21:09:32",
+      "data_hora_confirmacao": "2024-11-07 13:34:21",
+      "data_hora_confirmacao_pagamento": "2024-11-07 13:34:15",
+      "valor_total_produtos": 108.71,
+      "valor_frete": 29.59,
+      "frete": "SEDEX",
+      "valor_total_pedido": 138.3,
+      "desconto": 0,
+      "cidade": "Ibiúna",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24231",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-11-11 18:10:17",
+      "data_hora_confirmacao": "2024-11-11 18:10:17",
+      "data_hora_confirmacao_pagamento": "2024-11-11 18:10:17",
+      "valor_total_produtos": 36.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 36.99,
+      "desconto": 0,
+      "cidade": "Ibiúna",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18122": {
+      "codigo": "18122",
+      "titulo": "FONTE USB-C + CABO IPHONE PADRÃO  - Cor: BRANCA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "FONTES CARREGADOR",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "22898": {
+      "codigo": "22898",
+      "titulo": "KIT COM 3 PARES DE MEIA NA CAIXINHA ADIDAS - CANO CURTO - Marca: Adidas - TIPO DE MEIA: CANO CURTO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "KIT COM 3 PARES NA CAIXA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "28382": {
+      "codigo": "28382",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29484": {
+      "codigo": "29484",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - SANTOS - Tamanho: G - Times : Santos - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "33256": {
+      "codigo": "33256",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

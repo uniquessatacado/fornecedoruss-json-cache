@@ -1,0 +1,88 @@
+{
+  "codigo": "19255",
+  "nome": "MOISÉS BENEVIDES",
+  "email": "mbsanglo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/02/2025",
+  "whatsapp": "(73) 99834-3208",
+  "cidade": "Jaguarari",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 323.93,
+  "pedidos": [
+    {
+      "codigo_pedido": "28114",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-13 08:03:10",
+      "data_hora_confirmacao": "2025-02-13 08:05:55",
+      "data_hora_confirmacao_pagamento": "2025-02-13 08:05:55",
+      "valor_total_produtos": 41.53,
+      "valor_frete": 69.37,
+      "frete": "PAC",
+      "valor_total_pedido": 110.9,
+      "desconto": 0,
+      "cidade": "Jaguarari",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "29118",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-04-08 15:31:14",
+      "data_hora_confirmacao": "2025-04-08 15:33:33",
+      "data_hora_confirmacao_pagamento": "2025-04-08 15:33:33",
+      "valor_total_produtos": 187.5,
+      "valor_frete": 25.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 213.03,
+      "desconto": 0,
+      "cidade": "Ipiaú",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "41106": {
+      "codigo": "41106",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C298) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "45701": {
+      "codigo": "45701",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770) - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45708": {
+      "codigo": "45708",
+      "titulo": "Bermuda Microfibra Ultra LT36A (C770)  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "46269": {
+      "codigo": "46269",
+      "titulo": "Bermuda Microfibra Ultra LT38A (C781) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

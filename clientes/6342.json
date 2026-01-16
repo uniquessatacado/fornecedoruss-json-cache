@@ -1,0 +1,123 @@
+{
+  "codigo": "6342",
+  "nome": "ANDERSON DOS SANTOS SOUZA",
+  "email": "avmfitnes@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/02/2024",
+  "whatsapp": "(11) 95389-6878",
+  "cidade": "Diadema",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 229.70999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "7534",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-22 19:12:05",
+      "data_hora_confirmacao": "2024-02-23 09:43:54",
+      "data_hora_confirmacao_pagamento": "2024-02-23 09:43:41",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 11.62,
+      "frete": "SEDEX",
+      "valor_total_pedido": 73.6,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10793",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-04-26 10:42:05",
+      "data_hora_confirmacao": "2024-04-26 10:42:05",
+      "data_hora_confirmacao_pagamento": "2024-04-26 12:52:08",
+      "valor_total_produtos": 65.98,
+      "valor_frete": 16.14,
+      "frete": "JADLOG",
+      "valor_total_pedido": 82.12,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11393",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-06 15:45:57",
+      "data_hora_confirmacao": "2024-05-06 15:45:57",
+      "data_hora_confirmacao_pagamento": "2024-05-06 16:32:01",
+      "valor_total_produtos": 61.98,
+      "valor_frete": 12.01,
+      "frete": "LOGGI",
+      "valor_total_pedido": 73.99,
+      "desconto": 0,
+      "cidade": "Diadema",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17901": {
+      "codigo": "17901",
+      "titulo": "Camiseta 40.1 Ultra - OAKLEY - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "17906": {
+      "codigo": "17906",
+      "titulo": "Camiseta 40.1 Ultra - OAKLEY - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.107M": {
+      "codigo": "CD02.107M",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Branca - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD02.107GG": {
+      "codigo": "CD02.107GG",
+      "titulo": "Camiseta Lacoste 40.1 Ultra Premium   - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD15.7GG": {
+      "codigo": "CD15.7GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: BRANCA - Marca: Burberry - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "CD15.7M": {
+      "codigo": "CD15.7M",
+      "titulo": "Camiseta Egípcia Cotton Luxo -BURBERRY - Cor: PRETA - Marca: Burberry - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Burberry",
+      "quantidade": "1"
+    }
+  }
+}

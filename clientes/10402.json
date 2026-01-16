@@ -1,0 +1,45 @@
+{
+  "codigo": "10402",
+  "nome": "GLEYDSON NASCIMENTO SANTOS",
+  "email": "gleydson_nascimento@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/06/2024",
+  "whatsapp": "(11) 96472-0357",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 51.1,
+  "pedidos": [
+    {
+      "codigo_pedido": "13831",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 17:51:36",
+      "data_hora_confirmacao": "2024-06-15 18:13:59",
+      "data_hora_confirmacao_pagamento": "2024-06-15 18:13:49",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 12.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 51.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21761": {
+      "codigo": "21761",
+      "titulo": "Camisetas Suedine Ultra - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

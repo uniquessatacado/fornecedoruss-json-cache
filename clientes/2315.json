@@ -1,0 +1,112 @@
+{
+  "codigo": "2315",
+  "nome": "ITALO CONCEIÇÃO DE JESUS",
+  "email": "iitalorangel@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(75) 98176-8373",
+  "cidade": "Valença",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 269.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300195",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 11:56:03",
+      "data_hora_confirmacao": "2023-09-19 12:05:46",
+      "data_hora_confirmacao_pagamento": "2023-09-21 15:26:58",
+      "valor_total_produtos": 93,
+      "valor_frete": 37.26,
+      "frete": "PAC",
+      "valor_total_pedido": 130.26,
+      "desconto": 0,
+      "cidade": "Valença",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "8758",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-20 16:53:04",
+      "data_hora_confirmacao": "2024-03-20 17:21:18",
+      "data_hora_confirmacao_pagamento": "2024-03-20 17:21:09",
+      "valor_total_produtos": 115.91,
+      "valor_frete": 23.43,
+      "frete": "JADLOG",
+      "valor_total_pedido": 139.34,
+      "desconto": 0,
+      "cidade": "Valença",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.1M": {
+      "codigo": "CD29.1M",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD17.6M": {
+      "codigo": "CD17.6M",
+      "titulo": "Bermuda Microfibra Ultra - Nike   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.10m": {
+      "codigo": "CD24.10m",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.10M": {
+      "codigo": "CD24.10M",
+      "titulo": "Cueca Peruana - NIKE - Cor: Branca - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD24.11M": {
+      "codigo": "CD24.11M",
+      "titulo": "Cueca Peruana - TOMMY - Cor: Preto - Marca: Tommy - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Tommy Hilfiger",
+      "quantidade": 3
+    },
+    "CD24.12M": {
+      "codigo": "CD24.12M",
+      "titulo": "Cueca Peruana - CALVIN KLEIN - Cor: Vermelha - Marca: Calvin Klein - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "CD04.1M": {
+      "codigo": "CD04.1M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

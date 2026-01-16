@@ -1,0 +1,77 @@
+{
+  "codigo": "19588",
+  "nome": "CRISTIANO GATTINI",
+  "email": "cristiano.gattini@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/03/2025",
+  "whatsapp": "(51) 99243-8859",
+  "cidade": "Porto Alegre",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 212.53,
+  "pedidos": [
+    {
+      "codigo_pedido": "28877",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-21 12:29:58",
+      "data_hora_confirmacao": "2025-03-21 18:03:35",
+      "data_hora_confirmacao_pagamento": "2025-03-21 18:03:35",
+      "valor_total_produtos": 192.3,
+      "valor_frete": 20.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 212.53,
+      "desconto": 0,
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "45178": {
+      "codigo": "45178",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C740) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45185": {
+      "codigo": "45185",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C740)  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45192": {
+      "codigo": "45192",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C740) - Cor: CHUMBO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "45237": {
+      "codigo": "45237",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C743) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45273": {
+      "codigo": "45273",
+      "titulo": "Bermuda Microfibra Ultra LT34A (C743) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

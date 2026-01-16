@@ -1,0 +1,88 @@
+{
+  "codigo": "4002",
+  "nome": "ROGER LUIS SANTOS DA SILVA",
+  "email": "rogerlss1989@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/11/2023",
+  "whatsapp": "(51) 99143-4275",
+  "cidade": "Florianópolis",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 301.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "3002",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-10 08:06:20",
+      "data_hora_confirmacao": "2023-11-10 12:47:46",
+      "data_hora_confirmacao_pagamento": "2023-11-10 12:47:55",
+      "valor_total_produtos": 65,
+      "valor_frete": 20.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.8,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12847",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-30 09:41:00",
+      "data_hora_confirmacao": "2024-05-30 10:21:39",
+      "data_hora_confirmacao_pagamento": "2024-05-30 10:21:31",
+      "valor_total_produtos": 194.97,
+      "valor_frete": 20.48,
+      "frete": "LOGGI",
+      "valor_total_pedido": 215.45,
+      "desconto": 0,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19632": {
+      "codigo": "19632",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA)  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19642": {
+      "codigo": "19642",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "19901": {
+      "codigo": "19901",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.41": {
+      "codigo": "CD16.41",
+      "titulo": "Camisetas de Time Tailandesas - BOTAFOGO    LT31.10   - Tamanho: G - Times : Botafogo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

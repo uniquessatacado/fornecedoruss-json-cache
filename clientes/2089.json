@@ -1,0 +1,53 @@
+{
+  "codigo": "2089",
+  "nome": "ALEXANDRE DA CRUZ",
+  "email": "victorvinck1918@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "03/09/2023",
+  "whatsapp": "(51) 99935-5892",
+  "cidade": "Tabaí",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300795",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-27 19:43:32",
+      "data_hora_confirmacao": "2023-09-28 12:04:16",
+      "data_hora_confirmacao_pagamento": "2023-09-28 12:04:04",
+      "valor_total_produtos": 60,
+      "valor_frete": 28.95,
+      "frete": "PAC",
+      "valor_total_pedido": 88.95,
+      "desconto": 0,
+      "cidade": "Tabaí",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.26P": {
+      "codigo": "CD01.26P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Vasco - Tamanho: P - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.12P": {
+      "codigo": "CD01.12P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Vasco - Tamanho: P - Times : Vasco",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

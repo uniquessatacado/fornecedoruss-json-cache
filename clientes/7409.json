@@ -1,0 +1,112 @@
+{
+  "codigo": "7409",
+  "nome": "MARIA ALCIONE FERREIRA",
+  "email": "lucasferreira.45@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/04/2024",
+  "whatsapp": "(11) 94711-4239",
+  "cidade": "Ferraz de Vasconcelos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 215.25,
+  "pedidos": [
+    {
+      "codigo_pedido": "15167",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-04 19:59:59",
+      "data_hora_confirmacao": "2024-07-05 10:03:09",
+      "data_hora_confirmacao_pagamento": "2024-07-05 10:02:56",
+      "valor_total_produtos": 101.96,
+      "valor_frete": 16.79,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.75,
+      "desconto": 0,
+      "cidade": "Ferraz de Vasconcelos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20543",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-06 17:01:11",
+      "data_hora_confirmacao": "2024-09-09 09:38:42",
+      "data_hora_confirmacao_pagamento": "2024-09-09 09:38:36",
+      "valor_total_produtos": 83.97,
+      "valor_frete": 12.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 96.5,
+      "desconto": 0,
+      "cidade": "Ferraz de Vasconcelos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20129": {
+      "codigo": "20129",
+      "titulo": "Bermuda Microfibra Ultra NIKE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23531": {
+      "codigo": "23531",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BEGE - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23534": {
+      "codigo": "23534",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23540": {
+      "codigo": "23540",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28680": {
+      "codigo": "28680",
+      "titulo": "Boné Basic Drifit - NIKE  - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Boné Basic",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29314": {
+      "codigo": "29314",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29634": {
+      "codigo": "29634",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

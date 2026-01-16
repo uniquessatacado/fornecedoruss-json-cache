@@ -1,0 +1,128 @@
+{
+  "codigo": "16385",
+  "nome": "YUBER DANIEL",
+  "email": "yuberzabaleta@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/10/2024",
+  "whatsapp": "(67) 98143-8897",
+  "cidade": "Campo Grande",
+  "estado": "MS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 555.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "22532",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-08 20:56:08",
+      "data_hora_confirmacao": "2024-10-09 10:10:27",
+      "data_hora_confirmacao_pagamento": "2024-10-09 10:10:17",
+      "valor_total_produtos": 391.92,
+      "valor_frete": 30.43,
+      "frete": "JADLOG",
+      "valor_total_pedido": 422.35,
+      "desconto": 0,
+      "cidade": "Itajaí",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22533",
+      "situacao_pedido": "PEDIDO PARCIAMENTE ENTREGUE EM NOSSO ESTOQUE ",
+      "data_hora_pedido": "2024-10-08 20:56:08",
+      "data_hora_confirmacao": "2024-10-09 10:11:40",
+      "data_hora_confirmacao_pagamento": "2024-10-09 10:11:35",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 37.36,
+      "frete": "JADLOG",
+      "valor_total_pedido": 133.25,
+      "desconto": 0,
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21125": {
+      "codigo": "21125",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25554": {
+      "codigo": "25554",
+      "titulo": "SMARTWATCH HW9 ULTRA MAX  - Cor: PRETA",
+      "categoria_principal": "RELOGIO",
+      "categoria": "SMARTWATCH HW9 ULTRA MAX ",
+      "marca": "SMARTWHATCH",
+      "quantidade": "1"
+    },
+    "28866": {
+      "codigo": "28866",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte composta  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31263": {
+      "codigo": "31263",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO VERMELHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "31424": {
+      "codigo": "31424",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "31666": {
+      "codigo": "31666",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "31723": {
+      "codigo": "31723",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32224": {
+      "codigo": "32224",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte COMPOSTA - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32286": {
+      "codigo": "32286",
+      "titulo": "Camiseta Algodão Soft Americano - HUGO BOSS arte EMBORRACHADA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

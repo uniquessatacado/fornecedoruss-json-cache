@@ -1,0 +1,104 @@
+{
+  "codigo": "13162",
+  "nome": "GARCIA TEIXEIRA DE MELO",
+  "email": "garciateixeira_melo@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "26/07/2024",
+  "whatsapp": "(11) 9824-36412",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 224.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "18712",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-14 18:45:50",
+      "data_hora_confirmacao": "2024-08-14 19:33:42",
+      "data_hora_confirmacao_pagamento": "2024-08-14 19:33:33",
+      "valor_total_produtos": 92.97,
+      "valor_frete": 12.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.18,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24866",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-20 22:42:45",
+      "data_hora_confirmacao": "2024-11-20 22:44:30",
+      "data_hora_confirmacao_pagamento": "2024-11-20 22:44:30",
+      "valor_total_produtos": 105.97,
+      "valor_frete": 12.91,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21468": {
+      "codigo": "21468",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "25019": {
+      "codigo": "25019",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - PSG - Tamanho: G - Times : Psg - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "27637": {
+      "codigo": "27637",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - HUGO BOSS arte em termogel - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "32658": {
+      "codigo": "32658",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO BRANCO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "33750": {
+      "codigo": "33750",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BAYERN DE MUNIQUE - Tamanho: G - Times : Bayern de Munique - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "35094": {
+      "codigo": "35094",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: AZUL TURQUEZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

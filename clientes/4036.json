@@ -1,0 +1,53 @@
+{
+  "codigo": "4036",
+  "nome": "ROBSON RODRIGUES OLIVEIRA",
+  "email": "rroliveira1988.rr@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "11/11/2023",
+  "whatsapp": "(19) 9983-44601",
+  "cidade": "Araras",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 235.06,
+  "pedidos": [
+    {
+      "codigo_pedido": "16808",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-23 21:48:18",
+      "data_hora_confirmacao": "2024-07-24 20:30:14",
+      "data_hora_confirmacao_pagamento": "2024-07-24 20:30:06",
+      "valor_total_produtos": 157.98,
+      "valor_frete": 27.08,
+      "frete": "SEDEX",
+      "valor_total_pedido": 235.06,
+      "desconto": 0,
+      "cidade": "Araras",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22316": {
+      "codigo": "22316",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRO BRASIL - (envio direto da fabrica) - Tamanho: M - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "24993": {
+      "codigo": "24993",
+      "titulo": "Camisa de time Tailandesa 1.1 Corinthians - (envio direto da fabrica) - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

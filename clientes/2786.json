@@ -1,0 +1,104 @@
+{
+  "codigo": "2786",
+  "nome": "WELTON GOMES BATISTA",
+  "email": "wgbfsa10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(75) 99156-7704",
+  "cidade": "Feira de Santana",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 302.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300635",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-24 21:59:44",
+      "data_hora_confirmacao": "2023-09-24 22:16:27",
+      "data_hora_confirmacao_pagamento": "2023-09-24 22:16:21",
+      "valor_total_produtos": 217,
+      "valor_frete": 33.95,
+      "frete": "PAC",
+      "valor_total_pedido": 250.95,
+      "desconto": 0,
+      "cidade": "Feira de Santana",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301823",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-17 16:05:13",
+      "data_hora_confirmacao": "2023-10-17 17:02:41",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 52,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 52,
+      "desconto": 0,
+      "cidade": "Feira de Santana",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.13M": {
+      "codigo": "CD08.13M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Louis Vuitton (Aplique Abordada) - Cor: Verde - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD08.15G": {
+      "codigo": "CD08.15G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Boss (Chenille e Bordado) - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD05.2": {
+      "codigo": "CD05.2",
+      "titulo": "Camiseta Egipicia Cotton Luxo - Moschino - Cor: Branca - Marca: Moschinno - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "Moschino",
+      "quantidade": "1"
+    },
+    "CD10.2G": {
+      "codigo": "CD10.2G",
+      "titulo": "Camiseta Egipicia Luxo - Gucci - Cor: Vermelha - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Egípcia Ultra Luxo",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.20M": {
+      "codigo": "CD08.20M",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Gucci (Aplique Lantejoula e Bordada) - Cor: Azul Marinho - Marca: Gucci - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD33.2M": {
+      "codigo": "CD33.2M",
+      "titulo": "Camiseta Genuina 40.1 Peruana - Lacoste - Cor: Preto - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETAS GENUINAS 40.1 PERUANA",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

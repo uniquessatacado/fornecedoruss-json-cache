@@ -1,0 +1,85 @@
+{
+  "codigo": "7267",
+  "nome": "ROBERTO MOURA",
+  "email": "mouraroberto447@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/03/2024",
+  "whatsapp": "(71) 9875-62745",
+  "cidade": "Salvador",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 290.29,
+  "pedidos": [
+    {
+      "codigo_pedido": "9039",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-27 21:37:55",
+      "data_hora_confirmacao": "2024-03-28 17:23:34",
+      "data_hora_confirmacao_pagamento": "2024-03-28 17:23:27",
+      "valor_total_produtos": 244.93,
+      "valor_frete": 45.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 290.29,
+      "desconto": 0,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.131M": {
+      "codigo": "CD02.131M",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  - Cor: Marrom - Marca: Quiksilver - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "RL01.14": {
+      "codigo": "RL01.14",
+      "titulo": "Relógio G Shock- Resistente a agua - Cor: GS- PRETO-BRANCO",
+      "categoria_principal": "RELOGIO",
+      "categoria": "RELOGIO G SHOCK",
+      "marca": "CASIO G-SHOCK",
+      "quantidade": "1"
+    },
+    "PA62": {
+      "codigo": "PA62",
+      "titulo": "CORRENTE ESCAMA 3,5MM 70CM",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 5": {
+      "codigo": "CD43.22 - MD 5",
+      "titulo": "Boné Super Premium - HIGH - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD43.22 - MD 6": {
+      "codigo": "CD43.22 - MD 6",
+      "titulo": "Boné Super Premium - HIGH - Cor: Cinza",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD24.13GG": {
+      "codigo": "CD24.13GG",
+      "titulo": "Cueca Peruana - NIKE - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "14014",
+  "nome": "JEFFERSON GIRALDO",
+  "email": "giraldojefferson@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/08/2024",
+  "whatsapp": "(16) 98207-0589",
+  "cidade": "São Carlos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 111.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "18578",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-13 19:49:25",
+      "data_hora_confirmacao": "2024-08-14 10:43:30",
+      "data_hora_confirmacao_pagamento": "2024-08-14 10:43:17",
+      "valor_total_produtos": 77.98,
+      "valor_frete": 33.65,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 111.63,
+      "desconto": 0,
+      "cidade": "São Carlos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27433": {
+      "codigo": "27433",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte emborrachada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "27435": {
+      "codigo": "27435",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DOLCE GABBANA arte emborrachada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    }
+  }
+}

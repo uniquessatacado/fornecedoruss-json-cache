@@ -1,0 +1,104 @@
+{
+  "codigo": "4797",
+  "nome": "DANIELE OLIVEIRA SIMONETTI",
+  "email": "danielesimonetti01@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/12/2023",
+  "whatsapp": "(19) 99326-1673",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 221.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "5023",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-18 18:52:23",
+      "data_hora_confirmacao": "2023-12-19 09:40:15",
+      "data_hora_confirmacao_pagamento": "2023-12-19 09:40:31",
+      "valor_total_produtos": 55,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 55,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26746",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-19 09:57:38",
+      "data_hora_confirmacao": "2024-12-19 10:00:10",
+      "data_hora_confirmacao_pagamento": "2024-12-19 10:00:10",
+      "valor_total_produtos": 166.68,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 166.68,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "38279": {
+      "codigo": "38279",
+      "titulo": "Bermuda Microfibra Ultra (C120) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38301": {
+      "codigo": "38301",
+      "titulo": "Bermuda Microfibra Ultra (C121) - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38320": {
+      "codigo": "38320",
+      "titulo": "Bermuda Microfibra Ultra (C122) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38341": {
+      "codigo": "38341",
+      "titulo": "Bermuda Microfibra Ultra (C124) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD01.111": {
+      "codigo": "CD01.111",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - REAL MADRID  LT08.12   - Tamanho: P - Times : Real Madrid",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.40P": {
+      "codigo": "CD01.40P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

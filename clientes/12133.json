@@ -1,0 +1,61 @@
+{
+  "codigo": "12133",
+  "nome": "EDUARDO DOS SANTOS",
+  "email": "eduardofruitlab@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/07/2024",
+  "whatsapp": "(34) 99202-0446",
+  "cidade": "Uberlândia",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 133.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "15410",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-08 22:02:15",
+      "data_hora_confirmacao": "2024-07-09 09:24:17",
+      "data_hora_confirmacao_pagamento": "2024-07-09 09:24:12",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 19.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 133.69,
+      "desconto": 0,
+      "cidade": "Uberlândia",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23380": {
+      "codigo": "23380",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - ADIDAS arte em BORDADO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "23530": {
+      "codigo": "23530",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: BEGE - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23652": {
+      "codigo": "23652",
+      "titulo": "Camiseta GENUINA COTTON TANGUIS TURCO - FENDI arte em bordado e camurça - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "FENDI",
+      "quantidade": "1"
+    }
+  }
+}

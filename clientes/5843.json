@@ -1,0 +1,53 @@
+{
+  "codigo": "5843",
+  "nome": "CRISTIANO DE OLIVEIRA",
+  "email": "cristiano.felipe.87@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/01/2024",
+  "whatsapp": "(32) 98864-6056",
+  "cidade": "Juiz de Fora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.68,
+  "pedidos": [
+    {
+      "codigo_pedido": "7721",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 12:48:12",
+      "data_hora_confirmacao": "2024-02-27 13:13:30",
+      "data_hora_confirmacao_pagamento": "2024-02-27 13:13:25",
+      "valor_total_produtos": 74.98,
+      "valor_frete": 17.7,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.68,
+      "desconto": 0,
+      "cidade": "Juiz de Fora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.01GG": {
+      "codigo": "CD39.01GG",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)    - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD04.5GG": {
+      "codigo": "CD04.5GG",
+      "titulo": "Bermuda Microfibra Ultra - NIKE DRYFIT - Cor: Bege - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

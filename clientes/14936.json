@@ -1,0 +1,53 @@
+{
+  "codigo": "14936",
+  "nome": "GUSTAVO REZENDE CUNHA",
+  "email": "gustavogyn2008@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "31/08/2024",
+  "whatsapp": "(64) 99299-0760",
+  "cidade": "Anicuns",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 265.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "20063",
+      "situacao_pedido": "PEDIDO ENVIADO DA FÁBRICA PARA NOSSO ESTOQUE ",
+      "data_hora_pedido": "2024-08-31 14:53:09",
+      "data_hora_confirmacao": "2024-09-02 09:42:12",
+      "data_hora_confirmacao_pagamento": "2024-09-02 09:42:04",
+      "valor_total_produtos": 185.98,
+      "valor_frete": 30.01,
+      "frete": "PAC",
+      "valor_total_pedido": 265.99,
+      "desconto": 0,
+      "cidade": "Anicuns",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "20694": {
+      "codigo": "20694",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: GG - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

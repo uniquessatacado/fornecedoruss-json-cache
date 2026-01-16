@@ -1,0 +1,88 @@
+{
+  "codigo": "18835",
+  "nome": "IHAN SOUSA RODRIGUES DA COSTA",
+  "email": "ihanrodrigues245@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "06/01/2025",
+  "whatsapp": "(63) 98504-8339",
+  "cidade": "Palmas",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 223.51,
+  "pedidos": [
+    {
+      "codigo_pedido": "27428",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-06 17:41:25",
+      "data_hora_confirmacao": "2025-01-06 17:42:50",
+      "data_hora_confirmacao_pagamento": "2025-01-06 17:42:50",
+      "valor_total_produtos": 90,
+      "valor_frete": 18.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 108.39,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27678",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-01-16 18:00:45",
+      "data_hora_confirmacao": "2025-01-16 18:10:08",
+      "data_hora_confirmacao_pagamento": "2025-01-16 18:10:08",
+      "valor_total_produtos": 96.66,
+      "valor_frete": 18.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 115.12,
+      "desconto": 0,
+      "cidade": "Palmas",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37558": {
+      "codigo": "37558",
+      "titulo": "Camiseta fio 40.1 SOFT PENTEADA (C31) Arte termo Gel - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "38502": {
+      "codigo": "38502",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40034": {
+      "codigo": "40034",
+      "titulo": "Camiseta Suedine ultra -(C222) ARTE BORDADA LT4A - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40252": {
+      "codigo": "40252",
+      "titulo": "Camiseta Suedine ultra -(C239) ARTE EM DTF LT3A  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

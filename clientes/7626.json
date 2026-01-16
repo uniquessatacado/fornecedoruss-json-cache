@@ -1,0 +1,61 @@
+{
+  "codigo": "7626",
+  "nome": "DAVIT PRADO DE SOUSA",
+  "email": "davitprado10@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "05/04/2024",
+  "whatsapp": "(85) 99243-1790",
+  "cidade": "Fortaleza",
+  "estado": "CE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 256.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "9537",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-05 16:05:46",
+      "data_hora_confirmacao": "2024-04-05 17:19:11",
+      "data_hora_confirmacao_pagamento": "2024-04-05 17:19:05",
+      "valor_total_produtos": 228.94,
+      "valor_frete": 27.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 256.36,
+      "desconto": 0,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.17G": {
+      "codigo": "CD4.17G",
+      "titulo": "Bermuda SPANDEX ULTRA - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "MD43.21 - MD 1": {
+      "codigo": "MD43.21 - MD 1",
+      "titulo": "Boné Super Premium - NY - Cor: Bege",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NY",
+      "quantidade": "1"
+    },
+    "CD12.4G": {
+      "codigo": "CD12.4G",
+      "titulo": "Polo Piquet Duplo - HUGO BOSS   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

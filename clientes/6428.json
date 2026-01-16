@@ -1,0 +1,61 @@
+{
+  "codigo": "6428",
+  "nome": "ROMARIO SOARES DOS SANTOS",
+  "email": "romario212316@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "27/02/2024",
+  "whatsapp": "(21) 97158-4376",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 121.33,
+  "pedidos": [
+    {
+      "codigo_pedido": "7694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-27 10:31:02",
+      "data_hora_confirmacao": "2024-02-27 15:16:44",
+      "data_hora_confirmacao_pagamento": "2024-02-27 15:16:36",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 21.43,
+      "frete": "PAC",
+      "valor_total_pedido": 121.33,
+      "desconto": 0,
+      "cidade": "São Gonçalo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.03G": {
+      "codigo": "CD24.03G",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: Preto - Marca: Versace - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "5"
+    },
+    "CD24.01G": {
+      "codigo": "CD24.01G",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: Preto - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "2"
+    },
+    "CD24.04G": {
+      "codigo": "CD24.04G",
+      "titulo": "Cuecas Peruanas - ARMANI - Cor: Preto - Marca: Armani - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ARMANI",
+      "quantidade": 3
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "13445",
+  "nome": "LUCAS DINIZ",
+  "email": "lucasmae2004@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/08/2024",
+  "whatsapp": "(16) 99413-9159",
+  "cidade": "Franca",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 257.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "17600",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-01 19:25:58",
+      "data_hora_confirmacao": "2024-08-03 10:20:50",
+      "data_hora_confirmacao_pagamento": "2024-08-03 10:20:44",
+      "valor_total_produtos": 102.99,
+      "valor_frete": 12,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.99,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25643",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-04 11:41:42",
+      "data_hora_confirmacao": "2024-12-04 11:43:08",
+      "data_hora_confirmacao_pagamento": "2024-12-04 11:43:08",
+      "valor_total_produtos": 75.99,
+      "valor_frete": 11.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.62,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21193": {
+      "codigo": "21193",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR REAL MADRID - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21343": {
+      "codigo": "21343",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

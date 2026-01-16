@@ -1,0 +1,104 @@
+{
+  "codigo": "2696",
+  "nome": "FABÍOLA MONTEIRO",
+  "email": "even.fabiola@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(54) 98415-9193",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 196.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300561",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-23 12:11:36",
+      "data_hora_confirmacao": "2023-09-25 00:41:25",
+      "data_hora_confirmacao_pagamento": "2023-09-25 00:41:20",
+      "valor_total_produtos": 121,
+      "valor_frete": 26.78,
+      "frete": "PAC",
+      "valor_total_pedido": 147.78,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2301147",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-10-02 22:02:04",
+      "data_hora_confirmacao": "2023-10-03 11:22:43",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 49,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 49,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD08.21G": {
+      "codigo": "CD08.21G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Tommy (Arte Bordada em linha madeira e Emborrachada) - Cor: Branca - Marca: Tommy - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "CD02.13G2": {
+      "codigo": "CD02.13G2",
+      "titulo": "Camiseta Hurley 40.1 Ultra Premium  - Cor: Marrom - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD24.10GG - Lacoste": {
+      "codigo": "CD24.10GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.19GG - Calvin Klein": {
+      "codigo": "CD24.19GG - Calvin Klein",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Calvin Klein - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": 2
+    },
+    "CD24.20GG - Gucci": {
+      "codigo": "CD24.20GG - Gucci",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Gucci - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD08.7G": {
+      "codigo": "CD08.7G",
+      "titulo": "Camiseta Genuína Cotton Tanguis - Lacoste (DTF em Alta Definição) - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "codigo": "3813",
+  "nome": "LUIS FELIPE",
+  "email": "luisfelipegoldebico@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/10/2023",
+  "whatsapp": "(22) 98175-3485",
+  "cidade": "Silva Jardim",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 206.91,
+  "pedidos": [
+    {
+      "codigo_pedido": "2451",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-30 19:05:08",
+      "data_hora_confirmacao": "2023-10-31 13:47:43",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:47:53",
+      "valor_total_produtos": 170,
+      "valor_frete": 36.91,
+      "frete": "TOTAL EXPRESS",
+      "valor_total_pedido": 206.91,
+      "desconto": 0,
+      "cidade": "Silva Jardim",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.34M - NIKE": {
+      "codigo": "CD24.34M - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.34G - NIKE": {
+      "codigo": "CD24.34G - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Vermelha - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD24.34GG - NIKE": {
+      "codigo": "CD24.34GG - NIKE",
+      "titulo": "Cuecas Peruanas - NIKE  LT26.10 - Cor: Vermelha - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD24.35GG - HUGO BOSS": {
+      "codigo": "CD24.35GG - HUGO BOSS",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT26.10  - Cor: Vermelha - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.13M - Lacoste": {
+      "codigo": "CD24.13M - Lacoste",
+      "titulo": "Cuecas Peruanas CUECA - Cor: Azul - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.36GG - BROOKSFIELD": {
+      "codigo": "CD24.36GG - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Preto - Marca: Brooksfield - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "CD24.36G - BROOKSFIELD": {
+      "codigo": "CD24.36G - BROOKSFIELD",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  LT26.10   - Cor: Vermelha - Marca: Brooksfield - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "codigo": "17731",
+  "nome": "KESLEY WILLIAN OLIVEIRA XAVIER",
+  "email": "okesley16@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/11/2024",
+  "whatsapp": "(11) 93234-5417",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 112.73,
+  "pedidos": [
+    {
+      "codigo_pedido": "24975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-22 19:30:53",
+      "data_hora_confirmacao": "2024-11-22 19:32:13",
+      "data_hora_confirmacao_pagamento": "2024-11-22 19:32:13",
+      "valor_total_produtos": 99.9,
+      "valor_frete": 12.83,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.73,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "29677": {
+      "codigo": "29677",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "5"
+    },
+    "34051": {
+      "codigo": "34051",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "34054": {
+      "codigo": "34054",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "3"
+    }
+  }
+}

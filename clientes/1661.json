@@ -1,0 +1,53 @@
+{
+  "codigo": "1661",
+  "nome": "EDER LEONARDO OLIVEIRA E SILVA",
+  "email": "storedielos@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "23/08/2023",
+  "whatsapp": "(34) 9881-08990",
+  "cidade": "Uberaba",
+  "estado": "MG",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 155.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "11631",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 15:12:19",
+      "data_hora_confirmacao": "2024-05-13 16:52:03",
+      "data_hora_confirmacao_pagamento": "2024-05-13 16:51:56",
+      "valor_total_produtos": 134.97,
+      "valor_frete": 20.3,
+      "frete": "JADLOG",
+      "valor_total_pedido": 155.27,
+      "desconto": 0,
+      "cidade": "Uberaba",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18404": {
+      "codigo": "18404",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD12.03GG": {
+      "codigo": "CD12.03GG",
+      "titulo": "Polo Piquet Duplo Peruana - Hugo Boss  - Cor: OFFWHITE - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    }
+  }
+}

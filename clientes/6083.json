@@ -1,0 +1,112 @@
+{
+  "codigo": "6083",
+  "nome": "FRANK HERIK VALENTE SILVA",
+  "email": "ffherik@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/02/2024",
+  "whatsapp": "(98) 9810-07166",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 464.90000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "10034",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-13 11:55:03",
+      "data_hora_confirmacao": "2024-04-16 11:09:07",
+      "data_hora_confirmacao_pagamento": "2024-04-15 13:49:54",
+      "valor_total_produtos": 384.85,
+      "valor_frete": 51.06,
+      "frete": "PAC",
+      "valor_total_pedido": 435.91,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "10098",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-16 10:55:36",
+      "data_hora_confirmacao": "2024-04-16 11:08:36",
+      "data_hora_confirmacao_pagamento": "2024-04-16 11:08:32",
+      "valor_total_produtos": 28.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 28.99,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD4.9M": {
+      "codigo": "CD4.9M",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD4.9G": {
+      "codigo": "CD4.9G",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD4.9GG": {
+      "codigo": "CD4.9GG",
+      "titulo": "Bermuda SPANDEX Ultra - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD32.1M": {
+      "codigo": "CD32.1M",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Azul Royal - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD32.1G": {
+      "codigo": "CD32.1G",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Vinho - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD32.1GG": {
+      "codigo": "CD32.1GG",
+      "titulo": "Bermuda Microfibra Premium - HUGO BOSS  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.17GG": {
+      "codigo": "CD4.17GG",
+      "titulo": "Bermuda SPANDEX ULTRA - Cor: VERDE ESCURO - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "SPANDEX ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

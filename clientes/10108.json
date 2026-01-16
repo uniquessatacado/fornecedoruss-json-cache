@@ -1,0 +1,171 @@
+{
+  "codigo": "10108",
+  "nome": "MATHEUS HENRIQUE",
+  "email": "matheushentique3@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/05/2024",
+  "whatsapp": "(16) 99340-5258",
+  "cidade": "Franca",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 476.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "12973",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-02 12:53:15",
+      "data_hora_confirmacao": "2024-06-03 09:57:39",
+      "data_hora_confirmacao_pagamento": "2024-06-03 09:57:31",
+      "valor_total_produtos": 54.99,
+      "valor_frete": 10.01,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "22983",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-18 10:49:44",
+      "data_hora_confirmacao": "2024-10-18 11:37:51",
+      "data_hora_confirmacao_pagamento": "2024-10-18 11:37:45",
+      "valor_total_produtos": 141.96,
+      "valor_frete": 14.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 156.69,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31190",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-08-07 20:34:12",
+      "data_hora_confirmacao": "2025-08-07 20:36:30",
+      "data_hora_confirmacao_pagamento": "2025-08-07 20:36:30",
+      "valor_total_produtos": 236.52,
+      "valor_frete": 18.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 255.17,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31842": {
+      "codigo": "31842",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31873": {
+      "codigo": "31873",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32516": {
+      "codigo": "32516",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "32626": {
+      "codigo": "32626",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "50847": {
+      "codigo": "50847",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50853": {
+      "codigo": "50853",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50883": {
+      "codigo": "50883",
+      "titulo": "Bermuda Nike Microfibra Ultra - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51532": {
+      "codigo": "51532",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51556": {
+      "codigo": "51556",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "52857": {
+      "codigo": "52857",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT035) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "53007": {
+      "codigo": "53007",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT034) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "KT1.2G": {
+      "codigo": "KT1.2G",
+      "titulo": "Kit Camiseta + BERMUDA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

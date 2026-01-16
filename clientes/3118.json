@@ -1,0 +1,91 @@
+{
+  "codigo": "3118",
+  "nome": "LEILA PIETRA ALMEIDA OLIVEIRA",
+  "email": "leilapietraa@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/09/2023",
+  "whatsapp": "(44) 99760-8050",
+  "cidade": "Cascavel",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 289.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "3878",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-01 14:58:00",
+      "data_hora_confirmacao": "2023-12-02 12:18:26",
+      "data_hora_confirmacao_pagamento": "2023-12-02 12:18:35",
+      "valor_total_produtos": 62,
+      "valor_frete": 16.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 78.69,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "3924",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-02 13:35:54",
+      "data_hora_confirmacao": "2023-12-05 12:35:20",
+      "data_hora_confirmacao_pagamento": "2023-12-05 12:35:14",
+      "valor_total_produtos": 155,
+      "valor_frete": 21.32,
+      "frete": "JADLOG",
+      "valor_total_pedido": 176.32,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4123",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2023-12-06 14:49:27",
+      "data_hora_confirmacao": "2023-12-06 16:17:16",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 34,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 34,
+      "desconto": 0,
+      "cidade": "Cascavel",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.49": {
+      "codigo": "CD02.49",
+      "titulo": "Camiseta 40.1 Ultra Premium - HIGH  LT29.11 - Cor: Preto - Marca: High - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": 7
+    },
+    "CD24.47": {
+      "codigo": "CD24.47",
+      "titulo": "Cuecas Peruanas - HUGO BOSS  LT06.12 - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

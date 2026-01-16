@@ -1,0 +1,69 @@
+{
+  "codigo": "958",
+  "nome": "AURELIO COELHO MIRANDA",
+  "email": "aureliocoelho92@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "08/08/2023",
+  "whatsapp": "(63) 99219-0656",
+  "cidade": "Colinas do Tocantins",
+  "estado": "TO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 143.96,
+  "pedidos": [
+    {
+      "codigo_pedido": "17698",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-02 14:31:47",
+      "data_hora_confirmacao": "2024-08-02 18:16:20",
+      "data_hora_confirmacao_pagamento": "2024-08-02 18:16:14",
+      "valor_total_produtos": 111.96,
+      "valor_frete": 32,
+      "frete": "LOGGI",
+      "valor_total_pedido": 143.96,
+      "desconto": 0,
+      "cidade": "Colinas do Tocantins",
+      "estado": "TO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "22410": {
+      "codigo": "22410",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "25724": {
+      "codigo": "25724",
+      "titulo": "Bermuda Microfibra Ultra - NIKE com recorte - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26338": {
+      "codigo": "26338",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26378": {
+      "codigo": "26378",
+      "titulo": "Camiseta Drifit ULTRA DRY - ADIDAS - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

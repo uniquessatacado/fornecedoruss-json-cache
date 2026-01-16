@@ -1,0 +1,104 @@
+{
+  "codigo": "7710",
+  "nome": "ÉDSON DE OLIVEIRA",
+  "email": "dheferssonstresser@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/04/2024",
+  "whatsapp": "(41) 9977-63702",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 250.95,
+  "pedidos": [
+    {
+      "codigo_pedido": "9640",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-07 21:38:59",
+      "data_hora_confirmacao": "2024-04-08 10:32:58",
+      "data_hora_confirmacao_pagamento": "2024-04-08 10:32:53",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 13.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 85.86,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12073",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-19 12:53:01",
+      "data_hora_confirmacao": "2024-05-20 09:56:35",
+      "data_hora_confirmacao_pagamento": "2024-05-20 09:56:23",
+      "valor_total_produtos": 147.96,
+      "valor_frete": 17.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 165.09,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18406": {
+      "codigo": "18406",
+      "titulo": "Camiseta 40.1 Ultra Premium - HUGO BOSS  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "18625": {
+      "codigo": "18625",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18654": {
+      "codigo": "18654",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18657": {
+      "codigo": "18657",
+      "titulo": "Camiseta Suedine Nike Arte em Bodada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.10GG": {
+      "codigo": "CD4.10GG",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Vermelha - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD4.10M": {
+      "codigo": "CD4.10M",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  - Cor: Verde Água - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "codigo": "1428",
+  "nome": "RAMON SANTOS",
+  "email": "Zecamoreno456@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "20/08/2023",
+  "whatsapp": "(35) 98817-5581",
+  "cidade": "Caxambu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 396.28,
+  "pedidos": [
+    {
+      "codigo_pedido": "6365",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 19:58:46",
+      "data_hora_confirmacao": "2024-01-10 13:09:34",
+      "data_hora_confirmacao_pagamento": "2024-01-10 13:09:43",
+      "valor_total_produtos": 116.87,
+      "valor_frete": 25.41,
+      "frete": "PAC",
+      "valor_total_pedido": 142.28,
+      "desconto": 0,
+      "cidade": "Caxambu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7299",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-16 19:52:15",
+      "data_hora_confirmacao": "2024-02-17 13:01:01",
+      "data_hora_confirmacao_pagamento": "2024-02-17 13:00:50",
+      "valor_total_produtos": 96.97,
+      "valor_frete": 25.19,
+      "frete": "PAC",
+      "valor_total_pedido": 122.16,
+      "desconto": 0,
+      "cidade": "Caxambu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32247",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-10 12:27:44",
+      "data_hora_confirmacao": "2025-11-10 12:28:55",
+      "data_hora_confirmacao_pagamento": "2025-11-10 12:28:55",
+      "valor_total_produtos": 112.12,
+      "valor_frete": 19.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.84,
+      "desconto": 0,
+      "cidade": "Caxambu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55169": {
+      "codigo": "55169",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55187": {
+      "codigo": "55187",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55193": {
+      "codigo": "55193",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55205": {
+      "codigo": "55205",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55648": {
+      "codigo": "55648",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT060) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55660": {
+      "codigo": "55660",
+      "titulo": "Bermuda Microfibra Ultra Nike (LT060) - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.59": {
+      "codigo": "CD24.59",
+      "titulo": "Cuecas Peruanas - Diesel  - Cor: Azul Marinho - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": 2
+    },
+    "CD24.60": {
+      "codigo": "CD24.60",
+      "titulo": "Cuecas Peruanas - Hugo Boss - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    },
+    "CD24.56": {
+      "codigo": "CD24.56",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD24.57": {
+      "codigo": "CD24.57",
+      "titulo": "Cuecas Peruanas - Moschino - Cor: Cinza - Marca: Moschinno - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Moschino",
+      "quantidade": 3
+    },
+    "CD24.55": {
+      "codigo": "CD24.55",
+      "titulo": "Cuecas Peruanas - LACOSTE  - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD40.21": {
+      "codigo": "CD40.21",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  QUIKSILVER - Cor: Branca - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "CD02.94": {
+      "codigo": "CD02.94",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    }
+  }
+}

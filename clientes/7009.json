@@ -1,0 +1,53 @@
+{
+  "codigo": "7009",
+  "nome": "CLEBER MIGUEL GOMES DA CRUZ",
+  "email": "clebermiguel143@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/03/2024",
+  "whatsapp": "(17) 9815-92861",
+  "cidade": "Jaborandi",
+  "estado": "SP",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 56.9,
+  "pedidos": [
+    {
+      "codigo_pedido": "8614",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-17 12:20:35",
+      "data_hora_confirmacao": "2024-03-18 15:02:23",
+      "data_hora_confirmacao_pagamento": "2024-03-18 15:02:19",
+      "valor_total_produtos": 37.5,
+      "valor_frete": 19.4,
+      "frete": "SEDEX",
+      "valor_total_pedido": 56.9,
+      "desconto": 0,
+      "cidade": "Jaborandi",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD14.01M": {
+      "codigo": "CD14.01M",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.01GG": {
+      "codigo": "CD14.01GG",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Bege - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

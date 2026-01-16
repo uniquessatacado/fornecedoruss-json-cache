@@ -1,0 +1,190 @@
+{
+  "codigo": "10380",
+  "nome": "FABIANO MELA",
+  "email": "fabianomela@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/06/2024",
+  "whatsapp": "(11) 9608-72375",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 522.22,
+  "pedidos": [
+    {
+      "codigo_pedido": "13092",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 11:04:26",
+      "data_hora_confirmacao": "2024-06-06 12:10:12",
+      "data_hora_confirmacao_pagamento": "2024-06-06 12:10:05",
+      "valor_total_produtos": 103.98,
+      "valor_frete": 12.47,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 116.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21347",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-19 10:30:52",
+      "data_hora_confirmacao": "2024-09-23 10:40:52",
+      "data_hora_confirmacao_pagamento": "2024-09-23 10:39:53",
+      "valor_total_produtos": 79.98,
+      "valor_frete": 11.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 91.96,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26121",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-11 09:29:06",
+      "data_hora_confirmacao": "2024-12-11 09:40:13",
+      "data_hora_confirmacao_pagamento": "2024-12-11 09:40:13",
+      "valor_total_produtos": 60.98,
+      "valor_frete": 14.47,
+      "frete": "SEDEX",
+      "valor_total_pedido": 75.45,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32220",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-11-05 10:23:36",
+      "data_hora_confirmacao": "2025-11-05 11:10:07",
+      "data_hora_confirmacao_pagamento": "2025-11-05 11:10:07",
+      "valor_total_produtos": 222.79,
+      "valor_frete": 15.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 238.36,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19475": {
+      "codigo": "19475",
+      "titulo": "Camiseta Suedine Ultra NIKE arte bordada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "19642": {
+      "codigo": "19642",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR PALMEIRAS PRONTA ENTREGA) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30522": {
+      "codigo": "30522",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em DTF - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "30718": {
+      "codigo": "30718",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em DTF - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36631": {
+      "codigo": "36631",
+      "titulo": "Camiseta Peruana com Elastano   - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta peruana com elastano",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36932": {
+      "codigo": "36932",
+      "titulo": "camiseta fio 30.1 soft penteada  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta fio 3o.1 soft penteada",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51694": {
+      "codigo": "51694",
+      "titulo": " Camiseta 40.1 Ultra Premium LACOSTE (NLT001) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "54620": {
+      "codigo": "54620",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54719": {
+      "codigo": "54719",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54743": {
+      "codigo": "54743",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54767": {
+      "codigo": "54767",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: ROXO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54799": {
+      "codigo": "54799",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

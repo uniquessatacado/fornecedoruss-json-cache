@@ -1,0 +1,80 @@
+{
+  "codigo": "11436",
+  "nome": "PAULO HENRIQUE FELIX DE FREITAS",
+  "email": "paulohenriquefelixdefbr@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/06/2024",
+  "whatsapp": "(11) 98579-4610",
+  "cidade": "Santo André",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 172.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "17903",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-06 01:29:01",
+      "data_hora_confirmacao": "2024-08-06 11:19:44",
+      "data_hora_confirmacao_pagamento": "2024-08-06 11:19:35",
+      "valor_total_produtos": 62.99,
+      "valor_frete": 11.81,
+      "frete": "SEDEX",
+      "valor_total_pedido": 74.8,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27985",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-06 15:28:38",
+      "data_hora_confirmacao": "2025-02-06 15:30:08",
+      "data_hora_confirmacao_pagamento": "2025-02-06 15:30:08",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 14.8,
+      "frete": "SEDEX",
+      "valor_total_pedido": 98.14,
+      "desconto": 0,
+      "cidade": "Santo André",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21205": {
+      "codigo": "21205",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "40881": {
+      "codigo": "40881",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40895": {
+      "codigo": "40895",
+      "titulo": "Bermuda Microfibra Ultra (C249)  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

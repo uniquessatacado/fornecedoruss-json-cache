@@ -1,0 +1,85 @@
+{
+  "codigo": "10678",
+  "nome": "GUILHERME ALVES DOS SANTOS",
+  "email": "santoosgui291@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(38) 99175-7469",
+  "cidade": "Pirapora",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 118.98,
+  "pedidos": [
+    {
+      "codigo_pedido": "22768",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-14 02:28:52",
+      "data_hora_confirmacao": "2024-10-14 10:33:11",
+      "data_hora_confirmacao_pagamento": "2024-10-14 10:32:35",
+      "valor_total_produtos": 89.94,
+      "valor_frete": 29.04,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.98,
+      "desconto": 0,
+      "cidade": "Pirapora",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30567": {
+      "codigo": "30567",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "30592": {
+      "codigo": "30592",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "30598": {
+      "codigo": "30598",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "30616": {
+      "codigo": "30616",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "30641": {
+      "codigo": "30641",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "31263": {
+      "codigo": "31263",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LOUIS VUITTON  - Cor: PRETO VERMELHO VERDE - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    }
+  }
+}

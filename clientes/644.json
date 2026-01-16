@@ -1,0 +1,80 @@
+{
+  "codigo": "644",
+  "nome": "CARLOS EDUARDO BARROS DE ANDRADE",
+  "email": "dudubarroso10@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "02/08/2023",
+  "whatsapp": "(22) 99610-4471",
+  "cidade": "Arraial do Cabo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 565.34,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300160",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-18 21:13:10",
+      "data_hora_confirmacao": "2023-09-18 21:22:29",
+      "data_hora_confirmacao_pagamento": "2023-09-18 21:22:44",
+      "valor_total_produtos": 420,
+      "valor_frete": 61.92,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 481.92,
+      "desconto": 0,
+      "cidade": "Arraial do Cabo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300270",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-20 12:50:05",
+      "data_hora_confirmacao": "2023-09-20 12:55:51",
+      "data_hora_confirmacao_pagamento": "2023-09-26 13:11:18",
+      "valor_total_produtos": 40,
+      "valor_frete": 43.42,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 83.42,
+      "desconto": 0,
+      "cidade": "Arraial do Cabo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD29.1M": {
+      "codigo": "CD29.1M",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD29.1G": {
+      "codigo": "CD29.1G",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 7
+    },
+    "CD29.1GG": {
+      "codigo": "CD29.1GG",
+      "titulo": "Bermuda Microfibra premium - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA PREMIUM",
+      "marca": "NIKE",
+      "quantidade": 9
+    }
+  }
+}

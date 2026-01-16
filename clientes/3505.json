@@ -1,0 +1,45 @@
+{
+  "codigo": "3505",
+  "nome": "KARLA CRISTINE",
+  "email": "karlaflor611858@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "13/10/2023",
+  "whatsapp": "(18) 99621-5015",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 40,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301723",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-10-13 16:53:56",
+      "data_hora_confirmacao": "2023-10-13 16:55:37",
+      "data_hora_confirmacao_pagamento": "2023-10-14 09:36:19",
+      "valor_total_produtos": 40,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 40,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD26.6P": {
+      "codigo": "CD26.6P",
+      "titulo": "Camiseta Drifit Ultra - Nike  - Cor: Branca - Marca: Nike - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

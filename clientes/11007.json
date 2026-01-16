@@ -1,0 +1,80 @@
+{
+  "codigo": "11007",
+  "nome": "NICOLLE NARCIZO",
+  "email": "nicollenarcizo23@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/06/2024",
+  "whatsapp": "(48) 99159-7199",
+  "cidade": "São José",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 264.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "13832",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-15 18:18:46",
+      "data_hora_confirmacao": "2024-06-15 19:38:42",
+      "data_hora_confirmacao_pagamento": "2024-06-15 19:38:36",
+      "valor_total_produtos": 35.99,
+      "valor_frete": 14.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.87,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14506",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-25 14:15:01",
+      "data_hora_confirmacao": "2024-06-25 15:23:42",
+      "data_hora_confirmacao_pagamento": "2024-06-25 15:23:21",
+      "valor_total_produtos": 145.98,
+      "valor_frete": 17.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 213.22,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21126": {
+      "codigo": "21126",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21426": {
+      "codigo": "21426",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - CORINTHIANS  - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DO CORINTHIANS NACIONAL PREMIUM",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21962": {
+      "codigo": "21962",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: G2 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

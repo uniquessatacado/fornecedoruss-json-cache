@@ -1,0 +1,104 @@
+{
+  "codigo": "2677",
+  "nome": "ESTEVÃO SIQUEIRA",
+  "email": "estevaosiqueira94@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/09/2023",
+  "whatsapp": "(32) 98469-8959",
+  "cidade": "Ervália",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 299.18,
+  "pedidos": [
+    {
+      "codigo_pedido": "2409",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-28 12:22:28",
+      "data_hora_confirmacao": "2023-10-31 13:54:51",
+      "data_hora_confirmacao_pagamento": "2023-10-31 13:55:01",
+      "valor_total_produtos": 118.9,
+      "valor_frete": 18.59,
+      "frete": "LOGGI",
+      "valor_total_pedido": 137.49,
+      "desconto": 0,
+      "cidade": "Ervália",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2929",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-09 07:06:20",
+      "data_hora_confirmacao": "2023-11-09 12:17:36",
+      "data_hora_confirmacao_pagamento": "2023-11-09 12:17:48",
+      "valor_total_produtos": 138.8,
+      "valor_frete": 22.89,
+      "frete": "LOGGI",
+      "valor_total_pedido": 161.69,
+      "desconto": 0,
+      "cidade": "Ervália",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.37M": {
+      "codigo": "CD17.37M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10  - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.38M": {
+      "codigo": "CD17.38M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT26.10   - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.39": {
+      "codigo": "CD08.39",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD08.34P": {
+      "codigo": "CD08.34P",
+      "titulo": "Camiseta Genuína Cotton Tanguis -  DOLCE GABBANA  LT28.10 - Cor: Preto - Marca: Dolce Gabbana - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "CD08.40": {
+      "codigo": "CD08.40",
+      "titulo": "Camiseta Genuína Cotton Tanguis - HUGO BOSS  LT28.10  - Cor: Bege - Marca: Hugo Boss - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD17.43": {
+      "codigo": "CD17.43",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT08.11   - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

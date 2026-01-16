@@ -1,0 +1,72 @@
+{
+  "codigo": "3152",
+  "nome": "ANDERSON RODRIGUES DA COSTA FILHO",
+  "email": "andersonfilho6346@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/10/2023",
+  "whatsapp": "(38) 9914-60118",
+  "cidade": "Paracatu",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 158.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301321",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-05 15:24:35",
+      "data_hora_confirmacao": "2023-10-05 16:30:28",
+      "data_hora_confirmacao_pagamento": "2023-10-05 16:30:36",
+      "valor_total_produtos": 30,
+      "valor_frete": 15.29,
+      "frete": "JADLOG",
+      "valor_total_pedido": 45.29,
+      "desconto": 0,
+      "cidade": "Paracatu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "25534",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-02 21:48:55",
+      "data_hora_confirmacao": "2024-12-02 21:51:38",
+      "data_hora_confirmacao_pagamento": "2024-12-02 21:51:38",
+      "valor_total_produtos": 65.99,
+      "valor_frete": 16.85,
+      "frete": "LOGGI",
+      "valor_total_pedido": 112.74,
+      "desconto": 0,
+      "cidade": "Paracatu",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21204": {
+      "codigo": "21204",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.6G": {
+      "codigo": "CD01.6G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Barcelona - Tamanho: G - Times : Barcelona",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "4832",
+  "nome": "JEAN VITOR",
+  "email": "biaahszz1809@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(11) 9165-21194",
+  "cidade": "Itu",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 88.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "5660",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 18:24:10",
+      "data_hora_confirmacao": "2023-12-23 12:31:45",
+      "data_hora_confirmacao_pagamento": "2024-01-12 14:23:43",
+      "valor_total_produtos": 88.49,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 88.49,
+      "desconto": 0,
+      "cidade": "Itu",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD2.81": {
+      "codigo": "CD2.81",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: OffWhite - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.22": {
+      "codigo": "CD67.22",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - QUIKSILVER   LT18.12  - Cor: Preto com Vermelho - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

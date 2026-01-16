@@ -1,0 +1,53 @@
+{
+  "codigo": "4824",
+  "nome": "DIEGO ABN",
+  "email": "",
+  "sexo": "0",
+  "data_cadastro": "19/12/2023",
+  "whatsapp": "(19) 98762-8968",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 600,
+  "pedidos": [
+    {
+      "codigo_pedido": "5054",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-19 11:24:38",
+      "data_hora_confirmacao": "2023-12-19 11:24:38",
+      "data_hora_confirmacao_pagamento": "2023-12-19 11:24:38",
+      "valor_total_produtos": 600,
+      "valor_frete": 0,
+      "frete": "",
+      "valor_total_pedido": 600,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "PDV",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "PA18": {
+      "codigo": "PA18",
+      "titulo": "CORRENTE DE PRATA ESCAMA  5MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    },
+    "PA04": {
+      "codigo": "PA04",
+      "titulo": "PULSEIRA DE PRATA ESCAMA  5MM  ",
+      "categoria_principal": "PRATAS",
+      "categoria": "Pratas Masculinas",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "2"
+    }
+  }
+}

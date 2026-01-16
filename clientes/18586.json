@@ -1,0 +1,77 @@
+{
+  "codigo": "18586",
+  "nome": "LUCAS HENRIQUE SILVESTRE CAMPOS",
+  "email": "lucas_hsco@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/12/2024",
+  "whatsapp": "(19) 99488-8919",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 206.21,
+  "pedidos": [
+    {
+      "codigo_pedido": "27017",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-12-21 12:53:47",
+      "data_hora_confirmacao": "2024-12-21 12:55:38",
+      "data_hora_confirmacao_pagamento": "2024-12-21 12:55:38",
+      "valor_total_produtos": 206.21,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 206.21,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37145": {
+      "codigo": "37145",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C02) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37269": {
+      "codigo": "37269",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C09) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37444": {
+      "codigo": "37444",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C13) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37714": {
+      "codigo": "37714",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C19) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "38647": {
+      "codigo": "38647",
+      "titulo": "Bermuda Microfibra Hiper (C138) - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

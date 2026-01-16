@@ -1,0 +1,53 @@
+{
+  "codigo": "3045",
+  "nome": "RAQUEL FURTADO",
+  "email": "raquellffurtado@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/09/2023",
+  "whatsapp": "(62) 99124-5086",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 60.47,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300928",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-29 09:36:33",
+      "data_hora_confirmacao": "2023-09-29 16:10:10",
+      "data_hora_confirmacao_pagamento": "2023-09-29 16:10:03",
+      "valor_total_produtos": 38.5,
+      "valor_frete": 21.97,
+      "frete": "JADLOG .Com",
+      "valor_total_pedido": 60.47,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.25M": {
+      "codigo": "CD02.25M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hang Loose - Cor: Bege - Marca: Hang Loose - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HANG LOOSE",
+      "quantidade": "1"
+    },
+    "CD24.21G - Boss": {
+      "codigo": "CD24.21G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Azul Marinho - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

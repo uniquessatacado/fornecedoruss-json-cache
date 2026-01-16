@@ -1,0 +1,53 @@
+{
+  "codigo": "18189",
+  "nome": "GUILHERME FRANCISCHETTI DA SILVA",
+  "email": "guicpx2@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "08/12/2024",
+  "whatsapp": "(54) 9991-94517",
+  "cidade": "Caxias do Sul",
+  "estado": "RS",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 147.59,
+  "pedidos": [
+    {
+      "codigo_pedido": "28573",
+      "situacao_pedido": "PEDIDO NA ALFÂNDEGA, AGUARDANDO LIBERAÇÃO ATRASADO ( MOTIVO: GREVE )",
+      "data_hora_pedido": "2025-03-06 22:02:02",
+      "data_hora_confirmacao": "2025-03-06 22:02:02",
+      "data_hora_confirmacao_pagamento": "2025-03-06 22:02:02",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 15.61,
+      "frete": "LOGGI",
+      "valor_total_pedido": 147.59,
+      "desconto": 0,
+      "cidade": "Caxias do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20956": {
+      "codigo": "20956",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21050": {
+      "codigo": "21050",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR GREMIO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

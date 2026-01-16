@@ -1,0 +1,45 @@
+{
+  "codigo": "2912",
+  "nome": "IVAN ALVES FERREIRA",
+  "email": "ivanalvesferreira5@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "26/09/2023",
+  "whatsapp": "(11) 93500-1430",
+  "cidade": "Itaquaquecetuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 50.75,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300776",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-26 18:17:38",
+      "data_hora_confirmacao": "2023-09-26 22:47:54",
+      "data_hora_confirmacao_pagamento": "2023-09-26 22:48:03",
+      "valor_total_produtos": 39,
+      "valor_frete": 11.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 50.75,
+      "desconto": 0,
+      "cidade": "Itaquaquecetuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD07.10G": {
+      "codigo": "CD07.10G",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Gucci - Cor: OffWhite - Marca: Gucci - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

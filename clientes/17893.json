@@ -1,0 +1,53 @@
+{
+  "codigo": "17893",
+  "nome": "ISMAEL SILVA MONTEIRO",
+  "email": "ismael.silva.monteiro11@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/11/2024",
+  "whatsapp": "(83) 99403-0730",
+  "cidade": "Campina Grande",
+  "estado": "PB",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 100.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "25252",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-28 19:28:35",
+      "data_hora_confirmacao": "2024-11-28 19:30:17",
+      "data_hora_confirmacao_pagamento": "2024-11-28 19:30:17",
+      "valor_total_produtos": 80.98,
+      "valor_frete": 19.82,
+      "frete": "LOGGI",
+      "valor_total_pedido": 100.8,
+      "desconto": 0,
+      "cidade": "Campina Grande",
+      "estado": "PB",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35612": {
+      "codigo": "35612",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35701": {
+      "codigo": "35701",
+      "titulo": "Camiseta Malha Egípcia SOFT - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "codigo": "4896",
+  "nome": "THIAGO ARAUJO CORDEIRO",
+  "email": "thiacord22@live.com",
+  "sexo": "0",
+  "data_cadastro": "20/12/2023",
+  "whatsapp": "(21) 96467-6205",
+  "cidade": "Rio Bonito",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 343.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "9680",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-08 15:00:02",
+      "data_hora_confirmacao": "2024-04-08 16:12:49",
+      "data_hora_confirmacao_pagamento": "2024-04-08 16:12:41",
+      "valor_total_produtos": 278.64,
+      "valor_frete": 33.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 312.42,
+      "desconto": 0,
+      "cidade": "Rio Bonito",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9810",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-04-10 12:54:54",
+      "data_hora_confirmacao": "2024-04-10 12:54:54",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Rio Bonito",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.09M": {
+      "codigo": "CD39.09M",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.11G": {
+      "codigo": "CD39.11G",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  (ARTE EM DTF)  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD02.139G": {
+      "codigo": "CD02.139G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: BRANCA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.139GG": {
+      "codigo": "CD02.139GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: PRETA - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.140G": {
+      "codigo": "CD02.140G",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE  - Cor: PRETA - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD43.22 - MD 7": {
+      "codigo": "CD43.22 - MD 7",
+      "titulo": "Boné Super Premium - HIGH - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "CD43.29": {
+      "codigo": "CD43.29",
+      "titulo": "Boné Super Premium - NIKE  - Cor: OffWhite",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.141M": {
+      "codigo": "CD02.141M",
+      "titulo": "Camiseta 40.1 Ultra Premium - LACOSTE - Cor: OFFWHITE - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    }
+  }
+}

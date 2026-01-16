@@ -1,0 +1,85 @@
+{
+  "codigo": "18001",
+  "nome": "PAMELA GOMES CANDEIA",
+  "email": "Candeiapamela0@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "01/12/2024",
+  "whatsapp": "(31) 98411-0558",
+  "cidade": "Lagoa Santa",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 246.62,
+  "pedidos": [
+    {
+      "codigo_pedido": "25491",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-01 17:31:53",
+      "data_hora_confirmacao": "2024-12-01 17:37:27",
+      "data_hora_confirmacao_pagamento": "2024-12-01 17:37:27",
+      "valor_total_produtos": 224.94,
+      "valor_frete": 21.68,
+      "frete": "LOGGI",
+      "valor_total_pedido": 246.62,
+      "desconto": 0,
+      "cidade": "Lagoa Santa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "34157": {
+      "codigo": "34157",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE Arte em BORDADO MADEIRA - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35266": {
+      "codigo": "35266",
+      "titulo": "Camiseta Suedine ultra - Arte em DTF  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35332": {
+      "codigo": "35332",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35338": {
+      "codigo": "35338",
+      "titulo": "Bermuda Microfibra Ultra   - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35490": {
+      "codigo": "35490",
+      "titulo": "Camiseta fio 40.1 SILK 100% algodão - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SILK 100% ALGODÃO ",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "35633": {
+      "codigo": "35633",
+      "titulo": "Camiseta fio 40.1 Sof com Elastano - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA FIO 40.1 SOFT COM ELASTANO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

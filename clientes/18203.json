@@ -1,0 +1,77 @@
+{
+  "codigo": "18203",
+  "nome": "WALKER JOLBERTH TEIXEIRA LIMA",
+  "email": "wjolberth@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/12/2024",
+  "whatsapp": "(98) 98122-5471",
+  "cidade": "São Luís",
+  "estado": "MA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 287.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "25999",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-08 16:55:39",
+      "data_hora_confirmacao": "2024-12-08 17:04:38",
+      "data_hora_confirmacao_pagamento": "2024-12-08 17:04:38",
+      "valor_total_produtos": 229.95,
+      "valor_frete": 57.92,
+      "frete": "PAC",
+      "valor_total_pedido": 287.87,
+      "desconto": 0,
+      "cidade": "São Luís",
+      "estado": "MA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "30101": {
+      "codigo": "30101",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35924": {
+      "codigo": "35924",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "35950": {
+      "codigo": "35950",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO MARINHO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "36482": {
+      "codigo": "36482",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "36485": {
+      "codigo": "36485",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

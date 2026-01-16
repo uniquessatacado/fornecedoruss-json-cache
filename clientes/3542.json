@@ -1,0 +1,139 @@
+{
+  "codigo": "3542",
+  "nome": "CARLOS ALBERTO DA SILVA",
+  "email": "kuryimoveis@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/10/2023",
+  "whatsapp": "(12) 98168-6297",
+  "cidade": "São José dos Campos",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 360.28999999999996,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301805",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-17 11:29:43",
+      "data_hora_confirmacao": "2023-10-17 14:17:25",
+      "data_hora_confirmacao_pagamento": "2023-10-17 14:17:34",
+      "valor_total_produtos": 99,
+      "valor_frete": 10.25,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.25,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "4627",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-13 09:15:15",
+      "data_hora_confirmacao": "2023-12-14 00:26:55",
+      "data_hora_confirmacao_pagamento": "2023-12-14 00:27:11",
+      "valor_total_produtos": 110,
+      "valor_frete": 12.14,
+      "frete": "SEDEX",
+      "valor_total_pedido": 122.14,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11637",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 15:25:57",
+      "data_hora_confirmacao": "2024-05-11 09:27:18",
+      "data_hora_confirmacao_pagamento": "2024-05-11 09:27:14",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 20.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 128.9,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18376": {
+      "codigo": "18376",
+      "titulo": "Bermuda Microfibra Ultra -ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18379": {
+      "codigo": "18379",
+      "titulo": "Bermuda Microfibra Ultra -ADIDAS - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18382": {
+      "codigo": "18382",
+      "titulo": "Bermuda Microfibra Ultra -ADIDAS - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD17.27G": {
+      "codigo": "CD17.27G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.31G": {
+      "codigo": "CD17.31G",
+      "titulo": "Bermuda Microfibra Ultra - Nike - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD12.10": {
+      "codigo": "CD12.10",
+      "titulo": "Polo Piquet  - LACOSTE  LT11.12   - Cor: Preto - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD02.58": {
+      "codigo": "CD02.58",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER  LT07.12  - Cor: Bege - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD67.16": {
+      "codigo": "CD67.16",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Azul - Tamanho: 44",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

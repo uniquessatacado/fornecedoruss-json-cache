@@ -1,0 +1,72 @@
+{
+  "codigo": "4368",
+  "nome": "DANIEL PRADO",
+  "email": "danielprado72@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "29/11/2023",
+  "whatsapp": "(11) 94533-1399",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 131.23,
+  "pedidos": [
+    {
+      "codigo_pedido": "4526",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-12 17:43:07",
+      "data_hora_confirmacao": "2023-12-12 22:56:19",
+      "data_hora_confirmacao_pagamento": "2023-12-12 22:56:28",
+      "valor_total_produtos": 37.5,
+      "valor_frete": 9.6,
+      "frete": "SEDEX",
+      "valor_total_pedido": 47.1,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "5842",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-24 19:04:34",
+      "data_hora_confirmacao": "2023-12-26 11:47:41",
+      "data_hora_confirmacao_pagamento": "2023-12-26 11:47:53",
+      "valor_total_produtos": 74.25,
+      "valor_frete": 9.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 84.13,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 50,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.69": {
+      "codigo": "CD01.69",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - ALEMANHA  LT27.10    - Tamanho: GG - Times : Alemanha",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD07.29P": {
+      "codigo": "CD07.29P",
+      "titulo": "Camiseta Coleção Genuína 100% Soft - Dior - Cor: Preto - Marca: Dior - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Genuína Cotton 100% Soft",
+      "marca": "Dior",
+      "quantidade": "1"
+    }
+  }
+}

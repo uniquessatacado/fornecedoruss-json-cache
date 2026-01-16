@@ -1,0 +1,88 @@
+{
+  "codigo": "5795",
+  "nome": "RODRIGO CONCEIÇÃO DA SILVA",
+  "email": "rodrigo-cfn@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/01/2024",
+  "whatsapp": "(21) 96744-4770",
+  "cidade": "Maricá",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 236.51000000000002,
+  "pedidos": [
+    {
+      "codigo_pedido": "6877",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-26 19:13:48",
+      "data_hora_confirmacao": "2024-01-27 09:31:33",
+      "data_hora_confirmacao_pagamento": "2024-01-27 09:32:40",
+      "valor_total_produtos": 185.94,
+      "valor_frete": 19.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 205.52,
+      "desconto": 0,
+      "cidade": "Maricá",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7004",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-30 15:20:20",
+      "data_hora_confirmacao": "2024-01-30 15:35:00",
+      "data_hora_confirmacao_pagamento": "2024-01-30 15:35:10",
+      "valor_total_produtos": 30.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 30.99,
+      "desconto": 0,
+      "cidade": "Maricá",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.89": {
+      "codigo": "CD02.89",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Cinza - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD02.87": {
+      "codigo": "CD02.87",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Vermelha - Marca: Hurley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": 2
+    },
+    "CD02.90": {
+      "codigo": "CD02.90",
+      "titulo": "Camiseta 40.1 Ultra Premium - NIKE - Cor: Azul - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.91": {
+      "codigo": "CD02.91",
+      "titulo": "Camiseta 40.1 Ultra Premium - HURLEY - Cor: Preto - Marca: Hurley - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    }
+  }
+}

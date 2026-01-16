@@ -1,0 +1,53 @@
+{
+  "codigo": "19411",
+  "nome": "VITOR HUGO",
+  "email": "vh.rosa2001@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/02/2025",
+  "whatsapp": "(17) 99662-3031",
+  "cidade": "São José do Rio Preto",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 109.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "28376",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-26 13:52:10",
+      "data_hora_confirmacao": "2025-02-26 13:57:56",
+      "data_hora_confirmacao_pagamento": "2025-02-26 13:57:56",
+      "valor_total_produtos": 83.34,
+      "valor_frete": 25.75,
+      "frete": "SEDEX",
+      "valor_total_pedido": 109.09,
+      "desconto": 0,
+      "cidade": "São José do Rio Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "42245": {
+      "codigo": "42245",
+      "titulo": "Bermuda Microfibra Ultra (C614) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42293": {
+      "codigo": "42293",
+      "titulo": "Bermuda Microfibra Ultra (C614)  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

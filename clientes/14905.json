@@ -1,0 +1,61 @@
+{
+  "codigo": "14905",
+  "nome": "MAURO SERGIO BARBOSA DE OLIVEIRA",
+  "email": "m.oliveira97@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "30/08/2024",
+  "whatsapp": "(21) 96451-8278",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 132.43,
+  "pedidos": [
+    {
+      "codigo_pedido": "20002",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-30 22:14:21",
+      "data_hora_confirmacao": "2024-08-31 09:32:10",
+      "data_hora_confirmacao_pagamento": "2024-08-31 09:32:02",
+      "valor_total_produtos": 115.97,
+      "valor_frete": 16.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 132.43,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "28883": {
+      "codigo": "28883",
+      "titulo": "Camiseta Algodão Soft Americano - NIKE arte em pelúcia  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28955": {
+      "codigo": "28955",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29294": {
+      "codigo": "29294",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

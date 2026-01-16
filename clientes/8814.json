@@ -1,0 +1,88 @@
+{
+  "codigo": "8814",
+  "nome": "BRUNO HENRIQUE BARBOSA SANTOS",
+  "email": "brunohenrrique100@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "29/04/2024",
+  "whatsapp": "(11) 9801-76692",
+  "cidade": "Jandira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 241.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "11009",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-29 21:51:17",
+      "data_hora_confirmacao": "2024-04-30 12:13:07",
+      "data_hora_confirmacao_pagamento": "2024-04-30 12:12:58",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 12.87,
+      "frete": "LOGGI",
+      "valor_total_pedido": 117.84,
+      "desconto": 0,
+      "cidade": "Jandira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18414",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-12 11:03:56",
+      "data_hora_confirmacao": "2024-08-12 11:44:52",
+      "data_hora_confirmacao_pagamento": "2024-08-12 11:44:45",
+      "valor_total_produtos": 109.98,
+      "valor_frete": 13.42,
+      "frete": "LOGGI",
+      "valor_total_pedido": 123.4,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26606": {
+      "codigo": "26606",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "26608": {
+      "codigo": "26608",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD70.1G": {
+      "codigo": "CD70.1G",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD70.1M": {
+      "codigo": "CD70.1M",
+      "titulo": "Bermuda Microfibra Master - JORDAN  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA Bermuda Microfibra Master",
+      "marca": "NIKE",
+      "quantidade": 2
+    }
+  }
+}

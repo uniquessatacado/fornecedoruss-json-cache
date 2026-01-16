@@ -1,0 +1,53 @@
+{
+  "codigo": "19353",
+  "nome": "ALEXANDRE COELHO FERREIRA",
+  "email": "ale_rabbit@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/02/2025",
+  "whatsapp": "(19) 99301-4082",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 101.67,
+  "pedidos": [
+    {
+      "codigo_pedido": "30059",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2025-05-30 12:13:46",
+      "data_hora_confirmacao": "2025-05-30 12:16:07",
+      "data_hora_confirmacao_pagamento": "2025-05-30 12:16:07",
+      "valor_total_produtos": 91.67,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 101.67,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47682": {
+      "codigo": "47682",
+      "titulo": "Camiseta 40.1 DIESEL  | Conforto Essencial LT51A (C899) - Cor: OFFWHITE - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "47955": {
+      "codigo": "47955",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel | Fino acabamento e leveza LT44A (C931) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    }
+  }
+}

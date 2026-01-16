@@ -1,0 +1,80 @@
+{
+  "codigo": "1975",
+  "nome": "ANDERSON RIBEIRO",
+  "email": "andtime071@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "31/08/2023",
+  "whatsapp": "(11) 9746-53704",
+  "cidade": "Taboão da Serra",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 204.51999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "7119",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-03 16:58:04",
+      "data_hora_confirmacao": "2024-02-07 12:44:52",
+      "data_hora_confirmacao_pagamento": "2024-02-07 12:44:44",
+      "valor_total_produtos": 55,
+      "valor_frete": 9.67,
+      "frete": "SEDEX",
+      "valor_total_pedido": 64.67,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "15011",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-03 03:27:29",
+      "data_hora_confirmacao": "2024-07-03 09:27:48",
+      "data_hora_confirmacao_pagamento": "2024-07-03 09:27:32",
+      "valor_total_produtos": 125.98,
+      "valor_frete": 13.87,
+      "frete": "LOGGI",
+      "valor_total_pedido": 139.85,
+      "desconto": 0,
+      "cidade": "Taboão da Serra",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20668": {
+      "codigo": "20668",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS -( envio direto da fabrica ) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21176": {
+      "codigo": "21176",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR REAL MADRID - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD16.29G": {
+      "codigo": "CD16.29G",
+      "titulo": "Camisetas de Time Tailandesas - Gremio - Tamanho: G - Times : Gremio",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "codigo": "14542",
+  "nome": "BRENO MACHADO",
+  "email": "breno.skt.1@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/08/2024",
+  "whatsapp": "(75) 98280-8600",
+  "cidade": "São Gonçalo dos Campos",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 140.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "19810",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-28 13:22:41",
+      "data_hora_confirmacao": "2024-09-02 16:27:41",
+      "data_hora_confirmacao_pagamento": "2024-08-30 12:46:14",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 22.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 140.42,
+      "desconto": 0,
+      "cidade": "São Gonçalo dos Campos",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21393": {
+      "codigo": "21393",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "codigo": "16580",
+  "nome": "VITOR EDUARDO RIBEIRO BORGES",
+  "email": "vitorborgesb89@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/10/2024",
+  "whatsapp": "(54) 99921-4825",
+  "cidade": "Indaial",
+  "estado": "SC",
+  "loja_drop": "2",
+  "representante": "2",
+  "total_pedidos": 2,
+  "valor_total_comprado": 234.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "22883",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-16 07:35:05",
+      "data_hora_confirmacao": "2024-10-16 10:36:55",
+      "data_hora_confirmacao_pagamento": "2024-10-16 10:35:50",
+      "valor_total_produtos": 49.98,
+      "valor_frete": 21.1,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.08,
+      "desconto": 0,
+      "cidade": "São Valentim do Sul",
+      "estado": "RS",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28602",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-03-08 11:30:52",
+      "data_hora_confirmacao": "2025-03-08 11:32:10",
+      "data_hora_confirmacao_pagamento": "2025-03-08 11:32:10",
+      "valor_total_produtos": 144.99,
+      "valor_frete": 18.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.79,
+      "desconto": 0,
+      "cidade": "Indaial",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31825": {
+      "codigo": "31825",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "31864": {
+      "codigo": "31864",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38504": {
+      "codigo": "38504",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "40040": {
+      "codigo": "40040",
+      "titulo": "Camiseta Suedine ultra -(C222) ARTE BORDADA LT4A - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "41033": {
+      "codigo": "41033",
+      "titulo": "Camiseta Suedine ultra -(C243) ARTE BORDADA LT3A   - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "codigo": "7840",
+  "nome": "LUIZ ANTÔNIO DA SILVA NETO",
+  "email": "luizinhoat155@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/04/2024",
+  "whatsapp": "(87) 98160-6647",
+  "cidade": "Petrolina",
+  "estado": "PE",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 283.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "9775",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-09 19:40:06",
+      "data_hora_confirmacao": "2024-04-10 09:28:45",
+      "data_hora_confirmacao_pagamento": "2024-04-10 09:28:38",
+      "valor_total_produtos": 254.94,
+      "valor_frete": 28.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 283.46,
+      "desconto": 0,
+      "cidade": "Petrolina",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD22.2G": {
+      "codigo": "CD22.2G",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.129G": {
+      "codigo": "CD02.129G",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Preto - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD12.4M": {
+      "codigo": "CD12.4M",
+      "titulo": "Polo Piquet Duplo - HUGO BOSS   - Cor: OffWhite - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "Hugo Boss",
+      "quantidade": 2
+    },
+    "CD25.02G": {
+      "codigo": "CD25.02G",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ARMANI - Cor: KIT - PRETA - AZUL BB- MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "16074",
+  "nome": "ANDERSON CASTRO",
+  "email": "andersonglicerio@me.com",
+  "sexo": "0",
+  "data_cadastro": "28/09/2024",
+  "whatsapp": "(32) 99924-2141",
+  "cidade": "Barbacena",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 64.09,
+  "pedidos": [
+    {
+      "codigo_pedido": "26631",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 23:23:41",
+      "data_hora_confirmacao": "2024-12-16 23:30:09",
+      "data_hora_confirmacao_pagamento": "2024-12-16 23:30:09",
+      "valor_total_produtos": 45.98,
+      "valor_frete": 18.11,
+      "frete": "LOGGI",
+      "valor_total_pedido": 64.09,
+      "desconto": 0,
+      "cidade": "Barbacena",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "37144": {
+      "codigo": "37144",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C02) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37149": {
+      "codigo": "37149",
+      "titulo": "Camiseta Drifit ULTRA DRY - (C02) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "codigo": "17842",
+  "nome": "LUCAS AVANCINI LIMA",
+  "email": "lucaslimaavancni132@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "27/11/2024",
+  "whatsapp": "(27) 9960-95250",
+  "cidade": "Colatina",
+  "estado": "ES",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 92.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "25609",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 18:01:34",
+      "data_hora_confirmacao": "2024-12-03 18:10:16",
+      "data_hora_confirmacao_pagamento": "2024-12-03 18:10:16",
+      "valor_total_produtos": 72.98,
+      "valor_frete": 19.6,
+      "frete": "LOGGI",
+      "valor_total_pedido": 92.58,
+      "desconto": 0,
+      "cidade": "Colatina",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "35381": {
+      "codigo": "35381",
+      "titulo": "Bermuda Microfibra Ultra  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD6.01G": {
+      "codigo": "CD6.01G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FAIXA LATERAL - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

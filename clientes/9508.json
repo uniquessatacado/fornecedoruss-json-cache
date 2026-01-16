@@ -1,0 +1,104 @@
+{
+  "codigo": "9508",
+  "nome": "SANDRO DE AGUIAR",
+  "email": "sandroaguiar31@yahoo.com",
+  "sexo": "0",
+  "data_cadastro": "17/05/2024",
+  "whatsapp": "(73) 98802-5571",
+  "cidade": "Bauru",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 204.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "11975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-17 15:53:13",
+      "data_hora_confirmacao": "2024-05-17 17:29:54",
+      "data_hora_confirmacao_pagamento": "2024-05-17 17:28:23",
+      "valor_total_produtos": 65.97,
+      "valor_frete": 13.27,
+      "frete": "LOGGI",
+      "valor_total_pedido": 79.24,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "14493",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-25 09:53:23",
+      "data_hora_confirmacao": "2024-06-25 16:07:29",
+      "data_hora_confirmacao_pagamento": "2024-06-25 16:07:23",
+      "valor_total_produtos": 108.97,
+      "valor_frete": 16.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 125.7,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18241": {
+      "codigo": "18241",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: BRANCA - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18242": {
+      "codigo": "18242",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: PRETA - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "18247": {
+      "codigo": "18247",
+      "titulo": "CAMISETA DRIFIT ULTRA ULTRA DRY - ADIDAS - Cor: BEGE - Marca: Adidas - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "21520": {
+      "codigo": "21520",
+      "titulo": "Camiseta Suedine Ultra - NIKE arte em bordado  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "22224": {
+      "codigo": "22224",
+      "titulo": "Camiseta Suedine Ultra NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.129GG": {
+      "codigo": "CD02.129GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER - Cor: Marrom - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
+}

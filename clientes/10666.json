@@ -1,0 +1,72 @@
+{
+  "codigo": "10666",
+  "nome": "LUIZ EDUARDO CARVALHO LEMOS SILVA",
+  "email": "edduu1473@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "07/06/2024",
+  "whatsapp": "(11) 95849-9280",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 130.85999999999999,
+  "pedidos": [
+    {
+      "codigo_pedido": "14540",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-26 11:30:09",
+      "data_hora_confirmacao": "2024-06-26 13:23:51",
+      "data_hora_confirmacao_pagamento": "2024-06-26 13:23:42",
+      "valor_total_produtos": 24.99,
+      "valor_frete": 12.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 37.87,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "19786",
+      "situacao_pedido": "PEDIDO ENVIADO DA FÁBRICA PARA NOSSO ESTOQUE ",
+      "data_hora_pedido": "2024-08-28 04:03:07",
+      "data_hora_confirmacao": "2024-08-28 04:03:07",
+      "data_hora_confirmacao_pagamento": "2024-08-31 11:00:46",
+      "valor_total_produtos": 92.99,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 92.99,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21069": {
+      "codigo": "21069",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY - (envio direto da fabrica) - Tamanho: G3 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "22794": {
+      "codigo": "22794",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

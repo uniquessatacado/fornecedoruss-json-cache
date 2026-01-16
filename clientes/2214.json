@@ -1,0 +1,339 @@
+{
+  "codigo": "2214",
+  "nome": "MEIRE MARTINS",
+  "email": "meire.manuella2015@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/09/2023",
+  "whatsapp": "(19) 98170-8804",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 1100.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300105",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-09-16 18:31:12",
+      "data_hora_confirmacao": "2023-09-19 10:45:29",
+      "data_hora_confirmacao_pagamento": "2023-09-19 10:45:12",
+      "valor_total_produtos": 574,
+      "valor_frete": 10,
+      "frete": "MOTO BOY",
+      "valor_total_pedido": 584,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21597",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2024-09-23 11:20:13",
+      "data_hora_confirmacao": "2024-09-23 12:37:22",
+      "data_hora_confirmacao_pagamento": "2024-09-23 12:37:14",
+      "valor_total_produtos": 229.89,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 239.89,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27000",
+      "situacao_pedido": "PEDIDO ENVIADO PELO MOTOBOY",
+      "data_hora_pedido": "2024-12-21 11:19:00",
+      "data_hora_confirmacao": "2024-12-21 11:20:31",
+      "data_hora_confirmacao_pagamento": "2024-12-21 11:20:31",
+      "valor_total_produtos": 266.12,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 276.12,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "25424": {
+      "codigo": "25424",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25425": {
+      "codigo": "25425",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "25430": {
+      "codigo": "25430",
+      "titulo": "Cuecas Peruanas - BROOKSFIELD  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "28344": {
+      "codigo": "28344",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28350": {
+      "codigo": "28350",
+      "titulo": "Cuecas Peruanas - BURBERRY - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "28422": {
+      "codigo": "28422",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "28430": {
+      "codigo": "28430",
+      "titulo": "Cuecas Peruanas - RESERVA - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "RESERVA",
+      "quantidade": "1"
+    },
+    "29129": {
+      "codigo": "29129",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL - Cor: PRETO CHUMBO MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "29166": {
+      "codigo": "29166",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "30116": {
+      "codigo": "30116",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO CHUMBO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "30117": {
+      "codigo": "30117",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - VERSACE - Cor: PRETO VERMELHO CHUMBO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "36219": {
+      "codigo": "36219",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (MD1-DG) - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "DOLCE&GABANNA",
+      "quantidade": "1"
+    },
+    "37414": {
+      "codigo": "37414",
+      "titulo": "Camiseta Suedine ultra - Arte em Bordado (C14) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38444": {
+      "codigo": "38444",
+      "titulo": "Camiseta Suedine ultra -(C127) - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38495": {
+      "codigo": "38495",
+      "titulo": "Camiseta Suedine ultra -(C128) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "38531": {
+      "codigo": "38531",
+      "titulo": "Camiseta Suedine ultra -(C129) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "38806": {
+      "codigo": "38806",
+      "titulo": "Camiseta Suedine ultra -(C140) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.1M - Boss": {
+      "codigo": "CD24.1M - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 14
+    },
+    "CD24.1G - Boss": {
+      "codigo": "CD24.1G - Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "6"
+    },
+    "CD24.2M - Nike": {
+      "codigo": "CD24.2M - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Nike - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": 6
+    },
+    "CD24.4G -  Boss": {
+      "codigo": "CD24.4G -  Boss",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.6M - Lacoste": {
+      "codigo": "CD24.6M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 6
+    },
+    "CD24.6GG - Lacoste": {
+      "codigo": "CD24.6GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.9G - Hugo Boss": {
+      "codigo": "CD24.9G - Hugo Boss",
+      "titulo": "Cuecas Peruanas - Cor: Vermelha - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD24.13G - Lacoste": {
+      "codigo": "CD24.13G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 2
+    },
+    "CD24.13GG - Lacoste": {
+      "codigo": "CD24.13GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": 5
+    },
+    "CD24.13M - Lacoste": {
+      "codigo": "CD24.13M - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Cinza - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.14GG - Lacoste": {
+      "codigo": "CD24.14GG - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Preto - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "CD24.14G - Lacoste": {
+      "codigo": "CD24.14G - Lacoste",
+      "titulo": "Cuecas Peruanas - Cor: Branca - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD24.16G - Nike": {
+      "codigo": "CD24.16G - Nike",
+      "titulo": "Cuecas Peruanas - Cor: Azul - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.8G": {
+      "codigo": "CD17.8G",
+      "titulo": "Bermuda Microfibra Ultra - Armani - Cor: Verde Água - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD17.12M": {
+      "codigo": "CD17.12M",
+      "titulo": "Bermuda Microfibra Ultra - Gucci - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "CD17.13M": {
+      "codigo": "CD17.13M",
+      "titulo": "Bermuda Microfibra Ultra - High - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "HIGH",
+      "quantidade": 2
+    }
+  }
+}

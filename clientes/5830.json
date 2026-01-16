@@ -1,0 +1,53 @@
+{
+  "codigo": "5830",
+  "nome": "NICOLAS SOLDI",
+  "email": "nicolasmoraessoldi@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "28/01/2024",
+  "whatsapp": "(11) 93237-6592",
+  "cidade": "São Bernardo do Campo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 87.01,
+  "pedidos": [
+    {
+      "codigo_pedido": "7108",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-03 00:14:46",
+      "data_hora_confirmacao": "2024-02-03 10:31:24",
+      "data_hora_confirmacao_pagamento": "2024-02-03 10:34:40",
+      "valor_total_produtos": 75.98,
+      "valor_frete": 11.03,
+      "frete": "SEDEX",
+      "valor_total_pedido": 87.01,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD39.59": {
+      "codigo": "CD39.59",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - HUGO BOSS  - Cor: Preto - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD40.17": {
+      "codigo": "CD40.17",
+      "titulo": "BERMUDA MICROFIBRA SUPER HIPER -  HUGO BOSS - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER HIPER",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

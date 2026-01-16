@@ -1,0 +1,80 @@
+{
+  "codigo": "16775",
+  "nome": "JOÃO FELIPE LOURENÇO BELO",
+  "email": "joaof2242@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/10/2024",
+  "whatsapp": "(82) 99936-6344",
+  "cidade": "Coruripe",
+  "estado": "AL",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 282.99,
+  "pedidos": [
+    {
+      "codigo_pedido": "23247",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-23 14:43:17",
+      "data_hora_confirmacao": "2024-10-24 18:06:33",
+      "data_hora_confirmacao_pagamento": "2024-10-24 18:06:29",
+      "valor_total_produtos": 99.96,
+      "valor_frete": 26.98,
+      "frete": "LOGGI",
+      "valor_total_pedido": 126.94,
+      "desconto": 0,
+      "cidade": "Coruripe",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "30344",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-06-21 09:36:00",
+      "data_hora_confirmacao": "2025-06-21 09:37:27",
+      "data_hora_confirmacao_pagamento": "2025-06-21 09:37:27",
+      "valor_total_produtos": 125,
+      "valor_frete": 31.05,
+      "frete": "LOGGI",
+      "valor_total_pedido": 156.05,
+      "desconto": 0,
+      "cidade": "Coruripe",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31874": {
+      "codigo": "31874",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "31878": {
+      "codigo": "31878",
+      "titulo": "Camiseta 30.1 Penteada - NIKE arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 30.1 Penteada ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "49324": {
+      "codigo": "49324",
+      "titulo": "Bermuda Nike Microfibra Ultra | LT67A (C1158) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "2"
+    }
+  }
+}

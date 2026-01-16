@@ -1,0 +1,53 @@
+{
+  "codigo": "17290",
+  "nome": "LEVI PIRES RIBEIRO",
+  "email": "levi.piresribeiro@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "08/11/2024",
+  "whatsapp": "(11) 98904-9891",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 206.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "24038",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-09 08:35:53",
+      "data_hora_confirmacao": "2024-11-09 08:37:48",
+      "data_hora_confirmacao_pagamento": "2024-11-09 08:37:48",
+      "valor_total_produtos": 160.98,
+      "valor_frete": 15.9,
+      "frete": "SEDEX",
+      "valor_total_pedido": 206.78,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "20692": {
+      "codigo": "20692",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS - (envio direto da fabrica) - Tamanho: M - VERSÃO: JOGADOR ",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "30014": {
+      "codigo": "30014",
+      "titulo": "Camisa de time Tailandesa 1.1 CORINTHIANS 2023 (envio direto da fabrica) - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

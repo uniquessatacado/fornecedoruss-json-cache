@@ -1,0 +1,53 @@
+{
+  "codigo": "1870",
+  "nome": "GUILHERME GODOY",
+  "email": "guidodoy@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "28/08/2023",
+  "whatsapp": "(11) 94276-0337",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 81.42,
+  "pedidos": [
+    {
+      "codigo_pedido": "6260",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-06 12:10:58",
+      "data_hora_confirmacao": "2024-01-06 12:19:18",
+      "data_hora_confirmacao_pagamento": "2024-01-06 12:19:35",
+      "valor_total_produtos": 69.98,
+      "valor_frete": 11.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 81.42,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.61": {
+      "codigo": "CD17.61",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Preto - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.62": {
+      "codigo": "CD17.62",
+      "titulo": "Bermuda Microfibra Ultra - NIKE CARGO   LT04.01  - Cor: Cinza - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

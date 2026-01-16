@@ -1,0 +1,80 @@
+{
+  "codigo": "2477",
+  "nome": "MATHEUS ALVES",
+  "email": "matheusbrandaoalves99@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/09/2023",
+  "whatsapp": "(11) 95909-3362",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 103.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300347",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-21 09:53:13",
+      "data_hora_confirmacao": "2023-09-21 12:50:08",
+      "data_hora_confirmacao_pagamento": "2023-09-21 12:49:56",
+      "valor_total_produtos": 63,
+      "valor_frete": 13.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 76.49,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300656",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 10:12:21",
+      "data_hora_confirmacao": "2023-09-25 10:15:17",
+      "data_hora_confirmacao_pagamento": "2023-09-25 10:15:27",
+      "valor_total_produtos": 27,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 27,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.44G": {
+      "codigo": "CD01.44G",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: G - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD17.24GG": {
+      "codigo": "CD17.24GG",
+      "titulo": "Bermuda Microfibra Ultra - Hugo Boss - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD15.4GG": {
+      "codigo": "CD15.4GG",
+      "titulo": "Camiseta Peruana com Elastano - Armani - Cor: Vermelha - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta Peruana com Elastano",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

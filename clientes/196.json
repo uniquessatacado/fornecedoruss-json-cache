@@ -1,0 +1,85 @@
+{
+  "codigo": "196",
+  "nome": "ALAN SATIRO DE SOUZA",
+  "email": "alan18satiro@hotmail.com",
+  "sexo": "3",
+  "data_cadastro": "10/03/2023",
+  "whatsapp": "(24) 99296-8452",
+  "cidade": "Petrópolis",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 215.15,
+  "pedidos": [
+    {
+      "codigo_pedido": "18812",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-15 14:42:17",
+      "data_hora_confirmacao": "2024-08-17 12:55:23",
+      "data_hora_confirmacao_pagamento": "2024-08-17 12:55:17",
+      "valor_total_produtos": 191.94,
+      "valor_frete": 23.21,
+      "frete": "LOGGI",
+      "valor_total_pedido": 215.15,
+      "desconto": 0,
+      "cidade": "Petrópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "27522": {
+      "codigo": "27522",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em DTF - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27535": {
+      "codigo": "27535",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - DIESEL arte em termogel - Cor: MOSTARDA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "27762": {
+      "codigo": "27762",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - CALVIN KLEIN arte em relevo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "27868": {
+      "codigo": "27868",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - NIKE arte em DTF - Cor: AREIA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "27940": {
+      "codigo": "27940",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - LEVIS arte bordada - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "LEVIS",
+      "quantidade": "1"
+    },
+    "27946": {
+      "codigo": "27946",
+      "titulo": "Camiseta Genuína Soft Penteado Turco - LEVIS arte bordada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
+      "marca": "LEVIS",
+      "quantidade": "1"
+    }
+  }
+}

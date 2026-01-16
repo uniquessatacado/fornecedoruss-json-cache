@@ -1,0 +1,85 @@
+{
+  "codigo": "4194",
+  "nome": "JOSHUA FARIA",
+  "email": "fariavjoshua@icloud.com",
+  "sexo": "0",
+  "data_cadastro": "23/11/2023",
+  "whatsapp": "(35) 99932-6413",
+  "cidade": "Pouso Alegre",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 256.05,
+  "pedidos": [
+    {
+      "codigo_pedido": "3497",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 13:07:54",
+      "data_hora_confirmacao": "2023-11-23 13:09:27",
+      "data_hora_confirmacao_pagamento": "2023-11-23 13:09:37",
+      "valor_total_produtos": 231,
+      "valor_frete": 25.05,
+      "frete": "SEDEX",
+      "valor_total_pedido": 256.05,
+      "desconto": 0,
+      "cidade": "Pouso Alegre",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD13.4": {
+      "codigo": "CD13.4",
+      "titulo": "Camiseta Standard Fit Importada - ADIDAS   LT16.11  - Cor: Preto Mescla - Marca: Adidas - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta standard Fit 1:1",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "CD65.4": {
+      "codigo": "CD65.4",
+      "titulo": "Camiseta 30.1 com Elastano - DIESEL  LT23.11    - Cor: Branca - Marca: Diesel - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camiseta 30.1 com Elastano",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "CD17.45": {
+      "codigo": "CD17.45",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11 - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD17.46": {
+      "codigo": "CD17.46",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT16.11  - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD39.14": {
+      "codigo": "CD39.14",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  LT01.11 - Cor: Marrom - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD16.49": {
+      "codigo": "CD16.49",
+      "titulo": "Camisetas de Time Tailandesas - CRUZEIRO  LT06.11  - Tamanho: G - Times : Cruzeiro",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

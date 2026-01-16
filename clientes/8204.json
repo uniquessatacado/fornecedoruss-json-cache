@@ -1,0 +1,96 @@
+{
+  "codigo": "8204",
+  "nome": "RAFAEL SAVITE",
+  "email": "savitenho@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "17/04/2024",
+  "whatsapp": "(14) 99663-5595",
+  "cidade": "Lençóis Paulista",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 209.61,
+  "pedidos": [
+    {
+      "codigo_pedido": "10192",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 22:02:46",
+      "data_hora_confirmacao": "2024-04-18 10:04:55",
+      "data_hora_confirmacao_pagamento": "2024-04-18 10:02:35",
+      "valor_total_produtos": 32.99,
+      "valor_frete": 12.72,
+      "frete": "LOGGI",
+      "valor_total_pedido": 45.71,
+      "desconto": 0,
+      "cidade": "Lençóis Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "11164",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-02 20:48:22",
+      "data_hora_confirmacao": "2024-05-03 16:46:20",
+      "data_hora_confirmacao_pagamento": "2024-05-03 16:46:11",
+      "valor_total_produtos": 137.96,
+      "valor_frete": 25.94,
+      "frete": "SEDEX",
+      "valor_total_pedido": 163.9,
+      "desconto": 0,
+      "cidade": "Lençóis Paulista",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17917": {
+      "codigo": "17917",
+      "titulo": "Camiseta 40.1 Ultra  - NIKE - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "17936": {
+      "codigo": "17936",
+      "titulo": "Camiseta 40.1 Ultra ESPECIAL - NIKE  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18005": {
+      "codigo": "18005",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VERSACE - Cor: KIT-PRETA-MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "CD15.5M": {
+      "codigo": "CD15.5M",
+      "titulo": "Camiseta Egípcia Cotton Luxo - ARMANI - Cor: PRETA - Marca: Armani - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "CD8.01M": {
+      "codigo": "CD8.01M",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - FACÃO LATERAL - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

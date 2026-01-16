@@ -1,0 +1,69 @@
+{
+  "codigo": "15101",
+  "nome": "VANIA SORRENTINO",
+  "email": "vaniasorrentino@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "03/09/2024",
+  "whatsapp": "(41) 99681-2131",
+  "cidade": "Curitiba",
+  "estado": "PR",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 159.84,
+  "pedidos": [
+    {
+      "codigo_pedido": "20449",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-05 20:28:55",
+      "data_hora_confirmacao": "2024-09-06 12:21:56",
+      "data_hora_confirmacao_pagamento": "2024-09-06 12:21:49",
+      "valor_total_produtos": 142.21,
+      "valor_frete": 17.63,
+      "frete": "LOGGI",
+      "valor_total_pedido": 159.84,
+      "desconto": 0,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24245": {
+      "codigo": "24245",
+      "titulo": "CALÇA MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24664": {
+      "codigo": "24664",
+      "titulo": "Cuecas Peruanas - ADIDAS - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "29268": {
+      "codigo": "29268",
+      "titulo": "Camiseta Suedine 1:1 ULTRA - NIKE arte em bordado madeira - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "29294": {
+      "codigo": "29294",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

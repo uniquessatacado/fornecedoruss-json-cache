@@ -1,0 +1,147 @@
+{
+  "codigo": "2358",
+  "nome": "GABRIEL ALBERGONI AVILEZ",
+  "email": "gavilez2@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/09/2023",
+  "whatsapp": "(11) 96571-0464",
+  "cidade": "Votuporanga",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 294.69,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300232",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-19 21:43:04",
+      "data_hora_confirmacao": "2023-09-21 23:15:33",
+      "data_hora_confirmacao_pagamento": "2023-09-21 23:15:42",
+      "valor_total_produtos": 120,
+      "valor_frete": 22.69,
+      "frete": "PAC",
+      "valor_total_pedido": 142.69,
+      "desconto": 0,
+      "cidade": "Votuporanga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300681",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 14:01:42",
+      "data_hora_confirmacao": "2023-09-25 14:05:54",
+      "data_hora_confirmacao_pagamento": "2023-09-25 14:06:02",
+      "valor_total_produtos": 92,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 92,
+      "desconto": 0,
+      "cidade": "Votuporanga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "2300694",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-25 15:51:28",
+      "data_hora_confirmacao": "2023-09-25 16:09:50",
+      "data_hora_confirmacao_pagamento": "2023-09-25 16:09:58",
+      "valor_total_produtos": 60,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 60,
+      "desconto": 0,
+      "cidade": "Votuporanga",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD02.4G": {
+      "codigo": "CD02.4G",
+      "titulo": "Camiseta 40.1 Ultra Premium  Nike Jordan - Cor: Cinza - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.6G": {
+      "codigo": "CD02.6G",
+      "titulo": "Camiseta Quiksilver 40.1 Ultra Premium - Cor: Preto - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD02.16M": {
+      "codigo": "CD02.16M",
+      "titulo": "Camiseta 40.1 Ultra Premium - Hurley - Cor: Azul - Marca: Hurley - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HURLEY",
+      "quantidade": "1"
+    },
+    "CD01.44P": {
+      "codigo": "CD01.44P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Inter Miami - Tamanho: P - Times : Inter Miami",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.14G": {
+      "codigo": "CD02.14G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike (Bordada) - Cor: Branca - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.17G": {
+      "codigo": "CD02.17G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Quiksilver (Silkada) - Cor: Cinza - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD01.40P": {
+      "codigo": "CD01.40P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Liverpool - Tamanho: P - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD02.18G": {
+      "codigo": "CD02.18G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Vans (Silkada) - Cor: Branco e Vermelho - Marca: Vans - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "Vans",
+      "quantidade": "1"
+    },
+    "CD02.24G": {
+      "codigo": "CD02.24G",
+      "titulo": "Camiseta 40.1 Ultra Premium - High - Cor: Preto - Marca: High - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    }
+  }
+}

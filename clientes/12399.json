@@ -1,0 +1,104 @@
+{
+  "codigo": "12399",
+  "nome": "BRUNO PETROVITCH LUIZ",
+  "email": "bruno_petrovitch@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "14/07/2024",
+  "whatsapp": "(12) 98260-7094",
+  "cidade": "Caçapava",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 156.26,
+  "pedidos": [
+    {
+      "codigo_pedido": "15977",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-14 14:54:29",
+      "data_hora_confirmacao": "2024-07-15 20:52:08",
+      "data_hora_confirmacao_pagamento": "2024-07-15 20:52:02",
+      "valor_total_produtos": 82.95,
+      "valor_frete": 22.88,
+      "frete": "SEDEX",
+      "valor_total_pedido": 105.83,
+      "desconto": 0,
+      "cidade": "Caçapava",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "17272",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-29 17:57:19",
+      "data_hora_confirmacao": "2024-07-29 18:13:54",
+      "data_hora_confirmacao_pagamento": "2024-07-29 18:13:48",
+      "valor_total_produtos": 38.99,
+      "valor_frete": 11.44,
+      "frete": "LOGGI",
+      "valor_total_pedido": 50.43,
+      "desconto": 0,
+      "cidade": "Caçapava",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "23010": {
+      "codigo": "23010",
+      "titulo": "Cuecas Peruanas - NIKE - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23076": {
+      "codigo": "23076",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "23354": {
+      "codigo": "23354",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "23438": {
+      "codigo": "23438",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "23478": {
+      "codigo": "23478",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "25258": {
+      "codigo": "25258",
+      "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE arte em DTF - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

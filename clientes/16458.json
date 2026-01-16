@@ -1,0 +1,61 @@
+{
+  "codigo": "16458",
+  "nome": "ALEX SANDRE DE SOUZA MARCUCCI",
+  "email": "cucci31rj@hotmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/10/2024",
+  "whatsapp": "(21) 9956-29454",
+  "cidade": "São Gonçalo",
+  "estado": "RJ",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 142.94,
+  "pedidos": [
+    {
+      "codigo_pedido": "22655",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-10-10 16:42:50",
+      "data_hora_confirmacao": "2024-10-11 16:22:38",
+      "data_hora_confirmacao_pagamento": "2024-10-11 16:22:24",
+      "valor_total_produtos": 123.93,
+      "valor_frete": 19.01,
+      "frete": "JADLOG",
+      "valor_total_pedido": 142.94,
+      "desconto": 0,
+      "cidade": "Niterói",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "31430": {
+      "codigo": "31430",
+      "titulo": "Cuecas Peruanas - VERSACE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "VERSACE",
+      "quantidade": "5"
+    },
+    "32385": {
+      "codigo": "32385",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS arte em silk - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "32391": {
+      "codigo": "32391",
+      "titulo": "Bermuda Microfibra Ultra - ADIDAS arte em silk - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

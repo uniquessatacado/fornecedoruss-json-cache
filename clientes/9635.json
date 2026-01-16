@@ -1,0 +1,69 @@
+{
+  "codigo": "9635",
+  "nome": "JOSE CARVALHO MATOS",
+  "email": "thyeneto@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "20/05/2024",
+  "whatsapp": "(94) 99299-5381",
+  "cidade": "Canaã dos Carajás",
+  "estado": "PA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 245.46,
+  "pedidos": [
+    {
+      "codigo_pedido": "12341",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-22 12:29:33",
+      "data_hora_confirmacao": "2024-05-22 12:30:59",
+      "data_hora_confirmacao_pagamento": "2024-05-22 12:30:51",
+      "valor_total_produtos": 164.96,
+      "valor_frete": 80.5,
+      "frete": "JADLOG",
+      "valor_total_pedido": 245.46,
+      "desconto": 0,
+      "cidade": "Canaã dos Carajás",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18273": {
+      "codigo": "18273",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18772": {
+      "codigo": "18772",
+      "titulo": "Camiseta Genuina Egípcia Luxo Louis Vuitton arte em couro e bordado - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "18781": {
+      "codigo": "18781",
+      "titulo": "Camiseta Genuina Egípcia Luxo GUCCI arte em couro e bordado  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "18808": {
+      "codigo": "18808",
+      "titulo": "Camiseta Genuina Egípcia Luxo HUGO BOSS arte em couro e bordado - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETA GENUINA EGIPCIA LUXO ",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

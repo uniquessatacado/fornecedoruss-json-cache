@@ -1,0 +1,115 @@
+{
+  "codigo": "5263",
+  "nome": "WANDERLEY TADEU MARTINES",
+  "email": "wtadeu@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "09/01/2024",
+  "whatsapp": "(11) 9818-30303",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 195.89999999999998,
+  "pedidos": [
+    {
+      "codigo_pedido": "8012",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-06 12:29:02",
+      "data_hora_confirmacao": "2024-03-06 12:59:23",
+      "data_hora_confirmacao_pagamento": "2024-03-06 12:59:16",
+      "valor_total_produtos": 39.96,
+      "valor_frete": 9.7,
+      "frete": "SEDEX",
+      "valor_total_pedido": 49.66,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24500",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-15 20:16:03",
+      "data_hora_confirmacao": "2024-11-15 20:20:17",
+      "data_hora_confirmacao_pagamento": "2024-11-15 20:20:17",
+      "valor_total_produtos": 59.94,
+      "valor_frete": 11.75,
+      "frete": "LOGGI",
+      "valor_total_pedido": 71.69,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31975",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-10-06 11:02:19",
+      "data_hora_confirmacao": "2025-10-06 11:49:21",
+      "data_hora_confirmacao_pagamento": "2025-10-06 11:49:30",
+      "valor_total_produtos": 65,
+      "valor_frete": 9.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 74.55,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "32806": {
+      "codigo": "32806",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "2"
+    },
+    "32809": {
+      "codigo": "32809",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "2"
+    },
+    "32812": {
+      "codigo": "32812",
+      "titulo": "Cuecas Peruanas - DOLCE GABBANA  - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DOLCE GABBANA ",
+      "quantidade": "2"
+    },
+    "55444": {
+      "codigo": "55444",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD24.09G": {
+      "codigo": "CD24.09G",
+      "titulo": "Cuecas Peruanas - HUGO BOSS DOURADA - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 4
+    }
+  }
+}

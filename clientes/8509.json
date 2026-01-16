@@ -1,0 +1,77 @@
+{
+  "codigo": "8509",
+  "nome": "LEONARDO BEZERRA DE OLIVEIRA",
+  "email": "leonardobezerradeoliveira@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/04/2024",
+  "whatsapp": "(11) 96056-5609",
+  "cidade": "Barueri",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 230.24,
+  "pedidos": [
+    {
+      "codigo_pedido": "10558",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-23 13:39:12",
+      "data_hora_confirmacao": "2024-04-25 09:51:52",
+      "data_hora_confirmacao_pagamento": "2024-04-25 09:51:44",
+      "valor_total_produtos": 211.94,
+      "valor_frete": 18.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 230.24,
+      "desconto": 0,
+      "cidade": "Barueri",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD23.1GG": {
+      "codigo": "CD23.1GG",
+      "titulo": "Calças Microfibra Premium - Nike  - Cor: AZUL ROYAL - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "Calças Microfibra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD02.150GG": {
+      "codigo": "CD02.150GG",
+      "titulo": "Camiseta 40.1 Ultra Premium - QUIKSILVER    - Cor: VERMELHA - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": 2
+    },
+    "CD22.2GG": {
+      "codigo": "CD22.2GG",
+      "titulo": "CORTA VENTO MICROFIBRA ULTRA - NIKE - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CORTA VENTO MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD25.04GG": {
+      "codigo": "CD25.04GG",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA QUIKSILVER - Cor: KIT - PRETA - BRANCO - MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "CD15.5GG": {
+      "codigo": "CD15.5GG",
+      "titulo": "Camiseta Egípcia Cotton Luxo - ARMANI - Cor: PRETA - Marca: Armani - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA Camisetas Egípcias Cotton Luxo ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

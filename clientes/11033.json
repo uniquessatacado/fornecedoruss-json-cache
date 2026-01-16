@@ -1,0 +1,53 @@
+{
+  "codigo": "11033",
+  "nome": "CARLOS FELIPE PEREIRA",
+  "email": "carlosfp04@outlook.com",
+  "sexo": "0",
+  "data_cadastro": "16/06/2024",
+  "whatsapp": "(12) 99145-9268",
+  "cidade": "Cruzeiro",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 89.27,
+  "pedidos": [
+    {
+      "codigo_pedido": "13865",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-16 22:15:01",
+      "data_hora_confirmacao": "2024-06-17 11:48:57",
+      "data_hora_confirmacao_pagamento": "2024-06-17 11:48:47",
+      "valor_total_produtos": 68.86,
+      "valor_frete": 20.41,
+      "frete": "SEDEX",
+      "valor_total_pedido": 89.27,
+      "desconto": 0,
+      "cidade": "Cruzeiro",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21531": {
+      "codigo": "21531",
+      "titulo": "Camisetas Suedine Ultra - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "21715": {
+      "codigo": "21715",
+      "titulo": "Bermudas Microfibra Ultra  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

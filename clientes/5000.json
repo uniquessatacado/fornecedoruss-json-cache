@@ -1,0 +1,45 @@
+{
+  "codigo": "5000",
+  "nome": "JULIA RIBEIRO",
+  "email": "juliajeane11@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "22/12/2023",
+  "whatsapp": "(19) 99123-1634",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 82.6,
+  "pedidos": [
+    {
+      "codigo_pedido": "5646",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-22 16:55:30",
+      "data_hora_confirmacao": "2023-12-22 17:43:57",
+      "data_hora_confirmacao_pagamento": "2023-12-22 17:44:06",
+      "valor_total_produtos": 82.6,
+      "valor_frete": 0,
+      "frete": "RETIRAR EM INDAIATUBA (SOMENTE PARA CLIENTES QUE POSSAM RETIRAR NA CIDADE DE INDAIATUBA)",
+      "valor_total_pedido": 82.6,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 40,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "PA11": {
+      "codigo": "PA11",
+      "titulo": "CORRENTE DE PRATA  ESCAMA  2MM 70CM ",
+      "categoria_principal": "PRATAS",
+      "categoria": "CORRENTES DE PRATA 925",
+      "marca": "TODAS AS PRATAS",
+      "quantidade": "1"
+    }
+  }
+}

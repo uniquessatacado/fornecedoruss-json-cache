@@ -1,0 +1,147 @@
+{
+  "codigo": "12139",
+  "nome": "EDUARDO DE LIMA NICOLAU",
+  "email": "eduardo.liima@icloud.com",
+  "sexo": "1",
+  "data_cadastro": "09/07/2024",
+  "whatsapp": "(19) 9971-82373",
+  "cidade": "Limeira",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 324.63,
+  "pedidos": [
+    {
+      "codigo_pedido": "15419",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-09 02:38:36",
+      "data_hora_confirmacao": "2024-07-09 09:26:31",
+      "data_hora_confirmacao_pagamento": "2024-07-09 09:26:26",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 9.93,
+      "frete": "SEDEX",
+      "valor_total_pedido": 29.91,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "18919",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-16 13:24:56",
+      "data_hora_confirmacao": "2024-08-17 14:05:55",
+      "data_hora_confirmacao_pagamento": "2024-08-17 14:05:47",
+      "valor_total_produtos": 101.97,
+      "valor_frete": 18.07,
+      "frete": "SEDEX",
+      "valor_total_pedido": 120.04,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "20308",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-09-04 00:57:43",
+      "data_hora_confirmacao": "2024-09-04 10:21:42",
+      "data_hora_confirmacao_pagamento": "2024-09-04 10:21:09",
+      "valor_total_produtos": 153.96,
+      "valor_frete": 20.72,
+      "frete": "SEDEX",
+      "valor_total_pedido": 174.68,
+      "desconto": 0,
+      "cidade": "Limeira",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18148": {
+      "codigo": "18148",
+      "titulo": "TECLADO GAMER LED RGB COM FIO - Cor: PRETA",
+      "categoria_principal": "ELETRÔNICOS E ACHADINHOS",
+      "categoria": "TECLADOS",
+      "marca": "Eletrônicos",
+      "quantidade": "1"
+    },
+    "23409": {
+      "codigo": "23409",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23442": {
+      "codigo": "23442",
+      "titulo": "Cuecas Peruanas - GUCCI  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "26639": {
+      "codigo": "26639",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA CALVIN KLEIN - Cor: KIT - PRETO VERDE CINZA CLARO  - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "26650": {
+      "codigo": "26650",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA ABERCOMBRIE & FITCH - Cor: KIT - PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ABERCROMBIE & FITCH",
+      "quantidade": "1"
+    },
+    "29119": {
+      "codigo": "29119",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO MARINHO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "29128": {
+      "codigo": "29128",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "29135": {
+      "codigo": "29135",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - HUGO BOSS - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "29177": {
+      "codigo": "29177",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - GUCCI - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    }
+  }
+}

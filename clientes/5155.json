@@ -1,0 +1,53 @@
+{
+  "codigo": "5155",
+  "nome": "RAFAEL PEREIRA DOS SANTOS",
+  "email": "rafaelsantos.daianemilane@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "04/01/2024",
+  "whatsapp": "(35) 99224-0866",
+  "cidade": "Andradas",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 150.03,
+  "pedidos": [
+    {
+      "codigo_pedido": "6188",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 16:59:49",
+      "data_hora_confirmacao": "2024-01-04 17:44:06",
+      "data_hora_confirmacao_pagamento": "2024-01-04 17:44:29",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 45.06,
+      "frete": "SEDEX",
+      "valor_total_pedido": 150.03,
+      "desconto": 0,
+      "cidade": "Andradas",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.60": {
+      "codigo": "CD17.60",
+      "titulo": "Bermuda Microfibra Ultra - NIKE   LT04.01 - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 2
+    },
+    "CD17.63": {
+      "codigo": "CD17.63",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  LT04.01   - Cor: Preto - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "codigo": "4799",
+  "nome": "VINICIUS ABREU",
+  "email": "viniabreu15@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/12/2023",
+  "whatsapp": "(22) 99903-9089",
+  "cidade": "Campos dos Goytacazes",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 240.8,
+  "pedidos": [
+    {
+      "codigo_pedido": "4970",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-12-18 14:04:30",
+      "data_hora_confirmacao": "2023-12-19 08:15:39",
+      "data_hora_confirmacao_pagamento": "2023-12-19 08:15:48",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 15.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.4,
+      "desconto": 0,
+      "cidade": "Campos dos Goytacazes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6125",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-04 15:02:01",
+      "data_hora_confirmacao": "2024-01-05 12:12:26",
+      "data_hora_confirmacao_pagamento": "2024-01-05 12:13:18",
+      "valor_total_produtos": 104.97,
+      "valor_frete": 15.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 120.4,
+      "desconto": 0,
+      "cidade": "Campos dos Goytacazes",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.53": {
+      "codigo": "CD17.53",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS  LT15.12  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    },
+    "CD17.64": {
+      "codigo": "CD17.64",
+      "titulo": "Bermuda Microfibra Ultra - HUGO BOSS LT04.01 - Cor: Vermelha - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "Hugo Boss",
+      "quantidade": 3
+    }
+  }
+}

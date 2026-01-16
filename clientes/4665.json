@@ -1,0 +1,45 @@
+{
+  "codigo": "4665",
+  "nome": "NATANAEL SANTOS VERONA",
+  "email": "natanverona@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "12/12/2023",
+  "whatsapp": "(19) 19987-3138",
+  "cidade": "Indaiatuba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 28,
+  "pedidos": [
+    {
+      "codigo_pedido": "4524",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2023-12-12 16:46:13",
+      "data_hora_confirmacao": "2023-12-12 16:46:33",
+      "data_hora_confirmacao_pagamento": "2023-12-12 17:31:34",
+      "valor_total_produtos": 28,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 28,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD67.15": {
+      "codigo": "CD67.15",
+      "titulo": "BERMUDA ELASTANO SURF PREMIUM - OAKLEY   LT12.12   - Cor: Preto - Tamanho: 48",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA ELASTANO SURF PREMIUM",
+      "marca": "OAKLEY",
+      "quantidade": "1"
+    }
+  }
+}

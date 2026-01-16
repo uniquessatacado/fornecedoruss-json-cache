@@ -1,0 +1,96 @@
+{
+  "codigo": "3378",
+  "nome": "LUCIA HELENA SILVA DE MORAIS",
+  "email": "aluissantanaray09@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "09/10/2023",
+  "whatsapp": "(19) 99201-4295",
+  "cidade": "Campinas",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 166.65,
+  "pedidos": [
+    {
+      "codigo_pedido": "2301488",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-10-09 13:18:55",
+      "data_hora_confirmacao": "2023-10-09 13:28:43",
+      "data_hora_confirmacao_pagamento": "2023-10-09 13:29:49",
+      "valor_total_produtos": 90,
+      "valor_frete": 10.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 100.86,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "7327",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-02-19 12:04:16",
+      "data_hora_confirmacao": "2024-02-19 12:12:00",
+      "data_hora_confirmacao_pagamento": "2024-02-19 12:11:54",
+      "valor_total_produtos": 55,
+      "valor_frete": 10.79,
+      "frete": "SEDEX",
+      "valor_total_pedido": 65.79,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.48P": {
+      "codigo": "CD01.48P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Manchester City - Tamanho: P - Times : Manchester City",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.36P": {
+      "codigo": "CD01.36P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - França - Tamanho: P - Times : França",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.37P": {
+      "codigo": "CD01.37P",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Psg - Tamanho: P - Times : Psg",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.60GG": {
+      "codigo": "CD01.60GG",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - BRASIL  LT27.10 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD01.46GG Al-hilal": {
+      "codigo": "CD01.46GG Al-hilal",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - Al-Hilal - Tamanho: GG - Times : Al-Hilal",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisa de Time qualidade premium",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

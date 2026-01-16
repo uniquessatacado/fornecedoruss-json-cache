@@ -1,0 +1,61 @@
+{
+  "codigo": "6753",
+  "nome": "LUCAS MUNIZ",
+  "email": "lucasmuniz1278@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "10/03/2024",
+  "whatsapp": "(31) 9715-58130",
+  "cidade": "Vespasiano",
+  "estado": "MG",
+  "loja_drop": "1",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 137.2,
+  "pedidos": [
+    {
+      "codigo_pedido": "8413",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-03-13 16:45:36",
+      "data_hora_confirmacao": "2024-03-13 17:56:19",
+      "data_hora_confirmacao_pagamento": "2024-03-13 17:56:15",
+      "valor_total_produtos": 113.97,
+      "valor_frete": 23.23,
+      "frete": "LOGGI",
+      "valor_total_pedido": 137.2,
+      "desconto": 0,
+      "cidade": "Vespasiano",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD25.07M": {
+      "codigo": "CD25.07M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Branco - Marca: Hugo Boss - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD25.10m": {
+      "codigo": "CD25.10m",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Vemelho-Branco - Marca: Louis Vitton - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "CD25.03M": {
+      "codigo": "CD25.03M",
+      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA VARIAS MARCAS - Cor: Kit Preto-Branco-Marinho - Marca: High - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "HIGH",
+      "quantidade": "1"
+    }
+  }
+}

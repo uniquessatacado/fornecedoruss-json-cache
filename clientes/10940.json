@@ -1,0 +1,61 @@
+{
+  "codigo": "10940",
+  "nome": "GUILHERME SILVA GUIDETTI",
+  "email": "guiguidetti@yahoo.com.br",
+  "sexo": "0",
+  "data_cadastro": "14/06/2024",
+  "whatsapp": "(16) 99314-3133",
+  "cidade": "Franca",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 287.32,
+  "pedidos": [
+    {
+      "codigo_pedido": "13732",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-14 21:18:17",
+      "data_hora_confirmacao": "2024-06-15 09:21:24",
+      "data_hora_confirmacao_pagamento": "2024-06-15 09:21:17",
+      "valor_total_produtos": 261.96,
+      "valor_frete": 25.36,
+      "frete": "SEDEX",
+      "valor_total_pedido": 287.32,
+      "desconto": 0,
+      "cidade": "Franca",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "21407": {
+      "codigo": "21407",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: M - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "21408": {
+      "codigo": "21408",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21410": {
+      "codigo": "21410",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO - (envio direto da fabrica) - Tamanho: G1 - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}

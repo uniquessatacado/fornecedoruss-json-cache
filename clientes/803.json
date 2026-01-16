@@ -1,0 +1,61 @@
+{
+  "codigo": "803",
+  "nome": "DIONATAN PEREIRA",
+  "email": "pereiradionatanp7@gmail.com",
+  "sexo": "3",
+  "data_cadastro": "04/08/2023",
+  "whatsapp": "(17) 9916-76388",
+  "cidade": "Catanduva",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 135.17,
+  "pedidos": [
+    {
+      "codigo_pedido": "6396",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-09 21:06:38",
+      "data_hora_confirmacao": "2024-01-10 12:52:31",
+      "data_hora_confirmacao_pagamento": "2024-01-10 12:52:42",
+      "valor_total_produtos": 116.87,
+      "valor_frete": 18.3,
+      "frete": "PAC",
+      "valor_total_pedido": 135.17,
+      "desconto": 0,
+      "cidade": "Tabapuã",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD24.60": {
+      "codigo": "CD24.60",
+      "titulo": "Cuecas Peruanas - Hugo Boss - Cor: Branca - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 5
+    },
+    "CD24.59": {
+      "codigo": "CD24.59",
+      "titulo": "Cuecas Peruanas - Diesel  - Cor: Azul Marinho - Marca: Diesel - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "2"
+    },
+    "CD24.56": {
+      "codigo": "CD24.56",
+      "titulo": "Cuecas Peruanas - HUGO BOSS - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": 6
+    }
+  }
+}

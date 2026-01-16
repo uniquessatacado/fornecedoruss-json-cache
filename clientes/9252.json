@@ -1,0 +1,115 @@
+{
+  "codigo": "9252",
+  "nome": "MARLOWS ANDRÉ PIMENTEL ROCHA",
+  "email": "mapr.construtora@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "10/05/2024",
+  "whatsapp": "(73) 9983-32461",
+  "cidade": "Camacan",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 394.55,
+  "pedidos": [
+    {
+      "codigo_pedido": "11599",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-10 11:35:29",
+      "data_hora_confirmacao": "2024-05-10 13:59:26",
+      "data_hora_confirmacao_pagamento": "2024-05-10 13:59:19",
+      "valor_total_produtos": 71.98,
+      "valor_frete": 33.74,
+      "frete": "PAC",
+      "valor_total_pedido": 105.72,
+      "desconto": 0,
+      "cidade": "Camacan",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "12614",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-26 10:34:36",
+      "data_hora_confirmacao": "2024-05-27 09:53:19",
+      "data_hora_confirmacao_pagamento": "2024-05-27 09:52:40",
+      "valor_total_produtos": 89.99,
+      "valor_frete": 31.78,
+      "frete": "LOGGI",
+      "valor_total_pedido": 121.77,
+      "desconto": 0,
+      "cidade": "Camacan",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "21571",
+      "situacao_pedido": "PEDIDO DE ENCOMENDA ENVIADO PARA O CLIENTE",
+      "data_hora_pedido": "2024-09-22 13:47:07",
+      "data_hora_confirmacao": "2024-09-23 11:45:00",
+      "data_hora_confirmacao_pagamento": "2024-09-23 11:44:53",
+      "valor_total_produtos": 131.98,
+      "valor_frete": 35.08,
+      "frete": "LOGGI",
+      "valor_total_pedido": 167.06,
+      "desconto": 0,
+      "cidade": "Camacan",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "17792": {
+      "codigo": "17792",
+      "titulo": "Chinelo Kenner Rakka vietnã - COR CHINELO: PRETO - MODELO CHINELO: KENNER RAKKA - TAMANHO CHINELO: 39/40",
+      "categoria_principal": "CHINELOS",
+      "categoria": "CHINELOS VIETNÃ ",
+      "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "19579": {
+      "codigo": "19579",
+      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR FLAMENDO (PRONTA ENTREGA)  - Tamanho: G - VERSÃO: JOGADOR ",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21915": {
+      "codigo": "21915",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO - (envio direto da fabrica) - Tamanho: GG - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "21927": {
+      "codigo": "21927",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR FLAMENGO Feminina - (envio direto da fabrica) - Tamanho: P - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 FEMININA",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD43.05 - MD 5": {
+      "codigo": "CD43.05 - MD 5",
+      "titulo": "Boné Super Premium - NIKE  - Cor: Preto",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Premium ",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

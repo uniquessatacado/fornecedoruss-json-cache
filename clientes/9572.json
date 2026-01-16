@@ -1,0 +1,88 @@
+{
+  "codigo": "9572",
+  "nome": "HENRIQUE LUCAS",
+  "email": "henrilucas99@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "19/05/2024",
+  "whatsapp": "(11) 96074-0109",
+  "cidade": "Carapicuíba",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 276.38,
+  "pedidos": [
+    {
+      "codigo_pedido": "12154",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-20 23:21:18",
+      "data_hora_confirmacao": "2024-05-21 12:44:37",
+      "data_hora_confirmacao_pagamento": "2024-05-21 12:43:34",
+      "valor_total_produtos": 116.97,
+      "valor_frete": 14.8,
+      "frete": "LOGGI",
+      "valor_total_pedido": 131.77,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16606",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-22 13:29:58",
+      "data_hora_confirmacao": "2024-07-22 13:34:12",
+      "data_hora_confirmacao_pagamento": "2024-07-22 13:34:07",
+      "valor_total_produtos": 128.99,
+      "valor_frete": 15.62,
+      "frete": "LOGGI",
+      "valor_total_pedido": 144.61,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "18599": {
+      "codigo": "18599",
+      "titulo": "Camiseta Suedine Nike Arte em DTF - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "18654": {
+      "codigo": "18654",
+      "titulo": "Camiseta Suedine Nike Arte em Bordada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "18657": {
+      "codigo": "18657",
+      "titulo": "Camiseta Suedine Nike Arte em Bordada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "24235": {
+      "codigo": "24235",
+      "titulo": "CONJUNTO MOLETOM 3 CABOS ULTRA - NIKE - Cor: CINZA ESCURO - Tamanho: G",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "CONJUNTO MOLETOM 3 CABOS",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

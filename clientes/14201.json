@@ -1,0 +1,85 @@
+{
+  "codigo": "14201",
+  "nome": "FILIPE MARQUES",
+  "email": "filipe.santosm93@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "16/08/2024",
+  "whatsapp": "(21) 96991-9240",
+  "cidade": "Belford Roxo",
+  "estado": "RJ",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 299.49,
+  "pedidos": [
+    {
+      "codigo_pedido": "18934",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-08-16 15:27:54",
+      "data_hora_confirmacao": "2024-08-17 14:05:02",
+      "data_hora_confirmacao_pagamento": "2024-08-17 14:05:15",
+      "valor_total_produtos": 273.94,
+      "valor_frete": 25.55,
+      "frete": "LOGGI",
+      "valor_total_pedido": 299.49,
+      "desconto": 0,
+      "cidade": "Belford Roxo",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "24644": {
+      "codigo": "24644",
+      "titulo": "Cuecas Peruanas - DIESEL - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "26758": {
+      "codigo": "26758",
+      "titulo": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA - NIKE arte em DTF - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28001": {
+      "codigo": "28001",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28004": {
+      "codigo": "28004",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: M",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28006": {
+      "codigo": "28006",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: MARROM - Tamanho: GG",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "28008": {
+      "codigo": "28008",
+      "titulo": "KIT Camiseta + Bermuda ULTRA DRY - NIKE - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "KITS E LOTES MONTADOS",
+      "categoria": "KIT MONTADO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

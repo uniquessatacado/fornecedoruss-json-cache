@@ -1,0 +1,53 @@
+{
+  "codigo": "5448",
+  "nome": "WEDER RODRIGUES PIO",
+  "email": "rodriguesweder26@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "21/01/2024",
+  "whatsapp": "(31) 98531-0903",
+  "cidade": "Ipatinga",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.48,
+  "pedidos": [
+    {
+      "codigo_pedido": "6693",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-01-21 14:58:56",
+      "data_hora_confirmacao": "2024-01-22 10:38:39",
+      "data_hora_confirmacao_pagamento": "2024-01-22 10:38:57",
+      "valor_total_produtos": 59.99,
+      "valor_frete": 37.49,
+      "frete": "SEDEX",
+      "valor_total_pedido": 97.48,
+      "desconto": 0,
+      "cidade": "Ipatinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD01.65": {
+      "codigo": "CD01.65",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) - LIVERPOOL   LT27.10  - Tamanho: G - Times : Liverpool",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA CAMISA DE TIME PREMIUM  LT",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "CD41.25": {
+      "codigo": "CD41.25",
+      "titulo": "BERMUDA MICROFIBRA HIPER - ARMANI - Cor: Azul - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "INATIVA BERMUDA MICROFIBRA HIPER",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    }
+  }
+}

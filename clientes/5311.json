@@ -1,0 +1,112 @@
+{
+  "codigo": "5311",
+  "nome": "THALES JOSE CORREIA AURELIO",
+  "email": "ta.aurelio22@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/01/2024",
+  "whatsapp": "(33) 9887-84778",
+  "cidade": "Teófilo Otoni",
+  "estado": "MG",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 280.87,
+  "pedidos": [
+    {
+      "codigo_pedido": "10129",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-17 01:31:44",
+      "data_hora_confirmacao": "2024-04-17 13:34:02",
+      "data_hora_confirmacao_pagamento": "2024-04-17 13:33:58",
+      "valor_total_produtos": 107.97,
+      "valor_frete": 19.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 127.44,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "24912",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-11-21 16:23:57",
+      "data_hora_confirmacao": "2024-11-21 16:30:15",
+      "data_hora_confirmacao_pagamento": "2024-11-21 16:30:15",
+      "valor_total_produtos": 133.96,
+      "valor_frete": 19.47,
+      "frete": "LOGGI",
+      "valor_total_pedido": 153.43,
+      "desconto": 0,
+      "cidade": "Teófilo Otoni",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "26331": {
+      "codigo": "26331",
+      "titulo": "Camiseta Drifit ULTRA DRY - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35068": {
+      "codigo": "35068",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico externo - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35074": {
+      "codigo": "35074",
+      "titulo": "Bermuda Microfibra Ultra - NIKE elastico externo - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "35137": {
+      "codigo": "35137",
+      "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.18": {
+      "codigo": "CD4.18",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO ESCRITA INTERNA - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.21G": {
+      "codigo": "CD4.21G",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ELASTICO EXTERNO - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD4.22": {
+      "codigo": "CD4.22",
+      "titulo": "Bermuda Microfibra Ultra - NIKE  - ZIPER  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": null,
+      "quantidade": "1"
+    }
+  }
+}

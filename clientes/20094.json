@@ -1,0 +1,80 @@
+{
+  "codigo": "20094",
+  "nome": "VITOR MARCAL",
+  "email": "VITORMARCAL501@GMAIL.COM",
+  "sexo": "0",
+  "data_cadastro": "14/06/2025",
+  "whatsapp": "(11) 99707-5057",
+  "cidade": "",
+  "estado": "",
+  "loja_drop": "0",
+  "representante": "3",
+  "total_pedidos": 2,
+  "valor_total_comprado": 203.76,
+  "pedidos": [
+    {
+      "codigo_pedido": "30292",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-06-14 12:18:52",
+      "data_hora_confirmacao": "2025-06-14 12:18:52",
+      "data_hora_confirmacao_pagamento": "2025-06-14 12:18:52",
+      "valor_total_produtos": 155.01,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 155.01,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "31028",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2025-07-30 13:32:12",
+      "data_hora_confirmacao": "2025-07-30 13:32:12",
+      "data_hora_confirmacao_pagamento": "2025-07-30 13:32:12",
+      "valor_total_produtos": 48.75,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 48.75,
+      "desconto": 0,
+      "cidade": "",
+      "estado": "",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "47482": {
+      "codigo": "47482",
+      "titulo": "Camiseta Suedine Ultra 1:1 Louis Vuitton - ARTE EM DTF | LT45A (C876) - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "49371": {
+      "codigo": "49371",
+      "titulo": "Moletom 3 Cabos Importado Lacoste | LT68A (C1165) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "51661": {
+      "codigo": "51661",
+      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    }
+  }
+}

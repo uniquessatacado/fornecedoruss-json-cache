@@ -1,0 +1,150 @@
+{
+  "codigo": "4189",
+  "nome": "LUIZ FELIPE MENDES MENEZES",
+  "email": "felipe.cambuim@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "23/11/2023",
+  "whatsapp": "(62) 99272-4848",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 511.09000000000003,
+  "pedidos": [
+    {
+      "codigo_pedido": "3483",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-11-23 10:22:59",
+      "data_hora_confirmacao": "2023-11-23 13:47:00",
+      "data_hora_confirmacao_pagamento": "2023-11-23 13:47:12",
+      "valor_total_produtos": 100,
+      "valor_frete": 17.67,
+      "frete": "DBA EXPRESS",
+      "valor_total_pedido": 117.67,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6191",
+      "situacao_pedido": "PEDIDO SEPARADO COM ERRO",
+      "data_hora_pedido": "2024-01-04 17:03:20",
+      "data_hora_confirmacao": "2024-01-04 17:53:49",
+      "data_hora_confirmacao_pagamento": "2024-01-04 17:54:11",
+      "valor_total_produtos": 84,
+      "valor_frete": 30.09,
+      "frete": "SEDEX",
+      "valor_total_pedido": 114.09,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "6599",
+      "situacao_pedido": "PEDIDO JUNTADO AO PRINCIPAL",
+      "data_hora_pedido": "2024-01-17 10:08:16",
+      "data_hora_confirmacao": "2024-01-17 11:16:46",
+      "data_hora_confirmacao_pagamento": "2024-01-17 11:17:25",
+      "valor_total_produtos": 90,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 90,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "9419",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-04-04 08:44:36",
+      "data_hora_confirmacao": "2024-04-04 11:15:01",
+      "data_hora_confirmacao_pagamento": "2024-04-04 11:14:56",
+      "valor_total_produtos": 155.96,
+      "valor_frete": 33.37,
+      "frete": "SEDEX",
+      "valor_total_pedido": 189.33,
+      "desconto": 0,
+      "cidade": "Aparecida de Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD64.1": {
+      "codigo": "CD64.1",
+      "titulo": "CAMISETAS 30.1 LUXO - NIKE   LT22.11 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "NIKE",
+      "quantidade": 3
+    },
+    "CD64.3": {
+      "codigo": "CD64.3",
+      "titulo": "CAMISETAS 30.1 LUXO - HUGO BOSS   LT22.11  - Cor: Preto - Marca: Hugo Boss - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "CD64.5": {
+      "codigo": "CD64.5",
+      "titulo": "CAMISETAS 30.1 LUXO - NIKE   LT22.11    - Cor: OffWhite - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "INATIVA CAMISETAS 30.1 LUXO",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD14.14": {
+      "codigo": "CD14.14",
+      "titulo": "CAMISETA DRIFIT ULTRA - NIKE  LT04.1 - Cor: Preto - Marca: Nike - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD56.2": {
+      "codigo": "CD56.2",
+      "titulo": "CAMISETA DE TIME TAILANDESA (JOGADOR) - PALMEIRAS  LT14.11 - Tamanho: G1 - Times : Palmeiras",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "INATIVA Camisetas de Time Tailandesas",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "CD11.2G3": {
+      "codigo": "CD11.2G3",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Azul Marinho - Marca: Nike - Tamanho: G3",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD11.2G2": {
+      "codigo": "CD11.2G2",
+      "titulo": "Camiseta PLUS SIZE 40.1 premium NIKE G1 G2 G3  - Cor: Branca - Marca: Nike - Tamanho: G2",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Plus Sized 40.1 premium",
+      "marca": "NIKE",
+      "quantidade": 3
+    }
+  }
+}

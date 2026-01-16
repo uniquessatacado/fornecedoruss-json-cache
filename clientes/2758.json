@@ -1,0 +1,61 @@
+{
+  "codigo": "2758",
+  "nome": "RAFAEL LOZZARDO",
+  "email": "Rafael.lozzardo@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "24/09/2023",
+  "whatsapp": "(62) 9857-29965",
+  "cidade": "Goiânia",
+  "estado": "GO",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 238.97,
+  "pedidos": [
+    {
+      "codigo_pedido": "2300808",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2023-09-27 23:07:41",
+      "data_hora_confirmacao": "2023-10-02 10:46:00",
+      "data_hora_confirmacao_pagamento": "2023-10-02 10:45:49",
+      "valor_total_produtos": 212,
+      "valor_frete": 26.97,
+      "frete": "JADLOG .Package",
+      "valor_total_pedido": 238.97,
+      "desconto": 0,
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "CD17.26G": {
+      "codigo": "CD17.26G",
+      "titulo": "Bermuda Microfibra Ultra - Nike  - Cor: Preto - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": 4
+    },
+    "CD02.22G": {
+      "codigo": "CD02.22G",
+      "titulo": "Camiseta 40.1 Ultra Premium - Nike  - Cor: Preto - Marca: Nike - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "CD08.2G": {
+      "codigo": "CD08.2G",
+      "titulo": "Camiseta Coleção Genuína Cotton Tanguis - Hugo Boss - Cor: Preto - Marca: Hugo Boss - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuína Cotton Tanguis Algodão Turco",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    }
+  }
+}

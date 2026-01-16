@@ -1,0 +1,174 @@
+{
+  "codigo": "18053",
+  "nome": "RAYMOND JOSE DUQUE BELLO",
+  "email": "raymonduque071@gmail.com",
+  "sexo": "1",
+  "data_cadastro": "03/12/2024",
+  "whatsapp": "(11) 9716-25512",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 4,
+  "valor_total_comprado": 432,
+  "pedidos": [
+    {
+      "codigo_pedido": "25591",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-03 16:49:33",
+      "data_hora_confirmacao": "2024-12-03 17:02:22",
+      "data_hora_confirmacao_pagamento": "2024-12-03 17:02:22",
+      "valor_total_produtos": 93.99,
+      "valor_frete": 12.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 106.21,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "26585",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-16 12:56:47",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2024-12-16 12:57:23",
+      "valor_total_produtos": 148.95,
+      "valor_frete": 13.39,
+      "frete": "LOGGI",
+      "valor_total_pedido": 162.34,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "27123",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-12-23 08:07:35",
+      "data_hora_confirmacao": "2024-12-23 08:09:46",
+      "data_hora_confirmacao_pagamento": "2024-12-23 08:09:46",
+      "valor_total_produtos": 46.67,
+      "valor_frete": 10.9,
+      "frete": "LOGGI",
+      "valor_total_pedido": 57.57,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "28343",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2025-02-25 14:19:01",
+      "data_hora_confirmacao": "2025-02-25 14:30:09",
+      "data_hora_confirmacao_pagamento": "2025-02-25 14:30:09",
+      "valor_total_produtos": 93.75,
+      "valor_frete": 12.13,
+      "frete": "LOGGI",
+      "valor_total_pedido": 105.88,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "36124": {
+      "codigo": "36124",
+      "titulo": "Tênis Air Travis Scott  - Cor: MARROM ESCURO - Tamanho: 43",
+      "categoria_principal": "TÊNIS",
+      "categoria": "TENIS LINHA VIETNÃ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "37123": {
+      "codigo": "37123",
+      "titulo": "Bermuda Microfibra Ultra  (B01) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "37723": {
+      "codigo": "37723",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C18) - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "37812": {
+      "codigo": "37812",
+      "titulo": "Camiseta Malha Egípcia SOFT ARTE EM BORDADO (C28) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "37904": {
+      "codigo": "37904",
+      "titulo": "MEIAS PERUANAS (C72) - Marca: High - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "37905": {
+      "codigo": "37905",
+      "titulo": "MEIAS PERUANAS (C72) - Marca: High - TIPO DE MEIA: CANO LONGO ",
+      "categoria_principal": "MEIAS",
+      "categoria": "MEIA PERUANA",
+      "marca": "HIGH",
+      "quantidade": "1"
+    },
+    "39260": {
+      "codigo": "39260",
+      "titulo": "Camiseta Algodão Soft Americano - tecido perfumado (C162) - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "40524": {
+      "codigo": "40524",
+      "titulo": "Bermuda Microfibra Ultra (C248) - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40915": {
+      "codigo": "40915",
+      "titulo": "Bermuda Microfibra Ultra (C252) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "40923": {
+      "codigo": "40923",
+      "titulo": "Bermuda Microfibra Ultra (C251) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}

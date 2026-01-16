@@ -1,0 +1,107 @@
+{
+  "codigo": "8274",
+  "nome": "EDENILSON SANTOS SILVA",
+  "email": "silvabike10@hotmail.com",
+  "sexo": "0",
+  "data_cadastro": "18/04/2024",
+  "whatsapp": "(73) 98882-8431",
+  "cidade": "Ipiaú",
+  "estado": "BA",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 3,
+  "valor_total_comprado": 155.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "11121",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-05-01 19:31:06",
+      "data_hora_confirmacao": "2024-05-02 10:13:38",
+      "data_hora_confirmacao_pagamento": "2024-05-02 10:13:32",
+      "valor_total_produtos": 20,
+      "valor_frete": 31.7,
+      "frete": "PAC",
+      "valor_total_pedido": 51.7,
+      "desconto": 0,
+      "cidade": "Ipiaú",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "13081",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-06-05 05:43:37",
+      "data_hora_confirmacao": "2024-06-05 10:30:56",
+      "data_hora_confirmacao_pagamento": "2024-06-05 10:30:48",
+      "valor_total_produtos": 19.98,
+      "valor_frete": 22.54,
+      "frete": "LOGGI",
+      "valor_total_pedido": 42.52,
+      "desconto": 0,
+      "cidade": "Ipiaú",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "16396",
+      "situacao_pedido": "PEDIDO ENVIADO",
+      "data_hora_pedido": "2024-07-19 10:53:08",
+      "data_hora_confirmacao": "2024-07-19 16:19:27",
+      "data_hora_confirmacao_pagamento": "2024-07-19 16:19:18",
+      "valor_total_produtos": 37.99,
+      "valor_frete": 23.65,
+      "frete": "LOGGI",
+      "valor_total_pedido": 61.64,
+      "desconto": 0,
+      "cidade": "Ipiaú",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "19525": {
+      "codigo": "19525",
+      "titulo": "Cuecas Peruanas - HUGO BOSS/FAIXA VERMELHA - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "19568": {
+      "codigo": "19568",
+      "titulo": "Cuecas Peruanas - CALVIN KLEIN - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "23907": {
+      "codigo": "23907",
+      "titulo": "Camiseta GENUINA COTTON SOFT TURCO - LACOSTE arte em bordado - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Genuina Cotton Soft Algodão Turco",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "CD01.2GG": {
+      "codigo": "CD01.2GG",
+      "titulo": "Camisa de time (qualidade premium) Flamengo - Tamanho: GG - Times : Flamengo",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
+}
