@@ -1,0 +1,33 @@
+name: Sync Pedidos
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # roda toda hora
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar Repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Instalar Dependências
+        run: npm install axios
+
+      - name: Executar Script de Extração
+        run: node scripts/extract_pedidos.js
+
+      - name: Commit e Push
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "github-actions"
+          git add .
+          git commit -m "Atualização automática de pedidos" || echo "Nada para commitar"
+          git push
