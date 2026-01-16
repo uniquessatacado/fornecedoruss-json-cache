@@ -1,0 +1,34 @@
+name: Sync WhatsApp Lookup
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar Repositório
+        uses: actions/checkout@v4
+
+      - name: Baixar JSON da Fonte
+        run: |
+          curl -L "https://admin.fornecedoruss.com.br/processos/json/lista-dados-gerais.json" -o dados.json
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Instalar Dependências
+        run: npm install
+
+      - name: Executar Script de Extração
+        run: node scripts/extract_lookup_whatsapp.js
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add lookup/lookup_whatsapp.json
+          git commit -m "Update lookup_whatsapp.json" || echo "Nada para commit"
+          git push
