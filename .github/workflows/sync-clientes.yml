@@ -1,1 +1,37 @@
+name: Sync Clientes
 
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar Repositório
+      uses: actions/checkout@v3
+
+    - name: Baixar JSON do Fornecedor
+      run: curl -s "https://admin.fornecedoruss.com.br/processos/json/lista-dados-gerais.json" -o general.json
+
+    - name: Instalar Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Instalar Dependências
+      run: |
+        echo "Nenhuma dependência necessária"
+
+    - name: Executar Script de Extração
+      run: node scripts/extract_clientes.js
+
+    - name: Commit e Push
+      run: |
+        git config --global user.email "bot@github.com"
+        git config --global user.name "github-actions"
+        git add -A
+        git commit -m "Atualização automática de clientes" || echo "Sem mudanças para commitar"
+        git push
