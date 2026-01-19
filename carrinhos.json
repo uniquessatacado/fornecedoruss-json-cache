@@ -3,6 +3,37 @@
     "total_carrinhos": 787,
     "lista_carrinhos": [
         {
+            "id": "73805",
+            "id_clientes": "10486",
+            "chave_sessao": "f32616f2d6638b87ecda65b252fdafc9",
+            "nome": "BRUNO ZELHANOI DE DEUS",
+            "email": "contato.storekairos@gmail.com",
+            "celular": "(19) 98609-1344",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-29",
+            "hora_transacao": "17:23:37",
+            "ip": "172.71.10.30",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-01-19 05:13:00",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/meus-dados\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/meus-dados\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/f32616f2d6638b87ecda65b252fdafc9\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_15-26-06.jpg",
+                    "codigo": "54770",
+                    "produto": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: P <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 65,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 65,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+                    "marca": "PUMA"
+                }
+            ]
+        },
+        {
             "id": "73904",
             "id_clientes": "0",
             "chave_sessao": "de9d7bea0054c3e53376b7100999ba33",
@@ -273,37 +304,6 @@
                     "categoria_principal": "CUECAS",
                     "categoria": "Kit cueca premium",
                     "marca": "VERSACE"
-                }
-            ]
-        },
-        {
-            "id": "73805",
-            "id_clientes": "10486",
-            "chave_sessao": "f32616f2d6638b87ecda65b252fdafc9",
-            "nome": "BRUNO ZELHANOI DE DEUS",
-            "email": "contato.storekairos@gmail.com",
-            "celular": "(19) 98609-1344",
-            "id_usuarios": "1",
-            "data_transacao": "2025-12-29",
-            "hora_transacao": "17:23:37",
-            "ip": "172.71.10.30",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-01-18 11:55:45",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/remover-produto-carrinho\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/remover-produto-carrinho\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/f32616f2d6638b87ecda65b252fdafc9\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_15-26-06.jpg",
-                    "codigo": "54770",
-                    "produto": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: P <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 26,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 26,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-                    "marca": "PUMA"
                 }
             ]
         },
