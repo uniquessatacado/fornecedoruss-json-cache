@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 49,
-  "valor_total_comprado": 3949.4999999999986,
+  "total_pedidos": 50,
+  "valor_total_comprado": 4056.4999999999986,
   "pedidos": [
     {
       "codigo_pedido": "2300964",
@@ -942,6 +942,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32471",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-01-20 11:36:52",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 107,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 107,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1257,6 +1276,14 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
+    "41077": {
+      "codigo": "41077",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C308) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
     "41120": {
       "codigo": "41120",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C566) - Cor: PRETO VERMELHO MARINHO - Tamanho: GG",
@@ -1311,6 +1338,14 @@
       "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
       "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "41821": {
+      "codigo": "41821",
+      "titulo": "Camiseta Tecido Cashmere Importada LT22A (C521) - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA TECIDO CASHMERE ",
+      "marca": "VERSACE",
       "quantidade": "1"
     },
     "42381": {
@@ -1503,6 +1538,38 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "BALENCIAGA",
+      "quantidade": "1"
+    },
+    "52159": {
+      "codigo": "52159",
+      "titulo": "Cueca Peruana Burberry (LT017) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Burberry",
+      "quantidade": "1"
+    },
+    "53515": {
+      "codigo": "53515",
+      "titulo": "Cueca Peruana Lacoste (LT043) - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "54009": {
+      "codigo": "54009",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - PRADA (LT049) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "55146": {
+      "codigo": "55146",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
       "quantidade": "1"
     },
     "CD32.3Juliet": {
