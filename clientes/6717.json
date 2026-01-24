@@ -9,8 +9,8 @@
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 4477.110000000001,
+  "total_pedidos": 8,
+  "valor_total_comprado": 3803.4,
   "pedidos": [
     {
       "codigo_pedido": "8150",
@@ -155,25 +155,6 @@
       "valor_frete": 74.76,
       "frete": "JADLOG",
       "valor_total_pedido": 1100.38,
-      "desconto": 0,
-      "cidade": "Rio de Janeiro",
-      "estado": "RJ",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "2",
-      "texto_tipo_compra": "REVENDA",
-      "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32472",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-01-22 08:03:03",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 631,
-      "valor_frete": 42.71,
-      "frete": "JADLOG",
-      "valor_total_pedido": 673.71,
       "desconto": 0,
       "cidade": "Rio de Janeiro",
       "estado": "RJ",
@@ -577,22 +558,6 @@
       "marca": "LACOSTE",
       "quantidade": "1"
     },
-    "38356": {
-      "codigo": "38356",
-      "titulo": " Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "VERSACE",
-      "quantidade": "1"
-    },
-    "38362": {
-      "codigo": "38362",
-      "titulo": "KIT COM 3 CUECAS NA CAIXA DE MADEIRA - Cor: PRETO MARINHO CINZA CLARO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "ACOSTAMENTO",
-      "quantidade": "1"
-    },
     "40665": {
       "codigo": "40665",
       "titulo": "Cuecas Peruanas (C265)  - Cor: PRETA - Tamanho: M",
@@ -625,14 +590,6 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "41060": {
-      "codigo": "41060",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C286) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "Hugo Boss",
-      "quantidade": "1"
-    },
     "41112": {
       "codigo": "41112",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
@@ -647,7 +604,7 @@
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "ARMANI",
-      "quantidade": 2
+      "quantidade": "1"
     },
     "42127": {
       "codigo": "42127",
@@ -655,14 +612,6 @@
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "COLCCI",
-      "quantidade": "1"
-    },
-    "42174": {
-      "codigo": "42174",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "MCD",
       "quantidade": "1"
     },
     "42665": {
@@ -679,14 +628,6 @@
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "MCD",
-      "quantidade": "1"
-    },
-    "42696": {
-      "codigo": "42696",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "GUCCI",
       "quantidade": "1"
     },
     "42725": {
@@ -841,14 +782,6 @@
       "marca": "ARMANI",
       "quantidade": "1"
     },
-    "48024": {
-      "codigo": "48024",
-      "titulo": "Camiseta Pima Lacoste Essencial LT51A (C945) - Cor: PRETA - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA PIMA LUXO",
-      "marca": "LACOSTE",
-      "quantidade": "1"
-    },
     "48515": {
       "codigo": "48515",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO VERDE - Tamanho: M",
@@ -897,60 +830,12 @@
       "marca": "LACOSTE",
       "quantidade": "1"
     },
-    "51195": {
-      "codigo": "51195",
-      "titulo": "Camiseta Malha Egípcia Soft Boss - Estampa emborrachada LT010 - Cor: VERMELHA - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
-      "marca": "Hugo Boss",
-      "quantidade": "1"
-    },
-    "51404": {
-      "codigo": "51404",
-      "titulo": "Blusa de Moletom 3 Cabos DIESEL BORDADO (LT014) - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "CORTA VENTO E MOLETOM",
-      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
-      "marca": "DIESEL",
-      "quantidade": "1"
-    },
-    "51838": {
-      "codigo": "51838",
-      "titulo": " Camiseta 40.1 Ultra Premium DIESEL Bordado (NLT001) - Cor: PRETA - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "DIESEL",
-      "quantidade": "1"
-    },
     "51969": {
       "codigo": "51969",
       "titulo": " Camiseta 40.1 Ultra Premium BOSS (NLT001) - Cor: AZUL - Tamanho: M",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "Hugo Boss",
-      "quantidade": "1"
-    },
-    "52002": {
-      "codigo": "52002",
-      "titulo": "Camiseta 40.1 Infantil Lacoste (LT012) - Tamanho Infantil: 2",
-      "categoria_principal": "Camiseta Infantil",
-      "categoria": "40.1 Infantil",
-      "marca": "LACOSTE",
-      "quantidade": "1"
-    },
-    "52055": {
-      "codigo": "52055",
-      "titulo": "Camiseta Pima Premium DIESEL (LT011) - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA PIMA LUXO",
-      "marca": "DIESEL",
-      "quantidade": "1"
-    },
-    "52067": {
-      "codigo": "52067",
-      "titulo": "Camiseta Pima Premium Lacoste (LT011) - Cor: PRETA - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA PIMA LUXO",
-      "marca": "LACOSTE",
       "quantidade": "1"
     },
     "52109": {
@@ -1279,86 +1164,6 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "ARMANI",
-      "quantidade": "1"
-    },
-    "53980": {
-      "codigo": "53980",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "DIESEL",
-      "quantidade": "1"
-    },
-    "54615": {
-      "codigo": "54615",
-      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "54623": {
-      "codigo": "54623",
-      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "54746": {
-      "codigo": "54746",
-      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "PUMA",
-      "quantidade": "1"
-    },
-    "54754": {
-      "codigo": "54754",
-      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "PUMA",
-      "quantidade": "1"
-    },
-    "55214": {
-      "codigo": "55214",
-      "titulo": "Cueca Peruana Gucci (LT057) - Cor: CINZA - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Cuecas Peruanas",
-      "marca": "GUCCI",
-      "quantidade": "1"
-    },
-    "55226": {
-      "codigo": "55226",
-      "titulo": "Cueca Peruana Gucci (LT057) - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Cuecas Peruanas",
-      "marca": "GUCCI",
-      "quantidade": "2"
-    },
-    "55377": {
-      "codigo": "55377",
-      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT061) - Cor: PRETA - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "55488": {
-      "codigo": "55488",
-      "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF (LT061) - Cor: BEGE - Tamanho: P",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
-      "marca": "ADIDAS",
-      "quantidade": "1"
-    },
-    "55854": {
-      "codigo": "55854",
-      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Cuecas Peruanas",
-      "marca": "LACOSTE",
       "quantidade": "1"
     },
     "CD24.05G": {
