@@ -3,6 +3,48 @@
     "total_carrinhos": 723,
     "lista_carrinhos": [
         {
+            "id": "72811",
+            "id_clientes": "1",
+            "chave_sessao": "d106dab2339b473ce0ac819262a1a4a1",
+            "nome": "ALISSON CLEITON DOS SANTOS",
+            "email": "alissoncleiton@gmail.com",
+            "celular": "(19) 99223-5522",
+            "id_usuarios": "1",
+            "data_transacao": "2025-10-18",
+            "hora_transacao": "06:55:33",
+            "ip": "172.69.11.78",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-01-26 20:12:58",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d106dab2339b473ce0ac819262a1a4a1\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_13-56-22_3.jpg",
+                    "codigo": "51390",
+                    "produto": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 162,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 162,50",
+                    "categoria_principal": "CORTA VENTO E MOLETOM",
+                    "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_18-43-09_2.jpg",
+                    "codigo": "51856",
+                    "produto": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: GG ",
+                    "valor_unitario": "R$ 62,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 62,50",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "DIESEL"
+                }
+            ]
+        },
+        {
             "id": "73777",
             "id_clientes": "20767",
             "chave_sessao": "b4424ab1f77672bb06f28055a30824be",
@@ -1056,48 +1098,6 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA ULTRA",
                     "marca": "ADIDAS"
-                }
-            ]
-        },
-        {
-            "id": "72811",
-            "id_clientes": "1",
-            "chave_sessao": "d106dab2339b473ce0ac819262a1a4a1",
-            "nome": "ALISSON CLEITON DOS SANTOS",
-            "email": "alissoncleiton@gmail.com",
-            "celular": "(19) 99223-5522",
-            "id_usuarios": "1",
-            "data_transacao": "2025-10-18",
-            "hora_transacao": "06:55:33",
-            "ip": "172.69.11.78",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-01-24 00:56:04",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d106dab2339b473ce0ac819262a1a4a1\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_13-56-22_3.jpg",
-                    "codigo": "51390",
-                    "produto": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 162,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 162,50",
-                    "categoria_principal": "CORTA VENTO E MOLETOM",
-                    "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
-                    "marca": "LACOSTE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_18-43-09_2.jpg",
-                    "codigo": "51856",
-                    "produto": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: GG ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "Camiseta 40.1 Ultra Premium",
-                    "marca": "DIESEL"
                 }
             ]
         },
