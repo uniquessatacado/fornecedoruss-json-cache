@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 97,
-  "valor_total_comprado": 9361.499999999995,
+  "total_pedidos": 98,
+  "valor_total_comprado": 9530.499999999995,
   "pedidos": [
     {
       "codigo_pedido": "2300049",
@@ -1854,6 +1854,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32476",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-01-27 00:09:17",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 159,
+      "valor_frete": 10,
+      "frete": "MOTOBOY SOMENTE NA CIDADE DE INDAIATUBA",
+      "valor_total_pedido": 169,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -2681,6 +2700,14 @@
       "marca": "Hugo Boss",
       "quantidade": "1"
     },
+    "51235": {
+      "codigo": "51235",
+      "titulo": "Camiseta Malha Egípcia Soft Diesel - Bordado LT010 - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
     "51423": {
       "codigo": "51423",
       "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: PRETA",
@@ -2695,6 +2722,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51861": {
+      "codigo": "51861",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
       "quantidade": "1"
     },
     "51865": {
@@ -2783,6 +2818,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54615": {
+      "codigo": "54615",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54666": {
+      "codigo": "54666",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54706": {
+      "codigo": "54706",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: ROXO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "54770": {
+      "codigo": "54770",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
       "quantidade": "1"
     },
     "55046": {
