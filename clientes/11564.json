@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 14,
-  "valor_total_comprado": 5361.09,
+  "total_pedidos": 15,
+  "valor_total_comprado": 5597.78,
   "pedidos": [
     {
       "codigo_pedido": "14969",
@@ -269,6 +269,25 @@
       "valor_frete": 35.81,
       "frete": "LOGGI",
       "valor_total_pedido": 539.4,
+      "desconto": 0,
+      "cidade": "Fartura",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32479",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-28 22:11:50",
+      "data_hora_confirmacao": "2026-01-28 22:30:08",
+      "data_hora_confirmacao_pagamento": "2026-01-28 22:30:08",
+      "valor_total_produtos": 218.5,
+      "valor_frete": 18.19,
+      "frete": "LOGGI",
+      "valor_total_pedido": 236.69,
       "desconto": 0,
       "cidade": "Fartura",
       "estado": "SP",
@@ -1320,6 +1339,14 @@
       "marca": "DIESEL",
       "quantidade": "1"
     },
+    "51453": {
+      "codigo": "51453",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: MARROM",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "2"
+    },
     "51464": {
       "codigo": "51464",
       "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF - Cor: OFFWHITE - Tamanho: G",
@@ -1407,6 +1434,14 @@
       "categoria": "Calça Microfibra Ultra ",
       "marca": "ADIDAS",
       "quantidade": "1"
+    },
+    "55931": {
+      "codigo": "55931",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "6"
     }
   }
 }

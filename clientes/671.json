@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 50,
-  "valor_total_comprado": 4056.4999999999986,
+  "total_pedidos": 51,
+  "valor_total_comprado": 4110.499999999998,
   "pedidos": [
     {
       "codigo_pedido": "2300964",
@@ -961,6 +961,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32478",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-01-28 21:25:28",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 54,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 54,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1412,6 +1431,14 @@
       "marca": "Hugo Boss",
       "quantidade": "1"
     },
+    "42670": {
+      "codigo": "42670",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
     "43272": {
       "codigo": "43272",
       "titulo": "Cueca Peruana LT32A (C670) - Cor: PRETA - Tamanho: GG",
@@ -1483,6 +1510,14 @@
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
       "quantidade": 2
+    },
+    "45551": {
+      "codigo": "45551",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO MARINHO VERDE  - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
     },
     "45604": {
       "codigo": "45604",
