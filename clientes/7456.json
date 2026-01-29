@@ -9,8 +9,8 @@
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 11,
-  "valor_total_comprado": 2241.92,
+  "total_pedidos": 13,
+  "valor_total_comprado": 2601.22,
   "pedidos": [
     {
       "codigo_pedido": "10109",
@@ -212,6 +212,44 @@
       "valor_frete": 20.35,
       "frete": "LOGGI",
       "valor_total_pedido": 239.03,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32486",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-29 00:52:09",
+      "data_hora_confirmacao": "2026-01-29 00:53:46",
+      "data_hora_confirmacao_pagamento": "2026-01-29 00:53:46",
+      "valor_total_produtos": 86.25,
+      "valor_frete": 23.22,
+      "frete": "LOGGI",
+      "valor_total_pedido": 109.47,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32487",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-01-29 00:52:10",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 219.93,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 249.83,
       "desconto": 0,
       "cidade": "Rio de Janeiro",
       "estado": "RJ",
@@ -644,6 +682,54 @@
       "titulo": "Camiseta Drifit ULTRA DRY Nike - Cor: CINZA - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51078": {
+      "codigo": "51078",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25/26 - Tamanho: GG - Times : Milan - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53046": {
+      "codigo": "53046",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR TOTTENHAM (STRAY KIDS EDITION)  25/26 - Tamanho: GG - Times : Tottenham - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53742": {
+      "codigo": "53742",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR LIVERPOOL 25/26 - (envio direto da fabrica) - Tamanho: GG - Times : Liverpool - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55920": {
+      "codigo": "55920",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55925": {
+      "codigo": "55925",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55932": {
+      "codigo": "55932",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
       "quantidade": "1"
     },

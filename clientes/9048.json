@@ -9,8 +9,8 @@
   "estado": "ES",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 5,
-  "valor_total_comprado": 1118.88,
+  "total_pedidos": 6,
+  "valor_total_comprado": 1267.41,
   "pedidos": [
     {
       "codigo_pedido": "11333",
@@ -98,6 +98,25 @@
       "valor_frete": 24.37,
       "frete": "LOGGI",
       "valor_total_pedido": 259.21,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32484",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-29 00:25:24",
+      "data_hora_confirmacao": "2026-01-29 00:29:05",
+      "data_hora_confirmacao_pagamento": "2026-01-29 00:29:05",
+      "valor_total_produtos": 129,
+      "valor_frete": 19.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 148.53,
       "desconto": 0,
       "cidade": "Serra",
       "estado": "ES",
@@ -290,6 +309,54 @@
       "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT032) - Cor: BEGE - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55146": {
+      "codigo": "55146",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55870": {
+      "codigo": "55870",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55920": {
+      "codigo": "55920",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55926": {
+      "codigo": "55926",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55932": {
+      "codigo": "55932",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55938": {
+      "codigo": "55938",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
       "quantidade": "1"
     },

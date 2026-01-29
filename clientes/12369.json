@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 1451.8400000000001,
+  "total_pedidos": 10,
+  "valor_total_comprado": 1642.8600000000001,
   "pedidos": [
     {
       "codigo_pedido": "15941",
@@ -181,6 +181,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32485",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-01-29 00:36:34",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 172.5,
+      "valor_frete": 18.52,
+      "frete": "JADLOG",
+      "valor_total_pedido": 191.02,
+      "desconto": 0,
+      "cidade": "São Bernardo do Campo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -432,6 +451,22 @@
       "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
       "marca": "Camisa de Time",
       "quantidade": "1"
+    },
+    "55920": {
+      "codigo": "55920",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "55932": {
+      "codigo": "55932",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "3"
     }
   }
 }
