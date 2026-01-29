@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 44,
-  "valor_total_comprado": 56893.090000000004,
+  "total_pedidos": 45,
+  "valor_total_comprado": 57584.43,
   "pedidos": [
     {
       "codigo_pedido": "2300151",
@@ -846,6 +846,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32488",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-29 09:56:22",
+      "data_hora_confirmacao": "2026-01-29 09:57:42",
+      "data_hora_confirmacao_pagamento": "2026-01-29 09:57:43",
+      "valor_total_produtos": 661.25,
+      "valor_frete": 30.09,
+      "frete": "JADLOG",
+      "valor_total_pedido": 691.34,
+      "desconto": 0,
+      "cidade": "Botucatu",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -5505,6 +5524,70 @@
       "categoria": "CALÇA JEANS LUXO IMPORTADA ",
       "marca": "Hugo Boss",
       "quantidade": "2"
+    },
+    "55918": {
+      "codigo": "55918",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "55919": {
+      "codigo": "55919",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "5"
+    },
+    "55922": {
+      "codigo": "55922",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "55925": {
+      "codigo": "55925",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "3"
+    },
+    "55926": {
+      "codigo": "55926",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "4"
+    },
+    "55934": {
+      "codigo": "55934",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55937": {
+      "codigo": "55937",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "55938": {
+      "codigo": "55938",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "3"
     },
     "CD29.1G": {
       "codigo": "CD29.1G",
