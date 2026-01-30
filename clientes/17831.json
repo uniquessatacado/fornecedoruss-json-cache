@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 344.94,
+  "total_pedidos": 6,
+  "valor_total_comprado": 494.21,
   "pedidos": [
     {
       "codigo_pedido": "25094",
@@ -87,6 +87,44 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32491",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-30 14:38:26",
+      "data_hora_confirmacao": "2026-01-30 14:41:22",
+      "data_hora_confirmacao_pagamento": "2026-01-30 14:41:22",
+      "valor_total_produtos": 29.04,
+      "valor_frete": 16.29,
+      "frete": "SEDEX",
+      "valor_total_pedido": 45.33,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32492",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-30 14:38:26",
+      "data_hora_confirmacao": "2026-01-30 14:50:05",
+      "data_hora_confirmacao_pagamento": "2026-01-30 14:50:05",
+      "valor_total_produtos": 74.04,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 103.94,
+      "desconto": 0,
+      "cidade": "Paulínia",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
     }
   ],
   "produtos_comprados": {
@@ -112,6 +150,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51102": {
+      "codigo": "51102",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER UNITED II 25/26 - Tamanho: GG - Times : Manchester United - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     },
     "53288": {
@@ -176,6 +222,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55962": {
+      "codigo": "55962",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }
