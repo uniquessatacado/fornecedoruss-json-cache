@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 174.1,
+  "total_pedidos": 4,
+  "valor_total_comprado": 195.1,
   "pedidos": [
     {
       "codigo_pedido": "23052",
@@ -60,6 +60,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 54.15,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32497",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-01-31 13:08:29",
+      "data_hora_confirmacao": "2026-01-31 13:09:26",
+      "data_hora_confirmacao_pagamento": "2026-01-31 13:09:26",
+      "valor_total_produtos": 21,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 21,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -189,6 +208,30 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55142": {
+      "codigo": "55142",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55848": {
+      "codigo": "55848",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55866": {
+      "codigo": "55866",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
       "quantidade": "1"
     }
   }
