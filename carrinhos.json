@@ -1,49 +1,7 @@
 {
     "success": true,
-    "total_carrinhos": 755,
+    "total_carrinhos": 754,
     "lista_carrinhos": [
-        {
-            "id": "73551",
-            "id_clientes": "5626",
-            "chave_sessao": "61f5faba2ea8de8273bddccd5ad790df",
-            "nome": "MICHAEL MAXWELL DE OLIVEIRA NASCIMENTO",
-            "email": "michaelmaxwel@gmail.com",
-            "celular": "(12) 99666-9436",
-            "id_usuarios": "1",
-            "data_transacao": "2025-12-07",
-            "hora_transacao": "09:17:36",
-            "ip": "172.69.11.252",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-01-31 18:09:21",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-arte-em-dtf-lt055\/54583\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-arte-em-dtf-lt055\/54583\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/61f5faba2ea8de8273bddccd5ad790df\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-44.jpg",
-                    "codigo": "55848",
-                    "produto": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "6",
-                    "valor_total": "R$ 105,00",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "LACOSTE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-04-25_12-52-59_2.jpg",
-                    "codigo": "47562",
-                    "produto": "Camiseta 40.1 Infantil | Conforto e Estilo LT46A (C887)   - Tamanho Infantil: 6 ",
-                    "valor_unitario": "R$ 45,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 45,00",
-                    "categoria_principal": "Camiseta Infantil",
-                    "categoria": "40.1 Infantil",
-                    "marca": "ARMANI"
-                }
-            ]
-        },
         {
             "id": "74021",
             "id_clientes": "4296",
@@ -56,7 +14,7 @@
             "hora_transacao": "16:02:06",
             "ip": "104.23.254.165",
             "excluido": "F",
-            "data_hora_atualizacao": "2026-01-31 18:07:58",
+            "data_hora_atualizacao": "2026-01-31 18:26:27",
             "id_clientes_loja_drop": "0",
             "url_abandono": "fornecedoruss.com.br\/",
             "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
@@ -149,6 +107,48 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
+                }
+            ]
+        },
+        {
+            "id": "73551",
+            "id_clientes": "5626",
+            "chave_sessao": "61f5faba2ea8de8273bddccd5ad790df",
+            "nome": "MICHAEL MAXWELL DE OLIVEIRA NASCIMENTO",
+            "email": "michaelmaxwel@gmail.com",
+            "celular": "(12) 99666-9436",
+            "id_usuarios": "1",
+            "data_transacao": "2025-12-07",
+            "hora_transacao": "09:17:36",
+            "ip": "172.69.11.252",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-01-31 18:09:21",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-arte-em-dtf-lt055\/54583\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/camiseta-suedine-11-ultra-nike-arte-em-dtf-lt055\/54583\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/61f5faba2ea8de8273bddccd5ad790df\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-44.jpg",
+                    "codigo": "55848",
+                    "produto": "Cueca Peruana - Lacoste (LT058) - Cor: BRANCA - Tamanho: M ",
+                    "valor_unitario": "R$ 17,50",
+                    "quantidade": "6",
+                    "valor_total": "R$ 105,00",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-04-25_12-52-59_2.jpg",
+                    "codigo": "47562",
+                    "produto": "Camiseta 40.1 Infantil | Conforto e Estilo LT46A (C887)   - Tamanho Infantil: 6 ",
+                    "valor_unitario": "R$ 45,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 45,00",
+                    "categoria_principal": "Camiseta Infantil",
+                    "categoria": "40.1 Infantil",
+                    "marca": "ARMANI"
                 }
             ]
         },
@@ -2336,37 +2336,6 @@
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
                     "marca": "Camisa de Time"
-                }
-            ]
-        },
-        {
-            "id": "74004",
-            "id_clientes": "11653",
-            "chave_sessao": "79c47b82ce84184216cf3dbc84879a8d",
-            "nome": "LUIZ FILIPE SOARES DE BRITO OLIVEIRA",
-            "email": "Filipeluiz803@gmail.com",
-            "celular": "(38) 99889-0194",
-            "id_usuarios": "1",
-            "data_transacao": "2026-01-30",
-            "hora_transacao": "06:42:37",
-            "ip": "172.69.114.15",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-01-30 22:32:44",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/79c47b82ce84184216cf3dbc84879a8d\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-01-29_23-32-38.webp",
-                    "codigo": "55943",
-                    "produto": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G ",
-                    "valor_unitario": "R$ 50,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 50,00",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-                    "marca": "NIKE"
                 }
             ]
         },
