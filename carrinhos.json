@@ -3,6 +3,37 @@
     "total_carrinhos": 756,
     "lista_carrinhos": [
         {
+            "id": "74000",
+            "id_clientes": "254",
+            "chave_sessao": "a7d9f12699cadca587f2aa601758f109",
+            "nome": "ALLAN AQUINO",
+            "email": "allanpedrozo981@gmail.com",
+            "celular": "(19) 9715-44364",
+            "id_usuarios": "1",
+            "data_transacao": "2026-01-30",
+            "hora_transacao": "04:42:06",
+            "ip": "172.71.234.254",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-01 02:20:00",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/a7d9f12699cadca587f2aa601758f109\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-21_12-07-25_3.jpg",
+                    "codigo": "51078",
+                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25\/26 - Tamanho: GG - Times : Milan - VERSÃO: TORCEDOR ",
+                    "valor_unitario": "R$ 127,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 127,50",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
+        {
             "id": "73515",
             "id_clientes": "4966",
             "chave_sessao": "784d3f5705c52474f0592f904a96cd7d",
@@ -3248,37 +3279,6 @@
                     "categoria_principal": "PRODUTOS AUTOMOTIVOS",
                     "categoria": "LAVAGEM DE CARRO",
                     "marca": "VAZZ"
-                }
-            ]
-        },
-        {
-            "id": "74000",
-            "id_clientes": "254",
-            "chave_sessao": "a7d9f12699cadca587f2aa601758f109",
-            "nome": "ALLAN AQUINO",
-            "email": "allanpedrozo981@gmail.com",
-            "celular": "(19) 9715-44364",
-            "id_usuarios": "1",
-            "data_transacao": "2026-01-30",
-            "hora_transacao": "04:42:06",
-            "ip": "172.71.234.254",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-01-30 11:03:04",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/a7d9f12699cadca587f2aa601758f109\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-21_12-07-25_3.jpg",
-                    "codigo": "51078",
-                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25\/26 - Tamanho: GG - Times : Milan - VERSÃO: TORCEDOR ",
-                    "valor_unitario": "R$ 127,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 127,50",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-                    "marca": "Camisa de Time"
                 }
             ]
         },
