@@ -9,8 +9,8 @@
   "estado": "PE",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 361.31,
+  "total_pedidos": 4,
+  "valor_total_comprado": 518.95,
   "pedidos": [
     {
       "codigo_pedido": "22000",
@@ -68,6 +68,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32501",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "data_hora_pedido": "2026-02-02 12:09:59",
+      "data_hora_confirmacao": "2026-02-02 12:11:04",
+      "data_hora_confirmacao_pagamento": "2026-02-02 12:11:04",
+      "valor_total_produtos": 129,
+      "valor_frete": 28.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 157.64,
+      "desconto": 0,
+      "cidade": "Araçoiaba",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -117,6 +136,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55184": {
+      "codigo": "55184",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55866": {
+      "codigo": "55866",
+      "titulo": "Cueca Peruana - Hugo Boss (LT058) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55918": {
+      "codigo": "55918",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55928": {
+      "codigo": "55928",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55934": {
+      "codigo": "55934",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55952": {
+      "codigo": "55952",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }
