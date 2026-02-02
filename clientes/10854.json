@@ -9,8 +9,69 @@
   "estado": "SE",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 1480.58,
+  "pedidos": [
+    {
+      "codigo_pedido": "32500",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-02 10:26:11",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 1480.58,
+      "valor_frete": 0,
+      "frete": "FRETE GRÁTIS",
+      "valor_total_pedido": 1480.58,
+      "desconto": 0,
+      "cidade": "Itabaiana",
+      "estado": "SE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55256": {
+      "codigo": "55256",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: P - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "55257": {
+      "codigo": "55257",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: M - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "6"
+    },
+    "55258": {
+      "codigo": "55258",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "6"
+    },
+    "55259": {
+      "codigo": "55259",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: GG - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "3"
+    },
+    "55260": {
+      "codigo": "55260",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
 }
