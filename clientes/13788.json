@@ -9,8 +9,8 @@
   "estado": "BA",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 10,
-  "valor_total_comprado": 1528.47,
+  "total_pedidos": 11,
+  "valor_total_comprado": 1737.3,
   "pedidos": [
     {
       "codigo_pedido": "18249",
@@ -193,6 +193,25 @@
       "valor_frete": 23.43,
       "frete": "LOGGI",
       "valor_total_pedido": 72.18,
+      "desconto": 0,
+      "cidade": "Candeias",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32519",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-03 19:41:32",
+      "data_hora_confirmacao": "2026-02-03 19:43:57",
+      "data_hora_confirmacao_pagamento": "2026-02-03 19:43:57",
+      "valor_total_produtos": 167.25,
+      "valor_frete": 41.58,
+      "frete": "PAC",
+      "valor_total_pedido": 208.83,
       "desconto": 0,
       "cidade": "Candeias",
       "estado": "BA",
@@ -388,6 +407,22 @@
       "marca": "ADIDAS",
       "quantidade": "1"
     },
+    "42154": {
+      "codigo": "42154",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42684": {
+      "codigo": "42684",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO VERMELHO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
     "51655": {
       "codigo": "51655",
       "titulo": "Camiseta Suedine 1:1 Ultra Adidas - ARTE EM DTF - Cor: PRETA - Tamanho: M",
@@ -434,6 +469,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "54005": {
+      "codigo": "54005",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - ARMANI (LT049) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "55952": {
+      "codigo": "55952",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56024": {
+      "codigo": "56024",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56030": {
+      "codigo": "56030",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }
