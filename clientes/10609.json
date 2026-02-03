@@ -9,8 +9,8 @@
   "estado": "BA",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 7,
-  "valor_total_comprado": 413.27000000000004,
+  "total_pedidos": 8,
+  "valor_total_comprado": 570.6700000000001,
   "pedidos": [
     {
       "codigo_pedido": "13476",
@@ -144,6 +144,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32511",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-03 09:43:48",
+      "data_hora_confirmacao": "2026-02-03 09:50:21",
+      "data_hora_confirmacao_pagamento": "2026-02-03 09:50:21",
+      "valor_total_produtos": 127.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 157.4,
+      "desconto": 0,
+      "cidade": "Iaçu",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -193,6 +212,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "50915": {
+      "codigo": "50915",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 25/26 - Tamanho: GG - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     },
     "CD02.123GG": {

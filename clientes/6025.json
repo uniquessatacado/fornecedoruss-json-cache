@@ -9,8 +9,8 @@
   "estado": "DF",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 7,
-  "valor_total_comprado": 1341.5600000000002,
+  "total_pedidos": 8,
+  "valor_total_comprado": 1545.0300000000002,
   "pedidos": [
     {
       "codigo_pedido": "7109",
@@ -143,6 +143,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32510",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-03 09:18:06",
+      "data_hora_confirmacao": "2026-02-03 09:20:06",
+      "data_hora_confirmacao_pagamento": "2026-02-03 09:20:06",
+      "valor_total_produtos": 185.12,
+      "valor_frete": 18.35,
+      "frete": "LOGGI",
+      "valor_total_pedido": 203.47,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -345,6 +364,46 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "42127": {
+      "codigo": "42127",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "COLCCI",
+      "quantidade": "1"
+    },
+    "55937": {
+      "codigo": "55937",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55943": {
+      "codigo": "55943",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55955": {
+      "codigo": "55955",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "56048": {
+      "codigo": "56048",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     },
     "CD29.7": {
