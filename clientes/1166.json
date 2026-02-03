@@ -9,7 +9,7 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 64,
+  "total_pedidos": 65,
   "valor_total_comprado": 13708.47999999999,
   "pedidos": [
     {
@@ -1211,14 +1211,14 @@
     },
     {
       "codigo_pedido": "32506",
-      "situacao_pedido": "PEDIDO ABERTO",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
       "data_hora_pedido": "2026-02-02 23:16:50",
-      "data_hora_confirmacao": null,
+      "data_hora_confirmacao": "2026-02-03 12:33:38",
       "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 201.25,
+      "valor_total_produtos": 172.5,
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
-      "valor_total_pedido": 201.25,
+      "valor_total_pedido": 172.5,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -1226,6 +1226,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32515",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-03 12:44:57",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2026-02-03 12:44:57",
+      "valor_total_produtos": 28.75,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 28.75,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -1302,9 +1321,9 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "55974": {
-      "codigo": "55974",
-      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: GG",
+    "55968": {
+      "codigo": "55968",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: GG",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
