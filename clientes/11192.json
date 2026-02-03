@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 341.32,
+  "total_pedidos": 3,
+  "valor_total_comprado": 659.54,
   "pedidos": [
     {
       "codigo_pedido": "14221",
@@ -49,6 +49,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32512",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-03 10:03:19",
+      "data_hora_confirmacao": "2026-02-03 10:04:59",
+      "data_hora_confirmacao_pagamento": "2026-02-03 10:04:59",
+      "valor_total_produtos": 298.97,
+      "valor_frete": 19.25,
+      "frete": "LOGGI",
+      "valor_total_pedido": 318.22,
+      "desconto": 0,
+      "cidade": "Carapicuíba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -83,6 +102,46 @@
       "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
       "marca": "Camisa de Time",
       "quantidade": "1"
+    },
+    "56041": {
+      "codigo": "56041",
+      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: GG - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56043": {
+      "codigo": "56043",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56047": {
+      "codigo": "56047",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56048": {
+      "codigo": "56048",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
     }
   }
 }
