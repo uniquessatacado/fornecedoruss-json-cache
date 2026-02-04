@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 702.49,
+  "total_pedidos": 3,
+  "valor_total_comprado": 937.6700000000001,
   "pedidos": [
     {
       "codigo_pedido": "11937",
@@ -41,6 +41,25 @@
       "valor_frete": 29.34,
       "frete": "LOGGI",
       "valor_total_pedido": 483.7,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32523",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-04 15:23:46",
+      "data_hora_confirmacao": "2026-02-04 15:26:46",
+      "data_hora_confirmacao_pagamento": "2026-02-04 15:26:46",
+      "valor_total_produtos": 218.47,
+      "valor_frete": 16.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 235.18,
       "desconto": 0,
       "cidade": "São Paulo",
       "estado": "SP",
@@ -290,6 +309,62 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55952": {
+      "codigo": "55952",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56067": {
+      "codigo": "56067",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56085": {
+      "codigo": "56085",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56094": {
+      "codigo": "56094",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56112": {
+      "codigo": "56112",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56118": {
+      "codigo": "56118",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56138": {
+      "codigo": "56138",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD22.3M": {
