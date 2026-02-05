@@ -9,8 +9,61 @@
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 286.36,
+  "pedidos": [
+    {
+      "codigo_pedido": "32531",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-05 12:34:28",
+      "data_hora_confirmacao": "2026-02-05 12:36:19",
+      "data_hora_confirmacao_pagamento": "2026-02-05 12:36:19",
+      "valor_total_produtos": 258.72,
+      "valor_frete": 27.64,
+      "frete": "LOGGI",
+      "valor_total_pedido": 286.36,
+      "desconto": 0,
+      "cidade": "Irati",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "56043": {
+      "codigo": "56043",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: P - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56047": {
+      "codigo": "56047",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56048": {
+      "codigo": "56048",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
 }
