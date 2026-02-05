@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 6,
-  "valor_total_comprado": 1078.58,
+  "total_pedidos": 7,
+  "valor_total_comprado": 1279.8,
   "pedidos": [
     {
       "codigo_pedido": "5685",
@@ -117,6 +117,25 @@
       "valor_frete": 29.9,
       "frete": "FRETE FIXO",
       "valor_total_pedido": 280.02,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32526",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-04 21:28:23",
+      "data_hora_confirmacao": "2026-02-04 21:29:18",
+      "data_hora_confirmacao_pagamento": "2026-02-04 21:29:18",
+      "valor_total_produtos": 201.22,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 201.22,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -254,6 +273,54 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56048": {
+      "codigo": "56048",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: G - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56153": {
+      "codigo": "56153",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56159": {
+      "codigo": "56159",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56167": {
+      "codigo": "56167",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56184": {
+      "codigo": "56184",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56190": {
+      "codigo": "56190",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD2.81": {
