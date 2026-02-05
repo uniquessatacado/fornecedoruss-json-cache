@@ -9,8 +9,8 @@
   "estado": "GO",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 1194.4,
+  "total_pedidos": 5,
+  "valor_total_comprado": 1226.02,
   "pedidos": [
     {
       "codigo_pedido": "25790",
@@ -75,10 +75,10 @@
       "data_hora_pedido": "2026-02-04 13:53:36",
       "data_hora_confirmacao": "2026-02-04 14:27:51",
       "data_hora_confirmacao_pagamento": "2026-02-04 14:27:51",
-      "valor_total_produtos": 173.86,
+      "valor_total_produtos": 142.24,
       "valor_frete": 32.57,
       "frete": "LOGGI",
-      "valor_total_pedido": 206.43,
+      "valor_total_pedido": 174.81,
       "desconto": 0,
       "cidade": "Caldas Novas",
       "estado": "GO",
@@ -86,6 +86,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32537",
+      "situacao_pedido": "PEDIDO SEPARADO",
+      "data_hora_pedido": "2026-02-05 15:12:23",
+      "data_hora_confirmacao": "2026-02-05 15:12:23",
+      "data_hora_confirmacao_pagamento": "2026-02-05 15:12:23",
+      "valor_total_produtos": 63.24,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 63.24,
+      "desconto": 0,
+      "cidade": "Caldas Novas",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -386,20 +405,28 @@
       "marca": "QUIKSILVER",
       "quantidade": "1"
     },
-    "56069": {
-      "codigo": "56069",
-      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "QUIKSILVER",
-      "quantidade": "1"
-    },
     "56075": {
       "codigo": "56075",
       "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56097": {
+      "codigo": "56097",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56121": {
+      "codigo": "56121",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
