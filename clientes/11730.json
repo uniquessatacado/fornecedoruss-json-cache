@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 12,
-  "valor_total_comprado": 3853.74,
+  "total_pedidos": 13,
+  "valor_total_comprado": 4087.25,
   "pedidos": [
     {
       "codigo_pedido": "21017",
@@ -231,6 +231,25 @@
       "valor_frete": 19.35,
       "frete": "LOGGI",
       "valor_total_pedido": 152.97,
+      "desconto": 0,
+      "cidade": "Guaratinguetá",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32532",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-05 13:30:20",
+      "data_hora_confirmacao": "2026-02-05 13:40:06",
+      "data_hora_confirmacao_pagamento": "2026-02-05 13:40:06",
+      "valor_total_produtos": 215.62,
+      "valor_frete": 17.89,
+      "frete": "LOGGI",
+      "valor_total_pedido": 233.51,
       "desconto": 0,
       "cidade": "Guaratinguetá",
       "estado": "SP",
@@ -1072,6 +1091,54 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55937": {
+      "codigo": "55937",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55956": {
+      "codigo": "55956",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56003": {
+      "codigo": "56003",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "2"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56034": {
+      "codigo": "56034",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     }
   }
