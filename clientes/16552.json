@@ -9,8 +9,8 @@
   "estado": "MT",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 1514.05,
+  "total_pedidos": 8,
+  "valor_total_comprado": 1381.11,
   "pedidos": [
     {
       "codigo_pedido": "22812",
@@ -136,25 +136,6 @@
       "valor_frete": 46.94,
       "frete": "LOGGI",
       "valor_total_pedido": 342.18,
-      "desconto": 0,
-      "cidade": "Cuiabá",
-      "estado": "MT",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32508",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-03 06:12:29",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 111.37,
-      "valor_frete": 21.57,
-      "frete": "LOGGI",
-      "valor_total_pedido": 132.94,
       "desconto": 0,
       "cidade": "Cuiabá",
       "estado": "MT",
@@ -457,21 +438,13 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "55142": {
-      "codigo": "55142",
-      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Cuecas Peruanas",
-      "marca": "Hugo Boss",
-      "quantidade": "1"
-    },
     "55184": {
       "codigo": "55184",
       "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M",
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "CALVIN KLEIN",
-      "quantidade": 2
+      "quantidade": "1"
     },
     "55220": {
       "codigo": "55220",
@@ -479,7 +452,7 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "GUCCI",
-      "quantidade": 2
+      "quantidade": "1"
     },
     "55848": {
       "codigo": "55848",
@@ -487,7 +460,7 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "LACOSTE",
-      "quantidade": 2
+      "quantidade": "1"
     },
     "56036": {
       "codigo": "56036",
@@ -495,7 +468,7 @@
       "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
       "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
-      "quantidade": 2
+      "quantidade": "1"
     },
     "56041": {
       "codigo": "56041",
@@ -511,7 +484,7 @@
       "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
       "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
-      "quantidade": 2
+      "quantidade": "1"
     }
   }
 }

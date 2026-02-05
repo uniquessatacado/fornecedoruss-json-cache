@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 19,
-  "valor_total_comprado": 1175.92,
+  "total_pedidos": 20,
+  "valor_total_comprado": 1263.04,
   "pedidos": [
     {
       "codigo_pedido": "29355",
@@ -372,6 +372,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32527",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-05 00:14:31",
+      "data_hora_confirmacao": "2026-02-05 00:20:14",
+      "data_hora_confirmacao_pagamento": "2026-02-05 00:20:15",
+      "valor_total_produtos": 87.12,
+      "valor_frete": 0,
+      "frete": "NÃO ENVIAR AGORA – VOU COMPRAR MAIS !!!",
+      "valor_total_pedido": 87.12,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
     }
   ],
   "produtos_comprados": {
@@ -605,6 +624,30 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "56004": {
+      "codigo": "56004",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56010": {
+      "codigo": "56010",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56034": {
+      "codigo": "56034",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }

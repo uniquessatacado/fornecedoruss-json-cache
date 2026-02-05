@@ -9,77 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 189.78,
-  "pedidos": [
-    {
-      "codigo_pedido": "32513",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-03 10:46:32",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 172.5,
-      "valor_frete": 17.28,
-      "frete": "LOGGI",
-      "valor_total_pedido": 189.78,
-      "desconto": 0,
-      "cidade": "Itapevi",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
-    }
-  ],
-  "produtos_comprados": {
-    "55918": {
-      "codigo": "55918",
-      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "55928": {
-      "codigo": "55928",
-      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "55934": {
-      "codigo": "55934",
-      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "55964": {
-      "codigo": "55964",
-      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "55982": {
-      "codigo": "55982",
-      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "56000": {
-      "codigo": "56000",
-      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "JORDAN",
-      "quantidade": "1"
-    }
-  }
+  "total_pedidos": 0,
+  "valor_total_comprado": 0,
+  "pedidos": [],
+  "produtos_comprados": []
 }
