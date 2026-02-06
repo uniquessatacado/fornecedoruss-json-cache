@@ -9,8 +9,8 @@
   "estado": "SC",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 406.89,
+  "total_pedidos": 4,
+  "valor_total_comprado": 548.68,
   "pedidos": [
     {
       "codigo_pedido": "21509",
@@ -67,6 +67,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32541",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-05 21:54:16",
+      "data_hora_confirmacao": "2026-02-05 22:00:11",
+      "data_hora_confirmacao_pagamento": "2026-02-05 22:00:11",
+      "valor_total_produtos": 125,
+      "valor_frete": 16.79,
+      "frete": "JADLOG",
+      "valor_total_pedido": 141.79,
+      "desconto": 0,
+      "cidade": "São José",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -141,6 +160,22 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA DE ELESTANO COM MICROFIBRA HIPER",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55982": {
+      "codigo": "55982",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56047": {
+      "codigo": "56047",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: M - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     }
   }
