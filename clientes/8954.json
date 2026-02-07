@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 447.90999999999997,
+  "total_pedidos": 5,
+  "valor_total_comprado": 634.9399999999999,
   "pedidos": [
     {
       "codigo_pedido": "11195",
@@ -87,6 +87,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32547",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-07 16:42:26",
+      "data_hora_confirmacao": "2026-02-07 16:50:05",
+      "data_hora_confirmacao_pagamento": "2026-02-07 16:50:05",
+      "valor_total_produtos": 172.5,
+      "valor_frete": 14.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 187.03,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -151,6 +170,54 @@
       "titulo": "Chinelo Slide Nike Preto com Logo Branco - Confortável, Estiloso e Versátil - COR CHINELO: PRETO - Marca: Nike - MODELO CHINELO: SLIDE NIKE - TAMANHO CHINELO: 40/41",
       "categoria_principal": "CHINELOS",
       "categoria": "Chinelos Premium ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55968": {
+      "codigo": "55968",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55980": {
+      "codigo": "55980",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55986": {
+      "codigo": "55986",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55998": {
+      "codigo": "55998",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56004": {
+      "codigo": "56004",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56016": {
+      "codigo": "56016",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
       "quantidade": "1"
     },
