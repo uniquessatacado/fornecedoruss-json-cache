@@ -9,8 +9,8 @@
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 51,
-  "valor_total_comprado": 6494.67,
+  "total_pedidos": 52,
+  "valor_total_comprado": 6701.89,
   "pedidos": [
     {
       "codigo_pedido": "2301543",
@@ -980,6 +980,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32543",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-07 06:46:58",
+      "data_hora_confirmacao": "2026-02-07 06:50:05",
+      "data_hora_confirmacao_pagamento": "2026-02-07 06:50:05",
+      "valor_total_produtos": 186.85,
+      "valor_frete": 20.37,
+      "frete": "LOGGI",
+      "valor_total_pedido": 207.22,
+      "desconto": 0,
+      "cidade": "Macaé",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1541,6 +1560,54 @@
       "categoria_principal": "CHINELOS",
       "categoria": "Chinelos Premium ",
       "marca": "Kenner",
+      "quantidade": "1"
+    },
+    "55944": {
+      "codigo": "55944",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56086": {
+      "codigo": "56086",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56131": {
+      "codigo": "56131",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56162": {
+      "codigo": "56162",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA MESCLA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56168": {
+      "codigo": "56168",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56191": {
+      "codigo": "56191",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD39.1GG": {
