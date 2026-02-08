@@ -2,15 +2,15 @@
   "codigo": "14013",
   "nome": "JANILSON SANTANA DE ALMEIDA",
   "email": "jansantana126@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "13/08/2024",
-  "whatsapp": "(48) 99662-6883",
-  "cidade": "Gaspar",
+  "whatsapp": "(48) 9966-26883",
+  "cidade": "Navegantes",
   "estado": "SC",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 166.79,
+  "total_pedidos": 2,
+  "valor_total_comprado": 296.78999999999996,
   "pedidos": [
     {
       "codigo_pedido": "21149",
@@ -29,6 +29,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32553",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-08 18:37:45",
+      "data_hora_confirmacao": "2026-02-08 18:39:10",
+      "data_hora_confirmacao_pagamento": "2026-02-08 18:39:10",
+      "valor_total_produtos": 110.12,
+      "valor_frete": 19.88,
+      "frete": "JADLOG",
+      "valor_total_pedido": 130,
+      "desconto": 0,
+      "cidade": "Navegantes",
+      "estado": "SC",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -63,6 +82,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "55220": {
+      "codigo": "55220",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "3"
+    },
+    "55979": {
+      "codigo": "55979",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56030": {
+      "codigo": "56030",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56121": {
+      "codigo": "56121",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
