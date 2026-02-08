@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 823,
+    "total_carrinhos": 822,
     "lista_carrinhos": [
+        {
+            "id": "74223",
+            "id_clientes": "1291",
+            "chave_sessao": "4d27907a7e770dc252f2f1e165102af9",
+            "nome": "ABRAÃO FELIPE",
+            "email": "abraaofeitosa99@gmail.com",
+            "celular": "(98) 9853-27442",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-08",
+            "hora_transacao": "15:54:41",
+            "ip": "104.22.10.218",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-08 15:54:41",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/4d27907a7e770dc252f2f1e165102af9\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_5_2026-02-04_13-57-59.webp",
+                    "codigo": "56115",
+                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: G ",
+                    "valor_unitario": "R$ 55,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 55,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "NIKE"
+                }
+            ]
+        },
         {
             "id": "74216",
             "id_clientes": "14013",
@@ -24,9 +55,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
                     "codigo": "55958",
                     "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: M ",
-                    "valor_unitario": "R$ 50,00",
+                    "valor_unitario": "R$ 28,75",
                     "quantidade": "1",
-                    "valor_total": "R$ 50,00",
+                    "valor_total": "R$ 28,75",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -35,9 +66,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
                     "codigo": "55961",
                     "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: G ",
-                    "valor_unitario": "R$ 50,00",
+                    "valor_unitario": "R$ 28,75",
                     "quantidade": "1",
-                    "valor_total": "R$ 50,00",
+                    "valor_total": "R$ 28,75",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -46,12 +77,23 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_7_2026-02-02_14-24-01.webp",
                     "codigo": "56024",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: M ",
-                    "valor_unitario": "R$ 50,00",
+                    "valor_unitario": "R$ 28,75",
                     "quantidade": "1",
-                    "valor_total": "R$ 50,00",
+                    "valor_total": "R$ 28,75",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-03-02.jpg",
+                    "codigo": "55220",
+                    "produto": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: M <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 7,00",
+                    "quantidade": "4",
+                    "valor_total": "R$ 28,00",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Cuecas Peruanas",
+                    "marca": "GUCCI"
                 }
             ]
         },
@@ -3098,9 +3140,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-02-02_14-24-01.webp",
                     "codigo": "56033",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -3109,9 +3151,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-01-29_23-32-38.webp",
                     "codigo": "55943",
                     "produto": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -3120,9 +3162,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_5_2026-02-02_13-16-46.webp",
                     "codigo": "55973",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -3131,9 +3173,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_13_2026-02-02_13-16-46.webp",
                     "codigo": "55985",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -3142,9 +3184,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_7_2026-02-02_14-24-01.webp",
                     "codigo": "56027",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -3153,9 +3195,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_9_2026-02-02_13-16-46.webp",
                     "codigo": "55979",
                     "produto": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G ",
-                    "valor_unitario": "R$ 28,75",
+                    "valor_unitario": "R$ 50,00",
                     "quantidade": "1",
-                    "valor_total": "R$ 28,75",
+                    "valor_total": "R$ 50,00",
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "NIKE"
@@ -49397,211 +49439,6 @@
                     "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
                     "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
                     "marca": "Camisa de Time"
-                }
-            ]
-        },
-        {
-            "id": "72609",
-            "id_clientes": "1351",
-            "chave_sessao": "084c08bc12618605df9e4db6f42ee172",
-            "nome": "DENIS PEREIRA",
-            "email": "dns.pereira@outlook.com",
-            "celular": "(19) 9931-71940",
-            "id_usuarios": "1",
-            "data_transacao": "2025-10-08",
-            "hora_transacao": "19:27:15",
-            "ip": "172.71.239.19",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-11-10 16:00:06",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/084c08bc12618605df9e4db6f42ee172\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-16_12-44-07_1.jpg",
-                    "codigo": "53044",
-                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR TOTTENHAM (STRAY KIDS EDITION)  25\/26 - Tamanho: M - Times : Tottenham - VERSÃO: TORCEDOR ",
-                    "valor_unitario": "R$ 127,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 127,50",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-                    "marca": "Camisa de Time"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-21_11-13-43_1.jpg",
-                    "codigo": "51159",
-                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR CHELSEA II 25\/26 - Tamanho: M - Times : Chelsea - VERSÃO: TORCEDOR ",
-                    "valor_unitario": "R$ 127,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 127,50",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-                    "marca": "Camisa de Time"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-39.jpg",
-                    "codigo": "55824",
-                    "produto": "Cueca Peruana - Tommy (LT058) - Cor: CINZA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "Tommy Hilfiger"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-04_11-56-36.jpg",
-                    "codigo": "55812",
-                    "produto": "Cueca Peruana - Tommy (LT058) - Cor: PRETA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "Tommy Hilfiger"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_18-28-22.jpg",
-                    "codigo": "55190",
-                    "produto": "Cueca Peruana Calvin Klein (LT057) - Cor: CINZA - Tamanho: M ",
-                    "valor_unitario": "R$ 17,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 17,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Cuecas Peruanas",
-                    "marca": "CALVIN KLEIN"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-08_09-38-31.jpg",
-                    "codigo": "54003",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA - NIKE (LT049) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: M ",
-                    "valor_unitario": "R$ 67,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 67,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-02_15-46-39.jpg",
-                    "codigo": "55541",
-                    "produto": "Regata Machão Suedine 1:1 Nike - Logo Bordado (LT059) - Cor: PRETA - Tamanho: P ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "REGATAS",
-                    "categoria": "Regata Machão",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-02_15-46-52_1.jpg",
-                    "codigo": "55569",
-                    "produto": "Regata Machão Suedine 1:1 Adidas - Logo Bordado (LT059) - Cor: OFFWHITE - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "REGATAS",
-                    "categoria": "Regata Machão",
-                    "marca": "ADIDAS"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-26-18.jpg",
-                    "codigo": "55777",
-                    "produto": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: CHUMBO - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "ADIDAS"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-26-192.jpg",
-                    "codigo": "55765",
-                    "produto": "Bermuda Microfibra Ultra Adidas (LT060) - Cor: PRETA - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "ADIDAS"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-26-32.jpg",
-                    "codigo": "55691",
-                    "produto": "Bermuda Microfibra Ultra Nike (LT060) - Cor: PRETA - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-10-03_13-27-15.jpg",
-                    "codigo": "55663",
-                    "produto": "Bermuda Microfibra Ultra Nike (LT060) - Cor: CHUMBO - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-09-24_16-41-19.jpg",
-                    "codigo": "55040",
-                    "produto": "Bermuda Microfibra Ultra Lacoste - Cor: PRETA - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "LACOSTE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-27_12-06-31_1.jpg",
-                    "codigo": "53440",
-                    "produto": "Bermuda Microfibra Ultra Jordan (LT042) - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA ULTRA",
-                    "marca": "JORDAN"
-                }
-            ]
-        },
-        {
-            "id": "73138",
-            "id_clientes": "12331",
-            "chave_sessao": "d6af191b572ea2843cd5154b38334c40",
-            "nome": "KLEBER MEDRADO",
-            "email": "kleber_medrado@hotmail.com",
-            "celular": "(11) 9536-01612",
-            "id_usuarios": "1",
-            "data_transacao": "2025-11-10",
-            "hora_transacao": "15:33:31",
-            "ip": "172.71.2.134",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-11-10 15:37:08",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d6af191b572ea2843cd5154b38334c40\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_13-56-22_2.jpg",
-                    "codigo": "51389",
-                    "produto": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: G <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 81,25",
-                    "quantidade": "1",
-                    "valor_total": "R$ 81,25",
-                    "categoria_principal": "CORTA VENTO E MOLETOM",
-                    "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
-                    "marca": "LACOSTE"
                 }
             ]
         }
