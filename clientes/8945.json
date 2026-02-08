@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 19,
-  "valor_total_comprado": 1177.92,
+  "total_pedidos": 20,
+  "valor_total_comprado": 1265.5900000000001,
   "pedidos": [
     {
       "codigo_pedido": "11186",
@@ -372,6 +372,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32548",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-08 01:47:08",
+      "data_hora_confirmacao": "2026-02-08 01:50:05",
+      "data_hora_confirmacao_pagamento": "2026-02-08 01:50:05",
+      "valor_total_produtos": 75,
+      "valor_frete": 12.67,
+      "frete": "LOGGI",
+      "valor_total_pedido": 87.67,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -532,6 +551,14 @@
       "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: GG - Times : Corinthians - VERSÃO: TORCEDOR",
       "categoria_principal": "Tailandesa 1:1 encomenda",
       "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
       "quantidade": "1"
     }
