@@ -2,15 +2,15 @@
   "codigo": "12628",
   "nome": "RUAN HENRIQUE",
   "email": "ruanhenriquesiuva@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "18/07/2024",
   "whatsapp": "(24) 9932-00870",
   "cidade": "Angra dos Reis",
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 402.77000000000004,
+  "total_pedidos": 3,
+  "valor_total_comprado": 592.49,
   "pedidos": [
     {
       "codigo_pedido": "17962",
@@ -48,6 +48,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32558",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-09 18:11:51",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 162,
+      "valor_frete": 27.72,
+      "frete": "JADLOG",
+      "valor_total_pedido": 189.72,
+      "desconto": 0,
+      "cidade": "Angra dos Reis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -167,6 +186,38 @@
     "31255": {
       "codigo": "31255",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE - Cor: PRETO VERMELHO MARINHO - Tamanho: G",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "41008": {
+      "codigo": "41008",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "41077": {
+      "codigo": "41077",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C308) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "45549": {
+      "codigo": "45549",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "LACOSTE",

@@ -4,13 +4,82 @@
   "email": "guesteves21@gmail.com",
   "sexo": "3",
   "data_cadastro": "15/03/2023",
-  "whatsapp": "(19) 99323-2659",
+  "whatsapp": "(19) 9932-32659",
   "cidade": "Indaiatuba",
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 439.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "32559",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-09 18:55:24",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 439.86,
+      "valor_frete": 0,
+      "frete": "FRETE GRÁTIS",
+      "valor_total_pedido": 439.86,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "50914": {
+      "codigo": "50914",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 25/26 - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "51077": {
+      "codigo": "51077",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25/26 - Tamanho: G - Times : Milan - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "51085": {
+      "codigo": "51085",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR INTER DE MILÃO 25/26 - Tamanho: G - Times : Inter de Milão - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "51093": {
+      "codigo": "51093",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER UNITED 25/26 - Tamanho: G - Times : Manchester United - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "51117": {
+      "codigo": "51117",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CHELSEA 25/26 - Tamanho: G - Times : Chelsea - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55097": {
+      "codigo": "55097",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR ARGENTINA 24/25 - (envio direto da fabrica) - Tamanho: G - Times : Argentina - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    }
+  }
 }
