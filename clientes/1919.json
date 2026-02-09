@@ -9,8 +9,8 @@
   "estado": "PE",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 6,
-  "valor_total_comprado": 1112.19,
+  "total_pedidos": 7,
+  "valor_total_comprado": 1250.77,
   "pedidos": [
     {
       "codigo_pedido": "2302228",
@@ -125,6 +125,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32555",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-09 14:43:18",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 108,
+      "valor_frete": 30.58,
+      "frete": "LOGGI",
+      "valor_total_pedido": 138.58,
+      "desconto": 0,
+      "cidade": "Pombos",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -190,6 +209,30 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "DOLCE GABBANA ",
+      "quantidade": "1"
+    },
+    "42670": {
+      "codigo": "42670",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "51425": {
+      "codigo": "51425",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "55854": {
+      "codigo": "55854",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
       "quantidade": "1"
     },
     "CD37.1": {
