@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 937.6700000000001,
+  "total_pedidos": 4,
+  "valor_total_comprado": 1236.67,
   "pedidos": [
     {
       "codigo_pedido": "11937",
@@ -60,6 +60,25 @@
       "valor_frete": 16.71,
       "frete": "LOGGI",
       "valor_total_pedido": 235.18,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32560",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-10 08:34:03",
+      "data_hora_confirmacao": "2026-02-10 08:40:07",
+      "data_hora_confirmacao_pagamento": "2026-02-10 08:40:07",
+      "valor_total_produtos": 281.23,
+      "valor_frete": 17.77,
+      "frete": "LOGGI",
+      "valor_total_pedido": 299,
       "desconto": 0,
       "cidade": "São Paulo",
       "estado": "SP",
@@ -311,6 +330,22 @@
       "marca": "Tommy Hilfiger",
       "quantidade": "1"
     },
+    "54069": {
+      "codigo": "54069",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - VERSACE (LT049) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
+    "55220": {
+      "codigo": "55220",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
     "55952": {
       "codigo": "55952",
       "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: M",
@@ -359,12 +394,44 @@
       "marca": "MIZUNO",
       "quantidade": "1"
     },
+    "56129": {
+      "codigo": "56129",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
     "56138": {
       "codigo": "56138",
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: M",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56204": {
+      "codigo": "56204",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56227": {
+      "codigo": "56227",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: BRANCA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56233": {
+      "codigo": "56233",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
       "quantidade": "1"
     },
     "CD22.3M": {
