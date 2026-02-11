@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 11,
-  "valor_total_comprado": 495.1,
+  "total_pedidos": 12,
+  "valor_total_comprado": 520.1,
   "pedidos": [
     {
       "codigo_pedido": "29949",
@@ -220,6 +220,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32570",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 13:02:33",
+      "data_hora_confirmacao": "2026-02-11 13:04:01",
+      "data_hora_confirmacao_pagamento": "2026-02-11 13:04:01",
+      "valor_total_produtos": 25,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 25,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -333,6 +352,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56003": {
+      "codigo": "56003",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
       "quantidade": "1"
     }
   }
