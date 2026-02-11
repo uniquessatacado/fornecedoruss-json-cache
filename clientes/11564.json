@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 15,
-  "valor_total_comprado": 5431.03,
+  "total_pedidos": 16,
+  "valor_total_comprado": 5607.84,
   "pedidos": [
     {
       "codigo_pedido": "14969",
@@ -280,7 +280,7 @@
     },
     {
       "codigo_pedido": "32479",
-      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "situacao_pedido": "PEDIDO ENVIADO",
       "data_hora_pedido": "2026-01-28 22:11:50",
       "data_hora_confirmacao": "2026-01-28 22:30:08",
       "data_hora_confirmacao_pagamento": "2026-01-28 22:30:08",
@@ -295,6 +295,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32587",
+      "situacao_pedido": "PEDIDO SEPARADO",
+      "data_hora_pedido": "2026-02-11 17:13:34",
+      "data_hora_confirmacao": "2026-02-11 17:13:34",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 176.81,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 176.81,
+      "desconto": 0,
+      "cidade": "Fartura",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -1339,6 +1358,14 @@
       "marca": "DIESEL",
       "quantidade": "1"
     },
+    "51443": {
+      "codigo": "51443",
+      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
     "51453": {
       "codigo": "51453",
       "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: MARROM",
@@ -1438,6 +1465,46 @@
     "55931": {
       "codigo": "55931",
       "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55955": {
+      "codigo": "55955",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55967": {
+      "codigo": "55967",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55991": {
+      "codigo": "55991",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56003": {
+      "codigo": "56003",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",

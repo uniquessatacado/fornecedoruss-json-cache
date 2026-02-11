@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 142.4,
+  "total_pedidos": 1,
+  "valor_total_comprado": 24.92,
   "pedidos": [
     {
       "codigo_pedido": "12797",
@@ -30,25 +30,6 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "SIM"
-    },
-    {
-      "codigo_pedido": "32493",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-01-30 15:52:52",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 103.5,
-      "valor_frete": 13.98,
-      "frete": "LOGGI",
-      "valor_total_pedido": 117.48,
-      "desconto": 0,
-      "cidade": "Sorocaba",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Dropshipping",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "SIM"
     }
   ],
   "produtos_comprados": {
@@ -58,22 +39,6 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
-      "quantidade": "1"
-    },
-    "51443": {
-      "codigo": "51443",
-      "titulo": "Boné Ultra Premium ARMANI (LT026) - Cor: PRETA",
-      "categoria_principal": "BONÉS",
-      "categoria": "Bonés Super Premium ",
-      "marca": "ARMANI",
-      "quantidade": "1"
-    },
-    "52739": {
-      "codigo": "52739",
-      "titulo": "Bermuda Microfibra Ultra ADIDAS (LT030) - Cor: AZUL ROYAL - Tamanho: G",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA ULTRA",
-      "marca": "ADIDAS",
       "quantidade": "1"
     }
   }
