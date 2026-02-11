@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 31,
-  "valor_total_comprado": 2812.87,
+  "total_pedidos": 32,
+  "valor_total_comprado": 2927.8599999999997,
   "pedidos": [
     {
       "codigo_pedido": "15064",
@@ -600,6 +600,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32575",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-11 14:25:07",
+      "data_hora_confirmacao": "2026-02-11 14:25:07",
+      "data_hora_confirmacao_pagamento": "2026-02-11 14:25:07",
+      "valor_total_produtos": 114.99,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 114.99,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1179,6 +1198,14 @@
       "marca": "LACOSTE",
       "quantidade": "1"
     },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
     "56098": {
       "codigo": "56098",
       "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: GG",
@@ -1209,6 +1236,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56225": {
+      "codigo": "56225",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
       "quantidade": "1"
     }
   }

@@ -2,15 +2,15 @@
   "codigo": "2480",
   "nome": "JOSÉ VITOR TAVARES",
   "email": "josevitor284@hotmail.com.br",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "21/09/2023",
-  "whatsapp": "(21) 99797-2892",
+  "whatsapp": "(21) 9979-72892",
   "cidade": "Rio de Janeiro",
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 5,
-  "valor_total_comprado": 1280.85,
+  "total_pedidos": 6,
+  "valor_total_comprado": 1442.25,
   "pedidos": [
     {
       "codigo_pedido": "2300927",
@@ -105,6 +105,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32576",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 14:26:30",
+      "data_hora_confirmacao": "2026-02-11 14:32:40",
+      "data_hora_confirmacao_pagamento": "2026-02-11 14:32:40",
+      "valor_total_produtos": 141.5,
+      "valor_frete": 19.9,
+      "frete": "JADLOG",
+      "valor_total_pedido": 161.4,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -315,6 +334,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "41008": {
+      "codigo": "41008",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55220": {
+      "codigo": "55220",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55952": {
+      "codigo": "55952",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55958": {
+      "codigo": "55958",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56024": {
+      "codigo": "56024",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56030": {
+      "codigo": "56030",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     },
     "CD17.27M": {
