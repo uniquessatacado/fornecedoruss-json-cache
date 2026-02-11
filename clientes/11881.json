@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 30,
-  "valor_total_comprado": 2672.39,
+  "total_pedidos": 31,
+  "valor_total_comprado": 2812.87,
   "pedidos": [
     {
       "codigo_pedido": "15064",
@@ -581,6 +581,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32566",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 07:23:10",
+      "data_hora_confirmacao": "2026-02-11 07:30:09",
+      "data_hora_confirmacao_pagamento": "2026-02-11 07:30:09",
+      "valor_total_produtos": 140.48,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 140.48,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1112,6 +1131,14 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
+    "55184": {
+      "codigo": "55184",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
     "55792": {
       "codigo": "55792",
       "titulo": "Cueca Peruana - Nike (LT058) - Cor: BRANCA - Tamanho: GG",
@@ -1142,6 +1169,46 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "55854": {
+      "codigo": "55854",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56098": {
+      "codigo": "56098",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56122": {
+      "codigo": "56122",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56142": {
+      "codigo": "56142",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56147": {
+      "codigo": "56147",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
