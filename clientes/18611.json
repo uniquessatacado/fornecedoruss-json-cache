@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "2",
-  "total_pedidos": 1,
-  "valor_total_comprado": 271.73,
+  "total_pedidos": 2,
+  "valor_total_comprado": 455.71000000000004,
   "pedidos": [
     {
       "codigo_pedido": "31278",
@@ -22,6 +22,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 271.73,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32568",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 11:02:53",
+      "data_hora_confirmacao": "2026-02-11 11:10:05",
+      "data_hora_confirmacao_pagamento": "2026-02-11 11:10:05",
+      "valor_total_produtos": 183.98,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 183.98,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -103,6 +122,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55943": {
+      "codigo": "55943",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55949": {
+      "codigo": "55949",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56097": {
+      "codigo": "56097",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56103": {
+      "codigo": "56103",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56124": {
+      "codigo": "56124",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56135": {
+      "codigo": "56135",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
