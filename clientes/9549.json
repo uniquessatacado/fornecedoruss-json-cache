@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 1061.08,
+  "total_pedidos": 3,
+  "valor_total_comprado": 1387.78,
   "pedidos": [
     {
       "codigo_pedido": "31803",
@@ -48,6 +48,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32564",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 05:15:45",
+      "data_hora_confirmacao": "2026-02-11 05:20:06",
+      "data_hora_confirmacao_pagamento": "2026-02-11 05:20:06",
+      "valor_total_produtos": 302.96,
+      "valor_frete": 23.74,
+      "frete": "JADLOG",
+      "valor_total_pedido": 326.7,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -314,6 +333,86 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "56004": {
+      "codigo": "56004",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56091": {
+      "codigo": "56091",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: AZUL TURQUEZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56092": {
+      "codigo": "56092",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: AZUL TURQUEZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56094": {
+      "codigo": "56094",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56100": {
+      "codigo": "56100",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56121": {
+      "codigo": "56121",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56190": {
+      "codigo": "56190",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)   - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56191": {
+      "codigo": "56191",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)   - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56197": {
+      "codigo": "56197",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
