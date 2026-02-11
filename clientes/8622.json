@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 1366.16,
+  "total_pedidos": 5,
+  "valor_total_comprado": 1905.5,
   "pedidos": [
     {
       "codigo_pedido": "11542",
@@ -86,6 +86,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32591",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 18:48:06",
+      "data_hora_confirmacao": "2026-02-11 18:50:06",
+      "data_hora_confirmacao_pagamento": "2026-02-11 18:50:06",
+      "valor_total_produtos": 503.82,
+      "valor_frete": 35.52,
+      "frete": "LOGGI",
+      "valor_total_pedido": 539.34,
+      "desconto": 0,
+      "cidade": "Mendonça",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -392,6 +411,142 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA ELASTANO SURF PREMIUM",
       "marca": "OAKLEY",
+      "quantidade": "1"
+    },
+    "51296": {
+      "codigo": "51296",
+      "titulo": "Camiseta Malha Egípcia Soft Armani - Aplique espelhado + bordado LT010 - Cor: VERMELHA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "54762": {
+      "codigo": "54762",
+      "titulo": "Camiseta Suedine 1:1 Ultra Puma - ARTE EM DTF (LT055) - Cor: ROXO - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "PUMA",
+      "quantidade": "1"
+    },
+    "55928": {
+      "codigo": "55928",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55931": {
+      "codigo": "55931",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55973": {
+      "codigo": "55973",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55985": {
+      "codigo": "55985",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56083": {
+      "codigo": "56083",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56115": {
+      "codigo": "56115",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56124": {
+      "codigo": "56124",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56144": {
+      "codigo": "56144",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56150": {
+      "codigo": "56150",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56153": {
+      "codigo": "56153",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56167": {
+      "codigo": "56167",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56181": {
+      "codigo": "56181",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56184": {
+      "codigo": "56184",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56187": {
+      "codigo": "56187",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)   - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56199": {
+      "codigo": "56199",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD16.30M": {

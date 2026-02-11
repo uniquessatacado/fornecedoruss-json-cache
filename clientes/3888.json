@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 34,
-  "valor_total_comprado": 7960.15,
+  "total_pedidos": 35,
+  "valor_total_comprado": 8185.15,
   "pedidos": [
     {
       "codigo_pedido": "2680",
@@ -649,6 +649,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 659.79,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32590",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 18:23:18",
+      "data_hora_confirmacao": "2026-02-11 18:24:46",
+      "data_hora_confirmacao_pagamento": "2026-02-11 18:24:46",
+      "valor_total_produtos": 225,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 225,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -2153,6 +2172,78 @@
       "titulo": "Bermuda Microfibra Ultra Nike (LT048) - Cor: CINZA CLARO - Tamanho: G",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55918": {
+      "codigo": "55918",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55922": {
+      "codigo": "55922",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55967": {
+      "codigo": "55967",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55985": {
+      "codigo": "55985",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55997": {
+      "codigo": "55997",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56015": {
+      "codigo": "56015",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56016": {
+      "codigo": "56016",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56030": {
+      "codigo": "56030",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
       "quantidade": "1"
     },
