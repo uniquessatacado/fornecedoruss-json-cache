@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 700.06,
+  "total_pedidos": 5,
+  "valor_total_comprado": 856.68,
   "pedidos": [
     {
       "codigo_pedido": "31262",
@@ -86,6 +86,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32607",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-12 13:01:25",
+      "data_hora_confirmacao": "2026-02-12 13:02:45",
+      "data_hora_confirmacao_pagamento": "2026-02-12 13:02:45",
+      "valor_total_produtos": 156.62,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 156.62,
+      "desconto": 0,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -272,6 +291,54 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55931": {
+      "codigo": "55931",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55979": {
+      "codigo": "55979",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55991": {
+      "codigo": "55991",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "55997": {
+      "codigo": "55997",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56009": {
+      "codigo": "56009",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56148": {
+      "codigo": "56148",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
