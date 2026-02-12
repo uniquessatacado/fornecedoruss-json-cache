@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 25,
-  "valor_total_comprado": 3553.23,
+  "total_pedidos": 26,
+  "valor_total_comprado": 3739.13,
   "pedidos": [
     {
       "codigo_pedido": "2958",
@@ -486,6 +486,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32597",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 21:06:44",
+      "data_hora_confirmacao": "2026-02-11 21:08:20",
+      "data_hora_confirmacao_pagamento": "2026-02-11 21:08:20",
+      "valor_total_produtos": 168.74,
+      "valor_frete": 17.16,
+      "frete": "LOGGI",
+      "valor_total_pedido": 185.9,
+      "desconto": 0,
+      "cidade": "Ribeirão Preto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -879,7 +898,7 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
-      "quantidade": "1"
+      "quantidade": 2
     },
     "56033": {
       "codigo": "56033",
@@ -887,6 +906,46 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56049": {
+      "codigo": "56049",
+      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56115": {
+      "codigo": "56115",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56242": {
+      "codigo": "56242",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56246": {
+      "codigo": "56246",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56260": {
+      "codigo": "56260",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD48": {

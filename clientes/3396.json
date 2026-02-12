@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 51,
-  "valor_total_comprado": 14568.38,
+  "total_pedidos": 53,
+  "valor_total_comprado": 15371.22,
   "pedidos": [
     {
       "codigo_pedido": "2301891",
@@ -972,6 +972,44 @@
       "valor_frete": 16.39,
       "frete": "LOGGI",
       "valor_total_pedido": 201.04,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32595",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-11 20:58:34",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 589.34,
+      "valor_frete": 26,
+      "frete": "JADLOG",
+      "valor_total_pedido": 615.34,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32600",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-11 22:14:01",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 172.48,
+      "valor_frete": 15.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 187.5,
       "desconto": 0,
       "cidade": "São Paulo",
       "estado": "SP",
@@ -2774,6 +2812,126 @@
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
       "quantidade": "2"
+    },
+    "55944": {
+      "codigo": "55944",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56116": {
+      "codigo": "56116",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56129": {
+      "codigo": "56129",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56133": {
+      "codigo": "56133",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56142": {
+      "codigo": "56142",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56175": {
+      "codigo": "56175",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56178": {
+      "codigo": "56178",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56209": {
+      "codigo": "56209",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: VERMELHA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56218": {
+      "codigo": "56218",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56221": {
+      "codigo": "56221",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56225": {
+      "codigo": "56225",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "2"
+    },
+    "56242": {
+      "codigo": "56242",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": 3
+    },
+    "56268": {
+      "codigo": "56268",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "3"
+    },
+    "56273": {
+      "codigo": "56273",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
     },
     "CD39.12G": {
       "codigo": "CD39.12G",

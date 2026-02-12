@@ -1,0 +1,85 @@
+{
+  "codigo": "20833",
+  "nome": "ANDERSON LUIS",
+  "email": "andersonernesto@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "11/02/2026",
+  "whatsapp": "(11) 96394-7994",
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 187.5,
+  "pedidos": [
+    {
+      "codigo_pedido": "32598",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 21:12:57",
+      "data_hora_confirmacao": "2026-02-11 21:17:18",
+      "data_hora_confirmacao_pagamento": "2026-02-11 21:17:18",
+      "valor_total_produtos": 172.48,
+      "valor_frete": 15.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 187.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "56063": {
+      "codigo": "56063",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56098": {
+      "codigo": "56098",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56168": {
+      "codigo": "56168",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56185": {
+      "codigo": "56185",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56271": {
+      "codigo": "56271",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56272": {
+      "codigo": "56272",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
+}

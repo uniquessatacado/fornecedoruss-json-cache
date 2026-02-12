@@ -9,12 +9,12 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 117.43,
+  "total_pedidos": 2,
+  "valor_total_comprado": 203.68,
   "pedidos": [
     {
       "codigo_pedido": "32395",
-      "situacao_pedido": "PEDIDO SEPARADO",
+      "situacao_pedido": "PEDIDO ENVIADO",
       "data_hora_pedido": "2025-12-09 18:49:46",
       "data_hora_confirmacao": "2025-12-09 18:51:16",
       "data_hora_confirmacao_pagamento": "2025-12-09 18:51:16",
@@ -29,6 +29,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32592",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "data_hora_pedido": "2026-02-11 19:12:25",
+      "data_hora_confirmacao": "2026-02-11 19:17:07",
+      "data_hora_confirmacao_pagamento": "2026-02-11 19:12:25",
+      "valor_total_produtos": 86.25,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 86.25,
+      "desconto": 0,
+      "cidade": "São José dos Campos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -46,6 +65,30 @@
       "titulo": "Bermuda Microfibra Ultra Nike (LT056) - Cor: CHUMBO - Tamanho: G",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55985": {
+      "codigo": "55985",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56003": {
+      "codigo": "56003",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
       "quantidade": "1"
     }

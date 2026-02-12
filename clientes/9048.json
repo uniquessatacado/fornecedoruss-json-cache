@@ -9,8 +9,8 @@
   "estado": "ES",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 6,
-  "valor_total_comprado": 1267.41,
+  "total_pedidos": 7,
+  "valor_total_comprado": 1445.6000000000001,
   "pedidos": [
     {
       "codigo_pedido": "11333",
@@ -117,6 +117,25 @@
       "valor_frete": 19.53,
       "frete": "LOGGI",
       "valor_total_pedido": 148.53,
+      "desconto": 0,
+      "cidade": "Serra",
+      "estado": "ES",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32599",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 21:17:01",
+      "data_hora_confirmacao": "2026-02-11 21:19:17",
+      "data_hora_confirmacao_pagamento": "2026-02-11 21:19:17",
+      "valor_total_produtos": 155.24,
+      "valor_frete": 22.95,
+      "frete": "LOGGI",
+      "valor_total_pedido": 178.19,
       "desconto": 0,
       "cidade": "Serra",
       "estado": "ES",
@@ -264,6 +283,14 @@
       "marca": "ADIDAS",
       "quantidade": "1"
     },
+    "51425": {
+      "codigo": "51425",
+      "titulo": "Boné Ultra Premium LOUIS VUITTON (LT026) - Cor: PRETA",
+      "categoria_principal": "BONÉS",
+      "categoria": "Bonés Super Premium ",
+      "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
     "52229": {
       "codigo": "52229",
       "titulo": "Bermuda Microfibra Ultra Adidas (LT019) - Cor: CHUMBO - Tamanho: GG",
@@ -358,6 +385,46 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56065": {
+      "codigo": "56065",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56168": {
+      "codigo": "56168",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56242": {
+      "codigo": "56242",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56272": {
+      "codigo": "56272",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD39.70GG": {
