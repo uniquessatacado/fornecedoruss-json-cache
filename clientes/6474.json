@@ -9,8 +9,8 @@
   "estado": "PA",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 568.64,
+  "total_pedidos": 3,
+  "valor_total_comprado": 1339.9,
   "pedidos": [
     {
       "codigo_pedido": "8000",
@@ -30,9 +30,159 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32610",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-12 15:01:56",
+      "data_hora_confirmacao": "2026-02-12 15:10:08",
+      "data_hora_confirmacao_pagamento": "2026-02-12 15:10:08",
+      "valor_total_produtos": 366.55,
+      "valor_frete": 0,
+      "frete": "FRETE GRÁTIS",
+      "valor_total_pedido": 366.55,
+      "desconto": 0,
+      "cidade": "Augusto Corrêa",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32611",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "data_hora_pedido": "2026-02-12 15:01:56",
+      "data_hora_confirmacao": "2026-02-12 15:10:11",
+      "data_hora_confirmacao_pagamento": "2026-02-12 15:10:11",
+      "valor_total_produtos": 290.24,
+      "valor_frete": 114.47,
+      "frete": "PAC",
+      "valor_total_pedido": 404.71,
+      "desconto": 0,
+      "cidade": "Augusto Corrêa",
+      "estado": "PA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "41008": {
+      "codigo": "41008",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "41014": {
+      "codigo": "41014",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C282) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "42690": {
+      "codigo": "42690",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "42696": {
+      "codigo": "42696",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "49827": {
+      "codigo": "49827",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS  - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "50914": {
+      "codigo": "50914",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 25/26 - Tamanho: G - Times : Corinthians - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "51413": {
+      "codigo": "51413",
+      "titulo": "Blusa de Moletom 3 Cabos BOSS (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "52804": {
+      "codigo": "52804",
+      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR NOTTINGHAM FOREST 25/26 - Tamanho: G - Times : Nottingham Forest - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53741": {
+      "codigo": "53741",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR LIVERPOOL 25/26 - (envio direto da fabrica) - Tamanho: G - Times : Liverpool - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53755": {
+      "codigo": "53755",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY IIII 25/26 - (envio direto da fabrica) - Tamanho: G - Times : Manchester City - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "53980": {
+      "codigo": "53980",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "54031": {
+      "codigo": "54031",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - LACOSTE (LT049) - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56083": {
+      "codigo": "56083",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56196": {
+      "codigo": "56196",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
     "CD04.8G": {
       "codigo": "CD04.8G",
       "titulo": "Bermuda Microfibra Ultra - NIKE - Cor: Preto - Tamanho: G",

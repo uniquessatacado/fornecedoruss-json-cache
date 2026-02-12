@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 53,
-  "valor_total_comprado": 15371.22,
+  "total_pedidos": 54,
+  "valor_total_comprado": 15615.66,
   "pedidos": [
     {
       "codigo_pedido": "2301891",
@@ -1010,6 +1010,25 @@
       "valor_frete": 15.02,
       "frete": "LOGGI",
       "valor_total_pedido": 187.5,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32609",
+      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "data_hora_pedido": "2026-02-12 14:37:41",
+      "data_hora_confirmacao": "2026-02-12 14:40:08",
+      "data_hora_confirmacao_pagamento": "2026-02-12 14:40:08",
+      "valor_total_produtos": 224.24,
+      "valor_frete": 20.2,
+      "frete": "JADLOG",
+      "valor_total_pedido": 244.44,
       "desconto": 0,
       "cidade": "São Paulo",
       "estado": "SP",
@@ -2869,6 +2888,22 @@
       "marca": "MIZUNO",
       "quantidade": "1"
     },
+    "56193": {
+      "codigo": "56193",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56196": {
+      "codigo": "56196",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
     "56209": {
       "codigo": "56209",
       "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: VERMELHA - Marca: Lacoste - Tamanho: M",
@@ -2907,7 +2942,7 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
-      "quantidade": "1"
+      "quantidade": 4
     },
     "56250": {
       "codigo": "56250",
@@ -2915,7 +2950,7 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
-      "quantidade": 3
+      "quantidade": 4
     },
     "56268": {
       "codigo": "56268",
@@ -2923,7 +2958,15 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
-      "quantidade": "3"
+      "quantidade": 5
+    },
+    "56271": {
+      "codigo": "56271",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
     },
     "56273": {
       "codigo": "56273",
