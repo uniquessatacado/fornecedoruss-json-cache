@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 835,
+    "total_carrinhos": 836,
     "lista_carrinhos": [
+        {
+            "id": "74340",
+            "id_clientes": "0",
+            "chave_sessao": "052cac854a8ca38b0b9f19c664a8cee0",
+            "nome": "",
+            "email": "",
+            "celular": "",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-12",
+            "hora_transacao": "07:38:12",
+            "ip": "104.23.254.165",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-12 07:40:58",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/052cac854a8ca38b0b9f19c664a8cee0\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/76c6f404_2.jpg",
+                    "codigo": "53755",
+                    "produto": " Camisa de time Tailandesa 1.1 TORCEDOR MANCHESTER CITY IIII 25\/26 - (envio direto da fabrica) - Tamanho: G - Times : Manchester City - VERSÃO: TORCEDOR ",
+                    "valor_unitario": "R$ 127,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 127,50",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
         {
             "id": "74322",
             "id_clientes": "20629",
@@ -129,6 +160,39 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
                     "marca": "JORDAN"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-11_20-32-50.webp",
+                    "codigo": "56281",
+                    "produto": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G ",
+                    "valor_unitario": "R$ 31,62",
+                    "quantidade": "1",
+                    "valor_total": "R$ 31,62",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "QUIKSILVER"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_6_2026-02-11_20-32-50.webp",
+                    "codigo": "56297",
+                    "produto": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: M ",
+                    "valor_unitario": "R$ 31,62",
+                    "quantidade": "1",
+                    "valor_total": "R$ 31,62",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "QUIKSILVER"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-04_12-54-25.webp",
+                    "codigo": "56061",
+                    "produto": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: GG ",
+                    "valor_unitario": "R$ 31,62",
+                    "quantidade": "1",
+                    "valor_total": "R$ 31,62",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "QUIKSILVER"
                 }
             ]
         },
