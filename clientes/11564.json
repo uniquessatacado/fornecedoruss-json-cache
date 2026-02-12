@@ -9,7 +9,7 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 16,
+  "total_pedidos": 17,
   "valor_total_comprado": 5607.84,
   "pedidos": [
     {
@@ -303,10 +303,29 @@
       "data_hora_pedido": "2026-02-11 17:13:34",
       "data_hora_confirmacao": "2026-02-11 17:13:34",
       "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 176.81,
+      "valor_total_produtos": 148.06,
       "valor_frete": 0,
       "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
-      "valor_total_pedido": 176.81,
+      "valor_total_pedido": 148.06,
+      "desconto": 0,
+      "cidade": "Fartura",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32606",
+      "situacao_pedido": "PEDIDO SEPARADO",
+      "data_hora_pedido": "2026-02-12 11:56:54",
+      "data_hora_confirmacao": "2026-02-12 11:56:54",
+      "data_hora_confirmacao_pagamento": "2026-02-12 11:56:54",
+      "valor_total_produtos": 28.75,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 28.75,
       "desconto": 0,
       "cidade": "Fartura",
       "estado": "SP",
@@ -1494,9 +1513,9 @@
       "marca": "JORDAN",
       "quantidade": "1"
     },
-    "56003": {
-      "codigo": "56003",
-      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+    "56009": {
+      "codigo": "56009",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: G",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "JORDAN",
