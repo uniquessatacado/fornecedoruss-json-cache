@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 1205.9399999999998,
+  "total_pedidos": 10,
+  "valor_total_comprado": 1441.7999999999997,
   "pedidos": [
     {
       "codigo_pedido": "19753",
@@ -174,6 +174,25 @@
       "valor_frete": 14.47,
       "frete": "LOGGI",
       "valor_total_pedido": 126.59,
+      "desconto": 0,
+      "cidade": "Andradina",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32602",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-11 23:21:47",
+      "data_hora_confirmacao": "2026-02-11 23:24:22",
+      "data_hora_confirmacao_pagamento": "2026-02-11 23:24:22",
+      "valor_total_produtos": 215.62,
+      "valor_frete": 20.24,
+      "frete": "LOGGI",
+      "valor_total_pedido": 235.86,
       "desconto": 0,
       "cidade": "Andradina",
       "estado": "SP",
@@ -457,6 +476,14 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
+    "51388": {
+      "codigo": "51388",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
     "52195": {
       "codigo": "52195",
       "titulo": "Bermuda Compress 2 em 1 Nike (LT027) - Cor: BRANCA - Tamanho: M",
@@ -503,6 +530,70 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55184": {
+      "codigo": "55184",
+      "titulo": "Cueca Peruana Calvin Klein (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55220": {
+      "codigo": "55220",
+      "titulo": "Cueca Peruana Gucci (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55854": {
+      "codigo": "55854",
+      "titulo": "Cueca Peruana - Lacoste (LT058) - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55928": {
+      "codigo": "55928",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55964": {
+      "codigo": "55964",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56012": {
+      "codigo": "56012",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56175": {
+      "codigo": "56175",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56244": {
+      "codigo": "56244",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
