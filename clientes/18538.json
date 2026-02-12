@@ -9,8 +9,8 @@
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 481.78,
+  "total_pedidos": 3,
+  "valor_total_comprado": 642.72,
   "pedidos": [
     {
       "codigo_pedido": "26844",
@@ -41,6 +41,25 @@
       "valor_frete": 23.17,
       "frete": "LOGGI",
       "valor_total_pedido": 358.64,
+      "desconto": 0,
+      "cidade": "Teresópolis",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32605",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-12 07:38:29",
+      "data_hora_confirmacao": "2026-02-12 07:40:11",
+      "data_hora_confirmacao_pagamento": "2026-02-12 07:40:11",
+      "valor_total_produtos": 138,
+      "valor_frete": 22.94,
+      "frete": "JADLOG",
+      "valor_total_pedido": 160.94,
       "desconto": 0,
       "cidade": "Teresópolis",
       "estado": "RJ",
@@ -146,6 +165,38 @@
       "categoria_principal": "POLOS",
       "categoria": "Polo Piquet Duplo",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56242": {
+      "codigo": "56242",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "2"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "2"
+    },
+    "56261": {
+      "codigo": "56261",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56268": {
+      "codigo": "56268",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
