@@ -9,12 +9,12 @@
   "estado": "GO",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 97.58,
+  "total_pedidos": 3,
+  "valor_total_comprado": 613.69,
   "pedidos": [
     {
       "codigo_pedido": "32584",
-      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "situacao_pedido": "PEDIDO SEPARADO",
       "data_hora_pedido": "2026-02-11 16:47:02",
       "data_hora_confirmacao": "2026-02-11 16:50:07",
       "data_hora_confirmacao_pagamento": "2026-02-11 16:50:07",
@@ -22,6 +22,44 @@
       "valor_frete": 32.58,
       "frete": "PAC",
       "valor_total_pedido": 97.58,
+      "desconto": 0,
+      "cidade": "Aragarças",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32616",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-13 10:31:23",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 304.73,
+      "valor_frete": 48.08,
+      "frete": "PAC",
+      "valor_total_pedido": 352.81,
+      "desconto": 0,
+      "cidade": "Aragarças",
+      "estado": "GO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32617",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-13 10:31:23",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 103.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 163.3,
       "desconto": 0,
       "cidade": "Aragarças",
       "estado": "GO",
@@ -39,6 +77,70 @@
       "categoria_principal": "CORTA VENTO E MOLETOM",
       "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "52433": {
+      "codigo": "52433",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRÔ PALMEIRAS 1997 - Tamanho: GG - Times : Palmeiras - VERSÃO: RETRO",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55998": {
+      "codigo": "55998",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "2"
+    },
+    "56034": {
+      "codigo": "56034",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "56142": {
+      "codigo": "56142",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56154": {
+      "codigo": "56154",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56231": {
+      "codigo": "56231",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: BRANCA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56331": {
+      "codigo": "56331",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     }
   }
