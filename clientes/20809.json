@@ -9,64 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 250.55,
-  "pedidos": [
-    {
-      "codigo_pedido": "32503",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-02 18:44:33",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 93.44,
-      "valor_frete": 15.03,
-      "frete": "LOGGI",
-      "valor_total_pedido": 108.47,
-      "desconto": 0,
-      "cidade": "Francisco Morato",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Dropshipping",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "SIM"
-    },
-    {
-      "codigo_pedido": "32504",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-02 18:44:33",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 73.31,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 142.08,
-      "desconto": 0,
-      "cidade": "Francisco Morato",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Dropshipping",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "SIM"
-    }
-  ],
-  "produtos_comprados": {
-    "51076": {
-      "codigo": "51076",
-      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25/26 - Tamanho: M - Times : Milan - VERSÃO: TORCEDOR",
-      "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "51396": {
-      "codigo": "51396",
-      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "CORTA VENTO E MOLETOM",
-      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
-      "marca": "LACOSTE",
-      "quantidade": "1"
-    }
-  }
+  "total_pedidos": 0,
+  "valor_total_comprado": 0,
+  "pedidos": [],
+  "produtos_comprados": []
 }

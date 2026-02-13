@@ -9,8 +9,8 @@
   "estado": "GO",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 506.54,
+  "total_pedidos": 1,
+  "valor_total_comprado": 97.58,
   "pedidos": [
     {
       "codigo_pedido": "32584",
@@ -30,44 +30,6 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32588",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-11 17:30:33",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 135,
-      "valor_frete": 34.16,
-      "frete": "LOGGI",
-      "valor_total_pedido": 169.16,
-      "desconto": 0,
-      "cidade": "Aragarças",
-      "estado": "GO",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32589",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-11 17:30:33",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 180,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 239.8,
-      "desconto": 0,
-      "cidade": "Aragarças",
-      "estado": "GO",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -77,38 +39,6 @@
       "categoria_principal": "CORTA VENTO E MOLETOM",
       "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
       "marca": "LACOSTE",
-      "quantidade": "1"
-    },
-    "52433": {
-      "codigo": "52433",
-      "titulo": "Camisa de time Tailandesa 1.1 RETRÔ PALMEIRAS 1997 - Tamanho: GG - Times : Palmeiras - VERSÃO: RETRO",
-      "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "55986": {
-      "codigo": "55986",
-      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: GG",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "56136": {
-      "codigo": "56136",
-      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: CINZA MESCLA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56178": {
-      "codigo": "56178",
-      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "MIZUNO",
       "quantidade": "1"
     }
   }
