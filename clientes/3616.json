@@ -9,8 +9,8 @@
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 1114.1499999999999,
+  "total_pedidos": 10,
+  "valor_total_comprado": 1233.87,
   "pedidos": [
     {
       "codigo_pedido": "2301991",
@@ -182,6 +182,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32614",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-12 20:10:31",
+      "data_hora_confirmacao": "2026-02-12 20:20:09",
+      "data_hora_confirmacao_pagamento": "2026-02-12 20:20:09",
+      "valor_total_produtos": 100,
+      "valor_frete": 19.72,
+      "frete": "JADLOG",
+      "valor_total_pedido": 119.72,
+      "desconto": 0,
+      "cidade": "Paranavaí",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -215,6 +234,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA ALGODÃO SOFT AMERICANO ",
       "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "55967": {
+      "codigo": "55967",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55973": {
+      "codigo": "55973",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55979": {
+      "codigo": "55979",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55991": {
+      "codigo": "55991",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
       "quantidade": "1"
     },
     "CD29.5G": {
