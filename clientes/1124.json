@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 11,
-  "valor_total_comprado": 2323.05,
+  "total_pedidos": 12,
+  "valor_total_comprado": 2393.05,
   "pedidos": [
     {
       "codigo_pedido": "2301301",
@@ -220,6 +220,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32627",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-14 12:37:34",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 70,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 70,
+      "desconto": 0,
+      "cidade": "Ferraz de Vasconcelos",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -420,6 +439,14 @@
       "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS III 25/26 - (envio direto da fabrica) - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
       "categoria_principal": "Tailandesa 1:1 encomenda",
       "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56039": {
+      "codigo": "56039",
+      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
       "quantidade": "1"
     },
