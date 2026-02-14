@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 548.19,
+  "total_pedidos": 5,
+  "valor_total_comprado": 737.0300000000001,
   "pedidos": [
     {
       "codigo_pedido": "15111",
@@ -86,6 +86,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32629",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-14 18:13:36",
+      "data_hora_confirmacao": "2026-02-14 18:18:17",
+      "data_hora_confirmacao_pagamento": "2026-02-14 18:18:17",
+      "valor_total_produtos": 169,
+      "valor_frete": 19.84,
+      "frete": "JADLOG",
+      "valor_total_pedido": 188.84,
+      "desconto": 0,
+      "cidade": "Americana",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -225,6 +244,30 @@
       "categoria": "Camiseta Genuina Soft Penteado Algodão Turco ",
       "marca": "Vans",
       "quantidade": "1"
+    },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "2"
+    },
+    "55940": {
+      "codigo": "55940",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
+    },
+    "55982": {
+      "codigo": "55982",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "2"
     }
   }
 }
