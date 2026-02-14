@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 6,
-  "valor_total_comprado": 2095.5,
+  "total_pedidos": 7,
+  "valor_total_comprado": 2347.43,
   "pedidos": [
     {
       "codigo_pedido": "11542",
@@ -117,6 +117,25 @@
       "valor_frete": 20.14,
       "frete": "LOGGI",
       "valor_total_pedido": 190,
+      "desconto": 0,
+      "cidade": "Mendonça",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32626",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-14 11:41:39",
+      "data_hora_confirmacao": "2026-02-14 11:50:04",
+      "data_hora_confirmacao_pagamento": "2026-02-14 11:50:04",
+      "valor_total_produtos": 228.53,
+      "valor_frete": 23.4,
+      "frete": "LOGGI",
+      "valor_total_pedido": 251.93,
       "desconto": 0,
       "cidade": "Mendonça",
       "estado": "SP",
@@ -520,6 +539,14 @@
       "marca": "QUIKSILVER",
       "quantidade": "1"
     },
+    "56088": {
+      "codigo": "56088",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
     "56098": {
       "codigo": "56098",
       "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: GG",
@@ -539,6 +566,14 @@
     "56124": {
       "codigo": "56124",
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56141": {
+      "codigo": "56141",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
@@ -611,6 +646,46 @@
     "56199": {
       "codigo": "56199",
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56289": {
+      "codigo": "56289",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: AZUL TURQUEZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56295": {
+      "codigo": "56295",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56299": {
+      "codigo": "56299",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56352": {
+      "codigo": "56352",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "AMIRI",
+      "quantidade": "1"
+    },
+    "56365": {
+      "codigo": "56365",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
