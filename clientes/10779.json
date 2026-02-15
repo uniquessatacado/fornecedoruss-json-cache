@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 69,
-  "valor_total_comprado": 25116.319999999996,
+  "total_pedidos": 70,
+  "valor_total_comprado": 25254.319999999996,
   "pedidos": [
     {
       "codigo_pedido": "13481",
@@ -1314,6 +1314,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 575.46,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32631",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-15 01:29:45",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 138,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 138,
       "desconto": 0,
       "cidade": "Sumaré",
       "estado": "SP",
@@ -7210,6 +7229,38 @@
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: OFFWHITE - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56252": {
+      "codigo": "56252",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "3"
+    },
+    "56264": {
+      "codigo": "56264",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56271": {
+      "codigo": "56271",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56279": {
+      "codigo": "56279",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
       "quantidade": "1"
     },
