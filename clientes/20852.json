@@ -1,0 +1,61 @@
+{
+  "codigo": "20852",
+  "nome": "JÚLIO CÉSAR",
+  "email": "jcdias2003@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "15/02/2026",
+  "whatsapp": "(11) 99024-5471",
+  "cidade": "Suzano",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 439.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "32635",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-15 18:39:10",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 439.86,
+      "valor_frete": 0,
+      "frete": "FRETE GRÁTIS",
+      "valor_total_pedido": 439.86,
+      "desconto": 0,
+      "cidade": "Suzano",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "53645": {
+      "codigo": "53645",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA II 24/25 - (envio direto da fabrica) - Tamanho: P - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "53652": {
+      "codigo": "53652",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA II 24/25 - (envio direto da fabrica) - Tamanho: M - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    },
+    "53653": {
+      "codigo": "53653",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA II 24/25 - (envio direto da fabrica) - Tamanho: G - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "Tailandesa 1:1 encomenda",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "marca": "Camisa de Time",
+      "quantidade": "2"
+    }
+  }
+}
