@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 70,
-  "valor_total_comprado": 25254.319999999996,
+  "total_pedidos": 71,
+  "valor_total_comprado": 25451.229999999996,
   "pedidos": [
     {
       "codigo_pedido": "13481",
@@ -1333,6 +1333,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 138,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32643",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-17 23:25:58",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 196.91,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 196.91,
       "desconto": 0,
       "cidade": "Sumaré",
       "estado": "SP",
@@ -7190,7 +7209,7 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "QUIKSILVER",
-      "quantidade": "1"
+      "quantidade": 2
     },
     "56075": {
       "codigo": "56075",
@@ -7262,6 +7281,46 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56304": {
+      "codigo": "56304",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56314": {
+      "codigo": "56314",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56320": {
+      "codigo": "56320",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56321": {
+      "codigo": "56321",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56355": {
+      "codigo": "56355",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Balmain - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "BALMAIN",
       "quantidade": "1"
     },
     "CD22.1GG": {
