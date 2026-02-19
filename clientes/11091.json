@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 11,
-  "valor_total_comprado": 1272.53,
+  "total_pedidos": 12,
+  "valor_total_comprado": 1342.22,
   "pedidos": [
     {
       "codigo_pedido": "16485",
@@ -220,6 +220,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32657",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-19 16:13:19",
+      "data_hora_confirmacao": "2026-02-19 16:20:06",
+      "data_hora_confirmacao_pagamento": "2026-02-19 16:20:06",
+      "valor_total_produtos": 54,
+      "valor_frete": 15.69,
+      "frete": "LOGGI",
+      "valor_total_pedido": 69.69,
+      "desconto": 0,
+      "cidade": "Bauru",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -271,6 +290,14 @@
       "marca": "Camisa de Time",
       "quantidade": "1"
     },
+    "38356": {
+      "codigo": "38356",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
     "38439": {
       "codigo": "38439",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO VERMELHO BRANCO - Tamanho: G",
@@ -293,6 +320,14 @@
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "42690": {
+      "codigo": "42690",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
       "quantidade": "1"
     },
     "43178": {
