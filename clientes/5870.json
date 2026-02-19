@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 322.09000000000003,
+  "total_pedidos": 5,
+  "valor_total_comprado": 485.4200000000001,
   "pedidos": [
     {
       "codigo_pedido": "6930",
@@ -87,9 +87,60 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32647",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-19 09:03:16",
+      "data_hora_confirmacao": "2026-02-19 09:04:45",
+      "data_hora_confirmacao_pagamento": "2026-02-19 09:04:45",
+      "valor_total_produtos": 148.62,
+      "valor_frete": 14.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 163.33,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "42866": {
+      "codigo": "42866",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55142": {
+      "codigo": "55142",
+      "titulo": "Cueca Peruana Hugo Boss (LT057) - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "3"
+    },
+    "55922": {
+      "codigo": "55922",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56218": {
+      "codigo": "56218",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
     "CD39.49": {
       "codigo": "CD39.49",
       "titulo": "CAMISETA SUEDINE 1:1 ULTRA - NIKE  JORDAN (BORDADA)  LT04.12   - Cor: Preto - Marca: Nike - Tamanho: M",

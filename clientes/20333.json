@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 402.24,
+  "total_pedidos": 3,
+  "valor_total_comprado": 623.38,
   "pedidos": [
     {
       "codigo_pedido": "31552",
@@ -41,6 +41,25 @@
       "valor_frete": 18.47,
       "frete": "SEDEX",
       "valor_total_pedido": 238.4,
+      "desconto": 0,
+      "cidade": "Francisco Morato",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32648",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-19 09:58:43",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 202.68,
+      "valor_frete": 18.46,
+      "frete": "LOGGI",
+      "valor_total_pedido": 221.14,
       "desconto": 0,
       "cidade": "Francisco Morato",
       "estado": "SP",
@@ -122,6 +141,54 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55992": {
+      "codigo": "55992",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "55998": {
+      "codigo": "55998",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56010": {
+      "codigo": "56010",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56339": {
+      "codigo": "56339",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "AMIRI",
+      "quantidade": "1"
+    },
+    "56344": {
+      "codigo": "56344",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: OFFWHITE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "AMIRI",
+      "quantidade": "1"
+    },
+    "56354": {
+      "codigo": "56354",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Balmain - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "BALMAIN",
       "quantidade": "1"
     }
   }
