@@ -9,8 +9,8 @@
   "estado": "BA",
   "loja_drop": "2",
   "representante": "2",
-  "total_pedidos": 6,
-  "valor_total_comprado": 3877.29,
+  "total_pedidos": 7,
+  "valor_total_comprado": 3881.04,
   "pedidos": [
     {
       "codigo_pedido": "27220",
@@ -109,14 +109,14 @@
     },
     {
       "codigo_pedido": "32572",
-      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "situacao_pedido": "PEDIDO ENVIADO",
       "data_hora_pedido": "2026-02-11 13:53:53",
       "data_hora_confirmacao": "2026-02-11 14:00:13",
       "data_hora_confirmacao_pagamento": "2026-02-11 14:00:13",
-      "valor_total_produtos": 100,
+      "valor_total_produtos": 75,
       "valor_frete": 22.35,
       "frete": "JADLOG",
-      "valor_total_pedido": 122.35,
+      "valor_total_pedido": 97.35,
       "desconto": 0,
       "cidade": "Vitória da Conquista",
       "estado": "BA",
@@ -124,6 +124,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32650",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-19 10:29:36",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2026-02-19 10:29:36",
+      "valor_total_produtos": 28.75,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 28.75,
+      "desconto": 0,
+      "cidade": "Vitória da Conquista",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -648,12 +667,12 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "56003": {
-      "codigo": "56003",
-      "titulo": "Bermuda Microfibra Premium Jordan - Cor: PRETA - Tamanho: G",
+    "55967": {
+      "codigo": "55967",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: G",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "JORDAN",
+      "marca": "NIKE",
       "quantidade": "1"
     },
     "56009": {
