@@ -9,8 +9,8 @@
   "estado": "RJ",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 8,
-  "valor_total_comprado": 3803.4,
+  "total_pedidos": 9,
+  "valor_total_comprado": 4638.97,
   "pedidos": [
     {
       "codigo_pedido": "8150",
@@ -155,6 +155,25 @@
       "valor_frete": 74.76,
       "frete": "JADLOG",
       "valor_total_pedido": 1100.38,
+      "desconto": 0,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32656",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-19 15:56:57",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 796.26,
+      "valor_frete": 39.31,
+      "frete": "JADLOG",
+      "valor_total_pedido": 835.57,
       "desconto": 0,
       "cidade": "Rio de Janeiro",
       "estado": "RJ",
@@ -1164,6 +1183,214 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "56078": {
+      "codigo": "56078",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56150": {
+      "codigo": "56150",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56154": {
+      "codigo": "56154",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56156": {
+      "codigo": "56156",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56159": {
+      "codigo": "56159",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56166": {
+      "codigo": "56166",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56239": {
+      "codigo": "56239",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56255": {
+      "codigo": "56255",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56275": {
+      "codigo": "56275",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56279": {
+      "codigo": "56279",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56281": {
+      "codigo": "56281",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56284": {
+      "codigo": "56284",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56285": {
+      "codigo": "56285",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56294": {
+      "codigo": "56294",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56295": {
+      "codigo": "56295",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56297": {
+      "codigo": "56297",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56299": {
+      "codigo": "56299",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56311": {
+      "codigo": "56311",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56320": {
+      "codigo": "56320",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56321": {
+      "codigo": "56321",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56328": {
+      "codigo": "56328",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56331": {
+      "codigo": "56331",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: AZUL MARINHO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56365": {
+      "codigo": "56365",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56366": {
+      "codigo": "56366",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56372": {
+      "codigo": "56372",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56374": {
+      "codigo": "56374",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD24.05G": {

@@ -9,8 +9,8 @@
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 10,
-  "valor_total_comprado": 1286.9599999999998,
+  "total_pedidos": 11,
+  "valor_total_comprado": 1489.5499999999997,
   "pedidos": [
     {
       "codigo_pedido": "12366",
@@ -193,6 +193,25 @@
       "valor_frete": 16.7,
       "frete": "LOGGI",
       "valor_total_pedido": 157.31,
+      "desconto": 0,
+      "cidade": "Maringá",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32655",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-19 14:08:57",
+      "data_hora_confirmacao": "2026-02-19 14:11:10",
+      "data_hora_confirmacao_pagamento": "2026-02-19 14:11:10",
+      "valor_total_produtos": 181.11,
+      "valor_frete": 21.48,
+      "frete": "JADLOG",
+      "valor_total_pedido": 202.59,
       "desconto": 0,
       "cidade": "Maringá",
       "estado": "PR",
@@ -419,6 +438,54 @@
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "JORDAN",
       "quantidade": "2"
+    },
+    "55931": {
+      "codigo": "55931",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55943": {
+      "codigo": "55943",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55949": {
+      "codigo": "55949",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56141": {
+      "codigo": "56141",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56284": {
+      "codigo": "56284",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56314": {
+      "codigo": "56314",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
     },
     "CD23.1G": {
       "codigo": "CD23.1G",
