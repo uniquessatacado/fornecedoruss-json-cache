@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 226.91000000000003,
+  "total_pedidos": 4,
+  "valor_total_comprado": 368.91,
   "pedidos": [
     {
       "codigo_pedido": "22056",
@@ -66,6 +66,25 @@
       "percentual_comissao": 0,
       "origem_pedido": "Sistema",
       "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32654",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-19 13:17:27",
+      "data_hora_confirmacao": "2026-02-19 13:17:27",
+      "data_hora_confirmacao_pagamento": "2026-02-19 13:17:27",
+      "valor_total_produtos": 142,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 142,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
@@ -140,6 +159,22 @@
       "titulo": "Cuecas Peruanas - Cor: PRETA - Tamanho: M",
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "49583": {
+      "codigo": "49583",
+      "titulo": "Moletom 3 Cabos Importado Boss | LT68A (C1192) - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "51412": {
+      "codigo": "51412",
+      "titulo": "Blusa de Moletom 3 Cabos BOSS (LT014) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
       "marca": "Hugo Boss",
       "quantidade": "1"
     }

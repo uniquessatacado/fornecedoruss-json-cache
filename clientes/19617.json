@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 405.01,
+  "total_pedidos": 3,
+  "valor_total_comprado": 501.32,
   "pedidos": [
     {
       "codigo_pedido": "28967",
@@ -49,9 +49,36 @@
       "tipo_compra": "3",
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32653",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-19 13:11:35",
+      "data_hora_confirmacao": "2026-02-19 13:11:35",
+      "data_hora_confirmacao_pagamento": "2026-02-19 13:11:35",
+      "valor_total_produtos": 96.31,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 96.31,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "38356": {
+      "codigo": "38356",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
     "43222": {
       "codigo": "43222",
       "titulo": "Bermuda Microfibra Ultra LT31A (C668)  - Cor: PRETA - Tamanho: G",
@@ -114,6 +141,22 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55920": {
+      "codigo": "55920",
+      "titulo": "Bermuda Microfibra Premium  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55944": {
+      "codigo": "55944",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }
