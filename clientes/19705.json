@@ -9,8 +9,8 @@
   "estado": "MG",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 6,
-  "valor_total_comprado": 1813.4099999999999,
+  "total_pedidos": 7,
+  "valor_total_comprado": 1845.0299999999997,
   "pedidos": [
     {
       "codigo_pedido": "29178",
@@ -113,6 +113,25 @@
       "data_hora_pedido": "2026-02-19 12:00:39",
       "data_hora_confirmacao": null,
       "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 31.62,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 31.62,
+      "desconto": 0,
+      "cidade": "Espinosa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32652",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-19 12:23:25",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2026-02-19 12:23:25",
       "valor_total_produtos": 31.62,
       "valor_frete": 0,
       "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
@@ -438,7 +457,7 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
-      "quantidade": "1"
+      "quantidade": 2
     }
   }
 }
