@@ -9,7 +9,7 @@
   "estado": "MG",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 5,
+  "total_pedidos": 6,
   "valor_total_comprado": 1813.4099999999999,
   "pedidos": [
     {
@@ -94,10 +94,10 @@
       "data_hora_pedido": "2026-02-15 15:01:40",
       "data_hora_confirmacao": "2026-02-15 15:03:08",
       "data_hora_confirmacao_pagamento": "2026-02-15 15:03:08",
-      "valor_total_produtos": 278.87,
+      "valor_total_produtos": 247.25,
       "valor_frete": 28.02,
       "frete": "LOGGI",
-      "valor_total_pedido": 306.89,
+      "valor_total_pedido": 275.27,
       "desconto": 0,
       "cidade": "Espinosa",
       "estado": "MG",
@@ -105,6 +105,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32651",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-19 12:00:39",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 31.62,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 31.62,
+      "desconto": 0,
+      "cidade": "Espinosa",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -413,9 +432,9 @@
       "marca": "MIZUNO",
       "quantidade": "1"
     },
-    "56363": {
-      "codigo": "56363",
-      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: G",
+    "56365": {
+      "codigo": "56365",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
