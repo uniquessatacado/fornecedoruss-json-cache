@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 866,
+    "total_carrinhos": 867,
     "lista_carrinhos": [
+        {
+            "id": "74488",
+            "id_clientes": "0",
+            "chave_sessao": "65aad84a7a75127fd70be49ea330207e",
+            "nome": "",
+            "email": "",
+            "celular": "(19) 99253-9159",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-20",
+            "hora_transacao": "18:28:00",
+            "ip": "172.69.11.250",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-20 18:28:00",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/65aad84a7a75127fd70be49ea330207e\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2026-02-12_18-32-10.webp",
+                    "codigo": "56355",
+                    "produto": "Camiseta Suedine Malhão OVERSIZED Balmain - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG ",
+                    "valor_unitario": "R$ 67,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 67,50",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+                    "marca": "BALMAIN"
+                }
+            ]
+        },
         {
             "id": "74487",
             "id_clientes": "20861",
