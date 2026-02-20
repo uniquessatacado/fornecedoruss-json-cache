@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 4,
-  "valor_total_comprado": 525.14,
+  "total_pedidos": 2,
+  "valor_total_comprado": 156.76,
   "pedidos": [
     {
       "codigo_pedido": "2301399",
@@ -49,44 +49,6 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32644",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-18 18:25:49",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 243.07,
-      "valor_frete": 22.1,
-      "frete": "LOGGI",
-      "valor_total_pedido": 265.17,
-      "desconto": 0,
-      "cidade": "São Paulo",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "2",
-      "texto_tipo_compra": "REVENDA",
-      "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32645",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-18 18:25:49",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 73.31,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 103.21,
-      "desconto": 0,
-      "cidade": "São Paulo",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "2",
-      "texto_tipo_compra": "REVENDA",
-      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -96,78 +58,6 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA ALGODÃO STRETCH AMERICANO",
       "marca": "LACOSTE",
-      "quantidade": "1"
-    },
-    "39184": {
-      "codigo": "39184",
-      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
-      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
-      "categoria": "LAVAGEM DE CARRO",
-      "marca": "VAZZ",
-      "quantidade": "1"
-    },
-    "39186": {
-      "codigo": "39186",
-      "titulo": "CERA DE CARNAUBA  ( CERA) MARCA ( VAZZ ) AUTOMOTIVA",
-      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
-      "categoria": "LAVAGEM DE CARRO",
-      "marca": "VAZZ",
-      "quantidade": "1"
-    },
-    "53680": {
-      "codigo": "53680",
-      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR SÃO PAULO III 25/26 - Tamanho: M - Times : São Paulo - VERSÃO: TORCEDOR",
-      "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "55944": {
-      "codigo": "55944",
-      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "56028": {
-      "codigo": "56028",
-      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: GG",
-      "categoria_principal": "BERMUDAS",
-      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "56049": {
-      "codigo": "56049",
-      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: GG - Times : Brasil",
-      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
-      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "56098": {
-      "codigo": "56098",
-      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "NIKE",
-      "quantidade": "1"
-    },
-    "56342": {
-      "codigo": "56342",
-      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G1",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
-      "marca": "AMIRI",
-      "quantidade": "1"
-    },
-    "56349": {
-      "codigo": "56349",
-      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE  - Cor: PRETA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
-      "marca": "AMIRI",
       "quantidade": "1"
     },
     "CD01.55GG": {
