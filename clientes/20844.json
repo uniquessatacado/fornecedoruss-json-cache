@@ -10,7 +10,7 @@
   "loja_drop": "2",
   "representante": "3",
   "total_pedidos": 3,
-  "valor_total_comprado": 683.48,
+  "valor_total_comprado": 782.22,
   "pedidos": [
     {
       "codigo_pedido": "32623",
@@ -32,15 +32,15 @@
       "pedidos_loja_drop": "NÃO"
     },
     {
-      "codigo_pedido": "32658",
+      "codigo_pedido": "32662",
       "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-19 17:20:22",
+      "data_hora_pedido": "2026-02-21 00:10:45",
       "data_hora_confirmacao": null,
       "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 255,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 344.7,
+      "valor_total_produtos": 150,
+      "valor_frete": 25.69,
+      "frete": "JADLOG",
+      "valor_total_pedido": 175.69,
       "desconto": 0,
       "cidade": "Ituiutaba",
       "estado": "MG",
@@ -51,15 +51,15 @@
       "pedidos_loja_drop": "NÃO"
     },
     {
-      "codigo_pedido": "32659",
+      "codigo_pedido": "32663",
       "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-19 17:20:23",
+      "data_hora_pedido": "2026-02-21 00:10:45",
       "data_hora_confirmacao": null,
       "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 100,
-      "valor_frete": 29.45,
-      "frete": "JADLOG",
-      "valor_total_pedido": 129.45,
+      "valor_total_produtos": 307.5,
+      "valor_frete": 29.9,
+      "frete": "FRETE FIXO",
+      "valor_total_pedido": 397.2,
       "desconto": 0,
       "cidade": "Ituiutaba",
       "estado": "MG",
@@ -71,17 +71,17 @@
     }
   ],
   "produtos_comprados": {
-    "51044": {
-      "codigo": "51044",
-      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR BAYERN MÜNCHEN II 25/26 - Tamanho: GG - Times : Bayern München - VERSÃO: TORCEDOR",
+    "52373": {
+      "codigo": "52373",
+      "titulo": "Camisa de time Tailandesa 1.1 RETRÔ CHELSEA 06/07 - Tamanho: GG - Times : Chelsea - VERSÃO: RETRO",
       "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+      "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
       "marca": "Camisa de Time",
       "quantidade": "1"
     },
-    "51078": {
-      "codigo": "51078",
-      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR MILAN 25/26 - Tamanho: GG - Times : Milan - VERSÃO: TORCEDOR",
+    "53728": {
+      "codigo": "53728",
+      "titulo": " Camisa de time Tailandesa 1.1 TORCEDOR BARCELONA - (envio direto da fabrica) - Tamanho: GG - Times : Barcelona - VERSÃO: TORCEDOR",
       "categoria_principal": "Tailandesa 1:1 encomenda",
       "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
       "marca": "Camisa de Time",
@@ -95,9 +95,9 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "55950": {
-      "codigo": "55950",
-      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: GG",
+    "55944": {
+      "codigo": "55944",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: GG",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
@@ -111,9 +111,9 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "55962": {
-      "codigo": "55962",
-      "titulo": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: GG",
+    "55974": {
+      "codigo": "55974",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: GG",
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
@@ -125,6 +125,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56016": {
+      "codigo": "56016",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     }
   }
