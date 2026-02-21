@@ -9,8 +9,77 @@
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 198.86,
+  "pedidos": [
+    {
+      "codigo_pedido": "32661",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-20 22:28:24",
+      "data_hora_confirmacao": "2026-02-20 22:28:57",
+      "data_hora_confirmacao_pagamento": "2026-02-20 22:28:57",
+      "valor_total_produtos": 175.36,
+      "valor_frete": 23.5,
+      "frete": "JADLOG",
+      "valor_total_pedido": 198.86,
+      "desconto": 0,
+      "cidade": "Toledo",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "55931": {
+      "codigo": "55931",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55973": {
+      "codigo": "55973",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56097": {
+      "codigo": "56097",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56246": {
+      "codigo": "56246",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56281": {
+      "codigo": "56281",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56336": {
+      "codigo": "56336",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    }
+  }
 }
