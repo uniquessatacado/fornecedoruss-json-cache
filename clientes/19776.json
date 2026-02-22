@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 20,
-  "valor_total_comprado": 1263.04,
+  "total_pedidos": 21,
+  "valor_total_comprado": 1294.98,
   "pedidos": [
     {
       "codigo_pedido": "29355",
@@ -391,6 +391,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32667",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-21 21:40:30",
+      "data_hora_confirmacao": "2026-02-21 21:50:05",
+      "data_hora_confirmacao_pagamento": "2026-02-21 21:50:05",
+      "valor_total_produtos": 31.94,
+      "valor_frete": 0,
+      "frete": "NÃO ENVIAR AGORA – VOU COMPRAR MAIS !!!",
+      "valor_total_pedido": 31.94,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
     }
   ],
   "produtos_comprados": {
@@ -648,6 +667,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56072": {
+      "codigo": "56072",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     }
   }
