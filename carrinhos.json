@@ -1,7 +1,49 @@
 {
     "success": true,
-    "total_carrinhos": 829,
+    "total_carrinhos": 830,
     "lista_carrinhos": [
+        {
+            "id": "74506",
+            "id_clientes": "0",
+            "chave_sessao": "616b8bb0c031035370d9932837bd34bc",
+            "nome": "",
+            "email": "",
+            "celular": "(19) 98248-8119",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-23",
+            "hora_transacao": "11:55:31",
+            "ip": "172.71.238.203",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-23 12:00:04",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/remover-produto-carrinho\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/remover-produto-carrinho\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/616b8bb0c031035370d9932837bd34bc\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_6_2026-02-13_14-28-51.webp",
+                    "codigo": "56394",
+                    "produto": "Camisa Polo Quiksilver piquet duplo importada - Cor: VERMELHA - Marca: Quiksilver - Tamanho: G <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 60,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 60,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "QUIKSILVER"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_21_2026-02-09_14-54-59.webp",
+                    "codigo": "56236",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: G ",
+                    "valor_unitario": "R$ 125,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 125,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                }
+            ]
+        },
         {
             "id": "73810",
             "id_clientes": "4712",
