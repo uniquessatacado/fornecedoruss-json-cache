@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "0",
   "representante": "3",
-  "total_pedidos": 10,
-  "valor_total_comprado": 1365.44,
+  "total_pedidos": 11,
+  "valor_total_comprado": 1561.92,
   "pedidos": [
     {
       "codigo_pedido": "29725",
@@ -201,15 +201,50 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32670",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-23 16:13:19",
+      "data_hora_confirmacao": "2026-02-23 16:13:19",
+      "data_hora_confirmacao_pagamento": "2026-02-23 16:13:20",
+      "valor_total_produtos": 196.48,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 196.48,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "38356": {
+      "codigo": "38356",
+      "titulo": " Kit Cueca Premium na caixa de MADEIRA - Cor: PRETO BRANCO CINZA CLARO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "VERSACE",
+      "quantidade": "1"
+    },
     "42124": {
       "codigo": "42124",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C556) - Cor: PRETO MARINHO CINZA CLARO - Tamanho: GG",
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42679": {
+      "codigo": "42679",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
       "quantidade": "1"
     },
     "46327": {
@@ -490,6 +525,38 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "56070": {
+      "codigo": "56070",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56160": {
+      "codigo": "56160",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56309": {
+      "codigo": "56309",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56315": {
+      "codigo": "56315",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     }
   }
