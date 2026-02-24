@@ -2,15 +2,15 @@
   "codigo": "9314",
   "nome": "LUCAS ANTÔNIO FOGAÇA HERGESEL",
   "email": "Luckasantonioo990@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "11/05/2024",
   "whatsapp": "(15) 9980-21525",
   "cidade": "Angatuba",
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 97.13,
+  "total_pedidos": 2,
+  "valor_total_comprado": 175.55,
   "pedidos": [
     {
       "codigo_pedido": "11731",
@@ -30,6 +30,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32671",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-24 11:57:31",
+      "data_hora_confirmacao": "2026-02-24 11:58:11",
+      "data_hora_confirmacao_pagamento": "2026-02-24 11:58:11",
+      "valor_total_produtos": 54,
+      "valor_frete": 24.42,
+      "frete": "PAC",
+      "valor_total_pedido": 78.42,
+      "desconto": 0,
+      "cidade": "Angatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -39,6 +58,22 @@
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "Louis Vuitton",
+      "quantidade": "1"
+    },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
+    "42690": {
+      "codigo": "42690",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
       "quantidade": "1"
     },
     "CD25.03G": {
