@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 7,
-  "valor_total_comprado": 2347.43,
+  "total_pedidos": 8,
+  "valor_total_comprado": 2379.0499999999997,
   "pedidos": [
     {
       "codigo_pedido": "11542",
@@ -128,7 +128,7 @@
     },
     {
       "codigo_pedido": "32626",
-      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "situacao_pedido": "PEDIDO SEPARADO",
       "data_hora_pedido": "2026-02-14 11:41:39",
       "data_hora_confirmacao": "2026-02-14 11:50:04",
       "data_hora_confirmacao_pagamento": "2026-02-14 11:50:04",
@@ -143,6 +143,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32673",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-24 16:58:03",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": "2026-02-24 16:58:03",
+      "valor_total_produtos": 31.62,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 31.62,
+      "desconto": 0,
+      "cidade": "Mendonça",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -686,6 +705,14 @@
     "56365": {
       "codigo": "56365",
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56421": {
+      "codigo": "56421",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: BRANCA - Tamanho: M",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
