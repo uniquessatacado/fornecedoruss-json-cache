@@ -9,8 +9,8 @@
   "estado": "PE",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 21,
-  "valor_total_comprado": 4655.16,
+  "total_pedidos": 22,
+  "valor_total_comprado": 4945.28,
   "pedidos": [
     {
       "codigo_pedido": "2301853",
@@ -402,6 +402,25 @@
       "valor_frete": 47.12,
       "frete": "PAC",
       "valor_total_pedido": 290.36,
+      "desconto": 0,
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32675",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-24 23:05:36",
+      "data_hora_confirmacao": "2026-02-24 23:20:05",
+      "data_hora_confirmacao_pagamento": "2026-02-24 23:20:05",
+      "valor_total_produtos": 250.09,
+      "valor_frete": 40.03,
+      "frete": "PAC",
+      "valor_total_pedido": 290.12,
       "desconto": 0,
       "cidade": "Jaboatão dos Guararapes",
       "estado": "PE",
@@ -1275,6 +1294,70 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "55967": {
+      "codigo": "55967",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56287": {
+      "codigo": "56287",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56317": {
+      "codigo": "56317",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56431": {
+      "codigo": "56431",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56434": {
+      "codigo": "56434",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BEGE MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56438": {
+      "codigo": "56438",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56450": {
+      "codigo": "56450",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56467": {
+      "codigo": "56467",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
       "quantidade": "1"
     },
     "CD39.12M": {

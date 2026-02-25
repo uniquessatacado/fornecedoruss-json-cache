@@ -2,15 +2,44 @@
   "codigo": "17880",
   "nome": "GABRIEL BASTOS DO NASCIMENTO",
   "email": "gabrielbastos1905@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "28/11/2024",
-  "whatsapp": "(11) 97963-9901",
+  "whatsapp": "(11) 9796-39901",
   "cidade": "São Paulo",
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 52.41,
+  "pedidos": [
+    {
+      "codigo_pedido": "32676",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 00:07:09",
+      "data_hora_confirmacao": "2026-02-25 00:08:23",
+      "data_hora_confirmacao_pagamento": "2026-02-25 00:08:24",
+      "valor_total_produtos": 40,
+      "valor_frete": 12.41,
+      "frete": "LOGGI",
+      "valor_total_pedido": 52.41,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "56270": {
+      "codigo": "56270",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    }
+  }
 }
