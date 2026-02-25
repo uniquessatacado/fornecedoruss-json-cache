@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 42,
-  "valor_total_comprado": 3740.210000000001,
+  "total_pedidos": 43,
+  "valor_total_comprado": 3883.510000000001,
   "pedidos": [
     {
       "codigo_pedido": "14358",
@@ -809,6 +809,25 @@
       "tipo_compra": "3",
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32691",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-25 19:59:17",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 130,
+      "valor_frete": 13.3,
+      "frete": "LOGGI",
+      "valor_total_pedido": 143.3,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1370,6 +1389,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56595": {
+      "codigo": "56595",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     }
   }
