@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 756.51,
+  "total_pedidos": 4,
+  "valor_total_comprado": 903.22,
   "pedidos": [
     {
       "codigo_pedido": "28105",
@@ -67,6 +67,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32685",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 15:03:50",
+      "data_hora_confirmacao": "2026-02-25 15:05:29",
+      "data_hora_confirmacao_pagamento": "2026-02-25 15:05:29",
+      "valor_total_produtos": 130,
+      "valor_frete": 16.71,
+      "frete": "LOGGI",
+      "valor_total_pedido": 146.71,
+      "desconto": 0,
+      "cidade": "Osasco",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -397,6 +416,22 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "49607": {
+      "codigo": "49607",
+      "titulo": "Moletom 3 Cabos Importado Diesel | LT68A (C1194) - Cor: BEGE - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "51412": {
+      "codigo": "51412",
+      "titulo": "Blusa de Moletom 3 Cabos BOSS (LT014) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "Hugo Boss",
       "quantidade": "1"
     }
   }
