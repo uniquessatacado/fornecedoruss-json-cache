@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "1",
-  "total_pedidos": 47,
-  "valor_total_comprado": 16604.910000000003,
+  "total_pedidos": 48,
+  "valor_total_comprado": 16952.760000000002,
   "pedidos": [
     {
       "codigo_pedido": "2301796",
@@ -899,6 +899,25 @@
       "desconto": 0,
       "cidade": "Porto Velho",
       "estado": "RO",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32686",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-25 16:15:01",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 347.85,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 347.85,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
       "percentual_comissao": 0,
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "1",
@@ -3889,6 +3908,54 @@
       "categoria_principal": "REGATAS",
       "categoria": "Regata Machão",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56231": {
+      "codigo": "56231",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: BRANCA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56237": {
+      "codigo": "56237",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56395": {
+      "codigo": "56395",
+      "titulo": "Camisa Polo Quiksilver piquet duplo importada - Cor: VERMELHA - Marca: Quiksilver - Tamanho: GG",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56459": {
+      "codigo": "56459",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56567": {
+      "codigo": "56567",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56585": {
+      "codigo": "56585",
+      "titulo": "Camiseta Peruana brooksfield - azul c/ branco - Cor: AZUL - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     },
     "CD24.29GG - TOMMY": {

@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 52,
-  "valor_total_comprado": 14812.82,
+  "total_pedidos": 53,
+  "valor_total_comprado": 15340.26,
   "pedidos": [
     {
       "codigo_pedido": "2301891",
@@ -991,6 +991,25 @@
       "valor_frete": 20.2,
       "frete": "JADLOG",
       "valor_total_pedido": 244.44,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32687",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 16:41:31",
+      "data_hora_confirmacao": "2026-02-25 16:50:11",
+      "data_hora_confirmacao_pagamento": "2026-02-25 16:50:11",
+      "valor_total_produtos": 503.1,
+      "valor_frete": 24.34,
+      "frete": "JADLOG",
+      "valor_total_pedido": 527.44,
       "desconto": 0,
       "cidade": "São Paulo",
       "estado": "SP",
@@ -2840,6 +2859,86 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56549": {
+      "codigo": "56549",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: VERDE AGUA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56552": {
+      "codigo": "56552",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: VERDE AGUA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56555": {
+      "codigo": "56555",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56558": {
+      "codigo": "56558",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56560": {
+      "codigo": "56560",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56564": {
+      "codigo": "56564",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56575": {
+      "codigo": "56575",
+      "titulo": "Camiseta Peruana brooksfield - vermelha c/ preto - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56578": {
+      "codigo": "56578",
+      "titulo": "Camiseta Peruana brooksfield - vermelha c/ preto - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56587": {
+      "codigo": "56587",
+      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56590": {
+      "codigo": "56590",
+      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     },
     "CD39.12G": {
