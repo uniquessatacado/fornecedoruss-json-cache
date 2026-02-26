@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 71,
-  "valor_total_comprado": 25451.229999999996,
+  "total_pedidos": 72,
+  "valor_total_comprado": 25757.409999999996,
   "pedidos": [
     {
       "codigo_pedido": "13481",
@@ -1352,6 +1352,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 196.91,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32694",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 22:25:12",
+      "data_hora_confirmacao": "2026-02-25 22:43:56",
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 306.18,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 306.18,
       "desconto": 0,
       "cidade": "Sumaré",
       "estado": "SP",
@@ -7121,6 +7140,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
+      "quantidade": 2
+    },
+    "55950": {
+      "codigo": "55950",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
       "quantidade": "1"
     },
     "55961": {
@@ -7129,7 +7156,7 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
-      "quantidade": "2"
+      "quantidade": 3
     },
     "55962": {
       "codigo": "55962",
@@ -7137,7 +7164,7 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
-      "quantidade": "1"
+      "quantidade": 2
     },
     "55991": {
       "codigo": "55991",
@@ -7185,6 +7212,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56036": {
+      "codigo": "56036",
+      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: P - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
       "quantidade": "1"
     },
     "56060": {
@@ -7321,6 +7356,30 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
       "marca": "BALMAIN",
+      "quantidade": "1"
+    },
+    "56562": {
+      "codigo": "56562",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: OFFWHITE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56567": {
+      "codigo": "56567",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56584": {
+      "codigo": "56584",
+      "titulo": "Camiseta Peruana brooksfield - azul c/ branco - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     },
     "CD22.1GG": {

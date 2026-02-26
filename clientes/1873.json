@@ -9,8 +9,8 @@
   "estado": "DF",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 18,
-  "valor_total_comprado": 6307.389999999999,
+  "total_pedidos": 19,
+  "valor_total_comprado": 6682.57,
   "pedidos": [
     {
       "codigo_pedido": "3630",
@@ -345,6 +345,25 @@
       "valor_frete": 29.14,
       "frete": "LOGGI",
       "valor_total_pedido": 237.49,
+      "desconto": 0,
+      "cidade": "Brasília",
+      "estado": "DF",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32693",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 21:20:00",
+      "data_hora_confirmacao": "2026-02-25 21:20:39",
+      "data_hora_confirmacao_pagamento": "2026-02-25 21:20:39",
+      "valor_total_produtos": 353.61,
+      "valor_frete": 21.57,
+      "frete": "LOGGI",
+      "valor_total_pedido": 375.18,
       "desconto": 0,
       "cidade": "Brasília",
       "estado": "DF",
@@ -1290,6 +1309,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56236": {
+      "codigo": "56236",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56452": {
+      "codigo": "56452",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56572": {
+      "codigo": "56572",
+      "titulo": "Camiseta Peruana brooksfield - vermelha c/ branco - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56587": {
+      "codigo": "56587",
+      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56594": {
+      "codigo": "56594",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: AZUL - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56622": {
+      "codigo": "56622",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     },
     "CD39.28": {
