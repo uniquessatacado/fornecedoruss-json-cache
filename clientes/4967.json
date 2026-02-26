@@ -2,15 +2,15 @@
   "codigo": "4967",
   "nome": "MARCO AURÉLIO RODRIGUES MARQUES",
   "email": "llellomarquess@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "22/12/2023",
   "whatsapp": "(19) 9916-00904",
   "cidade": "Indaiatuba",
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 8,
-  "valor_total_comprado": 2505.9700000000003,
+  "total_pedidos": 9,
+  "valor_total_comprado": 2885.46,
   "pedidos": [
     {
       "codigo_pedido": "5683",
@@ -155,6 +155,25 @@
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
       "valor_total_pedido": 237.34,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32702",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 16:55:37",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 379.49,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 379.49,
       "desconto": 0,
       "cidade": "Indaiatuba",
       "estado": "SP",
@@ -452,6 +471,62 @@
       "categoria_principal": "CALÇAS ",
       "categoria": "CALÇA JEANS LUXO IMPORTADA ",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "56129": {
+      "codigo": "56129",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: AZUL MARINHO - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56239": {
+      "codigo": "56239",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56560": {
+      "codigo": "56560",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: OFFWHITE - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56564": {
+      "codigo": "56564",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56593": {
+      "codigo": "56593",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: AZUL - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56601": {
+      "codigo": "56601",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: CREME - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56621": {
+      "codigo": "56621",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     },
     "CD39.41": {

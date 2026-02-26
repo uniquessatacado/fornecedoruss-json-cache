@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 5,
-  "valor_total_comprado": 1293.49,
+  "total_pedidos": 6,
+  "valor_total_comprado": 1653.72,
   "pedidos": [
     {
       "codigo_pedido": "23834",
@@ -105,6 +105,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32701",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 16:54:02",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 337.8,
+      "valor_frete": 22.43,
+      "frete": "LOGGI",
+      "valor_total_pedido": 360.23,
+      "desconto": 0,
+      "cidade": "Tremembé",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -331,6 +350,54 @@
       "categoria_principal": "REGATAS",
       "categoria": "Regatas Suedine",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56440": {
+      "codigo": "56440",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56470": {
+      "codigo": "56470",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56545": {
+      "codigo": "56545",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: VINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56607": {
+      "codigo": "56607",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56614": {
+      "codigo": "56614",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: MARROM - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56622": {
+      "codigo": "56622",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     }
   }
