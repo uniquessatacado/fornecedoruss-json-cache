@@ -1,7 +1,69 @@
 {
     "success": true,
-    "total_carrinhos": 848,
+    "total_carrinhos": 849,
     "lista_carrinhos": [
+        {
+            "id": "74532",
+            "id_clientes": "13631",
+            "chave_sessao": "d3114515a1b26bbe7853200da72e8124",
+            "nome": "LUIS FERNANDO DIAS ALKMIM",
+            "email": "luisfernandoboc08@yahoo.com.br",
+            "celular": "(38) 9991-62304",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-25",
+            "hora_transacao": "06:17:13",
+            "ip": "104.22.10.219",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-26 09:11:51",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d3114515a1b26bbe7853200da72e8124\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-24_22-08-45.webp",
+                    "codigo": "56461",
+                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: M ",
+                    "valor_unitario": "R$ 55,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 55,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "NIKE"
+                }
+            ]
+        },
+        {
+            "id": "74582",
+            "id_clientes": "0",
+            "chave_sessao": "29f2b23b1276231805268cd8ee5e6038",
+            "nome": "",
+            "email": "",
+            "celular": "(83) 99403-0730",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-26",
+            "hora_transacao": "09:05:31",
+            "ip": "172.69.90.254",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-26 09:05:31",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/29f2b23b1276231805268cd8ee5e6038\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-04_11-32-52_1.jpg",
+                    "codigo": "52811",
+                    "produto": "Camisa de time Tailandesa 1.1 TORCEDOR NOTTINGHAM FOREST II 25\/26 - Tamanho: M - Times : Nottingham Forest - VERSÃO: TORCEDOR ",
+                    "valor_unitario": "R$ 127,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 127,50",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
         {
             "id": "73987",
             "id_clientes": "697",
@@ -4362,37 +4424,6 @@
                     "categoria_principal": "CUECAS",
                     "categoria": "Kit cueca premium",
                     "marca": "CALVIN KLEIN"
-                }
-            ]
-        },
-        {
-            "id": "74532",
-            "id_clientes": "13631",
-            "chave_sessao": "d3114515a1b26bbe7853200da72e8124",
-            "nome": "LUIS FERNANDO DIAS ALKMIM",
-            "email": "luisfernandoboc08@yahoo.com.br",
-            "celular": "(38) 9991-62304",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-25",
-            "hora_transacao": "06:17:13",
-            "ip": "104.22.10.219",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-02-25 06:21:46",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/d3114515a1b26bbe7853200da72e8124\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-24_22-08-45.webp",
-                    "codigo": "56461",
-                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: M ",
-                    "valor_unitario": "R$ 55,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 55,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "Camiseta 40.1 Ultra Premium",
-                    "marca": "NIKE"
                 }
             ]
         },
