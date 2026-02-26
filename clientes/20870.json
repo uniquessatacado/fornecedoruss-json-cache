@@ -1,0 +1,45 @@
+{
+  "codigo": "20870",
+  "nome": "PEDRO GIORDANO",
+  "email": "opedrogiordano@gmail.com",
+  "sexo": "0",
+  "data_cadastro": "26/02/2026",
+  "whatsapp": "(13) 98140-4680",
+  "cidade": "São Vicente",
+  "estado": "SP",
+  "loja_drop": "2",
+  "representante": "3",
+  "total_pedidos": 1,
+  "valor_total_comprado": 75.78,
+  "pedidos": [
+    {
+      "codigo_pedido": "32697",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 09:32:39",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 63.25,
+      "valor_frete": 12.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.78,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    }
+  ],
+  "produtos_comprados": {
+    "55940": {
+      "codigo": "55940",
+      "titulo": "Bermuda Microfibra Premium - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    }
+  }
+}
