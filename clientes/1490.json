@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 23,
-  "valor_total_comprado": 2600.7400000000002,
+  "total_pedidos": 24,
+  "valor_total_comprado": 2619.43,
   "pedidos": [
     {
       "codigo_pedido": "2596",
@@ -432,14 +432,14 @@
     },
     {
       "codigo_pedido": "32680",
-      "situacao_pedido": "PEDIDO PRONTO PARA SER RETIRADO NA LOJA",
+      "situacao_pedido": "PEDIDO ENTREGUE",
       "data_hora_pedido": "2026-02-25 12:27:37",
       "data_hora_confirmacao": "2026-02-25 12:30:06",
       "data_hora_confirmacao_pagamento": "2026-02-25 12:30:06",
-      "valor_total_produtos": 224.23,
+      "valor_total_produtos": 160.99,
       "valor_frete": 0,
       "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
-      "valor_total_pedido": 224.23,
+      "valor_total_pedido": 160.99,
       "desconto": 0,
       "cidade": "Salto",
       "estado": "SP",
@@ -447,6 +447,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32699",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-26 11:22:20",
+      "data_hora_confirmacao": "2026-02-26 11:22:20",
+      "data_hora_confirmacao_pagamento": "2026-02-26 11:22:20",
+      "valor_total_produtos": 81.93,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 81.93,
+      "desconto": 0,
+      "cidade": "Salto",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -803,9 +822,9 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "56179": {
-      "codigo": "56179",
-      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: G",
+    "56178": {
+      "codigo": "56178",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
@@ -827,12 +846,12 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
-    "56477": {
-      "codigo": "56477",
-      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: GG",
+    "56553": {
+      "codigo": "56553",
+      "titulo": "Camiseta Peruana brooksfield  - Cor: VERDE AGUA - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "NIKE",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     },
     "CD39.13": {
