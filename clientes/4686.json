@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 35,
-  "valor_total_comprado": 7371.3499999999985,
+  "total_pedidos": 36,
+  "valor_total_comprado": 7620.489999999999,
   "pedidos": [
     {
       "codigo_pedido": "5173",
@@ -676,6 +676,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32696",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-26 06:51:32",
+      "data_hora_confirmacao": "2026-02-26 06:53:35",
+      "data_hora_confirmacao_pagamento": "2026-02-26 06:53:35",
+      "valor_total_produtos": 216.72,
+      "valor_frete": 32.42,
+      "frete": "SEDEX",
+      "valor_total_pedido": 249.14,
+      "desconto": 0,
+      "cidade": "Descalvado",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -1175,6 +1194,14 @@
       "marca": "BALENCIAGA",
       "quantidade": "1"
     },
+    "41112": {
+      "codigo": "41112",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "GUCCI",
+      "quantidade": "1"
+    },
     "41220": {
       "codigo": "41220",
       "titulo": "Camisa de Time (Qualidade Nacional Premium) (C356)- Flamengo LT14A - Tamanho: M - Times : Flamengo - VERSÃO: TORCEDOR",
@@ -1421,6 +1448,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56167": {
+      "codigo": "56167",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56291": {
+      "codigo": "56291",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada   - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56299": {
+      "codigo": "56299",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56415": {
+      "codigo": "56415",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56464": {
+      "codigo": "56464",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56510": {
+      "codigo": "56510",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: AZUL MARINHO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     },
     "CD39.40": {
