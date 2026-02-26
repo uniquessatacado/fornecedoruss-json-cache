@@ -9,8 +9,8 @@
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 22,
-  "valor_total_comprado": 7104.040000000001,
+  "total_pedidos": 23,
+  "valor_total_comprado": 7681.860000000001,
   "pedidos": [
     {
       "codigo_pedido": "2300734",
@@ -428,6 +428,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
       "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32695",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-25 23:04:49",
+      "data_hora_confirmacao": "2026-02-25 23:10:06",
+      "data_hora_confirmacao_pagamento": "2026-02-25 23:10:06",
+      "valor_total_produtos": 577.82,
+      "valor_frete": 0,
+      "frete": "NÃO ENVIAR AGORA – VOU COMPRAR MAIS !!!",
+      "valor_total_pedido": 577.82,
+      "desconto": 0,
+      "cidade": "Campo Mourão",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -1542,6 +1561,110 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA MALHA EGÍPCIA SOFT",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "56215": {
+      "codigo": "56215",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: PRETA - Marca: Lacoste - Tamanho: M",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56236": {
+      "codigo": "56236",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56307": {
+      "codigo": "56307",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56323": {
+      "codigo": "56323",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: VERMELHA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56432": {
+      "codigo": "56432",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56488": {
+      "codigo": "56488",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56493": {
+      "codigo": "56493",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56494": {
+      "codigo": "56494",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56505": {
+      "codigo": "56505",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56514": {
+      "codigo": "56514",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56525": {
+      "codigo": "56525",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: GELO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56621": {
+      "codigo": "56621",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56622": {
+      "codigo": "56622",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     },
     "CD02.6G": {
