@@ -3,6 +3,48 @@
     "total_carrinhos": 853,
     "lista_carrinhos": [
         {
+            "id": "74111",
+            "id_clientes": "2268",
+            "chave_sessao": "36ad4b5baf6a615a7b96ac220e0eb754",
+            "nome": "LUIZ HENRIQUE SOARES RODRIGUES",
+            "email": "hsoares240.rodrigues@gmail.com",
+            "celular": "(21) 99807-2657",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-03",
+            "hora_transacao": "21:40:58",
+            "ip": "172.64.222.223",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-02-26 15:08:23",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/36ad4b5baf6a615a7b96ac220e0eb754\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-24_22-08-45.webp",
+                    "codigo": "56465",
+                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: GG ",
+                    "valor_unitario": "R$ 55,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 55,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "NIKE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2026-02-12_18-32-10.webp",
+                    "codigo": "56355",
+                    "produto": "Camiseta Suedine Malhão OVERSIZED Balmain - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG ",
+                    "valor_unitario": "R$ 67,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 67,50",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+                    "marca": "BALMAIN"
+                }
+            ]
+        },
+        {
             "id": "74590",
             "id_clientes": "0",
             "chave_sessao": "01cd24c3efd07bd4c0cc6d02f4a2ecf7",
@@ -233,48 +275,6 @@
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
                     "marca": "Camisa de Time"
-                }
-            ]
-        },
-        {
-            "id": "74111",
-            "id_clientes": "2268",
-            "chave_sessao": "36ad4b5baf6a615a7b96ac220e0eb754",
-            "nome": "LUIZ HENRIQUE SOARES RODRIGUES",
-            "email": "hsoares240.rodrigues@gmail.com",
-            "celular": "(21) 99807-2657",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-03",
-            "hora_transacao": "21:40:58",
-            "ip": "172.64.222.223",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-02-26 12:16:03",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/36ad4b5baf6a615a7b96ac220e0eb754\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-24_22-08-45.webp",
-                    "codigo": "56465",
-                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: GG ",
-                    "valor_unitario": "R$ 55,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 55,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "Camiseta 40.1 Ultra Premium",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2026-02-12_18-32-10.webp",
-                    "codigo": "56355",
-                    "produto": "Camiseta Suedine Malhão OVERSIZED Balmain - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG ",
-                    "valor_unitario": "R$ 67,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 67,50",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
-                    "marca": "BALMAIN"
                 }
             ]
         },
