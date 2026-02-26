@@ -9,13 +9,32 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 75.78,
+  "total_pedidos": 2,
+  "valor_total_comprado": 151.56,
   "pedidos": [
     {
       "codigo_pedido": "32697",
       "situacao_pedido": "PEDIDO ABERTO",
       "data_hora_pedido": "2026-02-26 09:32:39",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 63.25,
+      "valor_frete": 12.53,
+      "frete": "LOGGI",
+      "valor_total_pedido": 75.78,
+      "desconto": 0,
+      "cidade": "São Vicente",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Dropshipping",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "SIM"
+    },
+    {
+      "codigo_pedido": "32698",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 10:13:31",
       "data_hora_confirmacao": null,
       "data_hora_confirmacao_pagamento": null,
       "valor_total_produtos": 63.25,
@@ -39,7 +58,7 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
-      "quantidade": "1"
+      "quantidade": 2
     }
   }
 }
