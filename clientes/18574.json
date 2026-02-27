@@ -9,8 +9,8 @@
   "estado": "MG",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 810.63,
+  "total_pedidos": 4,
+  "valor_total_comprado": 1088.22,
   "pedidos": [
     {
       "codigo_pedido": "27467",
@@ -60,6 +60,25 @@
       "valor_frete": 33.58,
       "frete": "LOGGI",
       "valor_total_pedido": 451.58,
+      "desconto": 0,
+      "cidade": "Caratinga",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32712",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-02-26 21:46:02",
+      "data_hora_confirmacao": "2026-02-26 21:49:41",
+      "data_hora_confirmacao_pagamento": "2026-02-26 21:49:41",
+      "valor_total_produtos": 252.96,
+      "valor_frete": 24.63,
+      "frete": "JADLOG",
+      "valor_total_pedido": 277.59,
       "desconto": 0,
       "cidade": "Caratinga",
       "estado": "MG",
@@ -205,6 +224,70 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56110": {
+      "codigo": "56110",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56441": {
+      "codigo": "56441",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56453": {
+      "codigo": "56453",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56465": {
+      "codigo": "56465",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada  - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56494": {
+      "codigo": "56494",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56500": {
+      "codigo": "56500",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56539": {
+      "codigo": "56539",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56635": {
+      "codigo": "56635",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     }
   }

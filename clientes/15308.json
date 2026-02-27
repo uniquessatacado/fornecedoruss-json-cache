@@ -9,8 +9,77 @@
   "estado": "MG",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 0,
-  "valor_total_comprado": 0,
-  "pedidos": [],
-  "produtos_comprados": []
+  "total_pedidos": 1,
+  "valor_total_comprado": 431,
+  "pedidos": [
+    {
+      "codigo_pedido": "32709",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 20:37:25",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 399.12,
+      "valor_frete": 31.88,
+      "frete": "LOGGI",
+      "valor_total_pedido": 431,
+      "desconto": 0,
+      "cidade": "Munhoz",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    }
+  ],
+  "produtos_comprados": {
+    "51388": {
+      "codigo": "51388",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56206": {
+      "codigo": "56206",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56230": {
+      "codigo": "56230",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: BRANCA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56236": {
+      "codigo": "56236",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada - Cor: PRETA - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "56412": {
+      "codigo": "56412",
+      "titulo": "Camisa Polo Quiksilver piquet duplo importada  - Cor: BRANCA - Marca: Quiksilver - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56607": {
+      "codigo": "56607",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    }
+  }
 }

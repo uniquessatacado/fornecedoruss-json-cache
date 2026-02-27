@@ -2,15 +2,15 @@
   "codigo": "17922",
   "nome": "VANDERLAN MOREIRA PIRES",
   "email": "piresvanderlan@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "29/11/2024",
-  "whatsapp": "(33) 98702-8293",
+  "whatsapp": "(33) 9870-28293",
   "cidade": "Divisa Alegre",
   "estado": "MG",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 5,
-  "valor_total_comprado": 967.74,
+  "total_pedidos": 6,
+  "valor_total_comprado": 1294.57,
   "pedidos": [
     {
       "codigo_pedido": "25327",
@@ -98,6 +98,25 @@
       "valor_frete": 20.11,
       "frete": "LOGGI",
       "valor_total_pedido": 80.47,
+      "desconto": 0,
+      "cidade": "Divisa Alegre",
+      "estado": "MG",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32713",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-26 21:46:37",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 296.1,
+      "valor_frete": 30.73,
+      "frete": "LOGGI",
+      "valor_total_pedido": 326.83,
       "desconto": 0,
       "cidade": "Divisa Alegre",
       "estado": "MG",
@@ -291,6 +310,86 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "LACOSTE",
+      "quantidade": "1"
+    },
+    "55964": {
+      "codigo": "55964",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55979": {
+      "codigo": "55979",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: BEGE - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55988": {
+      "codigo": "55988",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56033": {
+      "codigo": "56033",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56109": {
+      "codigo": "56109",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56141": {
+      "codigo": "56141",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56259": {
+      "codigo": "56259",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56369": {
+      "codigo": "56369",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56487": {
+      "codigo": "56487",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56517": {
+      "codigo": "56517",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     }
   }
