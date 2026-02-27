@@ -4,13 +4,13 @@
   "email": "guilegrim@hotmail.com",
   "sexo": "1",
   "data_cadastro": "28/05/2024",
-  "whatsapp": "(41) 99269-9588",
+  "whatsapp": "(41) 9926-99588",
   "cidade": "Pinhais",
   "estado": "PR",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 300.87,
+  "total_pedidos": 3,
+  "valor_total_comprado": 344.13,
   "pedidos": [
     {
       "codigo_pedido": "25838",
@@ -49,6 +49,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32716",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-27 12:54:42",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 27,
+      "valor_frete": 16.26,
+      "frete": "JADLOG",
+      "valor_total_pedido": 43.26,
+      "desconto": 0,
+      "cidade": "Pinhais",
+      "estado": "PR",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -58,6 +77,14 @@
       "categoria_principal": "Tailandesa 1:1 encomenda",
       "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
       "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "42659": {
+      "codigo": "42659",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
       "quantidade": "1"
     },
     "53053": {
