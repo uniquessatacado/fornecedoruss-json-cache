@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 59.97,
+  "total_pedidos": 3,
+  "valor_total_comprado": 272.47,
   "pedidos": [
     {
       "codigo_pedido": "17895",
@@ -49,6 +49,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32714",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-27 09:00:05",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 212.5,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 212.5,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -74,6 +93,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56016": {
+      "codigo": "56016",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56133": {
+      "codigo": "56133",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: CINZA MESCLA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56342": {
+      "codigo": "56342",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "AMIRI",
       "quantidade": "1"
     }
   }
