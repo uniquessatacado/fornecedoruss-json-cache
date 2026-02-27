@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 22,
-  "valor_total_comprado": 1372.9100000000003,
+  "total_pedidos": 23,
+  "valor_total_comprado": 1412.7900000000004,
   "pedidos": [
     {
       "codigo_pedido": "11186",
@@ -429,6 +429,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32724",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-27 18:19:23",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 27.5,
+      "valor_frete": 12.38,
+      "frete": "LOGGI",
+      "valor_total_pedido": 39.88,
+      "desconto": 0,
+      "cidade": "Araçatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -611,6 +630,14 @@
     "56179": {
       "codigo": "56179",
       "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas) - Cor: CINZA MESCLA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56425": {
+      "codigo": "56425",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada (frente e costas)  - Cor: BRANCA - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
