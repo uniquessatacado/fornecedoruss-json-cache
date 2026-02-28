@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 59.97,
+  "total_pedidos": 3,
+  "valor_total_comprado": 290.27,
   "pedidos": [
     {
       "codigo_pedido": "17895",
@@ -49,6 +49,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32731",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-02-28 14:56:17",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 230.3,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 230.3,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -74,6 +93,54 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta DRIFIT ultra",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51404": {
+      "codigo": "51404",
+      "titulo": "Blusa de Moletom 3 Cabos DIESEL BORDADO (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
+    "55992": {
+      "codigo": "55992",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56138": {
+      "codigo": "56138",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56142": {
+      "codigo": "56142",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56250": {
+      "codigo": "56250",
+      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56590": {
+      "codigo": "56590",
+      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     }
   }
