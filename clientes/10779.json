@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 72,
-  "valor_total_comprado": 25757.409999999996,
+  "total_pedidos": 73,
+  "valor_total_comprado": 26106.709999999995,
   "pedidos": [
     {
       "codigo_pedido": "13481",
@@ -1379,6 +1379,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32727",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-02-28 09:28:40",
+      "data_hora_confirmacao": "2026-02-28 09:28:40",
+      "data_hora_confirmacao_pagamento": "2026-02-28 09:28:40",
+      "valor_total_produtos": 349.3,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 349.3,
+      "desconto": 0,
+      "cidade": "Sumaré",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -2574,6 +2593,22 @@
       "marca": "COLCCI",
       "quantidade": "2"
     },
+    "42139": {
+      "codigo": "42139",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "PRADA",
+      "quantidade": "1"
+    },
+    "42162": {
+      "codigo": "42162",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "COLCCI",
+      "quantidade": "1"
+    },
     "42177": {
       "codigo": "42177",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO MARINHO - Tamanho: M",
@@ -2636,6 +2671,22 @@
       "categoria_principal": "CUECAS",
       "categoria": "Cuecas Peruanas",
       "marca": "Hugo Boss",
+      "quantidade": "1"
+    },
+    "42662": {
+      "codigo": "42662",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
+      "quantidade": "1"
+    },
+    "42670": {
+      "codigo": "42670",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "Tommy Hilfiger",
       "quantidade": "1"
     },
     "42687": {
@@ -2908,6 +2959,14 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "45549": {
+      "codigo": "45549",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO BRANCO CHUMBO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "LACOSTE",
       "quantidade": "1"
     },
     "45560": {
@@ -7222,6 +7281,22 @@
       "marca": "Camisa de Time",
       "quantidade": "1"
     },
+    "56039": {
+      "codigo": "56039",
+      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: M - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56040": {
+      "codigo": "56040",
+      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: G - Times : Corinthians",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
     "56060": {
       "codigo": "56060",
       "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERMELHA - Tamanho: G",
@@ -7380,6 +7455,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA PERUANA",
       "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56623": {
+      "codigo": "56623",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     },
     "CD22.1GG": {
