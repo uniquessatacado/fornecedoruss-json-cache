@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 41,
-  "valor_total_comprado": 36723.07,
+  "total_pedidos": 42,
+  "valor_total_comprado": 37006.99,
   "pedidos": [
     {
       "codigo_pedido": "3107",
@@ -782,6 +782,25 @@
       "valor_frete": 47.15,
       "frete": "SEDEX",
       "valor_total_pedido": 728.46,
+      "desconto": 0,
+      "cidade": "Guaraci",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32734",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-01 23:46:21",
+      "data_hora_confirmacao": "2026-03-01 23:50:05",
+      "data_hora_confirmacao_pagamento": "2026-03-01 23:50:05",
+      "valor_total_produtos": 251.06,
+      "valor_frete": 32.86,
+      "frete": "SEDEX",
+      "valor_total_pedido": 283.92,
       "desconto": 0,
       "cidade": "Guaraci",
       "estado": "SP",
@@ -5569,6 +5588,14 @@
       "marca": "LACOSTE",
       "quantidade": "1"
     },
+    "49799": {
+      "codigo": "49799",
+      "titulo": "Camisa de Time (Qualidade Nacional Premium) Barcelona | LT69A (C1225) - Tamanho: P - Times : Barcelona - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+      "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
     "49898": {
       "codigo": "49898",
       "titulo": "Blusa de Moletom 3 Cabos ADIDAS (LT001.4)  - Cor: PRETA - Tamanho: M",
@@ -5993,6 +6020,14 @@
       "marca": "Camisa de Time",
       "quantidade": "1"
     },
+    "51138": {
+      "codigo": "51138",
+      "titulo": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR BOTAFOGO - PRONTA ENTREGA - Tamanho: G - Times : Botafogo - VERSÃO: TORCEDOR",
+      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+      "categoria": "TAILANDESA 1:1 PRONTA ENTREGA NO BRASIL",
+      "marca": "Reebok",
+      "quantidade": "1"
+    },
     "51161": {
       "codigo": "51161",
       "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CHELSEA II 25/26 - Tamanho: GG - Times : Chelsea - VERSÃO: TORCEDOR",
@@ -6047,6 +6082,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "51838": {
+      "codigo": "51838",
+      "titulo": " Camiseta 40.1 Ultra Premium DIESEL Bordado (NLT001) - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "DIESEL",
       "quantidade": "1"
     },
     "52038": {
@@ -6572,6 +6615,14 @@
     "54672": {
       "codigo": "54672",
       "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: SALMÃO - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54674": {
+      "codigo": "54674",
+      "titulo": "Camiseta Suedine 1:1 Ultra Nike - ARTE EM DTF (LT055) - Cor: AZUL ROYAL - Tamanho: P",
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "NIKE",
@@ -7287,6 +7338,38 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
       "marca": "ADIDAS",
+      "quantidade": "1"
+    },
+    "55950": {
+      "codigo": "55950",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55970": {
+      "codigo": "55970",
+      "titulo": "Bermuda Microfibra Premium Nike  - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56010": {
+      "codigo": "56010",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56342": {
+      "codigo": "56342",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
+      "marca": "AMIRI",
       "quantidade": "1"
     },
     "CD17.32G": {
