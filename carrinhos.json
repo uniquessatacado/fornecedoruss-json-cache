@@ -3,6 +3,37 @@
     "total_carrinhos": 849,
     "lista_carrinhos": [
         {
+            "id": "74662",
+            "id_clientes": "2144",
+            "chave_sessao": "4fa068f06f0f6778ebece34847782c9a",
+            "nome": "BRENO BELLÃO",
+            "email": "brenoallyssonb@hotmail.com",
+            "celular": "(11) 96028-5445",
+            "id_usuarios": "1",
+            "data_transacao": "2026-03-02",
+            "hora_transacao": "21:45:40",
+            "ip": "172.71.238.203",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-03 19:47:10",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/4fa068f06f0f6778ebece34847782c9a\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_5_2026-02-04_13-57-59.webp",
+                    "codigo": "56116",
+                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: GG ",
+                    "valor_unitario": "R$ 55,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 55,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta 40.1 Ultra Premium",
+                    "marca": "NIKE"
+                }
+            ]
+        },
+        {
             "id": "74668",
             "id_clientes": "20876",
             "chave_sessao": "94beb17810a8f8c1710dc365a8a6aa3c",
@@ -679,37 +710,6 @@
                     "categoria_principal": "POLOS",
                     "categoria": "Polo Piquet Duplo",
                     "marca": "LACOSTE"
-                }
-            ]
-        },
-        {
-            "id": "74662",
-            "id_clientes": "2144",
-            "chave_sessao": "4fa068f06f0f6778ebece34847782c9a",
-            "nome": "BRENO BELLÃO",
-            "email": "brenoallyssonb@hotmail.com",
-            "celular": "(11) 96028-5445",
-            "id_usuarios": "1",
-            "data_transacao": "2026-03-02",
-            "hora_transacao": "21:45:40",
-            "ip": "172.71.238.203",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-02 21:45:40",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/4fa068f06f0f6778ebece34847782c9a\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_5_2026-02-04_13-57-59.webp",
-                    "codigo": "56116",
-                    "produto": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas)  - Cor: CINZA CLARO - Tamanho: GG ",
-                    "valor_unitario": "R$ 55,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 55,00",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "Camiseta 40.1 Ultra Premium",
-                    "marca": "NIKE"
                 }
             ]
         },
