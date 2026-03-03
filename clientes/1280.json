@@ -9,7 +9,7 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 42,
+  "total_pedidos": 43,
   "valor_total_comprado": 37006.99,
   "pedidos": [
     {
@@ -793,14 +793,14 @@
     },
     {
       "codigo_pedido": "32734",
-      "situacao_pedido": "PEDIDO EM SEPARAÇÃO",
+      "situacao_pedido": "PEDIDO ENVIADO",
       "data_hora_pedido": "2026-03-01 23:46:21",
       "data_hora_confirmacao": "2026-03-01 23:50:05",
       "data_hora_confirmacao_pagamento": "2026-03-01 23:50:05",
-      "valor_total_produtos": 251.06,
+      "valor_total_produtos": 212.25,
       "valor_frete": 32.86,
       "frete": "SEDEX",
-      "valor_total_pedido": 283.92,
+      "valor_total_pedido": 245.11,
       "desconto": 0,
       "cidade": "Guaraci",
       "estado": "SP",
@@ -808,6 +808,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32737",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-03 13:18:06",
+      "data_hora_confirmacao": "2026-03-03 13:18:06",
+      "data_hora_confirmacao_pagamento": "2026-03-03 13:18:06",
+      "valor_total_produtos": 38.81,
+      "valor_frete": 0,
+      "frete": "SUBSTITUINDO PEÇA QUE FALTOU EM OUTRO PEDIDO",
+      "valor_total_pedido": 38.81,
+      "desconto": 0,
+      "cidade": "Guaraci",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
+      "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -7364,9 +7383,9 @@
       "marca": "JORDAN",
       "quantidade": "1"
     },
-    "56342": {
-      "codigo": "56342",
-      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: G1",
+    "56339": {
+      "codigo": "56339",
+      "titulo": "Camiseta Suedine Malhão OVERSIZED Amiri - ATENÇÃO FORMA GRANDE - Cor: PRETA - Tamanho: GG",
       "categoria_principal": "CAMISETAS",
       "categoria": "CAMISETA SUEDINE OVERSIZED 1:1 ULTRA",
       "marca": "AMIRI",
