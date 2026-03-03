@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 851,
+    "total_carrinhos": 852,
     "lista_carrinhos": [
+        {
+            "id": "74665",
+            "id_clientes": "0",
+            "chave_sessao": "e8aa05bab3aa0c1d11e30458fe8a53e2",
+            "nome": "",
+            "email": "",
+            "celular": "(79) 99951-3167",
+            "id_usuarios": "1",
+            "data_transacao": "2026-03-03",
+            "hora_transacao": "11:29:50",
+            "ip": "162.158.214.139",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-03 11:29:50",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e8aa05bab3aa0c1d11e30458fe8a53e2\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-02_22-05-18.webp",
+                    "codigo": "56043",
+                    "produto": "Camisa de seleção Brasil copa 2026 - Tamanho: P - Times : Brasil ",
+                    "valor_unitario": "R$ 75,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 75,00",
+                    "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
+                    "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
         {
             "id": "73700",
             "id_clientes": "174",
