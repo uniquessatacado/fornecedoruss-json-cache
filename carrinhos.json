@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 845,
+    "total_carrinhos": 844,
     "lista_carrinhos": [
+        {
+            "id": "74606",
+            "id_clientes": "10609",
+            "chave_sessao": "e573cae6137982d040c51351edf08112",
+            "nome": "EVERSON DE OLIVEIRA",
+            "email": "eversonoliveirasoares@gmail.com",
+            "celular": "(75) 98348-6301",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-26",
+            "hora_transacao": "20:06:15",
+            "ip": "104.22.10.218",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-04 15:41:49",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/32511\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/32511\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
+                    "codigo": "56207",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 125,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 125,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                }
+            ]
+        },
         {
             "id": "73803",
             "id_clientes": "3839",
@@ -1401,37 +1432,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta Waffle Texturizada",
                     "marca": "ZARA"
-                }
-            ]
-        },
-        {
-            "id": "74606",
-            "id_clientes": "10609",
-            "chave_sessao": "e573cae6137982d040c51351edf08112",
-            "nome": "EVERSON DE OLIVEIRA",
-            "email": "eversonoliveirasoares@gmail.com",
-            "celular": "(75) 98348-6301",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-26",
-            "hora_transacao": "20:06:15",
-            "ip": "104.22.10.218",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-02 21:51:37",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/32511\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/32511\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
-                    "codigo": "56207",
-                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "POLOS",
-                    "categoria": "Polo Piquet Duplo",
-                    "marca": "LACOSTE"
                 }
             ]
         },
@@ -5438,37 +5438,6 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2026-02-25_14-54-45.webp",
                     "codigo": "56562",
                     "produto": "Camiseta Peruana brooksfield  - Cor: OFFWHITE - Tamanho: GG ",
-                    "valor_unitario": "R$ 87,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 87,50",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA PERUANA",
-                    "marca": "BROOKSFIELD"
-                }
-            ]
-        },
-        {
-            "id": "74553",
-            "id_clientes": "3616",
-            "chave_sessao": "590118788395218d0162a61060a3e4e0",
-            "nome": "ANDERSON FRANCISCO DA SILVA",
-            "email": "charanosredna2@gmail.com",
-            "celular": "(44) 9987-78554",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-25",
-            "hora_transacao": "16:25:15",
-            "ip": "172.69.138.133",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-02-26 21:37:51",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/590118788395218d0162a61060a3e4e0\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-25_14-51-08.webp",
-                    "codigo": "56558",
-                    "produto": "Camiseta Peruana brooksfield  - Cor: CINZA - Tamanho: G ",
                     "valor_unitario": "R$ 87,50",
                     "quantidade": "1",
                     "valor_total": "R$ 87,50",
