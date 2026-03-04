@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 845,
+    "total_carrinhos": 846,
     "lista_carrinhos": [
+        {
+            "id": "74678",
+            "id_clientes": "18627",
+            "chave_sessao": "66d7c72aa120c56212d326a0dceb7833",
+            "nome": "KELVIN ARAÚJO GOMES",
+            "email": "kelvingomes6699@gmail.com",
+            "celular": "(19) 99493-4513",
+            "id_usuarios": "1",
+            "data_transacao": "2026-03-04",
+            "hora_transacao": "18:13:07",
+            "ip": "172.71.238.203",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-04 18:14:44",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/31067\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/31067\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/66d7c72aa120c56212d326a0dceb7833\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-11_20-00-13.webp",
+                    "codigo": "56270",
+                    "produto": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: M ",
+                    "valor_unitario": "R$ 40,00",
+                    "quantidade": "2",
+                    "valor_total": "R$ 80,00",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "Camiseta DRIFIT ultra",
+                    "marca": "MIZUNO"
+                }
+            ]
+        },
         {
             "id": "74664",
             "id_clientes": "18791",
@@ -1872,9 +1903,9 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2026-02-25_15-34-56.webp",
                     "codigo": "56622",
                     "produto": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: G ",
-                    "valor_unitario": "R$ 130,00",
+                    "valor_unitario": "R$ 74,75",
                     "quantidade": "1",
-                    "valor_total": "R$ 130,00",
+                    "valor_total": "R$ 74,75",
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta Waffle Texturizada",
                     "marca": "ZARA"
@@ -1883,12 +1914,56 @@
                     "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2026-02-25_15-34-56.webp",
                     "codigo": "56607",
                     "produto": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: BEGE - Tamanho: G ",
-                    "valor_unitario": "R$ 130,00",
+                    "valor_unitario": "R$ 74,75",
                     "quantidade": "1",
-                    "valor_total": "R$ 130,00",
+                    "valor_total": "R$ 74,75",
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta Waffle Texturizada",
                     "marca": "ZARA"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_3_2026-02-26_16-22-51.webp",
+                    "codigo": "56230",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada  - Cor: BRANCA - Marca: Lacoste - Tamanho: G ",
+                    "valor_unitario": "R$ 71,87",
+                    "quantidade": "1",
+                    "valor_total": "R$ 71,87",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-25_15-16-58.webp",
+                    "codigo": "56590",
+                    "produto": "Camiseta Peruana brooksfield - azul turquesa c\/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: GG ",
+                    "valor_unitario": "R$ 50,31",
+                    "quantidade": "1",
+                    "valor_total": "R$ 50,31",
+                    "categoria_principal": "CAMISETAS",
+                    "categoria": "CAMISETA PERUANA",
+                    "marca": "BROOKSFIELD"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
+                    "codigo": "55962",
+                    "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: GG ",
+                    "valor_unitario": "R$ 28,75",
+                    "quantidade": "1",
+                    "valor_total": "R$ 28,75",
+                    "categoria_principal": "BERMUDAS",
+                    "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+                    "marca": "NIKE"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_1_2026-02-26_16-22-51.webp",
+                    "codigo": "56212",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: VERMELHA - Marca: Lacoste - Tamanho: G ",
+                    "valor_unitario": "R$ 71,87",
+                    "quantidade": "1",
+                    "valor_total": "R$ 71,87",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
                 }
             ]
         },
