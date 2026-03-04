@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 9,
-  "valor_total_comprado": 874.5800000000002,
+  "total_pedidos": 10,
+  "valor_total_comprado": 1110.3200000000002,
   "pedidos": [
     {
       "codigo_pedido": "5992",
@@ -180,6 +180,25 @@
       "percentual_comissao": 0,
       "origem_pedido": "Loja Virtual",
       "tipo_compra": null,
+      "texto_tipo_compra": "",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32740",
+      "situacao_pedido": "PEDIDO ENTREGUE",
+      "data_hora_pedido": "2026-03-04 18:24:31",
+      "data_hora_confirmacao": "2026-03-04 18:24:31",
+      "data_hora_confirmacao_pagamento": "2026-03-04 18:24:31",
+      "valor_total_produtos": 235.74,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 235.74,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Sistema",
+      "tipo_compra": "3",
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
     }
@@ -376,6 +395,54 @@
       "categoria": "Bermuda Ultra Dry",
       "marca": "NIKE",
       "quantidade": "2"
+    },
+    "42174": {
+      "codigo": "42174",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "MCD",
+      "quantidade": "1"
+    },
+    "42659": {
+      "codigo": "42659",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT038) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ACOSTAMENTO",
+      "quantidade": "1"
+    },
+    "56016": {
+      "codigo": "56016",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: VERDE MILITAR - Tamanho: GG",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56268": {
+      "codigo": "56268",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA ESCURO - Tamanho: G1",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56502": {
+      "codigo": "56502",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56622": {
+      "codigo": "56622",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
     },
     "CD16.60": {
       "codigo": "CD16.60",
