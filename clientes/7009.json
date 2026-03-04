@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 662.27,
+  "total_pedidos": 1,
+  "valor_total_comprado": 56.9,
   "pedidos": [
     {
       "codigo_pedido": "8614",
@@ -30,159 +30,9 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32735",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-03-01 23:49:41",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 420.23,
-      "valor_frete": 44.84,
-      "frete": "SEDEX",
-      "valor_total_pedido": 465.07,
-      "desconto": 0,
-      "cidade": "Jaborandi",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
-    },
-    {
-      "codigo_pedido": "32736",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-03-01 23:49:41",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 80.5,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 140.3,
-      "desconto": 0,
-      "cidade": "Jaborandi",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
-    "41008": {
-      "codigo": "41008",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT25A (C552) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "LACOSTE",
-      "quantidade": "1"
-    },
-    "41112": {
-      "codigo": "41112",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "GUCCI",
-      "quantidade": "1"
-    },
-    "50532": {
-      "codigo": "50532",
-      "titulo": "Camisa de time Tailandesa 1.1 TORCEDOR CORINTHIANS 24/25 - Tamanho: G1 - Times : Corinthians - VERSÃO: TORCEDOR",
-      "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "54015": {
-      "codigo": "54015",
-      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN (LT049) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
-      "categoria_principal": "CUECAS",
-      "categoria": "Kit cueca premium",
-      "marca": "CALVIN KLEIN",
-      "quantidade": "1"
-    },
-    "56039": {
-      "codigo": "56039",
-      "titulo": "Camisa de Time Corinthians INFANTIL E SERVE TAMBEM PARA FEMININA - Tamanho: M - Times : Corinthians",
-      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
-      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "56043": {
-      "codigo": "56043",
-      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: P - Times : Brasil",
-      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
-      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    },
-    "56248": {
-      "codigo": "56248",
-      "titulo": "Camiseta Drifit ULTRA Mizuno - Cor: CINZA ESCURO - Tamanho: M",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta DRIFIT ultra",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56264": {
-      "codigo": "56264",
-      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA CLARO - Tamanho: G",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta DRIFIT ultra",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56270": {
-      "codigo": "56270",
-      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: PRETA - Tamanho: M",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta DRIFIT ultra",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56279": {
-      "codigo": "56279",
-      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA - Tamanho: G",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta DRIFIT ultra",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56369": {
-      "codigo": "56369",
-      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: BRANCA - Tamanho: M",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "MIZUNO",
-      "quantidade": "1"
-    },
-    "56482": {
-      "codigo": "56482",
-      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "Camiseta 40.1 Ultra Premium",
-      "marca": "QUIKSILVER",
-      "quantidade": "1"
-    },
-    "56569": {
-      "codigo": "56569",
-      "titulo": "Camiseta Peruana brooksfield - vermelha c/ branco - Cor: VERMELHA - Tamanho: M",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA PERUANA",
-      "marca": "BROOKSFIELD",
-      "quantidade": "1"
-    },
-    "56590": {
-      "codigo": "56590",
-      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: GG",
-      "categoria_principal": "CAMISETAS",
-      "categoria": "CAMISETA PERUANA",
-      "marca": "BROOKSFIELD",
-      "quantidade": "1"
-    },
     "CD14.01M": {
       "codigo": "CD14.01M",
       "titulo": "CAMISETA DRIFIT ULTRA - NIKE  ULTRADRY - Cor: Vermelha - Marca: Nike - Tamanho: M",
