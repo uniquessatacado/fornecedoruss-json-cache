@@ -1,7 +1,60 @@
 {
     "success": true,
-    "total_carrinhos": 852,
+    "total_carrinhos": 850,
     "lista_carrinhos": [
+        {
+            "id": "74418",
+            "id_clientes": "20852",
+            "chave_sessao": "43506aa5d9aa63e97741f6053dca0bb0",
+            "nome": "JÚLIO CÉSAR",
+            "email": "jcdias2003@gmail.com",
+            "celular": "(11) 99024-5471",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-16",
+            "hora_transacao": "11:28:30",
+            "ip": "104.22.10.218",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-05 16:13:17",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-entrega\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/43506aa5d9aa63e97741f6053dca0bb0\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41.jpg",
+                    "codigo": "53597",
+                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: P - Times : Corinthians - VERSÃO: RETRO ",
+                    "valor_unitario": "R$ 180,00",
+                    "quantidade": "2",
+                    "valor_total": "R$ 360,00",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+                    "marca": "Camisa de Time"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41_1.jpg",
+                    "codigo": "53602",
+                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: M - Times : Corinthians - VERSÃO: RETRO ",
+                    "valor_unitario": "R$ 180,00",
+                    "quantidade": "2",
+                    "valor_total": "R$ 360,00",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+                    "marca": "Camisa de Time"
+                },
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41_2.jpg",
+                    "codigo": "53603",
+                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: G - Times : Corinthians - VERSÃO: RETRO ",
+                    "valor_unitario": "R$ 180,00",
+                    "quantidade": "2",
+                    "valor_total": "R$ 360,00",
+                    "categoria_principal": "Tailandesa 1:1 encomenda",
+                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
+                    "marca": "Camisa de Time"
+                }
+            ]
+        },
         {
             "id": "74691",
             "id_clientes": "0",
@@ -572,59 +625,6 @@
                     "valor_total": "R$ 439,86",
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
-                    "marca": "Camisa de Time"
-                }
-            ]
-        },
-        {
-            "id": "74418",
-            "id_clientes": "20852",
-            "chave_sessao": "43506aa5d9aa63e97741f6053dca0bb0",
-            "nome": "JÚLIO CÉSAR",
-            "email": "jcdias2003@gmail.com",
-            "celular": "(11) 99024-5471",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-16",
-            "hora_transacao": "11:28:30",
-            "ip": "104.22.10.218",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-04 23:02:32",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/finalizar-pedido-entrega\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/finalizar-pedido-entrega\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/43506aa5d9aa63e97741f6053dca0bb0\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41.jpg",
-                    "codigo": "53597",
-                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: P - Times : Corinthians - VERSÃO: RETRO ",
-                    "valor_unitario": "R$ 180,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 360,00",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
-                    "marca": "Camisa de Time"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41_1.jpg",
-                    "codigo": "53602",
-                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: M - Times : Corinthians - VERSÃO: RETRO ",
-                    "valor_unitario": "R$ 180,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 360,00",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
-                    "marca": "Camisa de Time"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-08-28_15-29-41_2.jpg",
-                    "codigo": "53603",
-                    "produto": "Camisa de time Tailandesa 1.1 RETRÔ CORINTHIANS II 1990 - Tamanho: G - Times : Corinthians - VERSÃO: RETRO ",
-                    "valor_unitario": "R$ 180,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 360,00",
-                    "categoria_principal": "Tailandesa 1:1 encomenda",
-                    "categoria": "CAMISA DE TIME TAILANDESA 1:1 RETRO",
                     "marca": "Camisa de Time"
                 }
             ]
@@ -1383,37 +1383,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta DRIFIT ultra",
                     "marca": "MIZUNO"
-                }
-            ]
-        },
-        {
-            "id": "74553",
-            "id_clientes": "3616",
-            "chave_sessao": "590118788395218d0162a61060a3e4e0",
-            "nome": "ANDERSON FRANCISCO DA SILVA",
-            "email": "charanosredna2@gmail.com",
-            "celular": "(44) 9987-78554",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-25",
-            "hora_transacao": "16:25:15",
-            "ip": "172.69.138.133",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-04 17:52:59",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/590118788395218d0162a61060a3e4e0\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-25_14-51-08.webp",
-                    "codigo": "56558",
-                    "produto": "Camiseta Peruana brooksfield  - Cor: CINZA - Tamanho: G ",
-                    "valor_unitario": "R$ 87,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 87,50",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "CAMISETA PERUANA",
-                    "marca": "BROOKSFIELD"
                 }
             ]
         },
@@ -5645,59 +5614,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "CAMISETA PERUANA",
                     "marca": "BROOKSFIELD"
-                }
-            ]
-        },
-        {
-            "id": "74088",
-            "id_clientes": "15802",
-            "chave_sessao": "8756a38243ea220f1c3a3ad4cc40cb3d",
-            "nome": "FABIO DA SILVA BARBOSA",
-            "email": "fabiodasilvabarbosa2@gmail.com",
-            "celular": "(27) 9980-84558",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-03",
-            "hora_transacao": "06:40:37",
-            "ip": "104.23.254.165",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-02-27 06:44:48",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/8756a38243ea220f1c3a3ad4cc40cb3d\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
-                    "codigo": "55958",
-                    "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: M ",
-                    "valor_unitario": "R$ 50,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 100,00",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
-                    "codigo": "55961",
-                    "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: G ",
-                    "valor_unitario": "R$ 50,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 100,00",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-                    "marca": "NIKE"
-                },
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_10_2026-01-29_23-32-38.webp",
-                    "codigo": "55962",
-                    "produto": "Bermuda Microfibra Premium Nike - Cor: BEGE - Tamanho: GG ",
-                    "valor_unitario": "R$ 50,00",
-                    "quantidade": "2",
-                    "valor_total": "R$ 100,00",
-                    "categoria_principal": "BERMUDAS",
-                    "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
-                    "marca": "NIKE"
                 }
             ]
         },
