@@ -9,8 +9,8 @@
   "estado": "AL",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 413.64,
+  "total_pedidos": 4,
+  "valor_total_comprado": 636.18,
   "pedidos": [
     {
       "codigo_pedido": "25549",
@@ -68,6 +68,25 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32741",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-04 22:28:49",
+      "data_hora_confirmacao": "2026-03-04 22:30:11",
+      "data_hora_confirmacao_pagamento": "2026-03-04 22:30:11",
+      "valor_total_produtos": 173.62,
+      "valor_frete": 48.92,
+      "frete": "LOGGI",
+      "valor_total_pedido": 222.54,
+      "desconto": 0,
+      "cidade": "Porto Calvo",
+      "estado": "AL",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -124,6 +143,54 @@
       "titulo": "Tênis Estilo Air Force 1 Low Branco com Swoosh Azul - Casual Premium - Cor: BRANCA - Tamanho: 40",
       "categoria_principal": "TÊNIS",
       "categoria": "TENIS LINHA PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "54015": {
+      "codigo": "54015",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN (LT049) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
+      "quantidade": "1"
+    },
+    "55922": {
+      "codigo": "55922",
+      "titulo": "Bermuda Microfibra Premium - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55934": {
+      "codigo": "55934",
+      "titulo": "Bermuda Microfibra Premium - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "55946": {
+      "codigo": "55946",
+      "titulo": "Bermuda Microfibra Premium Nike - Cor: AZUL BEBE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56006": {
+      "codigo": "56006",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: BEGE - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56088": {
+      "codigo": "56088",
+      "titulo": "Camiseta  Nike 40.1 Ultra Premium penteada (frente e costas) - Cor: AZUL TURQUEZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "NIKE",
       "quantidade": "1"
     }
