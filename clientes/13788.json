@@ -9,8 +9,8 @@
   "estado": "BA",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 11,
-  "valor_total_comprado": 1737.3,
+  "total_pedidos": 12,
+  "valor_total_comprado": 2085.89,
   "pedidos": [
     {
       "codigo_pedido": "18249",
@@ -220,6 +220,25 @@
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32743",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-05 22:45:53",
+      "data_hora_confirmacao": "2026-03-05 22:49:01",
+      "data_hora_confirmacao_pagamento": "2026-03-05 22:49:01",
+      "valor_total_produtos": 305.25,
+      "valor_frete": 43.34,
+      "frete": "PAC",
+      "valor_total_pedido": 348.59,
+      "desconto": 0,
+      "cidade": "Candeias",
+      "estado": "BA",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -415,6 +434,14 @@
       "marca": "Hugo Boss",
       "quantidade": "1"
     },
+    "42162": {
+      "codigo": "42162",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "COLCCI",
+      "quantidade": "1"
+    },
     "42684": {
       "codigo": "42684",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA (LT037) - Cor: PRETO VERMELHO VERDE - Tamanho: M",
@@ -471,12 +498,28 @@
       "marca": "ADIDAS",
       "quantidade": "1"
     },
+    "53980": {
+      "codigo": "53980",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - DIESEL (LT049) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "DIESEL",
+      "quantidade": "1"
+    },
     "54005": {
       "codigo": "54005",
       "titulo": "Kit Cueca Premium na caixa de MADEIRA - ARMANI (LT049) - Cor: PRETO CHUMBO CINZA CLARO - Tamanho: M",
       "categoria_principal": "CUECAS",
       "categoria": "Kit cueca premium",
       "marca": "ARMANI",
+      "quantidade": "1"
+    },
+    "54015": {
+      "codigo": "54015",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA - CALVIN KLEIN (LT049) - Cor: PRETO CHUMBO VERDE - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "CALVIN KLEIN",
       "quantidade": "1"
     },
     "55952": {
@@ -501,6 +544,30 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "NIKE",
+      "quantidade": "1"
+    },
+    "56592": {
+      "codigo": "56592",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: AZUL - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56610": {
+      "codigo": "56610",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada - Cor: MARROM - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
+      "quantidade": "1"
+    },
+    "56617": {
+      "codigo": "56617",
+      "titulo": "Camisa Zara Knit Estruturada Waffle Texturizada  - Cor: PRETA - Tamanho: P",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta Waffle Texturizada",
+      "marca": "ZARA",
       "quantidade": "1"
     }
   }
