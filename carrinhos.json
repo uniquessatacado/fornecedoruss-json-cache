@@ -3,6 +3,37 @@
     "total_carrinhos": 840,
     "lista_carrinhos": [
         {
+            "id": "74606",
+            "id_clientes": "10609",
+            "chave_sessao": "e573cae6137982d040c51351edf08112",
+            "nome": "EVERSON DE OLIVEIRA",
+            "email": "eversonoliveirasoares@gmail.com",
+            "celular": "(75) 98348-6301",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-26",
+            "hora_transacao": "20:06:15",
+            "ip": "104.22.10.218",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-06 19:59:51",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/meus-pedidos\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/meus-pedidos\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
+                    "codigo": "56207",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 125,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 125,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                }
+            ]
+        },
+        {
             "id": "74200",
             "id_clientes": "9972",
             "chave_sessao": "1a58ff2b7d7e289ec0e6db9e1399510e",
@@ -240,37 +271,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "CAMISETA PERUANA",
                     "marca": "BROOKSFIELD"
-                }
-            ]
-        },
-        {
-            "id": "74606",
-            "id_clientes": "10609",
-            "chave_sessao": "e573cae6137982d040c51351edf08112",
-            "nome": "EVERSON DE OLIVEIRA",
-            "email": "eversonoliveirasoares@gmail.com",
-            "celular": "(75) 98348-6301",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-26",
-            "hora_transacao": "20:06:15",
-            "ip": "104.22.10.218",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-06 13:07:14",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/meus-pedidos\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/meus-pedidos\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
-                    "codigo": "56207",
-                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "POLOS",
-                    "categoria": "Polo Piquet Duplo",
-                    "marca": "LACOSTE"
                 }
             ]
         },
