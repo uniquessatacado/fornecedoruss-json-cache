@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 77,
-  "valor_total_comprado": 9912.679999999997,
+  "total_pedidos": 78,
+  "valor_total_comprado": 10065.989999999996,
   "pedidos": [
     {
       "codigo_pedido": "3674",
@@ -1473,6 +1473,25 @@
       "origem_pedido": "Loja Virtual",
       "tipo_compra": "2",
       "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32745",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-07 11:48:14",
+      "data_hora_confirmacao": "2026-03-07 11:50:05",
+      "data_hora_confirmacao_pagamento": "2026-03-07 11:50:05",
+      "valor_total_produtos": 153.31,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 153.31,
+      "desconto": 0,
+      "cidade": "Indaiatuba",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
     }
   ],
@@ -2949,6 +2968,22 @@
       "marca": "NIKE",
       "quantidade": "1"
     },
+    "39184": {
+      "codigo": "39184",
+      "titulo": "LIMPA PNEUS ( PRETINHO ) MARCA ( VAZZ )",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "1"
+    },
+    "39185": {
+      "codigo": "39185",
+      "titulo": "LIMPA AUTO ( SHAMPOO) MARCA ( VAZZ ) ",
+      "categoria_principal": "PRODUTOS AUTOMOTIVOS",
+      "categoria": "LAVAGEM DE CARRO",
+      "marca": "VAZZ",
+      "quantidade": "2"
+    },
     "39620": {
       "codigo": "39620",
       "titulo": "Camiseta Drifit ULTRA DRY - (C210) LT7A - Cor: CINZA CLARO - Tamanho: GG",
@@ -3763,6 +3798,30 @@
       "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
       "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "56264": {
+      "codigo": "56264",
+      "titulo": "Camiseta Drifit ULTRA Mizuno  - Cor: CINZA CLARO - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta DRIFIT ultra",
+      "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56573": {
+      "codigo": "56573",
+      "titulo": "Camiseta Peruana brooksfield - vermelha c/ branco - Cor: VERMELHA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
+      "quantidade": "1"
+    },
+    "56590": {
+      "codigo": "56590",
+      "titulo": "Camiseta Peruana brooksfield - azul turquesa c/ azul bebe (Clone) - Cor: AZUL TURQUEZA - Tamanho: GG",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "CAMISETA PERUANA",
+      "marca": "BROOKSFIELD",
       "quantidade": "1"
     },
     "CD39.28": {
