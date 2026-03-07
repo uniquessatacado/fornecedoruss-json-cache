@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 3,
-  "valor_total_comprado": 251.52999999999997,
+  "total_pedidos": 4,
+  "valor_total_comprado": 371.51,
   "pedidos": [
     {
       "codigo_pedido": "2302074",
@@ -68,6 +68,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32747",
+      "situacao_pedido": "PEDIDO CONFIRMADO",
+      "data_hora_pedido": "2026-03-07 17:06:48",
+      "data_hora_confirmacao": "2026-03-07 17:11:59",
+      "data_hora_confirmacao_pagamento": "2026-03-07 17:11:59",
+      "valor_total_produtos": 105,
+      "valor_frete": 14.98,
+      "frete": "SEDEX",
+      "valor_total_pedido": 119.98,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -85,7 +104,7 @@
       "categoria_principal": "BERMUDAS",
       "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
       "marca": "JORDAN",
-      "quantidade": "1"
+      "quantidade": 2
     },
     "56372": {
       "codigo": "56372",
@@ -93,6 +112,14 @@
       "categoria_principal": "CAMISETAS",
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "MIZUNO",
+      "quantidade": "1"
+    },
+    "56484": {
+      "codigo": "56484",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
       "quantidade": "1"
     },
     "CD40.1M": {
