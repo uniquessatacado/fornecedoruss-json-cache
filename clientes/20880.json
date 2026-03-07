@@ -9,37 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 239.8,
-  "pedidos": [
-    {
-      "codigo_pedido": "32742",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-03-05 20:56:53",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 180,
-      "valor_frete": 29.9,
-      "frete": "FRETE FIXO",
-      "valor_total_pedido": 239.8,
-      "desconto": 0,
-      "cidade": "São Paulo",
-      "estado": "SP",
-      "percentual_comissao": 0,
-      "origem_pedido": "Loja Virtual",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "NÃO"
-    }
-  ],
-  "produtos_comprados": {
-    "50955": {
-      "codigo": "50955",
-      "titulo": "Camisa de time Tailandesa 1.1 JOGADOR CORINTHIANS 24/25 - Tamanho: G - Times : Corinthians - VERSÃO: JOGADOR ",
-      "categoria_principal": "Tailandesa 1:1 encomenda",
-      "categoria": "Camisa de time Tailandesa 1.1 JOGADOR",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    }
-  }
+  "total_pedidos": 0,
+  "valor_total_comprado": 0,
+  "pedidos": [],
+  "produtos_comprados": []
 }
