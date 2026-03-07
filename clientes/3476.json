@@ -2,15 +2,15 @@
   "codigo": "3476",
   "nome": "MARCIO SANTOS LEVINO",
   "email": "marciomalik5@gmail.com",
-  "sexo": "0",
+  "sexo": "1",
   "data_cadastro": "11/10/2023",
-  "whatsapp": "(11) 95862-1995",
+  "whatsapp": "(11) 9586-21995",
   "cidade": "São Paulo",
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 2,
-  "valor_total_comprado": 133.51,
+  "total_pedidos": 3,
+  "valor_total_comprado": 251.52999999999997,
   "pedidos": [
     {
       "codigo_pedido": "2302074",
@@ -49,6 +49,25 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32746",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-03-07 16:48:00",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 105,
+      "valor_frete": 13.02,
+      "frete": "LOGGI",
+      "valor_total_pedido": 118.02,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "1",
+      "texto_tipo_compra": "USO PRÓPRIO",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
@@ -58,6 +77,22 @@
       "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
       "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
       "marca": "Camisa de Time",
+      "quantidade": "1"
+    },
+    "55988": {
+      "codigo": "55988",
+      "titulo": "Bermuda Microfibra Premium Jordan - Cor: VERDE MILITAR - Tamanho: M",
+      "categoria_principal": "BERMUDAS",
+      "categoria": "BERMUDA MICROFIBRA SUPER PREMIUM ",
+      "marca": "JORDAN",
+      "quantidade": "1"
+    },
+    "56372": {
+      "codigo": "56372",
+      "titulo": "Camiseta  Mizuno 40.1 Ultra Premium penteada - Cor: CINZA - Tamanho: M",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "MIZUNO",
       "quantidade": "1"
     },
     "CD40.1M": {
