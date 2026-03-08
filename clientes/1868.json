@@ -9,8 +9,8 @@
   "estado": "SP",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 19,
-  "valor_total_comprado": 1017.73,
+  "total_pedidos": 20,
+  "valor_total_comprado": 1152.73,
   "pedidos": [
     {
       "codigo_pedido": "2300203",
@@ -372,9 +372,36 @@
       "tipo_compra": null,
       "texto_tipo_compra": "",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32750",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-03-08 16:47:32",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 135,
+      "valor_frete": 0,
+      "frete": "VOU RETIRAR NA LOJA DE INDAIATUBA",
+      "valor_total_pedido": 135,
+      "desconto": 0,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "41014": {
+      "codigo": "41014",
+      "titulo": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C282) - Cor: PRETO CHUMBO MARINHO - Tamanho: M",
+      "categoria_principal": "CUECAS",
+      "categoria": "Kit cueca premium",
+      "marca": "ARMANI",
+      "quantidade": "5"
+    },
     "CD01.12G": {
       "codigo": "CD01.12G",
       "titulo": "Camisa de Time (Qualidade Nacional Premium) - Vasco - Tamanho: G - Times : Vasco",
