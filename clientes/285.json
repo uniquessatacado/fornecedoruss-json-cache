@@ -9,8 +9,8 @@
   "estado": "MT",
   "loja_drop": "2",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 545.26,
+  "total_pedidos": 2,
+  "valor_total_comprado": 1040.42,
   "pedidos": [
     {
       "codigo_pedido": "32660",
@@ -30,9 +30,36 @@
       "tipo_compra": "1",
       "texto_tipo_compra": "USO PRÓPRIO",
       "pedidos_loja_drop": "NÃO"
+    },
+    {
+      "codigo_pedido": "32752",
+      "situacao_pedido": "PEDIDO ABERTO",
+      "data_hora_pedido": "2026-03-09 15:33:47",
+      "data_hora_confirmacao": null,
+      "data_hora_confirmacao_pagamento": null,
+      "valor_total_produtos": 445,
+      "valor_frete": 50.16,
+      "frete": "PAC",
+      "valor_total_pedido": 495.16,
+      "desconto": 0,
+      "cidade": "Barra do Garças",
+      "estado": "MT",
+      "percentual_comissao": 0,
+      "origem_pedido": "Loja Virtual",
+      "tipo_compra": "2",
+      "texto_tipo_compra": "REVENDA",
+      "pedidos_loja_drop": "NÃO"
     }
   ],
   "produtos_comprados": {
+    "51388": {
+      "codigo": "51388",
+      "titulo": "Blusa de Moletom 3 Cabos LACOSTE (LT014) - Cor: PRETA - Tamanho: M",
+      "categoria_principal": "CORTA VENTO E MOLETOM",
+      "categoria": "MOLETOM 3 CABOS CANGURU PREMIUM",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
     "56218": {
       "codigo": "56218",
       "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: PRETA - Marca: Lacoste - Tamanho: G",
@@ -49,6 +76,14 @@
       "marca": "LACOSTE",
       "quantidade": "3"
     },
+    "56224": {
+      "codigo": "56224",
+      "titulo": "Camisa Polo Lacoste piquet dupla importada  - Cor: OFFWHITE - Marca: Lacoste - Tamanho: G",
+      "categoria_principal": "POLOS",
+      "categoria": "Polo Piquet Duplo",
+      "marca": "LACOSTE",
+      "quantidade": "1"
+    },
     "56308": {
       "codigo": "56308",
       "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada  - Cor: BRANCA - Tamanho: G",
@@ -56,6 +91,22 @@
       "categoria": "Camiseta 40.1 Ultra Premium",
       "marca": "QUIKSILVER",
       "quantidade": "2"
+    },
+    "56499": {
+      "codigo": "56499",
+      "titulo": "Camiseta  Quiksilver 40.1 Ultra Premium penteada - Cor: VERDE - Tamanho: G",
+      "categoria_principal": "CAMISETAS",
+      "categoria": "Camiseta 40.1 Ultra Premium",
+      "marca": "QUIKSILVER",
+      "quantidade": "1"
+    },
+    "56644": {
+      "codigo": "56644",
+      "titulo": "Calça Jeans (JOGADOR) Luxo ORIGINAL  - Cor: PRETA - Tamanho: 42",
+      "categoria_principal": "CALÇAS ",
+      "categoria": "CALÇA JEANS LUXO IMPORTADA ",
+      "marca": "JOHN LONDON",
+      "quantidade": "1"
     }
   }
 }
