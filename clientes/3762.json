@@ -9,37 +9,8 @@
   "estado": "PR",
   "loja_drop": "1",
   "representante": "3",
-  "total_pedidos": 1,
-  "valor_total_comprado": 98.96,
-  "pedidos": [
-    {
-      "codigo_pedido": "32732",
-      "situacao_pedido": "PEDIDO ABERTO",
-      "data_hora_pedido": "2026-02-28 15:51:24",
-      "data_hora_confirmacao": null,
-      "data_hora_confirmacao_pagamento": null,
-      "valor_total_produtos": 86.24,
-      "valor_frete": 12.72,
-      "frete": "LOGGI",
-      "valor_total_pedido": 98.96,
-      "desconto": 0,
-      "cidade": "Curitiba",
-      "estado": "PR",
-      "percentual_comissao": 0,
-      "origem_pedido": "Dropshipping",
-      "tipo_compra": "1",
-      "texto_tipo_compra": "USO PRÓPRIO",
-      "pedidos_loja_drop": "SIM"
-    }
-  ],
-  "produtos_comprados": {
-    "56043": {
-      "codigo": "56043",
-      "titulo": "Camisa de seleção Brasil copa 2026 - Tamanho: P - Times : Brasil",
-      "categoria_principal": "CAMISA DE  FUTEBOL A PRONTA ENTREGA",
-      "categoria": "CAMISA DE TIME QUALIDADE NACIONAL PREMIUM ",
-      "marca": "Camisa de Time",
-      "quantidade": "1"
-    }
-  }
+  "total_pedidos": 0,
+  "valor_total_comprado": 0,
+  "pedidos": [],
+  "produtos_comprados": []
 }
