@@ -1,7 +1,69 @@
 {
     "success": true,
-    "total_carrinhos": 828,
+    "total_carrinhos": 827,
     "lista_carrinhos": [
+        {
+            "id": "74606",
+            "id_clientes": "10609",
+            "chave_sessao": "e573cae6137982d040c51351edf08112",
+            "nome": "EVERSON DE OLIVEIRA",
+            "email": "eversonoliveirasoares@gmail.com",
+            "celular": "(75) 98348-6301",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-26",
+            "hora_transacao": "20:06:15",
+            "ip": "104.22.10.218",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-09 16:14:56",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/detalhar-pedido\/32511\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/detalhar-pedido\/32511\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
+                    "codigo": "56207",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 125,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 125,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                }
+            ]
+        },
+        {
+            "id": "74719",
+            "id_clientes": "8945",
+            "chave_sessao": "21fc50bf3c04635aca91a4d8a532c7ff",
+            "nome": "WILSON CESAR DEL MARCHI",
+            "email": "cesardelmarchi@hotmail.com",
+            "celular": "(18) 9912-17270",
+            "id_usuarios": "1",
+            "data_transacao": "2026-03-08",
+            "hora_transacao": "20:32:12",
+            "ip": "172.69.11.253",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-09 16:07:21",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/21fc50bf3c04635aca91a4d8a532c7ff\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
+                    "codigo": "56207",
+                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG ",
+                    "valor_unitario": "R$ 125,00",
+                    "quantidade": "1",
+                    "valor_total": "R$ 125,00",
+                    "categoria_principal": "POLOS",
+                    "categoria": "Polo Piquet Duplo",
+                    "marca": "LACOSTE"
+                }
+            ]
+        },
         {
             "id": "74031",
             "id_clientes": "3078",
@@ -515,37 +577,6 @@
             ]
         },
         {
-            "id": "74719",
-            "id_clientes": "8945",
-            "chave_sessao": "21fc50bf3c04635aca91a4d8a532c7ff",
-            "nome": "WILSON CESAR DEL MARCHI",
-            "email": "cesardelmarchi@hotmail.com",
-            "celular": "(18) 9912-17270",
-            "id_usuarios": "1",
-            "data_transacao": "2026-03-08",
-            "hora_transacao": "20:32:12",
-            "ip": "172.69.11.253",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-08 20:32:12",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/21fc50bf3c04635aca91a4d8a532c7ff\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
-                    "codigo": "56207",
-                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG ",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "POLOS",
-                    "categoria": "Polo Piquet Duplo",
-                    "marca": "LACOSTE"
-                }
-            ]
-        },
-        {
             "id": "73906",
             "id_clientes": "1933",
             "chave_sessao": "f04d79c164a672720129ad68cacf9fc0",
@@ -646,37 +677,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "CAMISETA SUEDINE 1:1 ULTRA",
                     "marca": "PUMA"
-                }
-            ]
-        },
-        {
-            "id": "74606",
-            "id_clientes": "10609",
-            "chave_sessao": "e573cae6137982d040c51351edf08112",
-            "nome": "EVERSON DE OLIVEIRA",
-            "email": "eversonoliveirasoares@gmail.com",
-            "celular": "(75) 98348-6301",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-26",
-            "hora_transacao": "20:06:15",
-            "ip": "104.22.10.218",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-08 12:23:21",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/e573cae6137982d040c51351edf08112\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
-                    "codigo": "56207",
-                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "POLOS",
-                    "categoria": "Polo Piquet Duplo",
-                    "marca": "LACOSTE"
                 }
             ]
         },
@@ -48241,37 +48241,6 @@
                     "categoria_principal": "BERMUDAS",
                     "categoria": "BERMUDA MICROFIBRA ULTRA",
                     "marca": "ADIDAS"
-                }
-            ]
-        },
-        {
-            "id": "73576",
-            "id_clientes": "0",
-            "chave_sessao": "f0ec52188f481de910055eedc19ed6e9",
-            "nome": "",
-            "email": "",
-            "celular": "(11) 95863-8542",
-            "id_usuarios": "1",
-            "data_transacao": "2025-12-09",
-            "hora_transacao": "16:02:52",
-            "ip": "104.22.10.218",
-            "excluido": "F",
-            "data_hora_atualizacao": "2025-12-09 16:02:52",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/adicionar-carrinho-lote\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/f0ec52188f481de910055eedc19ed6e9\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2025-07-24_18-43-09_1.jpg",
-                    "codigo": "51850",
-                    "produto": " Camiseta 40.1 Ultra Premium DIESEL (NLT001) - Cor: BRANCA - Tamanho: M ",
-                    "valor_unitario": "R$ 62,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 62,50",
-                    "categoria_principal": "CAMISETAS",
-                    "categoria": "Camiseta 40.1 Ultra Premium",
-                    "marca": "DIESEL"
                 }
             ]
         }
