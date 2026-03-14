@@ -1,7 +1,38 @@
 {
     "success": true,
-    "total_carrinhos": 741,
+    "total_carrinhos": 740,
     "lista_carrinhos": [
+        {
+            "id": "74568",
+            "id_clientes": "2404",
+            "chave_sessao": "320ad2205b431a21bd424f06c07d4fef",
+            "nome": "GUSTAVO RODRIGUES",
+            "email": "gustavo_rodrigues.ef@hotmail.com",
+            "celular": "(67) 99996-8279",
+            "id_usuarios": "1",
+            "data_transacao": "2026-02-25",
+            "hora_transacao": "20:55:08",
+            "ip": "172.69.201.154",
+            "excluido": "F",
+            "data_hora_atualizacao": "2026-03-14 13:18:30",
+            "id_clientes_loja_drop": "0",
+            "url_abandono": "fornecedoruss.com.br\/",
+            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
+            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/320ad2205b431a21bd424f06c07d4fef\/",
+            "produtos": [
+                {
+                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2025-01-29_12-32-11.webp",
+                    "codigo": "41112",
+                    "produto": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
+                    "valor_unitario": "R$ 67,50",
+                    "quantidade": "1",
+                    "valor_total": "R$ 67,50",
+                    "categoria_principal": "CUECAS",
+                    "categoria": "Kit cueca premium",
+                    "marca": "GUCCI"
+                }
+            ]
+        },
         {
             "id": "73875",
             "id_clientes": "1324",
@@ -251,37 +282,6 @@
                     "categoria_principal": "Tailandesa 1:1 encomenda",
                     "categoria": "CAMISA DE TIME TAILANDESA 1:1 TORCEDOR",
                     "marca": "Camisa de Time"
-                }
-            ]
-        },
-        {
-            "id": "74719",
-            "id_clientes": "8945",
-            "chave_sessao": "21fc50bf3c04635aca91a4d8a532c7ff",
-            "nome": "WILSON CESAR DEL MARCHI",
-            "email": "cesardelmarchi@hotmail.com",
-            "celular": "(18) 9912-17270",
-            "id_usuarios": "1",
-            "data_transacao": "2026-03-08",
-            "hora_transacao": "20:32:12",
-            "ip": "172.69.11.253",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-03-09 16:07:21",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/produto\/bermuda-microfibra-ultra-mauricinho-nike-lt060\/55714\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/21fc50bf3c04635aca91a4d8a532c7ff\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_4_2026-02-26_16-22-51.webp",
-                    "codigo": "56207",
-                    "produto": "Camisa Polo Lacoste piquet dupla importada - Cor: AZUL MARINHO - Marca: Lacoste - Tamanho: GG ",
-                    "valor_unitario": "R$ 125,00",
-                    "quantidade": "1",
-                    "valor_total": "R$ 125,00",
-                    "categoria_principal": "POLOS",
-                    "categoria": "Polo Piquet Duplo",
-                    "marca": "LACOSTE"
                 }
             ]
         },
@@ -9274,37 +9274,6 @@
                     "categoria_principal": "CAMISETAS",
                     "categoria": "Camiseta Waffle Texturizada",
                     "marca": "ZARA"
-                }
-            ]
-        },
-        {
-            "id": "74568",
-            "id_clientes": "2404",
-            "chave_sessao": "320ad2205b431a21bd424f06c07d4fef",
-            "nome": "GUSTAVO RODRIGUES",
-            "email": "gustavo_rodrigues.ef@hotmail.com",
-            "celular": "(67) 99996-8279",
-            "id_usuarios": "1",
-            "data_transacao": "2026-02-25",
-            "hora_transacao": "20:55:08",
-            "ip": "172.69.201.154",
-            "excluido": "F",
-            "data_hora_atualizacao": "2026-02-25 21:31:53",
-            "id_clientes_loja_drop": "0",
-            "url_abandono": "fornecedoruss.com.br\/",
-            "url_abandono_site": "https:\/\/fornecedoruss.com.br\/",
-            "url_carrinho_abandonado": "https:\/\/fornecedoruss.com.br\/recuperar-carrinho\/320ad2205b431a21bd424f06c07d4fef\/",
-            "produtos": [
-                {
-                    "imagem": "https:\/\/fornecedoruss.com.br\/imagensProdutos\/photo_2_2025-01-29_12-32-11.webp",
-                    "codigo": "41112",
-                    "produto": "Kit Cueca Premium na caixa de MADEIRA LT 11-A (C296) - Cor: PRETO CHUMBO MARINHO - Tamanho: M <br\/><mark><span>PROMOÇÃO<\/span><\/mark>",
-                    "valor_unitario": "R$ 67,50",
-                    "quantidade": "1",
-                    "valor_total": "R$ 67,50",
-                    "categoria_principal": "CUECAS",
-                    "categoria": "Kit cueca premium",
-                    "marca": "GUCCI"
                 }
             ]
         },
